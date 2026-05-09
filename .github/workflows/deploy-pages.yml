@@ -35,6 +35,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        with:
+          # First-run convenience: turn on GitHub Pages for this repo if
+          # it has not been enabled yet, so a fresh fork/clone deploys
+          # without manual repo-settings clicking.
+          enablement: true
 
       - name: Build static export
         run: npm run build
