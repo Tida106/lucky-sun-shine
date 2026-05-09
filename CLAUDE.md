@@ -94,8 +94,40 @@ npm run build        # 静的書き出し → out/
 が必要。
 
 ## 次にやること（運用初期）
-1. GitHub Pages を有効化（Settings → Pages → Source: GitHub Actions）
+1. ✅ GitHub Pages 有効化済み（API経由）
 2. カスタムドメイン DNS 設定 → HTTPS 自動発行を待つ
-3. seed 記事の `draft: false` 化と量産
+3. ✅ パワーストーン50種、シード記事公開済み
 4. Google Search Console / Analytics 連携
 5. Adsense / 楽天 / Amazon アフィリエイト導入（要審査）
+
+## 運用環境変数（GitHub Actions の Secrets / Variables）
+
+ビルド時に以下が読まれる。未設定でも動くがそれぞれ機能しない。
+
+| 変数 | 用途 | 例 |
+|---|---|---|
+| `NEXT_PUBLIC_SITE_URL`     | 各ページの絶対URL生成 | `https://lucky-sun-shine.com` |
+| `NEXT_PUBLIC_GA_ID`        | Google Analytics GA4 計測ID | `G-XXXXXXXXXX` |
+| `NEXT_PUBLIC_GSC_VERIFICATION` | Google Search Console の所有権確認用 metaタグの値 | `abc123...` |
+| `NEXT_PUBLIC_FORMSPREE_ID` | お問い合わせフォームの Formspree ID | `xpwadkva` |
+
+設定方法：
+1. リポジトリの Settings → Secrets and variables → Actions → Variables
+2. `NEXT_PUBLIC_GA_ID` 等を Variable として追加（Public な値なので Secret ではなく Variable）
+3. `.github/workflows/deploy-pages.yml` の `env:` ブロックに追記する形に拡張する
+4. push すると次のビルドから反映される
+
+## 一括記事生成
+
+```bash
+npm run gen:stones                # 既存ファイルがあればスキップ
+npm run gen:stones -- --force     # 強制上書き
+npm run gen:stones -- --date=YYYY-MM-DD
+```
+
+`data/powerstones.js` を編集 → 上記コマンドで `content/posts/` を更新。
+
+## 記事テンプレート
+
+- `content/templates/powerstone.md` — パワーストーン解説用
+- `content/templates/powerspot.md`  — パワースポット紹介用

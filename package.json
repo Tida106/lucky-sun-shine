@@ -10,7 +10,8 @@
     "build:fast": "next build",
     "start": "next start",
     "lint": "next lint",
-    "new:post": "node scripts/new-post.js"
+    "new:post": "node scripts/new-post.js",
+    "gen:stones": "node scripts/generate-stones.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

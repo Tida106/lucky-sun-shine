@@ -46,6 +46,13 @@ jobs:
         env:
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
           NEXT_PUBLIC_SITE_URL: https://lucky-sun-shine.com
+          # Optional repo Variables — if unset, the corresponding feature
+          # is disabled (e.g. no GA snippet, no GSC tag, default
+          # Formspree ID). Set them in:
+          # Settings → Secrets and variables → Actions → Variables.
+          NEXT_PUBLIC_GA_ID: ${{ vars.NEXT_PUBLIC_GA_ID }}
+          NEXT_PUBLIC_GSC_VERIFICATION: ${{ vars.NEXT_PUBLIC_GSC_VERIFICATION }}
+          NEXT_PUBLIC_FORMSPREE_ID: ${{ vars.NEXT_PUBLIC_FORMSPREE_ID }}
           NODE_OPTIONS: --max-old-space-size=4096
 
       - name: Upload artifact
