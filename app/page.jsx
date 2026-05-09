@@ -2,6 +2,8 @@ import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { categories } from '@/lib/categories';
 import PostCard from '@/components/PostCard';
+import PopularPosts from '@/components/PopularPosts';
+import Newsletter from '@/components/Newsletter';
 
 export const metadata = {
   title: 'Lucky Sun Shine | パワーストーン・パワースポット・開運の総合メディア',
@@ -63,23 +65,29 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Latest posts */}
-      <section className="max-w-6xl mx-auto px-4 py-10">
-        <div className="flex items-end justify-between mb-6">
-          <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-2">
-            <span>📖</span> 最新の記事
-          </h2>
-          <span className="text-sm text-ink-500">{posts.length} 記事</span>
-        </div>
-        {latest.length === 0 ? (
-          <p className="text-ink-500 text-sm">記事を準備中です。</p>
-        ) : (
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {latest.map((p) => (
-              <PostCard key={p.slug} post={p} />
-            ))}
+      {/* Latest posts + sidebar popular */}
+      <section className="max-w-6xl mx-auto px-4 py-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
+        <div className="min-w-0">
+          <div className="flex items-end justify-between mb-6">
+            <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-2">
+              <span>📖</span> 最新の記事
+            </h2>
+            <span className="text-sm text-ink-500 dark:text-amber-200">{posts.length} 記事</span>
           </div>
-        )}
+          {latest.length === 0 ? (
+            <p className="text-ink-500 text-sm">記事を準備中です。</p>
+          ) : (
+            <div className="grid gap-5 sm:grid-cols-2">
+              {latest.map((p) => (
+                <PostCard key={p.slug} post={p} />
+              ))}
+            </div>
+          )}
+        </div>
+        <div className="space-y-6">
+          <PopularPosts limit={5} />
+          <Newsletter />
+        </div>
       </section>
     </>
   );

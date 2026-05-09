@@ -10,6 +10,11 @@
   --color-accent: #f59e0b;
 }
 
+.dark {
+  --color-bg: #1a1410;
+  --color-fg: #fff4d6;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -20,6 +25,49 @@ body {
   font-family: 'Noto Sans JP', system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+/* Dark-mode prose overrides */
+.dark .prose-article {
+  color: #ffe4a3;
+}
+.dark .prose-article h2 {
+  color: #fff4d6;
+  border-left-color: #ffb627;
+}
+.dark .prose-article h3 {
+  color: #ffd166;
+}
+.dark .prose-article a {
+  color: #ffd166;
+}
+.dark .prose-article strong {
+  color: #ffe4a3;
+}
+.dark .prose-article blockquote {
+  background: #3b322a;
+  border-left-color: #ffb627;
+  color: #ffe4a3;
+}
+.dark .prose-article code {
+  background: #3b322a;
+  color: #ffe4a3;
+}
+.dark .prose-article hr {
+  border-top-color: #6b5d50;
+}
+.dark .prose-article th {
+  background: #3b322a;
+  color: #fff4d6;
+}
+.dark .prose-article th, .dark .prose-article td {
+  border-color: #6b5d50;
+}
+
+.dark .sunray-bg {
+  background:
+    radial-gradient(ellipse at 50% -10%, rgba(255, 209, 102, 0.18) 0%, transparent 55%),
+    linear-gradient(180deg, #1a1410 0%, #0d0905 60%);
 }
 
 /* Article prose styling — applied to the rendered Markdown body. */

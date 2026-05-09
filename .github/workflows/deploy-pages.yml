@@ -57,6 +57,7 @@ jobs:
           NEXT_PUBLIC_AMAZON_TAG: ${{ vars.NEXT_PUBLIC_AMAZON_TAG }}
           NEXT_PUBLIC_RAKUTEN_AFB: ${{ vars.NEXT_PUBLIC_RAKUTEN_AFB }}
           NEXT_PUBLIC_MOSHIMO_AID: ${{ vars.NEXT_PUBLIC_MOSHIMO_AID }}
+          NEXT_PUBLIC_NEWSLETTER_ENDPOINT: ${{ vars.NEXT_PUBLIC_NEWSLETTER_ENDPOINT }}
           NODE_OPTIONS: --max-old-space-size=4096
 
       - name: Upload artifact

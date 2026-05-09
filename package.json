@@ -5,14 +5,16 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/generate-ads-txt.js",
+    "prebuild": "node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/generate-ads-txt.js && node scripts/generate-search-index.js",
     "build": "next build",
     "build:fast": "next build",
     "start": "next start",
     "lint": "next lint",
     "new:post": "node scripts/new-post.js",
     "gen:stones": "node scripts/generate-stones.js",
-    "gen:spots": "node scripts/generate-spots.js"
+    "gen:spots": "node scripts/generate-spots.js",
+    "gen:content": "node scripts/generate-content.js",
+    "gen:all": "node scripts/generate-stones.js && node scripts/generate-spots.js && node scripts/generate-content.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
