@@ -53,6 +53,10 @@ jobs:
           NEXT_PUBLIC_GA_ID: ${{ vars.NEXT_PUBLIC_GA_ID }}
           NEXT_PUBLIC_GSC_VERIFICATION: ${{ vars.NEXT_PUBLIC_GSC_VERIFICATION }}
           NEXT_PUBLIC_FORMSPREE_ID: ${{ vars.NEXT_PUBLIC_FORMSPREE_ID }}
+          NEXT_PUBLIC_ADSENSE_CLIENT: ${{ vars.NEXT_PUBLIC_ADSENSE_CLIENT }}
+          NEXT_PUBLIC_AMAZON_TAG: ${{ vars.NEXT_PUBLIC_AMAZON_TAG }}
+          NEXT_PUBLIC_RAKUTEN_AFB: ${{ vars.NEXT_PUBLIC_RAKUTEN_AFB }}
+          NEXT_PUBLIC_MOSHIMO_AID: ${{ vars.NEXT_PUBLIC_MOSHIMO_AID }}
           NODE_OPTIONS: --max-old-space-size=4096
 
       - name: Upload artifact

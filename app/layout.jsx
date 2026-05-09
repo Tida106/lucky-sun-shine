@@ -2,6 +2,7 @@ import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
+import AdSense from '@/components/AdSense';
 import { site } from '@/lib/site';
 
 const GSC_VERIFICATION = process.env.NEXT_PUBLIC_GSC_VERIFICATION;
@@ -65,6 +66,7 @@ export default function RootLayout({ children }) {
         <main className="flex-1">{children}</main>
         <Footer />
         <Analytics />
+        <AdSense />
       </body>
     </html>
   );

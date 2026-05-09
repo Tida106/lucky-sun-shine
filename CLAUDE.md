@@ -110,6 +110,11 @@ npm run build        # 静的書き出し → out/
 | `NEXT_PUBLIC_GA_ID`        | Google Analytics GA4 計測ID | `G-XXXXXXXXXX` |
 | `NEXT_PUBLIC_GSC_VERIFICATION` | Google Search Console の所有権確認用 metaタグの値 | `abc123...` |
 | `NEXT_PUBLIC_FORMSPREE_ID` | お問い合わせフォームの Formspree ID | `xpwadkva` |
+| `NEXT_PUBLIC_ADSENSE_CLIENT` | Google AdSense クライアントID | `ca-pub-XXXXXXXXXXXXXXXX` |
+| `NEXT_PUBLIC_AMAZON_TAG` | Amazonアソシエイト トラッキングID | `luckysunshine-22` |
+| `NEXT_PUBLIC_RAKUTEN_AFB` | 楽天アフィリエイトID | `1A2B3C4D.XXXXXXXX...` |
+| `NEXT_PUBLIC_MOSHIMO_AID` | もしもアフィリエイト a_id（参考用） | `XXXXXXX` |
+| `ADSENSE_PUBLISHER_ID` | ads.txt用のpub-番号（pub-プレフィックスなし。`NEXT_PUBLIC_ADSENSE_CLIENT`があればそこから自動抽出） | `XXXXXXXXXXXXXXXX` |
 
 設定方法：
 1. リポジトリの Settings → Secrets and variables → Actions → Variables
@@ -120,12 +125,31 @@ npm run build        # 静的書き出し → out/
 ## 一括記事生成
 
 ```bash
+# パワーストーン
 npm run gen:stones                # 既存ファイルがあればスキップ
-npm run gen:stones -- --force     # 強制上書き
+npm run gen:stones -- --force     # 強制上書き（古い日付のファイルは自動削除）
 npm run gen:stones -- --date=YYYY-MM-DD
+
+# パワースポット
+npm run gen:spots
+npm run gen:spots -- --force --date=YYYY-MM-DD
 ```
 
-`data/powerstones.js` を編集 → 上記コマンドで `content/posts/` を更新。
+`data/powerstones.js` / `data/powerspots.js` / `data/powerstone-prices.js` を編集 → 上記コマンドで `content/posts/` を一括更新。
+
+## アフィリエイトコンポーネント
+
+`components/affiliate/` の以下を JSX ページから利用可能：
+- `<AmazonLink asin="B0XXXXXXX" title="..." price="..." />` — Amazonアソシエイト
+- `<RakutenLink url="https://item.rakuten.co.jp/..." title="..." price="..." />` — 楽天アフィリエイト
+- `<MoshimoLink url="..." impression="..." title="..." network="Amazon" />` — もしもアフィリエイト
+- `<ProductRow heading="..." amazon={...} rakuten={...} moshimo={...} />` — 横並びレイアウト
+
+## 広告コンポーネント
+
+- `<AdSense />` — `app/layout.jsx` で読み込み済み（layout 全体にAuto Adsローダーを配置）
+- `<AdUnit slot="..." />` — 記事内に手動で挿入する display ad（client component）
+- `public/ads.txt` — `prebuild` で自動生成（`NEXT_PUBLIC_ADSENSE_CLIENT` または `ADSENSE_PUBLISHER_ID` から）
 
 ## 記事テンプレート
 

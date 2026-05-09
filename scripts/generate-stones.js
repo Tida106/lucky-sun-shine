@@ -8,6 +8,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { stones } = require('../data/powerstones');
+const { prices } = require('../data/powerstone-prices');
 
 const args = process.argv.slice(2);
 const FORCE = args.includes('--force');
@@ -99,6 +100,23 @@ function body(stone) {
     push('');
   }
 
+  const price = prices[stone.slug];
+  if (price) {
+    push('## 価格相場');
+    push('');
+    push(`市販されている${stone.nameJa}の価格目安は以下のとおりです（2026年時点・A〜AAランク品）。`);
+    push('');
+    push('| 形状 | 相場 |');
+    push('|---|---|');
+    push(`| ブレスレット（8mm玉前後） | **${price.bracelet}** |`);
+    push(`| タンブル・さざれ石（50g） | **${price.tumble}** |`);
+    push('');
+    push(`> ${price.note}`);
+    push('');
+    push('価格は産地・グレード・大きさによって大きく変動します。鑑別書付き・透明感や色の濃さなど、複数の店舗で比較してから選ぶのがおすすめです。');
+    push('');
+  }
+
   push('## 偽物・人工石の見分け方');
   push('');
   push('- 天然石は色ムラや微細な内包物・クラックがあるのが自然な姿。');
@@ -125,18 +143,23 @@ let skipped = 0;
 for (const stone of stones) {
   const fname = `${today}-${stone.slug}.md`;
   const fpath = path.join(POSTS_DIR, fname);
-  if (fs.existsSync(fpath) && !FORCE) {
-    skipped++;
-    continue;
-  }
-  // Skip if a file with this slug already exists with a different date prefix.
+
+  // Find any existing file matching this slug, regardless of date prefix.
   const existing = fs
     .readdirSync(POSTS_DIR)
     .find((f) => f.endsWith(`-${stone.slug}.md`));
+
   if (existing && !FORCE) {
     skipped++;
     continue;
   }
+
+  // With --force, remove any older-dated file for this slug so we don't
+  // end up with two copies of the same article on different dates.
+  if (existing && existing !== fname) {
+    fs.unlinkSync(path.join(POSTS_DIR, existing));
+  }
+
   const md = `${frontmatter(stone)}\n${body(stone)}\n`;
   fs.writeFileSync(fpath, md);
   written++;
