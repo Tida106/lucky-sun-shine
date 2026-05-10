@@ -59,6 +59,29 @@ const channels = [
       'パワーストーン以外の開運の知識も広げたい人',
     ],
   },
+  {
+    name: '島田秀平のお開運巡り',
+    handle: '公式チャンネル',
+    url: 'https://www.youtube.com/channel/UCRRc9jvc6LP-MO2Cf0E7ZZA',
+    // Single-video embed: 高千穂・天岩戸神社の最強開運スポット紹介。
+    // 天照大神神話の聖地で、純粋な神社/パワースポット紹介として代表的。
+    videoId: 'HjY1WB7TV9E',
+    featuredVideoTitle: '高千穂 天岩戸神社のここが最強開運スポット',
+    genre: '開運・手相占い・パワースポット',
+    color: 'from-sky-100 to-indigo-100 dark:from-sky-900/40 dark:to-indigo-900/40',
+    accent: 'bg-indigo-600 hover:bg-indigo-700',
+    icon: '🔮',
+    intro: `芸能人手相占い師として知られる島田秀平氏が運営する開運チャンネル。
+    手相占いの基礎から、パワースポット紹介、専門家を招いた開運対談まで幅広く配信しています。
+    芸能界仕込みの軽快なトークでエンタメ性が高く、占いや開運初心者でも入りやすいのが魅力。
+    毎週火曜19時更新で、ゲストにシウマ氏など人気占い師も多数登場します。`,
+    targets: [
+      '占いや開運に興味があるけれど、難しい話は苦手な人',
+      'エンタメ感覚で楽しく運気を学びたい人',
+      '手相占いの基礎を初歩から知りたい人',
+      'シウマ氏など人気占い師の話をまとめて聴きたい人',
+    ],
+  },
 ];
 
 const RELATED = [
@@ -102,7 +125,7 @@ export default function RecommendYoutubePage() {
   };
 
   return (
-    <article className="max-w-5xl mx-auto px-4 py-10">
+    <article className="max-w-6xl mx-auto px-4 py-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
@@ -139,13 +162,13 @@ export default function RecommendYoutubePage() {
         <p className="text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
           このページでは、{site.publisherName} が実際に視聴している中から、
           <strong>開運・神社・パワースポット</strong> 系で
-          「<strong>これは本当に学びになる</strong>」と感じる2つのチャンネルを厳選して紹介します。
+          「<strong>これは本当に学びになる</strong>」と感じる3つのチャンネルを厳選して紹介します。
           記事と動画、両方をうまく組み合わせると、開運の理解は一気に立体的になります。
         </p>
       </section>
 
-      {/* Channel cards */}
-      <section className="grid gap-6 md:grid-cols-2">
+      {/* Channel cards — mobile: 1col / tablet: 2col(3rd alone) / desktop: 3col */}
+      <section className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {channels.map((c) => (
           <article
             key={c.name}
