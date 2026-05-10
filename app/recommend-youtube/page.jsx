@@ -20,7 +20,10 @@ const channels = [
     name: 'コヤッキースタジオ',
     handle: '@koyakky-st',
     url: 'https://www.youtube.com/@koyakky-st',
-    uploadsPlaylistId: 'UUmjOmXcwVXN3SOnW7tCO3vQ',
+    // Single-video embed: 寒川神社の紹介動画(八方除けで知られる相模国一之宮)。
+    // 神社・開運スポット紹介として政治・陰謀色のない代表動画を選定。
+    videoId: 'HJ4HqVCUgeE',
+    featuredVideoTitle: '2025年に絶対に行きたい、すべての災いを取り除く最強の神社（寒川神社）',
     genre: '都市伝説・神社・パワースポット考察',
     color: 'from-purple-100 to-rose-100 dark:from-purple-900/40 dark:to-rose-900/40',
     accent: 'bg-purple-500 hover:bg-purple-600',
@@ -148,11 +151,15 @@ export default function RecommendYoutubePage() {
             key={c.name}
             className={`rounded-2xl border border-amber-200 dark:border-amber-700 bg-gradient-to-br ${c.color} overflow-hidden flex flex-col`}
           >
-            {/* Live YouTube embed (channel uploads playlist — latest video plays first) */}
+            {/* Live YouTube embed: 単一動画指定があればそれを、なければ uploads プレイリストの最新動画 */}
             <div className="relative aspect-video bg-ink-900 overflow-hidden">
               <iframe
-                src={`https://www.youtube-nocookie.com/embed/videoseries?list=${c.uploadsPlaylistId}&rel=0`}
-                title={`${c.name} のYouTube動画`}
+                src={
+                  c.videoId
+                    ? `https://www.youtube-nocookie.com/embed/${c.videoId}?rel=0`
+                    : `https://www.youtube-nocookie.com/embed/videoseries?list=${c.uploadsPlaylistId}&rel=0`
+                }
+                title={`${c.name} のYouTube動画${c.featuredVideoTitle ? `：${c.featuredVideoTitle}` : ''}`}
                 loading="lazy"
                 referrerPolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
