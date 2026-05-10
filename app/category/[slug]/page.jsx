@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import PostCard from '@/components/PostCard';
+import RecommendSns from '@/components/RecommendSns';
 import { categories, getCategory, categorySlugs } from '@/lib/categories';
 import { getPostsByCategory } from '@/lib/posts';
 import { site } from '@/lib/site';
@@ -58,6 +59,8 @@ export default async function CategoryPage({ params }) {
             ))}
           </div>
         )}
+
+        {slug === 'luck-habits' && <RecommendSns />}
 
         <div className="mt-12 pt-6 border-t border-amber-200">
           <h3 className="text-sm font-bold mb-3 text-ink-700">他のカテゴリ</h3>
