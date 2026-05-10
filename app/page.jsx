@@ -5,6 +5,7 @@ import { categories } from '@/lib/categories';
 import PostCard from '@/components/PostCard';
 import PopularPosts from '@/components/PopularPosts';
 import Newsletter from '@/components/Newsletter';
+import CategoryIcon from '@/components/CategoryIcon';
 
 export const metadata = {
   title: 'Lucky Sun Shine | パワーストーン・パワースポット・開運の総合メディア',
@@ -72,7 +73,7 @@ export default function HomePage() {
               href={`/category/${c.slug}/`}
               className={`group block rounded-2xl p-5 bg-gradient-to-br ${c.color} border border-white/60 hover:scale-[1.02] transition-transform`}
             >
-              <div className="text-4xl mb-2">{c.icon}</div>
+              <CategoryIcon slug={c.slug} className="w-9 h-9 mb-2 text-amber-600 dark:text-amber-500" />
               <h3 className="font-display font-bold text-lg text-ink-900">{c.title}</h3>
               <p className="mt-1 text-xs text-ink-700 leading-relaxed">{c.tagline}</p>
             </Link>
