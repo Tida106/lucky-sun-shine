@@ -13,6 +13,15 @@ export default function Footer() {
             <span className="font-display text-lg font-bold text-amber-900">{site.name}</span>
           </div>
           <p className="mt-3 text-sm text-ink-700 leading-relaxed">{site.tagline}</p>
+
+          <Link
+            href="/recommend-youtube/"
+            className="mt-5 inline-flex items-center gap-2 px-4 py-2 rounded-full bg-red-600 hover:bg-red-700 text-white text-sm font-bold shadow-sm transition-colors"
+          >
+            <span aria-hidden="true">📺</span>
+            おすすめチャンネル
+            <span aria-hidden="true">→</span>
+          </Link>
         </div>
         <div>
           <h3 className="font-bold text-ink-900 mb-2">カテゴリ</h3>
@@ -24,6 +33,11 @@ export default function Footer() {
                 </Link>
               </li>
             ))}
+            <li>
+              <Link href="/recommend-youtube/" className="hover:text-amber-700">
+                📺 おすすめチャンネル
+              </Link>
+            </li>
           </ul>
         </div>
         <div>
@@ -34,7 +48,6 @@ export default function Footer() {
             <li><Link href="/privacy/" className="hover:text-amber-700">プライバシーポリシー</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">免責事項</Link></li>
             <li><Link href="/contact/" className="hover:text-amber-700">お問い合わせ</Link></li>
-            <li><Link href="/recommend-youtube/" className="hover:text-amber-700">おすすめチャンネル</Link></li>
             <li><Link href="/tags/" className="hover:text-amber-700">タグ一覧</Link></li>
             <li><Link href="/search/" className="hover:text-amber-700">サイト内検索</Link></li>
             <li><a href="/rss.xml" className="hover:text-amber-700">RSS</a></li>

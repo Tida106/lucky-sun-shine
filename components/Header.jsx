@@ -12,17 +12,24 @@ export default function Header() {
             Lucky Sun Shine
           </span>
         </Link>
-        <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-ink-700 dark:text-amber-100">
+        <nav className="hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 dark:text-amber-100 flex-wrap justify-end">
           {categories.map((c) => (
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className="hover:text-amber-700 dark:hover:text-amber-300 transition-colors"
+              className="hover:text-amber-700 dark:hover:text-amber-300 transition-colors whitespace-nowrap"
             >
               <span className="mr-1">{c.icon}</span>
               {c.title}
             </Link>
           ))}
+          <Link
+            href="/recommend-youtube/"
+            className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50 transition-colors whitespace-nowrap"
+          >
+            <span aria-hidden="true">📺</span>
+            おすすめチャンネル
+          </Link>
         </nav>
         <div className="flex items-center gap-2">
           <Link
@@ -47,6 +54,12 @@ export default function Header() {
               {c.icon} {c.title}
             </Link>
           ))}
+          <Link
+            href="/recommend-youtube/"
+            className="whitespace-nowrap px-3 py-1.5 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50"
+          >
+            📺 おすすめチャンネル
+          </Link>
         </div>
       </nav>
     </header>
