@@ -24,8 +24,8 @@ export default function HomePage() {
             ☀️ LUCKY SUN SHINE ☀️
           </p>
           <h1 className="mt-4 font-display text-3xl md:text-5xl font-extrabold text-ink-900 leading-tight">
-            太陽のように、<br className="md:hidden" />
-            運気を呼び込む暮らしを。
+            太陽のように<br className="md:hidden" />
+            明るい毎日を。
           </h1>
           <p className="mt-5 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
             パワーストーン・パワースポット・開運グッズ・運気アップ習慣。<br />
