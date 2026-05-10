@@ -29,10 +29,10 @@ export default function HomePage() {
           aria-hidden="true"
           className="object-cover object-center -z-10 select-none pointer-events-none"
         />
-        {/* Readability overlay — keeps amber/ink type legible over the photo */}
+        {/* Readability overlay — 60–70% white veil keeps amber/ink type legible */}
         <div
           aria-hidden="true"
-          className="absolute inset-0 -z-10 bg-gradient-to-b from-white/80 via-white/65 to-white/85 dark:from-ink-900/75 dark:via-ink-900/60 dark:to-ink-900/85"
+          className="absolute inset-0 -z-10 bg-gradient-to-b from-white/70 via-white/60 to-white/70 dark:from-ink-900/75 dark:via-ink-900/60 dark:to-ink-900/80"
         />
         <div className="max-w-6xl mx-auto px-4 pt-12 pb-14 md:pt-20 md:pb-20 text-center">
           <p className="text-amber-700 dark:text-amber-300 tracking-widest text-xs md:text-sm font-bold">
