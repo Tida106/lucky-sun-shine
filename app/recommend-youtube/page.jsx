@@ -20,6 +20,7 @@ const channels = [
     name: 'コヤッキースタジオ',
     handle: '@koyakky-st',
     url: 'https://www.youtube.com/@koyakky-st',
+    uploadsPlaylistId: 'UUmjOmXcwVXN3SOnW7tCO3vQ',
     genre: '都市伝説・神社・パワースポット考察',
     color: 'from-purple-100 to-rose-100 dark:from-purple-900/40 dark:to-rose-900/40',
     accent: 'bg-purple-500 hover:bg-purple-600',
@@ -39,6 +40,7 @@ const channels = [
     name: '神社ソムリエのあやかりチャンネル',
     handle: '@あやかりチャンネル',
     url: 'https://www.youtube.com/@あやかりチャンネル',
+    uploadsPlaylistId: 'UU0Wv49l3qlIdFX69FKD3y1g',
     genre: '神社・神話・開運',
     color: 'from-amber-100 to-emerald-100 dark:from-amber-900/40 dark:to-emerald-900/40',
     accent: 'bg-emerald-600 hover:bg-emerald-700',
@@ -146,23 +148,17 @@ export default function RecommendYoutubePage() {
             key={c.name}
             className={`rounded-2xl border border-amber-200 dark:border-amber-700 bg-gradient-to-br ${c.color} overflow-hidden flex flex-col`}
           >
-            {/* Thumbnail-style header */}
-            <div className="relative aspect-video bg-ink-900 flex items-center justify-center overflow-hidden">
-              {/* Sun rays decoration */}
-              <div className="absolute inset-0 opacity-30 bg-sun-radial" />
-              <div className="relative text-center text-white">
-                <div className="text-6xl mb-2">{c.icon}</div>
-                <div className="font-display text-lg font-bold drop-shadow">
-                  {c.name}
-                </div>
-              </div>
-              {/* YouTube badge */}
-              <div className="absolute top-3 right-3 bg-red-600 text-white text-[10px] font-bold px-2 py-1 rounded flex items-center gap-1 shadow">
-                <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true">
-                  <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6a3 3 0 0 0-2.1 2.1C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.3 3.6-6.3 3.6z"/>
-                </svg>
-                YouTube
-              </div>
+            {/* Live YouTube embed (channel uploads playlist — latest video plays first) */}
+            <div className="relative aspect-video bg-ink-900 overflow-hidden">
+              <iframe
+                src={`https://www.youtube-nocookie.com/embed/videoseries?list=${c.uploadsPlaylistId}&rel=0`}
+                title={`${c.name} のYouTube動画`}
+                loading="lazy"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowFullScreen
+                className="absolute inset-0 w-full h-full border-0"
+              />
             </div>
 
             {/* Body */}
@@ -170,8 +166,9 @@ export default function RecommendYoutubePage() {
               <div className="text-xs font-bold text-amber-700 dark:text-amber-300 tracking-wider">
                 {c.genre}
               </div>
-              <h2 className="mt-1 font-display text-xl md:text-2xl font-extrabold text-ink-900 dark:text-amber-50">
-                {c.name}
+              <h2 className="mt-1 font-display text-xl md:text-2xl font-extrabold text-ink-900 dark:text-amber-50 flex items-center gap-2">
+                <span aria-hidden="true">{c.icon}</span>
+                <span>{c.name}</span>
               </h2>
               <div className="text-xs text-ink-500 dark:text-amber-200 mt-0.5">
                 {c.handle}
