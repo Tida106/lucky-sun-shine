@@ -48,6 +48,7 @@ export default function Footer() {
             <li><Link href="/privacy/" className="hover:text-amber-700">プライバシーポリシー</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">免責事項</Link></li>
             <li><Link href="/contact/" className="hover:text-amber-700">お問い合わせ</Link></li>
+            <li><Link href="/recommend-youtube/" className="hover:text-amber-700">おすすめチャンネル</Link></li>
             <li><Link href="/tags/" className="hover:text-amber-700">タグ一覧</Link></li>
             <li><Link href="/search/" className="hover:text-amber-700">サイト内検索</Link></li>
             <li><a href="/rss.xml" className="hover:text-amber-700">RSS</a></li>
