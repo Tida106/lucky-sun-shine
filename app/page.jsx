@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { categories } from '@/lib/categories';
@@ -18,16 +19,30 @@ export default function HomePage() {
   return (
     <>
       {/* Hero */}
-      <section className="relative overflow-hidden">
+      <section className="relative overflow-hidden isolate">
+        <Image
+          src="/images/hero-crystals.webp"
+          alt=""
+          fill
+          priority
+          sizes="100vw"
+          aria-hidden="true"
+          className="object-cover object-center -z-10 select-none pointer-events-none"
+        />
+        {/* Readability overlay — keeps amber/ink type legible over the photo */}
+        <div
+          aria-hidden="true"
+          className="absolute inset-0 -z-10 bg-gradient-to-b from-white/80 via-white/65 to-white/85 dark:from-ink-900/75 dark:via-ink-900/60 dark:to-ink-900/85"
+        />
         <div className="max-w-6xl mx-auto px-4 pt-12 pb-14 md:pt-20 md:pb-20 text-center">
-          <p className="text-amber-700 tracking-widest text-xs md:text-sm font-bold">
+          <p className="text-amber-700 dark:text-amber-300 tracking-widest text-xs md:text-sm font-bold">
             ☀️ LUCKY SUN SHINE ☀️
           </p>
-          <h1 className="mt-4 font-display text-3xl md:text-5xl font-extrabold text-ink-900 leading-tight">
+          <h1 className="mt-4 font-display text-3xl md:text-5xl font-extrabold text-ink-900 dark:text-amber-50 leading-tight drop-shadow-[0_1px_1px_rgba(255,255,255,0.6)] dark:drop-shadow-[0_1px_1px_rgba(0,0,0,0.6)]">
             太陽のように<br className="md:hidden" />
             明るい毎日を。
           </h1>
-          <p className="mt-5 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
+          <p className="mt-5 max-w-2xl mx-auto text-ink-700 dark:text-amber-100 text-sm md:text-base leading-relaxed">
             パワーストーン・パワースポット・開運グッズ・運気アップ習慣。<br />
             日々の暮らしに「ちょっといい兆し」を取り入れるためのメディアです。
           </p>
@@ -36,7 +51,7 @@ export default function HomePage() {
               <Link
                 key={c.slug}
                 href={`/category/${c.slug}/`}
-                className="px-4 py-2 rounded-full bg-white border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
+                className="px-4 py-2 rounded-full bg-white/90 backdrop-blur-sm border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
               >
                 {c.icon} {c.title}
               </Link>
