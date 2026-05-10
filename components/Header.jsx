@@ -28,7 +28,7 @@ export default function Header() {
             className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50 transition-colors whitespace-nowrap"
           >
             <span aria-hidden="true">📺</span>
-            おすすめチャンネル
+            おすすめYouTubeチャンネル
           </Link>
         </nav>
         <div className="flex items-center gap-2">
@@ -58,7 +58,7 @@ export default function Header() {
             href="/recommend-youtube/"
             className="whitespace-nowrap px-3 py-1.5 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50"
           >
-            📺 おすすめチャンネル
+            📺 おすすめYouTubeチャンネル
           </Link>
         </div>
       </nav>
