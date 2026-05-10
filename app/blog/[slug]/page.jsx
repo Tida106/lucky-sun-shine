@@ -2,10 +2,11 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes } from '@/lib/posts';
 import { getCategory } from '@/lib/categories';
-import { site } from '@/lib/site';
+import { site, author as siteAuthor } from '@/lib/site';
 import RelatedProducts from '@/components/RelatedProducts';
 import Sidebar from '@/components/Sidebar';
 import AdUnit from '@/components/AdUnit';
+import AuthorBio from '@/components/AuthorBio';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -43,6 +44,7 @@ export default async function BlogPostPage({ params }) {
   const cat = getCategory(post.category);
   const minutes = readingTimeMinutes(post.content);
 
+  const authorName = post.author || siteAuthor.name;
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
@@ -51,10 +53,22 @@ export default async function BlogPostPage({ params }) {
     keywords: post.tags.join(', '),
     url: `${site.url}/blog/${post.slug}/`,
     datePublished: post.date,
-    dateModified: post.date,
+    dateModified: post.updated || post.date,
     inLanguage: site.language,
-    author: { '@type': 'Organization', name: site.name, url: site.url },
-    publisher: { '@type': 'Organization', name: site.name, url: site.url },
+    author: {
+      '@type': 'Person',
+      name: authorName,
+      url: `${site.url}/operator/`,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: site.name,
+      url: site.url,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${site.url}/apple-touch-icon.svg`,
+      },
+    },
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `${site.url}/blog/${post.slug}/`,
@@ -110,8 +124,6 @@ export default async function BlogPostPage({ params }) {
             <span className="px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-800 font-medium">
               {cat?.icon} {cat?.title}
             </span>
-            <time dateTime={post.date}>{formatDate(post.date)}</time>
-            <span>·</span>
             <span>約{minutes}分で読了</span>
           </div>
           <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900 dark:text-amber-50">
@@ -120,6 +132,47 @@ export default async function BlogPostPage({ params }) {
           {post.description && (
             <p className="mt-4 text-ink-700 dark:text-amber-100 leading-relaxed">{post.description}</p>
           )}
+
+          {/* Byline: author + published + updated */}
+          <div className="mt-5 pt-4 border-t border-amber-100 dark:border-amber-800 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-ink-500 dark:text-amber-200">
+            <Link href="/operator/" className="flex items-center gap-2 group">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={siteAuthor.avatar}
+                alt={authorName}
+                width="32"
+                height="32"
+                className="rounded-full bg-white border border-amber-200 dark:border-amber-700"
+              />
+              <span>
+                <span className="block text-[10px] tracking-widest text-amber-700 dark:text-amber-300 font-bold">
+                  AUTHOR
+                </span>
+                <span className="font-bold text-ink-900 dark:text-amber-50 group-hover:text-amber-700 dark:group-hover:text-amber-300">
+                  {authorName}
+                </span>
+              </span>
+            </Link>
+            <span className="hidden sm:block w-px h-8 bg-amber-200 dark:bg-amber-700" />
+            <span>
+              <span className="block text-[10px] tracking-widest text-amber-700 dark:text-amber-300 font-bold">
+                PUBLISHED
+              </span>
+              <time dateTime={post.date} className="font-bold text-ink-900 dark:text-amber-50">
+                {formatDate(post.date)}
+              </time>
+            </span>
+            {post.updated && post.updated !== post.date && (
+              <span>
+                <span className="block text-[10px] tracking-widest text-amber-700 dark:text-amber-300 font-bold">
+                  UPDATED
+                </span>
+                <time dateTime={post.updated} className="font-bold text-ink-900 dark:text-amber-50">
+                  {formatDate(post.updated)}
+                </time>
+              </span>
+            )}
+          </div>
         </header>
 
         <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
@@ -130,6 +183,8 @@ export default async function BlogPostPage({ params }) {
         </div>
 
         <RelatedProducts post={post} />
+
+        <AuthorBio />
 
         {post.tags?.length > 0 && (
           <div className="mt-10 pt-6 border-t border-amber-200 dark:border-amber-700">

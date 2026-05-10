@@ -43,8 +43,10 @@ function build() {
   const entries = [];
 
   entries.push(urlEntry(`${SITE_URL}${BASE}/`, today, 'daily', '1.0'));
-  entries.push(urlEntry(`${SITE_URL}${BASE}/about/`, today, 'monthly', '0.5'));
-  entries.push(urlEntry(`${SITE_URL}${BASE}/operator/`, today, 'monthly', '0.5'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/start-here/`, today, 'monthly', '0.7'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/about/`, today, 'monthly', '0.6'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/operator/`, today, 'monthly', '0.6'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/editorial-policy/`, today, 'monthly', '0.5'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/privacy/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/disclaimer/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/contact/`, today, 'yearly', '0.3'));

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff4d6"/>
+      <stop offset="60%" stop-color="#ffe4a3"/>
+      <stop offset="100%" stop-color="#ffd166" stop-opacity="0.55"/>
+    </radialGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5a3a22"/>
+      <stop offset="100%" stop-color="#3a2415"/>
+    </linearGradient>
+    <linearGradient id="cloth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5b9c4"/>
+      <stop offset="100%" stop-color="#e0879b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background halo (sun rays) -->
+  <circle cx="100" cy="100" r="98" fill="url(#halo)"/>
+  <g stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" opacity="0.45">
+    <line x1="100" y1="6"   x2="100" y2="20"/>
+    <line x1="100" y1="180" x2="100" y2="194"/>
+    <line x1="6"   y1="100" x2="20"  y2="100"/>
+    <line x1="180" y1="100" x2="194" y2="100"/>
+    <line x1="33"  y1="33"  x2="43"  y2="43"/>
+    <line x1="157" y1="157" x2="167" y2="167"/>
+    <line x1="33"  y1="167" x2="43"  y2="157"/>
+    <line x1="157" y1="43"  x2="167" y2="33"/>
+  </g>
+
+  <!-- shoulders / clothing -->
+  <path d="M40 200 Q 60 140 100 140 Q 140 140 160 200 Z" fill="url(#cloth)"/>
+
+  <!-- neck -->
+  <rect x="90" y="118" width="20" height="20" fill="#f4cca6"/>
+
+  <!-- face -->
+  <ellipse cx="100" cy="100" rx="38" ry="44" fill="#f9d8b5"/>
+
+  <!-- hair (long bob) -->
+  <path d="M62 100 Q 60 56 100 52 Q 140 56 138 100 L 142 145 Q 130 138 130 110
+           Q 130 84 100 80 Q 70 84 70 110 Q 70 138 58 145 Z"
+        fill="url(#hair)"/>
+
+  <!-- side bangs -->
+  <path d="M64 92 Q 70 70 92 72 Q 86 84 80 96 Z" fill="url(#hair)"/>
+  <path d="M136 92 Q 130 70 108 72 Q 114 84 120 96 Z" fill="url(#hair)"/>
+
+  <!-- eyes (closed, smiling arcs) -->
+  <path d="M82 105 Q 87 100 92 105" stroke="#3a2415" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M108 105 Q 113 100 118 105" stroke="#3a2415" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- cheeks -->
+  <ellipse cx="80" cy="116" rx="6" ry="3" fill="#ffb8a8" opacity="0.85"/>
+  <ellipse cx="120" cy="116" rx="6" ry="3" fill="#ffb8a8" opacity="0.85"/>
+
+  <!-- mouth (gentle smile) -->
+  <path d="M93 124 Q 100 130 107 124" stroke="#a55a3e" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- earring (small powerstone) -->
+  <circle cx="64" cy="112" r="3.5" fill="#f5b9c4" stroke="#a55a3e" stroke-width="0.5"/>
+  <circle cx="136" cy="112" r="3.5" fill="#f5b9c4" stroke="#a55a3e" stroke-width="0.5"/>
+</svg>
