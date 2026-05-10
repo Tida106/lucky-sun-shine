@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { author } from '@/lib/site';
+import { site } from '@/lib/site';
 
 export const metadata = {
   title: '記事作成方針｜Lucky Sun Shine',
@@ -16,7 +16,7 @@ export default function EditorialPolicyPage() {
           記事作成方針
         </h1>
         <p className="mt-3 text-sm text-ink-700 dark:text-amber-100">
-          {author.name} と編集チームが守っている記事の作り方。
+          {site.publisherName} が守っている記事の作り方。
         </p>
       </header>
 
@@ -27,11 +27,10 @@ export default function EditorialPolicyPage() {
         誠実にお届けすることを目指しています。
       </p>
 
-      <h2>1. 体験ベース執筆</h2>
+      <h2>1. 取材ベース執筆</h2>
       <ul>
         <li><strong>パワーストーン記事</strong>：紹介する石は実際に編集チームが手に取り、産地違い・グレード違いを比較して書きます。鉱物専門店・ミネラルショーで触れた経験を反映しています。</li>
-        <li><strong>パワースポット記事</strong>：原則として、編集長または編集チームが実際に参拝・訪問した場所のみ記事化します（一部、地域的に難しい場所は公式情報＋現地訪問者の記録を二次資料として明示）。</li>
-        <li><strong>体験談セクション</strong>：個人的な使用感は「編集長の体験談」として明示。一般化せず、あくまで個人の感想として書きます。</li>
+        <li><strong>パワースポット記事</strong>：原則として、編集チームが実際に参拝・訪問した場所のみ記事化します（一部、地域的に難しい場所は公式情報＋現地訪問者の記録を二次資料として明示）。</li>
       </ul>
 
       <h2>2. 一次情報の重視</h2>
@@ -84,7 +83,7 @@ export default function EditorialPolicyPage() {
       <h2>8. AI・自動生成について</h2>
       <p>
         記事の構成・下書きの一部に、業務効率化のため AI ツールを補助的に活用することがあります。
-        ただし<strong>すべての記事は編集長または編集チームが事実確認・体験との突合・推敲を行ったうえで公開</strong>しています。
+        ただし<strong>すべての記事は編集チームが事実確認・推敲を行ったうえで公開</strong>しています。
         AI 出力をそのまま掲載することはありません。
       </p>
 

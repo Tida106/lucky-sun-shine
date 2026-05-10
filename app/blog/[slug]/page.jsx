@@ -2,11 +2,10 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes } from '@/lib/posts';
 import { getCategory } from '@/lib/categories';
-import { site, author as siteAuthor } from '@/lib/site';
+import { site } from '@/lib/site';
 import RelatedProducts from '@/components/RelatedProducts';
 import Sidebar from '@/components/Sidebar';
 import AdUnit from '@/components/AdUnit';
-import AuthorBio from '@/components/AuthorBio';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -44,7 +43,7 @@ export default async function BlogPostPage({ params }) {
   const cat = getCategory(post.category);
   const minutes = readingTimeMinutes(post.content);
 
-  const authorName = post.author || siteAuthor.name;
+  const authorName = post.author || site.publisherName;
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
@@ -56,9 +55,9 @@ export default async function BlogPostPage({ params }) {
     dateModified: post.updated || post.date,
     inLanguage: site.language,
     author: {
-      '@type': 'Person',
+      '@type': 'Organization',
       name: authorName,
-      url: `${site.url}/operator/`,
+      url: site.url,
     },
     publisher: {
       '@type': 'Organization',
@@ -133,27 +132,8 @@ export default async function BlogPostPage({ params }) {
             <p className="mt-4 text-ink-700 dark:text-amber-100 leading-relaxed">{post.description}</p>
           )}
 
-          {/* Byline: author + published + updated */}
+          {/* Byline: published / updated */}
           <div className="mt-5 pt-4 border-t border-amber-100 dark:border-amber-800 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-ink-500 dark:text-amber-200">
-            <Link href="/operator/" className="flex items-center gap-2 group">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={siteAuthor.avatar}
-                alt={authorName}
-                width="32"
-                height="32"
-                className="rounded-full bg-white border border-amber-200 dark:border-amber-700"
-              />
-              <span>
-                <span className="block text-[10px] tracking-widest text-amber-700 dark:text-amber-300 font-bold">
-                  AUTHOR
-                </span>
-                <span className="font-bold text-ink-900 dark:text-amber-50 group-hover:text-amber-700 dark:group-hover:text-amber-300">
-                  {authorName}
-                </span>
-              </span>
-            </Link>
-            <span className="hidden sm:block w-px h-8 bg-amber-200 dark:bg-amber-700" />
             <span>
               <span className="block text-[10px] tracking-widest text-amber-700 dark:text-amber-300 font-bold">
                 PUBLISHED
@@ -183,8 +163,6 @@ export default async function BlogPostPage({ params }) {
         </div>
 
         <RelatedProducts post={post} />
-
-        <AuthorBio />
 
         {post.tags?.length > 0 && (
           <div className="mt-10 pt-6 border-t border-amber-200 dark:border-amber-700">

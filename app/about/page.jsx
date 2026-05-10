@@ -1,10 +1,10 @@
 import Link from 'next/link';
-import { site, author } from '@/lib/site';
+import { site } from '@/lib/site';
 import { categories } from '@/lib/categories';
 
 export const metadata = {
   title: 'このサイトについて',
-  description: `${site.name} は、編集長 ${author.name} が運営する、パワーストーン・パワースポット・開運グッズ・運気アップ習慣の総合メディアです。`,
+  description: `${site.name} は、パワーストーン・パワースポット・開運グッズ・運気アップ習慣の総合メディアです。`,
   alternates: { canonical: '/about/' },
 };
 
@@ -37,15 +37,10 @@ export default function AboutPage() {
           逆に「全部プラセボ」と切り捨てる<strong>冷たい否定</strong>かのどちらかに偏りがちです。
         </p>
         <p>
-          編集長の <strong>{author.name}</strong> 自身が、人生の苦しい時期に1つのパワーストーンに救われた経験から、
-          「効果を断定しないけれど、確かに役立つ<strong>お守りとしての価値</strong>がある」と感じてきました。
-          このサイトは、そんな<strong>中庸な距離感</strong>から、パワーストーンと開運の文化を伝えていきたい――
+          {site.name} は、そうした極端な距離感ではなく、
+          <strong>「効果を断定しないけれど、確かに役立つお守りとしての価値がある」</strong>
+          という中庸な立場から、パワーストーンと開運の文化を伝えていきたい――
           そんな思いから始まりました。
-        </p>
-        <p className="not-prose">
-          <Link href="/operator/" className="inline-block text-amber-800 dark:text-amber-200 underline">
-            → 編集長 {author.name} の自己紹介を読む
-          </Link>
         </p>
 
         <h2>扱う4つのテーマ</h2>
@@ -69,7 +64,7 @@ export default function AboutPage() {
       <section className="mt-10 prose-article">
         <h2>記事の3つの約束</h2>
         <ol>
-          <li><strong>体験ベース</strong>：紹介する石は実際に手に取り、神社は実際に訪問してから書きます。</li>
+          <li><strong>取材ベース</strong>：紹介する石は実際に手に取り、神社は実際に訪問してから書きます。</li>
           <li><strong>誠実な表現</strong>：効果を断定せず、「〜と言われる」を徹底。医療・金銭判断はご自身の責任で行うよう注釈を入れます。</li>
           <li><strong>更新主義</strong>：価格・情報は変動するもの。気づいたら随時更新し、更新日を明示します。</li>
         </ol>
@@ -83,15 +78,13 @@ export default function AboutPage() {
         <ul>
           <li><strong>サイト名</strong>：{site.name}</li>
           <li><strong>URL</strong>：{site.url}</li>
-          <li><strong>運営者</strong>：{author.name}（<Link href="/operator/">プロフィール</Link>）</li>
+          <li><strong>運営</strong>：{site.publisherName}</li>
           <li><strong>運営開始</strong>：2026年5月</li>
           <li><strong>記事カテゴリ</strong>：パワーストーン / パワースポット / 開運グッズ / 運気アップ習慣</li>
         </ul>
 
         <h2>もっと知りたい方へ</h2>
         <ul>
-          <li><Link href="/start-here/">はじめての方へ｜サイトの歩き方</Link></li>
-          <li><Link href="/operator/">運営者プロフィール</Link></li>
           <li><Link href="/editorial-policy/">記事作成方針</Link></li>
           <li><Link href="/privacy/">プライバシーポリシー</Link></li>
           <li><Link href="/disclaimer/">免責事項</Link></li>

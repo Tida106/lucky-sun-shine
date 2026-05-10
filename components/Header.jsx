@@ -26,12 +26,6 @@ export default function Header() {
         </nav>
         <div className="flex items-center gap-2">
           <Link
-            href="/start-here/"
-            className="hidden md:inline-block px-3 py-1.5 rounded-full bg-amber-500 hover:bg-amber-600 text-white text-xs font-bold transition-colors"
-          >
-            はじめての方へ
-          </Link>
-          <Link
             href="/search/"
             aria-label="サイト内検索"
             className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-amber-200 dark:border-amber-700 hover:bg-amber-50 dark:hover:bg-ink-700 transition-colors text-amber-700 dark:text-amber-300"

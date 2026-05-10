@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { site, author } from '@/lib/site';
+import { site } from '@/lib/site';
 
 export const metadata = {
   title: '開運に役立つおすすめYouTubeチャンネル',
@@ -129,27 +129,14 @@ export default function RecommendYoutubePage() {
         </p>
       </header>
 
-      {/* Editor's note */}
-      <section className="rounded-2xl bg-gradient-to-br from-amber-50 to-rose-50 dark:from-amber-900/40 dark:to-rose-900/40 border border-amber-200 dark:border-amber-700 p-5 md:p-6 flex items-start gap-4 mb-10">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={author.avatar}
-          alt={`${author.name} のアバター`}
-          width="72"
-          height="72"
-          className="flex-shrink-0 rounded-full bg-white shadow-sm w-16 h-16 md:w-18 md:h-18"
-        />
-        <div className="min-w-0">
-          <div className="text-xs text-amber-700 dark:text-amber-300 font-bold tracking-widest">
-            EDITOR'S NOTE
-          </div>
-          <p className="mt-1 text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
-            このページでは、編集長の <strong>{author.name}</strong> が
-            実際に毎週視聴している中から、特に <strong>開運・神社・パワースポット</strong> 系で
-            「<strong>これは本当に学びになる</strong>」と感じる2つのチャンネルを厳選して紹介します。
-            記事と動画、両方をうまく組み合わせると、開運の理解は一気に立体的になります。
-          </p>
-        </div>
+      {/* Intro */}
+      <section className="rounded-2xl bg-gradient-to-br from-amber-50 to-rose-50 dark:from-amber-900/40 dark:to-rose-900/40 border border-amber-200 dark:border-amber-700 p-5 md:p-6 mb-10">
+        <p className="text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+          このページでは、{site.publisherName} が実際に視聴している中から、
+          <strong>開運・神社・パワースポット</strong> 系で
+          「<strong>これは本当に学びになる</strong>」と感じる2つのチャンネルを厳選して紹介します。
+          記事と動画、両方をうまく組み合わせると、開運の理解は一気に立体的になります。
+        </p>
       </section>
 
       {/* Channel cards */}
@@ -262,20 +249,12 @@ export default function RecommendYoutubePage() {
             </li>
           ))}
         </ul>
-        <div className="mt-6 text-center">
-          <Link
-            href="/start-here/"
-            className="inline-block px-5 py-2.5 rounded-full bg-amber-500 hover:bg-amber-600 text-white font-bold text-sm transition-colors"
-          >
-            🌟 はじめての方へ（サイトの歩き方）
-          </Link>
-        </div>
       </section>
 
       {/* Disclaimer */}
       <section className="mt-12 text-xs text-ink-500 dark:text-amber-200 leading-relaxed">
         <p>
-          ※ 紹介しているチャンネルは編集長個人の視聴体験に基づく推薦であり、
+          ※ 紹介しているチャンネルは{site.publisherName}の視聴体験に基づく推薦であり、
           各チャンネルの運営者様とは資本関係・PR関係はありません。
           各チャンネル内で発信される情報の正確性・効果については、各チャンネル運営者の責任に帰属します。
         </p>

@@ -29,9 +29,7 @@ export default function Footer() {
         <div>
           <h3 className="font-bold text-ink-900 mb-2">サイト情報</h3>
           <ul className="space-y-1 text-sm">
-            <li><Link href="/start-here/" className="hover:text-amber-700">はじめての方へ</Link></li>
             <li><Link href="/about/" className="hover:text-amber-700">このサイトについて</Link></li>
-            <li><Link href="/operator/" className="hover:text-amber-700">運営者プロフィール</Link></li>
             <li><Link href="/editorial-policy/" className="hover:text-amber-700">記事作成方針</Link></li>
             <li><Link href="/privacy/" className="hover:text-amber-700">プライバシーポリシー</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">免責事項</Link></li>
