@@ -82,6 +82,33 @@ const channels = [
       'シウマ氏など人気占い師の話をまとめて聴きたい人',
     ],
   },
+  {
+    name: '細木かおりチャンネル',
+    handle: '@kaori_channel',
+    url: 'https://www.youtube.com/@kaori_channel',
+    // Channel uploads playlist: 入門・基礎解説の代表動画を直接 ID 指定
+    // できない場合に備え、最新のアップロードを既定で表示する。
+    // ※運営者でチャンネルの uploads playlist ID が確定したら videoId に
+    // 差し替え可能(コヤッキー/島田秀平と同じパターン)。
+    uploadsPlaylistId: 'UUOlKQDdkAyaSdEKRRmiNL_w',
+    genre: '六星占術・人生相談',
+    color: 'from-rose-100 to-orange-100 dark:from-rose-900/40 dark:to-orange-900/40',
+    accent: 'bg-rose-600 hover:bg-rose-700',
+    icon: '🌟',
+    intro: `細木数子の六星占術を継承した細木かおり氏が運営する公式チャンネル。
+    「日本を幸せにしたい！」をテーマに、六星占術の知識や活用方法、
+    恋愛・仕事・家族の悩み相談まで幅広く配信。基本週3回更新で、
+    星人別の運勢や開運アドバイスがわかりやすく学べます。
+    YouTubeの収益は全額「スマイルプロジェクト」に寄付されており、
+    社会貢献にも力を入れているチャンネル。占いを通じて
+    人生を前向きに歩みたい方におすすめです。`,
+    targets: [
+      '六星占術に興味がある人',
+      '人生の悩みに占いの視点でアドバイスが欲しい人',
+      '星人別の運勢を知りたい人',
+      '社会貢献にも共感できるチャンネルを応援したい人',
+    ],
+  },
 ];
 
 // Trending パワーストーン videos — picked up for buzz/参考性, no business
@@ -207,8 +234,10 @@ export default function RecommendYoutubePage() {
         </p>
       </section>
 
-      {/* Channel cards — mobile: 1col / tablet: 2col(3rd alone) / desktop: 3col */}
-      <section className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {/* Channel cards — mobile: 1col / tablet+: 2col(2x2) / xl: 4col(1row).
+          Switched away from 3-col since the 4th channel was added — 2x2 on
+          standard desktops keeps each card readable; xl screens get 4-across. */}
+      <section className="grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
         {channels.map((c) => (
           <article
             key={c.name}
