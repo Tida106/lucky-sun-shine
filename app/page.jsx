@@ -8,6 +8,7 @@ import Newsletter from '@/components/Newsletter';
 import CategoryIcon from '@/components/CategoryIcon';
 import SunOrnament from '@/components/icons/SunOrnament';
 import SunDivider from '@/components/SunDivider';
+import ScrollReveal from '@/components/ScrollReveal';
 
 export const metadata = {
   title: 'Lucky Sun Shine | パワーストーン・パワースポット・開運の総合メディア',
@@ -37,13 +38,21 @@ export default function HomePage() {
           aria-hidden="true"
           className="absolute inset-0 -z-10 bg-gradient-to-b from-white/70 via-white/60 to-white/70 dark:from-ink-900/75 dark:via-ink-900/60 dark:to-ink-900/80"
         />
-        <div className="max-w-6xl mx-auto px-4 pt-12 pb-14 md:pt-20 md:pb-20 text-center">
-          <p className="text-amber-700 dark:text-amber-300 tracking-widest text-xs md:text-sm font-bold">
-            ☀️ LUCKY SUN SHINE ☀️
+        <div className="max-w-6xl mx-auto px-4 pt-12 pb-20 md:pt-20 md:pb-28 text-center">
+          <p className="inline-flex items-center justify-center gap-3 text-amber-700 dark:text-amber-300 tracking-[0.3em] text-xs md:text-sm font-bold">
+            <SunOrnament className="w-4 h-4 text-amber-500" />
+            <span>LUCKY SUN SHINE</span>
+            <SunOrnament className="w-4 h-4 text-amber-500" />
           </p>
-          <h1 className="mt-4 font-display text-3xl md:text-5xl font-extrabold text-ink-900 dark:text-amber-50 leading-tight drop-shadow-[0_1px_1px_rgba(255,255,255,0.6)] dark:drop-shadow-[0_1px_1px_rgba(0,0,0,0.6)]">
-            太陽のように<br className="md:hidden" />
-            明るい毎日を。
+          <h1 className="mt-5 font-display text-3xl md:text-5xl font-extrabold text-ink-900 dark:text-amber-50 leading-tight drop-shadow-[0_1px_1px_rgba(255,255,255,0.6)] dark:drop-shadow-[0_1px_1px_rgba(0,0,0,0.6)]">
+            <span className="inline-flex items-center justify-center gap-3 md:gap-5">
+              <SunOrnament className="hidden md:inline-block w-6 h-6 text-amber-500 opacity-70 shrink-0" strokeWidth={1.1} />
+              <span>
+                太陽のように<br className="md:hidden" />
+                明るい毎日を。
+              </span>
+              <SunOrnament className="hidden md:inline-block w-6 h-6 text-amber-500 opacity-70 shrink-0" strokeWidth={1.1} />
+            </span>
           </h1>
           <p className="mt-5 max-w-2xl mx-auto text-ink-700 dark:text-amber-100 text-sm md:text-base leading-relaxed">
             パワーストーン・パワースポット・開運グッズ・運気アップ習慣。<br />
@@ -60,13 +69,27 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+          {/* Scroll cue — gently bouncing chevron */}
+          <div className="mt-12 md:mt-14 flex justify-center" aria-hidden="true">
+            <svg
+              viewBox="0 0 24 24"
+              className="scroll-cue w-6 h-6 text-amber-600 dark:text-amber-400"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <path d="m6 9 6 6 6-6" />
+            </svg>
+          </div>
         </div>
       </section>
 
       <SunDivider />
 
       {/* Categories */}
-      <section className="max-w-6xl mx-auto px-4 py-16">
+      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-16">
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-3">
             <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
@@ -79,20 +102,23 @@ export default function HomePage() {
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className={`card-elev group block rounded-2xl p-5 bg-gradient-to-br ${c.color} border border-white/60`}
+              className={`card-elev group block rounded-2xl p-5 bg-gradient-to-br ${c.color} border border-white/60 overflow-hidden`}
             >
-              <CategoryIcon slug={c.slug} className="w-10 h-10 mb-3 text-amber-600 dark:text-amber-400" />
-              <h3 className="font-display font-bold text-lg text-ink-900">{c.title}</h3>
+              <CategoryIcon
+                slug={c.slug}
+                className="w-10 h-10 mb-3 text-amber-600 dark:text-amber-400 transition-transform duration-500 ease-out group-hover:scale-105"
+              />
+              <h3 className="font-display font-bold text-lg text-ink-900 group-hover:text-amber-700 transition-colors">{c.title}</h3>
               <p className="mt-1 text-xs text-ink-700 leading-relaxed">{c.tagline}</p>
             </Link>
           ))}
         </div>
-      </section>
+      </ScrollReveal>
 
       <SunDivider />
 
       {/* Latest posts + sidebar popular */}
-      <section className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
+      <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="min-w-0">
           <div className="flex items-end justify-between mb-8">
             <div>
@@ -118,7 +144,7 @@ export default function HomePage() {
           <PopularPosts limit={5} />
           <Newsletter />
         </div>
-      </section>
+      </ScrollReveal>
 
       <SunDivider />
     </>

@@ -1,24 +1,26 @@
 import Link from 'next/link';
 import { categories } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
+import Logo from './Logo';
 import ThemeToggle from './ThemeToggle';
 
 export default function Header() {
   return (
     <header className="sticky top-0 z-30 backdrop-blur bg-white/80 dark:bg-ink-900/80 border-b border-amber-200 dark:border-amber-700">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-        <Link href="/" className="flex items-center gap-2 group">
-          <span className="text-2xl group-hover:rotate-12 transition-transform">☀️</span>
-          <span className="font-display text-xl font-bold tracking-wide text-amber-900 dark:text-amber-200">
-            Lucky Sun Shine
-          </span>
+        <Link href="/" className="group inline-flex items-center" aria-label="Lucky Sun Shine トップへ">
+          <Logo
+            size={28}
+            wordmarkClassName="text-base md:text-lg group-hover:text-amber-700 dark:group-hover:text-amber-100 transition-colors"
+            className="transition-transform group-hover:[&_svg]:rotate-12 [&_svg]:transition-transform [&_svg]:duration-500"
+          />
         </Link>
         <nav className="hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 dark:text-amber-100 flex-wrap justify-end">
           {categories.map((c) => (
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className="inline-flex items-center gap-1.5 hover:text-amber-700 dark:hover:text-amber-300 transition-colors whitespace-nowrap"
+              className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700 dark:hover:text-amber-300 transition-colors whitespace-nowrap"
             >
               <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600 dark:text-amber-400" />
               {c.title}

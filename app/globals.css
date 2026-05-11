@@ -35,6 +35,28 @@ h1, h2, h3 {
   letter-spacing: 0.05em;
 }
 
+/* Keyboard focus — gold ring, matches the rest of the palette. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid #C9A96E;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Respect users who opt out of motion. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
 @layer components {
   /* Soft gold-tinted elevation used on cards. Hover lifts the card 2px. */
   .card-elev {
@@ -102,6 +124,38 @@ h1, h2, h3 {
     background-color: rgba(201, 169, 110, 0.12);
     color: #F4E9D1;
   }
+
+  /* Animated underline that scales in from the left on hover/focus.
+     Apply to inline text links; sits 2px below the baseline. */
+  .link-underline {
+    position: relative;
+  }
+  .link-underline::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 1px;
+    background-color: currentColor;
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: transform 0.3s ease;
+  }
+  .link-underline:hover::after,
+  .link-underline:focus-visible::after {
+    transform: scaleX(1);
+  }
+
+  /* Bouncing chevron used as a "scroll to continue" cue under the hero. */
+  .scroll-cue {
+    animation: scroll-cue-bounce 1.8s ease-in-out infinite;
+  }
+}
+
+@keyframes scroll-cue-bounce {
+  0%, 100% { transform: translateY(0); opacity: 0.55; }
+  50%      { transform: translateY(6px); opacity: 1; }
 }
 
 /* Dark-mode prose overrides */
