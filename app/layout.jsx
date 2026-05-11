@@ -43,13 +43,24 @@ export const metadata = {
     title: site.name,
     description: site.description,
     url: site.url,
-    images: [{ url: '/og-default.svg', width: 1200, height: 630, alt: site.name }],
+    // Absolute URL so external crawlers (Twitter/Facebook/Slack) get a
+    // working preview without relying on metadataBase resolution.
+    // 1200x630 JPEG — the canonical OG card aspect.
+    images: [
+      {
+        url: `${site.url}/og-image.jpg`,
+        width: 1200,
+        height: 630,
+        alt: site.name,
+        type: 'image/jpeg',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: site.name,
     description: site.description,
-    images: ['/og-default.svg'],
+    images: [`${site.url}/og-image.jpg`],
   },
   icons: {
     icon: '/favicon.svg',
