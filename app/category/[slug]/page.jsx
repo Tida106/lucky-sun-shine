@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import PostCard from '@/components/PostCard';
 import RecommendSns from '@/components/RecommendSns';
+import CategoryIcon from '@/components/CategoryIcon';
 import { categories, getCategory, categorySlugs } from '@/lib/categories';
 import { getPostsByCategory } from '@/lib/posts';
 import { site } from '@/lib/site';
@@ -34,14 +35,14 @@ export default async function CategoryPage({ params }) {
 
   return (
     <>
-      <section className={`bg-gradient-to-br ${cat.color}`}>
+      <section className={cat.pastel.bg}>
         <div className="max-w-6xl mx-auto px-4 py-12 text-center">
-          <div className="text-5xl mb-3">{cat.icon}</div>
-          <h1 className="font-display text-3xl md:text-4xl font-extrabold text-ink-900">
+          <CategoryIcon slug={cat.slug} className={`w-12 h-12 mx-auto mb-3 ${cat.pastel.accent}`} />
+          <h1 className={`font-display text-3xl md:text-4xl font-extrabold ${cat.pastel.accent}`}>
             {cat.title}
           </h1>
-          <p className="mt-3 text-ink-700">{cat.tagline}</p>
-          <p className="mt-2 text-sm text-ink-500 max-w-2xl mx-auto">{cat.description}</p>
+          <p className="mt-3 text-[#5A5A5A]">{cat.tagline}</p>
+          <p className="mt-2 text-sm text-[#5A5A5A]/80 max-w-2xl mx-auto">{cat.description}</p>
         </div>
       </section>
 
@@ -69,9 +70,10 @@ export default async function CategoryPage({ params }) {
               <Link
                 key={c.slug}
                 href={`/category/${c.slug}/`}
-                className="px-3 py-1.5 rounded-full bg-white border border-amber-200 text-sm hover:bg-amber-50"
+                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border ${c.pastel.accentBorder} text-sm ${c.pastel.accent} ${c.pastel.accentHover} ${c.pastel.hoverBg} transition-colors`}
               >
-                {c.icon} {c.title}
+                <CategoryIcon slug={c.slug} className={`w-3.5 h-3.5 ${c.pastel.accent}`} />
+                {c.title}
               </Link>
             ))}
           </div>

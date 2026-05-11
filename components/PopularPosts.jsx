@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { featuredSlugs } from '@/lib/featured';
 import { getCategory } from '@/lib/categories';
+import CategoryIcon from './CategoryIcon';
 import SunOrnament from './icons/SunOrnament';
 
 export default function PopularPosts({ limit = 5, heading = '人気記事ランキング' }) {
@@ -38,8 +39,9 @@ export default function PopularPosts({ limit = 5, heading = '人気記事ラン�
                   {i + 1}
                 </span>
                 <div className="min-w-0">
-                  <div className="text-xs text-amber-700 dark:text-amber-300">
-                    {cat?.icon} {cat?.title}
+                  <div className={`text-xs inline-flex items-center gap-1 ${cat?.pastel?.accent || 'text-amber-700'} dark:text-amber-300`}>
+                    {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
+                    {cat?.title}
                   </div>
                   <div className="text-sm font-bold text-ink-900 dark:text-amber-50 group-hover:text-amber-700 dark:group-hover:text-amber-300 leading-snug line-clamp-2">
                     {post.title}

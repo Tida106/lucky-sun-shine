@@ -22,11 +22,15 @@ export default function PostCard({ post }) {
           </div>
         </div>
         <div className="p-6">
-          <div className="flex items-center gap-2 text-xs text-amber-700 mb-2">
-            <span className="px-2 py-0.5 rounded-full bg-amber-100 font-medium">
+          <div className="flex items-center gap-2 text-xs mb-2">
+            <span
+              className={`px-2 py-0.5 rounded-full font-medium ${
+                cat?.pastel ? `${cat.pastel.accentBg} ${cat.pastel.accent}` : 'bg-amber-100 text-amber-700'
+              }`}
+            >
               {cat?.title || post.category}
             </span>
-            <time dateTime={post.date}>{formatDate(post.date)}</time>
+            <time dateTime={post.date} className="text-ink-500">{formatDate(post.date)}</time>
           </div>
           <h2 className="font-display font-bold text-lg leading-snug text-ink-900 group-hover:text-amber-700 transition-colors">
             {post.title}

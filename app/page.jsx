@@ -103,14 +103,14 @@ export default function HomePage() {
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className={`card-elev group block rounded-2xl p-5 bg-gradient-to-br ${c.color} border border-white/60 overflow-hidden`}
+              className={`group block rounded-2xl p-5 overflow-hidden border border-white/60 ${c.pastel.bg} shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out`}
             >
               <CategoryIcon
                 slug={c.slug}
-                className="w-10 h-10 mb-3 text-amber-600 dark:text-amber-400 transition-transform duration-500 ease-out group-hover:scale-105"
+                className={`w-10 h-10 mb-3 ${c.pastel.accent} transition-transform duration-500 ease-out group-hover:scale-105`}
               />
-              <h3 className="font-display font-bold text-lg text-ink-900 group-hover:text-amber-700 transition-colors">{c.title}</h3>
-              <p className="mt-1 text-xs text-ink-700 leading-relaxed">{c.tagline}</p>
+              <h3 className={`font-display font-bold text-lg ${c.pastel.accent} transition-colors`}>{c.title}</h3>
+              <p className="mt-1 text-xs text-[#5A5A5A] leading-relaxed">{c.tagline}</p>
             </Link>
           ))}
         </div>

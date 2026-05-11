@@ -6,6 +6,7 @@ import { site } from '@/lib/site';
 import RelatedProducts from '@/components/RelatedProducts';
 import Sidebar from '@/components/Sidebar';
 import AdUnit from '@/components/AdUnit';
+import CategoryIcon from '@/components/CategoryIcon';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -111,7 +112,10 @@ export default async function BlogPostPage({ params }) {
         <nav aria-label="パンくずリスト" className="text-xs text-ink-500 dark:text-amber-200 mb-6">
           <Link href="/" className="hover:text-amber-700 dark:hover:text-amber-300">トップ</Link>
           <span className="mx-1">/</span>
-          <Link href={`/category/${post.category}/`} className="hover:text-amber-700 dark:hover:text-amber-300">
+          <Link
+            href={`/category/${post.category}/`}
+            className={`${cat?.pastel?.accentHover || 'hover:text-amber-700'} dark:hover:text-amber-300`}
+          >
             {cat?.title || post.category}
           </Link>
           <span className="mx-1">/</span>
@@ -119,11 +123,16 @@ export default async function BlogPostPage({ params }) {
         </nav>
 
         <header className="mb-8">
-          <div className="flex flex-wrap items-center gap-2 text-xs text-amber-700 dark:text-amber-300">
-            <span className="px-2 py-0.5 rounded-full bg-amber-100 dark:bg-amber-800 font-medium">
-              {cat?.icon} {cat?.title}
+          <div className="flex flex-wrap items-center gap-2 text-xs">
+            <span
+              className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full font-medium ${
+                cat?.pastel ? `${cat.pastel.accentBg} ${cat.pastel.accent}` : 'bg-amber-100 text-amber-700 dark:bg-amber-800 dark:text-amber-300'
+              }`}
+            >
+              {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
+              {cat?.title || post.category}
             </span>
-            <span>約{minutes}分で読了</span>
+            <span className="text-ink-500 dark:text-amber-200">約{minutes}分で読了</span>
           </div>
           <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900 dark:text-amber-50">
             {post.title}
@@ -213,7 +222,10 @@ export default async function BlogPostPage({ params }) {
                 return (
                   <li key={r.slug}>
                     <Link href={`/blog/${r.slug}/`} className="block p-3 rounded-lg bg-white dark:bg-ink-900 border border-amber-100 dark:border-amber-800 hover:border-amber-400">
-                      <div className="text-[11px] text-amber-700 dark:text-amber-300">{rcat?.icon} {rcat?.title}</div>
+                      <div className={`text-[11px] inline-flex items-center gap-1 ${rcat?.pastel?.accent || 'text-amber-700'} dark:text-amber-300`}>
+                        {rcat && <CategoryIcon slug={rcat.slug} className="w-3 h-3" />}
+                        {rcat?.title}
+                      </div>
                       <div className="text-sm font-bold dark:text-amber-50 line-clamp-2 mt-1">{r.title}</div>
                     </Link>
                   </li>
