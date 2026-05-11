@@ -84,6 +84,25 @@ const channels = [
   },
 ];
 
+// Trending パワーストーン videos — picked up for buzz/参考性, no business
+// relationship with the creators. Same iframe pattern as the channel
+// cards above; rendered as a separate section so SEO can index them as
+// VideoObject items.
+const trendingVideos = [
+  {
+    title: 'ヒカルが山梨・昇仙峡でルチルクォーツを購入',
+    videoId: '_T43UuqhRe8',
+    url: 'https://www.youtube.com/watch?v=_T43UuqhRe8',
+    intro: `日本トップクラスのYouTuberヒカル氏が、水晶の聖地・山梨県昇仙峡を訪れ、パワーストーンの代表格「ルチルクォーツ」を購入する動画。この動画をきっかけに、ヒカル氏の運気が上昇したと話題になり、ルチルクォーツの知名度が一気に高まりました。パワーストーンに興味があるなら一度は見ておきたい一本です。`,
+  },
+  {
+    title: 'ヒカルがストーンマーケット会長の10億円豪邸にお泊まり',
+    videoId: '-8FO4F7bAYY',
+    url: 'https://www.youtube.com/watch?v=-8FO4F7bAYY',
+    intro: `パワーストーン専門店「ストーンマーケット」を一代で築き上げた中村泰二郎会長（現在はヒカル氏が社長就任）の福岡の大豪邸を訪れる動画。希少な原石コレクションや、パワーストーンビジネスのスケールに圧倒される内容で、開運・パワーストーンとお金の関係性を考えさせられる一本です。`,
+  },
+];
+
 const RELATED = [
   { href: '/blog/ise-jingu-power-spot/',     label: '伊勢神宮の参拝ガイド｜パワースポットとしての魅力と回り方' },
   { href: '/blog/izumo-taisha/',             label: '出雲大社の参拝ガイド｜縁結びの聖地' },
@@ -115,6 +134,20 @@ export default function RecommendYoutubePage() {
     })),
   };
 
+  // Each trending video gets its own VideoObject schema — Google indexes
+  // these for the video carousel. Thumbnail follows the public YouTube
+  // CDN pattern (hqdefault is always available).
+  const videoObjectSchemas = trendingVideos.map((v) => ({
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
+    name: v.title,
+    description: v.intro.replace(/\s+/g, ' ').trim(),
+    thumbnailUrl: [`https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`],
+    uploadDate: '2024-01-01',
+    contentUrl: v.url,
+    embedUrl: `https://www.youtube-nocookie.com/embed/${v.videoId}`,
+  }));
+
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -134,6 +167,13 @@ export default function RecommendYoutubePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {videoObjectSchemas.map((s, i) => (
+        <script
+          key={`video-${i}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(s) }}
+        />
+      ))}
 
       {/* Breadcrumb */}
       <nav aria-label="パンくずリスト" className="text-xs text-ink-500 dark:text-amber-200 mb-6">
@@ -242,6 +282,80 @@ export default function RecommendYoutubePage() {
             </div>
           </article>
         ))}
+      </section>
+
+      {/* Trending パワーストーン videos — separated from the channel
+          cards above by a divider so the section is identifiable on its
+          own while reusing the same visual language. */}
+      <section className="mt-16">
+        <div className="text-center mb-8">
+          <div
+            aria-hidden="true"
+            className="mx-auto w-24 h-px bg-gradient-to-r from-transparent via-amber-400 to-transparent mb-6"
+          />
+          <p className="text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">
+            TRENDING
+          </p>
+          <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900 dark:text-amber-50">
+            話題のパワーストーン動画
+          </h2>
+          <p className="mt-3 max-w-2xl mx-auto text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+            パワーストーンの世界をエンタメ視点で楽しめる、SNSで話題になった動画をピックアップしました。
+          </p>
+        </div>
+
+        <div className="grid gap-6 sm:grid-cols-2">
+          {trendingVideos.map((v) => (
+            <article
+              key={v.videoId}
+              className="rounded-2xl border border-amber-200 dark:border-amber-700 bg-gradient-to-br from-amber-50 to-rose-50 dark:from-amber-900/40 dark:to-rose-900/40 overflow-hidden flex flex-col"
+            >
+              <div className="relative aspect-video bg-ink-900 overflow-hidden">
+                <iframe
+                  src={`https://www.youtube-nocookie.com/embed/${v.videoId}?rel=0`}
+                  title={v.title}
+                  loading="lazy"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  className="absolute inset-0 w-full h-full border-0"
+                />
+              </div>
+
+              <div className="p-5 md:p-6 flex flex-col flex-1">
+                <div className="text-xs font-bold text-amber-700 dark:text-amber-300 tracking-wider">
+                  PICK UP
+                </div>
+                <h3 className="mt-1 font-display text-lg md:text-xl font-extrabold text-ink-900 dark:text-amber-50 leading-snug">
+                  {v.title}
+                </h3>
+
+                <p className="mt-3 text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+                  {v.intro}
+                </p>
+
+                <div className="mt-5 pt-4 border-t border-amber-200/60 dark:border-amber-700/60">
+                  <a
+                    href={v.url}
+                    target="_blank"
+                    rel="noopener nofollow"
+                    className="inline-flex items-center justify-center gap-2 w-full px-5 py-3 rounded-full bg-rose-500 hover:bg-rose-600 text-white font-bold text-sm shadow-sm transition-colors"
+                  >
+                    <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true">
+                      <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6a3 3 0 0 0-2.1 2.1C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.3 3.6-6.3 3.6z"/>
+                    </svg>
+                    YouTubeで見る
+                    <span aria-hidden="true">→</span>
+                  </a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <p className="mt-6 text-xs text-ink-500 dark:text-amber-200 leading-relaxed">
+          ※ 掲載動画は運営者が話題性・参考性の観点で紹介するものであり、各チャンネル・運営者・販売店との提携関係はありません。動画の内容や情報の正確性については各動画制作者にご確認ください。
+        </p>
       </section>
 
       {/* How to use this page */}
