@@ -35,6 +35,75 @@ h1, h2, h3 {
   letter-spacing: 0.05em;
 }
 
+@layer components {
+  /* Soft gold-tinted elevation used on cards. Hover lifts the card 2px. */
+  .card-elev {
+    box-shadow: 0 4px 20px rgba(201, 169, 110, 0.08);
+    transition: box-shadow 0.3s ease, transform 0.3s ease, border-color 0.3s ease;
+  }
+  .card-elev:hover {
+    box-shadow: 0 10px 28px rgba(201, 169, 110, 0.18);
+    transform: translateY(-2px);
+  }
+
+  /* Thin gradient rule placed under section headings. */
+  .heading-rule {
+    display: block;
+    height: 2px;
+    width: 4.5rem;
+    border-radius: 9999px;
+    background-image: linear-gradient(to right, #B8935A, #C9A96E, transparent);
+  }
+
+  /* Site-wide button presets. Use as <a className="btn-primary">… */
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.25rem;
+    border-radius: 9999px;
+    background-color: #B8935A;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 0.875rem;
+    box-shadow: 0 2px 8px rgba(184, 147, 90, 0.25);
+    transition: background-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  }
+  .btn-primary:hover {
+    background-color: #9C7A47;
+    box-shadow: 0 4px 14px rgba(156, 122, 71, 0.35);
+  }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.25rem;
+    border-radius: 9999px;
+    background-color: transparent;
+    color: #9C7A47;
+    border: 1px solid #C9A96E;
+    font-weight: 700;
+    font-size: 0.875rem;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+  .btn-secondary:hover {
+    background-color: #FAF4E6;
+    border-color: #B8935A;
+    color: #6E5631;
+  }
+  .dark .btn-secondary {
+    color: #DCBE85;
+    border-color: #C9A96E;
+  }
+  .dark .btn-secondary:hover {
+    background-color: rgba(201, 169, 110, 0.12);
+    color: #F4E9D1;
+  }
+}
+
 /* Dark-mode prose overrides */
 .dark .prose-article {
   color: #E8D4A8;
@@ -125,9 +194,13 @@ h1, h2, h3 {
 .prose-article ol { list-style: decimal; }
 .prose-article li + li { margin-top: 0.35rem; }
 .prose-article a {
-  color: #9C7A47;
+  color: #B8935A;
   text-decoration: underline;
   text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+.prose-article a:hover {
+  color: #9C7A47;
 }
 .prose-article strong {
   color: #6E5631;

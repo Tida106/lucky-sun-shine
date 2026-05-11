@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { featuredSlugs } from '@/lib/featured';
 import { getCategory } from '@/lib/categories';
+import SunOrnament from './icons/SunOrnament';
 
 export default function PopularPosts({ limit = 5, heading = '人気記事ランキング' }) {
   const all = getAllPosts();
@@ -14,10 +15,12 @@ export default function PopularPosts({ limit = 5, heading = '人気記事ラン�
   if (ranked.length === 0) return null;
 
   return (
-    <aside className="rounded-2xl bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 p-5">
-      <h3 className="font-display text-lg font-bold text-ink-900 dark:text-amber-50 flex items-center gap-2 mb-3">
-        <span>🏆</span> {heading}
+    <aside className="card-elev rounded-2xl bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 p-6">
+      <h3 className="font-display text-lg font-bold text-ink-900 dark:text-amber-50 flex items-center gap-2 mb-2">
+        <SunOrnament className="w-5 h-5 text-amber-500 shrink-0" />
+        <span>{heading}</span>
       </h3>
+      <span aria-hidden="true" className="heading-rule mb-4 ml-7" />
       <ol className="space-y-3">
         {ranked.map((post, i) => {
           const cat = getCategory(post.category);

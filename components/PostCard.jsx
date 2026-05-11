@@ -10,7 +10,7 @@ function formatDate(iso) {
 export default function PostCard({ post }) {
   const cat = getCategory(post.category);
   return (
-    <article className="group rounded-2xl bg-white border border-amber-100 hover:border-amber-300 hover:shadow-lg transition-all overflow-hidden">
+    <article className="card-elev group rounded-2xl bg-white border border-amber-100 hover:border-amber-300 overflow-hidden">
       <Link href={`/blog/${post.slug}/`} className="block">
         <div className={`h-32 bg-gradient-to-br ${cat?.color || 'from-amber-200 to-yellow-100'} flex items-center justify-center`}>
           {cat ? (

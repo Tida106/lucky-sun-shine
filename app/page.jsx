@@ -6,6 +6,8 @@ import PostCard from '@/components/PostCard';
 import PopularPosts from '@/components/PopularPosts';
 import Newsletter from '@/components/Newsletter';
 import CategoryIcon from '@/components/CategoryIcon';
+import SunOrnament from '@/components/icons/SunOrnament';
+import SunDivider from '@/components/SunDivider';
 
 export const metadata = {
   title: 'Lucky Sun Shine | パワーストーン・パワースポット・開運の総合メディア',
@@ -61,17 +63,23 @@ export default function HomePage() {
         </div>
       </section>
 
+      <SunDivider />
+
       {/* Categories */}
       <section className="max-w-6xl mx-auto px-4 py-16">
-        <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 mb-6 flex items-center gap-2">
-          <span>🌟</span> カテゴリから探す
-        </h2>
+        <div className="mb-8">
+          <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-3">
+            <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
+            <span>カテゴリから探す</span>
+          </h2>
+          <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
+        </div>
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {categories.map((c) => (
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className={`group block rounded-2xl p-5 bg-gradient-to-br ${c.color} border border-white/60 hover:scale-[1.02] transition-transform`}
+              className={`card-elev group block rounded-2xl p-5 bg-gradient-to-br ${c.color} border border-white/60`}
             >
               <CategoryIcon slug={c.slug} className="w-10 h-10 mb-3 text-amber-600 dark:text-amber-400" />
               <h3 className="font-display font-bold text-lg text-ink-900">{c.title}</h3>
@@ -81,13 +89,19 @@ export default function HomePage() {
         </div>
       </section>
 
+      <SunDivider />
+
       {/* Latest posts + sidebar popular */}
       <section className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="min-w-0">
-          <div className="flex items-end justify-between mb-6">
-            <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-2">
-              <span>📖</span> 最新の記事
-            </h2>
+          <div className="flex items-end justify-between mb-8">
+            <div>
+              <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-3">
+                <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
+                <span>最新の記事</span>
+              </h2>
+              <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
+            </div>
             <span className="text-sm text-ink-500 dark:text-amber-200">{posts.length} 記事</span>
           </div>
           {latest.length === 0 ? (
@@ -105,6 +119,8 @@ export default function HomePage() {
           <Newsletter />
         </div>
       </section>
+
+      <SunDivider />
     </>
   );
 }
