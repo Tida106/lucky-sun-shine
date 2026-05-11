@@ -2,13 +2,13 @@
 // Usage:
 //   <RakutenLink url="https://item.rakuten.co.jp/.../detail" title="..." price="¥..." />
 //
-// `afb` defaults to NEXT_PUBLIC_RAKUTEN_AFB (アフィリエイトID)。
-// 楽天は商品URLに `?scid=af_link_pc&sc2id=<AFB>` を付ける運用が一般的。
+// `afb` defaults to NEXT_PUBLIC_RAKUTEN_AFB (アフィリエイトID, 例: "208f8a99")。
+// 楽天は商品URLに `?scid=af_<AFB>` を付与する形式で計測される。
 function buildRakutenUrl(rawUrl, afb) {
   if (!rawUrl) return null;
   if (!afb) return rawUrl;
   const sep = rawUrl.includes('?') ? '&' : '?';
-  return `${rawUrl}${sep}scid=af_link_pc&sc2id=${encodeURIComponent(afb)}`;
+  return `${rawUrl}${sep}scid=af_${encodeURIComponent(afb)}`;
 }
 
 export default function RakutenLink({

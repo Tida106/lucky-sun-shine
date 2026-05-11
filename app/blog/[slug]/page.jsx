@@ -164,6 +164,12 @@ export default async function BlogPostPage({ params }) {
           </div>
         </header>
 
+        {/* Affiliate disclosure — surfaced above the fold per景品表示法 / ステマ規制 */}
+        <p className="not-prose mb-6 px-4 py-2.5 rounded-lg bg-amber-50 dark:bg-ink-900 border border-amber-200 dark:border-amber-700 text-xs text-ink-700 dark:text-amber-100 leading-relaxed">
+          <span className="inline-block px-1.5 py-0.5 mr-2 rounded bg-amber-200 text-amber-900 font-bold align-middle">PR</span>
+          本記事はアフィリエイトリンクを含みます。リンク経由でご購入された場合、運営者に紹介料が支払われることがあります。
+        </p>
+
         <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
 
         {/* In-article ad slot — renders nothing without an AdSense ID */}
