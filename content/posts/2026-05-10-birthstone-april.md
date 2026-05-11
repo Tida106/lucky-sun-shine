@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["誕生石", "ダイヤモンド", "4月"]
 slug: "birthstone-april"
-draft: false
+draft: true
+redirect_to: "/blog/birthstone-guide/#apr"
 ---
 
 ## はじめに

@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["誕生石", "アクアマリン", "3月"]
 slug: "birthstone-march"
-draft: false
+draft: true
+redirect_to: "/blog/birthstone-guide/#mar"
 ---
 
 ## はじめに

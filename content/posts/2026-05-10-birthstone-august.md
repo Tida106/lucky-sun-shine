@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["誕生石", "ペリドット", "8月"]
 slug: "birthstone-august"
-draft: false
+draft: true
+redirect_to: "/blog/birthstone-guide/#aug"
 ---
 
 ## はじめに

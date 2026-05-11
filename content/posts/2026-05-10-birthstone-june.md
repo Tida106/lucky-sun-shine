@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["誕生石", "ムーンストーン", "6月"]
 slug: "birthstone-june"
-draft: false
+draft: true
+redirect_to: "/blog/birthstone-guide/#jun"
 ---
 
 ## はじめに

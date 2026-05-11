@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["誕生石", "ガーネット", "1月"]
 slug: "birthstone-january"
-draft: false
+draft: true
+redirect_to: "/blog/birthstone-guide/#jan"
 ---
 
 ## はじめに

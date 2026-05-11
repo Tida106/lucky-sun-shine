@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["誕生石", "サファイア", "9月"]
 slug: "birthstone-september"
-draft: false
+draft: true
+redirect_to: "/blog/birthstone-guide/#sep"
 ---
 
 ## はじめに

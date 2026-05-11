@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["誕生石", "オパール", "10月"]
 slug: "birthstone-october"
-draft: false
+draft: true
+redirect_to: "/blog/birthstone-guide/#oct"
 ---
 
 ## はじめに
