@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["星座", "牡牛座", "ローズクォーツ"]
 slug: "zodiac-taurus"
-draft: false
+draft: true
+redirect_to: "/blog/zodiac-powerstones-guide/#taurus"
 ---
 
 ## はじめに

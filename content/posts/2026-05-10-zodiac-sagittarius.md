@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["星座", "射手座", "ターコイズ"]
 slug: "zodiac-sagittarius"
-draft: false
+draft: true
+redirect_to: "/blog/zodiac-powerstones-guide/#sagittarius"
 ---
 
 ## はじめに

@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["星座", "牡羊座", "カーネリアン"]
 slug: "zodiac-aries"
-draft: false
+draft: true
+redirect_to: "/blog/zodiac-powerstones-guide/#aries"
 ---
 
 ## はじめに

@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["星座", "蟹座", "ムーンストーン"]
 slug: "zodiac-cancer"
-draft: false
+draft: true
+redirect_to: "/blog/zodiac-powerstones-guide/#cancer"
 ---
 
 ## はじめに

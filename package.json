@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/generate-ads-txt.js && node scripts/generate-search-index.js",
+    "prebuild": "node scripts/generate-redirects.js && node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/generate-ads-txt.js && node scripts/generate-search-index.js",
     "build": "next build",
     "build:fast": "next build",
     "start": "next start",

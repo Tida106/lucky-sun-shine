@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["星座", "山羊座", "ガーネット"]
 slug: "zodiac-capricorn"
-draft: false
+draft: true
+redirect_to: "/blog/zodiac-powerstones-guide/#capricorn"
 ---
 
 ## はじめに
