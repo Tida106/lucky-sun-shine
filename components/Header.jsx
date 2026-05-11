@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { categories } from '@/lib/categories';
+import CategoryIcon from './CategoryIcon';
 import ThemeToggle from './ThemeToggle';
 
 export default function Header() {
@@ -17,9 +18,9 @@ export default function Header() {
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className="hover:text-amber-700 dark:hover:text-amber-300 transition-colors whitespace-nowrap"
+              className="inline-flex items-center gap-1.5 hover:text-amber-700 dark:hover:text-amber-300 transition-colors whitespace-nowrap"
             >
-              <span className="mr-1">{c.icon}</span>
+              <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600 dark:text-amber-400" />
               {c.title}
             </Link>
           ))}
@@ -49,9 +50,10 @@ export default function Header() {
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className="whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-50 dark:bg-ink-700 text-amber-900 dark:text-amber-200 hover:bg-amber-100 dark:hover:bg-ink-500"
+              className="inline-flex items-center gap-1 whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-50 dark:bg-ink-700 text-amber-900 dark:text-amber-200 hover:bg-amber-100 dark:hover:bg-ink-500"
             >
-              {c.icon} {c.title}
+              <CategoryIcon slug={c.slug} className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
+              {c.title}
             </Link>
           ))}
           <Link

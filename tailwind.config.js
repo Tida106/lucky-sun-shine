@@ -8,6 +8,28 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        // Gold-tuned scale (user spec): light #E8D4A8, main #C9A96E, dark #B8935A.
+        // Mapped onto the `amber` keys so existing utility classes
+        // (text-amber-700, border-amber-200, …) shift palette without
+        // mass-rewriting every component.
+        amber: {
+          50:  '#FAF4E6',
+          100: '#F4E9D1',
+          200: '#E8D4A8',
+          300: '#DCBE85',
+          400: '#D2B07A',
+          500: '#C9A96E',
+          600: '#B8935A',
+          700: '#9C7A47',
+          800: '#6E5631',
+          900: '#463620',
+        },
+        // Brand alias — same palette under a friendlier name for new code.
+        gold: {
+          light: '#E8D4A8',
+          DEFAULT: '#C9A96E',
+          dark: '#B8935A',
+        },
         sun: {
           50:  '#fffaf0',
           100: '#fff4d6',
@@ -30,9 +52,15 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans:    ['"Noto Sans JP"', 'system-ui', 'sans-serif'],
-        serif:   ['"Noto Serif JP"', 'Georgia', 'serif'],
-        display: ['"Shippori Mincho"', '"Noto Serif JP"', 'serif'],
+        sans:    ['var(--font-sans-jp)', '"Noto Sans JP"', 'system-ui', 'sans-serif'],
+        serif:   ['var(--font-serif-jp)', '"Noto Serif JP"', 'Georgia', 'serif'],
+        display: ['var(--font-serif-jp)', '"Noto Serif JP"', 'Georgia', 'serif'],
+      },
+      letterSpacing: {
+        heading: '0.05em',
+      },
+      lineHeight: {
+        relaxed: '1.8',
       },
       backgroundImage: {
         'sun-radial': 'radial-gradient(circle at top, #fff4d6 0%, #ffe4a3 35%, #ffd166 70%, #ffb627 100%)',

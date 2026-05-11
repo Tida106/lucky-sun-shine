@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { categories } from '@/lib/categories';
+import CategoryIcon from './CategoryIcon';
 import { site } from '@/lib/site';
 
 export default function Footer() {
@@ -28,8 +29,9 @@ export default function Footer() {
           <ul className="space-y-1 text-sm">
             {categories.map((c) => (
               <li key={c.slug}>
-                <Link href={`/category/${c.slug}/`} className="hover:text-amber-700">
-                  {c.icon} {c.title}
+                <Link href={`/category/${c.slug}/`} className="inline-flex items-center gap-1.5 hover:text-amber-700">
+                  <CategoryIcon slug={c.slug} className="w-3.5 h-3.5 text-amber-600" />
+                  {c.title}
                 </Link>
               </li>
             ))}

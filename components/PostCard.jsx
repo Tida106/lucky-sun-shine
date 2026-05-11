@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getCategory } from '@/lib/categories';
+import CategoryIcon from './CategoryIcon';
 
 function formatDate(iso) {
   const d = new Date(iso);
@@ -11,10 +12,14 @@ export default function PostCard({ post }) {
   return (
     <article className="group rounded-2xl bg-white border border-amber-100 hover:border-amber-300 hover:shadow-lg transition-all overflow-hidden">
       <Link href={`/blog/${post.slug}/`} className="block">
-        <div className={`h-32 bg-gradient-to-br ${cat?.color || 'from-amber-200 to-yellow-100'} flex items-center justify-center text-5xl`}>
-          {cat?.icon || '☀️'}
+        <div className={`h-32 bg-gradient-to-br ${cat?.color || 'from-amber-200 to-yellow-100'} flex items-center justify-center`}>
+          {cat ? (
+            <CategoryIcon slug={cat.slug} className="w-14 h-14 text-amber-700/80" />
+          ) : (
+            <span className="text-5xl" aria-hidden="true">☀️</span>
+          )}
         </div>
-        <div className="p-5">
+        <div className="p-6">
           <div className="flex items-center gap-2 text-xs text-amber-700 mb-2">
             <span className="px-2 py-0.5 rounded-full bg-amber-100 font-medium">
               {cat?.title || post.category}

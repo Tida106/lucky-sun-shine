@@ -1,9 +1,24 @@
 import './globals.css';
+import { Noto_Sans_JP, Noto_Serif_JP } from 'next/font/google';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
 import AdSense from '@/components/AdSense';
 import { site } from '@/lib/site';
+
+const notoSansJp = Noto_Sans_JP({
+  subsets: ['latin'],
+  weight: ['400', '500', '700'],
+  variable: '--font-sans-jp',
+  display: 'swap',
+});
+
+const notoSerifJp = Noto_Serif_JP({
+  subsets: ['latin'],
+  weight: ['400', '600', '700'],
+  variable: '--font-serif-jp',
+  display: 'swap',
+});
 
 const GSC_VERIFICATION = process.env.NEXT_PUBLIC_GSC_VERIFICATION;
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH || '';
@@ -92,7 +107,7 @@ export default function RootLayout({ children }) {
     },
   };
   return (
-    <html lang="ja">
+    <html lang="ja" className={`${notoSansJp.variable} ${notoSerifJp.variable}`}>
       <head>
         {/* Apply theme before paint to avoid FOUC */}
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />

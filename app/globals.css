@@ -1,18 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;700;800&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Fonts are loaded via next/font/google in app/layout.jsx — exposed as
+   the CSS variables --font-sans-jp / --font-serif-jp consumed below. */
+
 :root {
-  --color-bg: #fffaf0;
+  --color-bg: #FAF4E6;
   --color-fg: #1a1410;
-  --color-accent: #f59e0b;
+  --color-accent: #C9A96E;
 }
 
 .dark {
   --color-bg: #1a1410;
-  --color-fg: #fff4d6;
+  --color-fg: #F4E9D1;
 }
 
 html {
@@ -22,43 +23,50 @@ html {
 body {
   background-color: var(--color-bg);
   color: var(--color-fg);
-  font-family: 'Noto Sans JP', system-ui, sans-serif;
+  font-family: var(--font-sans-jp), 'Noto Sans JP', system-ui, sans-serif;
+  line-height: 1.8;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
+/* Editorial-feel headings — Noto Serif JP, slightly wider tracking. */
+h1, h2, h3 {
+  font-family: var(--font-serif-jp), 'Noto Serif JP', Georgia, serif;
+  letter-spacing: 0.05em;
+}
+
 /* Dark-mode prose overrides */
 .dark .prose-article {
-  color: #ffe4a3;
+  color: #E8D4A8;
 }
 .dark .prose-article h2 {
-  color: #fff4d6;
-  border-left-color: #ffb627;
+  color: #F4E9D1;
+  border-left-color: #C9A96E;
 }
 .dark .prose-article h3 {
-  color: #ffd166;
+  color: #DCBE85;
 }
 .dark .prose-article a {
-  color: #ffd166;
+  color: #DCBE85;
 }
 .dark .prose-article strong {
-  color: #ffe4a3;
+  color: #E8D4A8;
 }
 .dark .prose-article blockquote {
   background: #3b322a;
-  border-left-color: #ffb627;
-  color: #ffe4a3;
+  border-left-color: #C9A96E;
+  color: #E8D4A8;
 }
 .dark .prose-article code {
   background: #3b322a;
-  color: #ffe4a3;
+  color: #E8D4A8;
 }
 .dark .prose-article hr {
   border-top-color: #6b5d50;
 }
 .dark .prose-article th {
   background: #3b322a;
-  color: #fff4d6;
+  color: #F4E9D1;
 }
 .dark .prose-article th, .dark .prose-article td {
   border-color: #6b5d50;
@@ -66,13 +74,13 @@ body {
 
 .dark .sunray-bg {
   background:
-    radial-gradient(ellipse at 50% -10%, rgba(255, 209, 102, 0.18) 0%, transparent 55%),
+    radial-gradient(ellipse at 50% -10%, rgba(201, 169, 110, 0.18) 0%, transparent 55%),
     linear-gradient(180deg, #1a1410 0%, #0d0905 60%);
 }
 
 /* Article prose styling — applied to the rendered Markdown body. */
 .prose-article {
-  font-family: 'Noto Serif JP', Georgia, serif;
+  font-family: var(--font-serif-jp), 'Noto Serif JP', Georgia, serif;
   line-height: 1.9;
   font-size: 1.0625rem;
   color: #2b2018;
@@ -81,19 +89,21 @@ body {
   margin-top: 1.25rem;
 }
 .prose-article h2 {
-  font-family: 'Shippori Mincho', 'Noto Serif JP', serif;
+  font-family: var(--font-serif-jp), 'Noto Serif JP', Georgia, serif;
   font-size: 1.6rem;
   font-weight: 700;
+  letter-spacing: 0.05em;
   margin-top: 2.5rem;
   margin-bottom: 1rem;
   padding-left: 0.85rem;
-  border-left: 6px solid #f59e0b;
+  border-left: 6px solid #C9A96E;
   color: #1a1410;
 }
 .prose-article h3 {
-  font-family: 'Shippori Mincho', 'Noto Serif JP', serif;
+  font-family: var(--font-serif-jp), 'Noto Serif JP', Georgia, serif;
   font-size: 1.3rem;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: 0.05em;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
   color: #3b322a;
@@ -115,31 +125,31 @@ body {
 .prose-article ol { list-style: decimal; }
 .prose-article li + li { margin-top: 0.35rem; }
 .prose-article a {
-  color: #b45309;
+  color: #9C7A47;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 .prose-article strong {
-  color: #7c4a05;
+  color: #6E5631;
   font-weight: 700;
 }
 .prose-article blockquote {
-  border-left: 4px solid #ffd166;
-  background: #fff4d6;
+  border-left: 4px solid #C9A96E;
+  background: #FAF4E6;
   padding: 1rem 1.25rem;
   border-radius: 0.5rem;
   font-style: normal;
-  color: #4d2d00;
+  color: #463620;
 }
 .prose-article code {
-  background: #fff4d6;
+  background: #F4E9D1;
   padding: 0.1rem 0.4rem;
   border-radius: 0.25rem;
   font-size: 0.95em;
 }
 .prose-article hr {
   border: none;
-  border-top: 1px dashed #ffd166;
+  border-top: 1px dashed #DCBE85;
   margin: 2.5rem 0;
 }
 .prose-article table {
@@ -149,18 +159,18 @@ body {
 }
 .prose-article th,
 .prose-article td {
-  border: 1px solid #ffe4a3;
+  border: 1px solid #E8D4A8;
   padding: 0.55rem 0.75rem;
   text-align: left;
 }
 .prose-article th {
-  background: #fff4d6;
+  background: #F4E9D1;
   font-weight: 700;
 }
 
 /* Subtle sun-ray decoration usable site-wide. */
 .sunray-bg {
   background:
-    radial-gradient(ellipse at 50% -10%, rgba(255, 209, 102, 0.55) 0%, transparent 55%),
-    linear-gradient(180deg, #fffaf0 0%, #ffffff 60%);
+    radial-gradient(ellipse at 50% -10%, rgba(201, 169, 110, 0.35) 0%, transparent 55%),
+    linear-gradient(180deg, #FAF4E6 0%, #ffffff 60%);
 }

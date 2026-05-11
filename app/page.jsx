@@ -62,7 +62,7 @@ export default function HomePage() {
       </section>
 
       {/* Categories */}
-      <section className="max-w-6xl mx-auto px-4 py-10">
+      <section className="max-w-6xl mx-auto px-4 py-16">
         <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 mb-6 flex items-center gap-2">
           <span>🌟</span> カテゴリから探す
         </h2>
@@ -73,7 +73,7 @@ export default function HomePage() {
               href={`/category/${c.slug}/`}
               className={`group block rounded-2xl p-5 bg-gradient-to-br ${c.color} border border-white/60 hover:scale-[1.02] transition-transform`}
             >
-              <CategoryIcon slug={c.slug} className="w-9 h-9 mb-2 text-amber-600 dark:text-amber-500" />
+              <CategoryIcon slug={c.slug} className="w-10 h-10 mb-3 text-amber-600 dark:text-amber-400" />
               <h3 className="font-display font-bold text-lg text-ink-900">{c.title}</h3>
               <p className="mt-1 text-xs text-ink-700 leading-relaxed">{c.tagline}</p>
             </Link>
@@ -82,7 +82,7 @@ export default function HomePage() {
       </section>
 
       {/* Latest posts + sidebar popular */}
-      <section className="max-w-6xl mx-auto px-4 py-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
+      <section className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="min-w-0">
           <div className="flex items-end justify-between mb-6">
             <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-2">
