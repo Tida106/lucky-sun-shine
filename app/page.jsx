@@ -4,7 +4,6 @@ import { getAllPosts } from '@/lib/posts';
 import { categories } from '@/lib/categories';
 import PostCard from '@/components/PostCard';
 import PopularPosts from '@/components/PopularPosts';
-import Newsletter from '@/components/Newsletter';
 import CategoryIcon from '@/components/CategoryIcon';
 import SunOrnament from '@/components/icons/SunOrnament';
 import SunDivider from '@/components/SunDivider';
@@ -143,7 +142,6 @@ export default function HomePage() {
         </div>
         <div className="space-y-6">
           <PopularPosts limit={5} />
-          <Newsletter />
         </div>
       </ScrollReveal>
 

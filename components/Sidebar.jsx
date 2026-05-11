@@ -1,8 +1,6 @@
 // Optional sidebar. Used on selected pages (search, single post on
-// wider viewports). Keeps it simple — popular posts + newsletter +
-// search prompt.
+// wider viewports). Keeps it simple — popular posts + search prompt.
 import PopularPosts from './PopularPosts';
-import Newsletter from './Newsletter';
 import Link from 'next/link';
 
 export default function Sidebar() {
@@ -17,7 +15,6 @@ export default function Sidebar() {
         </p>
       </div>
       <PopularPosts limit={5} />
-      <Newsletter />
     </aside>
   );
 }
