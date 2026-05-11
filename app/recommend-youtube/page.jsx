@@ -86,11 +86,12 @@ const channels = [
     name: '細木かおりチャンネル',
     handle: '@kaori_channel',
     url: 'https://www.youtube.com/@kaori_channel',
-    // Channel uploads playlist: 入門・基礎解説の代表動画を直接 ID 指定
-    // できない場合に備え、最新のアップロードを既定で表示する。
-    // ※運営者でチャンネルの uploads playlist ID が確定したら videoId に
-    // 差し替え可能(コヤッキー/島田秀平と同じパターン)。
-    uploadsPlaylistId: 'UUOlKQDdkAyaSdEKRRmiNL_w',
+    // 当初 uploadsPlaylistId で最新動画を表示する設定にしていたが、
+    // 表示されたエピソードが「埋め込み禁止」設定で再生不可となるため、
+    // iframe を出さずチャンネルカード型のフォールバックに切り替えた。
+    // (videoId / uploadsPlaylistId のいずれかが正しく埋め込み可能と
+    //  確認できたら設定し直す)
+    embedDisabled: true,
     genre: '六星占術・人生相談',
     color: 'from-rose-100 to-orange-100 dark:from-rose-900/40 dark:to-orange-900/40',
     accent: 'bg-rose-600 hover:bg-rose-700',
@@ -243,21 +244,40 @@ export default function RecommendYoutubePage() {
             key={c.name}
             className={`rounded-2xl border border-amber-200 dark:border-amber-700 bg-gradient-to-br ${c.color} overflow-hidden flex flex-col`}
           >
-            {/* Live YouTube embed: 単一動画指定があればそれを、なければ uploads プレイリストの最新動画 */}
+            {/* Live YouTube embed: 単一動画指定があればそれを、なければ
+                uploads プレイリストの最新動画。どちらも使えない
+                (embedDisabled) チャンネルは、チャンネルアート風の
+                フォールバックを描画して埋め込みエラーを避ける。 */}
             <div className="relative aspect-video bg-ink-900 overflow-hidden">
-              <iframe
-                src={
-                  c.videoId
-                    ? `https://www.youtube-nocookie.com/embed/${c.videoId}?rel=0`
-                    : `https://www.youtube-nocookie.com/embed/videoseries?list=${c.uploadsPlaylistId}&rel=0`
-                }
-                title={`${c.name} のYouTube動画${c.featuredVideoTitle ? `：${c.featuredVideoTitle}` : ''}`}
-                loading="lazy"
-                referrerPolicy="strict-origin-when-cross-origin"
-                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-                className="absolute inset-0 w-full h-full border-0"
-              />
+              {!c.embedDisabled && (c.videoId || c.uploadsPlaylistId) ? (
+                <iframe
+                  src={
+                    c.videoId
+                      ? `https://www.youtube-nocookie.com/embed/${c.videoId}?rel=0`
+                      : `https://www.youtube-nocookie.com/embed/videoseries?list=${c.uploadsPlaylistId}&rel=0`
+                  }
+                  title={`${c.name} のYouTube動画${c.featuredVideoTitle ? `：${c.featuredVideoTitle}` : ''}`}
+                  loading="lazy"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  className="absolute inset-0 w-full h-full border-0"
+                />
+              ) : (
+                <a
+                  href={c.url}
+                  target="_blank"
+                  rel="noopener nofollow"
+                  className={`absolute inset-0 flex flex-col items-center justify-center gap-2 bg-gradient-to-br ${c.color} text-ink-900 dark:text-amber-50 hover:brightness-110 transition`}
+                  aria-label={`${c.name} を YouTube で開く`}
+                >
+                  <span className="text-4xl" aria-hidden="true">{c.icon}</span>
+                  <span className="font-display font-bold text-base md:text-lg">{c.name}</span>
+                  <span className="text-xs text-ink-700 dark:text-amber-100/90">
+                    YouTubeチャンネルを開く →
+                  </span>
+                </a>
+              )}
             </div>
 
             {/* Body */}
