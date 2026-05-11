@@ -353,8 +353,73 @@ export default function RecommendYoutubePage() {
           ))}
         </div>
 
+        {/* Shop intro — affiliate link to 楽天 search for ストーンマーケット.
+            Tracking ID is appended from NEXT_PUBLIC_RAKUTEN_AFB the same
+            way RakutenLink does it (see components/affiliate/RakutenLink.jsx).
+            */}
+        {(() => {
+          const rawUrl = 'https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88+%E3%83%AB%E3%83%81%E3%83%AB/';
+          const afb = process.env.NEXT_PUBLIC_RAKUTEN_AFB;
+          const shopUrl = afb
+            ? `${rawUrl}${rawUrl.includes('?') ? '&' : '?'}scid=af_${encodeURIComponent(afb)}`
+            : rawUrl;
+
+          return (
+            <aside className="mt-10 relative rounded-2xl border-2 border-amber-300 dark:border-amber-600 bg-gradient-to-br from-amber-50 via-white to-rose-50 dark:from-amber-900/30 dark:via-ink-900 dark:to-rose-900/30 p-5 md:p-6 overflow-hidden">
+              {/* 太陽モチーフのアクセント */}
+              <span
+                aria-hidden="true"
+                className="absolute -top-10 -right-10 w-32 h-32 rounded-full bg-gradient-to-br from-amber-300/40 to-rose-300/40 blur-2xl"
+              />
+              <span
+                aria-hidden="true"
+                className="absolute top-4 right-4 text-amber-400/70 dark:text-amber-300/40"
+              >
+                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+                  <circle cx="12" cy="12" r="4" />
+                  <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
+                </svg>
+              </span>
+
+              <div className="relative">
+                <div className="inline-flex items-center gap-2 text-[11px] font-bold tracking-widest text-amber-700 dark:text-amber-300">
+                  <span>SHOP</span>
+                  <span className="px-1.5 py-0.5 rounded bg-amber-200 text-amber-900 text-[10px]">PR</span>
+                </div>
+                <h3 className="mt-2 font-display text-xl md:text-2xl font-extrabold text-ink-900 dark:text-amber-50 leading-snug">
+                  動画で紹介されたパワーストーンを探す
+                </h3>
+                <p className="mt-3 text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+                  動画で話題になった「ルチルクォーツ」をはじめ、本格的なパワーストーンを取り扱う専門店「ストーンマーケット」は、全国74店舗を展開するパワーストーン・天然石の老舗ブランド。2024年にYouTuberヒカル氏が社長に就任したことでも注目を集めています。楽天市場から、ヒカル氏監修モデルや人気のルチルクォーツブレスレットなど、関連商品をチェックできます。
+                </p>
+
+                <div className="mt-5">
+                  <a
+                    href={shopUrl}
+                    target="_blank"
+                    rel="noopener sponsored nofollow"
+                    className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-6 py-3 rounded-full bg-rose-500 hover:bg-rose-600 text-white font-bold text-sm shadow-sm transition-colors"
+                  >
+                    <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true">
+                      <path d="M3 3h2.5l2 11h11l2-8H7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+                      <circle cx="9" cy="20" r="1.4" />
+                      <circle cx="18" cy="20" r="1.4" />
+                    </svg>
+                    楽天市場でストーンマーケット商品を見る
+                    <span aria-hidden="true">→</span>
+                  </a>
+                  <p className="mt-2 text-[11px] text-ink-500 dark:text-amber-200">
+                    <span className="inline-block px-1 mr-1 rounded bg-amber-200 text-amber-900 text-[10px] font-bold align-middle">PR</span>
+                    楽天市場に移動します（アフィリエイトリンク）
+                  </p>
+                </div>
+              </div>
+            </aside>
+          );
+        })()}
+
         <p className="mt-6 text-xs text-ink-500 dark:text-amber-200 leading-relaxed">
-          ※ 掲載動画は運営者が話題性・参考性の観点で紹介するものであり、各チャンネル・運営者・販売店との提携関係はありません。動画の内容や情報の正確性については各動画制作者にご確認ください。
+          ※ 掲載動画は運営者が話題性・参考性の観点で紹介するものであり、各チャンネル・運営者・販売店との提携関係はありません。動画の内容や情報の正確性については各動画制作者にご確認ください。本ページにはアフィリエイトリンクを含みます。
         </p>
       </section>
 
