@@ -3,6 +3,7 @@ import { categories } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import Logo from './Logo';
 import ThemeToggle from './ThemeToggle';
+import { SearchIcon, YoutubeIcon } from './icons/NavIcons';
 
 export default function Header() {
   return (
@@ -28,9 +29,9 @@ export default function Header() {
           ))}
           <Link
             href="/recommend-youtube/"
-            className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50 transition-colors whitespace-nowrap"
+            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50 transition-colors whitespace-nowrap"
           >
-            <span aria-hidden="true">📺</span>
+            <YoutubeIcon className="w-4 h-4" />
             おすすめYouTubeチャンネル
           </Link>
         </nav>
@@ -38,10 +39,10 @@ export default function Header() {
           <Link
             href="/search/"
             aria-label="サイト内検索"
-            className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-amber-200 dark:border-amber-700 hover:bg-amber-50 dark:hover:bg-ink-700 transition-colors text-amber-700 dark:text-amber-300"
+            className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-amber-200 dark:border-amber-700 hover:bg-amber-50 dark:hover:bg-ink-700 transition-colors text-[#C9A96E] hover:text-[#9C7A47] dark:text-amber-400 dark:hover:text-amber-200"
             title="検索"
           >
-            🔍
+            <SearchIcon className="w-[18px] h-[18px]" />
           </Link>
           <ThemeToggle />
         </div>
@@ -60,9 +61,10 @@ export default function Header() {
           ))}
           <Link
             href="/recommend-youtube/"
-            className="whitespace-nowrap px-3 py-1.5 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50"
+            className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 text-red-700 dark:text-red-300 hover:bg-red-100 dark:hover:bg-red-900/50"
           >
-            📺 おすすめYouTubeチャンネル
+            <YoutubeIcon className="w-3.5 h-3.5" />
+            おすすめYouTubeチャンネル
           </Link>
         </div>
       </nav>

@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { categories } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import Logo from './Logo';
+import { YoutubeIcon } from './icons/NavIcons';
 import { site } from '@/lib/site';
 
 export default function Footer() {
@@ -17,7 +18,7 @@ export default function Footer() {
             href="/recommend-youtube/"
             className="mt-5 inline-flex items-center gap-2 px-4 py-2 rounded-full bg-red-600 hover:bg-red-700 text-white text-sm font-bold shadow-sm transition-colors"
           >
-            <span aria-hidden="true">📺</span>
+            <YoutubeIcon className="w-4 h-4" />
             おすすめYouTubeチャンネル
             <span aria-hidden="true">→</span>
           </Link>
@@ -34,8 +35,9 @@ export default function Footer() {
               </li>
             ))}
             <li>
-              <Link href="/recommend-youtube/" className="hover:text-amber-700">
-                📺 おすすめYouTubeチャンネル
+              <Link href="/recommend-youtube/" className="inline-flex items-center gap-1.5 hover:text-amber-700">
+                <YoutubeIcon className="w-3.5 h-3.5 text-red-600" />
+                おすすめYouTubeチャンネル
               </Link>
             </li>
           </ul>

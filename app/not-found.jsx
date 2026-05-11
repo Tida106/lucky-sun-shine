@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import { categories } from '@/lib/categories';
+import CategoryIcon from '@/components/CategoryIcon';
+import { SearchIcon } from '@/components/icons/NavIcons';
 
 export const metadata = {
   title: '404 — ページが見つかりません',
@@ -27,9 +29,10 @@ export default function NotFound() {
         </Link>
         <Link
           href="/search/"
-          className="px-5 py-2.5 rounded-full bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 hover:bg-amber-50 dark:hover:bg-ink-700 font-bold"
+          className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 hover:bg-amber-50 dark:hover:bg-ink-700 font-bold"
         >
-          🔍 サイト内検索
+          <SearchIcon className="w-4 h-4 text-[#C9A96E]" />
+          サイト内検索
         </Link>
       </div>
 
@@ -40,9 +43,10 @@ export default function NotFound() {
             <Link
               key={c.slug}
               href={`/category/${c.slug}/`}
-              className="px-3 py-1.5 rounded-full bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 text-sm hover:bg-amber-50 dark:hover:bg-ink-700"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 text-sm hover:bg-amber-50 dark:hover:bg-ink-700"
             >
-              {c.icon} {c.title}
+              <CategoryIcon slug={c.slug} className={`w-3.5 h-3.5 ${c.pastel.accent}`} />
+              {c.title}
             </Link>
           ))}
         </div>
