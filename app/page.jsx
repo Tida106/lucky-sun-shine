@@ -15,9 +15,28 @@ export const metadata = {
     'パワーストーン、パワースポット、開運グッズ、運気アップ習慣の最新情報をお届け。今日から始める開運アクションを毎日更新中。',
 };
 
+// Pillars + hub guides surfaced at the top of "最新の記事" regardless of
+// date, so visitors landing on the home page meet the curated entry
+// points first. Falls back gracefully if any slug goes missing.
+const FEATURED_SLUGS = [
+  'how-to-choose-powerstones',       // pillar — powerstones
+  'shrine-visit-basics',             // pillar — powerspots
+  'lucky-items-guide',               // pillar — lucky-goods
+  'lucky-habits-guide',              // pillar — luck-habits
+  'luck-powerstones-complete-guide', // hub — 目的別ガイド
+  'zodiac-powerstones-guide',        // hub — 12星座
+  'birthstone-guide',                // hub — 12誕生石
+];
+
 export default function HomePage() {
   const posts = getAllPosts();
-  const latest = posts.slice(0, 9);
+
+  const featuredSet = new Set(FEATURED_SLUGS);
+  const featured = FEATURED_SLUGS
+    .map((slug) => posts.find((p) => p.slug === slug))
+    .filter(Boolean);
+  const rest = posts.filter((p) => !featuredSet.has(p.slug));
+  const latest = [...featured, ...rest].slice(0, 9);
 
   return (
     <>
