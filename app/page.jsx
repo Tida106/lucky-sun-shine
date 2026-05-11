@@ -63,9 +63,10 @@ export default function HomePage() {
               <Link
                 key={c.slug}
                 href={`/category/${c.slug}/`}
-                className="px-4 py-2 rounded-full bg-white/90 backdrop-blur-sm border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
+                className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/90 backdrop-blur-sm border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
               >
-                {c.icon} {c.title}
+                <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600" />
+                {c.title}
               </Link>
             ))}
           </div>
