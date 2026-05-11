@@ -20,7 +20,12 @@ const notoSerifJp = Noto_Serif_JP({
   display: 'swap',
 });
 
-const GSC_VERIFICATION = process.env.NEXT_PUBLIC_GSC_VERIFICATION;
+// Google Search Console verification token. Hardcoded for reliability
+// (so the meta tag ships even if the GitHub Variable is unset). An env
+// override is honored for future rotation without a code change.
+const GSC_VERIFICATION =
+  process.env.NEXT_PUBLIC_GSC_VERIFICATION ||
+  '9oLtqYSKbP7j7gtvkwyf5HGJT_Ty9eN7VTD6G8zggeQ';
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 export const metadata = {
