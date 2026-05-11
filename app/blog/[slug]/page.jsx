@@ -97,6 +97,11 @@ export default async function BlogPostPage({ params }) {
   );
   const related = [...sameCat, ...sameTag].slice(0, 6);
 
+  // Pillar hub for this category (skip when the post itself is the pillar)
+  const pillarPost = cat?.pillarSlug && post.slug !== cat.pillarSlug
+    ? all.find((p) => p.slug === cat.pillarSlug) || null
+    : null;
+
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
       <article className="min-w-0">
@@ -171,6 +176,30 @@ export default async function BlogPostPage({ params }) {
         </p>
 
         <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
+
+        {pillarPost && (
+          <Link
+            href={`/blog/${pillarPost.slug}/`}
+            className={`mt-10 block group rounded-2xl border-2 ${cat?.pastel?.accentBorder || 'border-amber-300'} ${cat?.pastel?.bg || 'bg-amber-50'} dark:bg-ink-900/40 p-5 hover:shadow-md transition-shadow`}
+          >
+            <div className="flex items-start gap-4">
+              <div className={`shrink-0 mt-0.5 inline-flex items-center justify-center w-10 h-10 rounded-full bg-white ${cat?.pastel?.accent || 'text-amber-700'}`}>
+                <CategoryIcon slug={cat?.slug || post.category} className="w-5 h-5" />
+              </div>
+              <div className="min-w-0">
+                <div className={`text-[11px] font-bold tracking-widest ${cat?.pastel?.accent || 'text-amber-700'}`}>
+                  カテゴリの完全ガイド
+                </div>
+                <h3 className="mt-1 font-display text-lg font-bold text-ink-900 dark:text-amber-50 group-hover:underline">
+                  {pillarPost.title}
+                </h3>
+                <p className="mt-1 text-sm text-ink-700 dark:text-amber-100/90">
+                  この記事のカテゴリの全体像はこちらにまとまっています →
+                </p>
+              </div>
+            </div>
+          </Link>
+        )}
 
         {/* In-article ad slot — renders nothing without an AdSense ID */}
         <div className="my-8">

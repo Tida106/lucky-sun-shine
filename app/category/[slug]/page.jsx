@@ -47,6 +47,30 @@ export default async function CategoryPage({ params }) {
       </section>
 
       <section className="max-w-6xl mx-auto px-4 py-10">
+        {cat.pillarSlug && (
+          <Link
+            href={`/blog/${cat.pillarSlug}/`}
+            className={`mb-8 block group rounded-2xl border-2 ${cat.pastel.accentBorder} ${cat.pastel.bg} dark:bg-ink-900/40 p-5 sm:p-6 hover:shadow-md transition-shadow`}
+          >
+            <div className="flex items-start gap-4">
+              <div className={`shrink-0 mt-0.5 inline-flex items-center justify-center w-10 h-10 rounded-full bg-white ${cat.pastel.accent}`}>
+                <CategoryIcon slug={cat.slug} className="w-5 h-5" />
+              </div>
+              <div className="min-w-0">
+                <div className={`text-[11px] font-bold tracking-widest ${cat.pastel.accent}`}>
+                  まずはここから — 完全ガイド
+                </div>
+                <h2 className="mt-1 font-display text-lg sm:text-xl font-bold text-ink-900 dark:text-amber-50 group-hover:underline">
+                  {cat.pillarTitle}
+                </h2>
+                <p className="mt-1 text-sm text-ink-700 dark:text-amber-100/90">
+                  カテゴリの全体像と基礎をまとめた総合ガイドです。初めての方はこちらから →
+                </p>
+              </div>
+            </div>
+          </Link>
+        )}
+
         <div className="flex items-end justify-between mb-6">
           <h2 className="font-display text-xl font-bold">記事一覧</h2>
           <span className="text-sm text-ink-500">{posts.length} 記事</span>

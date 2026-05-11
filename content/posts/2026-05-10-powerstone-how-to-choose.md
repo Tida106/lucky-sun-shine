@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["入門", "初心者", "選び方"]
 slug: "powerstone-how-to-choose"
-draft: false
+draft: true
+redirect_to: "/blog/how-to-choose-powerstones/"
 ---
 
 ## はじめに
