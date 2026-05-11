@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["転職運", "おすすめ石", "キャリア"]
 slug: "career-change-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#career"
 ---
 
 ## はじめに

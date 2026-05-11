@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["結婚運", "おすすめ石", "婚活"]
 slug: "marriage-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#marriage"
 ---
 
 ## はじめに

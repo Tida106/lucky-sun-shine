@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["勉強運", "おすすめ石", "受験"]
 slug: "study-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#study"
 ---
 
 ## はじめに

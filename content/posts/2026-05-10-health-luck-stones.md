@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["健康運", "おすすめ石", "ヒーリング"]
 slug: "health-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#health"
 ---
 
 ## はじめに

@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["仕事運", "おすすめ石", "タイガーアイ"]
 slug: "work-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#work"
 ---
 
 ## はじめに

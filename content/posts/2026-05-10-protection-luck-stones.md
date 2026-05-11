@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["厄除け", "おすすめ石", "守護"]
 slug: "protection-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#protection"
 ---
 
 ## はじめに

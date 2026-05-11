@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["子宝", "おすすめ石", "安産"]
 slug: "fertility-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#fertility"
 ---
 
 ## はじめに

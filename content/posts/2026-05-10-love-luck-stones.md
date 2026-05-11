@@ -5,7 +5,8 @@ date: "2026-05-10"
 category: "powerstones"
 tags: ["恋愛運", "おすすめ石", "ローズクォーツ"]
 slug: "love-luck-stones"
-draft: false
+draft: true
+redirect_to: "/blog/luck-powerstones-complete-guide/#love"
 ---
 
 ## はじめに
