@@ -3,7 +3,9 @@ import { categories } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import Logo from './Logo';
 import ThemeToggle from './ThemeToggle';
-import { SearchIcon, YoutubeIcon } from './icons/NavIcons';
+import { SearchIcon, YoutubeIcon, InstagramIcon } from './icons/NavIcons';
+
+const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
 
 export default function Header() {
   return (
@@ -44,6 +46,16 @@ export default function Header() {
           >
             <SearchIcon className="w-[18px] h-[18px]" />
           </Link>
+          <a
+            href={INSTAGRAM_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Lucky Sun Shine の Instagram を開く"
+            title="Instagram"
+            className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-amber-200 dark:border-amber-700 hover:bg-amber-50 dark:hover:bg-ink-700 transition-colors text-[#C9A96E] hover:text-[#9C7A47] dark:text-amber-400 dark:hover:text-amber-200"
+          >
+            <InstagramIcon className="w-[18px] h-[18px]" />
+          </a>
           <ThemeToggle />
         </div>
       </div>
