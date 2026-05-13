@@ -6,8 +6,10 @@ import PostCard from '@/components/PostCard';
 import PopularPosts from '@/components/PopularPosts';
 import CategoryIcon from '@/components/CategoryIcon';
 import SunOrnament from '@/components/icons/SunOrnament';
+import Sparkles from '@/components/icons/Sparkles';
 import SunDivider from '@/components/SunDivider';
 import ScrollReveal from '@/components/ScrollReveal';
+import PositiveBanner from '@/components/PositiveBanner';
 
 export const metadata = {
   title: 'Lucky Sun Shine | パワーストーン・パワースポット・開運の総合メディア',
@@ -72,7 +74,13 @@ export default function HomePage() {
               <SunOrnament className="hidden md:inline-block w-6 h-6 text-amber-500 opacity-70 shrink-0" strokeWidth={1.1} />
             </span>
           </h1>
-          <p className="mt-5 max-w-2xl mx-auto text-ink-700 dark:text-amber-100 text-sm md:text-base leading-relaxed">
+          {/* Catchphrases — H1 直下の3行。font-display(Noto Serif JP) を継承し、
+              濃いめのゴールド(#9C7A47 ≒ text-amber-700)でほんのり小さめに重ねる。 */}
+          <div className="mt-6 space-y-2 font-display font-bold text-amber-700 dark:text-amber-300 leading-snug">
+            <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる。</p>
+            <p className="text-lg md:text-2xl">あなたは、絶対運がいい。</p>
+          </div>
+          <p className="mt-6 max-w-2xl mx-auto text-ink-700 dark:text-amber-100 text-sm md:text-base leading-relaxed">
             パワーストーン・パワースポット・開運グッズ・運気アップ習慣。<br />
             日々の暮らしに「ちょっといい兆し」を取り入れるためのメディアです。
           </p>
@@ -134,7 +142,7 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      <SunDivider />
+      <PositiveBanner tone="pink" message="あなたは、存在しているだけで価値がある。" />
 
       {/* Latest posts + sidebar popular */}
       <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
@@ -164,7 +172,79 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      <SunDivider />
+      <PositiveBanner tone="peach" message="あなたには、絶対魅力がある。" />
+
+      {/* Pickup featured pillar/hub articles — surface curated entry points
+          in a distinct band, separate from the date-ordered latest grid. */}
+      <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16">
+        <div className="mb-8">
+          <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-3">
+            <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
+            <span>ピックアップ記事</span>
+          </h2>
+          <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
+          <p className="mt-3 ml-9 text-sm text-ink-500 dark:text-amber-200">
+            開運を始めるなら、まずここから読んでほしいガイド記事。
+          </p>
+        </div>
+        {featured.length === 0 ? (
+          <p className="text-ink-500 text-sm">準備中です。</p>
+        ) : (
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {featured.slice(0, 6).map((p) => (
+              <PostCard key={p.slug} post={p} />
+            ))}
+          </div>
+        )}
+      </ScrollReveal>
+
+      <PositiveBanner tone="cream" message="大丈夫、絶対うまくいく。" />
+
+      {/* YouTube channel intro — bridge to /recommend-youtube without
+          duplicating the channel cards on the home page. */}
+      <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16">
+        <div className="mb-8">
+          <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-3">
+            <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
+            <span>YouTubeチャンネル紹介</span>
+          </h2>
+          <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
+        </div>
+        <Link
+          href="/recommend-youtube/"
+          className="group block rounded-2xl overflow-hidden border border-amber-200 dark:border-amber-700 bg-gradient-to-br from-amber-50 via-rose-50 to-orange-50 dark:from-amber-900/30 dark:via-rose-900/30 dark:to-orange-900/30 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"
+        >
+          <div className="grid gap-6 md:grid-cols-[auto_minmax(0,1fr)] items-center p-6 md:p-8">
+            <div className="flex items-center justify-center">
+              <div className="w-20 h-20 md:w-24 md:h-24 rounded-full bg-white/80 dark:bg-ink-900/60 flex items-center justify-center shadow-inner">
+                <svg viewBox="0 0 24 24" className="w-10 h-10 md:w-12 md:h-12 text-rose-500" fill="currentColor" aria-hidden="true">
+                  <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6a3 3 0 0 0-2.1 2.1C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.3 3.6-6.3 3.6z" />
+                </svg>
+              </div>
+            </div>
+            <div>
+              <p className="inline-flex items-center gap-2 text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">
+                <Sparkles className="w-4 h-4 text-amber-600" />
+                <span>RECOMMEND</span>
+              </p>
+              <h3 className="mt-2 font-display text-xl md:text-2xl font-extrabold text-ink-900 dark:text-amber-50 leading-snug group-hover:text-amber-700 dark:group-hover:text-amber-300 transition-colors">
+                開運に役立つおすすめYouTubeチャンネル
+              </h3>
+              <p className="mt-3 text-sm md:text-base text-ink-700 dark:text-amber-100 leading-relaxed">
+                神社・パワースポット・占い・パワーストーン――。
+                記事だけでは伝わらない空気感や語り手の熱量は、動画でしか得られないもの。
+                Lucky Sun Shine が実際に視聴している、本当に学びになる4チャンネルを厳選して紹介します。
+              </p>
+              <span className="mt-4 inline-flex items-center gap-1 text-sm font-bold text-amber-700 dark:text-amber-300 group-hover:underline">
+                おすすめチャンネルを見る
+                <span aria-hidden="true">→</span>
+              </span>
+            </div>
+          </div>
+        </Link>
+      </ScrollReveal>
+
+      <PositiveBanner tone="gold" message="今日も、お日さまはあなたの味方。" />
     </>
   );
 }
