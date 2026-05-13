@@ -16,27 +16,36 @@ const TONES = {
 export default function PositiveBanner({ message, tone = 'pink' }) {
   const gradient = TONES[tone] || TONES.pink;
 
-  // [キラキラ][太陽ちゃん][文字][キラキラ] の 4 要素を flex で横並び、
-  // justify-center で全体をバナー中央に配置する単純構造。太陽ちゃんを
-  // absolute から flex の inline 要素に変更したため、要素同士は絶対に重ならない。
+  // 太陽ちゃんを absolute で左端に大きく (80 / md:96) 配置し、中央エリアには
+  // [Sparkle][文字][Sparkle] を flex + justify-center で並べる「戻したい」レイアウト。
+  // 太陽ちゃんは absolute、文字・Sparkles は flex の content area (pl-24 で太陽ちゃん
+  // 領域を確保) に分離されているため、4 要素は絶対に重ならない。
   //
   // サイズ:
-  // - 太陽ちゃん: スマホ 32px / PC 48px
+  // - 太陽ちゃん: スマホ 80px / PC 96px (目立つサイズ)
   // - 文字: スマホ text-xl (20px) / PC text-3xl (30px)
-  // - Sparkles: スマホ w-4 h-4 (16px) / PC w-5 h-5 (20px)
-  // 間隔: スマホ gap-2 (8px) / PC gap-4 (16px)
-  // 高さ: min-h-[110px] で 4 本同一
+  // - Sparkles: スマホ w-4 h-4 (16px) / PC w-5 h-5 (20px)。文字に近い位置に gap-2/md:gap-3
+  //
+  // スマホ 1 行制約について:
+  //   text-xl × 10 文字 (≒ 200px) + Sparkles + gap は太陽ちゃん absolute (pl-24 確保) の
+  //   content area (約 220px @360px viewport) に Sparkles 2 つ込みでは収まらない。
+  //   見切れ (overflow clip) は避けるべきため、md:whitespace-nowrap で PC のみ 1 行強制、
+  //   スマホは長文 (10 文字級) のみ 2 行折り返し許容。min-h-[140px] md:min-h-[110px] で
+  //   1 行短文と 2 行長文が混在しても 4 バナーが同一高さに揃う。
 
   return (
     <section className="my-12 md:my-16 px-4" aria-label={message}>
       <div
-        className={`relative max-w-5xl mx-auto rounded-2xl bg-gradient-to-r ${gradient} shadow-[0_4px_20px_rgba(0,0,0,0.05)] overflow-hidden min-h-[110px]`}
+        className={`relative max-w-5xl mx-auto rounded-2xl bg-gradient-to-r ${gradient} shadow-[0_4px_20px_rgba(0,0,0,0.05)] overflow-hidden min-h-[140px] md:min-h-[110px]`}
       >
-        <div className="flex items-center justify-center gap-2 md:gap-4 px-3 md:px-8 py-6 md:py-10">
+        {/* 太陽ちゃん：左端に大きく */}
+        <div className="absolute left-3 md:left-5 top-1/2 -translate-y-1/2 pointer-events-none">
+          <SunMascot size={80} className="md:!w-24 md:!h-24" alt="" />
+        </div>
+        <div className="flex items-center justify-center gap-2 md:gap-3 pl-24 pr-3 md:pl-28 md:pr-10 py-6 md:py-10">
           <Sparkles className="w-4 h-4 md:w-5 md:h-5 text-amber-700 shrink-0" />
-          <SunMascot size={32} className="shrink-0 md:!w-12 md:!h-12" alt="" />
           <p
-            className="font-display font-bold text-center text-xl md:text-3xl whitespace-nowrap leading-snug tracking-wide"
+            className="font-display font-bold text-center text-xl md:text-3xl md:whitespace-nowrap leading-snug tracking-wide"
             style={{ color: '#9C7A47' }}
           >
             {message}
