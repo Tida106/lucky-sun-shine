@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 // マスコット「太陽ちゃん」。
-// public/mascot-sun.png が存在すれば <img> で表示。
+// public/images/mascot-sun.png が存在すれば <img> で表示。
 // まだ画像を配置していない / 読み込みに失敗した場合は
 // 金髪・天使の輪・笑顔のプレースホルダーSVGに自動フォールバック。
 // 後で画像が用意され public/ 配下に置かれれば自動で切り替わる。
@@ -24,7 +24,7 @@ export default function SunMascot({
 
   return (
     <img
-      src="/mascot-sun.png"
+      src="/images/mascot-sun.png"
       alt={alt}
       width={size}
       height={size}
