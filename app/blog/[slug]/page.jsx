@@ -7,6 +7,8 @@ import RelatedProducts from '@/components/RelatedProducts';
 import Sidebar from '@/components/Sidebar';
 import AdUnit from '@/components/AdUnit';
 import CategoryIcon from '@/components/CategoryIcon';
+import PostCard from '@/components/PostCard';
+import SunOrnament from '@/components/icons/SunOrnament';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -90,12 +92,22 @@ export default async function BlogPostPage({ params }) {
   const prev = idx > 0 ? all[idx - 1] : null;
   const next = idx < all.length - 1 ? all[idx + 1] : null;
 
-  // Related: same category first, then matching tags, dedupe, max 6
+  // 「あわせて読みたい」: 同カテゴリから最大3記事。
+  // スラグから決定的にシャッフルすることで、記事ごとに並び順が変わりつつ
+  // ビルド間でブレない(静的書き出しでもハイドレーション差異が出ない)。
   const sameCat = all.filter((p) => p.slug !== post.slug && p.category === post.category);
-  const sameTag = all.filter(
-    (p) => p.slug !== post.slug && p.category !== post.category && p.tags.some((t) => post.tags.includes(t))
-  );
-  const related = [...sameCat, ...sameTag].slice(0, 6);
+  const seedHash = (() => {
+    let h = 0;
+    for (let i = 0; i < post.slug.length; i += 1) {
+      h = (h * 31 + post.slug.charCodeAt(i)) >>> 0;
+    }
+    return h;
+  })();
+  const shuffled = sameCat
+    .map((p, i) => ({ p, k: ((seedHash + i * 2654435761) >>> 0) }))
+    .sort((a, b) => a.k - b.k)
+    .map((x) => x.p);
+  const alsoRead = shuffled.slice(0, 3);
 
   // Pillar hub for this category (skip when the post itself is the pillar)
   const pillarPost = cat?.pillarSlug && post.slug !== cat.pillarSlug
@@ -246,27 +258,20 @@ export default async function BlogPostPage({ params }) {
           )}
         </nav>
 
-        {related.length > 0 && (
+        {alsoRead.length > 0 && (
           <section className="mt-12">
-            <h2 className="font-display text-xl font-bold text-ink-900 mb-4">
-              関連記事
-            </h2>
-            <ul className="grid gap-3 sm:grid-cols-2">
-              {related.map((r) => {
-                const rcat = getCategory(r.category);
-                return (
-                  <li key={r.slug}>
-                    <Link href={`/blog/${r.slug}/`} className="block p-3 rounded-lg bg-white border border-amber-100 hover:border-amber-400">
-                      <div className={`text-[11px] inline-flex items-center gap-1 ${rcat?.pastel?.accent || 'text-amber-700'}`}>
-                        {rcat && <CategoryIcon slug={rcat.slug} className="w-3 h-3" />}
-                        {rcat?.title}
-                      </div>
-                      <div className="text-sm font-bold line-clamp-2 mt-1">{r.title}</div>
-                    </Link>
-                  </li>
-                );
-              })}
-            </ul>
+            <div className="mb-6">
+              <h2 className="font-display text-xl md:text-2xl font-bold text-ink-900 flex items-center gap-3">
+                <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-500 shrink-0" />
+                <span>あわせて読みたい</span>
+              </h2>
+              <span aria-hidden="true" className="heading-rule mt-3 ml-8" />
+            </div>
+            <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+              {alsoRead.map((r) => (
+                <PostCard key={r.slug} post={r} />
+              ))}
+            </div>
           </section>
         )}
       </article>

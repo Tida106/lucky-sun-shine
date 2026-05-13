@@ -10,6 +10,7 @@ import Sparkles from '@/components/icons/Sparkles';
 import SunDivider from '@/components/SunDivider';
 import ScrollReveal from '@/components/ScrollReveal';
 import PositiveBanner from '@/components/PositiveBanner';
+import SunMascot from '@/components/SunMascot';
 
 export const metadata = {
   title: 'Lucky Sun Shine | パワーストーン・パワースポット・開運の総合メディア',
@@ -28,6 +29,31 @@ const FEATURED_SLUGS = [
   'luck-powerstones-complete-guide', // hub — 目的別ガイド
   'zodiac-powerstones-guide',        // hub — 12星座
   'birthstone-guide',                // hub — 12誕生石
+];
+
+// 初めての訪問者にまず読んでほしい3記事。優しいオンボーディング目的。
+const FIRST_VISIT_PICKS = [
+  {
+    slug: 'how-to-choose-powerstones',
+    label: 'パワーストーン',
+    headline: '自分に合う石の選び方',
+    body: '直感と目的、両方を大切にしながら、自分の石と出会うコツをまとめました。',
+    gradient: 'from-rose-50 via-pink-50 to-amber-50',
+  },
+  {
+    slug: 'shrine-visit-basics',
+    label: 'パワースポット',
+    headline: '神社参拝のキホン',
+    body: '手順・作法・心構え。緊張しなくても大丈夫、最初の一歩を一緒に踏み出しましょう。',
+    gradient: 'from-emerald-50 via-amber-50 to-yellow-50',
+  },
+  {
+    slug: 'lucky-habits-guide',
+    label: '運気アップ習慣',
+    headline: '毎日の小さな開運習慣',
+    body: '朝・夜・お財布・お部屋。今日から無理なく始められる開運のヒントを集めました。',
+    gradient: 'from-sky-50 via-amber-50 to-orange-50',
+  },
 ];
 
 export default function HomePage() {
@@ -58,7 +84,7 @@ export default function HomePage() {
           aria-hidden="true"
           className="absolute inset-0 -z-10 bg-gradient-to-b from-white/70 via-white/60 to-white/70"
         />
-        <div className="max-w-6xl mx-auto px-4 pt-12 pb-20 md:pt-20 md:pb-28 text-center">
+        <div className="max-w-6xl mx-auto px-4 pt-6 pb-10 md:pt-10 md:pb-14 text-center">
           <p className="inline-flex items-center justify-center gap-3 text-amber-700 tracking-[0.3em] text-xs md:text-sm font-bold">
             <SunOrnament className="w-4 h-4 text-amber-500" />
             <span>LUCKY SUN SHINE</span>
@@ -75,10 +101,14 @@ export default function HomePage() {
             </span>
           </h1>
           {/* Catchphrases — H1 直下の3行。font-display(Noto Serif JP) を継承し、
-              濃いめのゴールド(#9C7A47 ≒ text-amber-700)でほんのり小さめに重ねる。 */}
-          <div className="mt-6 space-y-2 font-display font-bold text-amber-700 leading-snug">
-            <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる。</p>
-            <p className="text-lg md:text-2xl">あなたは、絶対運がいい。</p>
+              濃いめのゴールド(#9C7A47 ≒ text-amber-700)でほんのり小さめに重ねる。
+              横に太陽ちゃんを並べて温度感を出す。 */}
+          <div className="mt-6 flex items-center justify-center gap-3 md:gap-5">
+            <SunMascot size={72} className="shrink-0 md:!w-24 md:!h-24" priority alt="太陽ちゃん" />
+            <div className="space-y-2 font-display font-bold text-amber-700 leading-snug text-left">
+              <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる。</p>
+              <p className="text-lg md:text-2xl">あなたは、絶対運がいい。</p>
+            </div>
           </div>
           <p className="mt-6 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
             パワーストーン・パワースポット・開運グッズ・運気アップ習慣。<br />
@@ -97,7 +127,7 @@ export default function HomePage() {
             ))}
           </div>
           {/* Scroll cue — gently bouncing chevron */}
-          <div className="mt-12 md:mt-14 flex justify-center" aria-hidden="true">
+          <div className="mt-6 md:mt-8 flex justify-center" aria-hidden="true">
             <svg
               viewBox="0 0 24 24"
               className="scroll-cue w-6 h-6 text-amber-600"
@@ -115,12 +145,54 @@ export default function HomePage() {
 
       <SunDivider />
 
+      {/* First-visit onboarding — まずはこの3記事から */}
+      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pt-8 pb-12 md:pt-10 md:pb-14">
+        <div className="text-center mb-8">
+          <p className="inline-flex items-center justify-center gap-2 text-amber-700 text-xs font-bold tracking-widest">
+            <Sparkles className="w-4 h-4 text-amber-600" />
+            <span>FIRST VISIT</span>
+            <Sparkles className="w-4 h-4 text-amber-600" />
+          </p>
+          <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
+            はじめましての方へ
+          </h2>
+          <p className="mt-3 text-sm md:text-base text-ink-700">
+            まずはこの3記事から読んでみてね☀️
+          </p>
+        </div>
+        <div className="grid gap-4 md:gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {FIRST_VISIT_PICKS.map((pick) => (
+            <Link
+              key={pick.slug}
+              href={`/blog/${pick.slug}/`}
+              className={`group block rounded-2xl border-2 border-amber-300 bg-gradient-to-br ${pick.gradient} p-5 md:p-6 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out`}
+            >
+              <div className="text-[11px] font-bold tracking-widest text-amber-700">
+                {pick.label}
+              </div>
+              <h3 className="mt-2 font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-amber-700 transition-colors">
+                {pick.headline}
+              </h3>
+              <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+                {pick.body}
+              </p>
+              <span className="mt-4 inline-flex items-center gap-1 text-sm font-bold text-amber-700 group-hover:underline">
+                読んでみる
+                <span aria-hidden="true">→</span>
+              </span>
+            </Link>
+          ))}
+        </div>
+      </ScrollReveal>
+
+      <SunDivider />
+
       {/* Categories */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-16">
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
             <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
-            <span>カテゴリから探す</span>
+            <span>今日の運、どこから上げる？</span>
           </h2>
           <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
         </div>
@@ -151,7 +223,7 @@ export default function HomePage() {
             <div>
               <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
                 <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
-                <span>最新の記事</span>
+                <span>最近、こんな話を集めてます</span>
               </h2>
               <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
             </div>
@@ -180,7 +252,7 @@ export default function HomePage() {
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
             <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
-            <span>ピックアップ記事</span>
+            <span>お日さまのおすそわけ</span>
           </h2>
           <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
           <p className="mt-3 ml-9 text-sm text-ink-500">
@@ -206,7 +278,7 @@ export default function HomePage() {
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
             <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
-            <span>YouTubeチャンネル紹介</span>
+            <span>ちょっと寄ってって</span>
           </h2>
           <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
         </div>
