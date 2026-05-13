@@ -16,9 +16,12 @@ const TONES = {
 export default function PositiveBanner({ message, tone = 'pink' }) {
   const gradient = TONES[tone] || TONES.pink;
 
-  // PC・スマホとも 1 行強制で 4 バナー間のフォントサイズを統一する。
-  // スマホは text-base (16px)、PC は text-3xl (30px)。短文（最大 10 文字）前提のため、
-  // 360px 幅でも whitespace-nowrap で折り返さず収まる。
+  // 4バナー間でフォントサイズ・太陽ちゃんサイズ・高さを完全統一する。
+  // 文字: スマホ text-2xl (24px) / PC text-3xl (30px)
+  // 太陽ちゃん: スマホ 64px / PC 80px
+  // 高さ: minHeight 110px + py-8 (PC は py-10) で全バナー一律
+  // スマホでは Sparkles を非表示にして「今日という日に感謝！」など 10 文字の
+  // 短文を 360px 幅でも whitespace-nowrap で折り返さず収める。
 
   return (
     <section className="my-12 md:my-16 px-4" aria-label={message}>
@@ -30,15 +33,15 @@ export default function PositiveBanner({ message, tone = 'pink' }) {
         <div className="absolute left-3 md:left-5 top-1/2 -translate-y-1/2 pointer-events-none">
           <SunMascot size={64} className="md:!w-20 md:!h-20" alt="" />
         </div>
-        <div className="flex items-center justify-center gap-2 md:gap-6 pl-20 pr-4 md:pl-28 md:pr-10 py-8 md:py-10">
-          <Sparkles className="w-4 h-4 md:w-7 md:h-7 text-amber-700 shrink-0" />
+        <div className="flex items-center justify-center md:gap-6 pl-20 pr-2 md:pl-28 md:pr-10 py-8 md:py-10">
+          <Sparkles className="hidden md:block w-7 h-7 text-amber-700 shrink-0" />
           <p
-            className="font-display font-bold text-center text-base md:text-3xl whitespace-nowrap leading-snug tracking-wide"
+            className="font-display font-bold text-center text-2xl md:text-3xl whitespace-nowrap leading-snug tracking-wide"
             style={{ color: '#9C7A47' }}
           >
             {message}
           </p>
-          <Sparkles className="w-4 h-4 md:w-7 md:h-7 text-amber-700 shrink-0" />
+          <Sparkles className="hidden md:block w-7 h-7 text-amber-700 shrink-0" />
         </div>
       </div>
     </section>
