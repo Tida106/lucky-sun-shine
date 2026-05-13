@@ -22,7 +22,7 @@ export default function Footer() {
                 <span>太陽ちゃんからのメッセージ</span>
               </p>
               <p className="mt-2 font-display font-bold text-lg md:text-xl text-ink-900 leading-snug">
-                今日も、ここまでよく頑張ったね。
+                来てくれてありがとう！
               </p>
               <p className="mt-2 text-sm text-ink-700 leading-relaxed">
                 うまくいかない日も、なんでもない日も、お日さまはちゃんとあなたを見てるよ。
