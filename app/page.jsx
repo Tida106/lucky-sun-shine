@@ -214,7 +214,7 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      <PositiveBanner tone="pink" message="あなたはかけがえのない存在！" />
+      <PositiveBanner tone="pink" message="あなたは最高！" />
 
       {/* Latest posts + sidebar popular */}
       <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
@@ -244,7 +244,7 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      <PositiveBanner tone="peach" message="あなたには魅力がある！" />
+      <PositiveBanner tone="peach" message="今日という日に感謝！" />
 
       {/* Pickup featured pillar/hub articles — surface curated entry points
           in a distinct band, separate from the date-ordered latest grid. */}
@@ -270,7 +270,7 @@ export default function HomePage() {
         )}
       </ScrollReveal>
 
-      <PositiveBanner tone="cream" message="大丈夫、うまくいく！" nowrap />
+      <PositiveBanner tone="cream" message="大丈夫、うまくいく！" />
 
       {/* YouTube channel intro — bridge to /recommend-youtube without
           duplicating the channel cards on the home page. */}
@@ -316,7 +316,7 @@ export default function HomePage() {
         </Link>
       </ScrollReveal>
 
-      <PositiveBanner tone="gold" message="今日も私はあなたの味方！" />
+      <PositiveBanner tone="gold" message="人生を楽しもう！" />
     </>
   );
 }
