@@ -13,8 +13,22 @@ const TONES = {
   gold: 'from-amber-200 via-amber-100 to-yellow-100',
 };
 
-export default function PositiveBanner({ message, tone = 'pink' }) {
+export default function PositiveBanner({ message, tone = 'pink', nowrap = false }) {
   const gradient = TONES[tone] || TONES.pink;
+
+  // nowrap=true: PC/スマホとも1行強制。スマホでは文字とSparklesを一段小さくして
+  // 余白も詰めることで「大丈夫、絶対うまくいく！」など 11〜12 文字の短文を
+  // 360px 幅でも折り返さずに収める。
+  const rowPadding = nowrap
+    ? 'pl-20 pr-4 md:pl-28 md:pr-10'
+    : 'pl-20 pr-6 md:pl-28 md:pr-10';
+  const rowGap = nowrap ? 'gap-2 md:gap-6' : 'gap-3 md:gap-6';
+  const sparkleSize = nowrap
+    ? 'w-4 h-4 md:w-7 md:h-7'
+    : 'w-5 h-5 md:w-7 md:h-7';
+  const textSize = nowrap
+    ? 'text-base md:text-3xl whitespace-nowrap'
+    : 'text-xl md:text-3xl';
 
   return (
     <section className="my-12 md:my-16 px-4" aria-label={message}>
@@ -26,15 +40,15 @@ export default function PositiveBanner({ message, tone = 'pink' }) {
         <div className="absolute left-3 md:left-5 top-1/2 -translate-y-1/2 pointer-events-none">
           <SunMascot size={64} className="md:!w-20 md:!h-20" alt="" />
         </div>
-        <div className="flex items-center justify-center gap-3 md:gap-6 pl-20 pr-6 md:pl-28 md:pr-10 py-8 md:py-10">
-          <Sparkles className="w-5 h-5 md:w-7 md:h-7 text-amber-700 shrink-0" />
+        <div className={`flex items-center justify-center ${rowGap} ${rowPadding} py-8 md:py-10`}>
+          <Sparkles className={`${sparkleSize} text-amber-700 shrink-0`} />
           <p
-            className="font-display font-bold text-center text-xl md:text-3xl leading-snug tracking-wide"
+            className={`font-display font-bold text-center ${textSize} leading-snug tracking-wide`}
             style={{ color: '#9C7A47' }}
           >
             {message}
           </p>
-          <Sparkles className="w-5 h-5 md:w-7 md:h-7 text-amber-700 shrink-0" />
+          <Sparkles className={`${sparkleSize} text-amber-700 shrink-0`} />
         </div>
       </div>
     </section>

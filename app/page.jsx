@@ -106,8 +106,8 @@ export default function HomePage() {
           <div className="mt-6 flex items-center justify-center gap-3 md:gap-5">
             <SunMascot size={72} className="shrink-0 md:!w-24 md:!h-24" priority alt="太陽ちゃん" />
             <div className="space-y-2 font-display font-bold text-amber-700 leading-snug text-left">
-              <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる。</p>
-              <p className="text-lg md:text-2xl">あなたは、絶対運がいい。</p>
+              <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる！</p>
+              <p className="text-lg md:text-2xl">あなたは、絶対運がいい！</p>
             </div>
           </div>
           <p className="mt-6 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
@@ -214,7 +214,7 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      <PositiveBanner tone="pink" message="あなたは、存在しているだけで価値がある。" />
+      <PositiveBanner tone="pink" message="あなたは、存在しているだけで価値がある！" />
 
       {/* Latest posts + sidebar popular */}
       <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
@@ -244,7 +244,7 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      <PositiveBanner tone="peach" message="あなたには、絶対魅力がある。" />
+      <PositiveBanner tone="peach" message="あなたには、絶対魅力がある！" />
 
       {/* Pickup featured pillar/hub articles — surface curated entry points
           in a distinct band, separate from the date-ordered latest grid. */}
@@ -270,7 +270,7 @@ export default function HomePage() {
         )}
       </ScrollReveal>
 
-      <PositiveBanner tone="cream" message="大丈夫、絶対うまくいく。" />
+      <PositiveBanner tone="cream" message="大丈夫、絶対うまくいく！" nowrap />
 
       {/* YouTube channel intro — bridge to /recommend-youtube without
           duplicating the channel cards on the home page. */}
@@ -316,7 +316,7 @@ export default function HomePage() {
         </Link>
       </ScrollReveal>
 
-      <PositiveBanner tone="gold" message="今日も、お日さまはあなたの味方。" />
+      <PositiveBanner tone="gold" message="今日も、お日さまはあなたの味方！" />
     </>
   );
 }
