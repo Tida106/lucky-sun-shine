@@ -61,7 +61,7 @@ const ICONS = {
   'luck-habits': Sunrise,
 };
 
-export default function CategoryIcon({ slug, className = 'w-9 h-9 text-amber-600 dark:text-amber-400' }) {
+export default function CategoryIcon({ slug, className = 'w-9 h-9 text-amber-600' }) {
   const Icon = ICONS[slug];
   if (!Icon) return null;
   return <Icon className={className} />;

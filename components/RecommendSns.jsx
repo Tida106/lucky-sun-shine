@@ -12,7 +12,7 @@ const accounts = [
     description:
       '芸能界最強の占い師として知られるゲッターズ飯田氏の本人公式Instagram。これまで7万人以上を無償で占ってきた経験から、日々の開運メッセージや前向きになれる言葉を発信。フォロワー59万人超え。毎日の暮らしに開運のヒントを取り入れたい方におすすめのアカウントです。',
     color:
-      'from-rose-100 via-fuchsia-100 to-amber-100 dark:from-rose-900/40 dark:via-fuchsia-900/40 dark:to-amber-900/40',
+      'from-rose-100 via-fuchsia-100 to-amber-100',
     accent:
       'bg-gradient-to-r from-fuchsia-500 via-rose-500 to-amber-500 hover:from-fuchsia-600 hover:via-rose-600 hover:to-amber-600',
     cta: 'アカウントを見る',
@@ -45,16 +45,16 @@ const PLATFORM_META = {
 
 export default function RecommendSns() {
   return (
-    <section className="mt-12 pt-10 border-t border-amber-200 dark:border-amber-700">
+    <section className="mt-12 pt-10 border-t border-amber-200">
       <header className="text-center mb-8">
-        <p className="text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">
+        <p className="text-amber-700 text-xs font-bold tracking-widest">
           RECOMMEND SNS
         </p>
-        <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900 dark:text-amber-50 flex items-center justify-center gap-2">
+        <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900 flex items-center justify-center gap-2">
           <span aria-hidden="true">✨</span>
           おすすめ開運SNSアカウント
         </h2>
-        <p className="mt-3 max-w-2xl mx-auto text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+        <p className="mt-3 max-w-2xl mx-auto text-sm text-ink-700 leading-relaxed">
           毎日の暮らしに前向きなヒントを届けてくれる、開運・占いの公式SNSアカウントを厳選して紹介します。
         </p>
       </header>
@@ -66,24 +66,24 @@ export default function RecommendSns() {
           return (
             <article
               key={a.url}
-              className={`rounded-2xl border border-amber-200 dark:border-amber-700 bg-gradient-to-br ${a.color} p-5 md:p-6 flex flex-col`}
+              className={`rounded-2xl border border-amber-200 bg-gradient-to-br ${a.color} p-5 md:p-6 flex flex-col`}
             >
-              <div className="flex items-center gap-2 text-xs font-bold text-amber-700 dark:text-amber-300 tracking-wider">
+              <div className="flex items-center gap-2 text-xs font-bold text-amber-700 tracking-wider">
                 <Icon width={16} height={16} />
                 <span>{meta.label}</span>
               </div>
-              <h3 className="mt-2 font-display text-xl md:text-2xl font-extrabold text-ink-900 dark:text-amber-50">
+              <h3 className="mt-2 font-display text-xl md:text-2xl font-extrabold text-ink-900">
                 {a.name}
               </h3>
-              <div className="text-xs text-ink-500 dark:text-amber-200 mt-0.5">
+              <div className="text-xs text-ink-500 mt-0.5">
                 {a.subtitle} ・ {a.handle}
               </div>
 
-              <p className="mt-3 text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+              <p className="mt-3 text-sm text-ink-700 leading-relaxed">
                 {a.description}
               </p>
 
-              <div className="mt-5 pt-4 border-t border-amber-200/60 dark:border-amber-700/60">
+              <div className="mt-5 pt-4 border-t border-amber-200/60">
                 <a
                   href={a.url}
                   target="_blank"
@@ -95,7 +95,7 @@ export default function RecommendSns() {
                   {a.cta}
                   <span aria-hidden="true">→</span>
                 </a>
-                <p className="mt-2 text-[11px] text-ink-500 dark:text-amber-200 text-center">
+                <p className="mt-2 text-[11px] text-ink-500 text-center">
                   {meta.label} に移動します
                 </p>
               </div>
@@ -104,7 +104,7 @@ export default function RecommendSns() {
         })}
       </div>
 
-      <p className="mt-6 text-xs text-ink-500 dark:text-amber-200 text-center leading-relaxed">
+      <p className="mt-6 text-xs text-ink-500 text-center leading-relaxed">
         ※ 紹介アカウントの運営者様とは資本関係・PR関係はありません。
         「Instagram」は Meta Platforms, Inc. の商標です。
       </p>

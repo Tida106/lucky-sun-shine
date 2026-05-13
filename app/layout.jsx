@@ -80,23 +80,8 @@ export const metadata = {
 
 export const viewport = {
   themeColor: '#f59e0b',
-  colorScheme: 'light dark',
+  colorScheme: 'light',
 };
-
-// Set the dark/light class on <html> *before* React paints, so we
-// don't flash light styles on a user who chose dark.
-const themeInitScript = `
-(function() {
-  try {
-    var stored = localStorage.getItem('theme');
-    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    var theme = stored || (prefersDark ? 'dark' : 'light');
-    if (theme === 'dark') {
-      document.documentElement.classList.add('dark');
-    }
-  } catch (e) { /* localStorage may be denied — fail silently */ }
-})();
-`;
 
 // Register the service worker as soon as the page is interactive.
 // Skipped when no SW file is present (static export still serves /sw.js
@@ -125,13 +110,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ja" className={`${notoSansJp.variable} ${notoSerifJp.variable}`}>
       <head>
-        {/* Apply theme before paint to avoid FOUC */}
-        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
         {/* Lightweight in-browser security headers via http-equiv */}
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
       </head>
-      <body className="min-h-screen flex flex-col sunray-bg dark:bg-ink-900 dark:text-amber-50">
+      <body className="min-h-screen flex flex-col sunray-bg">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}

@@ -61,7 +61,7 @@ export default function Logo({
 
   const wordmark = (
     <span
-      className={`font-serif font-light tracking-[0.1em] text-amber-900 dark:text-amber-200 ${wordmarkClassName}`}
+      className={`font-serif font-light tracking-[0.1em] text-amber-900 ${wordmarkClassName}`}
       style={{ fontWeight: 300 }}
     >
       Lucky Sun Shine

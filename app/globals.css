@@ -11,11 +11,6 @@
   --color-accent: #C9A96E;
 }
 
-.dark {
-  --color-bg: #1a1410;
-  --color-fg: #F4E9D1;
-}
-
 html {
   scroll-behavior: smooth;
 }
@@ -116,14 +111,6 @@ select:focus-visible,
     border-color: #B8935A;
     color: #6E5631;
   }
-  .dark .btn-secondary {
-    color: #DCBE85;
-    border-color: #C9A96E;
-  }
-  .dark .btn-secondary:hover {
-    background-color: rgba(201, 169, 110, 0.12);
-    color: #F4E9D1;
-  }
 
   /* Animated underline that scales in from the left on hover/focus.
      Apply to inline text links; sits 2px below the baseline. */
@@ -156,49 +143,6 @@ select:focus-visible,
 @keyframes scroll-cue-bounce {
   0%, 100% { transform: translateY(0); opacity: 0.55; }
   50%      { transform: translateY(6px); opacity: 1; }
-}
-
-/* Dark-mode prose overrides */
-.dark .prose-article {
-  color: #E8D4A8;
-}
-.dark .prose-article h2 {
-  color: #F4E9D1;
-  border-left-color: #C9A96E;
-}
-.dark .prose-article h3 {
-  color: #DCBE85;
-}
-.dark .prose-article a {
-  color: #DCBE85;
-}
-.dark .prose-article strong {
-  color: #E8D4A8;
-}
-.dark .prose-article blockquote {
-  background: #3b322a;
-  border-left-color: #C9A96E;
-  color: #E8D4A8;
-}
-.dark .prose-article code {
-  background: #3b322a;
-  color: #E8D4A8;
-}
-.dark .prose-article hr {
-  border-top-color: #6b5d50;
-}
-.dark .prose-article th {
-  background: #3b322a;
-  color: #F4E9D1;
-}
-.dark .prose-article th, .dark .prose-article td {
-  border-color: #6b5d50;
-}
-
-.dark .sunray-bg {
-  background:
-    radial-gradient(ellipse at 50% -10%, rgba(201, 169, 110, 0.18) 0%, transparent 55%),
-    linear-gradient(180deg, #1a1410 0%, #0d0905 60%);
 }
 
 /* Article prose styling — applied to the rendered Markdown body. */

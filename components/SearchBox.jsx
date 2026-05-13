@@ -61,7 +61,7 @@ export default function SearchBox({ initialQuery = '', limit = 30, autofocus = f
         value={q}
         onChange={(e) => setQ(e.target.value)}
         placeholder="キーワードで検索（例：ローズクォーツ、金運、出雲大社）"
-        className="w-full px-4 py-3 rounded-full border border-amber-200 dark:border-amber-700 dark:bg-ink-900 dark:text-amber-50 focus:border-amber-500 focus:ring-2 focus:ring-amber-300 outline-none bg-white"
+        className="w-full px-4 py-3 rounded-full border border-amber-200 focus:border-amber-500 focus:ring-2 focus:ring-amber-300 outline-none bg-white"
       />
 
       {loading && <p className="mt-3 text-sm text-ink-500">検索インデックスを読み込み中…</p>}
@@ -70,16 +70,16 @@ export default function SearchBox({ initialQuery = '', limit = 30, autofocus = f
       {q.trim() && index && (
         <div className="mt-4">
           <p className="text-xs text-ink-500 mb-2">{results.length} 件ヒット</p>
-          <ul className="divide-y divide-amber-100 dark:divide-amber-800">
+          <ul className="divide-y divide-amber-100">
             {results.map((r) => (
               <li key={r.slug} className="py-3">
-                <Link href={`/blog/${r.slug}/`} className="block hover:bg-amber-50 dark:hover:bg-ink-700 rounded p-2 -mx-2">
-                  <div className="text-xs text-amber-700 dark:text-amber-300 font-bold">
+                <Link href={`/blog/${r.slug}/`} className="block hover:bg-amber-50 rounded p-2 -mx-2">
+                  <div className="text-xs text-amber-700 font-bold">
                     {r.category} · {new Date(r.date).toISOString().slice(0, 10)}
                   </div>
-                  <div className="font-bold text-ink-900 dark:text-amber-50 mt-1 leading-snug">{r.title}</div>
+                  <div className="font-bold text-ink-900 mt-1 leading-snug">{r.title}</div>
                   {r.description && (
-                    <div className="text-sm text-ink-700 dark:text-amber-100 mt-1 line-clamp-2">{r.description}</div>
+                    <div className="text-sm text-ink-700 mt-1 line-clamp-2">{r.description}</div>
                   )}
                 </Link>
               </li>

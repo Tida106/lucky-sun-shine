@@ -12,18 +12,18 @@ export default function AboutPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
       <header className="text-center mb-10">
-        <p className="text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">ABOUT</p>
-        <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900 dark:text-amber-50">
+        <p className="text-amber-700 text-xs font-bold tracking-widest">ABOUT</p>
+        <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900">
           このサイトについて
         </h1>
       </header>
 
       {/* Mission */}
-      <section className="rounded-2xl bg-gradient-to-br from-amber-50 to-rose-50 dark:from-amber-900/40 dark:to-rose-900/40 border border-amber-200 dark:border-amber-700 p-6 md:p-8 text-center">
-        <p className="font-display text-xl md:text-2xl font-bold text-ink-900 dark:text-amber-50 leading-relaxed">
+      <section className="rounded-2xl bg-gradient-to-br from-amber-50 to-rose-50 border border-amber-200 p-6 md:p-8 text-center">
+        <p className="font-display text-xl md:text-2xl font-bold text-ink-900 leading-relaxed">
           「占いより少し実用的に、<br />宗教より少しゆるく。」
         </p>
-        <p className="mt-3 text-sm text-ink-700 dark:text-amber-100">
+        <p className="mt-3 text-sm text-ink-700">
           毎日の暮らしに「ちょっといい兆し」を取り入れるためのメディアです。
         </p>
       </section>
@@ -69,7 +69,7 @@ export default function AboutPage() {
           <li><strong>更新主義</strong>：価格・情報は変動するもの。気づいたら随時更新し、更新日を明示します。</li>
         </ol>
         <p className="not-prose">
-          <Link href="/editorial-policy/" className="inline-block text-amber-800 dark:text-amber-200 underline">
+          <Link href="/editorial-policy/" className="inline-block text-amber-800 underline">
             → 詳しい記事作成方針はこちら
           </Link>
         </p>

@@ -25,7 +25,7 @@ const channels = [
     videoId: 'HJ4HqVCUgeE',
     featuredVideoTitle: '2025年に絶対に行きたい、すべての災いを取り除く最強の神社（寒川神社）',
     genre: '都市伝説・神社・パワースポット考察',
-    color: 'from-purple-100 to-rose-100 dark:from-purple-900/40 dark:to-rose-900/40',
+    color: 'from-purple-100 to-rose-100',
     accent: 'bg-purple-500 hover:bg-purple-600',
     icon: '🛸',
     intro: `都市伝説をベースに、全国の神社やパワースポットをエンタメとして深掘りしてくれるチャンネル。
@@ -45,7 +45,7 @@ const channels = [
     url: 'https://www.youtube.com/@あやかりチャンネル',
     uploadsPlaylistId: 'UU0Wv49l3qlIdFX69FKD3y1g',
     genre: '神社・神話・開運',
-    color: 'from-amber-100 to-emerald-100 dark:from-amber-900/40 dark:to-emerald-900/40',
+    color: 'from-amber-100 to-emerald-100',
     accent: 'bg-emerald-600 hover:bg-emerald-700',
     icon: '⛩️',
     intro: `神社ソムリエ・佐々木優太氏が運営する、本格派の神社解説チャンネル。
@@ -68,7 +68,7 @@ const channels = [
     videoId: 'HjY1WB7TV9E',
     featuredVideoTitle: '高千穂 天岩戸神社のここが最強開運スポット',
     genre: '開運・手相占い・パワースポット',
-    color: 'from-sky-100 to-indigo-100 dark:from-sky-900/40 dark:to-indigo-900/40',
+    color: 'from-sky-100 to-indigo-100',
     accent: 'bg-indigo-600 hover:bg-indigo-700',
     icon: '🔮',
     intro: `芸能人手相占い師として知られる島田秀平氏が運営する開運チャンネル。
@@ -93,7 +93,7 @@ const channels = [
     //  確認できたら設定し直す)
     embedDisabled: true,
     genre: '六星占術・人生相談',
-    color: 'from-rose-100 to-orange-100 dark:from-rose-900/40 dark:to-orange-900/40',
+    color: 'from-rose-100 to-orange-100',
     accent: 'bg-rose-600 hover:bg-rose-700',
     icon: '🌟',
     intro: `細木数子の六星占術を継承した細木かおり氏が運営する公式チャンネル。
@@ -204,30 +204,30 @@ export default function RecommendYoutubePage() {
       ))}
 
       {/* Breadcrumb */}
-      <nav aria-label="パンくずリスト" className="text-xs text-ink-500 dark:text-amber-200 mb-6">
-        <Link href="/" className="hover:text-amber-700 dark:hover:text-amber-300">トップ</Link>
+      <nav aria-label="パンくずリスト" className="text-xs text-ink-500 mb-6">
+        <Link href="/" className="hover:text-amber-700">トップ</Link>
         <span className="mx-1">/</span>
-        <span className="text-ink-700 dark:text-amber-100">おすすめYouTubeチャンネル</span>
+        <span className="text-ink-700">おすすめYouTubeチャンネル</span>
       </nav>
 
       {/* Hero */}
       <header className="text-center mb-10">
-        <p className="text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">
+        <p className="text-amber-700 text-xs font-bold tracking-widest">
           RECOMMEND
         </p>
-        <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900 dark:text-amber-50 leading-tight">
+        <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900 leading-tight">
           開運に役立つ<br className="md:hidden" />
           おすすめYouTubeチャンネル
         </h1>
-        <p className="mt-4 max-w-2xl mx-auto text-sm md:text-base text-ink-700 dark:text-amber-100 leading-relaxed">
+        <p className="mt-4 max-w-2xl mx-auto text-sm md:text-base text-ink-700 leading-relaxed">
           記事だけでは伝わらない神社の空気感、語り手の熱量、現地の景色――。
           動画でしか得られない情報も、開運を深めるうえで大きな助けになります。
         </p>
       </header>
 
       {/* Intro */}
-      <section className="rounded-2xl bg-gradient-to-br from-amber-50 to-rose-50 dark:from-amber-900/40 dark:to-rose-900/40 border border-amber-200 dark:border-amber-700 p-5 md:p-6 mb-10">
-        <p className="text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+      <section className="rounded-2xl bg-gradient-to-br from-amber-50 to-rose-50 border border-amber-200 p-5 md:p-6 mb-10">
+        <p className="text-sm text-ink-700 leading-relaxed">
           このページでは、{site.publisherName} が実際に視聴している中から、
           <strong>開運・神社・パワースポット</strong> 系で
           「<strong>これは本当に学びになる</strong>」と感じる3つのチャンネルを厳選して紹介します。
@@ -242,7 +242,7 @@ export default function RecommendYoutubePage() {
         {channels.map((c) => (
           <article
             key={c.name}
-            className={`rounded-2xl border border-amber-200 dark:border-amber-700 bg-gradient-to-br ${c.color} overflow-hidden flex flex-col`}
+            className={`rounded-2xl border border-amber-200 bg-gradient-to-br ${c.color} overflow-hidden flex flex-col`}
           >
             {/* Live YouTube embed: 単一動画指定があればそれを、なければ
                 uploads プレイリストの最新動画。どちらも使えない
@@ -268,12 +268,12 @@ export default function RecommendYoutubePage() {
                   href={c.url}
                   target="_blank"
                   rel="noopener nofollow"
-                  className={`absolute inset-0 flex flex-col items-center justify-center gap-2 bg-gradient-to-br ${c.color} text-ink-900 dark:text-amber-50 hover:brightness-110 transition`}
+                  className={`absolute inset-0 flex flex-col items-center justify-center gap-2 bg-gradient-to-br ${c.color} text-ink-900 hover:brightness-110 transition`}
                   aria-label={`${c.name} を YouTube で開く`}
                 >
                   <span className="text-4xl" aria-hidden="true">{c.icon}</span>
                   <span className="font-display font-bold text-base md:text-lg">{c.name}</span>
-                  <span className="text-xs text-ink-700 dark:text-amber-100/90">
+                  <span className="text-xs text-ink-700">
                     YouTubeチャンネルを開く →
                   </span>
                 </a>
@@ -282,36 +282,36 @@ export default function RecommendYoutubePage() {
 
             {/* Body */}
             <div className="p-5 md:p-6 flex flex-col flex-1">
-              <div className="text-xs font-bold text-amber-700 dark:text-amber-300 tracking-wider">
+              <div className="text-xs font-bold text-amber-700 tracking-wider">
                 {c.genre}
               </div>
-              <h2 className="mt-1 font-display text-xl md:text-2xl font-extrabold text-ink-900 dark:text-amber-50 flex items-center gap-2">
+              <h2 className="mt-1 font-display text-xl md:text-2xl font-extrabold text-ink-900 flex items-center gap-2">
                 <span aria-hidden="true">{c.icon}</span>
                 <span>{c.name}</span>
               </h2>
-              <div className="text-xs text-ink-500 dark:text-amber-200 mt-0.5">
+              <div className="text-xs text-ink-500 mt-0.5">
                 {c.handle}
               </div>
 
-              <p className="mt-3 text-sm text-ink-700 dark:text-amber-100 leading-relaxed whitespace-pre-line">
+              <p className="mt-3 text-sm text-ink-700 leading-relaxed whitespace-pre-line">
                 {c.intro}
               </p>
 
               <div className="mt-4">
-                <div className="text-xs font-bold text-ink-900 dark:text-amber-50 mb-2">
+                <div className="text-xs font-bold text-ink-900 mb-2">
                   こんな人におすすめ
                 </div>
                 <ul className="space-y-1.5">
                   {c.targets.map((t) => (
-                    <li key={t} className="text-sm text-ink-700 dark:text-amber-100 flex gap-2">
-                      <span className="text-amber-600 dark:text-amber-400 flex-shrink-0">✓</span>
+                    <li key={t} className="text-sm text-ink-700 flex gap-2">
+                      <span className="text-amber-600 flex-shrink-0">✓</span>
                       <span>{t}</span>
                     </li>
                   ))}
                 </ul>
               </div>
 
-              <div className="mt-5 pt-4 border-t border-amber-200/60 dark:border-amber-700/60">
+              <div className="mt-5 pt-4 border-t border-amber-200/60">
                 <a
                   href={c.url}
                   target="_blank"
@@ -324,7 +324,7 @@ export default function RecommendYoutubePage() {
                   チャンネルを見る
                   <span aria-hidden="true">→</span>
                 </a>
-                <p className="mt-2 text-[11px] text-ink-500 dark:text-amber-200 text-center">
+                <p className="mt-2 text-[11px] text-ink-500 text-center">
                   YouTube に移動します
                 </p>
               </div>
@@ -342,13 +342,13 @@ export default function RecommendYoutubePage() {
             aria-hidden="true"
             className="mx-auto w-24 h-px bg-gradient-to-r from-transparent via-amber-400 to-transparent mb-6"
           />
-          <p className="text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">
+          <p className="text-amber-700 text-xs font-bold tracking-widest">
             TRENDING
           </p>
-          <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900 dark:text-amber-50">
+          <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
             話題のパワーストーン動画
           </h2>
-          <p className="mt-3 max-w-2xl mx-auto text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+          <p className="mt-3 max-w-2xl mx-auto text-sm text-ink-700 leading-relaxed">
             パワーストーンの世界をエンタメ視点で楽しめる、SNSで話題になった動画をピックアップしました。
           </p>
         </div>
@@ -357,7 +357,7 @@ export default function RecommendYoutubePage() {
           {trendingVideos.map((v) => (
             <article
               key={v.videoId}
-              className="rounded-2xl border border-amber-200 dark:border-amber-700 bg-gradient-to-br from-amber-50 to-rose-50 dark:from-amber-900/40 dark:to-rose-900/40 overflow-hidden flex flex-col"
+              className="rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50 to-rose-50 overflow-hidden flex flex-col"
             >
               <div className="relative aspect-video bg-ink-900 overflow-hidden">
                 <iframe
@@ -372,18 +372,18 @@ export default function RecommendYoutubePage() {
               </div>
 
               <div className="p-5 md:p-6 flex flex-col flex-1">
-                <div className="text-xs font-bold text-amber-700 dark:text-amber-300 tracking-wider">
+                <div className="text-xs font-bold text-amber-700 tracking-wider">
                   PICK UP
                 </div>
-                <h3 className="mt-1 font-display text-lg md:text-xl font-extrabold text-ink-900 dark:text-amber-50 leading-snug">
+                <h3 className="mt-1 font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug">
                   {v.title}
                 </h3>
 
-                <p className="mt-3 text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+                <p className="mt-3 text-sm text-ink-700 leading-relaxed">
                   {v.intro}
                 </p>
 
-                <div className="mt-5 pt-4 border-t border-amber-200/60 dark:border-amber-700/60">
+                <div className="mt-5 pt-4 border-t border-amber-200/60">
                   <a
                     href={v.url}
                     target="_blank"
@@ -414,7 +414,7 @@ export default function RecommendYoutubePage() {
             : rawUrl;
 
           return (
-            <aside className="mt-10 relative rounded-2xl border-2 border-amber-300 dark:border-amber-600 bg-gradient-to-br from-amber-50 via-white to-rose-50 dark:from-amber-900/30 dark:via-ink-900 dark:to-rose-900/30 p-5 md:p-6 overflow-hidden">
+            <aside className="mt-10 relative rounded-2xl border-2 border-amber-300 bg-gradient-to-br from-amber-50 via-white to-rose-50 p-5 md:p-6 overflow-hidden">
               {/* 太陽モチーフのアクセント */}
               <span
                 aria-hidden="true"
@@ -422,7 +422,7 @@ export default function RecommendYoutubePage() {
               />
               <span
                 aria-hidden="true"
-                className="absolute top-4 right-4 text-amber-400/70 dark:text-amber-300/40"
+                className="absolute top-4 right-4 text-amber-400/70"
               >
                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
                   <circle cx="12" cy="12" r="4" />
@@ -431,14 +431,14 @@ export default function RecommendYoutubePage() {
               </span>
 
               <div className="relative">
-                <div className="inline-flex items-center gap-2 text-[11px] font-bold tracking-widest text-amber-700 dark:text-amber-300">
+                <div className="inline-flex items-center gap-2 text-[11px] font-bold tracking-widest text-amber-700">
                   <span>SHOP</span>
                   <span className="px-1.5 py-0.5 rounded bg-amber-200 text-amber-900 text-[10px]">PR</span>
                 </div>
-                <h3 className="mt-2 font-display text-xl md:text-2xl font-extrabold text-ink-900 dark:text-amber-50 leading-snug">
+                <h3 className="mt-2 font-display text-xl md:text-2xl font-extrabold text-ink-900 leading-snug">
                   動画で紹介されたパワーストーンを探す
                 </h3>
-                <p className="mt-3 text-sm text-ink-700 dark:text-amber-100 leading-relaxed">
+                <p className="mt-3 text-sm text-ink-700 leading-relaxed">
                   動画で話題になった「ルチルクォーツ」をはじめ、本格的なパワーストーンを取り扱う専門店「ストーンマーケット」は、全国74店舗を展開するパワーストーン・天然石の老舗ブランド。2024年にYouTuberヒカル氏が社長に就任したことでも注目を集めています。楽天市場から、ヒカル氏監修モデルや人気のルチルクォーツブレスレットなど、関連商品をチェックできます。
                 </p>
 
@@ -457,7 +457,7 @@ export default function RecommendYoutubePage() {
                     楽天市場でストーンマーケット商品を見る
                     <span aria-hidden="true">→</span>
                   </a>
-                  <p className="mt-2 text-[11px] text-ink-500 dark:text-amber-200">
+                  <p className="mt-2 text-[11px] text-ink-500">
                     <span className="inline-block px-1 mr-1 rounded bg-amber-200 text-amber-900 text-[10px] font-bold align-middle">PR</span>
                     楽天市場に移動します（アフィリエイトリンク）
                   </p>
@@ -467,17 +467,17 @@ export default function RecommendYoutubePage() {
           );
         })()}
 
-        <p className="mt-6 text-xs text-ink-500 dark:text-amber-200 leading-relaxed">
+        <p className="mt-6 text-xs text-ink-500 leading-relaxed">
           ※ 掲載動画は運営者が話題性・参考性の観点で紹介するものであり、各チャンネル・運営者・販売店との提携関係はありません。動画の内容や情報の正確性については各動画制作者にご確認ください。本ページにはアフィリエイトリンクを含みます。
         </p>
       </section>
 
       {/* How to use this page */}
-      <section className="mt-12 rounded-2xl bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 p-6">
-        <h2 className="font-display text-xl font-bold text-ink-900 dark:text-amber-50 flex items-center gap-2">
+      <section className="mt-12 rounded-2xl bg-white border border-amber-200 p-6">
+        <h2 className="font-display text-xl font-bold text-ink-900 flex items-center gap-2">
           <span>🎬</span> 動画と記事を組み合わせるコツ
         </h2>
-        <ol className="mt-4 space-y-2 text-sm text-ink-700 dark:text-amber-100">
+        <ol className="mt-4 space-y-2 text-sm text-ink-700">
           <li><strong>1. まず動画で空気感をつかむ</strong> — 神社や場所のエネルギーは、映像と語りで一気に体感できます。</li>
           <li><strong>2. 当サイトの記事で詳細を確認</strong> — 参拝順序・アクセス・おすすめの石まで、文字情報のほうが整理しやすい部分を補完。</li>
           <li><strong>3. 実際に訪れる前のチェックリスト化</strong> — 動画と記事を行き来しながら、自分のメモをまとめておくと現地での体験が深まります。</li>
@@ -486,7 +486,7 @@ export default function RecommendYoutubePage() {
 
       {/* Related Lucky Sun Shine articles */}
       <section className="mt-12">
-        <h2 className="font-display text-2xl font-bold text-ink-900 dark:text-amber-50 mb-4 flex items-center gap-2">
+        <h2 className="font-display text-2xl font-bold text-ink-900 mb-4 flex items-center gap-2">
           <span>📖</span> 合わせて読みたい当サイトの記事
         </h2>
         <ul className="grid gap-3 sm:grid-cols-2">
@@ -494,10 +494,10 @@ export default function RecommendYoutubePage() {
             <li key={r.href}>
               <Link
                 href={r.href}
-                className="block p-4 rounded-xl bg-white dark:bg-ink-900 border border-amber-200 dark:border-amber-700 hover:border-amber-400 hover:shadow-sm transition-all"
+                className="block p-4 rounded-xl bg-white border border-amber-200 hover:border-amber-400 hover:shadow-sm transition-all"
               >
-                <span className="text-xs text-amber-700 dark:text-amber-300 font-bold">記事</span>
-                <span className="block mt-1 text-sm font-bold text-ink-900 dark:text-amber-50 leading-snug">
+                <span className="text-xs text-amber-700 font-bold">記事</span>
+                <span className="block mt-1 text-sm font-bold text-ink-900 leading-snug">
                   {r.label}
                 </span>
               </Link>
@@ -507,7 +507,7 @@ export default function RecommendYoutubePage() {
       </section>
 
       {/* Disclaimer */}
-      <section className="mt-12 text-xs text-ink-500 dark:text-amber-200 leading-relaxed">
+      <section className="mt-12 text-xs text-ink-500 leading-relaxed">
         <p>
           ※ 紹介しているチャンネルは{site.publisherName}の視聴体験に基づく推薦であり、
           各チャンネルの運営者様とは資本関係・PR関係はありません。

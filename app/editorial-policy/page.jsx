@@ -11,11 +11,11 @@ export default function EditorialPolicyPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12 prose-article">
       <header className="not-prose text-center mb-10">
-        <p className="text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">EDITORIAL POLICY</p>
-        <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900 dark:text-amber-50">
+        <p className="text-amber-700 text-xs font-bold tracking-widest">EDITORIAL POLICY</p>
+        <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900">
           記事作成方針
         </h1>
-        <p className="mt-3 text-sm text-ink-700 dark:text-amber-100">
+        <p className="mt-3 text-sm text-ink-700">
           {site.publisherName} が守っている記事の作り方。
         </p>
       </header>
@@ -93,7 +93,7 @@ export default function EditorialPolicyPage() {
         いただいたご意見は、より良い記事作りに活用させていただきます。
       </p>
 
-      <p className="not-prose mt-10 text-sm text-ink-500 dark:text-amber-200">
+      <p className="not-prose mt-10 text-sm text-ink-500">
         最終改定：2026年5月10日
       </p>
     </article>

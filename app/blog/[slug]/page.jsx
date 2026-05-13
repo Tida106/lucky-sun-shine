@@ -114,54 +114,54 @@ export default async function BlogPostPage({ params }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
 
-        <nav aria-label="パンくずリスト" className="text-xs text-ink-500 dark:text-amber-200 mb-6">
-          <Link href="/" className="hover:text-amber-700 dark:hover:text-amber-300">トップ</Link>
+        <nav aria-label="パンくずリスト" className="text-xs text-ink-500 mb-6">
+          <Link href="/" className="hover:text-amber-700">トップ</Link>
           <span className="mx-1">/</span>
           <Link
             href={`/category/${post.category}/`}
-            className={`${cat?.pastel?.accentHover || 'hover:text-amber-700'} dark:hover:text-amber-300`}
+            className={`${cat?.pastel?.accentHover || 'hover:text-amber-700'}`}
           >
             {cat?.title || post.category}
           </Link>
           <span className="mx-1">/</span>
-          <span className="text-ink-700 dark:text-amber-100">{post.title}</span>
+          <span className="text-ink-700">{post.title}</span>
         </nav>
 
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-2 text-xs">
             <span
               className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full font-medium ${
-                cat?.pastel ? `${cat.pastel.accentBg} ${cat.pastel.accent}` : 'bg-amber-100 text-amber-700 dark:bg-amber-800 dark:text-amber-300'
+                cat?.pastel ? `${cat.pastel.accentBg} ${cat.pastel.accent}` : 'bg-amber-100 text-amber-700'
               }`}
             >
               {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
               {cat?.title || post.category}
             </span>
-            <span className="text-ink-500 dark:text-amber-200">約{minutes}分で読了</span>
+            <span className="text-ink-500">約{minutes}分で読了</span>
           </div>
-          <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900 dark:text-amber-50">
+          <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900">
             {post.title}
           </h1>
           {post.description && (
-            <p className="mt-4 text-ink-700 dark:text-amber-100 leading-relaxed">{post.description}</p>
+            <p className="mt-4 text-ink-700 leading-relaxed">{post.description}</p>
           )}
 
           {/* Byline: published / updated */}
-          <div className="mt-5 pt-4 border-t border-amber-100 dark:border-amber-800 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-ink-500 dark:text-amber-200">
+          <div className="mt-5 pt-4 border-t border-amber-100 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-ink-500">
             <span>
-              <span className="block text-[10px] tracking-widest text-amber-700 dark:text-amber-300 font-bold">
+              <span className="block text-[10px] tracking-widest text-amber-700 font-bold">
                 PUBLISHED
               </span>
-              <time dateTime={post.date} className="font-bold text-ink-900 dark:text-amber-50">
+              <time dateTime={post.date} className="font-bold text-ink-900">
                 {formatDate(post.date)}
               </time>
             </span>
             {post.updated && post.updated !== post.date && (
               <span>
-                <span className="block text-[10px] tracking-widest text-amber-700 dark:text-amber-300 font-bold">
+                <span className="block text-[10px] tracking-widest text-amber-700 font-bold">
                   UPDATED
                 </span>
-                <time dateTime={post.updated} className="font-bold text-ink-900 dark:text-amber-50">
+                <time dateTime={post.updated} className="font-bold text-ink-900">
                   {formatDate(post.updated)}
                 </time>
               </span>
@@ -170,7 +170,7 @@ export default async function BlogPostPage({ params }) {
         </header>
 
         {/* Affiliate disclosure — surfaced above the fold per景品表示法 / ステマ規制 */}
-        <p className="not-prose mb-6 px-4 py-2.5 rounded-lg bg-amber-50 dark:bg-ink-900 border border-amber-200 dark:border-amber-700 text-xs text-ink-700 dark:text-amber-100 leading-relaxed">
+        <p className="not-prose mb-6 px-4 py-2.5 rounded-lg bg-amber-50 border border-amber-200 text-xs text-ink-700 leading-relaxed">
           <span className="inline-block px-1.5 py-0.5 mr-2 rounded bg-amber-200 text-amber-900 font-bold align-middle">PR</span>
           本記事はアフィリエイトリンクを含みます。リンク経由でご購入された場合、運営者に紹介料が支払われることがあります。
         </p>
@@ -180,7 +180,7 @@ export default async function BlogPostPage({ params }) {
         {pillarPost && (
           <Link
             href={`/blog/${pillarPost.slug}/`}
-            className={`mt-10 block group rounded-2xl border-2 ${cat?.pastel?.accentBorder || 'border-amber-300'} ${cat?.pastel?.bg || 'bg-amber-50'} dark:bg-ink-900/40 p-5 hover:shadow-md transition-shadow`}
+            className={`mt-10 block group rounded-2xl border-2 ${cat?.pastel?.accentBorder || 'border-amber-300'} ${cat?.pastel?.bg || 'bg-amber-50'} p-5 hover:shadow-md transition-shadow`}
           >
             <div className="flex items-start gap-4">
               <div className={`shrink-0 mt-0.5 inline-flex items-center justify-center w-10 h-10 rounded-full bg-white ${cat?.pastel?.accent || 'text-amber-700'}`}>
@@ -190,10 +190,10 @@ export default async function BlogPostPage({ params }) {
                 <div className={`text-[11px] font-bold tracking-widest ${cat?.pastel?.accent || 'text-amber-700'}`}>
                   カテゴリの完全ガイド
                 </div>
-                <h3 className="mt-1 font-display text-lg font-bold text-ink-900 dark:text-amber-50 group-hover:underline">
+                <h3 className="mt-1 font-display text-lg font-bold text-ink-900 group-hover:underline">
                   {pillarPost.title}
                 </h3>
-                <p className="mt-1 text-sm text-ink-700 dark:text-amber-100/90">
+                <p className="mt-1 text-sm text-ink-700">
                   この記事のカテゴリの全体像はこちらにまとまっています →
                 </p>
               </div>
@@ -209,14 +209,14 @@ export default async function BlogPostPage({ params }) {
         <RelatedProducts post={post} />
 
         {post.tags?.length > 0 && (
-          <div className="mt-10 pt-6 border-t border-amber-200 dark:border-amber-700">
-            <h3 className="text-sm font-bold text-ink-900 dark:text-amber-50 mb-2">タグ</h3>
+          <div className="mt-10 pt-6 border-t border-amber-200">
+            <h3 className="text-sm font-bold text-ink-900 mb-2">タグ</h3>
             <div className="flex flex-wrap gap-2">
               {post.tags.map((t) => (
                 <Link
                   key={t}
                   href={`/tag/${encodeURIComponent(t)}/`}
-                  className="text-xs px-2.5 py-1 rounded bg-amber-50 dark:bg-ink-700 text-amber-800 dark:text-amber-200 hover:bg-amber-100 dark:hover:bg-ink-500"
+                  className="text-xs px-2.5 py-1 rounded bg-amber-50 text-amber-800 hover:bg-amber-100"
                 >
                   #{t}
                 </Link>
@@ -229,26 +229,26 @@ export default async function BlogPostPage({ params }) {
           {prev && (
             <Link
               href={`/blog/${prev.slug}/`}
-              className="block p-4 rounded-xl border border-amber-200 dark:border-amber-700 bg-white dark:bg-ink-900 hover:bg-amber-50 dark:hover:bg-ink-700"
+              className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50"
             >
-              <div className="text-xs text-amber-700 dark:text-amber-300">← 前の記事</div>
-              <div className="mt-1 text-sm font-bold line-clamp-2 dark:text-amber-50">{prev.title}</div>
+              <div className="text-xs text-amber-700">← 前の記事</div>
+              <div className="mt-1 text-sm font-bold line-clamp-2">{prev.title}</div>
             </Link>
           )}
           {next && (
             <Link
               href={`/blog/${next.slug}/`}
-              className="block p-4 rounded-xl border border-amber-200 dark:border-amber-700 bg-white dark:bg-ink-900 hover:bg-amber-50 dark:hover:bg-ink-700 text-right"
+              className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 text-right"
             >
-              <div className="text-xs text-amber-700 dark:text-amber-300">次の記事 →</div>
-              <div className="mt-1 text-sm font-bold line-clamp-2 dark:text-amber-50">{next.title}</div>
+              <div className="text-xs text-amber-700">次の記事 →</div>
+              <div className="mt-1 text-sm font-bold line-clamp-2">{next.title}</div>
             </Link>
           )}
         </nav>
 
         {related.length > 0 && (
           <section className="mt-12">
-            <h2 className="font-display text-xl font-bold text-ink-900 dark:text-amber-50 mb-4">
+            <h2 className="font-display text-xl font-bold text-ink-900 mb-4">
               関連記事
             </h2>
             <ul className="grid gap-3 sm:grid-cols-2">
@@ -256,12 +256,12 @@ export default async function BlogPostPage({ params }) {
                 const rcat = getCategory(r.category);
                 return (
                   <li key={r.slug}>
-                    <Link href={`/blog/${r.slug}/`} className="block p-3 rounded-lg bg-white dark:bg-ink-900 border border-amber-100 dark:border-amber-800 hover:border-amber-400">
-                      <div className={`text-[11px] inline-flex items-center gap-1 ${rcat?.pastel?.accent || 'text-amber-700'} dark:text-amber-300`}>
+                    <Link href={`/blog/${r.slug}/`} className="block p-3 rounded-lg bg-white border border-amber-100 hover:border-amber-400">
+                      <div className={`text-[11px] inline-flex items-center gap-1 ${rcat?.pastel?.accent || 'text-amber-700'}`}>
                         {rcat && <CategoryIcon slug={rcat.slug} className="w-3 h-3" />}
                         {rcat?.title}
                       </div>
-                      <div className="text-sm font-bold dark:text-amber-50 line-clamp-2 mt-1">{r.title}</div>
+                      <div className="text-sm font-bold line-clamp-2 mt-1">{r.title}</div>
                     </Link>
                   </li>
                 );

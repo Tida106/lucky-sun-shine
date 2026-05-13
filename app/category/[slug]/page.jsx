@@ -50,7 +50,7 @@ export default async function CategoryPage({ params }) {
         {cat.pillarSlug && (
           <Link
             href={`/blog/${cat.pillarSlug}/`}
-            className={`mb-8 block group rounded-2xl border-2 ${cat.pastel.accentBorder} ${cat.pastel.bg} dark:bg-ink-900/40 p-5 sm:p-6 hover:shadow-md transition-shadow`}
+            className={`mb-8 block group rounded-2xl border-2 ${cat.pastel.accentBorder} ${cat.pastel.bg} p-5 sm:p-6 hover:shadow-md transition-shadow`}
           >
             <div className="flex items-start gap-4">
               <div className={`shrink-0 mt-0.5 inline-flex items-center justify-center w-10 h-10 rounded-full bg-white ${cat.pastel.accent}`}>
@@ -60,10 +60,10 @@ export default async function CategoryPage({ params }) {
                 <div className={`text-[11px] font-bold tracking-widest ${cat.pastel.accent}`}>
                   まずはここから — 完全ガイド
                 </div>
-                <h2 className="mt-1 font-display text-lg sm:text-xl font-bold text-ink-900 dark:text-amber-50 group-hover:underline">
+                <h2 className="mt-1 font-display text-lg sm:text-xl font-bold text-ink-900 group-hover:underline">
                   {cat.pillarTitle}
                 </h2>
-                <p className="mt-1 text-sm text-ink-700 dark:text-amber-100/90">
+                <p className="mt-1 text-sm text-ink-700">
                   カテゴリの全体像と基礎をまとめた総合ガイドです。初めての方はこちらから →
                 </p>
               </div>

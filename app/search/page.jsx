@@ -10,11 +10,11 @@ export default function SearchPage() {
   return (
     <section className="max-w-3xl mx-auto px-4 py-12">
       <header className="mb-6 text-center">
-        <p className="text-amber-700 dark:text-amber-300 text-xs font-bold tracking-widest">SEARCH</p>
-        <h1 className="font-display text-3xl font-extrabold mt-2 text-ink-900 dark:text-amber-50">
+        <p className="text-amber-700 text-xs font-bold tracking-widest">SEARCH</p>
+        <h1 className="font-display text-3xl font-extrabold mt-2 text-ink-900">
           サイト内検索
         </h1>
-        <p className="mt-2 text-sm text-ink-500 dark:text-amber-200">
+        <p className="mt-2 text-sm text-ink-500">
           記事タイトル・タグ・本文から検索します
         </p>
       </header>

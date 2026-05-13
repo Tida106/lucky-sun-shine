@@ -53,11 +53,11 @@ export default function RelatedProducts({ post, heading = 'この記事に関連
   if (items.length === 0) return null;
 
   return (
-    <section className="not-prose mt-12 rounded-2xl bg-amber-50 dark:bg-ink-900 border border-amber-200 dark:border-amber-700 p-5">
-      <h3 className="font-display text-lg font-bold text-ink-900 dark:text-amber-50 flex items-center gap-2 mb-1">
+    <section className="not-prose mt-12 rounded-2xl bg-amber-50 border border-amber-200 p-5">
+      <h3 className="font-display text-lg font-bold text-ink-900 flex items-center gap-2 mb-1">
         <span aria-hidden="true">🛍️</span> {heading}
       </h3>
-      <p className="text-xs text-ink-500 dark:text-amber-200 mb-3">
+      <p className="text-xs text-ink-500 mb-3">
         <span className="inline-block px-1.5 py-0.5 mr-1 rounded bg-amber-200 text-amber-900 font-bold align-middle">PR</span>
         {cat?.title}関連の商品をAmazon・楽天市場でチェックできます。本セクションはアフィリエイトリンクを含み、リンク経由で購入された場合に運営者へ紹介料が支払われることがあります。
       </p>
@@ -69,15 +69,15 @@ export default function RelatedProducts({ post, heading = 'この記事に関連
                 href={withAffiliate(item.url)}
                 target="_blank"
                 rel="sponsored noopener nofollow"
-                className="block px-4 py-3 rounded-xl bg-white dark:bg-ink-700 border border-amber-200 dark:border-amber-700 hover:border-amber-400 hover:shadow-sm transition-all"
+                className="block px-4 py-3 rounded-xl bg-white border border-amber-200 hover:border-amber-400 hover:shadow-sm transition-all"
               >
-                <span className="text-sm font-bold text-ink-900 dark:text-amber-50">{item.label}</span>
-                <span className="block text-xs text-ink-500 dark:text-amber-200">→ 商品ページへ</span>
+                <span className="text-sm font-bold text-ink-900">{item.label}</span>
+                <span className="block text-xs text-ink-500">→ 商品ページへ</span>
               </a>
             ) : (
               <Link
                 href={item.url}
-                className="block px-4 py-3 rounded-xl bg-white dark:bg-ink-700 border border-amber-200 dark:border-amber-700 hover:border-amber-400 hover:shadow-sm"
+                className="block px-4 py-3 rounded-xl bg-white border border-amber-200 hover:border-amber-400 hover:shadow-sm"
               >
                 <span className="text-sm font-bold">{item.label}</span>
               </Link>
