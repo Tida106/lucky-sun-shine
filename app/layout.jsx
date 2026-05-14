@@ -113,6 +113,7 @@ export default function RootLayout({ children }) {
         {/* Lightweight in-browser security headers via http-equiv */}
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="p:domain_verify" content="1caf8bfd103298033b3b1c290667cbe9" />
       </head>
       <body className="min-h-screen flex flex-col sunray-bg">
         <script
