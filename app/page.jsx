@@ -106,7 +106,13 @@ export default function HomePage() {
               濃いめのゴールド(#9C7A47 ≒ text-amber-700)でほんのり小さめに重ねる。
               横に太陽ちゃんを並べて温度感を出す。 */}
           <div className="mt-6 flex items-center justify-center gap-3 md:gap-5">
-            <SunMascot size={72} className="shrink-0 md:!w-24 md:!h-24" priority alt="太陽ちゃん" />
+            <SunMascot
+              size={72}
+              src="/images/mascot-sun-morning.png"
+              className="shrink-0 md:!w-24 md:!h-24"
+              priority
+              alt="太陽ちゃん（GOOD MORNING!）"
+            />
             <div className="space-y-2 font-display font-bold text-amber-700 leading-snug text-left">
               <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる！</p>
               <p className="text-lg md:text-2xl">あなたは、絶対運がいい！</p>
