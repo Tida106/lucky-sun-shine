@@ -353,7 +353,11 @@ export default function HomePage() {
         </Link>
       </ScrollReveal>
 
-      <PositiveBanner tone="gold" message="人生を楽しもう！" />
+      <PositiveBanner
+        tone="gold"
+        message="人生を楽しもう！"
+        mascotSrc="/images/mascot-sun-cheer.png"
+      />
     </>
   );
 }
