@@ -300,7 +300,11 @@ export default function HomePage() {
         )}
       </ScrollReveal>
 
-      <PositiveBanner tone="cream" message="大丈夫、うまくいく！" />
+      <PositiveBanner
+        tone="cream"
+        message="大丈夫、うまくいく！"
+        mascotSrc="/images/mascot-sun-good.png"
+      />
 
       {/* YouTube channel intro — bridge to /recommend-youtube without
           duplicating the channel cards on the home page. */}
