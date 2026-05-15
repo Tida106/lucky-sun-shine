@@ -61,7 +61,7 @@ const CTA_LINKS = [
 const LINE_STAMP_SAMPLES = [
   'mascot-sun-thanks.png',
   'mascot-sun-cheer.png',
-  'mascot-sun-goodnight.png',
+  'mascot-sun-yay.png',
   'mascot-sun-believe.png',
   'mascot-sun-good.png',
   'mascot-sun-morning.png',
