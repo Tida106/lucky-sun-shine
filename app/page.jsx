@@ -107,9 +107,9 @@ export default function HomePage() {
               横に太陽ちゃんを並べて温度感を出す。 */}
           <div className="mt-6 flex items-center justify-center gap-3 md:gap-5">
             <SunMascot
-              size={72}
+              size={112}
               src="/images/mascot-sun-morning.png"
-              className="shrink-0 md:!w-24 md:!h-24"
+              className="shrink-0 md:!w-48 md:!h-48"
               priority
               alt="太陽ちゃん（GOOD MORNING!）"
             />
