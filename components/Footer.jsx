@@ -93,6 +93,7 @@ export default function Footer() {
           <ul className="space-y-1 text-sm">
             <li><Link href="/about/" className="hover:text-amber-700">このサイトについて</Link></li>
             <li><Link href="/about-our-vision/" className="hover:text-amber-700">Lucky Sun Shineの想い</Link></li>
+            <li><Link href="/about-mascot/" className="hover:text-amber-700">太陽ちゃんプロフィール</Link></li>
             <li><Link href="/editorial-policy/" className="hover:text-amber-700">記事作成方針</Link></li>
             <li><Link href="/privacy/" className="hover:text-amber-700">プライバシーポリシー</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">免責事項</Link></li>
