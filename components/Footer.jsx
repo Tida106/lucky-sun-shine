@@ -16,7 +16,12 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto px-4 pt-10">
         <div className="relative rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50 via-white to-rose-50 px-5 py-6 md:px-8 md:py-7 shadow-[0_4px_20px_rgba(0,0,0,0.04)]">
           <div className="flex items-start gap-4 md:gap-6">
-            <SunMascot size={84} className="shrink-0 md:!w-28 md:!h-28" alt="太陽ちゃん" />
+            <SunMascot
+              size={84}
+              className="shrink-0 md:!w-28 md:!h-28"
+              alt="太陽ちゃん（合掌）"
+              src="/images/mascot-sun-thanks.png"
+            />
             <div className="min-w-0">
               <p className="inline-flex items-center gap-2 text-amber-700 text-[11px] font-bold tracking-widest">
                 <span>太陽ちゃんからのメッセージ</span>

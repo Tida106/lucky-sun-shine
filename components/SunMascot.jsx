@@ -15,6 +15,7 @@ export default function SunMascot({
   alt = '太陽ちゃん',
   className = '',
   priority = false,
+  src = '/images/mascot-sun.png',
 }) {
   const [errored, setErrored] = useState(false);
 
@@ -24,7 +25,7 @@ export default function SunMascot({
 
   return (
     <img
-      src="/images/mascot-sun.png"
+      src={src}
       alt={alt}
       width={size}
       height={size}
