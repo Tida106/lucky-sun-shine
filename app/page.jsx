@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
-import { categories } from '@/lib/categories';
+import { mainCategories as categories } from '@/lib/categories';
 import PostCard from '@/components/PostCard';
 import PopularPosts from '@/components/PopularPosts';
 import CategoryIcon from '@/components/CategoryIcon';
@@ -11,6 +11,8 @@ import SunDivider from '@/components/SunDivider';
 import ScrollReveal from '@/components/ScrollReveal';
 import PositiveBanner from '@/components/PositiveBanner';
 import SunMascot from '@/components/SunMascot';
+import SunSpeechBubble from '@/components/SunSpeechBubble';
+import DailyMessage from '@/components/DailyMessage';
 
 export const metadata = {
   title: 'Lucky Sun Shine | パワーストーン・パワースポット・開運の総合メディア',
@@ -110,6 +112,9 @@ export default function HomePage() {
               <p className="text-lg md:text-2xl">あなたは、絶対運がいい！</p>
             </div>
           </div>
+          <div className="mt-6 flex justify-center">
+            <SunSpeechBubble>ようこそ☀️ あなたを待ってたよ！</SunSpeechBubble>
+          </div>
           <p className="mt-6 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
             パワーストーン・パワースポット・開運グッズ・運気アップ習慣。<br />
             日々の暮らしに「ちょっといい兆し」を取り入れるためのメディアです。
@@ -145,8 +150,14 @@ export default function HomePage() {
 
       <SunDivider />
 
+      {/* Daily message — 太陽ちゃんからの今日のひとこと */}
+      <DailyMessage />
+
       {/* First-visit onboarding — まずはこの3記事から */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pt-8 pb-12 md:pt-10 md:pb-14">
+        <div className="flex justify-center mb-4">
+          <SunSpeechBubble>まずはこの3記事から読んでみてね💛</SunSpeechBubble>
+        </div>
         <div className="text-center mb-8">
           <p className="inline-flex items-center justify-center gap-2 text-amber-700 text-xs font-bold tracking-widest">
             <Sparkles className="w-4 h-4 text-amber-600" />
@@ -189,6 +200,9 @@ export default function HomePage() {
 
       {/* Categories */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-16">
+        <div className="mb-5">
+          <SunSpeechBubble>どこから運気上げる？</SunSpeechBubble>
+        </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
             <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
@@ -219,6 +233,9 @@ export default function HomePage() {
       {/* Latest posts + sidebar popular */}
       <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="min-w-0">
+          <div className="mb-5">
+            <SunSpeechBubble>最近こんな話を集めてるよ✨</SunSpeechBubble>
+          </div>
           <div className="flex items-end justify-between mb-8">
             <div>
               <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
@@ -249,6 +266,9 @@ export default function HomePage() {
       {/* Pickup featured pillar/hub articles — surface curated entry points
           in a distinct band, separate from the date-ordered latest grid. */}
       <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16">
+        <div className="mb-5">
+          <SunSpeechBubble>おすすめだよ！読んでみてね☀️</SunSpeechBubble>
+        </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
             <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />
@@ -275,6 +295,9 @@ export default function HomePage() {
       {/* YouTube channel intro — bridge to /recommend-youtube without
           duplicating the channel cards on the home page. */}
       <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16">
+        <div className="mb-5">
+          <SunSpeechBubble>ちょっと寄ってって〜</SunSpeechBubble>
+        </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
             <SunOrnament className="w-6 h-6 text-amber-500 shrink-0" />

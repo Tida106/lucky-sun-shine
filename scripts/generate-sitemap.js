@@ -12,7 +12,7 @@ const POSTS_DIR = path.join(process.cwd(), 'content', 'posts');
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
 fs.mkdirSync(PUBLIC_DIR, { recursive: true });
 
-const CATEGORY_SLUGS = ['powerstones', 'powerspots', 'lucky-goods', 'luck-habits'];
+const CATEGORY_SLUGS = ['powerstones', 'powerspots', 'lucky-goods', 'luck-habits', 'letter'];
 
 function loadPosts() {
   if (!fs.existsSync(POSTS_DIR)) return [];
@@ -53,6 +53,7 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/tags/`, today, 'weekly', '0.6'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/search/`, today, 'monthly', '0.4'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/recommend-youtube/`, today, 'monthly', '0.6'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/omikuji/`, today, 'monthly', '0.7'));
 
   CATEGORY_SLUGS.forEach((s) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/category/${s}/`, today, 'weekly', '0.8'));

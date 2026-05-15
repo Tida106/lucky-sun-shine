@@ -54,11 +54,23 @@ function Sunrise(props) {
   );
 }
 
+// "太陽ちゃんからのお手紙" カテゴリ用 — 封筒+ハートの組み合わせ。
+function LetterHeart(props) {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true" {...STROKE} {...props}>
+      <rect x="3" y="5" width="18" height="14" rx="2" />
+      <path d="m3 7 9 6 9-6" />
+      <path d="M12 15.5c-1.2-1.1-2.5-2-2.5-3.2 0-.8.6-1.3 1.3-1.3.5 0 .9.2 1.2.6.3-.4.7-.6 1.2-.6.7 0 1.3.5 1.3 1.3 0 1.2-1.3 2.1-2.5 3.2z" />
+    </svg>
+  );
+}
+
 const ICONS = {
   powerstones: Gem,
   powerspots: Mountain,
   'lucky-goods': Gift,
   'luck-habits': Sunrise,
+  letter: LetterHeart,
 };
 
 export default function CategoryIcon({ slug, className = 'w-9 h-9 text-amber-600' }) {

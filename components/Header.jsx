@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { categories } from '@/lib/categories';
+import { mainCategories as categories } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import Logo from './Logo';
 import SunMascot from './SunMascot';
@@ -43,6 +43,14 @@ export default function Header() {
           >
             <SunMascot size={24} className="shrink-0" alt="" />
             <span>☀️太陽ちゃんって？</span>
+          </Link>
+          <Link
+            href="/omikuji/"
+            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap font-bold"
+            title="太陽ちゃんのおみくじを引く"
+          >
+            <span aria-hidden="true">🎋</span>
+            <span>おみくじ</span>
           </Link>
         </nav>
         <div className="flex items-center gap-2">
@@ -92,6 +100,14 @@ export default function Header() {
           >
             <SunMascot size={18} className="shrink-0" alt="" />
             <span>☀️太陽ちゃんって？</span>
+          </Link>
+          <Link
+            href="/omikuji/"
+            className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all font-bold"
+            title="太陽ちゃんのおみくじ"
+          >
+            <span aria-hidden="true">🎋</span>
+            <span>おみくじ</span>
           </Link>
         </div>
       </nav>

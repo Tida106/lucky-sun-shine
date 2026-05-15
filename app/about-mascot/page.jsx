@@ -58,6 +58,15 @@ const CTA_LINKS = [
   { href: '/category/luck-habits/', label: '運気アップ習慣の記事を見る', icon: '🌅' },
 ];
 
+const STAMPS = [
+  { file: 'stamp-thanks.svg', label: 'ありがとう！' },
+  { file: 'stamp-ganbaro.svg', label: 'がんばろ！' },
+  { file: 'stamp-otsukare.svg', label: 'お疲れさま' },
+  { file: 'stamp-daijoubu.svg', label: '絶対大丈夫' },
+  { file: 'stamp-suteki.svg', label: 'すてき！' },
+  { file: 'stamp-arigatou.svg', label: 'ありがとう' },
+];
+
 function SectionHeading({ children, eyebrow }) {
   return (
     <header className="text-center mb-6">
@@ -215,6 +224,45 @@ export default function AboutMascotPage() {
             <br />
             あなたは絶対大丈夫！ いつも応援してるよ💛
           </p>
+        </div>
+      </section>
+
+      {/* スタンプ無料配布 */}
+      <section className="mt-16">
+        <SectionHeading eyebrow="FREE STAMPS">
+          太陽ちゃんスタンプ無料配布☀️
+        </SectionHeading>
+        <p className="text-center text-sm text-ink-700 max-w-xl mx-auto -mt-2 mb-6 leading-relaxed">
+          SNSやLINEで自由にお使いください💛 商用利用はご遠慮ください。
+        </p>
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+          {STAMPS.map((stamp) => (
+            <div
+              key={stamp.file}
+              className="rounded-2xl border-2 border-amber-300 bg-gradient-to-br from-amber-50 via-yellow-50 to-rose-50 p-3 md:p-4 flex flex-col items-center shadow-[0_4px_16px_rgba(245,158,11,0.10)]"
+            >
+              <div className="aspect-square w-full bg-white/70 rounded-xl border border-amber-200 flex items-center justify-center overflow-hidden">
+                <img
+                  src={`/images/stamps/${stamp.file}`}
+                  alt={`太陽ちゃんスタンプ ${stamp.label}`}
+                  loading="lazy"
+                  decoding="async"
+                  className="w-full h-full object-contain select-none"
+                />
+              </div>
+              <p className="mt-2 text-sm md:text-base font-bold text-ink-900 text-center">
+                {stamp.label}
+              </p>
+              <a
+                href={`/images/stamps/${stamp.file}`}
+                download={stamp.file}
+                className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-amber-400 hover:bg-amber-500 text-white text-xs md:text-sm font-bold shadow-sm transition-colors"
+              >
+                <span aria-hidden="true">⬇</span>
+                ダウンロード
+              </a>
+            </div>
+          ))}
         </div>
       </section>
 
