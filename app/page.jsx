@@ -234,7 +234,11 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      <PositiveBanner tone="pink" message="あなたは最高！" />
+      <PositiveBanner
+        tone="pink"
+        message="あなたは最高！"
+        mascotSrc="/images/mascot-sun-yay.png"
+      />
 
       {/* Latest posts + sidebar popular */}
       <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">

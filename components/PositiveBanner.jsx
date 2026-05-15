@@ -13,7 +13,7 @@ const TONES = {
   gold: 'from-amber-200 via-amber-100 to-yellow-100',
 };
 
-export default function PositiveBanner({ message, tone = 'pink' }) {
+export default function PositiveBanner({ message, tone = 'pink', mascotSrc }) {
   const gradient = TONES[tone] || TONES.pink;
 
   // 太陽ちゃんを absolute で左端に大きく (80 / md:96) 配置し、中央エリアには
@@ -40,7 +40,7 @@ export default function PositiveBanner({ message, tone = 'pink' }) {
       >
         {/* 太陽ちゃん：左端に大きく */}
         <div className="absolute left-3 md:left-5 top-1/2 -translate-y-1/2 pointer-events-none">
-          <SunMascot size={80} className="md:!w-24 md:!h-24" alt="" />
+          <SunMascot size={80} src={mascotSrc} className="md:!w-24 md:!h-24" alt="" />
         </div>
         <div className="flex items-center justify-center gap-2 md:gap-3 pl-24 pr-3 md:pl-28 md:pr-10 py-6 md:py-10">
           <Sparkles className="w-4 h-4 md:w-5 md:h-5 text-amber-700 shrink-0" />
