@@ -53,7 +53,8 @@ export default function OmikujiClient() {
             <SunMascot
               size={200}
               priority
-              alt="太陽ちゃん"
+              alt={result ? '太陽ちゃん（やったね！）' : '太陽ちゃん'}
+              src={result ? '/images/mascot-sun-yay.png' : '/images/mascot-sun.png'}
               className="md:!w-60 md:!h-60"
             />
           </div>
