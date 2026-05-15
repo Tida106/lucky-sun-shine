@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { categories } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import Logo from './Logo';
+import SunMascot from './SunMascot';
 import { SearchIcon, YoutubeIcon, InstagramIcon } from './icons/NavIcons';
 
 const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
@@ -34,6 +35,14 @@ export default function Header() {
           >
             <YoutubeIcon className="w-4 h-4" />
             おすすめYouTubeチャンネル
+          </Link>
+          <Link
+            href="/about-mascot/"
+            className="ml-2 lg:ml-4 inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap"
+            title="Lucky Sun Shine の公式マスコット 太陽ちゃんを紹介"
+          >
+            <SunMascot size={24} className="shrink-0" alt="" />
+            <span>☀️太陽ちゃんって？</span>
           </Link>
         </nav>
         <div className="flex items-center gap-2">
@@ -75,6 +84,14 @@ export default function Header() {
           >
             <YoutubeIcon className="w-3.5 h-3.5" />
             おすすめYouTubeチャンネル
+          </Link>
+          <Link
+            href="/about-mascot/"
+            className="ml-2 inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all"
+            title="太陽ちゃんって？"
+          >
+            <SunMascot size={18} className="shrink-0" alt="" />
+            <span>☀️太陽ちゃんって？</span>
           </Link>
         </div>
       </nav>
