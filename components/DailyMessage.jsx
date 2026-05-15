@@ -33,8 +33,9 @@ export default function DailyMessage() {
         <div className="flex justify-center">
           <SunMascot
             size={120}
+            src="/images/mascot-sun-believe.png"
             className="drop-shadow-[0_4px_12px_rgba(245,158,11,0.25)]"
-            alt="太陽ちゃん"
+            alt="太陽ちゃん（I BELIEVE U!）"
           />
         </div>
         <p className="mt-4 text-amber-700 text-[11px] md:text-xs font-bold tracking-widest">
