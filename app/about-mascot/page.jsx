@@ -58,13 +58,18 @@ const CTA_LINKS = [
   { href: '/category/luck-habits/', label: '運気アップ習慣の記事を見る', icon: '🌅' },
 ];
 
-const STAMPS = [
-  { file: 'stamp-thanks.svg', label: 'ありがとう！' },
-  { file: 'stamp-ganbaro.svg', label: 'がんばろ！' },
-  { file: 'stamp-otsukare.svg', label: 'お疲れさま' },
-  { file: 'stamp-daijoubu.svg', label: '絶対大丈夫' },
-  { file: 'stamp-suteki.svg', label: 'すてき！' },
-  { file: 'stamp-arigatou.svg', label: 'ありがとう' },
+const LINE_STAMP_SAMPLES = [
+  'mascot-sun-thanks.png',
+  'mascot-sun-cheer.png',
+  'mascot-sun-goodnight.png',
+  'mascot-sun-believe.png',
+  'mascot-sun-good.png',
+  'mascot-sun-morning.png',
+];
+
+const LINE_STAMP_LINKS = [
+  { label: '第1弾 LINEスタンプを見る', url: 'https://line.me/S/sticker/31586674' },
+  { label: '第2弾 LINEスタンプを見る', url: 'https://line.me/S/sticker/31602987' },
 ];
 
 function SectionHeading({ children, eyebrow }) {
@@ -227,43 +232,53 @@ export default function AboutMascotPage() {
         </div>
       </section>
 
-      {/* スタンプ無料配布 */}
+      {/* LINEスタンプ販売告知 */}
       <section className="mt-16">
-        <SectionHeading eyebrow="FREE STAMPS">
-          太陽ちゃんスタンプ無料配布☀️
+        <SectionHeading eyebrow="LINE STICKERS">
+          太陽ちゃんのLINEスタンプ、好評発売中☀️
         </SectionHeading>
-        <p className="text-center text-sm text-ink-700 max-w-xl mx-auto -mt-2 mb-6 leading-relaxed">
-          SNSやLINEで自由にお使いください💛 商用利用はご遠慮ください。
+        <p className="text-center text-sm md:text-base text-ink-700 max-w-xl mx-auto -mt-2 mb-6 leading-relaxed">
+          LINEのトークで太陽ちゃんが使えるよ💛
+          <br />
+          あなたの毎日に、ちょっとした光をお届けします！
         </p>
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-          {STAMPS.map((stamp) => (
+        <div className="grid grid-cols-3 gap-3 md:gap-4">
+          {LINE_STAMP_SAMPLES.map((file) => (
             <div
-              key={stamp.file}
-              className="rounded-2xl border-2 border-amber-300 bg-gradient-to-br from-amber-50 via-yellow-50 to-rose-50 p-3 md:p-4 flex flex-col items-center shadow-[0_4px_16px_rgba(245,158,11,0.10)]"
+              key={file}
+              className="aspect-square rounded-2xl border-2 border-amber-300 bg-gradient-to-br from-amber-50 via-yellow-50 to-rose-50 p-2 md:p-3 flex items-center justify-center shadow-[0_4px_16px_rgba(245,158,11,0.10)] overflow-hidden"
             >
-              <div className="aspect-square w-full bg-white/70 rounded-xl border border-amber-200 flex items-center justify-center overflow-hidden">
-                <img
-                  src={`/images/stamps/${stamp.file}`}
-                  alt={`太陽ちゃんスタンプ ${stamp.label}`}
-                  loading="lazy"
-                  decoding="async"
-                  className="w-full h-full object-contain select-none"
-                />
-              </div>
-              <p className="mt-2 text-sm md:text-base font-bold text-ink-900 text-center">
-                {stamp.label}
-              </p>
-              <a
-                href={`/images/stamps/${stamp.file}`}
-                download={stamp.file}
-                className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-amber-400 hover:bg-amber-500 text-white text-xs md:text-sm font-bold shadow-sm transition-colors"
-              >
-                <span aria-hidden="true">⬇</span>
-                ダウンロード
-              </a>
+              <img
+                src={`/images/${file}`}
+                alt="太陽ちゃんLINEスタンプサンプル"
+                loading="lazy"
+                decoding="async"
+                className="w-full h-full object-contain select-none"
+              />
             </div>
           ))}
         </div>
+
+        {/* CTA — LINE STORE への導線 */}
+        <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
+          {LINE_STAMP_LINKS.map((link) => (
+            <a
+              key={link.url}
+              href={link.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-full text-white text-sm md:text-base font-bold shadow-[0_4px_16px_rgba(6,199,85,0.30)] hover:shadow-[0_6px_24px_rgba(6,199,85,0.45)] hover:scale-[1.02] active:scale-100 transition-all"
+              style={{ backgroundColor: '#06C755' }}
+            >
+              <span aria-hidden="true">📱</span>
+              {link.label}
+            </a>
+          ))}
+        </div>
+
+        <p className="mt-5 text-center text-xs text-ink-500">
+          ※スタンプ画像の無断転載・商用利用はご遠慮ください。
+        </p>
       </section>
 
       {/* CTA */}
