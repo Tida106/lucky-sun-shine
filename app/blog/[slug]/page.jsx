@@ -9,6 +9,7 @@ import AdUnit from '@/components/AdUnit';
 import CategoryIcon from '@/components/CategoryIcon';
 import PostCard from '@/components/PostCard';
 import SunOrnament from '@/components/icons/SunOrnament';
+import BlogMascotBubble from '@/components/BlogMascotBubble';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -187,6 +188,18 @@ export default async function BlogPostPage({ params }) {
           本記事はアフィリエイトリンクを含みます。リンク経由でご購入された場合、運営者に紹介料が支払われることがあります。
         </p>
 
+        {/* 記事冒頭の太陽ちゃん挨拶 */}
+        <BlogMascotBubble
+          tone="pink"
+          src="/images/mascot-sun.png"
+          alt="太陽ちゃん"
+          className="mb-8"
+        >
+          {`こんにちは☀️ Lucky Sun Shineの太陽ちゃんだよ！
+この記事を読んでくれてありがとう💛
+最後までゆっくり読んでいってね✨`}
+        </BlogMascotBubble>
+
         <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
 
         {pillarPost && (
@@ -257,6 +270,18 @@ export default async function BlogPostPage({ params }) {
             </Link>
           )}
         </nav>
+
+        {/* 記事末尾の太陽ちゃんお見送り */}
+        <BlogMascotBubble
+          tone="cream"
+          src="/images/mascot-sun-thanks.png"
+          alt="太陽ちゃん（合掌）"
+          className="mt-12"
+        >
+          {`最後まで読んでくれてありがとう💛
+この記事が、あなたの毎日のヒントになりますように☀️
+また遊びにきてね！`}
+        </BlogMascotBubble>
 
         {alsoRead.length > 0 && (
           <section className="mt-12">

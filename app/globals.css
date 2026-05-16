@@ -138,11 +138,22 @@ select:focus-visible,
   .scroll-cue {
     animation: scroll-cue-bounce 1.8s ease-in-out infinite;
   }
+
+  /* 記事冒頭・末尾の太陽ちゃん吹き出し用 — ふんわり登場。
+     prefers-reduced-motion で自動的に無効化される(48-54行)。 */
+  .mascot-bubble-fade {
+    animation: mascot-bubble-fade-in 0.9s ease-out both;
+  }
 }
 
 @keyframes scroll-cue-bounce {
   0%, 100% { transform: translateY(0); opacity: 0.55; }
   50%      { transform: translateY(6px); opacity: 1; }
+}
+
+@keyframes mascot-bubble-fade-in {
+  0%   { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
 }
 
 /* Article prose styling — applied to the rendered Markdown body. */
