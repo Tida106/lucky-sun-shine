@@ -19,11 +19,13 @@ const POSTS_DIR = path.join(process.cwd(), 'content', 'posts');
 fs.mkdirSync(POSTS_DIR, { recursive: true });
 
 function frontmatter(stone) {
-  const title = `${stone.nameJa}の意味と効果｜${stone.tagline}`;
-  const desc = `${stone.nameJa}（${stone.nameEn}）の意味、効果、おすすめの人、相性のよい石、浄化方法までを総合的に解説します。${stone.keywords.join('・')}を象徴するパワーストーンの全てを。`;
+  // 「{石名} 意味」「{石名} 石言葉」「{石名} 効果」の3クエリを1タイトルで拾うため、
+  // 中点で並べて自然な日本語に。tagline は「真実の愛の石」のような象徴ラベル。
+  const title = `${stone.nameJa}の意味・石言葉・効果｜${stone.tagline}`;
+  const desc = `${stone.nameJa}（${stone.nameEn}）の意味・石言葉「${stone.keywords.join('・')}」と効果、こんな人におすすめ、相性のよい石、浄化方法までを総合的に解説。${stone.tagline}の基礎と実践がこの1ページで分かります。`;
   return `---
 title: "${title}"
-description: "${desc.slice(0, 140)}"
+description: "${desc.slice(0, 156)}"
 date: "${today}"
 category: "powerstones"
 tags: [${stone.tags.map((t) => `"${t}"`).join(', ')}]
