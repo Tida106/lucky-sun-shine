@@ -4,6 +4,12 @@ description: "120字前後の検索結果に出るメタディスクリプショ
 date: "2026-05-09"
 category: "powerstones"
 tags: ["タグ1", "タグ2"]
+# faq: 任意。指定しないとカテゴリ別の汎用FAQが自動表示される。
+# faq:
+#   - q: "Qの本文"
+#     a: "Aの本文"
+#   - q: "..."
+#     a: "..."
 draft: true
 ---
 

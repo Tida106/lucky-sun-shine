@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes } from '@/lib/posts';
 import { getCategory } from '@/lib/categories';
 import { site } from '@/lib/site';
+import { getFaqForPost, faqJsonLd } from '@/lib/faq';
 import RelatedProducts from '@/components/RelatedProducts';
 import Sidebar from '@/components/Sidebar';
 import AdUnit from '@/components/AdUnit';
@@ -10,25 +11,59 @@ import CategoryIcon from '@/components/CategoryIcon';
 import PostCard from '@/components/PostCard';
 import SunOrnament from '@/components/icons/SunOrnament';
 import BlogMascotBubble from '@/components/BlogMascotBubble';
+import FaqSection from '@/components/FaqSection';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
+}
+
+// Google検索のスニペット表示は概ね 120〜160 字に収まる範囲が安定。
+// 長すぎる description は途中で切られるためソフト上限でクリップし、
+// 短すぎる場合はサイトのデフォルト description でフォールバックする。
+function normalizeDescription(post) {
+  const raw = (post.description || '').trim();
+  if (!raw) return site.description;
+  if (raw.length <= 160) return raw;
+  return `${raw.slice(0, 157)}…`;
 }
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const post = getPostBySlug(slug);
   if (!post) return {};
+  const description = normalizeDescription(post);
+  const url = `${site.url}/blog/${post.slug}/`;
+  const ogImage = `${site.url}/og-image.jpg`;
   return {
     title: post.title,
-    description: post.description,
+    description,
+    keywords: post.tags?.length ? post.tags.join(', ') : undefined,
     alternates: { canonical: `/blog/${post.slug}/` },
     openGraph: {
       type: 'article',
       title: post.title,
-      description: post.description,
-      url: `${site.url}/blog/${post.slug}/`,
+      description,
+      url,
+      siteName: site.name,
+      locale: site.locale,
       publishedTime: post.date,
+      modifiedTime: post.updated || post.date,
+      tags: post.tags || [],
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: post.title,
+          type: 'image/jpeg',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description,
+      images: [ogImage],
     },
   };
 }
@@ -115,6 +150,14 @@ export default async function BlogPostPage({ params }) {
     ? all.find((p) => p.slug === cat.pillarSlug) || null
     : null;
 
+  // 現在の記事自身がカテゴリのピラー記事のときは、同カテゴリの個別記事一覧を
+  // ハブ記事下に出して内部リンクを集約する。
+  const isPillarPost = Boolean(cat?.pillarSlug && post.slug === cat.pillarSlug);
+  const pillarChildren = isPillarPost ? sameCat : [];
+
+  const faq = getFaqForPost(post);
+  const faqSchema = faqJsonLd(faq);
+
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
       <article className="min-w-0">
@@ -125,6 +168,10 @@ export default async function BlogPostPage({ params }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
 
         <nav aria-label="パンくずリスト" className="text-xs text-ink-500 mb-6">
@@ -213,7 +260,7 @@ export default async function BlogPostPage({ params }) {
               </div>
               <div className="min-w-0">
                 <div className={`text-[11px] font-bold tracking-widest ${cat?.pastel?.accent || 'text-amber-700'}`}>
-                  カテゴリの完全ガイド
+                  もっと詳しく知りたい方はこちら☀️
                 </div>
                 <h3 className="mt-1 font-display text-lg font-bold text-ink-900 group-hover:underline">
                   {pillarPost.title}
@@ -224,6 +271,52 @@ export default async function BlogPostPage({ params }) {
               </div>
             </div>
           </Link>
+        )}
+
+        {isPillarPost && pillarChildren.length > 0 && (
+          <section className="mt-12">
+            <div className="mb-6">
+              <h2 className="font-display text-xl md:text-2xl font-bold text-ink-900 flex items-center gap-3">
+                <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-500 shrink-0" />
+                <span>このテーマの記事一覧</span>
+              </h2>
+              <span aria-hidden="true" className="heading-rule mt-3 ml-8" />
+              <p className="mt-3 ml-8 text-sm text-ink-700">
+                「{cat?.title || post.category}」カテゴリの全記事です。気になる記事から読み進めてみてください☀️
+              </p>
+            </div>
+            <ul
+              className={`rounded-2xl border-2 ${cat?.pastel?.accentBorder || 'border-amber-300'} ${cat?.pastel?.bg || 'bg-amber-50'} divide-y divide-amber-200/70 overflow-hidden`}
+            >
+              {pillarChildren.map((p) => (
+                <li key={p.slug}>
+                  <Link
+                    href={`/blog/${p.slug}/`}
+                    className="flex items-start gap-3 px-4 py-3 hover:bg-white/60 transition-colors"
+                  >
+                    <span
+                      className={`shrink-0 mt-0.5 inline-flex items-center justify-center w-7 h-7 rounded-full bg-white ${cat?.pastel?.accent || 'text-amber-700'}`}
+                    >
+                      <CategoryIcon slug={cat?.slug || post.category} className="w-4 h-4" />
+                    </span>
+                    <span className="min-w-0 flex-1">
+                      <span className="block font-bold text-sm md:text-[15px] text-ink-900 leading-snug">
+                        {p.title}
+                      </span>
+                      {p.description && (
+                        <span className="block mt-1 text-xs md:text-sm text-ink-600 line-clamp-2">
+                          {p.description}
+                        </span>
+                      )}
+                    </span>
+                    <span aria-hidden="true" className={`shrink-0 mt-1 text-sm ${cat?.pastel?.accent || 'text-amber-700'}`}>
+                      →
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
         )}
 
         {/* In-article ad slot — renders nothing without an AdSense ID */}
@@ -270,6 +363,8 @@ export default async function BlogPostPage({ params }) {
             </Link>
           )}
         </nav>
+
+        <FaqSection faq={faq} />
 
         {/* 記事末尾の太陽ちゃんお見送り */}
         <BlogMascotBubble
