@@ -83,6 +83,7 @@ A. ローズクォーツは長時間の直射日光で色がうすくなる場�
 
 ## 合わせて読みたい関連記事
 
+- [干支別パワーストーン完全ガイド](/blog/eto-powerstones-guide/) — 十二支の比較・早見表
 - [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 - [ローズクォーツの意味と効果｜愛と縁結びの石](/blog/rose-quartz-meaning/)
 - [12星座別パワーストーンガイド](/blog/zodiac-powerstones-guide/)

@@ -83,6 +83,7 @@ A. 申年生まれには「**鮮やかなレモンイエロー〜オレンジ寄
 
 ## 合わせて読みたい関連記事
 
+- [干支別パワーストーン完全ガイド](/blog/eto-powerstones-guide/) — 十二支の比較・早見表
 - [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 - [シトリンの意味と効果｜金運・商売繁盛の石](/blog/citrine/)
 - [12星座別パワーストーンガイド](/blog/zodiac-powerstones-guide/)

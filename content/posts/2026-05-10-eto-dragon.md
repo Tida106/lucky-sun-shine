@@ -83,6 +83,7 @@ A. エネルギーが強い石とされ、装着直後に眠気や倦怠感を�
 
 ## 合わせて読みたい関連記事
 
+- [干支別パワーストーン完全ガイド](/blog/eto-powerstones-guide/) — 十二支の比較・早見表
 - [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 - [ラピスラズリの意味と効果｜王の石・天の欠片](/blog/lapis-lazuli/)
 - [12星座別パワーストーンガイド](/blog/zodiac-powerstones-guide/)

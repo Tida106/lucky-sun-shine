@@ -83,6 +83,7 @@ A. 熊手は「福を取り込む」象徴、ソーダライトは「正しい�
 
 ## 合わせて読みたい関連記事
 
+- [干支別パワーストーン完全ガイド](/blog/eto-powerstones-guide/) — 十二支の比較・早見表
 - [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 - [ソーダライトの意味と効果｜論理と直感の橋渡しの石](/blog/sodalite/)
 - [12星座別パワーストーンガイド](/blog/zodiac-powerstones-guide/)
