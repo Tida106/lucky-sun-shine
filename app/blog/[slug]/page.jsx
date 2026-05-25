@@ -15,6 +15,7 @@ import FaqSection from '@/components/FaqSection';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import TableOfContents from '@/components/TableOfContents';
 import ShareButtons from '@/components/ShareButtons';
+import ArticleCover from '@/components/ArticleCover';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -216,6 +217,10 @@ export default async function BlogPostPage({ params }) {
         )}
 
         <Breadcrumbs items={breadcrumbItems} className="mb-6" />
+
+        {/* 記事 cover — CSSグラデーション + 既存マスコット + カテゴリアイコンで自動生成。
+            新規画像素材は追加せず、カテゴリごとの色トーンでビジュアル統一する。 */}
+        <ArticleCover post={post} variant="hero" className="mb-8" />
 
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-2 text-xs">

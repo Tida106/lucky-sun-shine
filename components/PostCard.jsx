@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { getCategory } from '@/lib/categories';
-import CategoryIcon from './CategoryIcon';
+import ArticleCover from './ArticleCover';
 
 function formatDate(iso) {
   const d = new Date(iso);
@@ -12,13 +12,10 @@ export default function PostCard({ post }) {
   return (
     <article className="card-elev group rounded-2xl bg-white border border-amber-100 hover:border-amber-300 overflow-hidden">
       <Link href={`/blog/${post.slug}/`} className="block">
-        <div className="h-32 overflow-hidden">
-          <div className={`h-full bg-gradient-to-br ${cat?.color || 'from-amber-200 to-yellow-100'} flex items-center justify-center transition-transform duration-500 ease-out group-hover:scale-105`}>
-            {cat ? (
-              <CategoryIcon slug={cat.slug} className="w-14 h-14 text-amber-700/80 transition-transform duration-500 group-hover:rotate-6" />
-            ) : (
-              <span className="text-5xl" aria-hidden="true">☀️</span>
-            )}
+        <div className="overflow-hidden">
+          {/* cover も hover でほんのり拡大して、既存カードのアニメーション感を継承する */}
+          <div className="transition-transform duration-500 ease-out group-hover:scale-105">
+            <ArticleCover post={post} variant="card" />
           </div>
         </div>
         <div className="p-6">
