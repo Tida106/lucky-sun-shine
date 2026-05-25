@@ -4,23 +4,42 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import Sidebar from '@/components/Sidebar';
 import { getPostsByTag, allTags } from '@/lib/posts';
 
+// 重要: generateStaticParams には *生のタグ文字列* を渡すこと。
+// 以前は encodeURIComponent をかけて渡していたが、Next.js 15 がさらに
+// URL エンコードを走らせるため、ファイルパスが二重エンコードされて
+// すべてのタグページが 404 になっていた(GSC 404 の真の原因)。
+// Next.js は静的パス生成・URL マッチング時に自動でエンコードする。
 export function generateStaticParams() {
-  return allTags().map((tag) => ({ slug: encodeURIComponent(tag) }));
+  return allTags().map((tag) => ({ slug: tag }));
+}
+
+// params.slug の正規化。Next.js のバージョンや環境(dev/prod)で
+// 渡される形(生 / エンコード済み)が異なるケースを吸収する。
+// % を含まなければ decodeURIComponent は冪等なのでそのまま返る。
+function decodeSlug(slug) {
+  if (!slug) return '';
+  try {
+    return decodeURIComponent(slug);
+  } catch {
+    return slug;
+  }
 }
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const tag = decodeURIComponent(slug);
+  const tag = decodeSlug(slug);
+  // canonical はサイト共通のメタベース下で解決されるため、
+  // ここでも *生のタグ* を入れて Next.js のエンコードに任せる。
   return {
     title: `#${tag} の記事`,
     description: `タグ「${tag}」がついた記事の一覧です。`,
-    alternates: { canonical: `/tag/${slug}/` },
+    alternates: { canonical: `/tag/${tag}/` },
   };
 }
 
 export default async function TagPage({ params }) {
   const { slug } = await params;
-  const tag = decodeURIComponent(slug);
+  const tag = decodeSlug(slug);
   const posts = getPostsByTag(tag);
   if (posts.length === 0) notFound();
 

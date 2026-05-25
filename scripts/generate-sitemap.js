@@ -23,9 +23,23 @@ function loadPosts() {
       const { data } = matter(raw);
       const slug = data.slug || f.replace(/\.(md|mdx)$/, '');
       const date = data.date ? new Date(data.date).toISOString() : new Date().toISOString();
-      return { slug, date, draft: Boolean(data.draft) };
+      const tags = Array.isArray(data.tags) ? data.tags : [];
+      return { slug, date, draft: Boolean(data.draft), tags };
     })
     .filter((p) => !p.draft);
+}
+
+// 全記事の frontmatter からユニークなタグ一覧を作る。
+// sitemap に /tag/* を含めておくと、タグページが復活したあと
+// Google がクロールで再発見しやすい(GSC 404 の自然解消にも有効)。
+function collectTags(posts) {
+  const set = new Set();
+  for (const p of posts) {
+    for (const t of p.tags) {
+      if (t && typeof t === 'string') set.add(t);
+    }
+  }
+  return [...set].sort();
 }
 
 function urlEntry(loc, lastmod, changefreq = 'weekly', priority = '0.6') {
@@ -61,6 +75,16 @@ function build() {
 
   posts.forEach((p) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/blog/${p.slug}/`, p.date, 'monthly', '0.7'));
+  });
+
+  // /tag/* — タグ部分は Unicode をそのまま URL 末尾に置けないため encodeURIComponent。
+  // Next.js のページ生成側は params に生のタグを渡しているが、最終 URL は
+  // ブラウザ/サーバとも encoded form でマッチするので、sitemap も encoded で出す。
+  const tags = collectTags(posts);
+  tags.forEach((t) => {
+    entries.push(
+      urlEntry(`${SITE_URL}${BASE}/tag/${encodeURIComponent(t)}/`, today, 'monthly', '0.5'),
+    );
   });
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
