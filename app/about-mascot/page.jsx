@@ -245,20 +245,27 @@ export default function AboutMascotPage() {
           あなたの毎日に、ちょっとした光をお届けします！
         </p>
         <div className="grid grid-cols-3 gap-3 md:gap-4">
-          {LINE_STAMP_SAMPLES.map((file) => (
-            <div
-              key={file}
-              className="aspect-square rounded-2xl border-2 border-amber-300 bg-gradient-to-br from-amber-50 via-yellow-50 to-rose-50 p-2 md:p-3 flex items-center justify-center shadow-[0_4px_16px_rgba(245,158,11,0.10)] overflow-hidden"
-            >
-              <img
-                src={`/images/${file}`}
-                alt="太陽ちゃんLINEスタンプサンプル"
-                loading="lazy"
-                decoding="async"
-                className="w-full h-full object-contain select-none"
-              />
-            </div>
-          ))}
+          {LINE_STAMP_SAMPLES.map((file) => {
+            const webp = file.replace(/\.png$/i, '.webp');
+            return (
+              <div
+                key={file}
+                className="aspect-square rounded-2xl border-2 border-amber-300 bg-gradient-to-br from-amber-50 via-yellow-50 to-rose-50 p-2 md:p-3 flex items-center justify-center shadow-[0_4px_16px_rgba(245,158,11,0.10)] overflow-hidden"
+              >
+                {/* WebP 優先・PNG フォールバック。SunMascot と同じパターン。 */}
+                <picture>
+                  <source srcSet={`/images/${webp}`} type="image/webp" />
+                  <img
+                    src={`/images/${file}`}
+                    alt="太陽ちゃんLINEスタンプサンプル"
+                    loading="lazy"
+                    decoding="async"
+                    className="w-full h-full object-contain select-none"
+                  />
+                </picture>
+              </div>
+            );
+          })}
         </div>
 
         {/* CTA — LINE STORE への導線 */}

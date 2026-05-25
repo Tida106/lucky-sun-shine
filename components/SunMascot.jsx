@@ -2,10 +2,10 @@
 import { useState } from 'react';
 
 // マスコット「太陽ちゃん」。
-// public/images/mascot-sun.png が存在すれば <img> で表示。
-// まだ画像を配置していない / 読み込みに失敗した場合は
+// public/images/mascot-sun.png が存在すれば <picture> で表示。
+// WebP を優先し、未対応ブラウザは <img> の PNG にフォールバックする。
+// まだ画像が配置されていない / 読み込みに失敗した場合は
 // 金髪・天使の輪・笑顔のプレースホルダーSVGに自動フォールバック。
-// 後で画像が用意され public/ 配下に置かれれば自動で切り替わる。
 //
 // サイズは size (px) で指定。装飾用途のため alt は空でも構わないが、
 // 文脈で意味を持たせたい場所では caller 側で alt を上書き可能。
@@ -23,18 +23,27 @@ export default function SunMascot({
     return <MascotFallback size={size} className={className} aria-label={alt} />;
   }
 
+  // .png のときだけ同名 .webp を <source> として優先提示する。
+  // WebP は alphaQuality 90 で書き出してあるため透過もそのまま機能する。
+  // 未対応ブラウザ(Safari 13 以前など)は <img> の PNG にフォールバック。
+  const isPng = typeof src === 'string' && src.toLowerCase().endsWith('.png');
+  const webpSrc = isPng ? src.replace(/\.png$/i, '.webp') : null;
+
   return (
-    <img
-      src={src}
-      alt={alt}
-      width={size}
-      height={size}
-      loading={priority ? 'eager' : 'lazy'}
-      decoding="async"
-      onError={() => setErrored(true)}
-      className={`select-none ${className}`}
-      style={{ width: size, height: size }}
-    />
+    <picture>
+      {webpSrc && <source srcSet={webpSrc} type="image/webp" />}
+      <img
+        src={src}
+        alt={alt}
+        width={size}
+        height={size}
+        loading={priority ? 'eager' : 'lazy'}
+        decoding="async"
+        onError={() => setErrored(true)}
+        className={`select-none ${className}`}
+        style={{ width: size, height: size }}
+      />
+    </picture>
   );
 }
 
