@@ -9,6 +9,7 @@
 // <details> による折りたたみで初期表示の縦長さを抑える。
 import Link from 'next/link';
 import PopularPosts from './PopularPosts';
+import TableOfContents from './TableOfContents';
 import { SearchIcon } from './icons/NavIcons';
 import { mainCategories } from '@/lib/categories';
 import { series, accentClasses } from '@/lib/series';
@@ -71,9 +72,14 @@ function SeriesSection({ s }) {
   );
 }
 
-export default function Sidebar() {
+export default function Sidebar({ headings }) {
   return (
     <aside className="space-y-6">
+      {/* 0. 記事ページのみ: 追従目次。ハイライトはクライアント側で更新。 */}
+      {headings && headings.length > 0 && (
+        <TableOfContents headings={headings} variant="sticky" />
+      )}
+
       {/* 1. サイト内検索 */}
       <div className="rounded-2xl bg-white border border-amber-200 p-5">
         <Link href="/search/" className="inline-flex items-center gap-2 text-sm font-bold text-ink-900 hover:text-amber-700">

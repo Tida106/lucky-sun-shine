@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes } from '@/lib/posts';
+import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes, extractHeadings } from '@/lib/posts';
 import { getCategory } from '@/lib/categories';
 import { site } from '@/lib/site';
 import { getFaqForPost, faqJsonLd } from '@/lib/faq';
@@ -13,6 +13,8 @@ import SunOrnament from '@/components/icons/SunOrnament';
 import BlogMascotBubble from '@/components/BlogMascotBubble';
 import FaqSection from '@/components/FaqSection';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import TableOfContents from '@/components/TableOfContents';
+import ShareButtons from '@/components/ShareButtons';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -80,8 +82,15 @@ export default async function BlogPostPage({ params }) {
   if (!post) notFound();
 
   const html = await renderMarkdown(post.content);
+  // 追従TOC用に、レンダリング済みHTMLから h2/h3 を抽出。
+  // rehype-slug が付与した id をそのまま使うので、TOC リンクと本文アンカーが一致する。
+  const headings = extractHeadings(html);
   const cat = getCategory(post.category);
   const minutes = readingTimeMinutes(post.content);
+
+  // シェアボタン用のメタ。Pinterest は media が必要なので OG 画像を渡す。
+  const articleUrl = `${site.url}/blog/${post.slug}/`;
+  const shareImage = `${site.url}/og-image.jpg`;
 
   const authorName = post.author || site.publisherName;
   const articleSchema = {
@@ -268,6 +277,15 @@ export default async function BlogPostPage({ params }) {
 最後までゆっくり読んでいってね✨`}
         </BlogMascotBubble>
 
+        {/* モバイル/狭幅向け折りたたみ目次。PC ではサイドバーに常時表示する。 */}
+        {headings.length > 0 && (
+          <TableOfContents
+            headings={headings}
+            variant="inline"
+            className="lg:hidden mb-8"
+          />
+        )}
+
         <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
 
         {pillarPost && (
@@ -387,6 +405,15 @@ export default async function BlogPostPage({ params }) {
 
         <FaqSection faq={faq} />
 
+        {/* シェアボタン: X / Pinterest / LINE / URLコピー。
+            読了直後にシェアする心理動線に合わせて、お見送り吹き出しの直前に置く。 */}
+        <ShareButtons
+          url={articleUrl}
+          title={post.title}
+          image={shareImage}
+          className="mt-12"
+        />
+
         {/* 記事末尾の太陽ちゃんお見送り */}
         <BlogMascotBubble
           tone="cream"
@@ -419,7 +446,7 @@ export default async function BlogPostPage({ params }) {
 
       <div className="hidden lg:block">
         <div className="sticky top-24">
-          <Sidebar />
+          <Sidebar headings={headings} />
         </div>
       </div>
     </div>
