@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import PostCard from '@/components/PostCard';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import Sidebar from '@/components/Sidebar';
 import { getPostsByTag, allTags } from '@/lib/posts';
 
 export function generateStaticParams() {
@@ -24,24 +25,32 @@ export default async function TagPage({ params }) {
   if (posts.length === 0) notFound();
 
   return (
-    <section className="max-w-6xl mx-auto px-4 py-10">
-      <Breadcrumbs
-        items={[
-          { name: 'タグ一覧', href: '/tags/' },
-          { name: `#${tag}` },
-        ]}
-        className="mb-6"
-      />
-      <header className="mb-8">
-        <p className="text-amber-700 text-xs font-bold tracking-widest">TAG</p>
-        <h1 className="font-display text-3xl font-extrabold mt-1">#{tag}</h1>
-        <p className="mt-2 text-sm text-ink-500">{posts.length} 記事</p>
-      </header>
-      <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {posts.map((p) => (
-          <PostCard key={p.slug} post={p} />
-        ))}
+    <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
+      <section className="min-w-0">
+        <Breadcrumbs
+          items={[
+            { name: 'タグ一覧', href: '/tags/' },
+            { name: `#${tag}` },
+          ]}
+          className="mb-6"
+        />
+        <header className="mb-8">
+          <p className="text-amber-700 text-xs font-bold tracking-widest">TAG</p>
+          <h1 className="font-display text-3xl font-extrabold mt-1">#{tag}</h1>
+          <p className="mt-2 text-sm text-ink-500">{posts.length} 記事</p>
+        </header>
+        <div className="grid gap-5 sm:grid-cols-2">
+          {posts.map((p) => (
+            <PostCard key={p.slug} post={p} />
+          ))}
+        </div>
+      </section>
+
+      <div className="hidden lg:block">
+        <div className="sticky top-24">
+          <Sidebar />
+        </div>
       </div>
-    </section>
+    </div>
   );
 }

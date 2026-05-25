@@ -4,6 +4,7 @@ import PostCard from '@/components/PostCard';
 import RecommendSns from '@/components/RecommendSns';
 import CategoryIcon from '@/components/CategoryIcon';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import Sidebar from '@/components/Sidebar';
 import { categories, getCategory, categorySlugs } from '@/lib/categories';
 import { getPostsByCategory } from '@/lib/posts';
 import { site } from '@/lib/site';
@@ -79,63 +80,71 @@ export default async function CategoryPage({ params }) {
         </div>
       </section>
 
-      <section className="max-w-6xl mx-auto px-4 py-10">
-        {cat.pillarSlug && (
-          <Link
-            href={`/blog/${cat.pillarSlug}/`}
-            className={`mb-8 block group rounded-2xl border-2 ${cat.pastel.accentBorder} ${cat.pastel.bg} p-5 sm:p-6 hover:shadow-md transition-shadow`}
-          >
-            <div className="flex items-start gap-4">
-              <div className={`shrink-0 mt-0.5 inline-flex items-center justify-center w-10 h-10 rounded-full bg-white ${cat.pastel.accent}`}>
-                <CategoryIcon slug={cat.slug} className="w-5 h-5" />
-              </div>
-              <div className="min-w-0">
-                <div className={`text-[11px] font-bold tracking-widest ${cat.pastel.accent}`}>
-                  まずはここから — 完全ガイド
+      <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
+        <section className="min-w-0">
+          {cat.pillarSlug && (
+            <Link
+              href={`/blog/${cat.pillarSlug}/`}
+              className={`mb-8 block group rounded-2xl border-2 ${cat.pastel.accentBorder} ${cat.pastel.bg} p-5 sm:p-6 hover:shadow-md transition-shadow`}
+            >
+              <div className="flex items-start gap-4">
+                <div className={`shrink-0 mt-0.5 inline-flex items-center justify-center w-10 h-10 rounded-full bg-white ${cat.pastel.accent}`}>
+                  <CategoryIcon slug={cat.slug} className="w-5 h-5" />
                 </div>
-                <h2 className="mt-1 font-display text-lg sm:text-xl font-bold text-ink-900 group-hover:underline">
-                  {cat.pillarTitle}
-                </h2>
-                <p className="mt-1 text-sm text-ink-700">
-                  カテゴリの全体像と基礎をまとめた総合ガイドです。初めての方はこちらから →
-                </p>
+                <div className="min-w-0">
+                  <div className={`text-[11px] font-bold tracking-widest ${cat.pastel.accent}`}>
+                    まずはここから — 完全ガイド
+                  </div>
+                  <h2 className="mt-1 font-display text-lg sm:text-xl font-bold text-ink-900 group-hover:underline">
+                    {cat.pillarTitle}
+                  </h2>
+                  <p className="mt-1 text-sm text-ink-700">
+                    カテゴリの全体像と基礎をまとめた総合ガイドです。初めての方はこちらから →
+                  </p>
+                </div>
               </div>
+            </Link>
+          )}
+
+          <div className="flex items-end justify-between mb-6">
+            <h2 className="font-display text-xl font-bold">記事一覧</h2>
+            <span className="text-sm text-ink-500">{posts.length} 記事</span>
+          </div>
+          {posts.length === 0 ? (
+            <p className="text-ink-500 text-sm">このカテゴリの記事は準備中です。</p>
+          ) : (
+            <div className="grid gap-5 sm:grid-cols-2">
+              {posts.map((p) => (
+                <PostCard key={p.slug} post={p} />
+              ))}
             </div>
-          </Link>
-        )}
+          )}
 
-        <div className="flex items-end justify-between mb-6">
-          <h2 className="font-display text-xl font-bold">記事一覧</h2>
-          <span className="text-sm text-ink-500">{posts.length} 記事</span>
-        </div>
-        {posts.length === 0 ? (
-          <p className="text-ink-500 text-sm">このカテゴリの記事は準備中です。</p>
-        ) : (
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {posts.map((p) => (
-              <PostCard key={p.slug} post={p} />
-            ))}
+          {slug === 'luck-habits' && <RecommendSns />}
+
+          <div className="mt-12 pt-6 border-t border-amber-200">
+            <h3 className="text-sm font-bold mb-3 text-ink-700">他のカテゴリ</h3>
+            <div className="flex flex-wrap gap-2">
+              {categories.filter((c) => c.slug !== slug).map((c) => (
+                <Link
+                  key={c.slug}
+                  href={`/category/${c.slug}/`}
+                  className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border ${c.pastel.accentBorder} text-sm ${c.pastel.accent} ${c.pastel.accentHover} ${c.pastel.hoverBg} transition-colors`}
+                >
+                  <CategoryIcon slug={c.slug} className={`w-3.5 h-3.5 ${c.pastel.accent}`} />
+                  {c.title}
+                </Link>
+              ))}
+            </div>
           </div>
-        )}
+        </section>
 
-        {slug === 'luck-habits' && <RecommendSns />}
-
-        <div className="mt-12 pt-6 border-t border-amber-200">
-          <h3 className="text-sm font-bold mb-3 text-ink-700">他のカテゴリ</h3>
-          <div className="flex flex-wrap gap-2">
-            {categories.filter((c) => c.slug !== slug).map((c) => (
-              <Link
-                key={c.slug}
-                href={`/category/${c.slug}/`}
-                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border ${c.pastel.accentBorder} text-sm ${c.pastel.accent} ${c.pastel.accentHover} ${c.pastel.hoverBg} transition-colors`}
-              >
-                <CategoryIcon slug={c.slug} className={`w-3.5 h-3.5 ${c.pastel.accent}`} />
-                {c.title}
-              </Link>
-            ))}
+        <div className="hidden lg:block">
+          <div className="sticky top-24">
+            <Sidebar />
           </div>
         </div>
-      </section>
+      </div>
     </>
   );
 }
