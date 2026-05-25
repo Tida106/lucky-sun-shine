@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Breadcrumbs from '@/components/Breadcrumbs';
 import { allTags, getPostsByTag } from '@/lib/posts';
 
 export const metadata = {
@@ -14,6 +15,7 @@ export default function TagsIndexPage() {
 
   return (
     <section className="max-w-5xl mx-auto px-4 py-12">
+      <Breadcrumbs items={[{ name: 'タグ一覧' }]} className="mb-6" />
       <header className="mb-8 text-center">
         <p className="text-amber-700 text-xs font-bold tracking-widest">TAGS</p>
         <h1 className="font-display text-3xl font-extrabold mt-2">タグから探す</h1>

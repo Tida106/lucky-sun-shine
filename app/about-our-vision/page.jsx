@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { site } from '@/lib/site';
 import SunMascot from '@/components/SunMascot';
 import Sparkles from '@/components/icons/Sparkles';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: 'Lucky Sun Shineの想い',
@@ -20,11 +21,7 @@ export const metadata = {
 export default function AboutOurVisionPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
-      <nav aria-label="パンくずリスト" className="text-xs text-ink-500 mb-6">
-        <Link href="/" className="hover:text-amber-700">トップ</Link>
-        <span className="mx-1">/</span>
-        <span className="text-ink-700">Lucky Sun Shineの想い</span>
-      </nav>
+      <Breadcrumbs items={[{ name: 'Lucky Sun Shineの想い' }]} className="mb-6" />
 
       <header className="text-center mb-10">
         <p className="inline-flex items-center justify-center gap-2 text-amber-700 text-xs font-bold tracking-widest">

@@ -1,4 +1,5 @@
 import { site } from '@/lib/site';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: 'お問い合わせ',
@@ -14,6 +15,7 @@ const FORMSPREE_ENDPOINT = `https://formspree.io/f/${FORMSPREE_ID}`;
 export default function ContactPage() {
   return (
     <article className="max-w-2xl mx-auto px-4 py-12">
+      <Breadcrumbs items={[{ name: 'お問い合わせ' }]} className="mb-6" />
       <h1 className="font-display text-3xl font-extrabold text-ink-900">お問い合わせ</h1>
       <p className="mt-4 text-ink-700 leading-relaxed">
         記事内容のご指摘・取材依頼・広告掲載・コラボのご相談など、お気軽にお問い合わせください。

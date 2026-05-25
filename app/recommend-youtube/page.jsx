@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { site } from '@/lib/site';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: '開運に役立つおすすめYouTubeチャンネル',
@@ -176,24 +177,11 @@ export default function RecommendYoutubePage() {
     embedUrl: `https://www.youtube-nocookie.com/embed/${v.videoId}`,
   }));
 
-  const breadcrumbSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'ホーム',                   item: `${site.url}/` },
-      { '@type': 'ListItem', position: 2, name: 'おすすめYouTubeチャンネル', item: `${site.url}/recommend-youtube/` },
-    ],
-  };
-
   return (
     <article className="max-w-6xl mx-auto px-4 py-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       {videoObjectSchemas.map((s, i) => (
         <script
@@ -203,12 +191,7 @@ export default function RecommendYoutubePage() {
         />
       ))}
 
-      {/* Breadcrumb */}
-      <nav aria-label="パンくずリスト" className="text-xs text-ink-500 mb-6">
-        <Link href="/" className="hover:text-amber-700">トップ</Link>
-        <span className="mx-1">/</span>
-        <span className="text-ink-700">おすすめYouTubeチャンネル</span>
-      </nav>
+      <Breadcrumbs items={[{ name: 'おすすめYouTubeチャンネル' }]} className="mb-6" />
 
       {/* Hero */}
       <header className="text-center mb-10">

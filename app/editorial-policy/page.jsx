@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { site } from '@/lib/site';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: '記事作成方針｜Lucky Sun Shine',
@@ -10,6 +11,7 @@ export const metadata = {
 export default function EditorialPolicyPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12 prose-article">
+      <Breadcrumbs items={[{ name: '記事作成方針' }]} className="not-prose mb-6" />
       <header className="not-prose text-center mb-10">
         <p className="text-amber-700 text-xs font-bold tracking-widest">EDITORIAL POLICY</p>
         <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900">

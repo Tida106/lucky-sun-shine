@@ -1,4 +1,5 @@
 import { site } from '@/lib/site';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: 'プライバシーポリシー',
@@ -9,6 +10,7 @@ export const metadata = {
 export default function PrivacyPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12 prose-article">
+      <Breadcrumbs items={[{ name: 'プライバシーポリシー' }]} className="not-prose mb-6" />
       <h1 className="font-display text-3xl font-extrabold text-ink-900 not-prose">
         プライバシーポリシー
       </h1>

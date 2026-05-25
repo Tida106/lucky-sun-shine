@@ -1,4 +1,5 @@
 import { site } from '@/lib/site';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: '免責事項',
@@ -9,6 +10,7 @@ export const metadata = {
 export default function DisclaimerPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12 prose-article">
+      <Breadcrumbs items={[{ name: '免責事項' }]} className="not-prose mb-6" />
       <h1 className="font-display text-3xl font-extrabold text-ink-900 not-prose">免責事項</h1>
 
       <h2>掲載情報の正確性について</h2>

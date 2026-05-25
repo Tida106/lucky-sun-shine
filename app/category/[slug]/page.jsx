@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import PostCard from '@/components/PostCard';
 import RecommendSns from '@/components/RecommendSns';
 import CategoryIcon from '@/components/CategoryIcon';
+import Breadcrumbs from '@/components/Breadcrumbs';
 import { categories, getCategory, categorySlugs } from '@/lib/categories';
 import { getPostsByCategory } from '@/lib/posts';
 import { site } from '@/lib/site';
@@ -33,16 +34,48 @@ export default async function CategoryPage({ params }) {
   if (!cat) notFound();
   const posts = getPostsByCategory(slug);
 
+  // CollectionPage + ItemList 構造化データ — このページが
+  // 「カテゴリの記事一覧」であることを検索エンジンに明示する。
+  // 並びは getPostsByCategory が返す順(新しい順)に対応。
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${cat.title}の記事一覧`,
+    description: cat.description,
+    url: `${site.url}/category/${cat.slug}/`,
+    inLanguage: site.language,
+    isPartOf: { '@type': 'WebSite', name: site.name, url: site.url },
+    mainEntity: {
+      '@type': 'ItemList',
+      name: `${cat.title}の記事一覧`,
+      itemListOrder: 'https://schema.org/ItemListOrderDescending',
+      numberOfItems: posts.length,
+      itemListElement: posts.map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `${site.url}/blog/${p.slug}/`,
+        name: p.title,
+      })),
+    },
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
       <section className={cat.pastel.bg}>
-        <div className="max-w-6xl mx-auto px-4 py-12 text-center">
-          <CategoryIcon slug={cat.slug} className={`w-12 h-12 mx-auto mb-3 ${cat.pastel.accent}`} />
-          <h1 className={`font-display text-3xl md:text-4xl font-extrabold ${cat.pastel.accent}`}>
-            {cat.title}
-          </h1>
-          <p className="mt-3 text-[#5A5A5A]">{cat.tagline}</p>
-          <p className="mt-2 text-sm text-[#5A5A5A]/80 max-w-2xl mx-auto">{cat.description}</p>
+        <div className="max-w-6xl mx-auto px-4 pt-6 pb-12">
+          <Breadcrumbs items={[{ name: cat.title }]} className="mb-6" />
+          <div className="text-center">
+            <CategoryIcon slug={cat.slug} className={`w-12 h-12 mx-auto mb-3 ${cat.pastel.accent}`} />
+            <h1 className={`font-display text-3xl md:text-4xl font-extrabold ${cat.pastel.accent}`}>
+              {cat.title}
+            </h1>
+            <p className="mt-3 text-[#5A5A5A]">{cat.tagline}</p>
+            <p className="mt-2 text-sm text-[#5A5A5A]/80 max-w-2xl mx-auto">{cat.description}</p>
+          </div>
         </div>
       </section>
 

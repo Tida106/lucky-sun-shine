@@ -1,5 +1,6 @@
 import { site } from '@/lib/site';
 import OmikujiClient from './OmikujiClient';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: '太陽ちゃんのおみくじ☀️｜Lucky Sun Shine',
@@ -15,5 +16,12 @@ export const metadata = {
 };
 
 export default function OmikujiPage() {
-  return <OmikujiClient />;
+  return (
+    <>
+      <div className="max-w-2xl mx-auto px-4 pt-6">
+        <Breadcrumbs items={[{ name: '太陽ちゃんのおみくじ' }]} />
+      </div>
+      <OmikujiClient />
+    </>
+  );
 }

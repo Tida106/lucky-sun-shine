@@ -1,4 +1,5 @@
 import SearchBox from '@/components/SearchBox';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: 'サイト内検索',
@@ -9,6 +10,7 @@ export const metadata = {
 export default function SearchPage() {
   return (
     <section className="max-w-3xl mx-auto px-4 py-12">
+      <Breadcrumbs items={[{ name: 'サイト内検索' }]} className="mb-6" />
       <header className="mb-6 text-center">
         <p className="text-amber-700 text-xs font-bold tracking-widest">SEARCH</p>
         <h1 className="font-display text-3xl font-extrabold mt-2 text-ink-900">

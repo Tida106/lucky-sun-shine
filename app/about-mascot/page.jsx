@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import SunMascot from '@/components/SunMascot';
 import { site } from '@/lib/site';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: '太陽ちゃんってどんな子？｜Lucky Sun Shineの公式マスコット',
@@ -88,6 +89,7 @@ function SectionHeading({ children, eyebrow }) {
 export default function AboutMascotPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
+      <Breadcrumbs items={[{ name: '太陽ちゃんプロフィール' }]} className="mb-6" />
       {/* ヘッダー画像 */}
       <header className="text-center">
         <p className="text-amber-700 text-xs font-bold tracking-widest">OFFICIAL MASCOT</p>

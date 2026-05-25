@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { site } from '@/lib/site';
 import { categories } from '@/lib/categories';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export const metadata = {
   title: 'このサイトについて',
@@ -11,6 +12,7 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
+      <Breadcrumbs items={[{ name: 'このサイトについて' }]} className="mb-6" />
       <header className="text-center mb-10">
         <p className="text-amber-700 text-xs font-bold tracking-widest">ABOUT</p>
         <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900">

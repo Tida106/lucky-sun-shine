@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import PostCard from '@/components/PostCard';
+import Breadcrumbs from '@/components/Breadcrumbs';
 import { getPostsByTag, allTags } from '@/lib/posts';
 
 export function generateStaticParams() {
@@ -24,6 +25,13 @@ export default async function TagPage({ params }) {
 
   return (
     <section className="max-w-6xl mx-auto px-4 py-10">
+      <Breadcrumbs
+        items={[
+          { name: 'タグ一覧', href: '/tags/' },
+          { name: `#${tag}` },
+        ]}
+        className="mb-6"
+      />
       <header className="mb-8">
         <p className="text-amber-700 text-xs font-bold tracking-widest">TAG</p>
         <h1 className="font-display text-3xl font-extrabold mt-1">#{tag}</h1>

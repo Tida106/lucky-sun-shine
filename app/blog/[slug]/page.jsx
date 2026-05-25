@@ -12,6 +12,7 @@ import PostCard from '@/components/PostCard';
 import SunOrnament from '@/components/icons/SunOrnament';
 import BlogMascotBubble from '@/components/BlogMascotBubble';
 import FaqSection from '@/components/FaqSection';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -113,25 +114,21 @@ export default async function BlogPostPage({ params }) {
     },
   };
 
-  const breadcrumbSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'ホーム',           item: `${site.url}/` },
-      { '@type': 'ListItem', position: 2, name: cat?.title || post.category, item: `${site.url}/category/${post.category}/` },
-      { '@type': 'ListItem', position: 3, name: post.title,         item: `${site.url}/blog/${post.slug}/` },
-    ],
-  };
-
   const all = getAllPosts();
-  const idx = all.findIndex((p) => p.slug === post.slug);
-  const prev = idx > 0 ? all[idx - 1] : null;
-  const next = idx < all.length - 1 ? all[idx + 1] : null;
+
+  // 前/次の記事は「同カテゴリ内の日付順」で隣り合うもの。
+  // 以前はサイト全体の日付順で隣接記事を選んでいたため、シトリンの次が
+  // 縁起物の処分方法など無関係なカテゴリへ飛ぶことがあった。同カテゴリに
+  // 揃えることで、読み進めるほどそのカテゴリに詳しくなる回遊体験になる。
+  const sameCatAll = all.filter((p) => p.category === post.category);
+  const idxInCat = sameCatAll.findIndex((p) => p.slug === post.slug);
+  const prev = idxInCat > 0 ? sameCatAll[idxInCat - 1] : null;
+  const next = idxInCat >= 0 && idxInCat < sameCatAll.length - 1 ? sameCatAll[idxInCat + 1] : null;
 
   // 「あわせて読みたい」: 同カテゴリから最大3記事。
   // スラグから決定的にシャッフルすることで、記事ごとに並び順が変わりつつ
   // ビルド間でブレない(静的書き出しでもハイドレーション差異が出ない)。
-  const sameCat = all.filter((p) => p.slug !== post.slug && p.category === post.category);
+  const sameCat = sameCatAll.filter((p) => p.slug !== post.slug);
   const seedHash = (() => {
     let h = 0;
     for (let i = 0; i < post.slug.length; i += 1) {
@@ -155,6 +152,39 @@ export default async function BlogPostPage({ params }) {
   const isPillarPost = Boolean(cat?.pillarSlug && post.slug === cat.pillarSlug);
   const pillarChildren = isPillarPost ? sameCat : [];
 
+  // パンくず階層 — ホーム > カテゴリ > (ピラー記事 >) 現在記事。
+  // ピラー記事の子として位置づけることで、ハブと個別記事の親子関係が
+  // 検索エンジン側にも伝わる(BreadcrumbList JSON-LDに反映)。
+  const breadcrumbItems = [
+    { name: cat?.title || post.category, href: `/category/${post.category}/` },
+  ];
+  if (pillarPost) {
+    breadcrumbItems.push({
+      name: pillarPost.title,
+      href: `/blog/${pillarPost.slug}/`,
+    });
+  }
+  breadcrumbItems.push({ name: post.title });
+
+  // ピラー記事ページのみ ItemList 構造化データを発行。
+  // 同カテゴリの子記事一覧をハブから検索エンジンに明示し、サイト構造の
+  // 理解とリッチリザルトの可能性を高める。
+  const itemListSchema = isPillarPost && pillarChildren.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        name: `${cat?.title || post.category} の記事一覧`,
+        itemListOrder: 'https://schema.org/ItemListOrderDescending',
+        numberOfItems: pillarChildren.length,
+        itemListElement: pillarChildren.map((p, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: `${site.url}/blog/${p.slug}/`,
+          name: p.title,
+        })),
+      }
+    : null;
+
   const faq = getFaqForPost(post);
   const faqSchema = faqJsonLd(faq);
 
@@ -167,25 +197,16 @@ export default async function BlogPostPage({ params }) {
         />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-        />
-        <script
-          type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
+        {itemListSchema && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+          />
+        )}
 
-        <nav aria-label="パンくずリスト" className="text-xs text-ink-500 mb-6">
-          <Link href="/" className="hover:text-amber-700">トップ</Link>
-          <span className="mx-1">/</span>
-          <Link
-            href={`/category/${post.category}/`}
-            className={`${cat?.pastel?.accentHover || 'hover:text-amber-700'}`}
-          >
-            {cat?.title || post.category}
-          </Link>
-          <span className="mx-1">/</span>
-          <span className="text-ink-700">{post.title}</span>
-        </nav>
+        <Breadcrumbs items={breadcrumbItems} className="mb-6" />
 
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-2 text-xs">
