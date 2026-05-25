@@ -5,7 +5,11 @@ import { getCategory } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import SunOrnament from './icons/SunOrnament';
 
-export default function PopularPosts({ limit = 5, heading = '人気記事ランキング' }) {
+// Display name is "編集部おすすめ" — the underlying list is a curated
+// editorial pick (lib/featured.js), not real popularity data. The component
+// name is kept as `PopularPosts` for git-blame continuity; the user-facing
+// label is what matters and is set in the default `heading` prop.
+export default function PopularPosts({ limit = 5, heading = '編集部おすすめ' }) {
   const all = getAllPosts();
   const bySlug = Object.fromEntries(all.map((p) => [p.slug, p]));
   const ranked = featuredSlugs

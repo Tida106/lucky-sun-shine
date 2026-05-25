@@ -10,6 +10,11 @@
 /.next/
 /out/
 
+# Static-export intermediates that some build configurations drop into
+# public/ — these are rebuilt under /out/ so they should not live in
+# public/ or be tracked.
+/public/blog/
+
 # production
 /build
 
