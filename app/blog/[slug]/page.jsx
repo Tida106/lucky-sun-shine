@@ -16,6 +16,8 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import TableOfContents from '@/components/TableOfContents';
 import ShareButtons from '@/components/ShareButtons';
 import ArticleCover from '@/components/ArticleCover';
+import { getRelatedPosts } from '@/lib/related';
+import { getHubChildren } from '@/lib/hubs';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -135,22 +137,11 @@ export default async function BlogPostPage({ params }) {
   const prev = idxInCat > 0 ? sameCatAll[idxInCat - 1] : null;
   const next = idxInCat >= 0 && idxInCat < sameCatAll.length - 1 ? sameCatAll[idxInCat + 1] : null;
 
-  // 「あわせて読みたい」: 同カテゴリから最大3記事。
-  // スラグから決定的にシャッフルすることで、記事ごとに並び順が変わりつつ
-  // ビルド間でブレない(静的書き出しでもハイドレーション差異が出ない)。
+  // 「あわせて読みたい」: 関連度の高い順に最低4記事。
+  // 同カテゴリ → 共有タグ → ブースト対象 → 編集部おすすめ の合成スコアで並ぶ。
+  // 詳細スコアリングは lib/related.js を参照(同月加点・フォールバック含む)。
   const sameCat = sameCatAll.filter((p) => p.slug !== post.slug);
-  const seedHash = (() => {
-    let h = 0;
-    for (let i = 0; i < post.slug.length; i += 1) {
-      h = (h * 31 + post.slug.charCodeAt(i)) >>> 0;
-    }
-    return h;
-  })();
-  const shuffled = sameCat
-    .map((p, i) => ({ p, k: ((seedHash + i * 2654435761) >>> 0) }))
-    .sort((a, b) => a.k - b.k)
-    .map((x) => x.p);
-  const alsoRead = shuffled.slice(0, 3);
+  const alsoRead = getRelatedPosts(post, all, { limit: 4 });
 
   // Pillar hub for this category (skip when the post itself is the pillar)
   const pillarPost = cat?.pillarSlug && post.slug !== cat.pillarSlug
@@ -161,6 +152,11 @@ export default async function BlogPostPage({ params }) {
   // ハブ記事下に出して内部リンクを集約する。
   const isPillarPost = Boolean(cat?.pillarSlug && post.slug === cat.pillarSlug);
   const pillarChildren = isPillarPost ? sameCat : [];
+
+  // セカンダリハブ(誕生石・星座・干支・目的別・神社ガイドなど)に該当する場合
+  // は子記事一覧を自動描画する。pillarSlug 自動展開とは別軸で、
+  // カテゴリ横断・テーマ単位の「網羅一覧」を提供する。
+  const hubChildren = getHubChildren(post.slug, all);
 
   // パンくず階層 — ホーム > カテゴリ > (ピラー記事 >) 現在記事。
   // ピラー記事の子として位置づけることで、ハブと個別記事の親子関係が
@@ -315,6 +311,24 @@ export default async function BlogPostPage({ params }) {
               </div>
             </div>
           </Link>
+        )}
+
+        {hubChildren && (
+          <section className="mt-12">
+            <div className="mb-6">
+              <h2 className="font-display text-xl md:text-2xl font-bold text-ink-900 flex items-center gap-3">
+                <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-500 shrink-0" />
+                <span>{hubChildren.title}の記事一覧</span>
+              </h2>
+              <span aria-hidden="true" className="heading-rule mt-3 ml-8" />
+              <p className="mt-3 ml-8 text-sm text-ink-700">{hubChildren.blurb}</p>
+            </div>
+            <div className="grid gap-5 sm:grid-cols-2">
+              {hubChildren.posts.map((p) => (
+                <PostCard key={p.slug} post={p} />
+              ))}
+            </div>
+          </section>
         )}
 
         {isPillarPost && pillarChildren.length > 0 && (
