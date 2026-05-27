@@ -109,7 +109,7 @@ draft: false
 | **オブシディアン** | 鏡のような自己直視 | [詳細](/blog/obsidian/) |
 | **ヘマタイト** | 大地・現実的な安定 | [詳細](/blog/hematite/) |
 
-→ さらに詳しく：[パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/)
+→ さらに詳しく：[パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 
 ## <span id="hatsumode"></span>初詣との関わり方
 
@@ -289,7 +289,7 @@ draft: false
 
 理屈ではなく、**「なぜか惹かれた石」** を選ぶ ――伝統的に **「今のあなたに必要なお守り」** とされる選び方です。**お正月の市・神社の授与所・近所の石屋さん** ――どこで選んでも、**「ピンときた1個」が正解** です。
 
-→ 詳しくは：[初めてのパワーストーンの選び方](/blog/first-powerstone-guide/) ／ [パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/)
+→ 詳しくは：[初めてのパワーストーンの選び方](/blog/first-powerstone-guide/) ／ [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 
 ## <span id="faq"></span>よくある質問（FAQ）
 
@@ -359,7 +359,7 @@ A. **神社・寺院によって対応が異なります**。**「物のお祓�
 - [12ヶ月の誕生石総合ガイド](/blog/birthstone-guide/) — 誕生月から選ぶ王道スタイル
 - [干支別パワーストーン完全ガイド](/blog/eto-powerstones-guide/) — 12干支すべての解説
 - [初めてのパワーストーンの選び方](/blog/first-powerstone-guide/) — 最初の1個を迎えるための入り口
-- [パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/) — 4軸での詳細な選び方
+- [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/) — 4軸での詳細な選び方
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/) — 2石・3石の王道コンビ
 - [パワーストーンの相性・組み合わせガイド](/blog/powerstone-compatibility/) — 5観点での相性の考え方
 - [パワーストーンの浄化・お手入れ完全ガイド](/blog/powerstone-care-guide/) — 大晦日・初日の出・節分の儀式

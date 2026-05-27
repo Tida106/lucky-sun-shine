@@ -111,7 +111,7 @@ draft: false
 | **アンバー** | 太陽の樹脂・温もり | [詳細](/blog/amber/) |
 | **イエローフローライト** | 軽やかな集中 | [詳細](/blog/fluorite/) |
 
-→ さらに詳しく：[パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/)
+→ さらに詳しく：[パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 
 ## <span id="spring-scenes"></span>春のシーン・テーマ別の石
 
@@ -456,7 +456,7 @@ A. **「信じる／信じない」を強制するものではありません**�
 - [3月の誕生石ガイド](/blog/birthstone-march/) — アクアマリン・サンゴ・モルガナイト
 - [4月の誕生石ガイド](/blog/birthstone-april/) — ダイヤモンド・水晶
 - [5月の誕生石ガイド](/blog/birthstone-may/) — エメラルド・ヒスイ
-- [パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/) — 4軸での詳細な選び方
+- [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/) — 4軸での詳細な選び方
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/) — 2石・3石の王道コンビ
 - [パワーストーンの相性・組み合わせガイド](/blog/powerstone-compatibility/) — 5観点での相性の考え方
 - [パワーストーンの浄化・お手入れ完全ガイド](/blog/powerstone-care-guide/) — 花粉・湿気の対策

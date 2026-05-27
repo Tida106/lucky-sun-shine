@@ -295,7 +295,7 @@ A. **問題ありません**。**「自分が長年大切にしてきた石」**
 ## <span id="related"></span>合わせて読みたい関連記事
 
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/) — 2石・3石の王道コンビと色・チャクラの調和の実務ガイド（補完記事）
-- [パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/) — 1石目を選ぶ前の入門ガイド
+- [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/) — 1石目を選ぶ前の入門ガイド
 - [パワーストーンの正しい身につけ方](/blog/how-to-wear-powerstones/) — 左右の使い分けと身につける場所の意味
 - [パワーストーンの浄化方法 完全ガイド](/blog/purification-complete-guide/) — 組み合わせた石たちのケア
 - [12ヶ月の誕生石総合ガイド](/blog/birthstone-guide/) — 誕生石を起点にした組み合わせ

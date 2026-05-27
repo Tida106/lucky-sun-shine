@@ -361,7 +361,7 @@ A. **パワーストーン専門店・ヒーリングショップ** が信頼で
 - [パワーストーンの相性・組み合わせガイド](/blog/powerstone-compatibility/) — 組み合わせの考え方とNG例・目的別レシピ
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/) — 2石・3石の王道コンビ
 - [パワーストーンの正しい身につけ方](/blog/how-to-wear-powerstones/) — 左右の使い分けと身につける場所の意味
-- [パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/) — 1石目を選ぶ前の入門ガイド
+- [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/) — 1石目を選ぶ前の入門ガイド
 - [水晶（クリスタル）の意味と効果](/blog/clear-quartz/) — 浄化に使う水晶の万能性
 - [12ヶ月の誕生石総合ガイド](/blog/birthstone-guide/) — 誕生石別の特性
 - [金運アップに人気のパワーストーン9選](/blog/purpose-money-stones/) — 目的別ハブ記事①

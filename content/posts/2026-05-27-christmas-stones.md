@@ -94,7 +94,7 @@ draft: false
 | **ルチルクォーツ** | 金運・行動力 | [詳細](/blog/rutilated-quartz/) |
 | **インペリアルトパーズ** | 11月の誕生石・成功 | [詳細](/blog/imperial-topaz/) |
 
-→ 詳細は：[パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/)
+→ 詳細は：[パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 
 ## <span id="by-recipient"></span>贈る相手別の選び方
 
@@ -337,7 +337,7 @@ A. **「励まし」として贈るなら問題ありません**。ただし、*
 
 - [12ヶ月の誕生石総合ガイド](/blog/birthstone-guide/) — 相手の誕生月から選ぶ王道スタイル
 - [初めてのパワーストーンの選び方](/blog/first-powerstone-guide/) — 最初の1個を迎えるための入り口
-- [パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/) — 4軸での詳細な選び方
+- [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/) — 4軸での詳細な選び方
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/) — 2石・3石の王道コンビ
 - [パワーストーンの相性・組み合わせガイド](/blog/powerstone-compatibility/) — 5観点での相性の考え方
 - [パワーストーンの浄化・お手入れ完全ガイド](/blog/powerstone-care-guide/) — 贈る前の浄化方法

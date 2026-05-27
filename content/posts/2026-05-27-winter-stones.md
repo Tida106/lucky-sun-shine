@@ -122,7 +122,7 @@ draft: false
 | **オブシディアン** | 鏡のような自己直視 | [詳細](/blog/obsidian/) |
 | **ヘマタイト** | 大地・現実的な安定 | [詳細](/blog/hematite/) |
 
-→ さらに詳しく：[パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/)
+→ さらに詳しく：[パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
 
 ## <span id="winter-scenes"></span>冬のシーン・テーマ別の石
 
@@ -471,7 +471,7 @@ A. **「信じる／信じない」を強制するものではありません**�
 - [12月の誕生石ガイド](/blog/birthstone-december/) — タンザナイト・ターコイズ・ラピスラズリ
 - [1月の誕生石ガイド](/blog/birthstone-january/) — ガーネット
 - [2月の誕生石ガイド](/blog/birthstone-february/) — アメジスト
-- [パワーストーンの選び方完全ガイド](/blog/powerstone-how-to-choose/) — 4軸での詳細な選び方
+- [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/) — 4軸での詳細な選び方
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/) — 2石・3石の王道コンビ
 - [パワーストーンの相性・組み合わせガイド](/blog/powerstone-compatibility/) — 5観点での相性の考え方
 - [パワーストーンの浄化・お手入れ完全ガイド](/blog/powerstone-care-guide/) — 乾燥・温度差・紐の交換時期
