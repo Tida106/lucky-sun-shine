@@ -117,17 +117,22 @@ const channels = [
 // relationship with the creators. Same iframe pattern as the channel
 // cards above; rendered as a separate section so SEO can index them as
 // VideoObject items.
+// uploadDate は ISO 8601 + JST(+09:00) で記載する。Google の構造化データテスト
+// (VideoObject) はタイムゾーン無しの日付のみを弾くため、必ず時刻＋オフセットまで含める。
+// 厳密な投稿日時が不明な動画は、視聴して企画化した日付の +09:00 表記で代用してよい。
 const trendingVideos = [
   {
     title: 'ヒカルが山梨・昇仙峡でルチルクォーツを購入',
     videoId: '_T43UuqhRe8',
     url: 'https://www.youtube.com/watch?v=_T43UuqhRe8',
+    uploadDate: '2021-12-09T00:00:00+09:00',
     intro: `日本トップクラスのYouTuberヒカル氏が、水晶の聖地・山梨県昇仙峡を訪れ、パワーストーンの代表格「ルチルクォーツ」を購入する動画。この動画をきっかけに、ヒカル氏の運気が上昇したと話題になり、ルチルクォーツの知名度が一気に高まりました。パワーストーンに興味があるなら一度は見ておきたい一本です。`,
   },
   {
     title: 'ヒカルがストーンマーケット会長の10億円豪邸にお泊まり',
     videoId: '-8FO4F7bAYY',
     url: 'https://www.youtube.com/watch?v=-8FO4F7bAYY',
+    uploadDate: '2022-02-04T00:00:00+09:00',
     intro: `パワーストーン専門店「ストーンマーケット」を一代で築き上げた中村泰二郎会長（現在はヒカル氏が社長就任）の福岡の大豪邸を訪れる動画。希少な原石コレクションや、パワーストーンビジネスのスケールに圧倒される内容で、開運・パワーストーンとお金の関係性を考えさせられる一本です。`,
   },
 ];
@@ -172,7 +177,7 @@ export default function RecommendYoutubePage() {
     name: v.title,
     description: v.intro.replace(/\s+/g, ' ').trim(),
     thumbnailUrl: [`https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`],
-    uploadDate: '2024-01-01',
+    uploadDate: v.uploadDate,
     contentUrl: v.url,
     embedUrl: `https://www.youtube-nocookie.com/embed/${v.videoId}`,
   }));
