@@ -1,10 +1,13 @@
 ---
-title: "ようこそ Lucky Sun Shine へ｜太陽ちゃんからの最初のお手紙☀️"
-description: "Lucky Sun Shine のマスコット「太陽ちゃん」から、サイトを訪れてくれたあなたへの最初のお手紙。パワーストーン・パワースポット・開運グッズ・運気アップ習慣を、太陽のように明るい毎日に変えていく旅のはじまりを、ふんわり優しい言葉でお届けします。"
-date: "2026-05-15"
-category: "letter"
-tags: ["太陽ちゃん", "お手紙", "はじめに"]
-slug: "letter-001-welcome"
+title: ようこそ Lucky Sun Shine へ｜太陽ちゃんからの最初のお手紙☀️
+description: Lucky Sun Shine のマスコット「太陽ちゃん」から、サイトを訪れてくれたあなたへの最初のお手紙。
+date: '2026-05-15'
+category: letter
+tags:
+  - 太陽ちゃん
+  - お手紙
+  - はじめに
+slug: letter-001-welcome
 draft: false
 ---
 

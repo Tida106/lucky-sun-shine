@@ -25,6 +25,15 @@ export async function generateMetadata({ params }) {
       title: `${cat.title} | ${site.name}`,
       description: cat.description,
       url: `${site.url}/category/${cat.slug}/`,
+      images: [
+        {
+          url: `${site.url}/og-image.jpg`,
+          width: 1200,
+          height: 630,
+          alt: `${cat.title} | ${site.name}`,
+          type: 'image/jpeg',
+        },
+      ],
     },
   };
 }

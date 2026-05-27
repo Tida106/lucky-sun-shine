@@ -1,11 +1,14 @@
 ---
-title: "寝室に置きたいパワーストーン7選｜睡眠の質・恋愛運・悪夢対策の風水と配置の早見表"
-description: "1日の3分の1を過ごす寝室は運気の充電所。睡眠の質を高め恋愛運・癒しを呼び込むパワーストーン7選（アメジスト・ローズクォーツ・ムーンストーン・セレナイト・ラリマー・ラブラドライト・モリオン）と、枕元の左右配置・四隅結界・男女別パターン・NG例・FAQまで解説した保存版です。"
-date: "2026-05-10"
-updated: "2026-05-23"
-category: "luck-habits"
-tags: ["風水", "寝室", "睡眠"]
-slug: "fengshui-bedroom-stones"
+title: 寝室に置きたいパワーストーン7選｜睡眠の質・恋愛運・悪夢対策の風水と配置の早見表
+description: 1日の3分の1を過ごす寝室は運気の充電所。
+date: '2026-05-10'
+updated: '2026-05-23'
+category: luck-habits
+tags:
+  - 風水
+  - 寝室
+  - 睡眠
+slug: fengshui-bedroom-stones
 draft: false
 ---
 

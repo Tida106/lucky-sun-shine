@@ -13,6 +13,15 @@ export const metadata = {
     description:
       '運営者が実際に視聴している、開運・神社・パワースポット情報が学べるYouTubeチャンネルを厳選して紹介します。',
     url: `${site.url}/recommend-youtube/`,
+    images: [
+      {
+        url: `${site.url}/og-image.jpg`,
+        width: 1200,
+        height: 630,
+        alt: '開運に役立つおすすめYouTubeチャンネル | Lucky Sun Shine',
+        type: 'image/jpeg',
+      },
+    ],
   },
 };
 

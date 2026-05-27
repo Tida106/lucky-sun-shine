@@ -13,6 +13,17 @@ export const metadata = {
     description:
       'Lucky Sun Shineの公式マスコット「太陽ちゃん」のプロフィールページ。あなたの毎日に光を届ける、お日さまの子をご紹介します。',
     url: `${site.url}/about-mascot/`,
+    // openGraph をページ側で上書きするとレイアウトの images がリセットされて
+    // og:image が出力されない。明示的にサイト共通の OGP 画像を指定する。
+    images: [
+      {
+        url: `${site.url}/og-image.jpg`,
+        width: 1200,
+        height: 630,
+        alt: '太陽ちゃん | Lucky Sun Shine',
+        type: 'image/jpeg',
+      },
+    ],
   },
 };
 

@@ -15,6 +15,15 @@ export const metadata = {
     description:
       'なぜ Lucky Sun Shine を立ち上げたのか、読者の方にどうなってほしいか、サイトに込めた哲学を綴ったページです。',
     url: `${site.url}/about-our-vision/`,
+    images: [
+      {
+        url: `${site.url}/og-image.jpg`,
+        width: 1200,
+        height: 630,
+        alt: `Lucky Sun Shineの想い | ${site.name}`,
+        type: 'image/jpeg',
+      },
+    ],
   },
 };
 

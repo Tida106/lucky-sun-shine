@@ -12,6 +12,15 @@ export const metadata = {
     description:
       '太陽ちゃんが今日のあなたに、運勢とラッキーストーンをお届けします。',
     url: `${site.url}/omikuji/`,
+    images: [
+      {
+        url: `${site.url}/og-image.jpg`,
+        width: 1200,
+        height: 630,
+        alt: '太陽ちゃんのおみくじ | Lucky Sun Shine',
+        type: 'image/jpeg',
+      },
+    ],
   },
 };
 

@@ -1,11 +1,15 @@
 ---
-title: "風水×パワーストーン｜気の流れを整える石の置き方の基本入門ガイド"
-description: "風水とパワーストーンを組み合わせ、家やオフィスの「気」を整える方法を初心者向けに完全解説。気・五行・八方位の3要素、五行と石の対応表、配置の4ルール、避けるべきNG例、3ステップ実践法、ケース別の組み合わせ実例、FAQまで網羅した入門ガイドの保存版です。"
-date: "2026-05-10"
-updated: "2026-05-23"
-category: "luck-habits"
-tags: ["風水", "気", "方角", "入門"]
-slug: "fengshui-powerstone-basics"
+title: 風水×パワーストーン｜気の流れを整える石の置き方の基本入門ガイド
+description: 風水とパワーストーンを組み合わせ、家やオフィスの「気」を整える方法を初心者向けに完全解説。
+date: '2026-05-10'
+updated: '2026-05-23'
+category: luck-habits
+tags:
+  - 風水
+  - 気
+  - 方角
+  - 入門
+slug: fengshui-powerstone-basics
 draft: false
 ---
 

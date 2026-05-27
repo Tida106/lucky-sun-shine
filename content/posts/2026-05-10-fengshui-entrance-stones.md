@@ -1,11 +1,14 @@
 ---
-title: "玄関に置きたいパワーストーン8選｜風水で「気の入口」を整える置き方と方角別早見表"
-description: "玄関は家のすべての気が入ってくる「気の入口」。風水的に最も重要な玄関に置くべきパワーストーン8選（水晶・モリオン・シトリン・タイガーアイ・ローズクォーツ・アメジスト・ターコイズ・パイライト）と、置き方のコツ・方角別の補強・NG例・FAQまで解説した保存版です。"
-date: "2026-05-10"
-updated: "2026-05-23"
-category: "luck-habits"
-tags: ["風水", "玄関", "気の流れ"]
-slug: "fengshui-entrance-stones"
+title: 玄関に置きたいパワーストーン8選｜風水で「気の入口」を整える置き方と方角別早見表
+description: 玄関は家のすべての気が入ってくる「気の入口」。
+date: '2026-05-10'
+updated: '2026-05-23'
+category: luck-habits
+tags:
+  - 風水
+  - 玄関
+  - 気の流れ
+slug: fengshui-entrance-stones
 draft: false
 ---
 

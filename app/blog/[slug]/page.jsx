@@ -96,6 +96,13 @@ export default async function BlogPostPage({ params }) {
   const shareImage = `${site.url}/og-image.jpg`;
 
   const authorName = post.author || site.publisherName;
+  // Google のリッチリザルト要件で BlogPosting には image が必須。
+  // 記事個別カバー (frontmatter `cover`) が無い場合はサイト共通 OGP 画像で
+  // フォールバックする。ImageObject 形式にして幅/高さを明示することで
+  // Search Console の構造化データ検証で警告が出ないようにしておく。
+  const articleImage = post.cover
+    ? (post.cover.startsWith('http') ? post.cover : `${site.url}${post.cover}`)
+    : shareImage;
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
@@ -103,6 +110,12 @@ export default async function BlogPostPage({ params }) {
     description: post.description,
     keywords: post.tags.join(', '),
     url: `${site.url}/blog/${post.slug}/`,
+    image: {
+      '@type': 'ImageObject',
+      url: articleImage,
+      width: 1200,
+      height: 630,
+    },
     datePublished: post.date,
     dateModified: post.updated || post.date,
     inLanguage: site.language,
