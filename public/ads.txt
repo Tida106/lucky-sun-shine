@@ -1,0 +1,4 @@
+# ads.txt placeholder — set NEXT_PUBLIC_ADSENSE_CLIENT or
+# ADSENSE_PUBLISHER_ID in CI to populate this file.
+# Example after AdSense approval:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
