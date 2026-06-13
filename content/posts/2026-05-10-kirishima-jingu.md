@@ -9,6 +9,7 @@ tags:
   - 霧島神宮
   - 鹿児島県
   - 神話
+  - 火山
 slug: kirishima-jingu
 draft: false
 ---

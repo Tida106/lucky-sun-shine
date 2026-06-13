@@ -4,7 +4,7 @@ description: "富士山本宮浅間大社（静岡県富士宮市宮町1-1）の
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["浅間大社", "静岡県", "富士山"]
+tags: ["浅間大社", "静岡県", "富士山", "火山"]
 slug: "fujisan-hongu-sengen-taisha"
 draft: false
 ---
