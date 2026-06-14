@@ -158,7 +158,43 @@ draft: false
 | **5,000〜10,000円** | 質にこだわったブレスレット・ペンダント・小さめのクラスター |
 | **10,000円以上** | 高品質な一点もの・大きめの原石・複数石の組み合わせギフト |
 
-**特定のショップや商品を推奨することは本記事では行いません。** お近くの実店舗・信頼できる通販・百貨店の催事・ハンドメイドマーケットなど、ご自身が選びやすい場所でお求めください。
+**特定の商品の効果を保証・断定するものではありません。** お近くの実店舗・信頼できる通販・百貨店の催事・ハンドメイドマーケットなど、ご自身が選びやすい場所でお求めください。
+
+---
+
+## 代表的な石を楽天市場で探す
+
+「具体的にどんな商品があるか見てみたい」という方向けに、本記事で紹介した主要な石の楽天市場検索リンクをまとめました。**特定の商品を保証・推奨するものではなく**、選びやすい入口としてご活用ください。レビュー数や評価、ショップの信頼性をご自身で確認しながら選ぶのが安心です。
+
+### 万人受けしやすい定番石
+
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%84%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でローズクォーツを探す</a>（PR）――優しいピンクで男女問わず身につけやすい
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でムーンストーンを探す</a>（PR）――乳白色の柔らかい光が美しい定番
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E6%99%B6%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場で水晶を探す</a>（PR）――誰にでも馴染む万能の透明石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でアメジストを探す</a>（PR）――上品な紫で親世代にも馴染みやすい
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%88%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でシトリンを探す</a>（PR）――明るい黄色で気持ちが前向きになる
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%BF%A1%E7%BF%A0%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場で翡翠を探す</a>（PR）――落ち着いた緑系、親への贈り物に
+
+### 誕生石として人気の石
+
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でガーネットを探す</a>（PR）――1月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でアクアマリンを探す</a>（PR）――3月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でエメラルドを探す</a>（PR）――5月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AB%E3%83%93%E3%83%BC%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でルビーを探す</a>（PR）――7月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9A%E3%83%AA%E3%83%89%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でペリドットを探す</a>（PR）――8月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でサファイアを探す</a>（PR）――9月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%91%E3%83%BC%E3%83%AB%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でオパールを探す</a>（PR）――10月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%91%E3%83%BC%E3%82%BA%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でトパーズを探す</a>（PR）――11月の誕生石
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8A%E3%82%A4%E3%83%88%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でタンザナイトを探す</a>（PR）――12月の誕生石
+
+### 形態から探す
+
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2B%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でパワーストーンブレスレットを探す</a>（PR）
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2B%E3%83%9A%E3%83%B3%E3%83%80%E3%83%B3%E3%83%88%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でパワーストーンペンダントを探す</a>（PR）
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A9%E7%84%B6%E7%9F%B3%2B%E3%81%95%E3%81%96%E3%82%8C%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場で天然石さざれを探す</a>（PR）
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A9%E7%84%B6%E7%9F%B3%2B%E5%8E%9F%E7%9F%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場で天然石原石を探す</a>（PR）
+
+> 検索結果はリンク先の都合で在庫状況・価格が変動します。**お買い物は必ずご自身の判断で**お願いします。
 
 ---
 
