@@ -53,6 +53,7 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/contact/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/tags/`, today, 'weekly', '0.6'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/search/`, today, 'monthly', '0.4'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/blog/`, today, 'daily', '0.9'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/recommend-youtube/`, today, 'monthly', '0.6'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/omikuji/`, today, 'monthly', '0.7'));
 
