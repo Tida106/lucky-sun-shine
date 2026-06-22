@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import ReactDOM from 'react-dom';
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { mainCategories as categories } from '@/lib/categories';
@@ -144,6 +144,11 @@ const FEATURED_SLUGS = [
 ];
 
 export default function HomePage() {
+  // ヒーロー画像をレスポンシブにプリロード。静的書き出し時の <head> に挿入される。
+  ReactDOM.preload('/images/hero-crystals-480.webp', { as: 'image', fetchPriority: 'high', media: '(max-width: 480px)' });
+  ReactDOM.preload('/images/hero-crystals-960.webp', { as: 'image', fetchPriority: 'high', media: '(min-width: 481px) and (max-width: 960px)' });
+  ReactDOM.preload('/images/hero-crystals.webp',     { as: 'image', fetchPriority: 'high', media: '(min-width: 961px)' });
+
   const posts = getAllPosts();
 
   // 日付降順そのままで最新10件。ピラー・ハブはお日さまのおすそわけ側で別途出す。
@@ -156,15 +161,21 @@ export default function HomePage() {
     <>
       {/* Hero */}
       <section className="relative overflow-hidden isolate">
-        <Image
-          src="/images/hero-crystals.webp"
-          alt=""
-          fill
-          priority
-          sizes="100vw"
-          aria-hidden="true"
-          className="object-cover object-center -z-10 select-none pointer-events-none"
-        />
+        {/* レスポンシブ背景画像: モバイル27KB / タブレット102KB / デスクトップ238KB */}
+        <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none">
+          <source media="(max-width: 480px)"  srcSet="/images/hero-crystals-480.webp" type="image/webp" />
+          <source media="(max-width: 960px)"  srcSet="/images/hero-crystals-960.webp" type="image/webp" />
+          <img
+            src="/images/hero-crystals.webp"
+            alt=""
+            width={1376}
+            height={768}
+            fetchPriority="high"
+            loading="eager"
+            decoding="async"
+            className="w-full h-full object-cover object-center select-none"
+          />
+        </picture>
         {/* Readability overlay — 60–70% white veil keeps amber/ink type legible */}
         <div
           aria-hidden="true"

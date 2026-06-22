@@ -8,16 +8,18 @@ import { site } from '@/lib/site';
 
 const notoSansJp = Noto_Sans_JP({
   subsets: ['latin'],
-  weight: ['400', '500', '700'],
+  weight: ['400', '700'],
   variable: '--font-sans-jp',
   display: 'swap',
+  preload: false,
 });
 
 const notoSerifJp = Noto_Serif_JP({
   subsets: ['latin'],
-  weight: ['300', '400', '600', '700'],
+  weight: ['400', '700'],
   variable: '--font-serif-jp',
   display: 'swap',
+  preload: false,
 });
 
 // Google Search Console verification token. Hardcoded for reliability
@@ -110,6 +112,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ja" className={`${notoSansJp.variable} ${notoSerifJp.variable}`}>
       <head>
+        {/* Critical CSS: ファーストビュー描画に必要な最小スタイルをインライン化。
+            外部CSSファイルより先に確実に適用されるため、FCP/LCPが短縮される。 */}
+        <style dangerouslySetInnerHTML={{ __html: `*,*::before,*::after{box-sizing:border-box}body{background-color:#FAF4E6;color:#1a1410;margin:0;min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased;font-family:system-ui,sans-serif;line-height:1.8}.sunray-bg{background:radial-gradient(ellipse at 50% -10%,rgba(201,169,110,.35) 0%,transparent 55%),linear-gradient(180deg,#FAF4E6 0%,#fff 60%)}h1,h2,h3{font-family:Georgia,serif;letter-spacing:.05em}` }} />
         {/* Lightweight in-browser security headers via http-equiv */}
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
