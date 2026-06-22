@@ -9,6 +9,7 @@ const fs = require('fs');
 const SRC = path.join(__dirname, '../public/images/hero-crystals.webp');
 const OUT = [
   { file: 'hero-crystals-480.webp', width: 480, quality: 70 },
+  { file: 'hero-crystals-640.webp', width: 640, quality: 75 },
   { file: 'hero-crystals-960.webp', width: 960, quality: 78 },
 ];
 

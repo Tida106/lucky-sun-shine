@@ -1,30 +1,14 @@
 import './globals.css';
-import { Noto_Sans_JP, Noto_Serif_JP } from 'next/font/google';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
 import AdSense from '@/components/AdSense';
 import { site } from '@/lib/site';
 
-const notoSansJp = Noto_Sans_JP({
-  subsets: ['latin'],
-  weight: ['400', '700'],
-  variable: '--font-sans-jp',
-  display: 'swap',
-  preload: false,
-});
+// next/font/google は廃止。
+// 理由: 189KB×2 のレンダーブロッキングCSSファイルを生成し FCP/LCP を大幅に遅延させる。
+// Google Fontsをインラインスクリプトで非同期ロードすることで描画を一切ブロックしない。
 
-const notoSerifJp = Noto_Serif_JP({
-  subsets: ['latin'],
-  weight: ['400', '700'],
-  variable: '--font-serif-jp',
-  display: 'swap',
-  preload: false,
-});
-
-// Google Search Console verification token. Hardcoded for reliability
-// (so the meta tag ships even if the GitHub Variable is unset). An env
-// override is honored for future rotation without a code change.
 const GSC_VERIFICATION =
   process.env.NEXT_PUBLIC_GSC_VERIFICATION ||
   '9oLtqYSKbP7j7gtvkwyf5HGJT_Ty9eN7VTD6G8zggeQ';
@@ -45,9 +29,6 @@ export const metadata = {
     title: site.name,
     description: site.description,
     url: site.url,
-    // Absolute URL so external crawlers (Twitter/Facebook/Slack) get a
-    // working preview without relying on metadataBase resolution.
-    // 1200x630 JPEG — the canonical OG card aspect.
     images: [
       {
         url: `${site.url}/og-image.jpg`,
@@ -69,9 +50,6 @@ export const metadata = {
     apple: '/apple-touch-icon.svg',
   },
   manifest: '/manifest.webmanifest',
-  // Static-export sites can't set HTTP headers from code, but the
-  // referrer-policy meta tag and the http-equiv tags above provide a
-  // similar effect within the browser.
   other: {
     'referrer': 'strict-origin-when-cross-origin',
   },
@@ -85,9 +63,6 @@ export const viewport = {
   colorScheme: 'light',
 };
 
-// Register the service worker as soon as the page is interactive.
-// Skipped when no SW file is present (static export still serves /sw.js
-// via the public/ dir).
 const swRegisterScript = `
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
@@ -95,6 +70,13 @@ if ('serviceWorker' in navigator) {
   });
 }
 `;
+
+// Google Fonts を動的に追加するインラインスクリプト。
+// 動的に追加された <link rel="stylesheet"> はレンダーをブロックしない (Chrome仕様)。
+// preconnect で DNS/TCPを事前確立し、フォントCSSのダウンロードを最速化する。
+const FONT_URL =
+  'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Noto+Serif+JP:wght@400;700&display=swap';
+const fontLoaderScript = `!function(){var l=document.createElement('link');l.rel='stylesheet';l.href='${FONT_URL}';document.head.appendChild(l)}()`;
 
 export default function RootLayout({ children }) {
   const orgSchema = {
@@ -110,12 +92,18 @@ export default function RootLayout({ children }) {
     },
   };
   return (
-    <html lang="ja" className={`${notoSansJp.variable} ${notoSerifJp.variable}`}>
+    <html lang="ja">
       <head>
-        {/* Critical CSS: ファーストビュー描画に必要な最小スタイルをインライン化。
-            外部CSSファイルより先に確実に適用されるため、FCP/LCPが短縮される。 */}
-        <style dangerouslySetInnerHTML={{ __html: `*,*::before,*::after{box-sizing:border-box}body{background-color:#FAF4E6;color:#1a1410;margin:0;min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased;font-family:system-ui,sans-serif;line-height:1.8}.sunray-bg{background:radial-gradient(ellipse at 50% -10%,rgba(201,169,110,.35) 0%,transparent 55%),linear-gradient(180deg,#FAF4E6 0%,#fff 60%)}h1,h2,h3{font-family:Georgia,serif;letter-spacing:.05em}` }} />
-        {/* Lightweight in-browser security headers via http-equiv */}
+        {/* Critical CSS: 描画直前に必要な最小スタイルをインライン化。
+            外部CSSに先行して確実に適用され、FCP/LCPを短縮する。 */}
+        <style dangerouslySetInnerHTML={{ __html: `*,*::before,*::after{box-sizing:border-box}body{background-color:#FAF4E6;color:#1a1410;margin:0;min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased;font-family:'Noto Sans JP',system-ui,-apple-system,'Hiragino Kaku Gothic ProN',Meiryo,sans-serif;line-height:1.8}.sunray-bg{background:radial-gradient(ellipse at 50% -10%,rgba(201,169,110,.35) 0%,transparent 55%),linear-gradient(180deg,#FAF4E6 0%,#fff 60%)}h1,h2,h3{font-family:'Noto Serif JP','Hiragino Mincho ProN',Georgia,serif;letter-spacing:.05em}` }} />
+        {/* Google Fonts: preconnect で事前接続。フォントCSSは非同期スクリプトで非ブロッキングロード */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* このスクリプトは <head> 解析中に実行されるが、動的追加のリンクはレンダーをブロックしない */}
+        <script dangerouslySetInnerHTML={{ __html: fontLoaderScript }} />
+        {/* JS 無効環境向けフォールバック */}
+        <noscript dangerouslySetInnerHTML={{ __html: `<link rel="stylesheet" href="${FONT_URL}">` }} />
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="p:domain_verify" content="1caf8bfd103298033b3b1c290667cbe9" />

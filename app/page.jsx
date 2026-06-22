@@ -146,7 +146,8 @@ const FEATURED_SLUGS = [
 export default function HomePage() {
   // ヒーロー画像をレスポンシブにプリロード。静的書き出し時の <head> に挿入される。
   ReactDOM.preload('/images/hero-crystals-480.webp', { as: 'image', fetchPriority: 'high', media: '(max-width: 480px)' });
-  ReactDOM.preload('/images/hero-crystals-960.webp', { as: 'image', fetchPriority: 'high', media: '(min-width: 481px) and (max-width: 960px)' });
+  ReactDOM.preload('/images/hero-crystals-640.webp', { as: 'image', fetchPriority: 'high', media: '(min-width: 481px) and (max-width: 640px)' });
+  ReactDOM.preload('/images/hero-crystals-960.webp', { as: 'image', fetchPriority: 'high', media: '(min-width: 641px) and (max-width: 960px)' });
   ReactDOM.preload('/images/hero-crystals.webp',     { as: 'image', fetchPriority: 'high', media: '(min-width: 961px)' });
 
   const posts = getAllPosts();
@@ -161,9 +162,10 @@ export default function HomePage() {
     <>
       {/* Hero */}
       <section className="relative overflow-hidden isolate">
-        {/* レスポンシブ背景画像: モバイル27KB / タブレット102KB / デスクトップ238KB */}
+        {/* レスポンシブ背景画像: 480w=27KB / 640w=47KB / 960w=102KB / 1376w=238KB */}
         <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none">
           <source media="(max-width: 480px)"  srcSet="/images/hero-crystals-480.webp" type="image/webp" />
+          <source media="(max-width: 640px)"  srcSet="/images/hero-crystals-640.webp" type="image/webp" />
           <source media="(max-width: 960px)"  srcSet="/images/hero-crystals-960.webp" type="image/webp" />
           <img
             src="/images/hero-crystals.webp"
@@ -410,7 +412,7 @@ export default function HomePage() {
       <PositiveBanner tone="peach" message="今日という日に感謝！" />
 
       {/* Latest posts + sidebar popular */}
-      <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
+      <ScrollReveal as="section" delay={100} className="cv-section-lg max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="min-w-0">
           <div className="mb-5">
             <SunSpeechBubble>最近こんな話を集めてるよ✨</SunSpeechBubble>
@@ -452,7 +454,7 @@ export default function HomePage() {
       </ScrollReveal>
 
       {/* 風水で開運 — 方角・部屋・玄関・デスク */}
-      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pb-16">
+      <ScrollReveal as="section" className="cv-section max-w-6xl mx-auto px-4 pb-16">
         <div className="mb-5">
           <SunSpeechBubble>気の流れ、整えていこ〜🌬️</SunSpeechBubble>
         </div>
@@ -492,7 +494,7 @@ export default function HomePage() {
       </ScrollReveal>
 
       {/* 季節の特集 — 今の季節(夏) */}
-      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pb-16">
+      <ScrollReveal as="section" className="cv-section max-w-6xl mx-auto px-4 pb-16">
         <Link
           href="/blog/summer-stones/"
           className="group block rounded-2xl overflow-hidden border border-sky-200 bg-gradient-to-br from-sky-50 via-cyan-50 to-amber-50 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"
@@ -524,7 +526,7 @@ export default function HomePage() {
       </ScrollReveal>
 
       {/* 贈り物・ギフト — ギフト3本 */}
-      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pb-16">
+      <ScrollReveal as="section" className="cv-section max-w-6xl mx-auto px-4 pb-16">
         <div className="mb-5">
           <SunSpeechBubble>大切なあの人に贈ろ🎁</SunSpeechBubble>
         </div>
@@ -565,7 +567,7 @@ export default function HomePage() {
 
       {/* Pickup featured pillar/hub articles — surface curated entry points
           in a distinct band, separate from the date-ordered latest grid. */}
-      <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16">
+      <ScrollReveal as="section" delay={100} className="cv-section-lg max-w-6xl mx-auto px-4 py-16">
         <div className="mb-5">
           <SunSpeechBubble>おすすめだよ！読んでみてね☀️</SunSpeechBubble>
         </div>
@@ -598,7 +600,7 @@ export default function HomePage() {
 
       {/* YouTube channel intro — bridge to /recommend-youtube without
           duplicating the channel cards on the home page. */}
-      <ScrollReveal as="section" delay={100} className="max-w-6xl mx-auto px-4 py-16">
+      <ScrollReveal as="section" delay={100} className="cv-section max-w-6xl mx-auto px-4 py-16">
         <div className="mb-5">
           <SunSpeechBubble>ちょっと寄ってって〜</SunSpeechBubble>
         </div>
