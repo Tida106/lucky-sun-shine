@@ -1,0 +1,626 @@
+---
+title: "365日の誕生石一覧｜あなたの誕生日の守り石"
+description: "1月1日〜12月31日まで全365日の誕生日石を月別早見表で掲載。各日の石名と石言葉をコンパクトにまとめました。自分の誕生日の石を探す・大切な人への誕生日プレゼント選びにもご活用ください。"
+date: "2026-06-23"
+category: "powerstones"
+tags: ["誕生日石", "誕生石", "365日", "守り石", "プレゼント"]
+slug: "birthday-stone-365"
+draft: false
+---
+
+## はじめに：この一覧の使い方
+
+この記事では **1月1日〜12月31日まで全365日の誕生日石** を月ごとの早見表でご案内します。
+
+### こんな時に使えます
+
+- **自分の誕生日の石を探したい** → 生まれた月のセクションから日付を探してください
+- **大切な人への誕生日プレゼントに石を選びたい** → [誕生日プレゼントに石を贈るガイド](/blog/birthday-gift-stones/)も合わせてどうぞ
+- **月ごとの誕生石をもっと詳しく知りたい** → 各月冒頭のガイドリンクへ
+
+> **出典について**：本一覧は日本ジュエリー協会監修・斉藤貴子氏著「誕生日石366」をはじめとする、日本で広く流通している誕生日石一覧を参考にまとめています。体系によって同じ日付でも異なる石が紹介される場合があります（詳しくは[FAQ](#faq)へ）。
+
+> **注意**：誕生日石の効果は文化的・象徴的なものです。科学的に保証されておらず、医療的効能を主張するものではありません。お守りや願いを込めるシンボルとして楽しんでください。
+
+---
+
+## 目次
+
+- [1月（1/1〜1/31）](#january)
+- [2月（2/1〜2/28）](#february)
+- [3月（3/1〜3/31）](#march)
+- [4月（4/1〜4/30）](#april)
+- [5月（5/1〜5/31）](#may)
+- [6月（6/1〜6/30）](#june)
+- [7月（7/1〜7/31）](#july)
+- [8月（8/1〜8/31）](#august)
+- [9月（9/1〜9/30）](#september)
+- [10月（10/1〜10/31）](#october)
+- [11月（11/1〜11/30）](#november)
+- [12月（12/1〜12/31）](#december)
+- [よくある質問（FAQ）](#faq)
+- [合わせて読みたい関連記事](#related)
+
+---
+
+## <span id="january"></span>1月（1月1日〜1月31日）
+
+1月の誕生月石は **[ガーネット](/blog/garnet/)**。「真実・友愛」を象徴する深紅の石です。
+
+→ 詳しくは [1月の誕生石ガイド](/blog/birthstone-january/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でガーネットを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 1月1日 | [ガーネット](/blog/garnet/) | 真実・友愛 |
+| 1月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛の始まり |
+| 1月3日 | [アメジスト](/blog/amethyst/) | 誠実 |
+| 1月4日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 1月5日 | [ルビー](/blog/ruby/) | 情熱 |
+| 1月6日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 1月7日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 1月8日 | [ガーネット](/blog/garnet/) | 友情 |
+| 1月9日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 1月10日 | [ブルートパーズ](/blog/blue-topaz/) | 知性・誠実 |
+| 1月11日 | [サファイア](/blog/sapphire/) | 品格 |
+| 1月12日 | [アイオライト](/blog/iolite/) | 信念 |
+| 1月13日 | [ヘマタイト](/blog/hematite/) | 自信・守護 |
+| 1月14日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 1月15日 | [アメジスト](/blog/amethyst/) | 心の平和 |
+| 1月16日 | [ガーネット](/blog/garnet/) | 持続 |
+| 1月17日 | [ターコイズ](/blog/turquoise/) | 幸運・守護 |
+| 1月18日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 1月19日 | [ペリドット](/blog/peridot/) | 保護 |
+| 1月20日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 1月21日 | [オニキス](/blog/onyx/) | 強さ |
+| 1月22日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 1月23日 | [ラピスラズリ](/blog/lapis-lazuli/) | 尊厳 |
+| 1月24日 | [アベンチュリン](/blog/aventurine/) | 幸運 |
+| 1月25日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 1月26日 | [スモーキークォーツ](/blog/smoky-quartz/) | 落ち着き |
+| 1月27日 | [クリソプレーズ](/blog/chrysoprase/) | 幸福 |
+| 1月28日 | [ルビー](/blog/ruby/) | 生命力 |
+| 1月29日 | [タイガーアイ](/blog/tigers-eye/) | 洞察・決断 |
+| 1月30日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 平和 |
+| 1月31日 | [ラピスラズリ](/blog/lapis-lazuli/) | 誠実 |
+
+---
+
+## <span id="february"></span>2月（2月1日〜2月28日）
+
+2月の誕生月石は **[アメジスト](/blog/amethyst/)**。「誠実・守護」を象徴する紫の石です。
+
+→ 詳しくは [2月の誕生石ガイド](/blog/birthstone-february/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でアメジストを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 2月1日 | [アメジスト](/blog/amethyst/) | 守護・誠実 |
+| 2月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 2月3日 | [ガーネット](/blog/garnet/) | 友情 |
+| 2月4日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 2月5日 | [ルビー](/blog/ruby/) | 情熱 |
+| 2月6日 | [アクアマリン](/blog/aquamarine/) | 清潔・冷静 |
+| 2月7日 | [パール](/blog/pearl/) | 純粋 |
+| 2月8日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 2月9日 | [ペリドット](/blog/peridot/) | 幸運 |
+| 2月10日 | [シトリン](/blog/citrine/) | 明るさ |
+| 2月11日 | [タイガーアイ](/blog/tigers-eye/) | 決断力 |
+| 2月12日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 2月13日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 2月14日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛・ロマンス |
+| 2月15日 | [カーネリアン](/blog/carnelian/) | 行動力 |
+| 2月16日 | [ターコイズ](/blog/turquoise/) | 保護 |
+| 2月17日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 2月18日 | [アメジスト](/blog/amethyst/) | 誠実 |
+| 2月19日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 2月20日 | [ダイヤモンド](/blog/diamond/) | 永遠 |
+| 2月21日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 2月22日 | [ヘマタイト](/blog/hematite/) | 意志 |
+| 2月23日 | [エメラルド](/blog/emerald/) | 成長 |
+| 2月24日 | [アメジスト](/blog/amethyst/) | 心の平和 |
+| 2月25日 | [ルビー](/blog/ruby/) | 強さ |
+| 2月26日 | [オニキス](/blog/onyx/) | 守護 |
+| 2月27日 | [ムーンストーン](/blog/moonstone/) | 感性 |
+| 2月28日 | [ターコイズ](/blog/turquoise/) | 幸運 |
+
+---
+
+## <span id="march"></span>3月（3月1日〜3月31日）
+
+3月の誕生月石は **[アクアマリン](/blog/aquamarine/)**。「勇気・誠実」を象徴する海の色の石です。
+
+→ 詳しくは [3月の誕生石ガイド](/blog/birthstone-march/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でアクアマリンを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 3月1日 | [アクアマリン](/blog/aquamarine/) | 勇気・知性 |
+| 3月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 3月3日 | コーラル（珊瑚） | 幸福・長寿 |
+| 3月4日 | [ガーネット](/blog/garnet/) | 友情 |
+| 3月5日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 3月6日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 3月7日 | [エメラルド](/blog/emerald/) | 希望 |
+| 3月8日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 3月9日 | [ブラッドストーン](/blog/bloodstone/) | 勇気 |
+| 3月10日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 3月11日 | [シトリン](/blog/citrine/) | 明るさ |
+| 3月12日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 3月13日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 3月14日 | [アクアマリン](/blog/aquamarine/) | 知性 |
+| 3月15日 | [ペリドット](/blog/peridot/) | 保護 |
+| 3月16日 | [ロードナイト](/blog/rhodonite/) | 許し・愛 |
+| 3月17日 | [クリソプレーズ](/blog/chrysoprase/) | 幸運 |
+| 3月18日 | [フローライト](/blog/fluorite/) | 集中・成長 |
+| 3月19日 | [アクアマリン](/blog/aquamarine/) | 新生 |
+| 3月20日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 3月21日 | [エメラルド](/blog/emerald/) | 成長 |
+| 3月22日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 3月23日 | [アクアマリン](/blog/aquamarine/) | 冷静 |
+| 3月24日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 3月25日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 3月26日 | [ガーネット](/blog/garnet/) | 持続 |
+| 3月27日 | [サファイア](/blog/sapphire/) | 品格 |
+| 3月28日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 3月29日 | [アクアマリン](/blog/aquamarine/) | 誠実 |
+| 3月30日 | [ラピスラズリ](/blog/lapis-lazuli/) | 尊厳 |
+| 3月31日 | [ブルートパーズ](/blog/blue-topaz/) | 明晰 |
+
+---
+
+## <span id="april"></span>4月（4月1日〜4月30日）
+
+4月の誕生月石は **[ダイヤモンド](/blog/diamond/)**。「純粋・永遠」を象徴する最高硬度の石です。
+
+→ 詳しくは [4月の誕生石ガイド](/blog/birthstone-april/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でダイヤモンドを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 4月1日 | [ダイヤモンド](/blog/diamond/) | 純粋・永遠 |
+| 4月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 4月3日 | [エメラルド](/blog/emerald/) | 希望 |
+| 4月4日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 4月5日 | [ガーネット](/blog/garnet/) | 友情 |
+| 4月6日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 4月7日 | [ルビー](/blog/ruby/) | 情熱 |
+| 4月8日 | [ターコイズ](/blog/turquoise/) | 幸運 |
+| 4月9日 | [ダイヤモンド](/blog/diamond/) | 不滅 |
+| 4月10日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 4月11日 | [ペリドット](/blog/peridot/) | 保護 |
+| 4月12日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 4月13日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 4月14日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 4月15日 | [ダイヤモンド](/blog/diamond/) | 強さ |
+| 4月16日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 4月17日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 優しさ |
+| 4月18日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 4月19日 | [エメラルド](/blog/emerald/) | 発展 |
+| 4月20日 | [アベンチュリン](/blog/aventurine/) | 幸運 |
+| 4月21日 | [ルビー](/blog/ruby/) | 高潔 |
+| 4月22日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 4月23日 | [サファイア](/blog/sapphire/) | 品格 |
+| 4月24日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 4月25日 | [ダイヤモンド](/blog/diamond/) | 完璧 |
+| 4月26日 | [アメジスト](/blog/amethyst/) | 誠実 |
+| 4月27日 | [フローライト](/blog/fluorite/) | 成長 |
+| 4月28日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 4月29日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 4月30日 | [エメラルド](/blog/emerald/) | 成長 |
+
+---
+
+## <span id="may"></span>5月（5月1日〜5月31日）
+
+5月の誕生月石は **[エメラルド](/blog/emerald/)**。「希望・幸福・成長」を象徴する深緑の石です。
+
+→ 詳しくは [5月の誕生石ガイド](/blog/birthstone-may/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でエメラルドを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 5月1日 | [エメラルド](/blog/emerald/) | 希望・幸福 |
+| 5月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 5月3日 | [ガーネット](/blog/garnet/) | 友情 |
+| 5月4日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 5月5日 | [エメラルド](/blog/emerald/) | 成長 |
+| 5月6日 | [クリソプレーズ](/blog/chrysoprase/) | 幸運 |
+| 5月7日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 5月8日 | [ペリドット](/blog/peridot/) | 保護 |
+| 5月9日 | [エメラルド](/blog/emerald/) | 発展 |
+| 5月10日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 5月11日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 5月12日 | [ルビー](/blog/ruby/) | 情熱 |
+| 5月13日 | [エメラルド](/blog/emerald/) | 安定 |
+| 5月14日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 5月15日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 5月16日 | [エメラルド](/blog/emerald/) | 誠実 |
+| 5月17日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 5月18日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 5月19日 | [マラカイト](/blog/malachite/) | 変容・守護 |
+| 5月20日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 5月21日 | [サファイア](/blog/sapphire/) | 品格 |
+| 5月22日 | [エメラルド](/blog/emerald/) | 完璧 |
+| 5月23日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 優しさ |
+| 5月24日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 5月25日 | [エメラルド](/blog/emerald/) | 長寿 |
+| 5月26日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 5月27日 | [オニキス](/blog/onyx/) | 強さ |
+| 5月28日 | [エメラルド](/blog/emerald/) | 守護 |
+| 5月29日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 5月30日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 5月31日 | [エメラルド](/blog/emerald/) | 成功 |
+
+---
+
+## <span id="june"></span>6月（6月1日〜6月30日）
+
+6月の誕生月石は **[パール](/blog/pearl/)（真珠）**。「純粋・誠実」を象徴するやさしい白の石です。
+
+→ 詳しくは [6月の誕生石ガイド](/blog/birthstone-june/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%BC%E3%83%AB%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でパールを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 6月1日 | [パール](/blog/pearl/) | 純粋・誠実 |
+| 6月2日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 6月3日 | [アレキサンドライト](/blog/alexandrite/) | 変化・適応 |
+| 6月4日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 6月5日 | [ガーネット](/blog/garnet/) | 友情 |
+| 6月6日 | [パール](/blog/pearl/) | 純真 |
+| 6月7日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 6月8日 | [エメラルド](/blog/emerald/) | 希望 |
+| 6月9日 | [パール](/blog/pearl/) | 優雅 |
+| 6月10日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 6月11日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 6月12日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 6月13日 | [パール](/blog/pearl/) | 美しさ |
+| 6月14日 | [ルビー](/blog/ruby/) | 情熱 |
+| 6月15日 | [ペリドット](/blog/peridot/) | 幸運 |
+| 6月16日 | [パール](/blog/pearl/) | 成功 |
+| 6月17日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 6月18日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 6月19日 | [パール](/blog/pearl/) | 純潔 |
+| 6月20日 | [ダイヤモンド](/blog/diamond/) | 永遠 |
+| 6月21日 | [ムーンストーン](/blog/moonstone/) | 感性 |
+| 6月22日 | [パール](/blog/pearl/) | 品格 |
+| 6月23日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 6月24日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 6月25日 | [パール](/blog/pearl/) | 幸福 |
+| 6月26日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 6月27日 | [オパール](/blog/opal/) | 希望 |
+| 6月28日 | [パール](/blog/pearl/) | 友情 |
+| 6月29日 | [エメラルド](/blog/emerald/) | 発展 |
+| 6月30日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+
+---
+
+## <span id="july"></span>7月（7月1日〜7月31日）
+
+7月の誕生月石は **[ルビー](/blog/ruby/)**。「情熱・勝利」を象徴する赤の宝石です。
+
+→ 詳しくは [7月の誕生石ガイド](/blog/birthstone-july/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AB%E3%83%93%E3%83%BC%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でルビーを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 7月1日 | [ルビー](/blog/ruby/) | 情熱・勝利 |
+| 7月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 7月3日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 7月4日 | [ガーネット](/blog/garnet/) | 友情 |
+| 7月5日 | [ルビー](/blog/ruby/) | 高潔 |
+| 7月6日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 7月7日 | [サファイア](/blog/sapphire/) | 星の加護 |
+| 7月8日 | [ルビー](/blog/ruby/) | 情熱 |
+| 7月9日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 7月10日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 7月11日 | [ルビー](/blog/ruby/) | 強さ |
+| 7月12日 | [ペリドット](/blog/peridot/) | 保護 |
+| 7月13日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 7月14日 | [ルビー](/blog/ruby/) | 生命力 |
+| 7月15日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 7月16日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 7月17日 | [ルビー](/blog/ruby/) | 魅力 |
+| 7月18日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 7月19日 | [オニキス](/blog/onyx/) | 強さ |
+| 7月20日 | [ルビー](/blog/ruby/) | 持続 |
+| 7月21日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 7月22日 | [エメラルド](/blog/emerald/) | 希望 |
+| 7月23日 | [ルビー](/blog/ruby/) | 情熱 |
+| 7月24日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 優しさ |
+| 7月25日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 7月26日 | [ルビー](/blog/ruby/) | 友愛 |
+| 7月27日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 7月28日 | [シトリン](/blog/citrine/) | 明るさ |
+| 7月29日 | [ルビー](/blog/ruby/) | 勝利 |
+| 7月30日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 7月31日 | [ガーネット](/blog/garnet/) | 忠実 |
+
+---
+
+## <span id="august"></span>8月（8月1日〜8月31日）
+
+8月の誕生月石は **[ペリドット](/blog/peridot/)**。「幸運・保護」を象徴する黄緑の石です。
+
+→ 詳しくは [8月の誕生石ガイド](/blog/birthstone-august/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9A%E3%83%AA%E3%83%89%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でペリドットを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 8月1日 | [ペリドット](/blog/peridot/) | 幸運・保護 |
+| 8月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 8月3日 | [オニキス](/blog/onyx/) | 強さ |
+| 8月4日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 8月5日 | [ペリドット](/blog/peridot/) | 守護 |
+| 8月6日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 8月7日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 8月8日 | [ペリドット](/blog/peridot/) | 成長 |
+| 8月9日 | [ルビー](/blog/ruby/) | 情熱 |
+| 8月10日 | [エメラルド](/blog/emerald/) | 希望 |
+| 8月11日 | [ペリドット](/blog/peridot/) | 発展 |
+| 8月12日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 8月13日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 8月14日 | [ペリドット](/blog/peridot/) | 友情 |
+| 8月15日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 8月16日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 8月17日 | [ペリドット](/blog/peridot/) | 幸福 |
+| 8月18日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 8月19日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 8月20日 | [ペリドット](/blog/peridot/) | 安定 |
+| 8月21日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 優しさ |
+| 8月22日 | [スモーキークォーツ](/blog/smoky-quartz/) | 落ち着き |
+| 8月23日 | [ペリドット](/blog/peridot/) | 誠実 |
+| 8月24日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 8月25日 | [ガーネット](/blog/garnet/) | 友愛 |
+| 8月26日 | [ペリドット](/blog/peridot/) | 成功 |
+| 8月27日 | [オパール](/blog/opal/) | 希望 |
+| 8月28日 | [ルビー](/blog/ruby/) | 情熱 |
+| 8月29日 | [ペリドット](/blog/peridot/) | 持続 |
+| 8月30日 | [サファイア](/blog/sapphire/) | 品格 |
+| 8月31日 | [カーネリアン](/blog/carnelian/) | 活力 |
+
+---
+
+## <span id="september"></span>9月（9月1日〜9月30日）
+
+9月の誕生月石は **[サファイア](/blog/sapphire/)**。「誠実・品格・知恵」を象徴する深い青の石です。
+
+→ 詳しくは [9月の誕生石ガイド](/blog/birthstone-september/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でサファイアを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 9月1日 | [サファイア](/blog/sapphire/) | 誠実・品格 |
+| 9月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 9月3日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 9月4日 | [ガーネット](/blog/garnet/) | 友情 |
+| 9月5日 | [サファイア](/blog/sapphire/) | 知恵 |
+| 9月6日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 9月7日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 9月8日 | [サファイア](/blog/sapphire/) | 守護 |
+| 9月9日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 9月10日 | [エメラルド](/blog/emerald/) | 希望 |
+| 9月11日 | [サファイア](/blog/sapphire/) | 高潔 |
+| 9月12日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 9月13日 | [ターコイズ](/blog/turquoise/) | 幸運 |
+| 9月14日 | [サファイア](/blog/sapphire/) | 忠実 |
+| 9月15日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 9月16日 | [ペリドット](/blog/peridot/) | 保護 |
+| 9月17日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 9月18日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 9月19日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 9月20日 | [サファイア](/blog/sapphire/) | 品格 |
+| 9月21日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 優しさ |
+| 9月22日 | [オニキス](/blog/onyx/) | 強さ |
+| 9月23日 | [サファイア](/blog/sapphire/) | 成功 |
+| 9月24日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 9月25日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 9月26日 | [サファイア](/blog/sapphire/) | 知識 |
+| 9月27日 | [ルビー](/blog/ruby/) | 情熱 |
+| 9月28日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 9月29日 | [サファイア](/blog/sapphire/) | 誠意 |
+| 9月30日 | [ラピスラズリ](/blog/lapis-lazuli/) | 尊厳 |
+
+---
+
+## <span id="october"></span>10月（10月1日〜10月31日）
+
+10月の誕生月石は **[オパール](/blog/opal/)**。「希望・創造・多彩」を象徴する七色の石です。
+
+→ 詳しくは [10月の誕生石ガイド](/blog/birthstone-october/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%91%E3%83%BC%E3%83%AB%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でオパールを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 10月1日 | [オパール](/blog/opal/) | 希望・創造 |
+| 10月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 10月3日 | [トルマリン](/blog/tourmaline/) | 調和 |
+| 10月4日 | [ガーネット](/blog/garnet/) | 友情 |
+| 10月5日 | [オパール](/blog/opal/) | 幸運 |
+| 10月6日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 10月7日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 10月8日 | [オパール](/blog/opal/) | 変化 |
+| 10月9日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 10月10日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 10月11日 | [オパール](/blog/opal/) | 希望 |
+| 10月12日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 10月13日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 10月14日 | [オパール](/blog/opal/) | 多彩 |
+| 10月15日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 10月16日 | [エメラルド](/blog/emerald/) | 成長 |
+| 10月17日 | [オパール](/blog/opal/) | 創造 |
+| 10月18日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 10月19日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 10月20日 | [オパール](/blog/opal/) | 個性 |
+| 10月21日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 10月22日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 優しさ |
+| 10月23日 | [オパール](/blog/opal/) | 豊かさ |
+| 10月24日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 10月25日 | [ルビー](/blog/ruby/) | 情熱 |
+| 10月26日 | [オパール](/blog/opal/) | 感性 |
+| 10月27日 | [ペリドット](/blog/peridot/) | 守護 |
+| 10月28日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 10月29日 | [オパール](/blog/opal/) | 輝き |
+| 10月30日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 10月31日 | [オニキス](/blog/onyx/) | 強さ |
+
+---
+
+## <span id="november"></span>11月（11月1日〜11月30日）
+
+11月の誕生月石は **[トパーズ](/blog/topaz/)**。「友情・誠実・明るさ」を象徴する黄金の石です。
+
+→ 詳しくは [11月の誕生石ガイド](/blog/birthstone-november/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%91%E3%83%BC%E3%82%BA%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でトパーズを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 11月1日 | [トパーズ](/blog/topaz/) | 友情・誠実 |
+| 11月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 11月3日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 11月4日 | [ガーネット](/blog/garnet/) | 友情 |
+| 11月5日 | [トパーズ](/blog/topaz/) | 希望 |
+| 11月6日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 11月7日 | [サファイア](/blog/sapphire/) | 誠実 |
+| 11月8日 | [トパーズ](/blog/topaz/) | 知性 |
+| 11月9日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 11月10日 | [エメラルド](/blog/emerald/) | 成長 |
+| 11月11日 | [トパーズ](/blog/topaz/) | 繁栄 |
+| 11月12日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 11月13日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 11月14日 | [トパーズ](/blog/topaz/) | 明るさ |
+| 11月15日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 11月16日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 11月17日 | [トパーズ](/blog/topaz/) | 喜び |
+| 11月18日 | [タイガーアイ](/blog/tigers-eye/) | 決断 |
+| 11月19日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 11月20日 | [トパーズ](/blog/topaz/) | 幸福 |
+| 11月21日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 優しさ |
+| 11月22日 | [ルビー](/blog/ruby/) | 情熱 |
+| 11月23日 | [トパーズ](/blog/topaz/) | 感謝 |
+| 11月24日 | [アクアマリン](/blog/aquamarine/) | 清澄 |
+| 11月25日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 11月26日 | [トパーズ](/blog/topaz/) | 自信 |
+| 11月27日 | [オパール](/blog/opal/) | 希望 |
+| 11月28日 | [ムーンストーン](/blog/moonstone/) | 直感 |
+| 11月29日 | [トパーズ](/blog/topaz/) | 成功 |
+| 11月30日 | [シトリン](/blog/citrine/) | 明るさ |
+
+---
+
+## <span id="december"></span>12月（12月1日〜12月31日）
+
+12月の誕生月石は **[ターコイズ](/blog/turquoise/)** と **[タンザナイト](/blog/tanzanite/)**。「幸運・守護・変革」を象徴する冬の石です。
+
+→ 詳しくは [12月の誕生石ガイド](/blog/birthstone-december/) へ
+
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%BC%E3%82%B3%E3%82%A4%E3%82%BA%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でターコイズを探す</a>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 12月1日 | [ターコイズ](/blog/turquoise/) | 幸運・守護 |
+| 12月2日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 12月3日 | [ラピスラズリ](/blog/lapis-lazuli/) | 真実 |
+| 12月4日 | [ガーネット](/blog/garnet/) | 友情 |
+| 12月5日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 12月6日 | [タンザナイト](/blog/tanzanite/) | 高貴・変革 |
+| 12月7日 | [アメジスト](/blog/amethyst/) | 平和 |
+| 12月8日 | [ターコイズ](/blog/turquoise/) | 保護 |
+| 12月9日 | [シトリン](/blog/citrine/) | 繁栄 |
+| 12月10日 | [ダイヤモンド](/blog/diamond/) | 純粋 |
+| 12月11日 | [ターコイズ](/blog/turquoise/) | 幸福 |
+| 12月12日 | [ムーンストーン](/blog/moonstone/) | 感受性 |
+| 12月13日 | [タンザナイト](/blog/tanzanite/) | 変革 |
+| 12月14日 | [ターコイズ](/blog/turquoise/) | 友情 |
+| 12月15日 | [カーネリアン](/blog/carnelian/) | 活力 |
+| 12月16日 | [ラピスラズリ](/blog/lapis-lazuli/) | 誠実 |
+| 12月17日 | [ターコイズ](/blog/turquoise/) | 旅の守護 |
+| 12月18日 | [ルビー](/blog/ruby/) | 情熱 |
+| 12月19日 | [スモーキークォーツ](/blog/smoky-quartz/) | 安定 |
+| 12月20日 | [ターコイズ](/blog/turquoise/) | 幸運 |
+| 12月21日 | [エメラルド](/blog/emerald/) | 希望 |
+| 12月22日 | [タンザナイト](/blog/tanzanite/) | 高貴 |
+| 12月23日 | [ターコイズ](/blog/turquoise/) | 守護 |
+| 12月24日 | [ローズクォーツ](/blog/rose-quartz-meaning/) | 愛情 |
+| 12月25日 | [ダイヤモンド](/blog/diamond/) | 永遠 |
+| 12月26日 | [タンザナイト](/blog/tanzanite/) | 変化 |
+| 12月27日 | [ターコイズ](/blog/turquoise/) | 保護 |
+| 12月28日 | [ガーネット](/blog/garnet/) | 忠実 |
+| 12月29日 | [アメジスト](/blog/amethyst/) | 誠実 |
+| 12月30日 | [ターコイズ](/blog/turquoise/) | 新しい出発 |
+| 12月31日 | [ガーネット](/blog/garnet/) | 新年への希望 |
+
+---
+
+## <span id="faq"></span>よくある質問（FAQ）
+
+**Q1. 「誕生日石」と「誕生月石」は何が違うの？**
+
+A. **誕生月石**は1〜12月それぞれに1石が割り当てられた石（例：1月＝ガーネット）。**誕生日石**は365日それぞれに1石が割り当てられた、より個人に寄り添う石です。どちらが「本物」ということはなく、用途や好みで選んでいただけます。
+
+**Q2. 複数の説がある日付はどれが正しいの？**
+
+A. 誕生日石には日本・欧米でいくつかの体系があり、同じ日付でも異なる石が紹介されることがあります。どちらが絶対的に正しいということはありません。**心惹かれる方を選んでください**、というのが当サイトのスタンスです。
+
+**Q3. 自分の誕生日の石が好みではない場合は？**
+
+A. 誕生日石はあくまで縁起の一つです。気に入らなければ、誕生月石や「これだ」と感じる石を守り石として選ぶほうが大切とされています。石との付き合い方に厳密なルールはありません。
+
+**Q4. 誕生日石をプレゼントしたい場合は？**
+
+A. 相手の誕生日の石を贈るのは素敵なサプライズになります。予算や石の形状の選び方は [誕生日プレゼントに石を贈るガイド](/blog/birthday-gift-stones/) をご覧ください。
+
+**Q5. 誕生日石の効果はどの程度信じればいい？**
+
+A. パワーストーンの効果は科学的に保証されていません。「お守り・願いを込めるシンボル」として楽しむのが健全な付き合い方とされています。
+
+---
+
+## 太陽ちゃんからひとこと ☀️
+
+365日、全部調べてくれてありがとう！ここまで来たあなた、お疲れさま💛
+
+自分の誕生日の石が見つかったら、ぜひその石のことをもう少し深く調べてみてね。意味を知るだけで、石への愛着がぜんぜん違ってくるから。
+
+大切な人の誕生日が近いなら、その日の石を贈るのも最高の選択だよ。「あなたの誕生日の石を選んできたよ」って一言、絶対に喜ばれると思う☀️
+
+---
+
+## <span id="related"></span>合わせて読みたい関連記事
+
+- [1月の誕生石ガイド](/blog/birthstone-january/) — ガーネットとその仲間たち
+- [2月の誕生石ガイド](/blog/birthstone-february/) — アメジストの深い紫
+- [3月の誕生石ガイド](/blog/birthstone-march/) — アクアマリンの海の色
+- [4月の誕生石ガイド](/blog/birthstone-april/) — ダイヤモンドの永遠
+- [5月の誕生石ガイド](/blog/birthstone-may/) — エメラルドの緑
+- [6月の誕生石ガイド](/blog/birthstone-june/) — パールの優雅さ
+- [7月の誕生石ガイド](/blog/birthstone-july/) — ルビーの情熱
+- [8月の誕生石ガイド](/blog/birthstone-august/) — ペリドットの幸運
+- [9月の誕生石ガイド](/blog/birthstone-september/) — サファイアの深い青
+- [10月の誕生石ガイド](/blog/birthstone-october/) — オパールの七色
+- [11月の誕生石ガイド](/blog/birthstone-november/) — トパーズの輝き
+- [12月の誕生石ガイド](/blog/birthstone-december/) — ターコイズとタンザナイト
+- [誕生日プレゼントに石を贈るガイド](/blog/birthday-gift-stones/) — 大切な人への贈り物に
+- [パワーストーン初心者ガイド](/blog/powerstone-beginner-guide/) — はじめての石選びに
+
+## まとめ
+
+- 誕生日石は **1月1日〜12月31日の365日それぞれに割り当てられた守り石**
+- 誕生月石（月単位）より細かく個人に寄り添うシステムで、日本のジュエリー文化で広く使われている
+- 諸説あるため、**心惹かれる石を自由に選ぶ**ことが大切
+- 大切な人の誕生日に合わせた石を贈るプレゼントとしても喜ばれます
+- 石の効果は科学的保証がなく、**お守り・願いのシンボル**として楽しんで
+
+あなたの誕生日の石が、毎日の小さな支えになりますように。
