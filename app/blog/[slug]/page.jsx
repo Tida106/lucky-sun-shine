@@ -299,7 +299,7 @@ export default async function BlogPostPage({ params }) {
             className="lg:hidden mb-8"
           />
         )}
-
+ <RelatedProducts post={post} />
         <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
 
         {pillarPost && (
@@ -395,7 +395,7 @@ export default async function BlogPostPage({ params }) {
           <AdUnit slot="auto" />
         </div>
 
-        <RelatedProducts post={post} />
+       
 
         {post.tags?.length > 0 && (
           <div className="mt-10 pt-6 border-t border-amber-200">
