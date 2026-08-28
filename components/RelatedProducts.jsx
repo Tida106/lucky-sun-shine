@@ -1,6 +1,3 @@
-// Article-footer related products area. Picks affiliate hooks based on
-// post.category + post.tags. Today this is a curated lookup; once we
-// have a product database it can be replaced with a real fetch.
 import Link from 'next/link';
 import { categories } from '@/lib/categories';
 
@@ -23,10 +20,6 @@ const SUGGESTIONS = {
   ],
 };
 
-// Apply the correct affiliate parameter for each network. Amazon URLs
-// in SUGGESTIONS deliberately end in `&tag=` so we just complete them;
-// if the env var is missing, we strip the empty trailing `tag=` so the
-// link still works without leaking the half-parameter.
 function withAffiliate(url) {
   if (!url) return url;
   if (url.includes('amazon')) {
@@ -48,7 +41,23 @@ function withAffiliate(url) {
 export default function RelatedProducts({ post, heading = 'この記事に関連する商品' }) {
   const category = post?.category;
   const cat = categories.find((c) => c.slug === category);
-  const items = SUGGESTIONS[category] || [];
+  let items = SUGGESTIONS[category] || [];
+
+  if (category === 'powerstones' && post?.tags && post.tags.length > 0) {
+    const stoneName = post.tags[0]; 
+    items = [
+      {
+        label: `Amazonで「${stoneName}」を探す`,
+        url: `https://www.amazon.co.jp/s?k=${encodeURIComponent(stoneName)}+ブレスレット&tag=`,
+        external: true,
+      },
+      {
+        label: `楽天市場で「${stoneName}」を探す`,
+        url: `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(stoneName)}/`,
+        external: true,
+      },
+    ];
+  }
 
   if (items.length === 0) return null;
 
