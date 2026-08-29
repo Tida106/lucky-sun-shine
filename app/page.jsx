@@ -75,8 +75,8 @@ const WORRY_PICKS = [
 
 // 「目的から探す」セクション — 6部作の purpose ハブ。
 const PURPOSE_PICKS = [
-  { slug: 'purpose-money-stones',      label: '金運',   emoji: '💰', tone: 'from-amber-50 via-yellow-50 to-orange-50',   accent: 'text-amber-700',   border: 'border-amber-300'   },
-  { slug: 'purpose-love-stones',       label: '恋愛運', emoji: '💗', tone: 'from-rose-50 via-pink-50 to-amber-50',       accent: 'text-rose-600',    border: 'border-rose-300'    },
+  { slug: 'purpose-money-stones',      label: '金運',   emoji: '💰', tone: 'from-amber-50 via-yellow-50 to-orange-50',   accent: 'text-amber-700',  border: 'border-amber-300'   },
+  { slug: 'purpose-love-stones',       label: '恋愛運', emoji: '💗', tone: 'from-rose-50 via-pink-50 to-amber-50',      accent: 'text-rose-600',    border: 'border-rose-300'    },
   { slug: 'purpose-work-stones',       label: '仕事運', emoji: '💼', tone: 'from-sky-50 via-indigo-50 to-amber-50',      accent: 'text-sky-700',     border: 'border-sky-300'     },
   { slug: 'purpose-health-stones',     label: '健康運', emoji: '🌿', tone: 'from-emerald-50 via-lime-50 to-amber-50',    accent: 'text-emerald-700', border: 'border-emerald-300' },
   { slug: 'purpose-relation-stones',   label: '対人運', emoji: '🤝', tone: 'from-orange-50 via-amber-50 to-yellow-50',   accent: 'text-orange-700',  border: 'border-orange-300'  },
@@ -199,9 +199,7 @@ export default function HomePage() {
               <SunOrnament className="hidden md:inline-block w-6 h-6 text-amber-500 opacity-70 shrink-0" strokeWidth={1.1} />
             </span>
           </h1>
-          {/* Catchphrases — H1 直下の3行。font-display(Noto Serif JP) を継承し、
-              濃いめのゴールド(#9C7A47 ≒ text-amber-700)でほんのり小さめに重ねる。
-              横に太陽ちゃんを並べて温度感を出す。 */}
+          {/* Catchphrases */}
           <div className="mt-6 flex items-center justify-center gap-3 md:gap-5">
             <SunMascot
               size={112}
@@ -234,7 +232,7 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
-          {/* Scroll cue — gently bouncing chevron */}
+          {/* Scroll cue */}
           <div className="mt-6 md:mt-8 flex justify-center" aria-hidden="true">
             <svg
               viewBox="0 0 24 24"
@@ -255,6 +253,24 @@ export default function HomePage() {
 
       {/* Daily message — 太陽ちゃんからの今日のひとこと */}
       <DailyMessage />
+
+      {/* 🌟 365日誕生石 特大バナー ここから */}
+      <div className="max-w-6xl mx-auto px-4 pt-8 md:pt-10">
+        <div className="rounded-2xl bg-gradient-to-r from-amber-300 via-orange-200 to-amber-300 p-1 shadow-sm hover:shadow-md transition-all">
+          <Link href="/blog/birthday-stone-365" className="block rounded-xl bg-white/80 px-4 py-8 text-center backdrop-blur-sm transition-colors hover:bg-white/95 sm:px-6">
+            <span className="inline-block rounded-full bg-orange-500 px-3 py-1 text-xs font-bold tracking-wider text-white mb-3">
+              🔥 アクセス急上昇！今一番読まれています
+            </span>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-ink-900 mb-2">
+              365日の誕生石一覧 💎
+            </h2>
+            <p className="text-sm font-medium text-ink-600">
+              あなたの誕生日の「守り石」を見つけて、運気を呼び込もう！
+            </p>
+          </Link>
+        </div>
+      </div>
+      {/* 🌟 365日誕生石 特大バナー ここまで */}
 
       {/* First-visit onboarding — まずはこの3記事から */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pt-8 pb-12 md:pt-10 md:pb-14">
@@ -565,8 +581,7 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
-      {/* Pickup featured pillar/hub articles — surface curated entry points
-          in a distinct band, separate from the date-ordered latest grid. */}
+      {/* Pickup featured pillar/hub articles */}
       <ScrollReveal as="section" delay={100} className="cv-section-lg max-w-6xl mx-auto px-4 py-16">
         <div className="mb-5">
           <SunSpeechBubble>おすすめだよ！読んでみてね☀️</SunSpeechBubble>
@@ -598,8 +613,7 @@ export default function HomePage() {
         mascotSrc="/images/mascot-sun-good.png"
       />
 
-      {/* YouTube channel intro — bridge to /recommend-youtube without
-          duplicating the channel cards on the home page. */}
+      {/* YouTube channel intro */}
       <ScrollReveal as="section" delay={100} className="cv-section max-w-6xl mx-auto px-4 py-16">
         <div className="mb-5">
           <SunSpeechBubble>ちょっと寄ってって〜</SunSpeechBubble>
