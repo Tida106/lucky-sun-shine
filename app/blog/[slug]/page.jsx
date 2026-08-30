@@ -301,6 +301,19 @@ export default async function BlogPostPage({ params }) {
         )}
  <RelatedProducts post={post} />
         <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
+        {/* 🌟 記事下の強力なCTA（クロージング）追加 ここから */}
+            <div className="mt-16 mb-10">
+              <BlogMascotBubble>
+                最後まで読んでくれてありがとう🌻<br />
+                天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨<br />
+                でも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦<br />
+                『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛
+              </BlogMascotBubble>
+              
+              {/* 太陽ちゃんのメッセージに合わせた専用見出しでリンクを再表示 */}
+              <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
+            </div>
+            {/* 🌟 記事下の強力なCTA 追加 ここまで */}
 
         {pillarPost && (
           <Link
