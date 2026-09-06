@@ -107,6 +107,9 @@ export default function RootLayout({ children }) {
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="p:domain_verify" content="1caf8bfd103298033b3b1c290667cbe9" />
+        
+        {/* Google AdSense 審査用コード */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4224563062633828" crossOrigin="anonymous"></script>
       </head>
       <body className="min-h-screen flex flex-col sunray-bg">
         <script
