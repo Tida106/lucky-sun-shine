@@ -18,6 +18,7 @@ import ShareButtons from '@/components/ShareButtons';
 import ArticleCover from '@/components/ArticleCover';
 import { getRelatedPosts } from '@/lib/related';
 import { getHubChildren } from '@/lib/hubs';
+import BirthdayTable from '@/components/BirthdayTable';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -300,7 +301,10 @@ export default async function BlogPostPage({ params }) {
           />
         )}
  <RelatedProducts post={post} />
-        <div className="prose-article" dangerouslySetInnerHTML={{ __html: html }} />
+<div className="prose-article">
+  <div dangerouslySetInnerHTML={{ __html: html }} />
+  {post?.slug?.includes('birthday') && <BirthdayTable />}
+</div>
         {/* 🌟 記事下の強力なCTA（クロージング）追加 ここから */}
             <div className="mt-16 mb-10">
               <BlogMascotBubble>
