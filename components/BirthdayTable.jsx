@@ -1,8 +1,8 @@
 'use client';
 
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
-// 365日分の正確なデータ（日付、石名、個別slug、石言葉）
+// 365日分の正確なデータ（日付、石名、個別slug、石言葉、フォールバック色）
 const BIRTHDAY_STONES_DATA = [
   // 1月
   { date: '1月1日', stone: 'ガーネット', slug: 'garnet', meaning: '真実・友愛', color: 'bg-red-700' },
@@ -394,6 +394,102 @@ const BIRTHDAY_STONES_DATA = [
   { date: '12月31日', stone: 'ガーネット', slug: 'garnet', meaning: '新年への希望', color: 'bg-red-700' },
 ];
 
+
+// ★★★ ここからがAIの「賢い」部分：Wikipediaから自動で画像を引っ張るキャッシュ機構 ★★★
+const wikiImageCache = {};
+const wikiFetchPromises = {};
+
+function useGemstoneImage(stoneName) {
+  const [imageUrl, setImageUrl] = useState(wikiImageCache[stoneName] || null);
+
+  useEffect(() => {
+    // 既にキャッシュがあれば即座に返す（無駄な通信をゼロにする）
+    if (wikiImageCache[stoneName]) {
+      setImageUrl(wikiImageCache[stoneName]);
+      return;
+    }
+
+    // まだリクエストしていなければ、Wikipedia APIへリクエストを開始
+    if (!wikiFetchPromises[stoneName]) {
+      let queryName = stoneName;
+      
+      // Wikipediaで確実に画像がヒットしやすいように正式な鉱物名・和名に変換
+      const nameMap = {
+        'ローズクォーツ': '紅水晶',
+        'スモーキークォーツ': '煙水晶',
+        'タイガーアイ': '虎目石',
+        'コーラル（珊瑚）': 'サンゴ',
+        'ブラッドストーン': '血玉髄',
+        'アイオライト': '菫青石',
+        'アメジスト': 'アメシスト', // Wikipediaの正式記事名
+        'ヘマタイト': '赤鉄鉱',
+        'クリソプレーズ': '緑玉髄',
+        'ロードナイト': 'ばら輝石',
+        'フローライト': '蛍石',
+        'マラカイト': '孔雀石',
+        'ブルートパーズ': 'トパーズ', 
+        // --- さらにヒット率を上げるための追加分 ---
+        'ムーンストーン': '月長石',
+        'パール': '真珠',
+        'ターコイズ': 'トルコ石',
+        'カーネリアン': '紅玉髄',
+        'アベンチュリン': '砂金石',
+        'シトリン': '黄水晶',
+      };
+      queryName = nameMap[stoneName] || stoneName;
+
+      // 完全に無料で安全なWikipediaの公開APIからサムネイルを自動取得
+      const url = `https://ja.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(queryName)}&redirects=1&prop=pageimages&format=json&pithumbsize=200&origin=*`;
+      
+      wikiFetchPromises[stoneName] = fetch(url)
+        .then(res => res.json())
+        .then(data => {
+          const pages = data.query.pages;
+          const pageId = Object.keys(pages)[0];
+          const img = pages[pageId]?.thumbnail?.source || null;
+          wikiImageCache[stoneName] = img;
+          return img;
+        })
+        .catch(err => {
+          console.error('Wikipedia fetch error:', err);
+          return null;
+        });
+    }
+
+    // 取得完了したら画面に反映
+    wikiFetchPromises[stoneName].then(img => {
+      if (img) setImageUrl(img);
+    });
+  }, [stoneName]);
+
+  return imageUrl;
+}
+
+// 取得した画像を表示する（もし画像がない場合は崩れずに色付きバッジになる安心設計）
+const GemstoneThumbnail = ({ stone, color }) => {
+  const url = useGemstoneImage(stone);
+
+  if (url) {
+    return (
+      <div className="w-10 h-10 rounded-lg overflow-hidden flex-shrink-0 bg-amber-50 border border-amber-100 shadow-inner">
+        <img 
+          src={url} 
+          alt={stone} 
+          className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300" 
+        />
+      </div>
+    );
+  }
+
+  // もしWikipediaに画像がない、または読み込み中の場合はこちら（レイアウト崩壊を完全に防ぐ）
+  return (
+    <div className={`w-10 h-10 rounded-lg flex-shrink-0 flex items-center justify-center border border-white/40 shadow-inner overflow-hidden relative ${color || 'bg-amber-500'}`}>
+      <span className="relative z-10 text-[10px] text-white font-bold drop-shadow-md">💎</span>
+    </div>
+  );
+};
+
+
 function withRakutenAffiliate(url) {
   const afb = process.env.NEXT_PUBLIC_RAKUTEN_AFB;
   if (!afb) return url;
@@ -407,10 +503,10 @@ export default function BirthdayTable() {
       <table className="w-full border-collapse text-left text-sm">
         <thead>
           <tr className="bg-amber-100 text-amber-900 border-b border-amber-200">
-            <th className="p-3 font-bold">日付</th>
-            <th className="p-3 font-bold">誕生日石</th>
-            <th className="p-3 font-bold">おすすめアクセサリー</th>
-            <th className="p-3 font-bold">石言葉</th>
+            <th className="p-3 font-bold whitespace-nowrap">日付</th>
+            <th className="p-3 font-bold whitespace-nowrap">誕生日石</th>
+            <th className="p-3 font-bold whitespace-nowrap">おすすめアクセサリー</th>
+            <th className="p-3 font-bold whitespace-nowrap">石言葉</th>
           </tr>
         </thead>
         <tbody className="divide-y divide-amber-200">
@@ -418,13 +514,12 @@ export default function BirthdayTable() {
             const searchUrl = withRakutenAffiliate(
               `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(item.stone)}+アクセサリー/`
             );
-            const dotColor = item.color || 'bg-amber-500';
 
             return (
               <tr key={index} className="hover:bg-amber-50/50 transition-colors">
                 <td className="p-3 font-medium text-ink-900 whitespace-nowrap">{item.date}</td>
                 <td className="p-3">
-                  <a href={`/blog/${item.slug}/`} className="text-amber-700 hover:underline font-bold">
+                  <a href={`/blog/${item.slug}/`} className="text-amber-700 hover:underline font-bold whitespace-nowrap">
                     {item.stone}
                   </a>
                 </td>
@@ -433,13 +528,18 @@ export default function BirthdayTable() {
                     href={searchUrl}
                     target="_blank"
                     rel="sponsored noopener nofollow"
-                    className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-rose-50 border border-rose-200 text-rose-700 hover:bg-rose-100 text-xs font-bold transition-all shadow-sm group"
+                    className="inline-flex items-center gap-3 px-3 py-2 rounded-xl bg-white border border-rose-200 text-rose-700 hover:bg-rose-50 text-xs font-bold transition-all shadow-sm group w-max"
                   >
-                    <span className={`w-5 h-5 rounded-full ${dotColor} flex-shrink-0 shadow-inner ring-2 ring-white`} />
-                    <span>🛍️ 楽天で「{item.stone}」を探す</span>
+                    {/* ここで新しく作った賢いコンポーネントを呼び出す */}
+                    <GemstoneThumbnail stone={item.stone} color={item.color} />
+                    
+                    <span className="flex items-center gap-1.5 whitespace-nowrap">
+                      <span>🛍️</span>
+                      <span>楽天で「{item.stone}」を探す</span>
+                    </span>
                   </a>
                 </td>
-                <td className="p-3 text-ink-700">{item.meaning}</td>
+                <td className="p-3 text-ink-700 min-w-[120px]">{item.meaning}</td>
               </tr>
             );
           })}
