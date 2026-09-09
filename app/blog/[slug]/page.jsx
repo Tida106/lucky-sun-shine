@@ -19,14 +19,13 @@ import ArticleCover from '@/components/ArticleCover';
 import { getRelatedPosts } from '@/lib/related';
 import { getHubChildren } from '@/lib/hubs';
 import BirthdayTable from '@/components/BirthdayTable';
+// ★ 黄金ルート（あわせて読みたいエース記事）をインポート
+import GoldenRouteArticles from '@/components/GoldenRouteArticles';
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
 }
 
-// Google検索のスニペット表示は概ね 120〜160 字に収まる範囲が安定。
-// 長すぎる description は途中で切られるためソフト上限でクリップし、
-// 短すぎる場合はサイトのデフォルト description でフォールバックする。
 function normalizeDescription(post) {
   const raw = (post.description || '').trim();
   if (!raw) return site.description;
@@ -86,24 +85,17 @@ export default async function BlogPostPage({ params }) {
   if (!post) notFound();
 
   const html = await renderMarkdown(post.content);
-  // 追従TOC用に、レンダリング済みHTMLから h2/h3 を抽出。
-  // rehype-slug が付与した id をそのまま使うので、TOC リンクと本文アンカーが一致する。
   const headings = extractHeadings(html);
   const cat = getCategory(post.category);
   const minutes = readingTimeMinutes(post.content);
 
-  // シェアボタン用のメタ。Pinterest は media が必要なので OG 画像を渡す。
   const articleUrl = `${site.url}/blog/${post.slug}/`;
   const shareImage = `${site.url}/og-image.jpg`;
-
   const authorName = post.author || site.publisherName;
-  // Google のリッチリザルト要件で BlogPosting には image が必須。
-  // 記事個別カバー (frontmatter `cover`) が無い場合はサイト共通 OGP 画像で
-  // フォールバックする。ImageObject 形式にして幅/高さを明示することで
-  // Search Console の構造化データ検証で警告が出ないようにしておく。
   const articleImage = post.cover
     ? (post.cover.startsWith('http') ? post.cover : `${site.url}${post.cover}`)
     : shareImage;
+
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
@@ -141,40 +133,21 @@ export default async function BlogPostPage({ params }) {
   };
 
   const all = getAllPosts();
-
-  // 前/次の記事は「同カテゴリ内の日付順」で隣り合うもの。
-  // 以前はサイト全体の日付順で隣接記事を選んでいたため、シトリンの次が
-  // 縁起物の処分方法など無関係なカテゴリへ飛ぶことがあった。同カテゴリに
-  // 揃えることで、読み進めるほどそのカテゴリに詳しくなる回遊体験になる。
   const sameCatAll = all.filter((p) => p.category === post.category);
   const idxInCat = sameCatAll.findIndex((p) => p.slug === post.slug);
   const prev = idxInCat > 0 ? sameCatAll[idxInCat - 1] : null;
   const next = idxInCat >= 0 && idxInCat < sameCatAll.length - 1 ? sameCatAll[idxInCat + 1] : null;
 
-  // 「あわせて読みたい」: 関連度の高い順に最低4記事。
-  // 同カテゴリ → 共有タグ → ブースト対象 → 編集部おすすめ の合成スコアで並ぶ。
-  // 詳細スコアリングは lib/related.js を参照(同月加点・フォールバック含む)。
   const sameCat = sameCatAll.filter((p) => p.slug !== post.slug);
   const alsoRead = getRelatedPosts(post, all, { limit: 4 });
 
-  // Pillar hub for this category (skip when the post itself is the pillar)
   const pillarPost = cat?.pillarSlug && post.slug !== cat.pillarSlug
     ? all.find((p) => p.slug === cat.pillarSlug) || null
     : null;
-
-  // 現在の記事自身がカテゴリのピラー記事のときは、同カテゴリの個別記事一覧を
-  // ハブ記事下に出して内部リンクを集約する。
   const isPillarPost = Boolean(cat?.pillarSlug && post.slug === cat.pillarSlug);
   const pillarChildren = isPillarPost ? sameCat : [];
-
-  // セカンダリハブ(誕生石・星座・干支・目的別・神社ガイドなど)に該当する場合
-  // は子記事一覧を自動描画する。pillarSlug 自動展開とは別軸で、
-  // カテゴリ横断・テーマ単位の「網羅一覧」を提供する。
   const hubChildren = getHubChildren(post.slug, all);
 
-  // パンくず階層 — ホーム > カテゴリ > (ピラー記事 >) 現在記事。
-  // ピラー記事の子として位置づけることで、ハブと個別記事の親子関係が
-  // 検索エンジン側にも伝わる(BreadcrumbList JSON-LDに反映)。
   const breadcrumbItems = [
     { name: cat?.title || post.category, href: `/category/${post.category}/` },
   ];
@@ -186,9 +159,6 @@ export default async function BlogPostPage({ params }) {
   }
   breadcrumbItems.push({ name: post.title });
 
-  // ピラー記事ページのみ ItemList 構造化データを発行。
-  // 同カテゴリの子記事一覧をハブから検索エンジンに明示し、サイト構造の
-  // 理解とリッチリザルトの可能性を高める。
   const itemListSchema = isPillarPost && pillarChildren.length > 0
     ? {
         '@context': 'https://schema.org',
@@ -228,8 +198,6 @@ export default async function BlogPostPage({ params }) {
 
         <Breadcrumbs items={breadcrumbItems} className="mb-6" />
 
-        {/* 記事 cover — CSSグラデーション + 既存マスコット + カテゴリアイコンで自動生成。
-            新規画像素材は追加せず、カテゴリごとの色トーンでビジュアル統一する。 */}
         <ArticleCover post={post} variant="hero" className="mb-8" />
 
         <header className="mb-8">
@@ -251,7 +219,6 @@ export default async function BlogPostPage({ params }) {
             <p className="mt-4 text-ink-700 leading-relaxed">{post.description}</p>
           )}
 
-          {/* Byline: published / updated */}
           <div className="mt-5 pt-4 border-t border-amber-100 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-ink-500">
             <span>
               <span className="block text-[10px] tracking-widest text-amber-700 font-bold">
@@ -274,13 +241,11 @@ export default async function BlogPostPage({ params }) {
           </div>
         </header>
 
-        {/* Affiliate disclosure — surfaced above the fold per景品表示法 / ステマ規制 */}
         <p className="not-prose mb-6 px-4 py-2.5 rounded-lg bg-amber-50 border border-amber-200 text-xs text-ink-700 leading-relaxed">
           <span className="inline-block px-1.5 py-0.5 mr-2 rounded bg-amber-200 text-amber-900 font-bold align-middle">PR</span>
           本記事はアフィリエイトリンクを含みます。リンク経由でご購入された場合、運営者に紹介料が支払われることがあります。
         </p>
 
-        {/* 記事冒頭の太陽ちゃん挨拶 */}
         <BlogMascotBubble
           tone="pink"
           src="/images/mascot-sun.png"
@@ -292,7 +257,6 @@ export default async function BlogPostPage({ params }) {
 最後までゆっくり読んでいってね✨`}
         </BlogMascotBubble>
 
-        {/* モバイル/狭幅向け折りたたみ目次。PC ではサイドバーに常時表示する。 */}
         {headings.length > 0 && (
           <TableOfContents
             headings={headings}
@@ -300,24 +264,28 @@ export default async function BlogPostPage({ params }) {
             className="lg:hidden mb-8"
           />
         )}
- <RelatedProducts post={post} />
-<div className="prose-article">
-  <div dangerouslySetInnerHTML={{ __html: html }} />
-  {post?.slug?.includes('birthday') && <BirthdayTable />}
-</div>
-        {/* 🌟 記事下の強力なCTA（クロージング）追加 ここから */}
-            <div className="mt-16 mb-10">
-              <BlogMascotBubble>
-                最後まで読んでくれてありがとう🌻<br />
-                天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨<br />
-                でも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦<br />
-                『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛
-              </BlogMascotBubble>
-              
-              {/* 太陽ちゃんのメッセージに合わせた専用見出しでリンクを再表示 */}
-              <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
-            </div>
-            {/* 🌟 記事下の強力なCTA 追加 ここまで */}
+        
+        <RelatedProducts post={post} />
+        
+        <div className="prose-article">
+          <div dangerouslySetInnerHTML={{ __html: html }} />
+          {post?.slug?.includes('birthday') && <BirthdayTable />}
+        </div>
+        
+        {/* 🌟 記事下の強力なCTA（クロージング） */}
+        <div className="mt-16 mb-10">
+          <BlogMascotBubble>
+            最後まで読んでくれてありがとう🌻<br />
+            天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨<br />
+            でも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦<br />
+            『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛
+          </BlogMascotBubble>
+          
+          <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
+        </div>
+        
+        {/* ✨ ここに黄金ルートを追加！読了直後・商品チェック直後の読者を一網打尽にします */}
+        <GoldenRouteArticles />
 
         {pillarPost && (
           <Link
@@ -407,12 +375,9 @@ export default async function BlogPostPage({ params }) {
           </section>
         )}
 
-        {/* In-article ad slot — renders nothing without an AdSense ID */}
         <div className="my-8">
           <AdUnit slot="auto" />
         </div>
-
-       
 
         {post.tags?.length > 0 && (
           <div className="mt-10 pt-6 border-t border-amber-200">
@@ -454,8 +419,6 @@ export default async function BlogPostPage({ params }) {
 
         <FaqSection faq={faq} />
 
-        {/* シェアボタン: X / Pinterest / LINE / URLコピー。
-            読了直後にシェアする心理動線に合わせて、お見送り吹き出しの直前に置く。 */}
         <ShareButtons
           url={articleUrl}
           title={post.title}
@@ -463,7 +426,6 @@ export default async function BlogPostPage({ params }) {
           className="mt-12"
         />
 
-        {/* 記事末尾の太陽ちゃんお見送り */}
         <BlogMascotBubble
           tone="cream"
           src="/images/mascot-sun-thanks.png"
