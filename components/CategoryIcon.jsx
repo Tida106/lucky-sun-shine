@@ -1,7 +1,4 @@
 // Inline SVG icons for the homepage "カテゴリから探す" cards.
-// Paths are from Lucide (MIT) — Gem / Mountain / Gift / Sunrise — copied
-// directly so we avoid pulling lucide-react into the bundle for 4 icons.
-
 const STROKE = {
   fill: 'none',
   stroke: 'currentColor',
@@ -54,7 +51,6 @@ function Sunrise(props) {
   );
 }
 
-// "太陽ちゃんからのお手紙" カテゴリ用 — 封筒+ハートの組み合わせ。
 function LetterHeart(props) {
   return (
     <svg viewBox="0 0 24 24" aria-hidden="true" {...STROKE} {...props}>
@@ -76,5 +72,5 @@ const ICONS = {
 export default function CategoryIcon({ slug, className = 'w-9 h-9 text-amber-600' }) {
   const Icon = ICONS[slug];
   if (!Icon) return null;
-  return <Icon className={className} />;
+  return <Icon className={`max-w-full max-h-full inline-block ${className}`} />;
 }
