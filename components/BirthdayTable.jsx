@@ -2,6 +2,22 @@
 
 import React, { useState, useEffect } from 'react';
 
+// 各月の1日にジャンプ用のID（目印）をつけるためのマッピング辞書
+const MONTH_START_IDS = {
+  '1月1日': 'january',
+  '2月1日': 'february',
+  '3月1日': 'march',
+  '4月1日': 'april',
+  '5月1日': 'may',
+  '6月1日': 'june',
+  '7月1日': 'july',
+  '8月1日': 'august',
+  '9月1日': 'september',
+  '10月1日': 'october',
+  '11月1日': 'november',
+  '12月1日': 'december',
+};
+
 // 365日分の正確なデータ（日付、石名、個別slug、石言葉、フォールバック色）
 const BIRTHDAY_STONES_DATA = [
   // 1月
@@ -514,9 +530,12 @@ export default function BirthdayTable() {
             const searchUrl = withRakutenAffiliate(
               `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(item.stone)}+アクセサリー/`
             );
+            
+            // ★ AIによる魔法の追加：日付が各月の「1日」だったら、その行にジャンプ用IDを付ける！
+            const rowId = MONTH_START_IDS[item.date];
 
             return (
-              <tr key={index} className="hover:bg-amber-50/50 transition-colors">
+              <tr key={index} id={rowId} className="hover:bg-amber-50/50 transition-colors">
                 <td className="p-3 font-medium text-ink-900 whitespace-nowrap">{item.date}</td>
                 <td className="p-3">
                   <a href={`/blog/${item.slug}/`} className="text-amber-700 hover:underline font-bold whitespace-nowrap">
@@ -530,7 +549,6 @@ export default function BirthdayTable() {
                     rel="sponsored noopener nofollow"
                     className="inline-flex items-center gap-3 px-3 py-2 rounded-xl bg-white border border-rose-200 text-rose-700 hover:bg-rose-50 text-xs font-bold transition-all shadow-sm group w-max"
                   >
-                    {/* ここで新しく作った賢いコンポーネントを呼び出す */}
                     <GemstoneThumbnail stone={item.stone} color={item.color} />
                     
                     <span className="flex items-center gap-1.5 whitespace-nowrap">
