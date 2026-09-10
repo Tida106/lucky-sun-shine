@@ -41,14 +41,24 @@ function withAffiliate(url) {
   return url;
 }
 
-// 🎯 AIによる追加：GA4へクリックデータを送る魔法の関数
+// 🎯 AIによる追加：GA4へクリックデータを送る魔法の関数（強制送信版）
 const sendClickEventToGA4 = (itemName, itemUrl) => {
-  if (typeof window !== 'undefined' && window.gtag) {
-    window.gtag('event', 'affiliate_click', {
-      'event_category': 'monetization',
-      'event_label': itemName,
-      'link_url': itemUrl,
-    });
+  if (typeof window !== 'undefined') {
+    if (window.gtag) {
+      window.gtag('event', 'affiliate_click', {
+        'event_category': 'monetization',
+        'event_label': itemName,
+        'link_url': itemUrl,
+      });
+    } else {
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        'event': 'affiliate_click',
+        'event_category': 'monetization',
+        'event_label': itemName,
+        'link_url': itemUrl
+      });
+    }
   }
 };
 
