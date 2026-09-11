@@ -1,6 +1,5 @@
 'use client';
 
-import { useState } from 'react';
 import { categories } from '@/lib/categories';
 
 const SUGGESTIONS = {
@@ -62,42 +61,50 @@ const sendClickEventToGA4 = (itemName, itemUrl) => {
 
 export default function RelatedProducts({ post, heading = 'この記事に関連する商品', keywords }) {
   const category = post?.category;
-  const cat = categories.find((c) => c.slug === category);
   
-  // 🎯 修正：キーワードが明示されていない場合、記事の「一番目のタグ（さざれ石など）」を自動で拾う！
-  const mainTag = post?.tags && post.tags.length > 0 ? post.tags[0] : null;
-  
-  let defaultItems = [];
-  if (mainTag) {
-    // タグがあれば、そのタグの検索結果に直結させる
-    defaultItems = [
-      { label: `楽天市場で「${mainTag}」を探す`, url: `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(mainTag)}/`, external: true },
-      { label: `Amazonで「${mainTag}」を探す`, url: `https://www.amazon.co.jp/s?k=${encodeURIComponent(mainTag)}&tag=`, external: true },
-    ];
-  } else {
-    // タグもない場合は元のカテゴリー設定を使う
-    defaultItems = SUGGESTIONS[category] || [];
+  // 🎯 必殺技：タグが読み込めない環境でも、タイトルから絶対に見つけ出す超強力ロジック！
+  let searchKeyword = keywords;
+
+  if (!searchKeyword && post) {
+    // 1. まずタグ配列をチェック
+    if (Array.isArray(post.tags) && post.tags.length > 0) {
+      searchKeyword = post.tags[0];
+    } 
+    // 2. なぜか文字列になってしまっている場合の対策
+    else if (typeof post.tags === 'string') {
+      searchKeyword = post.tags.split(',')[0].replace(/[\[\]"' ]/g, '');
+    }
+    
+    // 3. 🚨それでもダメなら、記事タイトルから強引にキーワードを抽出！
+    if (!searchKeyword && post.title) {
+      if (post.title.includes('さざれ石')) searchKeyword = 'さざれ石';
+      else if (post.title.includes('誕生石')) searchKeyword = '誕生石';
+      else if (post.title.includes('寝室') || post.title.includes('風水')) searchKeyword = 'パワーストーン 原石';
+    }
   }
 
+  // キーワードが確定した場合の、クリック率が高いリッチなリンクカード
   let customItems = [];
-  if (keywords) {
-    const encodedKw = encodeURIComponent(keywords);
+  if (searchKeyword) {
+    const encodedKw = encodeURIComponent(searchKeyword);
     customItems = [
       {
-        title: `楽天市場で「${keywords}」を探す`,
+        title: `楽天市場で「${searchKeyword}」を探す`,
         price: 'おすすめアイテム一覧',
         url: `https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=${encodeURIComponent(`https://search.rakuten.co.jp/search/mall/${encodedKw}/`)}&link_type=text`,
       },
       {
-        title: `Amazonで「${keywords}」を探す`,
+        title: `Amazonで「${searchKeyword}」を探す`,
         price: '関連グッズをチェック',
         url: `https://www.amazon.co.jp/s?k=${encodedKw}&tag=${process.env.NEXT_PUBLIC_AMAZON_TAG || ''}`,
       }
     ];
   }
 
+  const defaultItems = SUGGESTIONS[category] || [];
+
   return (
-    <section className="not-prose mt-12 rounded-2xl bg-amber-50 border border-amber-200 p-5 shadow-sm">
+    <section className="not-prose mt-12 mb-8 rounded-2xl bg-amber-50 border border-amber-200 p-5 shadow-sm">
       <h3 className="font-display text-lg font-bold text-ink-900 flex items-center gap-2 mb-1">
         <span aria-hidden="true">🛍️</span> {heading}
       </h3>
@@ -106,25 +113,23 @@ export default function RelatedProducts({ post, heading = 'この記事に関連
         この記事に関連するおすすめ商品を楽天市場・Amazonからチェックできます。
       </p>
 
-      {keywords && customItems.length > 0 ? (
-        <div className="mb-4">
-          <div className="grid gap-3 sm:grid-cols-2">
-            {customItems.map((item, idx) => (
-              <a
-                key={idx}
-                href={item.url}
-                target="_blank"
-                rel="sponsored noopener nofollow"
-                onClick={() => sendClickEventToGA4(item.title, item.url)}
-                className="flex items-center gap-3 p-4 rounded-xl bg-white border border-amber-200 hover:border-amber-400 hover:shadow-md transition-all group"
-              >
-                <div className="min-w-0 flex-1">
-                  <p className="text-sm font-bold text-ink-900 line-clamp-2 mb-1 group-hover:text-amber-700 transition-colors">{item.title}</p>
-                  <p className="text-xs font-semibold text-rose-600">{item.price} →</p>
-                </div>
-              </a>
-            ))}
-          </div>
+      {customItems.length > 0 ? (
+        <div className="grid gap-3 sm:grid-cols-2">
+          {customItems.map((item, idx) => (
+            <a
+              key={idx}
+              href={item.url}
+              target="_blank"
+              rel="sponsored noopener nofollow"
+              onClick={() => sendClickEventToGA4(item.title, item.url)}
+              className="flex items-center gap-3 p-4 rounded-xl bg-white border border-amber-200 hover:border-amber-400 hover:shadow-md transition-all group"
+            >
+              <div className="min-w-0 flex-1">
+                <p className="text-sm font-bold text-ink-900 line-clamp-2 mb-1 group-hover:text-amber-700 transition-colors">{item.title}</p>
+                <p className="text-xs font-semibold text-rose-600">{item.price} →</p>
+              </div>
+            </a>
+          ))}
         </div>
       ) : (
         <ul className="grid gap-2 sm:grid-cols-2">
