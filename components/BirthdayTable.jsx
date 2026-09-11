@@ -515,54 +515,77 @@ function withRakutenAffiliate(url) {
 
 export default function BirthdayTable() {
   return (
-    <div className="overflow-x-auto my-6">
-      <table className="w-full border-collapse text-left text-sm">
-        <thead>
-          <tr className="bg-amber-100 text-amber-900 border-b border-amber-200">
-            <th className="p-3 font-bold whitespace-nowrap">日付</th>
-            <th className="p-3 font-bold whitespace-nowrap">誕生日石</th>
-            <th className="p-3 font-bold whitespace-nowrap">おすすめアクセサリー</th>
-            <th className="p-3 font-bold whitespace-nowrap">石言葉</th>
-          </tr>
-        </thead>
-        <tbody className="divide-y divide-amber-200">
-          {BIRTHDAY_STONES_DATA.map((item, index) => {
-            const searchUrl = withRakutenAffiliate(
-              `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(item.stone)}+アクセサリー/`
-            );
-            
-            // ★ AIによる魔法の追加：日付が各月の「1日」だったら、その行にジャンプ用IDを付ける！
-            const rowId = MONTH_START_IDS[item.date];
+    <>
+      {/* 🚀 ここから追加：収益化ページへの特急券（内部リンク） */}
+      <div className="mb-8 p-6 bg-gradient-to-br from-amber-50 to-orange-50 border-2 border-amber-200 rounded-2xl shadow-sm">
+        <h3 className="font-display text-xl font-bold text-amber-900 mb-3 flex items-center gap-2">
+          <span aria-hidden="true">⚠️</span> せっかくの誕生石、そのままにしていませんか？
+        </h3>
+        <p className="text-sm text-ink-700 mb-4">
+          パワーストーンは、持ち主の代わりに悪い気を吸い取ってくれます。運気を保つためには定期的な「浄化」が絶対に必要です！また、寝室の風水と組み合わせることで、石のパワーを最大限に引き出すことができます。
+        </p>
+        <div className="grid sm:grid-cols-2 gap-4">
+          <a href="/blog/sazare-ishi-guide" className="group block p-4 bg-white rounded-xl border border-amber-200 hover:border-amber-400 hover:shadow-md transition-all">
+            <div className="text-xs font-bold text-emerald-600 mb-1 tracking-wider">浄化の必須アイテム✨</div>
+            <div className="font-bold text-ink-900 group-hover:text-amber-700 transition-colors">さざれ石の使い方完全ガイド →</div>
+          </a>
+          <a href="/blog/fengshui-bedroom-stones" className="group block p-4 bg-white rounded-xl border border-amber-200 hover:border-amber-400 hover:shadow-md transition-all">
+            <div className="text-xs font-bold text-sky-600 mb-1 tracking-wider">寝ている間に運気チャージ🌙</div>
+            <div className="font-bold text-ink-900 group-hover:text-amber-700 transition-colors">寝室に置きたい石7選 →</div>
+          </a>
+        </div>
+      </div>
+      {/* 🚀 追加ここまで */}
 
-            return (
-              <tr key={index} id={rowId} className="hover:bg-amber-50/50 transition-colors">
-                <td className="p-3 font-medium text-ink-900 whitespace-nowrap">{item.date}</td>
-                <td className="p-3">
-                  <a href={`/blog/${item.slug}/`} className="text-amber-700 hover:underline font-bold whitespace-nowrap">
-                    {item.stone}
-                  </a>
-                </td>
-                <td className="p-3">
-                  <a
-                    href={searchUrl}
-                    target="_blank"
-                    rel="sponsored noopener nofollow"
-                    className="inline-flex items-center gap-3 px-3 py-2 rounded-xl bg-white border border-rose-200 text-rose-700 hover:bg-rose-50 text-xs font-bold transition-all shadow-sm group w-max"
-                  >
-                    <GemstoneThumbnail stone={item.stone} color={item.color} />
-                    
-                    <span className="flex items-center gap-1.5 whitespace-nowrap">
-                      <span>🛍️</span>
-                      <span>楽天で「{item.stone}」を探す</span>
-                    </span>
-                  </a>
-                </td>
-                <td className="p-3 text-ink-700 min-w-[120px]">{item.meaning}</td>
-              </tr>
-            );
-          })}
-        </tbody>
-      </table>
-    </div>
+      <div className="overflow-x-auto my-6">
+        <table className="w-full border-collapse text-left text-sm">
+          <thead>
+            <tr className="bg-amber-100 text-amber-900 border-b border-amber-200">
+              <th className="p-3 font-bold whitespace-nowrap">日付</th>
+              <th className="p-3 font-bold whitespace-nowrap">誕生日石</th>
+              <th className="p-3 font-bold whitespace-nowrap">おすすめアクセサリー</th>
+              <th className="p-3 font-bold whitespace-nowrap">石言葉</th>
+            </tr>
+          </thead>
+          <tbody className="divide-y divide-amber-200">
+            {BIRTHDAY_STONES_DATA.map((item, index) => {
+              const searchUrl = withRakutenAffiliate(
+                `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(item.stone)}+アクセサリー/`
+              );
+              
+              // ★ AIによる魔法の追加：日付が各月の「1日」だったら、その行にジャンプ用IDを付ける！
+              const rowId = MONTH_START_IDS[item.date];
+
+              return (
+                <tr key={index} id={rowId} className="hover:bg-amber-50/50 transition-colors">
+                  <td className="p-3 font-medium text-ink-900 whitespace-nowrap">{item.date}</td>
+                  <td className="p-3">
+                    <a href={`/blog/${item.slug}/`} className="text-amber-700 hover:underline font-bold whitespace-nowrap">
+                      {item.stone}
+                    </a>
+                  </td>
+                  <td className="p-3">
+                    <a
+                      href={searchUrl}
+                      target="_blank"
+                      rel="sponsored noopener nofollow"
+                      className="inline-flex items-center gap-3 px-3 py-2 rounded-xl bg-white border border-rose-200 text-rose-700 hover:bg-rose-50 text-xs font-bold transition-all shadow-sm group w-max"
+                    >
+                      <GemstoneThumbnail stone={item.stone} color={item.color} />
+                      
+                      <span className="flex items-center gap-1.5 whitespace-nowrap">
+                        <span>🛍️</span>
+                        <span>楽天で「{item.stone}」を探す</span>
+                      </span>
+                    </a>
+                  </td>
+                  <td className="p-3 text-ink-700 min-w-[120px]">{item.meaning}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </>
   );
 }
