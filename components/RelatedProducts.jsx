@@ -63,19 +63,30 @@ const sendClickEventToGA4 = (itemName, itemUrl) => {
 export default function RelatedProducts({ post, heading = 'この記事に関連する商品', keywords }) {
   const category = post?.category;
   const cat = categories.find((c) => c.slug === category);
-  let defaultItems = SUGGESTIONS[category] || [];
+  
+  // 🎯 修正：キーワードが明示されていない場合、記事の「一番目のタグ（さざれ石など）」を自動で拾う！
+  const mainTag = post?.tags && post.tags.length > 0 ? post.tags[0] : null;
+  
+  let defaultItems = [];
+  if (mainTag) {
+    // タグがあれば、そのタグの検索結果に直結させる
+    defaultItems = [
+      { label: `楽天市場で「${mainTag}」を探す`, url: `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(mainTag)}/`, external: true },
+      { label: `Amazonで「${mainTag}」を探す`, url: `https://www.amazon.co.jp/s?k=${encodeURIComponent(mainTag)}&tag=`, external: true },
+    ];
+  } else {
+    // タグもない場合は元のカテゴリー設定を使う
+    defaultItems = SUGGESTIONS[category] || [];
+  }
 
-  // 🎯 修正：keywordsが指定されている場合、確実にそのキーワードの楽天・Amazon検索直リンクを作る！
   let customItems = [];
   if (keywords) {
     const encodedKw = encodeURIComponent(keywords);
-    const rakutenAffId = process.env.NEXT_PUBLIC_RAKUTEN_AFB || '49d07b82.80a916ab';
-    
     customItems = [
       {
         title: `楽天市場で「${keywords}」を探す`,
         price: 'おすすめアイテム一覧',
-        url: `https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=${encodeURIComponent(`https://search.rakuten.co.jp/search/mall/${keywords}/`)}&link_type=text`,
+        url: `https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=${encodeURIComponent(`https://search.rakuten.co.jp/search/mall/${encodedKw}/`)}&link_type=text`,
       },
       {
         title: `Amazonで「${keywords}」を探す`,
@@ -95,7 +106,6 @@ export default function RelatedProducts({ post, heading = 'この記事に関連
         この記事に関連するおすすめ商品を楽天市場・Amazonからチェックできます。
       </p>
 
-      {/* キーワード指定がある場合のダイレクトカード表示 */}
       {keywords && customItems.length > 0 ? (
         <div className="mb-4">
           <div className="grid gap-3 sm:grid-cols-2">
@@ -117,7 +127,6 @@ export default function RelatedProducts({ post, heading = 'この記事に関連
           </div>
         </div>
       ) : (
-        /* 通常のサジェストリンク */
         <ul className="grid gap-2 sm:grid-cols-2">
           {defaultItems.map((item) => (
             <li key={item.url}>
