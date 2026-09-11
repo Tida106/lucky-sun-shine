@@ -20,27 +20,27 @@ export const metadata = {
     'パワーストーン、パワースポット、開運グッズ、運気アップ習慣の最新情報をお届け。今日から始める開運アクションを毎日更新中。',
 };
 
-// 初めての訪問者にまず読んでほしい3記事。優しいオンボーディング目的。
+// 初めての訪問者にまず読んでほしい3記事。収益化＆回遊の最強コンボへ変更🔥
 const FIRST_VISIT_PICKS = [
   {
-    slug: 'how-to-choose-powerstones',
-    label: 'パワーストーン',
-    headline: '自分に合う石の選び方',
-    body: '直感と目的、両方を大切にしながら、自分の石と出会うコツをまとめました。',
+    slug: 'bad-combination-stones',
+    label: '相性・注意点',
+    headline: 'NGな組み合わせって？',
+    body: '「相性が悪い」と言われる石の真実。運気を下げないための正しい知識と選び方をまとめました。',
     gradient: 'from-rose-50 via-pink-50 to-amber-50',
   },
   {
-    slug: 'shrine-visit-basics',
-    label: 'パワースポット',
-    headline: '神社参拝のキホン',
-    body: '手順・作法・心構え。緊張しなくても大丈夫、最初の一歩を一緒に踏み出しましょう。',
+    slug: 'sazare-ishi-guide',
+    label: '浄化・お手入れ',
+    headline: 'さざれ石の使い方ガイド',
+    body: 'パワーストーンの浄化からインテリアまで。石の寿命を延ばして運気を保つ必須アイテム。',
     gradient: 'from-emerald-50 via-amber-50 to-yellow-50',
   },
   {
-    slug: 'lucky-habits-guide',
-    label: '運気アップ習慣',
-    headline: '毎日の小さな開運習慣',
-    body: '朝・夜・お財布・お部屋。今日から無理なく始められる開運のヒントを集めました。',
+    slug: 'fengshui-bedroom-stones',
+    label: '寝室・風水',
+    headline: '寝室に置きたい石7選',
+    body: '睡眠の質アップから悪夢対策まで！寝ている間に運気をたっぷりチャージするおすすめの石。',
     gradient: 'from-sky-50 via-amber-50 to-orange-50',
   },
 ];
@@ -76,8 +76,8 @@ const WORRY_PICKS = [
 // 「目的から探す」セクション — 6部作の purpose ハブ。
 const PURPOSE_PICKS = [
   { slug: 'purpose-money-stones',      label: '金運',   emoji: '💰', tone: 'from-amber-50 via-yellow-50 to-orange-50',   accent: 'text-amber-700',  border: 'border-amber-300'   },
-  { slug: 'purpose-love-stones',       label: '恋愛運', emoji: '💗', tone: 'from-rose-50 via-pink-50 to-amber-50',      accent: 'text-rose-600',    border: 'border-rose-300'    },
-  { slug: 'purpose-work-stones',       label: '仕事運', emoji: '💼', tone: 'from-sky-50 via-indigo-50 to-amber-50',      accent: 'text-sky-700',     border: 'border-sky-300'     },
+  { slug: 'purpose-love-stones',       label: '恋愛運', emoji: '💗', tone: 'from-rose-50 via-pink-50 to-amber-50',      accent: 'text-rose-600',   border: 'border-rose-300'    },
+  { slug: 'purpose-work-stones',       label: '仕事運', emoji: '💼', tone: 'from-sky-50 via-indigo-50 to-amber-50',      accent: 'text-sky-700',    border: 'border-sky-300'     },
   { slug: 'purpose-health-stones',     label: '健康運', emoji: '🌿', tone: 'from-emerald-50 via-lime-50 to-amber-50',    accent: 'text-emerald-700', border: 'border-emerald-300' },
   { slug: 'purpose-relation-stones',   label: '対人運', emoji: '🤝', tone: 'from-orange-50 via-amber-50 to-yellow-50',   accent: 'text-orange-700',  border: 'border-orange-300'  },
   { slug: 'purpose-protection-stones', label: '厄除け', emoji: '🛡️', tone: 'from-violet-50 via-purple-50 to-amber-50',   accent: 'text-violet-700',  border: 'border-violet-300'  },
