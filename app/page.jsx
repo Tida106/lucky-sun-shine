@@ -20,31 +20,6 @@ export const metadata = {
     'パワーストーン、パワースポット、開運グッズ、運気アップ習慣の最新情報をお届け。今日から始める開運アクションを毎日更新中。',
 };
 
-// 初めての訪問者にまず読んでほしい3記事。収益化＆回遊の最強コンボへ変更🔥
-const FIRST_VISIT_PICKS = [
-  {
-    slug: 'bad-combination-stones',
-    label: '相性・注意点',
-    headline: 'NGな組み合わせって？',
-    body: '「相性が悪い」と言われる石の真実。運気を下げないための正しい知識と選び方をまとめました。',
-    gradient: 'from-rose-50 via-pink-50 to-amber-50',
-  },
-  {
-    slug: 'sazare-ishi-guide',
-    label: '浄化・お手入れ',
-    headline: 'さざれ石の使い方ガイド',
-    body: 'パワーストーンの浄化からインテリアまで。石の寿命を延ばして運気を保つ必須アイテム。',
-    gradient: 'from-emerald-50 via-amber-50 to-yellow-50',
-  },
-  {
-    slug: 'fengshui-bedroom-stones',
-    label: '寝室・風水',
-    headline: '寝室に置きたい石7選',
-    body: '睡眠の質アップから悪夢対策まで！寝ている間に運気をたっぷりチャージするおすすめの石。',
-    gradient: 'from-sky-50 via-amber-50 to-orange-50',
-  },
-];
-
 // 「お悩み解決」セクション — 不安に寄り添うシリーズ4本。
 const WORRY_PICKS = [
   {
@@ -272,46 +247,55 @@ export default function HomePage() {
       </div>
       {/* 🌟 365日誕生石 特大バナー ここまで */}
 
-      {/* First-visit onboarding — まずはこの3記事から */}
+      {/* 🔥 今週の急上昇ランキング */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pt-8 pb-12 md:pt-10 md:pb-14">
         <div className="flex justify-center mb-4">
-          <SunSpeechBubble>まずはこの3記事から読んでみてね💛</SunSpeechBubble>
+          <SunSpeechBubble>今、みんなが読んでる記事だよ🔥</SunSpeechBubble>
         </div>
         <div className="text-center mb-8">
-          <p className="inline-flex items-center justify-center gap-2 text-amber-700 text-xs font-bold tracking-widest">
-            <Sparkles className="w-4 h-4 text-amber-600" />
-            <span>FIRST VISIT</span>
-            <Sparkles className="w-4 h-4 text-amber-600" />
-          </p>
           <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
-            はじめましての方へ
+            🔥 今週の急上昇ランキング
           </h2>
           <p className="mt-3 text-sm md:text-base text-ink-700">
-            まずはこの3記事から読んでみてね☀️
+            今週、Lucky Sun Shineで一番アクセスが集まっているトップ3です！
           </p>
         </div>
-        <div className="grid gap-4 md:gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {FIRST_VISIT_PICKS.map((pick) => (
-            <Link
-              key={pick.slug}
-              href={`/blog/${pick.slug}/`}
-              className={`group block rounded-2xl border-2 border-amber-300 bg-gradient-to-br ${pick.gradient} p-5 md:p-6 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out`}
-            >
-              <div className="text-[11px] font-bold tracking-widest text-amber-700">
-                {pick.label}
-              </div>
-              <h3 className="mt-2 font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-amber-700 transition-colors">
-                {pick.headline}
-              </h3>
-              <p className="mt-3 text-sm text-ink-700 leading-relaxed">
-                {pick.body}
-              </p>
-              <span className="mt-4 inline-flex items-center gap-1 text-sm font-bold text-amber-700 group-hover:underline">
-                読んでみる
-                <span aria-hidden="true">→</span>
-              </span>
-            </Link>
-          ))}
+        <div className="grid gap-4 md:gap-6 sm:grid-cols-3">
+          {/* 🥇 1位 */}
+          <Link href="/blog/birthday-stone-365" className="group block rounded-2xl border-2 border-amber-400 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="text-4xl mb-3 drop-shadow-sm">🥇</div>
+            <div className="text-[11px] font-bold tracking-widest text-amber-700 mb-1">不動のナンバーワン！</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-amber-700 transition-colors">
+              365日の誕生石一覧
+            </h3>
+            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+              圧倒的1位！あなたの誕生日の「守り石」を見つけて、運気を呼び込もう。
+            </p>
+          </Link>
+
+          {/* 🥈 2位 */}
+          <Link href="/blog/bad-combination-stones" className="group block rounded-2xl border-2 border-slate-300 bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="text-4xl mb-3 drop-shadow-sm">🥈</div>
+            <div className="text-[11px] font-bold tracking-widest text-slate-600 mb-1">注目度・急上昇！</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-slate-700 transition-colors">
+              NGな組み合わせって？
+            </h3>
+            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+              「相性が悪い」と言われる石の真実。運気を下げないための正しい知識。
+            </p>
+          </Link>
+
+          {/* 🥉 3位 */}
+          <Link href="/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="text-4xl mb-3 drop-shadow-sm">🥉</div>
+            <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">浄化の定番アイテム</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
+              さざれ石の使い方完全ガイド
+            </h3>
+            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+              パワーストーンの浄化からインテリアまで。石の寿命を延ばす必須アイテム。
+            </p>
+          </Link>
         </div>
       </ScrollReveal>
 
