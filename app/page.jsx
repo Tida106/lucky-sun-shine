@@ -229,8 +229,39 @@ export default function HomePage() {
       {/* Daily message — 太陽ちゃんからの今日のひとこと */}
       <DailyMessage />
 
-      {/* 🌟 365日誕生石 特大バナー ここから */}
+      {/* 🌟 LINEスタンプ告知 特大バナー ここから */}
       <div className="max-w-6xl mx-auto px-4 pt-8 md:pt-10">
+        <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-1 shadow-sm hover:shadow-md transition-all">
+          <div className="block rounded-xl bg-white/95 px-4 py-8 text-center backdrop-blur-sm sm:px-6">
+            <span className="inline-block rounded-full bg-[#06C755] px-3 py-1 text-xs font-bold tracking-wider text-white mb-4 shadow-sm">
+              ✨ NEW RELEASE ✨
+            </span>
+            <h2 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-yellow-500 drop-shadow-sm mb-4 leading-snug">
+              祝・リリース！幸運を招く天使<br className="sm:hidden" />「太陽ちゃん」のLINEスタンプが登場！
+            </h2>
+            <p className="text-sm md:text-base font-medium text-ink-600 mb-6 leading-relaxed max-w-2xl mx-auto">
+              いつも「Lucky Sun Shine」をご覧いただきありがとうございます！<br />
+              当サイトの案内役でおなじみ、かわいい天使の「太陽ちゃん」が毎日使えるLINEスタンプになりました☀️<br />
+              「GOOD MORNING!」「THANK YOU!」「CHEER UP!」など、ハッピーな陽のエネルギーで満たされる開運デザインです✨<br />
+              <span className="inline-block mt-2 font-bold text-yellow-600">
+                「友達、家族に送って運気をあげよう！」<br className="sm:hidden" />太陽ちゃんのかわいいお友達のスタンプもチェックしてみてね！
+              </span>
+            </p>
+            <a
+              href="https://store.line.me/stickershop/product/31602987/ja"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-base md:text-lg py-3 px-8 rounded-full shadow hover:bg-green-600 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1"
+            >
+              👉 LINE STOREで今すぐチェック！（190円）
+            </a>
+          </div>
+        </div>
+      </div>
+      {/* 🌟 LINEスタンプ告知 特大バナー ここまで */}
+
+      {/* 🌟 365日誕生石 特大バナー ここから */}
+      <div className="max-w-6xl mx-auto px-4 pt-6 md:pt-8">
         <div className="rounded-2xl bg-gradient-to-r from-amber-300 via-orange-200 to-amber-300 p-1 shadow-sm hover:shadow-md transition-all">
           <Link href="/blog/birthday-stone-365" className="block rounded-xl bg-white/80 px-4 py-8 text-center backdrop-blur-sm transition-colors hover:bg-white/95 sm:px-6">
             <span className="inline-block rounded-full bg-orange-500 px-3 py-1 text-xs font-bold tracking-wider text-white mb-3">
