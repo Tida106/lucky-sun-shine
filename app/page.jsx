@@ -1,4 +1,4 @@
-import ReactDOM from 'react-dom';
+﻿import ReactDOM from 'react-dom';
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { mainCategories as categories } from '@/lib/categories';
