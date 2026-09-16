@@ -229,8 +229,8 @@ export default function HomePage() {
       {/* Daily message — 太陽ちゃんからの今日のひとこと */}
       <DailyMessage />
 
-      {/* 🌟 LINEスタンプ告知 特大バナー ここから（倍のスペースを確保） */}
-      <div className="max-w-6xl mx-auto px-4 mt-16 md:mt-20 mb-12">
+      {/* 🌟 1. LINEスタンプ告知 特大バナー（一番目立つ位置に配置） */}
+      <div className="max-w-6xl mx-auto px-4 mt-16 md:mt-20 mb-10 md:mb-14">
         <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-1 shadow-sm hover:shadow-md transition-all duration-300">
           <div className="block rounded-xl bg-white/95 px-5 py-16 md:py-20 md:px-10 text-center backdrop-blur-sm">
             <span className="inline-block rounded-full bg-[#06C755] px-4 py-1.5 text-xs font-bold tracking-wider text-white mb-8 shadow-sm">
@@ -258,28 +258,9 @@ export default function HomePage() {
           </div>
         </div>
       </div>
-      {/* 🌟 LINEスタンプ告知 特大バナー ここまで */}
 
-      {/* 🌟 365日誕生石 特大バナー ここから */}
-      <div className="max-w-6xl mx-auto px-4 mb-8">
-        <div className="rounded-2xl bg-gradient-to-r from-amber-300 via-orange-200 to-amber-300 p-1 shadow-sm hover:shadow-md transition-all">
-          <Link href="/blog/birthday-stone-365" className="block rounded-xl bg-white/80 px-4 py-8 text-center backdrop-blur-sm transition-colors hover:bg-white/95 sm:px-6">
-            <span className="inline-block rounded-full bg-orange-500 px-3 py-1 text-xs font-bold tracking-wider text-white mb-3">
-              🔥 アクセス急上昇！今一番読まれています
-            </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-ink-900 mb-2">
-              365日の誕生石一覧 💎
-            </h2>
-            <p className="text-sm font-medium text-ink-600">
-              あなたの誕生日の「守り石」を見つけて、運気を呼び込もう！
-            </p>
-          </Link>
-        </div>
-      </div>
-      {/* 🌟 365日誕生石 特大バナー ここまで */}
-
-      {/* 🔥 今週の急上昇ランキング */}
-      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-8 md:py-10">
+      {/* 🔥 2. 今週の急上昇ランキング（間に挟んで視線をリセットさせる） */}
+      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-8 md:py-12">
         <div className="flex justify-center mb-4">
           <SunSpeechBubble>今、みんなが読んでる記事だよ🔥</SunSpeechBubble>
         </div>
@@ -329,6 +310,23 @@ export default function HomePage() {
           </Link>
         </div>
       </ScrollReveal>
+
+      {/* 🌟 3. 365日誕生石 特大バナー（下層への新たなフックとして配置） */}
+      <div className="max-w-6xl mx-auto px-4 mt-6 md:mt-8 mb-16 md:mb-20">
+        <div className="rounded-2xl bg-gradient-to-r from-amber-300 via-orange-200 to-amber-300 p-1 shadow-sm hover:shadow-md transition-all">
+          <Link href="/blog/birthday-stone-365" className="block rounded-xl bg-white/80 px-4 py-10 md:py-12 text-center backdrop-blur-sm transition-colors hover:bg-white/95 sm:px-6">
+            <span className="inline-block rounded-full bg-orange-500 px-3 py-1 text-xs font-bold tracking-wider text-white mb-4">
+              🔥 アクセス急上昇！今一番読まれています
+            </span>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-ink-900 mb-3">
+              365日の誕生石一覧 💎
+            </h2>
+            <p className="text-sm md:text-base font-medium text-ink-600">
+              あなたの誕生日の「守り石」を見つけて、運気を呼び込もう！
+            </p>
+          </Link>
+        </div>
+      </div>
 
       <SunDivider />
 
