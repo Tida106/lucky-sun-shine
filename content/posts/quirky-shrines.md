@@ -2,7 +2,7 @@
 title: "【開運×アニミズム】海外の日本ファンも大注目！日本の「奇妙でクール（Bizarre & Cool）」な開運神社厳選5選 ⛩️✨"
 date: 2026-09-19
 description: "日本のディープなスピリチュアル文化やユニークなパワースポットが大好きな海外の読者に向けて、とっておきの開運スポットを特集！"
-categories: ["powerspot"]
+category: "powerspot"
 tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 ---
 
