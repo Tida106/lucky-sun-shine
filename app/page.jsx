@@ -269,10 +269,11 @@ export default function HomePage() {
             🔥 今週の急上昇ランキング
           </h2>
           <p className="mt-3 text-sm md:text-base text-ink-700">
-            今週、Lucky Sun Shineで一番アクセスが集まっているトップ3です！
+            今週、Lucky Sun Shineで一番アクセスが集まっているトップ5です！
           </p>
         </div>
-        <div className="grid gap-4 md:gap-6 sm:grid-cols-3">
+        {/* TOP5に合わせて grid の列数を調整 (スマホ1列, タブレット2列, PC3列) */}
+        <div className="grid gap-4 md:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
           {/* 🥇 1位 */}
           <Link href="/blog/birthday-stone-365" className="group block rounded-2xl border-2 border-amber-400 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="text-4xl mb-3 drop-shadow-sm">🥇</div>
@@ -297,11 +298,35 @@ export default function HomePage() {
             </p>
           </Link>
 
-          {/* 🥉 3位 */}
-          <Link href="/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          {/* 🥉 3位（玄関記事を新規追加） */}
+          <Link href="/blog/genkan-powerstone-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="text-4xl mb-3 drop-shadow-sm">🥉</div>
-            <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">浄化の定番アイテム</div>
+            <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">アクセス急上昇！</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
+              玄関のパワーストーン完全ガイド
+            </h3>
+            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+              良い気を呼び込み悪い気を防ぐ。目的別の選び方から置き方まで。
+            </p>
+          </Link>
+
+          {/* 🏅 4位（部屋別記事を新規追加） */}
+          <Link href="/blog/fengshui-room-stones" className="group block rounded-2xl border-2 border-emerald-300 bg-gradient-to-br from-emerald-50 via-teal-50 to-emerald-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
+            <div className="text-[11px] font-bold tracking-widest text-emerald-700 mb-1">手堅く人気！</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
+              風水で部屋別に置くパワーストーン
+            </h3>
+            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+              リビング、寝室、キッチン。7つの空間と厳選石の配置早見表。
+            </p>
+          </Link>
+
+          {/* 🏅 5位（さざれ石を5位へ移動） */}
+          <Link href="/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-sky-300 bg-gradient-to-br from-sky-50 via-blue-50 to-sky-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
+            <div className="text-[11px] font-bold tracking-widest text-sky-700 mb-1">浄化の定番アイテム</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-sky-700 transition-colors">
               さざれ石の使い方完全ガイド
             </h3>
             <p className="mt-3 text-sm text-ink-700 leading-relaxed">
@@ -310,7 +335,7 @@ export default function HomePage() {
           </Link>
         </div>
       </ScrollReveal>
-
+      
       {/* 🌟 3. 365日誕生石 特大バナー（下層への新たなフックとして配置） */}
       <div className="max-w-6xl mx-auto px-4 mt-6 md:mt-8 mb-16 md:mb-20">
         <div className="rounded-2xl bg-gradient-to-r from-amber-300 via-orange-200 to-amber-300 p-1 shadow-sm hover:shadow-md transition-all">
