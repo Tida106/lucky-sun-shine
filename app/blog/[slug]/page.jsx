@@ -204,7 +204,7 @@ export default async function BlogPostPage({ params }) {
           <div className="flex flex-wrap items-center gap-2 text-xs">
             <span
               className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full font-medium ${
-                cat?.pastel ? `${cat.pastel.accentBg} ${cat.pastel.accent}` : 'bg-amber-100 text-amber-700'
+                cat?.pastel ? `${cat.pastel.accentBg}${cat.pastel.accent}` : 'bg-amber-100 text-amber-700'
               }`}
             >
               {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
@@ -272,16 +272,32 @@ export default async function BlogPostPage({ params }) {
           {post?.slug?.includes('birthday') && <BirthdayTable />}
         </div>
         
-        {/* 🌟 記事下の強力なCTA（クロージング） */}
+        {/* 🌟 記事下の強力なCTA（クロージング）: ここで占いと天然石を自動分岐します */}
         <div className="mt-16 mb-10">
-          <BlogMascotBubble>
-            最後まで読んでくれてありがとう🌻<br />
-            天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨<br />
-            でも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦<br />
-            『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛
-          </BlogMascotBubble>
-          
-          <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
+          {post.category === "powerspot" || post.category === "パワースポット" ? (
+            <div className="powerspot-message-box bg-orange-50 p-6 md:p-8 rounded-2xl border-2 border-orange-200 text-ink-800 shadow-sm">
+              <p className="font-bold text-base md:text-lg mb-2">神社に行くと自分を見つめ直す良い機会になるよね、行くだけでも価値があるよ！神様に相談しようよ！🌻</p>
+              <p>でも、もし人に悩みを聞いて欲しいなら、占いの相談でスッキリしてみるのもいいかもね✨</p>
+              
+              {/* ✨ A8.net「デスティニー」（末尾 5ZEMQ）のリンクをここに設定！ */}
+              <div className="mt-6 text-center">
+                <a href="https://px.a8.net/svt/ejp?a8mat=ココに実際のリンクを入れてね_5ZEMQ" target="_blank" rel="noopener noreferrer" className="inline-block bg-gradient-to-r from-orange-400 to-orange-500 text-white font-bold py-3 px-8 rounded-full hover:from-orange-500 hover:to-orange-600 transition-all shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
+                  運命の電話占い「デスティニー」で相談してみる
+                </a>
+              </div>
+            </div>
+          ) : (
+            <>
+              <BlogMascotBubble>
+                最後まで読んでくれてありがとう🌻<br />
+                天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨<br />
+                でも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦<br />
+                『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛
+              </BlogMascotBubble>
+              
+              <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
+            </>
+          )}
         </div>
         
         {/* ✨ ここに黄金ルートを追加！読了直後・商品チェック直後の読者を一網打尽にします */}
