@@ -81,7 +81,7 @@ export default async function EnBlogPostPage({ params }) {
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
       <article className="min-w-0">
-        <Breadcrumbs items={breadcrumbItems} className="mb-6" />
+        <Breadcrumbs items={breadcrumbItems} className="mb-6" locale={LOCALE} />
         <ArticleCover post={post} variant="hero" className="mb-8" />
 
         <header className="mb-8">
@@ -111,7 +111,7 @@ export default async function EnBlogPostPage({ params }) {
         </BlogMascotBubble>
 
         {headings.length > 0 && (
-          <TableOfContents headings={headings} variant="inline" className="lg:hidden mb-8" />
+          <TableOfContents headings={headings} variant="inline" className="lg:hidden mb-8" locale={LOCALE} />
         )}
 
         <div className="prose-article">
@@ -170,7 +170,7 @@ export default async function EnBlogPostPage({ params }) {
 
       <div className="hidden lg:block">
         <div className="sticky top-24">
-          <Sidebar headings={headings} />
+          <Sidebar headings={headings} locale={LOCALE} />
         </div>
       </div>
     </div>

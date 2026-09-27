@@ -15,9 +15,19 @@ export default function TableOfContents({
   headings,
   variant = 'sticky',
   className = '',
+  locale = 'ja',
 }) {
   const [activeId, setActiveId] = useState(null);
   const lastSeenRef = useRef(null);
+
+  // 英語・日本語のテキスト切り替え辞書
+  const isEn = locale === 'en';
+  const t = {
+    inlineTitle: isEn ? "Table of Contents (Tap to toggle)" : "目次（タップで開閉）",
+    navAria: isEn ? "Table of Contents" : "目次",
+    stickyTitle: isEn ? "Table of Contents" : "この記事の目次",
+    asideAria: isEn ? "Article Table of Contents" : "記事の目次",
+  };
 
   useEffect(() => {
     if (!headings || headings.length === 0) return;
@@ -90,7 +100,7 @@ export default function TableOfContents({
         <summary className="cursor-pointer list-none flex items-center justify-between px-4 py-3 text-sm font-bold text-ink-900 hover:bg-amber-100/60 transition-colors">
           <span className="inline-flex items-center gap-2">
             <span aria-hidden="true">📑</span>
-            <span>目次（タップで開閉）</span>
+            <span>{t.inlineTitle}</span>
           </span>
           <span
             aria-hidden="true"
@@ -99,7 +109,7 @@ export default function TableOfContents({
             ▼
           </span>
         </summary>
-        <nav aria-label="目次" className="px-3 pb-3 pt-1">
+        <nav aria-label={t.navAria} className="px-3 pb-3 pt-1">
           {itemList}
         </nav>
       </details>
@@ -111,11 +121,11 @@ export default function TableOfContents({
   return (
     <aside
       className={`rounded-2xl bg-white border border-amber-200 p-5 ${className}`}
-      aria-label="記事の目次"
+      aria-label={t.asideAria}
     >
       <h3 className="font-display text-sm font-bold text-ink-900 flex items-center gap-2 mb-3">
         <span aria-hidden="true">📑</span>
-        <span>この記事の目次</span>
+        <span>{t.stickyTitle}</span>
       </h3>
       <nav
         // ビューポート内に収まらないほど長いTOCでも、サイドバー全体を

@@ -1,12 +1,3 @@
-// 全カテゴリ・全シリーズが一覧できる回遊サイドバー。
-// 構成:
-//   1. サイト内検索リンク
-//   2. カテゴリで探す(メイン4カテゴリ + ピラー記事へのショートカット)
-//   3. ハブから探す(星座/誕生石/干支/運気/風水/開運グッズ/神社×2 を <details> で展開)
-//   4. 編集部おすすめ(既存 PopularPosts)
-//
-// クライアントJSなしで実装。長いリスト(12星座/12誕生石/12干支/10運気)は
-// <details> による折りたたみで初期表示の縦長さを抑える。
 import Link from 'next/link';
 import PopularPosts from './PopularPosts';
 import TableOfContents from './TableOfContents';
@@ -16,8 +7,6 @@ import { series, accentClasses } from '@/lib/series';
 import CategoryIcon from './CategoryIcon';
 import SunOrnament from './icons/SunOrnament';
 
-// 初期表示で開いておくシリーズ。短いものは開く・長いものは閉じる、
-// で初期表示の縦長さを8〜10カテゴリ分くらいに抑える。
 const DEFAULT_OPEN_SERIES = new Set(['lucky-goods', 'shrine-benefit', 'shrine-region', 'fengshui']);
 
 function CardHeading({ children }) {
@@ -32,13 +21,21 @@ function CardHeading({ children }) {
   );
 }
 
-function SeriesSection({ s }) {
+function SeriesSection({ s, locale = 'ja' }) {
+  const isEn = locale === 'en';
   const a = accentClasses(s.accent);
   const isOpen = DEFAULT_OPEN_SERIES.has(s.id);
+  
+  // 英語の場合はリンク先も /en/blog/... に切り替える
+  const blogPrefix = isEn ? '/en/blog/' : '/blog/';
+
   return (
     <details className={`group rounded-xl border border-amber-100 bg-white/80 ${a.bar} border-l-4`} open={isOpen}>
       <summary className="flex items-center justify-between cursor-pointer list-none px-3 py-2 hover:bg-amber-50/80 rounded-xl transition-colors">
-        <span className="text-sm font-bold text-ink-900">{s.label}</span>
+        <span className="text-sm font-bold text-ink-900">
+          {/* ※シリーズ名(星座など)は後日lib/series.jsで英語辞書化するまでは日本語表示になります */}
+          {s.label}
+        </span>
         <span
           aria-hidden="true"
           className="shrink-0 text-amber-600 text-xs transition-transform duration-200 group-open:rotate-180"
@@ -49,17 +46,17 @@ function SeriesSection({ s }) {
       <div className="px-3 pb-3 pt-1">
         {s.hubSlug && (
           <Link
-            href={`/blog/${s.hubSlug}/`}
+            href={`${blogPrefix}${s.hubSlug}/`}
             className={`block mb-2 px-3 py-1.5 rounded-lg text-xs font-bold ${a.chip} hover:opacity-90 transition-opacity`}
           >
-            ☀️ {s.hubLabel || '総合ガイドを見る'} →
+            ☀️ {isEn ? 'View Full Guide' : (s.hubLabel || '総合ガイドを見る')} →
           </Link>
         )}
         <ul className="space-y-0.5">
           {s.items.map((it) => (
             <li key={it.slug}>
               <Link
-                href={`/blog/${it.slug}/`}
+                href={`${blogPrefix}${it.slug}/`}
                 className={`block px-2 py-1 rounded text-xs text-ink-700 ${a.hover} transition-colors`}
               >
                 {it.label}
@@ -72,72 +69,105 @@ function SeriesSection({ s }) {
   );
 }
 
-export default function Sidebar({ headings }) {
+// カテゴリ名の英語変換用辞書（ご提示いただいた4カテゴリを紐付け）
+const categoryEnMap = {
+  'パワーストーン': 'Power Stones',
+  'パワースポット': 'Power Spots',
+  '開運グッズ': 'Lucky Items',
+  '運気アップ習慣': 'Good Luck Habits',
+};
+
+export default function Sidebar({ headings, locale = 'ja' }) {
+  const isEn = locale === 'en';
+
+  // UIテキストの英語/日本語 切り替え辞書
+  const t = {
+    search: isEn ? "Search" : "サイト内検索",
+    searchDesc: isEn
+      ? "Search by power stone names, fortunes, locations, etc."
+      : "パワーストーン名・運勢・地名などで横断検索できます。",
+    categories: isEn ? "Categories" : "カテゴリで探す",
+    hubs: isEn ? "Explore by Theme" : "ハブから探す",
+    hubsDesc: isEn
+      ? "Explore articles by themes like zodiac signs, birthstones, feng shui, shrines, etc."
+      : "星座・誕生石・干支・運気・神社など、テーマ別にまとめたハブから記事を辿れます。",
+    tags: isEn ? "View all tags →" : "タグ一覧から探す →",
+  };
+
+  // リンク先URLのプレフィックス切り替え（英語サイト内でクリックしても日本語ページに戻されないための最重要設定）
+  const searchUrl = isEn ? '/en/search/' : '/search/';
+  const tagUrl = isEn ? '/en/tags/' : '/tags/';
+  const catPrefix = isEn ? '/en/category/' : '/category/';
+  const blogPrefix = isEn ? '/en/blog/' : '/blog/';
+
   return (
     <aside className="space-y-6">
-      {/* 0. 記事ページのみ: 追従目次。ハイライトはクライアント側で更新。 */}
+      {/* 0. 追従目次 (小コンポーネントにもlocaleを渡す) */}
       {headings && headings.length > 0 && (
-        <TableOfContents headings={headings} variant="sticky" />
+        <TableOfContents headings={headings} variant="sticky" locale={locale} />
       )}
 
       {/* 1. サイト内検索 */}
       <div className="rounded-2xl bg-white border border-amber-200 p-5">
-        <Link href="/search/" className="inline-flex items-center gap-2 text-sm font-bold text-ink-900 hover:text-amber-700">
+        <Link href={searchUrl} className="inline-flex items-center gap-2 text-sm font-bold text-ink-900 hover:text-amber-700">
           <SearchIcon className="w-4 h-4 text-[#C9A96E]" />
-          サイト内検索
+          {t.search}
         </Link>
         <p className="mt-1 text-xs text-ink-500">
-          パワーストーン名・運勢・地名などで横断検索できます。
+          {t.searchDesc}
         </p>
       </div>
 
-      {/* 2. カテゴリで探す — メイン4カテゴリ＋ピラー記事のショートカット */}
+      {/* 2. カテゴリで探す */}
       <div className="rounded-2xl bg-white border border-amber-200 p-5">
-        <CardHeading>カテゴリで探す</CardHeading>
+        <CardHeading>{t.categories}</CardHeading>
         <ul className="space-y-2">
-          {mainCategories.map((c) => (
-            <li
-              key={c.slug}
-              className={`rounded-xl border border-amber-100 ${c.pastel.bg} px-3 py-2`}
-            >
-              <Link
-                href={`/category/${c.slug}/`}
-                className={`flex items-center gap-2 font-bold text-sm ${c.pastel.accent} ${c.pastel.accentHover}`}
+          {mainCategories.map((c) => {
+            const title = isEn ? (categoryEnMap[c.title] || c.title) : c.title;
+            return (
+              <li
+                key={c.slug}
+                className={`rounded-xl border border-amber-100 ${c.pastel.bg} px-3 py-2`}
               >
-                <CategoryIcon slug={c.slug} className="w-4 h-4 shrink-0" />
-                <span>{c.title}</span>
-              </Link>
-              {c.pillarSlug && (
                 <Link
-                  href={`/blog/${c.pillarSlug}/`}
-                  className="mt-1 block pl-6 text-[11px] text-ink-700 hover:text-amber-700"
+                  href={`${catPrefix}${c.slug}/`}
+                  className={`flex items-center gap-2 font-bold text-sm ${c.pastel.accent} ${c.pastel.accentHover}`}
                 >
-                  └ {c.pillarTitle} →
+                  <CategoryIcon slug={c.slug} className="w-4 h-4 shrink-0" />
+                  <span>{title}</span>
                 </Link>
-              )}
-            </li>
-          ))}
+                {c.pillarSlug && (
+                  <Link
+                    href={`${blogPrefix}${c.pillarSlug}/`}
+                    className="mt-1 block pl-6 text-[11px] text-ink-700 hover:text-amber-700"
+                  >
+                    └ {isEn ? 'View Pillar Article' : c.pillarTitle} →
+                  </Link>
+                )}
+              </li>
+            );
+          })}
         </ul>
       </div>
 
-      {/* 3. ハブから探す — 各シリーズを折りたたみで一覧化 */}
+      {/* 3. ハブから探す */}
       <div className="rounded-2xl bg-white border border-amber-200 p-5">
-        <CardHeading>ハブから探す</CardHeading>
+        <CardHeading>{t.hubs}</CardHeading>
         <p className="mt-[-0.5rem] mb-3 text-[11px] text-ink-500 leading-relaxed">
-          星座・誕生石・干支・運気・神社など、テーマ別にまとめたハブから記事を辿れます。
+          {t.hubsDesc}
         </p>
         <div className="space-y-2">
           {series.map((s) => (
-            <SeriesSection key={s.id} s={s} />
+            <SeriesSection key={s.id} s={s} locale={locale} />
           ))}
         </div>
         <p className="mt-3 text-[11px] text-ink-500 leading-relaxed">
-          <Link href="/tags/" className="underline hover:text-amber-700">タグ一覧から探す →</Link>
+          <Link href={tagUrl} className="underline hover:text-amber-700">{t.tags}</Link>
         </p>
       </div>
 
-      {/* 4. 編集部おすすめ — 既存の PopularPosts(キュレーション) */}
-      <PopularPosts limit={5} />
+      {/* 4. 編集部おすすめ (小コンポーネントにもlocaleを渡す) */}
+      <PopularPosts limit={5} locale={locale} />
     </aside>
   );
 }
