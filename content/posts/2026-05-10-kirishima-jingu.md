@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 霧島神宮
+  - ローズクォーツ
   - 鹿児島県
   - 神話
   - 火山

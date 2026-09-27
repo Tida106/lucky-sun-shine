@@ -4,7 +4,7 @@ description: "熊野本宮大社（和歌山県田辺市本宮町本宮）の歴
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["熊野本宮大社", "和歌山県", "熊野古道"]
+tags: ["御朱印帳", "和歌山県", "熊野古道"]
 slug: "kumano-hongu-taisha"
 draft: false
 ---

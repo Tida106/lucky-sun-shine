@@ -4,7 +4,7 @@ description: "中部地方のパワースポット神社を厳選紹介。諏訪
 date: "2026-05-14"
 updated: "2026-05-14"
 category: "powerspots"
-tags: ["中部", "長野", "静岡", "神社", "総合ガイド"]
+tags: ["御朱印帳", "長野", "静岡", "神社", "総合ガイド"]
 slug: "shrine-chubu-guide"
 draft: false
 ---

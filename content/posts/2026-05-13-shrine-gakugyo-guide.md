@@ -6,7 +6,7 @@ date: '2026-05-13'
 updated: '2026-05-13'
 category: powerspots
 tags:
-  - 学業成就
+  - フローライト
   - 合格祈願
   - 神社
   - 総合ガイド

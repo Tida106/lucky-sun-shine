@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 延暦寺
+  - アメジスト
   - 滋賀県
   - 世界遺産
 slug: hieizan-enryakuji

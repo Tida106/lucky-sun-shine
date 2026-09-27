@@ -4,7 +4,7 @@ description: "パワーストーンは1石より複数の組み合わせで真�
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["入門", "組み合わせ", "相性"]
+tags: ["水晶", "組み合わせ", "相性"]
 slug: "powerstone-combinations"
 draft: false
 ---

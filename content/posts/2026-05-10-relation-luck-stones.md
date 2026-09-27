@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
 tags:
-  - 対人運
+  - アクアマリン
   - アクアマリン
   - コミュニケーション
 slug: relation-luck-stones

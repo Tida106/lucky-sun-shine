@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
 tags:
-  - 転職運
+  - タイガーアイ
   - タイガーアイ
   - キャリア
 slug: career-change-luck-stones

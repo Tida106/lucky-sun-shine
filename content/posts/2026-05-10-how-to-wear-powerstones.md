@@ -4,7 +4,7 @@ description: "パワーストーンは左手と右手で意味が変わるとさ
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["入門", "初心者", "身につけ方"]
+tags: ["パワーストーン", "初心者", "身につけ方"]
 slug: "how-to-wear-powerstones"
 draft: false
 ---

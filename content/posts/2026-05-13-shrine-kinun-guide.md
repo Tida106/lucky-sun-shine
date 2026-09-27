@@ -4,7 +4,7 @@ description: "金運・商売繁盛で名高い全国の神社を厳選紹介。
 date: "2026-05-13"
 updated: "2026-05-13"
 category: "powerspots"
-tags: ["金運", "商売繁盛", "神社", "総合ガイド"]
+tags: ["御朱印帳", "商売繁盛", "神社", "総合ガイド"]
 slug: "shrine-kinun-guide"
 draft: false
 ---

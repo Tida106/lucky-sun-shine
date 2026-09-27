@@ -4,7 +4,7 @@ description: 秋に親しまれてきたパワーストーンを、季節ハブ�
 date: '2026-05-27'
 category: powerstones
 tags:
-  - 秋
+  - サファイア
   - 季節
   - 誕生石
   - シトリン

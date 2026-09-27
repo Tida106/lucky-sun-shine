@@ -4,7 +4,7 @@ description: "大神神社（奈良県桜井市三輪1422）の歴史・ご利�
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["大神神社", "奈良県", "日本最古"]
+tags: ["御朱印帳", "奈良県", "日本最古"]
 slug: "omiwa-jinja"
 draft: false
 ---

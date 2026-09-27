@@ -5,7 +5,7 @@ description: >-
 date: '2026-05-27'
 category: powerstones
 tags:
-  - 組み合わせ
+  - 水晶
   - 相性
   - 選び方
   - HowTo

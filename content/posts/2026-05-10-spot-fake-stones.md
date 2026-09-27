@@ -4,7 +4,7 @@ description: "高額なパワーストーンほど偽物・人工石・染色品
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["入門", "偽物", "選び方"]
+tags: ["水晶", "偽物", "選び方"]
 slug: "spot-fake-stones"
 draft: false
 ---

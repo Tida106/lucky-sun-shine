@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 宗像大社
+  - アクアマリン
   - 福岡県
   - 世界遺産
 slug: munakata-taisha

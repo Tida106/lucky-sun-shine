@@ -4,7 +4,7 @@ description: お正月・初詣・新年の節目に親しまれてきたパワ�
 date: '2026-05-27'
 category: powerstones
 tags:
-  - お正月
+  - ガーネット
   - 初詣
   - 新年
   - 開運

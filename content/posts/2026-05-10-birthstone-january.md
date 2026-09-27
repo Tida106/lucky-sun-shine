@@ -4,7 +4,7 @@ description: "1月の誕生石「ガーネット」を徹底解説。深紅の�
 date: "2026-05-10"
 updated: "2026-05-24"
 category: "powerstones"
-tags: ["誕生石", "ガーネット", "1月"]
+tags: ["ガーネット", "1月"]
 slug: "birthstone-january"
 draft: false
 ---

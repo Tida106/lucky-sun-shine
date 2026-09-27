@@ -3,7 +3,7 @@ title: "パワーストーンの「好転反応」は本当？体調不良の正
 description: "石を持ち始めてから体調が悪い…これって好転反応？と不安なあなたへ。「好転反応」は医学用語ではなく、体調不良があるなら必ず医療機関を受診すべきです。危険な理由と正しい対処法を薬機法・景品表示法に配慮して解説します。"
 date: "2026-06-26"
 category: "powerstones"
-tags: ["好転反応", "体調不良", "初心者", "トラブル", "注意事項"]
+tags: ["パワーストーン", "体調不良", "初心者", "トラブル", "注意事項"]
 slug: "kouten-hannou-truth"
 cover: "/images/posts/kouten-hannou-truth.jpg"
 draft: false

@@ -4,7 +4,7 @@ description: 恋愛運アップで定番のパワーストーン9種をまとめ
 date: '2026-05-26'
 category: powerstones
 tags:
-  - 恋愛運
+  - ローズクォーツ
   - おすすめ石
   - まとめ
   - ローズクォーツ

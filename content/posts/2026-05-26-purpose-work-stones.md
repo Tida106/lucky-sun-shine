@@ -4,7 +4,7 @@ description: 仕事運・勝負運アップで定番のパワーストーン9種
 date: '2026-05-26'
 category: powerstones
 tags:
-  - 仕事運
+  - タイガーアイ
   - 勝負運
   - おすすめ石
   - まとめ

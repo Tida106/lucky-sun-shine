@@ -5,7 +5,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: luck-habits
 tags:
-  - 風水
+  - アメジスト
   - 寝室
   - 睡眠
 slug: fengshui-bedroom-stones

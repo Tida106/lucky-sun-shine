@@ -3,7 +3,7 @@ title: "【繊細さん向け】黒い石が苦手な方へ。人混みの疲れ
 description: "「人混みに行くとどっと疲れる」「魔除けの石は黒くて重いから苦手…」そんな繊細なあなたへ。おいせ石、プレナイト、アンバーなど、見た目も軽やかで優しくあなたを守るバリアストーンをご紹介します。"
 date: "2026-08-31"
 category: "powerstones"
-tags: ["魔除け", "おいせ石", "プレナイト", "アンバー", "HSP"]
+tags: ["おいせ石", "おいせ石", "プレナイト", "アンバー", "HSP"]
 slug: "delicate-barrier-stones"
 cover: "/images/posts/delicate-barrier-stones.jpg"
 draft: false

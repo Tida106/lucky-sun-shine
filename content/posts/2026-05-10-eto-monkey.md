@@ -4,7 +4,7 @@ description: "申（さる）年生まれの器用で社交的な性格と、商
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["干支", "申", "シトリン"]
+tags: ["シトリン", "申", "シトリン"]
 slug: "eto-monkey"
 draft: false
 ---

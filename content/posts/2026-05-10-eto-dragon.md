@@ -4,7 +4,7 @@ description: "辰（たつ）年生まれの威厳ある性格と、王の石と
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["干支", "辰", "ラピスラズリ"]
+tags: ["ラピスラズリ", "辰", "ラピスラズリ"]
 slug: "eto-dragon"
 draft: false
 ---

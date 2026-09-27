@@ -4,7 +4,7 @@ description: 冬に親しまれてきたパワーストーンを、季節ハブ�
 date: '2026-05-27'
 category: powerstones
 tags:
-  - 冬
+  - タンザナイト
   - 季節
   - 誕生石
   - 水晶

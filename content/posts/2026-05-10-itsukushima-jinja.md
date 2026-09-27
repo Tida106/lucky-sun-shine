@@ -4,7 +4,7 @@ description: "厳島神社（広島県廿日市市宮島町）の歴史・ご利
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["厳島神社", "広島県", "海"]
+tags: ["アクアマリン", "広島県", "海"]
 slug: "itsukushima-jinja"
 draft: false
 ---

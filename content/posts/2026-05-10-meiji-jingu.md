@@ -4,7 +4,7 @@ description: "明治神宮（東京都渋谷区代々木神園町1-1）の歴史
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["明治神宮", "東京都", "縁結び"]
+tags: ["水晶", "東京都", "縁結び"]
 slug: "meiji-jingu"
 draft: false
 ---

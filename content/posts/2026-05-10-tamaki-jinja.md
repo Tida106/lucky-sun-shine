@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 玉置神社
+  - 御朱印帳
   - 奈良県
   - 熊野
 slug: tamaki-jinja

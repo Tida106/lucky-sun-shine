@@ -5,7 +5,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: luck-habits
 tags:
-  - 風水
+  - 水晶
   - 玄関
   - 気の流れ
 slug: fengshui-entrance-stones

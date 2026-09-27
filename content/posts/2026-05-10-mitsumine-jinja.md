@@ -4,7 +4,7 @@ description: "三峯神社（埼玉県秩父市）の歴史・伊弉諾尊・伊
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerspots"
-tags: ["三峯神社", "埼玉県", "魔除け"]
+tags: ["御朱印帳", "埼玉県", "魔除け"]
 slug: "mitsumine-jinja"
 draft: false
 ---

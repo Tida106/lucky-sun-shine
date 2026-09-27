@@ -4,7 +4,7 @@ description: 夏に親しまれてきたパワーストーンを、季節ハブ�
 date: '2026-05-27'
 category: powerstones
 tags:
-  - 夏
+  - アクアマリン
   - 季節
   - 誕生石
   - アクアマリン

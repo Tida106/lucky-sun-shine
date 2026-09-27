@@ -5,7 +5,7 @@ date: '2026-05-12'
 updated: '2026-05-12'
 category: powerstones
 tags:
-  - 入門
+  - 水晶
   - 初心者
   - 選び方
   - 総合ガイド

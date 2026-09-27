@@ -5,7 +5,7 @@ date: '2026-05-12'
 updated: '2026-05-12'
 category: powerspots
 tags:
-  - 神社
+  - 御朱印帳
   - 参拝
   - 作法
   - 総合ガイド

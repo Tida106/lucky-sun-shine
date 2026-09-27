@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 江島神社
+  - ローズクォーツ
   - 神奈川県
   - 縁結び
 slug: enoshima-jinja

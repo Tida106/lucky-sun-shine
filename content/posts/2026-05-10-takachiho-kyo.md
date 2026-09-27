@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 高千穂峡
+  - ラブラドライト
   - 宮崎県
   - 神話
 slug: takachiho-kyo

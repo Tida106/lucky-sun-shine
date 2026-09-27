@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
 tags:
-  - 星座
+  - ガーネット
   - 山羊座
   - ガーネット
 slug: zodiac-capricorn

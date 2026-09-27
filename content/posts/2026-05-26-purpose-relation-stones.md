@@ -5,7 +5,7 @@ description: >-
 date: '2026-05-26'
 category: powerstones
 tags:
-  - 対人運
+  - アクアマリン
   - 人間関係
   - コミュニケーション
   - おすすめ石

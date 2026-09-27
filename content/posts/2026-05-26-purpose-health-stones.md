@@ -5,7 +5,7 @@ description: >-
 date: '2026-05-26'
 category: powerstones
 tags:
-  - 健康運
+  - アメジスト
   - 癒し
   - おすすめ石
   - まとめ

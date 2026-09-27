@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
 tags:
-  - 星座
+  - タイガーアイ
   - 獅子座
   - タイガーアイ
 slug: zodiac-leo

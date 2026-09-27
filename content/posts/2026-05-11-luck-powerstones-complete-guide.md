@@ -4,7 +4,7 @@ description: 恋愛運・金運・仕事運・健康運・対人運・結婚運�
 date: '2026-05-11'
 category: powerstones
 tags:
-  - 開運
+  - ローズクォーツ
   - 金運
   - 恋愛運
   - 厄除け

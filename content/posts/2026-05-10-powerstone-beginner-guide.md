@@ -4,7 +4,7 @@ description: "パワーストーンって本当に効くの？からスタート
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["入門", "初心者", "基礎知識"]
+tags: ["水晶", "初心者", "基礎知識"]
 slug: "powerstone-beginner-guide"
 draft: false
 ---

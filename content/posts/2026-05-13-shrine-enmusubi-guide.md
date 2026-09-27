@@ -4,7 +4,7 @@ description: "縁結び・恋愛成就で名高い全国の神社を厳選紹介
 date: "2026-05-13"
 updated: "2026-05-13"
 category: "powerspots"
-tags: ["縁結び", "恋愛成就", "神社", "総合ガイド"]
+tags: ["ローズクォーツ", "恋愛成就", "神社", "総合ガイド"]
 slug: "shrine-enmusubi-guide"
 draft: false
 ---

@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 戸隠神社
+  - 御朱印帳
   - 長野県
   - 霊性
 slug: togakushi-jinja

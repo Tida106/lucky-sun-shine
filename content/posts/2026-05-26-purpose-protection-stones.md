@@ -5,7 +5,7 @@ description: >-
 date: '2026-05-26'
 category: powerstones
 tags:
-  - 厄除け
+  - モリオン
   - 魔除け
   - 浄化
   - おすすめ石

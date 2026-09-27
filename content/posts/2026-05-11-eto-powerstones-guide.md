@@ -5,7 +5,7 @@ date: '2026-05-11'
 updated: '2026-05-24'
 category: powerstones
 tags:
-  - 干支
+  - パワーストーン
   - 十二支
   - おすすめ石
 slug: eto-powerstones-guide

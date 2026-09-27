@@ -4,7 +4,7 @@ description: "北海道神宮（北海道札幌市中央区宮ヶ丘474）の歴
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["北海道神宮", "北海道", "開運"]
+tags: ["御朱印帳", "北海道", "開運"]
 slug: "hokkaido-jingu"
 draft: false
 ---

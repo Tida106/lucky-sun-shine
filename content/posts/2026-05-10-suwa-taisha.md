@@ -4,7 +4,7 @@ description: "諏訪大社（上社本宮・前宮・下社秋宮・春宮の4�
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerspots"
-tags: ["諏訪大社", "長野県", "勝負運"]
+tags: ["ヘマタイト", "長野県", "勝負運"]
 slug: "suwa-taisha"
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "関東のパワースポット神社を厳選紹介。明治神宮
 date: "2026-05-14"
 updated: "2026-05-14"
 category: "powerspots"
-tags: ["関東", "東京", "神奈川", "埼玉", "神社", "総合ガイド"]
+tags: ["御朱印帳", "東京", "神奈川", "埼玉", "神社", "総合ガイド"]
 slug: "shrine-kanto-guide"
 draft: false
 ---

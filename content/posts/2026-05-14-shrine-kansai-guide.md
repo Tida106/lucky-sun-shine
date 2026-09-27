@@ -6,7 +6,7 @@ date: '2026-05-14'
 updated: '2026-05-14'
 category: powerspots
 tags:
-  - 関西
+  - 御朱印帳
   - 近畿
   - 三重
   - 奈良

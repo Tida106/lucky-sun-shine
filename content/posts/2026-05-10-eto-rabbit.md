@@ -4,7 +4,7 @@ description: "卯（うさぎ）年生まれの優しく飛躍する性格と、
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["干支", "卯", "ローズクォーツ"]
+tags: ["ローズクォーツ", "卯", "ローズクォーツ"]
 slug: "eto-rabbit"
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "「最強のパワーストーン」は存在しない——でも、あ
 description: "「最強の石」を探していたあなたへ。私たち編集チームから、急がず、責めず、寄り添うひとつの読み物を。"
 date: "2026-06-06"
 category: "powerstones"
-tags: ["エッセイ", "読み物", "最強", "選び方", "哲学"]
+tags: ["水晶", "読み物", "最強", "選び方", "哲学"]
 slug: "no-such-thing-as-strongest-stone"
 draft: false
 ---

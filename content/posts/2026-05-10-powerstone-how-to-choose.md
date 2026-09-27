@@ -3,7 +3,7 @@ title: "パワーストーンの選び方完全ガイド｜直感・誕生石・
 description: "数百種類あるパワーストーンの中から、自分に本当に合う1石を見つける選び方を、直感・誕生石・悩み別・色別の4軸で解説します。"
 date: "2026-05-10"
 category: "powerstones"
-tags: ["入門", "初心者", "選び方"]
+tags: ["水晶", "初心者", "選び方"]
 slug: "powerstone-how-to-choose"
 draft: true
 redirect_to: "/blog/how-to-choose-powerstones/"

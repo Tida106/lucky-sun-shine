@@ -5,7 +5,7 @@ description: >-
 date: '2026-05-27'
 category: powerstones
 tags:
-  - 浄化
+  - さざれ石
   - お手入れ
   - 保管
   - HowTo

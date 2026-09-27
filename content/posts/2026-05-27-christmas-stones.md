@@ -4,7 +4,7 @@ description: クリスマスプレゼントに親しまれてきたパワース�
 date: '2026-05-27'
 category: powerstones
 tags:
-  - クリスマス
+  - ガーネット
   - ギフト
   - プレゼント
   - 贈り物

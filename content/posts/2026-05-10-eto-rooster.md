@@ -4,7 +4,7 @@ description: "酉（とり）年生まれの几帳面で先見の明ある性格
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["干支", "酉", "ソーダライト"]
+tags: ["ソーダライト", "酉", "ソーダライト"]
 slug: "eto-rooster"
 draft: false
 ---

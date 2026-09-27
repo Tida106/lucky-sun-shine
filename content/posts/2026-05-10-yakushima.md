@@ -6,7 +6,7 @@ date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
 tags:
-  - 屋久島
+  - アンバー
   - 鹿児島県
   - 世界遺産
 slug: yakushima

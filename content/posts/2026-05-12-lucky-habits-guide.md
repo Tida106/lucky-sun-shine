@@ -5,7 +5,7 @@ date: '2026-05-12'
 updated: '2026-05-12'
 category: luck-habits
 tags:
-  - 開運習慣
+  - 水晶
   - ルーティン
   - 風水
   - 言霊

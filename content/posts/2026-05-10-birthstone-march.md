@@ -6,7 +6,6 @@ date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
 tags:
-  - 誕生石
   - アクアマリン
   - ブラッドストーン
   - 3月

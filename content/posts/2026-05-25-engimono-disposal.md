@@ -4,7 +4,7 @@ description: "古いお守り・お札・縁起物の処分方法を完全解説
 date: "2026-05-25"
 updated: "2026-05-25"
 category: "lucky-goods"
-tags: ["処分", "お焚き上げ", "縁起物", "お守り", "どんど焼き"]
+tags: ["パワーストーン", "お焚き上げ", "縁起物", "お守り", "どんど焼き"]
 slug: "engimono-disposal"
 draft: false
 ---

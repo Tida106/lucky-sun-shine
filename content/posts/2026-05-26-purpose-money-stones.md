@@ -4,7 +4,7 @@ description: 金運アップで定番のパワーストーン9種をまとめて
 date: '2026-05-26'
 category: powerstones
 tags:
-  - 金運
+  - ルチルクォーツ
   - おすすめ石
   - まとめ
   - シトリン

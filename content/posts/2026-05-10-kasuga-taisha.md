@@ -4,7 +4,7 @@ description: "春日大社（奈良県奈良市春日野町160）の歴史・ご
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["春日大社", "奈良県", "世界遺産"]
+tags: ["水晶", "奈良県", "世界遺産"]
 slug: "kasuga-taisha"
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "出雲大社の歴史・ご利益・参拝マナー（二礼四拍
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
-tags: ["出雲大社", "島根県", "縁結び"]
+tags: ["ローズクォーツ", "島根県", "縁結び"]
 slug: "izumo-taisha"
 draft: false
 ---
