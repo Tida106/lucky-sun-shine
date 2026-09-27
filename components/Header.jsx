@@ -94,7 +94,7 @@ export default function Header() {
         <div className="flex items-center gap-2">
           <Link
             href={otherLangHref}
-            className="inline-flex items-center justify-center h-9 px-3 rounded-full border border-amber-200 hover:bg-amber-50 transition-colors text-[#9C7A47] text-xs font-bold"
+            className="inline-flex items-center justify-center h-9 px-3 rounded-full bg-sky-100 border border-sky-300 hover:bg-sky-200 hover:shadow-[0_0_12px_rgba(56,189,248,0.5)] transition-all text-sky-700 text-xs font-bold mr-1"
             title={isEn ? 'Switch to Japanese' : 'Switch to English'}
           >
             {langToggleLabel}
