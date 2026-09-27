@@ -41,6 +41,11 @@ export default function Header() {
 
   const getCategoryUrl = (slug) => (isEn ? `/en/category/${slug}/` : `/category/${slug}/`);
 
+  const otherLangHref = isEn
+    ? (pathname.replace(/^\/en/, '') || '/')
+    : `/en${pathname}`;
+  const langToggleLabel = isEn ? 'JP' : 'EN';
+
   return (
     <header className="sticky top-0 z-30 backdrop-blur bg-white/80 border-b border-amber-200">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
@@ -87,6 +92,13 @@ export default function Header() {
           </Link>
         </nav>
         <div className="flex items-center gap-2">
+          <Link
+            href={otherLangHref}
+            className="inline-flex items-center justify-center h-9 px-3 rounded-full border border-amber-200 hover:bg-amber-50 transition-colors text-[#9C7A47] text-xs font-bold"
+            title={isEn ? 'Switch to Japanese' : 'Switch to English'}
+          >
+            {langToggleLabel}
+          </Link>
           <Link
             href={t.search}
             aria-label={t.searchTitle}
