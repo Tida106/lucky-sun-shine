@@ -17,6 +17,8 @@
     "gen:all": "node scripts/generate-stones.js && node scripts/generate-spots.js && node scripts/generate-content.js"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^18.0.4",
     "gray-matter": "^4.0.3",
     "next": "^15.0.0",
     "react": "^19.0.0",
