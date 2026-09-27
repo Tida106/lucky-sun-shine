@@ -1,19 +1,24 @@
 'use client';
 import { useEffect, useState } from 'react';
+import { usePathname } from 'next/navigation';
 import SunMascot from './SunMascot';
-import messages from '@/data/daily-messages.json';
+import messagesJa from '@/data/daily-messages.json';
+import messagesEn from '@/data/daily-messages.en.json';
 
-// 太陽ちゃんからの今日のひとこと。
+// {isEn ? "A word from Sun-chan today" : "太陽ちゃんからの今日のひとこと。"}
 // クライアント側で初回マウント時にランダムなメッセージを選ぶため
 // SSR 出力はプレースホルダー（不可視 nbsp）にして hydration mismatch を回避し、
 // 表示時に opacity の fade-in でふわっと出す。
 export default function DailyMessage() {
+  const pathname = usePathname() || '';
+  const isEn = pathname.startsWith('/en');
+  const messages = isEn ? messagesEn : messagesJa;
   const [message, setMessage] = useState(null);
 
   useEffect(() => {
     const i = Math.floor(Math.random() * messages.length);
     setMessage(messages[i] || messages[0]);
-  }, []);
+  }, [isEn]);
 
   return (
     <section className="max-w-3xl mx-auto px-4 pt-10 pb-4">
@@ -35,14 +40,14 @@ export default function DailyMessage() {
             size={120}
             src="/images/mascot-sun-believe.png"
             className="drop-shadow-[0_4px_12px_rgba(245,158,11,0.25)]"
-            alt="太陽ちゃん（I BELIEVE U!）"
+            alt={isEn ? "Sun-chan (I BELIEVE U!)" : "太陽ちゃん（I BELIEVE U!）"}
           />
         </div>
         <p className="mt-4 text-amber-700 text-[11px] md:text-xs font-bold tracking-widest">
-          DAILY MESSAGE
+          {isEn ? 'DAILY MESSAGE' : 'DAILY MESSAGE'}
         </p>
         <h2 className="mt-1 font-display text-lg md:text-2xl font-extrabold text-ink-900">
-          太陽ちゃんからの今日のひとこと💛
+          {isEn ? "A word from Sun-chan today 💛" : "太陽ちゃんからの今日のひとこと💛"}
         </h2>
         <p
           className={`mt-4 min-h-[2.5em] font-display text-base md:text-xl text-ink-900 leading-relaxed transition-opacity duration-700 ease-out ${
