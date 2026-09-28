@@ -1,26 +1,65 @@
 'use client';
 import { useState } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import SunMascot from '@/components/SunMascot';
-import results from '@/data/omikuji.json';
+import resultsJa from '@/data/omikuji.json';
+import resultsEn from '@/data/omikuji.en.json';
 
-const SHARE_BASE = 'https://lucky-sun-shine.com/omikuji/';
-
-function pickResult() {
-  const i = Math.floor(Math.random() * results.length);
-  return results[i];
-}
+const TEXT = {
+  ja: {
+    shareBase: 'https://lucky-sun-shine.com/omikuji/',
+    title: '☀️ 太陽ちゃんのおみくじ ☀️',
+    lead: '太陽ちゃんが今日のあなたに、運勢とラッキーストーンをお届けするよ💛',
+    altYay: '太陽ちゃん（やったね！）',
+    alt: '太陽ちゃん',
+    spinning: 'くるくる…',
+    draw: 'おみくじを引く！',
+    luckyStone: 'ラッキーストーン：',
+    again: 'もう一度引く',
+    articles: '💎 パワーストーンの記事を見る',
+    articlesHref: '/category/powerstones/',
+    shareLead: '結果をシェアして、お友達にも運気おすそわけ☀️',
+    tweet: (r) => `太陽ちゃんのおみくじ結果は【${r.fortune}】☀️ ${r.message} ラッキーストーンは ${r.stone}！`,
+    shareX: 'X（Twitter）でシェア',
+    shareFb: 'Facebook でシェア',
+    back: '最初の画面に戻る',
+  },
+  en: {
+    shareBase: 'https://lucky-sun-shine.com/en/omikuji/',
+    title: "☀️ Sun-chan's Fortune ☀️",
+    lead: "Sun-chan brings you today's fortune and your lucky stone 💛",
+    altYay: 'Sun-chan (Yay!)',
+    alt: 'Sun-chan',
+    spinning: 'Spinning…',
+    draw: 'Draw a fortune!',
+    luckyStone: 'Lucky stone: ',
+    again: 'Draw again',
+    articles: '💎 Explore Power Stones',
+    articlesHref: '/en/',
+    shareLead: 'Share your result and spread the good luck to your friends ☀️',
+    tweet: (r) => `My fortune from Sun-chan: [${r.fortune}] ☀️ ${r.message} My lucky stone is ${r.stone}!`,
+    shareX: 'Share on X (Twitter)',
+    shareFb: 'Share on Facebook',
+    back: 'Back to start',
+  },
+};
 
 export default function OmikujiClient() {
+  const pathname = usePathname() || '';
+  const isEn = pathname.startsWith('/en');
+  const t = isEn ? TEXT.en : TEXT.ja;
+  const results = isEn ? resultsEn : resultsJa;
+
   const [result, setResult] = useState(null);
   const [spinning, setSpinning] = useState(false);
 
   const draw = () => {
     setSpinning(true);
     setResult(null);
-    // 軽い演出 — 600ms ほど"くるくる"してから結果を出す
     setTimeout(() => {
-      setResult(pickResult());
+      const i = Math.floor(Math.random() * results.length);
+      setResult(results[i]);
       setSpinning(false);
     }, 600);
   };
@@ -34,10 +73,10 @@ export default function OmikujiClient() {
       <header className="text-center">
         <p className="text-amber-700 text-xs font-bold tracking-widest">OMIKUJI</p>
         <h1 className="mt-2 font-display text-3xl md:text-4xl font-extrabold text-ink-900">
-          ☀️ 太陽ちゃんのおみくじ ☀️
+          {t.title}
         </h1>
         <p className="mt-3 text-sm md:text-base text-ink-700 leading-relaxed">
-          太陽ちゃんが今日のあなたに、運勢とラッキーストーンをお届けするよ💛
+          {t.lead}
         </p>
       </header>
 
@@ -53,7 +92,7 @@ export default function OmikujiClient() {
             <SunMascot
               size={200}
               priority
-              alt={result ? '太陽ちゃん（やったね！）' : '太陽ちゃん'}
+              alt={result ? t.altYay : t.alt}
               src={result ? '/images/mascot-sun-yay.png' : '/images/mascot-sun.png'}
               className="md:!w-60 md:!h-60"
             />
@@ -61,7 +100,6 @@ export default function OmikujiClient() {
         </div>
       </div>
 
-      {/* 結果表示 or 引くボタン */}
       {!result ? (
         <div className="mt-10 flex justify-center">
           <button
@@ -71,7 +109,7 @@ export default function OmikujiClient() {
             className="group inline-flex items-center gap-2 px-8 py-4 rounded-full bg-gradient-to-br from-amber-400 via-yellow-400 to-amber-500 text-white text-lg md:text-xl font-display font-extrabold shadow-[0_6px_24px_rgba(245,158,11,0.45)] hover:shadow-[0_8px_32px_rgba(245,158,11,0.65)] hover:scale-[1.03] active:scale-100 transition-all disabled:opacity-70 disabled:cursor-not-allowed"
           >
             <span aria-hidden="true" className="text-2xl">☀️</span>
-            {spinning ? 'くるくる…' : 'おみくじを引く！'}
+            {spinning ? t.spinning : t.draw}
             <span aria-hidden="true" className="text-2xl">✨</span>
           </button>
         </div>
@@ -89,7 +127,7 @@ export default function OmikujiClient() {
 
           <div className="mt-6 inline-flex items-center gap-2 rounded-full bg-white/80 border border-amber-300 px-5 py-2 text-sm md:text-base">
             <span aria-hidden="true">💎</span>
-            <span className="text-ink-700">ラッキーストーン：</span>
+            <span className="text-ink-700">{t.luckyStone}</span>
             <span className="font-bold text-amber-800">{result.stone}</span>
           </div>
 
@@ -100,41 +138,40 @@ export default function OmikujiClient() {
               className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-full bg-amber-400 hover:bg-amber-500 text-white text-sm md:text-base font-bold shadow-sm transition-colors"
             >
               <span aria-hidden="true">🔄</span>
-              もう一度引く
+              {t.again}
             </button>
             <Link
-              href="/category/powerstones/"
+              href={t.articlesHref}
               className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-full bg-white border border-amber-300 text-amber-800 hover:bg-amber-50 text-sm md:text-base font-bold transition-colors"
             >
-              💎 パワーストーンの記事を見る
+              {t.articles}
             </Link>
           </div>
 
-          {/* シェア */}
           <div className="mt-8 pt-6 border-t border-amber-200">
             <p className="text-xs md:text-sm text-ink-700 mb-3">
-              結果をシェアして、お友達にも運気おすそわけ☀️
+              {t.shareLead}
             </p>
             <div className="flex flex-wrap justify-center gap-2.5">
-              <a
-                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-                  `太陽ちゃんのおみくじ結果は【${result.fortune}】☀️ ${result.message} ラッキーストーンは ${result.stone}！`
-                )}&url=${encodeURIComponent(SHARE_BASE)}`}
+                <a
+                  href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+                  t.tweet(result)
+                )}&url=${encodeURIComponent(t.shareBase)}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-sky-500 hover:bg-sky-600 text-white text-xs md:text-sm font-bold transition-colors"
               >
-                X（Twitter）でシェア
+                {t.shareX}
               </a>
-              <a
-                href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-                  SHARE_BASE
+                <a
+                  href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+                  t.shareBase
                 )}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-blue-700 hover:bg-blue-800 text-white text-xs md:text-sm font-bold transition-colors"
               >
-                Facebook でシェア
+                {t.shareFb}
               </a>
             </div>
           </div>
@@ -148,7 +185,7 @@ export default function OmikujiClient() {
             onClick={reset}
             className="text-xs md:text-sm text-amber-700 hover:text-amber-900 underline"
           >
-            最初の画面に戻る
+            {t.back}
           </button>
         </div>
       )}
