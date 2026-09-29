@@ -156,8 +156,8 @@ export default async function BlogPostPage({ params }) {
               <span aria-hidden="true" className="heading-rule mt-3 ml-8" />
             </div>
             <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-              {alsoRead.map((r) => (
-                <PostCard key={r.slug} post={r} />
+             {alsoRead.map((r) => (
+                <PostCard key={r.slug} post={r} locale={LOCALE} />
               ))}
             </div>
           </section>

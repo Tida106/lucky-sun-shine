@@ -7,13 +7,21 @@ function formatDate(iso) {
   return `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
 }
 
-export default function PostCard({ post }) {
+// localeを受け取れるようにし、初期値を 'ja' に設定
+export default function PostCard({ post, locale = 'ja' }) {
   const cat = getCategory(post.category);
+  
+  // localeが 'en' なら /en/blog/〜 に、それ以外なら /blog/〜 にリンク先を切り替え
+  const isEn = locale === 'en';
+  const postUrl = isEn ? `/en/blog/${post.slug}/` : `/blog/${post.slug}/`;
+  
+  // カテゴリ表示も、英語の場合は post.category（'powerspots' などの英語キー）をそのまま表示
+  const catName = isEn ? post.category : (cat?.title || post.category);
+
   return (
     <article className="card-elev group rounded-2xl bg-white border border-amber-100 hover:border-amber-300 overflow-hidden">
-      <Link href={`/blog/${post.slug}/`} className="block">
+      <Link href={postUrl} className="block">
         <div className="overflow-hidden">
-          {/* cover も hover でほんのり拡大して、既存カードのアニメーション感を継承する */}
           <div className="transition-transform duration-500 ease-out group-hover:scale-105">
             <ArticleCover post={post} variant="card" />
           </div>
@@ -22,10 +30,10 @@ export default function PostCard({ post }) {
           <div className="flex items-center gap-2 text-xs mb-2">
             <span
               className={`px-2 py-0.5 rounded-full font-medium ${
-                cat?.pastel ? `${cat.pastel.accentBg} ${cat.pastel.accent}` : 'bg-amber-100 text-amber-700'
+                cat?.pastel ? `${cat.pastel.accentBg}${cat.pastel.accent}` : 'bg-amber-100 text-amber-700'
               }`}
             >
-              {cat?.title || post.category}
+              {catName}
             </span>
             <time dateTime={post.date} className="text-ink-500">{formatDate(post.date)}</time>
           </div>
