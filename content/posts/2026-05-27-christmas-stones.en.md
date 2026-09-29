@@ -10,7 +10,6 @@ tags:
   - Birthstone
 draft: false
 ---
----
 
 ## Introduction
 

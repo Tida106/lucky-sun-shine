@@ -11,7 +11,6 @@ tags:
   - Rose Quartz
 draft: false
 ---
----
 
 ## Introduction
 

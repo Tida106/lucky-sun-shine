@@ -11,7 +11,6 @@ tags:
   - Carnelian
 draft: false
 ---
----
 
 ## Introduction
 

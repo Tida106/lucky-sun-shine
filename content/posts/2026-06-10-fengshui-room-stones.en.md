@@ -7,7 +7,6 @@ tags: ["Black Tourmaline", "Rooms", "Home Decor", "Entrance", "Bedroom", "Living
 author: "Sun-chan"
 draft: false
 ---
----
 
 ## Introduction
 

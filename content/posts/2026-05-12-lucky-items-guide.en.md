@@ -7,7 +7,6 @@ category: "lucky-goods"
 tags: ["good luck charms", "engimono", "maneki-neko", "daruma doll", "ultimate guide"]
 draft: false
 ---
----
 
 ## Introduction
 

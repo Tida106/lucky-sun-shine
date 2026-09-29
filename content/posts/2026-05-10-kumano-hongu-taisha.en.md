@@ -7,7 +7,6 @@ category: "powerspots"
 tags: ["Goshuincho", "Wakayama Prefecture", "Kumano Kodo"]
 draft: false
 ---
----
 
 ## Introduction
 

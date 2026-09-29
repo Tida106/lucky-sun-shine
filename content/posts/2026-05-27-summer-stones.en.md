@@ -11,7 +11,6 @@ tags:
   - Peridot
 draft: false
 ---
----
 
 ## Introduction
 

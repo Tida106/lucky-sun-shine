@@ -8,7 +8,6 @@ tags: ["Lapis Lazuli", "Good Fortune", "Wisdom"]
 author: "Sun-chan"
 draft: false
 ---
----
 
 ## Introduction
 

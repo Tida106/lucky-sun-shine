@@ -7,7 +7,6 @@ category: "lucky-goods"
 tags: ["Omamori", "Shrine", "Lucky Charm", "Blessings"]
 draft: false
 ---
----
 
 ## Introduction
 

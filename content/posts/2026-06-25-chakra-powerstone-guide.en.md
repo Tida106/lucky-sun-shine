@@ -7,7 +7,6 @@ tags: ["power stones", "beginners", "how to choose", "meditation", "colors"]
 draft: false
 author: "Sun-chan"
 ---
----
 
 ## Introduction
 

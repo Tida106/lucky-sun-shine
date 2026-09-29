@@ -7,7 +7,6 @@ category: "powerstones"
 tags: ["Amazonite", "Hope", "Communication"]
 draft: false
 ---
----
 
 ## Introduction
 

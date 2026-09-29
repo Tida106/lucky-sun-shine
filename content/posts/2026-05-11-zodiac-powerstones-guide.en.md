@@ -6,7 +6,6 @@ category: "powerstones"
 tags: ["Clear Quartz", "12 Zodiac Signs", "Power Stones"]
 draft: false
 ---
----
 
 ## Introduction
 

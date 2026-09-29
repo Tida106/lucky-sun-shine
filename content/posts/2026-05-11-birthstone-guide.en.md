@@ -9,7 +9,6 @@ tags:
   - power stones
 draft: false
 ---
----
 
 ## Introduction
 

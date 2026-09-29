@@ -4,7 +4,6 @@ date: "2026-09-18"
 category: "powerspots"
 excerpt: "Shinto has no strict rules. Discover the gentle secrets of shrines that help you reset 'Kegare' (spiritual exhaustion) and fully recharge with nature's energy."
 ---
----
 
 You work so hard every day with your job, housework, studies, and everything else – you truly deserve a big thank you! 💙 Do you ever feel like your heart is a bit tired lately, or that you want to bring in new energy to boost your luck?
 At times like those, if you happen to walk through a shrine's torii gate, you might find your heart instantly lightens as you are enveloped in the clear, fresh air… I bet many of you have experienced something like that! ✨

@@ -7,7 +7,6 @@ tags: ["Quartz", "12 Zodiac Signs", "Guardian Stones", "Birthstones", "Quick Ref
 author: "Sun-chan"
 draft: false
 ---
----
 
 ## Introduction: A Quick Guide to Your Zodiac's Guardian Stone
 

@@ -6,7 +6,6 @@ category: "powerstones"
 tags: ["Crystal Quartz", "Bracelet", "Purification Methods", "Beginner's Guide"]
 draft: false
 ---
----
 
 ## Introduction: The Short Answer is "It's Best to Take Them Off"
 

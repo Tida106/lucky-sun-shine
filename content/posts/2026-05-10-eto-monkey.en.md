@@ -8,7 +8,6 @@ tags: ["Citrine", "Year of the Monkey", "Citrine"]
 author: "Sun-chan"
 draft: false
 ---
----
 
 ## Introduction
 

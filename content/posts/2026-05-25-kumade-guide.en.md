@@ -7,7 +7,6 @@ category: "lucky-goods"
 tags: ["Kumade", "Tori-no-ichi Market", "Lucky Charms", "Business Prosperity", "Financial Luck"]
 draft: false
 ---
----
 
 ## Introduction
 

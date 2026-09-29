@@ -8,7 +8,6 @@ tags: ["Goshuincho", "Business Prosperity", "Shrine", "Comprehensive Guide"]
 author: "Sun-chan"
 draft: false
 ---
----
 
 ## Introduction
 

@@ -12,7 +12,6 @@ tags:
   - August
 draft: false
 ---
----
 
 ## Introduction
 

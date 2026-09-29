@@ -6,7 +6,6 @@ category: "lucky-goods"
 tags: ["Power Stones", "Ritual Burning", "Lucky Charms", "Letting Go"]
 draft: false
 ---
----
 
 ## Introduction: Easing Worries About "Is it Okay to Dispose of Them? Will I Be Punished?"
 

@@ -6,7 +6,6 @@ category: "powerstones"
 tags: ["daily birthstones", "birthstones", "365 days", "guardian stones", "gifts"]
 draft: false
 ---
----
 
 "I wonder what kind of stone protects me on my birthday?"
 

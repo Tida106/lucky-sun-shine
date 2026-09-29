@@ -11,7 +11,6 @@ tags:
   - Rutilated Quartz
 draft: false
 ---
----
 
 ## Introduction
 

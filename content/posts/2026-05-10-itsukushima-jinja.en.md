@@ -7,7 +7,6 @@ category: "powerspots"
 tags: ["Aquamarine", "Hiroshima Prefecture", "Ocean"]
 draft: false
 ---
----
 
 ## Introduction
 

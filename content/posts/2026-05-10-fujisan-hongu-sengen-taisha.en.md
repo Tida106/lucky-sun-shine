@@ -7,7 +7,6 @@ category: "powerspots"
 tags: ["crystal", "Shizuoka Prefecture", "Mount Fuji", "volcano"]
 draft: false
 ---
----
 
 ## Introduction
 

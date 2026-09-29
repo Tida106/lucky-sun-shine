@@ -7,7 +7,6 @@ category: "lucky-goods"
 tags: ["power stones", "Otakiage (burning ritual)", "engimono (lucky charms)", "omamori (charms)", "Dondo-yaki (fire festival)"]
 draft: false
 ---
----
 
 ## Introduction
 

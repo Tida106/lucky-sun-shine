@@ -8,7 +8,6 @@ tags: ["Birthstone", "Topaz", "Citrine", "November"]
 author: "Sun-chan"
 draft: false
 ---
----
 
 ## Introduction
 

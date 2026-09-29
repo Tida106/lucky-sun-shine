@@ -6,7 +6,6 @@ category: "powerstones"
 tags: ["power stones", "how to choose", "colors", "feng shui", "color therapy"]
 draft: false
 ---
----
 
 ## Introduction
 

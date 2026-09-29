@@ -7,7 +7,6 @@ category: "powerstones"
 tags: ["Blue Topaz", "Communication", "Birthstone"]
 draft: false
 ---
----
 
 ## Introduction
 

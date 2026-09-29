@@ -7,7 +7,6 @@ tags: ["Quartz", "Crystal Quartz", "Types", "Choosing Guide", "Beginner's Guide"
 cover: "/images/posts/quartz-types-guide.jpg"
 draft: false
 ---
----
 
 ## Introduction
 

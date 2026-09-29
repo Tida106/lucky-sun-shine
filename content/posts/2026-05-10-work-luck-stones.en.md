@@ -11,7 +11,6 @@ tags:
   - Recommended Stones
 draft: false
 ---
----
 
 ## Introduction
 

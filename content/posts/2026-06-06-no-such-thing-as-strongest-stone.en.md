@@ -6,7 +6,6 @@ category: "powerstones"
 tags: ["Crystal", "Essay", "Strongest", "Choosing", "Philosophy"]
 draft: false
 ---
----
 
 ## To You, Who Searched for the "Strongest Power Stone"
 

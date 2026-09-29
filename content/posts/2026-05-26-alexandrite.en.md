@@ -12,7 +12,6 @@ tags:
   - Rare Gemstone
 draft: false
 ---
----
 
 ## Introduction
 

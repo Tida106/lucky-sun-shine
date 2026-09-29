@@ -11,7 +11,6 @@ tags:
   - Communication
 draft: false
 ---
----
 
 ## Introduction
 

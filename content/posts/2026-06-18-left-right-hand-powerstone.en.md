@@ -6,7 +6,6 @@ category: "powerstones"
 tags: ["power stones", "how to wear", "bracelet", "beginner"]
 draft: false
 ---
----
 
 ## Introduction
 
