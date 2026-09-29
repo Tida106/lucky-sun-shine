@@ -167,7 +167,7 @@ export default function EnHomePage() {
             <span className="inline-flex items-center justify-center gap-3 md:gap-5">
               <SunOrnament className="hidden md:inline-block w-6 h-6 text-amber-500 opacity-70 shrink-0" strokeWidth={1.1} />
               <span>
-                Brighten your days<br className="md:hidden" />
+                Brighten your days <br className="md:hidden" />
                 like the sun.
               </span>
               <SunOrnament className="hidden md:inline-block w-6 h-6 text-amber-500 opacity-70 shrink-0" strokeWidth={1.1} />
