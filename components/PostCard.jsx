@@ -1,4 +1,4 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import { getCategory } from '@/lib/categories';
 import ArticleCover from './ArticleCover';
 
@@ -10,11 +10,11 @@ function formatDate(iso) {
 export default function PostCard({ post, locale = 'ja' }) {
   const cat = getCategory(post.category);
   
-  // localeが 'en' なら /en/blog/〜 に、それ以外なら /blog/〜 にリンク先を切り替え
+  // 英語(en)なら /en/blog/ に、日本語なら /blog/ にリンク先を切り替え
   const isEn = locale === 'en';
   const postUrl = isEn ? `/en/blog/${post.slug}/` : `/blog/${post.slug}/`;
   
-  // カテゴリ表示も、英語の場合は post.category（'powerspots' などの英語キー）をそのまま表示
+  // カテゴリ表示も、英語の場合は post.category（'powerspots' など）をそのまま表示
   const catName = isEn ? post.category : (cat?.title || post.category);
 
   return (
