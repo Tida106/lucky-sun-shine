@@ -7,7 +7,6 @@ function formatDate(iso) {
   return `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
 }
 
-// localeを受け取れるようにし、初期値を 'ja' に設定
 export default function PostCard({ post, locale = 'ja' }) {
   const cat = getCategory(post.category);
   
