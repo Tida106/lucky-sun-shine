@@ -1,16 +1,27 @@
-import Link from 'next/link';
+import fs from "fs";
+
+// 1. クラッシュの原因「見えない文字(BOM)」を削除
+const pageFile = "app/en/page.jsx";
+if (fs.existsSync(pageFile)) {
+    let text = fs.readFileSync(pageFile, "utf8");
+    if (text.charCodeAt(0) === 0xFEFF) text = text.substring(1);
+    fs.writeFileSync(pageFile, text, "utf8");
+}
+
+// 2. PostCard.jsx をBOMなしでクリーンに上書き
+const postCardCode = `import Link from 'next/link';
 import { getCategory } from '@/lib/categories';
 import ArticleCover from './ArticleCover';
 
 function formatDate(iso) {
   const d = new Date(iso);
-  return `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+  return \`\${d.getFullYear()}.\${String(d.getMonth() + 1).padStart(2, '0')}.\${String(d.getDate()).padStart(2, '0')}\`;
 }
 
 export default function PostCard({ post, locale = 'ja' }) {
   const cat = getCategory(post.category);
   const isEn = locale === 'en';
-  const postUrl = isEn ? `/en/blog/${post.slug}/` : `/blog/${post.slug}/`;
+  const postUrl = isEn ? \`/en/blog/\${post.slug}/\` : \`/blog/\${post.slug}/\`;
   const catName = isEn ? post.category : (cat?.title || post.category);
 
   return (
@@ -23,7 +34,7 @@ export default function PostCard({ post, locale = 'ja' }) {
         </div>
         <div className="p-6">
           <div className="flex items-center gap-2 text-xs mb-2">
-            <span className={`px-2 py-0.5 rounded-full font-medium ${cat?.pastel ? `${cat.pastel.accentBg} ${cat.pastel.accent}` : 'bg-amber-100 text-amber-700'}`}>
+            <span className={\`px-2 py-0.5 rounded-full font-medium \${cat?.pastel ? \`\${cat.pastel.accentBg} \${cat.pastel.accent}\` : 'bg-amber-100 text-amber-700'}\`}>
               {catName}
             </span>
             <time dateTime={post.date} className="text-ink-500">{formatDate(post.date)}</time>
@@ -47,4 +58,7 @@ export default function PostCard({ post, locale = 'ja' }) {
       </Link>
     </article>
   );
-}
+}`;
+
+fs.writeFileSync("components/PostCard.jsx", postCardCode, "utf8");
+console.log("✨ ゴミ文字を削除し、PostCardをクリーンに更新しました！");
