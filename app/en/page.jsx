@@ -483,7 +483,7 @@ export default function EnHomePage() {
             <>
               <div className="grid gap-5 sm:grid-cols-2">
                 {latest.map((p) => (
-                  <PostCard key={p.slug} post={p} />
+                  <PostCard locale="en" key={p.slug} post={p} />
                 ))}
               </div>
               <div className="mt-8 text-center">
@@ -635,7 +635,7 @@ export default function EnHomePage() {
         ) : (
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {featured.slice(0, 6).map((p) => (
-              <PostCard key={p.slug} post={p} />
+              <PostCard locale="en" key={p.slug} post={p} />
             ))}
           </div>
         )}
