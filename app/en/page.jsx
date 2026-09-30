@@ -1,4 +1,4 @@
-import ReactDOM from 'react-dom';
+﻿import ReactDOM from 'react-dom';
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { mainCategories as categories } from '@/lib/categories';
@@ -20,48 +20,48 @@ export const metadata = {
     'Discover the latest info on power stones, power spots, lucky items, and habits to boost your fortune. Start your lucky action today!',
 };
 
-// カテゴリ名の英語変換用辞書
+// 繧ｫ繝・ざ繝ｪ蜷阪・闍ｱ隱槫､画鋤逕ｨ霎樊嶌
 const categoryEnMap = {
-  'パワーストーン': { title: 'Power Stones', tagline: 'A complete guide to stones and their meanings.' },
-  'パワースポット': { title: 'Power Spots', tagline: 'Sacred places filled with nature\'s energy.' },
-  '開運グッズ': { title: 'Lucky Items', tagline: 'Everyday items to invite good fortune.' },
-  '運気アップ習慣': { title: 'Good Luck Habits', tagline: 'Small daily routines to brighten your life.' },
+  '繝代Ρ繝ｼ繧ｹ繝医・繝ｳ': { title: 'Power Stones', tagline: 'A complete guide to stones and their meanings.' },
+  '繝代Ρ繝ｼ繧ｹ繝昴ャ繝・: { title: 'Power Spots', tagline: 'Sacred places filled with nature\'s energy.' },
+  '髢矩°繧ｰ繝・ぜ': { title: 'Lucky Items', tagline: 'Everyday items to invite good fortune.' },
+  '驕区ｰ励い繝・・鄙呈・': { title: 'Good Luck Habits', tagline: 'Small daily routines to brighten your life.' },
 };
 
 const WORRY_PICKS = [
   {
     slug: 'powerstone-broken-meaning',
-    emoji: '💔',
+    emoji: '樗',
     headline: 'My stone broke...',
     body: 'Is it taking the fall for me? Understand the meaning and your next steps.',
   },
   {
     slug: 'bad-combination-stones',
-    emoji: '⚠️',
+    emoji: '笞・・,
     headline: 'Bad combinations?',
     body: 'The truth about stones that supposedly don\'t mix well together.',
   },
   {
     slug: 'fake-stone-identification',
-    emoji: '🔍',
+    emoji: '剥',
     headline: 'How to spot fakes',
     body: 'Imitations, treatments, and synthetics: A beginner\'s guide to identifying stones.',
   },
   {
     slug: 'left-right-hand-powerstone',
-    emoji: '🤲',
+    emoji: '､ｲ',
     headline: 'Left or right hand?',
     body: 'Does the meaning change? How to choose which wrist to wear your bracelet on.',
   },
 ];
 
 const PURPOSE_PICKS = [
-  { slug: 'purpose-money-stones',      label: 'Wealth',       emoji: '💰', tone: 'from-amber-50 via-yellow-50 to-orange-50',   accent: 'text-amber-700',  border: 'border-amber-300'   },
-  { slug: 'purpose-love-stones',       label: 'Love',         emoji: '💗', tone: 'from-rose-50 via-pink-50 to-amber-50',      accent: 'text-rose-600',   border: 'border-rose-300'    },
-  { slug: 'purpose-work-stones',       label: 'Career',       emoji: '💼', tone: 'from-sky-50 via-indigo-50 to-amber-50',      accent: 'text-sky-700',    border: 'border-sky-300'     },
-  { slug: 'purpose-health-stones',     label: 'Health',       emoji: '🌿', tone: 'from-emerald-50 via-lime-50 to-amber-50',    accent: 'text-emerald-700', border: 'border-emerald-300' },
-  { slug: 'purpose-relation-stones',   label: 'Relations',    emoji: '🤝', tone: 'from-orange-50 via-amber-50 to-yellow-50',   accent: 'text-orange-700',  border: 'border-orange-300'  },
-  { slug: 'purpose-protection-stones', label: 'Protection',   emoji: '🛡️', tone: 'from-violet-50 via-purple-50 to-amber-50',   accent: 'text-violet-700',  border: 'border-violet-300'  },
+  { slug: 'purpose-money-stones',      label: 'Wealth',       emoji: '腸', tone: 'from-amber-50 via-yellow-50 to-orange-50',   accent: 'text-amber-700',  border: 'border-amber-300'   },
+  { slug: 'purpose-love-stones',       label: 'Love',         emoji: '苧', tone: 'from-rose-50 via-pink-50 to-amber-50',      accent: 'text-rose-600',   border: 'border-rose-300'    },
+  { slug: 'purpose-work-stones',       label: 'Career',       emoji: '直', tone: 'from-sky-50 via-indigo-50 to-amber-50',      accent: 'text-sky-700',    border: 'border-sky-300'     },
+  { slug: 'purpose-health-stones',     label: 'Health',       emoji: '諺', tone: 'from-emerald-50 via-lime-50 to-amber-50',    accent: 'text-emerald-700', border: 'border-emerald-300' },
+  { slug: 'purpose-relation-stones',   label: 'Relations',    emoji: '､・, tone: 'from-orange-50 via-amber-50 to-yellow-50',   accent: 'text-orange-700',  border: 'border-orange-300'  },
+  { slug: 'purpose-protection-stones', label: 'Protection',   emoji: '孱・・, tone: 'from-violet-50 via-purple-50 to-amber-50',   accent: 'text-violet-700',  border: 'border-violet-300'  },
 ];
 
 const FENGSHUI_PICKS = [
@@ -127,7 +127,7 @@ export default function EnHomePage() {
   ReactDOM.preload('/images/hero-crystals-960.webp', { as: 'image', fetchPriority: 'high', media: '(min-width: 641px) and (max-width: 960px)' });
   ReactDOM.preload('/images/hero-crystals.webp',     { as: 'image', fetchPriority: 'high', media: '(min-width: 961px)' });
 
-  // 英語ロケールを指定して記事を取得
+  // 闍ｱ隱槭Ο繧ｱ繝ｼ繝ｫ繧呈欠螳壹＠縺ｦ險倅ｺ九ｒ蜿門ｾ・
   const posts = getAllPosts('en');
   const latest = posts.slice(0, 10);
   const featured = FEATURED_SLUGS
@@ -187,7 +187,7 @@ export default function EnHomePage() {
             </div>
           </div>
           <div className="mt-6 flex justify-center">
-            <SunSpeechBubble>Welcome☀️ I've been waiting for you!</SunSpeechBubble>
+            <SunSpeechBubble>Welcome笘・・I've been waiting for you!</SunSpeechBubble>
           </div>
           <p className="mt-6 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
             Power stones, power spots, lucky items, and good luck habits.<br />
@@ -233,15 +233,15 @@ export default function EnHomePage() {
         <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-1 shadow-sm hover:shadow-md transition-all duration-300">
           <div className="block rounded-xl bg-white/95 px-5 py-16 md:py-20 md:px-10 text-center backdrop-blur-sm">
             <span className="inline-block rounded-full bg-[#06C755] px-4 py-1.5 text-xs font-bold tracking-wider text-white mb-8 shadow-sm">
-              ✨ NEW RELEASE ✨
+              笨ｨ NEW RELEASE 笨ｨ
             </span>
             <h2 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-amber-500 drop-shadow-sm mb-8 leading-snug">
               Out Now! LINE Stickers featuring<br className="sm:hidden" /> "Sun-chan", the lucky angel!
             </h2>
             <p className="text-sm md:text-base font-medium text-ink-600 mb-10 leading-relaxed max-w-2xl mx-auto">
               Thank you for always visiting "Lucky Sun Shine"!<br />
-              Our adorable mascot, "Sun-chan", is now available as LINE stickers for your daily chats☀️<br />
-              Filled with happy and positive energy like "GOOD MORNING!", "THANK YOU!", and "CHEER UP!"✨<br />
+              Our adorable mascot, "Sun-chan", is now available as LINE stickers for your daily chats笘・・br />
+              Filled with happy and positive energy like "GOOD MORNING!", "THANK YOU!", and "CHEER UP!"笨ｨ<br />
               <span className="inline-block mt-5 font-bold text-amber-600">
                 Send them to your friends and family to boost everyone's luck!
               </span>
@@ -252,7 +252,7 @@ export default function EnHomePage() {
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-base md:text-lg py-4 px-12 rounded-full shadow-md hover:bg-green-600 hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1"
             >
-              👉 Check it out on LINE STORE!
+              痩 Check it out on LINE STORE!
             </a>
           </div>
         </div>
@@ -261,11 +261,11 @@ export default function EnHomePage() {
       {/* Trending */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-8 md:py-12">
         <div className="flex justify-center mb-4">
-          <SunSpeechBubble>Here's what everyone is reading!🔥</SunSpeechBubble>
+          <SunSpeechBubble>Here's what everyone is reading!櫨</SunSpeechBubble>
         </div>
         <div className="text-center mb-8">
           <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
-            🔥 This Week's Trending
+            櫨 This Week's Trending
           </h2>
           <p className="mt-3 text-sm md:text-base text-ink-700">
             The top 5 most accessed articles on Lucky Sun Shine this week!
@@ -273,7 +273,7 @@ export default function EnHomePage() {
         </div>
         <div className="grid gap-4 md:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
           <Link href="/en/blog/birthday-stone-365" className="group block rounded-2xl border-2 border-amber-400 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🥇</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">･・/div>
             <div className="text-[11px] font-bold tracking-widest text-amber-700 mb-1">ABSOLUTE NUMBER 1!</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-amber-700 transition-colors">
               365 Days of Birthstones
@@ -284,7 +284,7 @@ export default function EnHomePage() {
           </Link>
 
           <Link href="/en/blog/bad-combination-stones" className="group block rounded-2xl border-2 border-slate-300 bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🥈</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">･・/div>
             <div className="text-[11px] font-bold tracking-widest text-slate-600 mb-1">TRENDING UP!</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-slate-700 transition-colors">
               Bad Stone Combinations?
@@ -295,7 +295,7 @@ export default function EnHomePage() {
           </Link>
 
           <Link href="/en/blog/genkan-powerstone-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🥉</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">･・/div>
             <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">RISING FAST!</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
               Entrance Power Stones Guide
@@ -306,7 +306,7 @@ export default function EnHomePage() {
           </Link>
 
           <Link href="/en/blog/fengshui-room-stones" className="group block rounded-2xl border-2 border-emerald-300 bg-gradient-to-br from-emerald-50 via-teal-50 to-emerald-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">遵</div>
             <div className="text-[11px] font-bold tracking-widest text-emerald-700 mb-1">STEADY POPULARITY</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
               Feng Shui Stones by Room
@@ -317,7 +317,7 @@ export default function EnHomePage() {
           </Link>
 
           <Link href="/en/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-sky-300 bg-gradient-to-br from-sky-50 via-blue-50 to-sky-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">遵</div>
             <div className="text-[11px] font-bold tracking-widest text-sky-700 mb-1">PURIFICATION STAPLE</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-sky-700 transition-colors">
               Crushed Stones Guide
@@ -334,10 +334,10 @@ export default function EnHomePage() {
         <div className="rounded-2xl bg-gradient-to-r from-amber-300 via-orange-200 to-amber-300 p-1 shadow-sm hover:shadow-md transition-all">
           <Link href="/en/blog/birthday-stone-365" className="block rounded-xl bg-white/80 px-4 py-10 md:py-12 text-center backdrop-blur-sm transition-colors hover:bg-white/95 sm:px-6">
             <span className="inline-block rounded-full bg-orange-500 px-3 py-1 text-xs font-bold tracking-wider text-white mb-4">
-              🔥 Trending Now! Most Read Article
+              櫨 Trending Now! Most Read Article
             </span>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-ink-900 mb-3">
-              365 Days of Birthstones 💎
+              365 Days of Birthstones 虫
             </h2>
             <p className="text-sm md:text-base font-medium text-ink-600">
               Find your birth date's guardian stone and invite good fortune!
@@ -390,7 +390,7 @@ export default function EnHomePage() {
       {/* Troubleshooting Guides */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-16">
         <div className="mb-5">
-          <SunSpeechBubble>Let's untangle those worries☀️</SunSpeechBubble>
+          <SunSpeechBubble>Let's untangle those worries笘・・/SunSpeechBubble>
         </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
@@ -418,7 +418,7 @@ export default function EnHomePage() {
               </p>
               <span className="mt-3 inline-flex items-center gap-1 text-xs font-bold text-amber-700 group-hover:underline">
                 Read
-                <span aria-hidden="true">→</span>
+                <span aria-hidden="true">竊・/span>
               </span>
             </Link>
           ))}
@@ -428,7 +428,7 @@ export default function EnHomePage() {
       {/* Find by Purpose */}
       <ScrollReveal as="section" delay={50} className="max-w-6xl mx-auto px-4 pb-16">
         <div className="mb-5">
-          <SunSpeechBubble>Choose by the luck you want✨</SunSpeechBubble>
+          <SunSpeechBubble>Choose by the luck you want笨ｨ</SunSpeechBubble>
         </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
@@ -452,7 +452,7 @@ export default function EnHomePage() {
                 {pick.label}
               </h3>
               <span className="mt-1 block text-[10px] md:text-xs text-ink-500 group-hover:underline">
-                View Stones →
+                View Stones 竊・
               </span>
             </Link>
           ))}
@@ -465,7 +465,7 @@ export default function EnHomePage() {
       <ScrollReveal as="section" delay={100} className="cv-section-lg max-w-6xl mx-auto px-4 py-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="min-w-0">
           <div className="mb-5">
-            <SunSpeechBubble>Here's what we've been gathering✨</SunSpeechBubble>
+            <SunSpeechBubble>Here's what we've been gathering笨ｨ</SunSpeechBubble>
           </div>
           <div className="flex items-end justify-between mb-8">
             <div>
@@ -483,7 +483,7 @@ export default function EnHomePage() {
             <>
               <div className="grid gap-5 sm:grid-cols-2">
                 {latest.map((p) => (
-                  <PostCard key={p.slug} post={p} />
+                  <PostCard key={p.slug} post={p} locale="en" />
                 ))}
               </div>
               <div className="mt-8 text-center">
@@ -492,7 +492,7 @@ export default function EnHomePage() {
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-amber-500 text-white font-bold text-sm shadow-[0_4px_14px_rgba(245,158,11,0.35)] hover:bg-amber-600 hover:shadow-[0_8px_22px_rgba(245,158,11,0.45)] transition-all"
                 >
                   View all articles
-                  <span aria-hidden="true">→</span>
+                  <span aria-hidden="true">竊・/span>
                 </Link>
               </div>
             </>
@@ -506,7 +506,7 @@ export default function EnHomePage() {
       {/* Feng Shui */}
       <ScrollReveal as="section" className="cv-section max-w-6xl mx-auto px-4 pb-16">
         <div className="mb-5">
-          <SunSpeechBubble>Let's align the energy flow🌬️</SunSpeechBubble>
+          <SunSpeechBubble>Let's align the energy flow軒・・/SunSpeechBubble>
         </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
@@ -536,7 +536,7 @@ export default function EnHomePage() {
               </p>
               <span className="mt-3 inline-flex items-center gap-1 text-xs font-bold text-emerald-700 group-hover:underline">
                 Read
-                <span aria-hidden="true">→</span>
+                <span aria-hidden="true">竊・/span>
               </span>
             </Link>
           ))}
@@ -552,7 +552,7 @@ export default function EnHomePage() {
           <div className="grid gap-6 md:grid-cols-[auto_minmax(0,1fr)] items-center p-6 md:p-8">
             <div className="flex items-center justify-center">
               <div className="w-20 h-20 md:w-24 md:h-24 rounded-full bg-white/80 flex items-center justify-center shadow-inner text-4xl md:text-5xl" aria-hidden="true">
-                ☀️
+                笘・・
               </div>
             </div>
             <div>
@@ -568,7 +568,7 @@ export default function EnHomePage() {
               </p>
               <span className="mt-4 inline-flex items-center gap-1 text-sm font-bold text-sky-700 group-hover:underline">
                 Read Summer Feature
-                <span aria-hidden="true">→</span>
+                <span aria-hidden="true">竊・/span>
               </span>
             </div>
           </div>
@@ -578,7 +578,7 @@ export default function EnHomePage() {
       {/* Gift Guide */}
       <ScrollReveal as="section" className="cv-section max-w-6xl mx-auto px-4 pb-16">
         <div className="mb-5">
-          <SunSpeechBubble>Gifts for your loved ones🎁</SunSpeechBubble>
+          <SunSpeechBubble>Gifts for your loved ones氏</SunSpeechBubble>
         </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
@@ -608,7 +608,7 @@ export default function EnHomePage() {
               </p>
               <span className="mt-3 inline-flex items-center gap-1 text-xs font-bold text-rose-700 group-hover:underline">
                 Read
-                <span aria-hidden="true">→</span>
+                <span aria-hidden="true">竊・/span>
               </span>
             </Link>
           ))}
@@ -618,7 +618,7 @@ export default function EnHomePage() {
       {/* Editor's Picks */}
       <ScrollReveal as="section" delay={100} className="cv-section-lg max-w-6xl mx-auto px-4 py-16">
         <div className="mb-5">
-          <SunSpeechBubble>Highly recommended! Take a look☀️</SunSpeechBubble>
+          <SunSpeechBubble>Highly recommended! Take a look笘・・/SunSpeechBubble>
         </div>
         <div className="mb-8">
           <h2 className="font-display text-2xl font-bold text-ink-900 flex items-center gap-3">
@@ -635,7 +635,7 @@ export default function EnHomePage() {
         ) : (
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {featured.slice(0, 6).map((p) => (
-              <PostCard key={p.slug} post={p} />
+              <PostCard key={p.slug} post={p} locale="en" />
             ))}
           </div>
         )}
@@ -684,7 +684,7 @@ export default function EnHomePage() {
               </p>
               <span className="mt-4 inline-flex items-center gap-1 text-sm font-bold text-amber-700 group-hover:underline">
                 View Recommended Channels
-                <span aria-hidden="true">→</span>
+                <span aria-hidden="true">竊・/span>
               </span>
             </div>
           </div>
