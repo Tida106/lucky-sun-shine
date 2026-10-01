@@ -1,4 +1,6 @@
 ---
+---
+```yaml
 title: "Clear Quartz (Crystal): Meaning, Properties, and Benefits | The Universal Cleansing Stone and Master Healer"
 description: "A comprehensive guide to Clear Quartz (Crystal), covering its meanings, history, traditional benefits, purification mechanisms, combinations, mineralogical features, and frequently asked questions. This is your definitive guide to incorporating the 'Master Crystal,' the foundational gem of all stones, into your life."
 date: "2026-05-10"

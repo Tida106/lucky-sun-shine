@@ -1,4 +1,6 @@
 ---
+---
+```yaml
 title: The Ultimate Guide to Choosing a Wallet for Better Money Luck | Colors, Materials, Styles, and When to Replace
 description: >-
   A comprehensive guide to choosing a wallet with money luck in mind, covering colors (yellow, brown, black), materials (cowhide, snakeskin, cordovan), styles (long, bi-fold), replacement timing (Spring wallet, Autumn wallet, Tensha-nichi, Tora-no-hi), usage, storage, and lifespan.
