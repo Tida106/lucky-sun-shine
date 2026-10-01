@@ -126,7 +126,47 @@ draft: false
 
 → 詳しくは [1月の誕生石ガイド](/blog/birthstone-january/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でガーネットを探す</a>
+## <span id="january"></span>1月（1月1日〜1月31日）
+
+1月の誕生月石は **[ガーネット](/blog/garnet/)**。「真実・友愛」を象徴する深紅の石です。
+
+→ 詳しくは [1月の誕生石ガイド](/blog/birthstone-january/) へ
+
+<div id="rakuten-api-january"></div>
+<script>
+  // 1月の誕生石（ガーネット）を楽天APIで自動取得するコード
+  const appId = "【61035206-cd44-4f8d-949f-75033ef6c16d】";
+  const affId = "【5738f936.e4c3f4e3.5738f937.de258ec8】";
+  const keyword = encodeURIComponent("ガーネット 天然石"); 
+  
+  const url = `https://app.rakuten.co.jp/services/api/IchibaItem/Search/20220601?format=json&keyword=${keyword}&applicationId=${appId}&affiliateId=${affId}&hits=1&imageFlag=1`;
+
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      if (data.Items && data.Items.length > 0) {
+        const item = data.Items[0].Item;
+        const html = `
+          <div style="text-align: center; margin: 20px 0; padding: 15px; border: 1px solid #f5f5f5; border-radius: 8px;">
+            <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored">
+              <img src="${item.mediumImageUrls[0].imageUrl}" alt="${item.itemName}" style="border-radius: 8px; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+            </a>
+            <p style="margin-top: 10px;">
+              <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored" style="font-weight: bold; color: #bf0000; text-decoration: none;">
+                ▶ 楽天市場でガーネットを探す
+              </a>
+            </p>
+          </div>
+        `;
+        document.getElementById("rakuten-api-january").innerHTML = html;
+      }
+    })
+    .catch(error => console.error("楽天APIの読み込みに失敗しました:", error));
+</script>
+
+| 日付 | 誕生日石 | 石言葉 |
+|------|---------|--------|
+| 1月1日 | [ガーネット](/blog/garnet/) | 真実・友愛 |
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
