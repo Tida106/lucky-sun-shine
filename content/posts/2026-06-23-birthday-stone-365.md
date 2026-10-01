@@ -8,6 +8,8 @@ slug: "birthday-stone-365"
 draft: false
 ---
 
+import RakutenApi from '@/components/affiliate/RakutenApi'
+
 「今日はどんな日になるだろう？」
 そんなふうに自分自身を少し特別に思いたい朝や、大切な誰かに心からの贈り物を届けたいとき。私たちは、日々の生活の中で「自分だけの特別な目印」を探しています。
 
@@ -126,47 +128,7 @@ draft: false
 
 → 詳しくは [1月の誕生石ガイド](/blog/birthstone-january/) へ
 
-## <span id="january"></span>1月（1月1日〜1月31日）
-
-1月の誕生月石は **[ガーネット](/blog/garnet/)**。「真実・友愛」を象徴する深紅の石です。
-
-→ 詳しくは [1月の誕生石ガイド](/blog/birthstone-january/) へ
-
-<div id="rakuten-api-january"></div>
-<script>
-  // 1月の誕生石（ガーネット）を楽天APIで自動取得するコード
-  const appId = "【61035206-cd44-4f8d-949f-75033ef6c16d】";
-  const affId = "【5738f936.e4c3f4e3.5738f937.de258ec8】";
-  const keyword = encodeURIComponent("ガーネット 天然石"); 
-  
-  const url = `https://app.rakuten.co.jp/services/api/IchibaItem/Search/20220601?format=json&keyword=${keyword}&applicationId=${appId}&affiliateId=${affId}&hits=1&imageFlag=1`;
-
-  fetch(url)
-    .then(response => response.json())
-    .then(data => {
-      if (data.Items && data.Items.length > 0) {
-        const item = data.Items[0].Item;
-        const html = `
-          <div style="text-align: center; margin: 20px 0; padding: 15px; border: 1px solid #f5f5f5; border-radius: 8px;">
-            <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored">
-              <img src="${item.mediumImageUrls[0].imageUrl}" alt="${item.itemName}" style="border-radius: 8px; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            </a>
-            <p style="margin-top: 10px;">
-              <a href="${item.affiliateUrl}" target="_blank" rel="nofollow sponsored" style="font-weight: bold; color: #bf0000; text-decoration: none;">
-                ▶ 楽天市場でガーネットを探す
-              </a>
-            </p>
-          </div>
-        `;
-        document.getElementById("rakuten-api-january").innerHTML = html;
-      }
-    })
-    .catch(error => console.error("楽天APIの読み込みに失敗しました:", error));
-</script>
-
-| 日付 | 誕生日石 | 石言葉 |
-|------|---------|--------|
-| 1月1日 | [ガーネット](/blog/garnet/) | 真実・友愛 |
+<RakutenApi keyword="ガーネット 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -210,7 +172,7 @@ draft: false
 
 → 詳しくは [2月の誕生石ガイド](/blog/birthstone-february/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でアメジストを探す</a>
+<RakutenApi keyword="アメジスト 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -251,7 +213,7 @@ draft: false
 
 → 詳しくは [3月の誕生石ガイド](/blog/birthstone-march/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でアクアマリンを探す</a>
+<RakutenApi keyword="アクアマリン 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -295,7 +257,7 @@ draft: false
 
 → 詳しくは [4月の誕生石ガイド](/blog/birthstone-april/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でダイヤモンドを探す</a>
+<RakutenApi keyword="ダイヤモンド 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -338,7 +300,7 @@ draft: false
 
 → 詳しくは [5月の誕生石ガイド](/blog/birthstone-may/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でエメラルドを探す</a>
+<RakutenApi keyword="エメラルド 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -382,7 +344,7 @@ draft: false
 
 → 詳しくは [6月の誕生石ガイド](/blog/birthstone-june/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%BC%E3%83%AB%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でパールを探す</a>
+<RakutenApi keyword="パール 真珠 アクセサリー" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -425,7 +387,7 @@ draft: false
 
 → 詳しくは [7月の誕生石ガイド](/blog/birthstone-july/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AB%E3%83%93%E3%83%BC%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でルビーを探す</a>
+<RakutenApi keyword="ルビー 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -469,7 +431,7 @@ draft: false
 
 → 詳しくは [8月の誕生石ガイド](/blog/birthstone-august/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9A%E3%83%AA%E3%83%89%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でペリドットを探す</a>
+<RakutenApi keyword="ペリドット 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -513,7 +475,7 @@ draft: false
 
 → 詳しくは [9月の誕生石ガイド](/blog/birthstone-september/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でサファイアを探す</a>
+<RakutenApi keyword="サファイア 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -556,7 +518,7 @@ draft: false
 
 → 詳しくは [10月の誕生石ガイド](/blog/birthstone-october/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%91%E3%83%BC%E3%83%AB%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でオパールを探す</a>
+<RakutenApi keyword="オパール 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -600,7 +562,7 @@ draft: false
 
 → 詳しくは [11月の誕生石ガイド](/blog/birthstone-november/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%91%E3%83%BC%E3%82%BA%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でトパーズを探す</a>
+<RakutenApi keyword="トパーズ 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
@@ -643,7 +605,7 @@ draft: false
 
 → 詳しくは [12月の誕生石ガイド](/blog/birthstone-december/) へ
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%BC%E3%82%B3%E3%82%A4%E3%82%BA%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でターコイズを探す</a>
+<RakutenApi keyword="ターコイズ 天然石" />
 
 | 日付 | 誕生日石 | 石言葉 |
 |------|---------|--------|
