@@ -8,7 +8,7 @@ slug: "birthday-stone-365"
 draft: false
 ---
 
-import RakutenApi from '@/components/affiliate/RakutenApi'
+
 
 「今日はどんな日になるだろう？」
 そんなふうに自分自身を少し特別に思いたい朝や、大切な誰かに心からの贈り物を届けたいとき。私たちは、日々の生活の中で「自分だけの特別な目印」を探しています。

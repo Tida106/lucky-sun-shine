@@ -6,7 +6,6 @@ export default async function RakutenApi({ keyword }) {
   const url = `https://app.rakuten.co.jp/services/api/IchibaItem/Search/20220601?format=json&keyword=${encodeURIComponent(keyword)}&applicationId=${appId}&affiliateId=${affId}&hits=1&imageFlag=1`;
 
   try {
-    // キャッシュのせいで古いエラーが残るのを防ぐ
     const res = await fetch(url, { cache: 'no-store' });
     const data = await res.json();
 
@@ -22,20 +21,10 @@ export default async function RakutenApi({ keyword }) {
           afb={affId}
         />
       );
-    } else {
-      // データがない場合、透明にせずエラーの理由を画面に出力する
-      return (
-        <div className="my-4 p-4 border border-red-300 bg-red-50 text-red-700 text-sm rounded">
-          <strong>【楽天API 取得エラー】</strong><br />
-          レスポンス内容: {JSON.stringify(data)}
-        </div>
-      );
     }
   } catch (error) {
-    return (
-      <div className="my-4 p-4 border border-red-300 bg-red-50 text-red-700 text-sm rounded">
-        <strong>【通信エラー】</strong> {error.message}
-      </div>
-    );
+    console.error("Rakuten API Error:", error);
   }
+
+  return null;
 }
