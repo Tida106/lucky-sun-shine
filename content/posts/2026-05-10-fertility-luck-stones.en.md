@@ -1,6 +1,4 @@
 ---
----
-```yaml
 title: Power Stones for Fertility and Safe Childbirth | Complete Guide to Meanings, Effects, and Combinations
 description: >-
   A comprehensive guide to power stones for those wishing for fertility and a safe childbirth. Covers the meanings and effects of Moonstone, Unakite, Chrysocolla, Rose Quartz, Malachite, and more, along with how to choose and combine them during fertility treatment, pregnancy, and postpartum, how to wear them around the abdomen, and FAQs.
