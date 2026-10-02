@@ -1,6 +1,4 @@
 ---
----
-```yaml
 title: "Libra's Zodiac and Power Stones: Personality, Fortune, and a Rose Quartz-Focused Selection Guide"
 description: >-
   A comprehensive guide to recommended power stones that support the personality

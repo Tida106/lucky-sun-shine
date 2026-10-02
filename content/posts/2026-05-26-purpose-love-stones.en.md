@@ -1,6 +1,4 @@
 ---
----
-```yaml
 title: Top 9 Popular Power Stones for Boosting Love Luck | Classic Meanings, Stone Lore, Effects, and How to Choose
 description: Discover the top 9 classic power stones for enhancing your love life. This article serves as a hub, introducing you to each stone and linking to individual pages for detailed explanations.
 date: '2026-05-26'
@@ -55,7 +53,7 @@ From a color psychology perspective, **pink is said to regulate the parasympathe
 
 ## <span id="table"></span>Quick Guide: Top 9 Popular Stones for Love Luck
 
-| Stone | Keywords | Price Range (目安�E1倁E |
+| Stone | Keywords | Price Range (目安�E1倁E |
 |---|---|---|
 | **Rose Quartz** | Classic of love and kindness, self-love | ¥500〜¥5,000 |
 | **Inca Rose** (Rhodochrosite) | Rose-colored life, passionate love | ¥1,000〜¥30,000 |
@@ -257,7 +255,7 @@ However, after hearing countless customer stories like, "**After buying Rose Qua
 
 Love luck stones are not **"magic charms."** But, **looking at the Rose Quartz on your chest in the morning and feeling "I'll cherish myself today"  Esuch small mental rituals gradually change your behavior.** That, I still believe, is the healthiest way to engage with love luck stones.
 
-### A Message from Sun-chan ☀�E�E
+### A Message from Sun-chan ☀�E�E
 
 Thanks for reading the summary of love luck stones, my dear! 💗
 
@@ -285,4 +283,4 @@ Rose Quartz's gentle pink, Inca Rose's passion, Moonstone's moonlight, Pearl's p
 - The effects of power stones are **cultural and symbolic**, and do not guarantee romantic success, reconciliation, marriage, or new encounters.
 - **"Stones are symbols of action"**  Ethe original way to engage with them is to let the charm be a catalyst for changing your own actions.
 
-For detailed explanations of each stone, please visit their **individual pages**. You're sure to find the perfect stone for you! ☀�E
+For detailed explanations of each stone, please visit their **individual pages**. You're sure to find the perfect stone for you! ☀�E

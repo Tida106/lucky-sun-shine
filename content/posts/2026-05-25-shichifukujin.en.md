@@ -1,6 +1,4 @@
 ---
----
-```yaml
 title: "Seven Lucky Gods: The Seven Deities, Their Blessings, and a Complete Guide to Pilgrimages"
 description: "A comprehensive guide to the Seven Lucky Gods (Ebisu, Daikokuten, Bishamonten, Benzaiten, Fukurokuju, Jurojin, and Hotei), explaining their meanings and blessings. Learn how to embark on a Seven Lucky Gods pilgrimage, discover famous routes, collect Goshuin and shikishi, choose and display statues, and find answers to common questions."
 date: '2026-05-25'
@@ -14,7 +12,7 @@ draft: false
 
 "Who exactly are the Seven Lucky Gods, and what blessings do they offer?" "How do I even go about a Seven Lucky Gods pilgrimage?" "If I'm displaying statues, what's the right order?" Even though many have heard the name "Seven Lucky Gods," surprisingly few can accurately explain the background and specific blessings of each of the seven deities.
 
-> **Sun-chan☀�E�E* "The Seven Lucky Gods are a truly unique 'multi-religious collaboration' from Japan, India, and China, all gathered on one treasure ship! 💛 Knowing their origins and blessings will make your New Year's shrine and temple visits ten times more fun! 🌼"
+> **Sun-chan☀�E�E* "The Seven Lucky Gods are a truly unique 'multi-religious collaboration' from Japan, India, and China, all gathered on one treasure ship! 💛 Knowing their origins and blessings will make your New Year's shrine and temple visits ten times more fun! 🌼"
 
 This article brings together everything you need to know: the origins of the Seven Lucky Gods, each deity's background and blessings, how to do a Seven Lucky Gods pilgrimage, famous routes, how to collect Goshuin (shrine and temple seals), how to choose and display statues, and a comprehensive FAQ. By the time you finish reading, you'll be ready to "start your own Seven Lucky Gods pilgrimage, focusing on the deities that align with your wishes."
 
@@ -127,7 +125,7 @@ A **Seven Lucky Gods pilgrimage** is a traditional Japanese pilgrimage where you
 
 ### Blessings of a Seven Lucky Gods Pilgrimage
 
-It is believed that by visiting all seven deities, one will experience "**Shichinan Sokumetsu, Shichifuku SokushŁE*" (丁E��即滁E�E丁E��即甁E  Emeaning seven misfortunes will vanish, and seven fortunes will arise.
+It is believed that by visiting all seven deities, one will experience "**Shichinan Sokumetsu, Shichifuku SokushŁE*" (丁E��即滁E�E丁E��即甁E  Emeaning seven misfortunes will vanish, and seven fortunes will arise.
 
 ### Basic Steps for Pilgrimage
 
@@ -320,7 +318,7 @@ Spend the most time with your main deity, clearly conveying your wish. For the o
 -   Display them **above eye level, facing East or South**; avoid toilets or directly on the floor.
 -   "**Shichinan Sokumetsu, Shichifuku SokushŁE*"  Evisiting seven shrines and temples invites seven fortunes.
 
-> **Sun-chan☀�E�E* "The Seven Lucky Gods are **seven deities who generously accept that 'human wishes aren't just one thing'!** 💛 Each deity has different blessings, but when they're all together, it feels so reassuring to know that 'all kinds of good fortune will come'! 🌼 Why not take a day during the New Year to slowly visit them all? ☀�E�E
+> **Sun-chan☀�E�E* "The Seven Lucky Gods are **seven deities who generously accept that 'human wishes aren't just one thing'!** 💛 Each deity has different blessings, but when they're all together, it feels so reassuring to know that 'all kinds of good fortune will come'! 🌼 Why not take a day during the New Year to slowly visit them all? ☀�E�E
 
 ### Related Articles You Might Want to Read
 
