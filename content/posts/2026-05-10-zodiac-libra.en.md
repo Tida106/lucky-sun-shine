@@ -79,11 +79,11 @@ For more details, check out [The Meaning, Stone Language, and Effects of Rose Qu
 
 Here are some common challenges Libras face and how to use the corresponding stones:
 
--   **"Struggling with choices"** → Use Ametrine to balance dualistic options.
--   **"Afraid of conflict and can't speak your mind"** → Aquamarine helps you speak with integrity.
--   **"Feeling exhausted from people-pleasing"** → Replenish self-love with Rose Quartz.
--   **"Spending too much on beautiful things"** → Rose Quartz and Citrine together help you refine your "value judgment."
--   **"Wanting to express creativity"** → Opal sparks iridescent inspiration.
+-   **"Struggling with choices"** ↁEUse Ametrine to balance dualistic options.
+-   **"Afraid of conflict and can't speak your mind"** ↁEAquamarine helps you speak with integrity.
+-   **"Feeling exhausted from people-pleasing"** ↁEReplenish self-love with Rose Quartz.
+-   **"Spending too much on beautiful things"** ↁERose Quartz and Citrine together help you refine your "value judgment."
+-   **"Wanting to express creativity"** ↁEOpal sparks iridescent inspiration.
 
 ## Compatible Stone Combinations
 
@@ -131,7 +131,7 @@ A. It's actually a **"virtue of seeking fairness."** We recommend a combination 
 
 **Q3. Which stone is best for a gift?**
 
-A. For **Libras born in September or October**, a **Rose Quartz pendant** (3,000–15,000 JPY) is a classic choice. **Matching jewelry** for a partner, or an **Opal ring** (which is also an October birthstone) would also be delightful.
+A. For **Libras born in September or October**, a **Rose Quartz pendant** (3,000 E5,000 JPY) is a classic choice. **Matching jewelry** for a partner, or an **Opal ring** (which is also an October birthstone) would also be delightful.
 
 **Q4. Do Libras get easily exhausted by relationships?**
 
@@ -143,11 +143,11 @@ A. Generally, fellow Air signs like **Gemini and Aquarius**, and Fire signs like
 
 ## You might also like these related articles:
 
--   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — A comparison and quick reference for all 12 zodiac signs.
--   [Virgo Power Stones](/blog/zodiac-virgo/) — The previous sign.
--   [Scorpio Power Stones](/blog/zodiac-scorpio/) — The next sign.
--   [The Meaning, Stone Language, and Effects of Rose Quartz](/blog/rose-quartz-meaning/) — Detailed explanation of the main stone.
--   [October Birthstones: Opal and Rose Quartz](/blog/birthstone-october/) — For Libras born in October.
+-   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/)  EA comparison and quick reference for all 12 zodiac signs.
+-   [Virgo Power Stones](/blog/zodiac-virgo/)  EThe previous sign.
+-   [Scorpio Power Stones](/blog/zodiac-scorpio/)  EThe next sign.
+-   [The Meaning, Stone Language, and Effects of Rose Quartz](/blog/rose-quartz-meaning/)  EDetailed explanation of the main stone.
+-   [October Birthstones: Opal and Rose Quartz](/blog/birthstone-october/)  EFor Libras born in October.
 
 ## Summary
 

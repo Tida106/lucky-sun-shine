@@ -3,7 +3,7 @@
 ```yaml
 title: "Seven Lucky Gods: The Seven Deities, Their Blessings, and a Complete Guide to Pilgrimages"
 description: "A comprehensive guide to the Seven Lucky Gods (Ebisu, Daikokuten, Bishamonten, Benzaiten, Fukurokuju, Jurojin, and Hotei), explaining their meanings and blessings. Learn how to embark on a Seven Lucky Gods pilgrimage, discover famous routes, collect Goshuin and shikishi, choose and display statues, and find answers to common questions."
-date: "2026-05-25"
+date: '2026-05-25'
 updated: "2026-05-25"
 category: "lucky-goods"
 tags: ["Seven Lucky Gods", "Lucky Charms", "Goshuin (Shrine and Temple Seals)", "Seven Lucky Gods Pilgrimage"]
@@ -14,7 +14,7 @@ draft: false
 
 "Who exactly are the Seven Lucky Gods, and what blessings do they offer?" "How do I even go about a Seven Lucky Gods pilgrimage?" "If I'm displaying statues, what's the right order?" Even though many have heard the name "Seven Lucky Gods," surprisingly few can accurately explain the background and specific blessings of each of the seven deities.
 
-> **Sun-chan☀️** "The Seven Lucky Gods are a truly unique 'multi-religious collaboration' from Japan, India, and China, all gathered on one treasure ship! 💛 Knowing their origins and blessings will make your New Year's shrine and temple visits ten times more fun! 🌼"
+> **Sun-chan☀�E�E* "The Seven Lucky Gods are a truly unique 'multi-religious collaboration' from Japan, India, and China, all gathered on one treasure ship! 💛 Knowing their origins and blessings will make your New Year's shrine and temple visits ten times more fun! 🌼"
 
 This article brings together everything you need to know: the origins of the Seven Lucky Gods, each deity's background and blessings, how to do a Seven Lucky Gods pilgrimage, famous routes, how to collect Goshuin (shrine and temple seals), how to choose and display statues, and a comprehensive FAQ. By the time you finish reading, you'll be ready to "start your own Seven Lucky Gods pilgrimage, focusing on the deities that align with your wishes."
 
@@ -27,9 +27,9 @@ The Seven Lucky Gods (Shichifukujin) are a collective term for seven deities bel
 | Deity | Origin Country | Original Religion |
 |---|---|---|
 | Ebisu | **Japan** | Shinto (believed to be the child of Izanagi and Izanami) |
-| Daikokuten | **India** | Hinduism (incarnation of Shiva) → Buddhism |
+| Daikokuten | **India** | Hinduism (incarnation of Shiva) ↁEBuddhism |
 | Bishamonten | **India** | Buddhism (Northern Guardian of the Four Heavenly Kings) |
-| Benzaiten | **India** | Hinduism (Saraswati) → Buddhism |
+| Benzaiten | **India** | Hinduism (Saraswati) ↁEBuddhism |
 | Fukurokuju | **China** | Taoism (incarnation of the South Pole Star) |
 | Jurojin | **China** | Taoism (Old Man of the South Pole Star) |
 | Hotei | **China** | Zen Buddhism (a real Zen monk, Qici/Keishi) |
@@ -86,7 +86,7 @@ Famous for being worshipped by **Sengoku period warlord Kenshin Uesugi**. As the
 
 The **only goddess among the Seven Lucky Gods**. As the deity of arts and music, she is popular among **entertainers, artists, and students preparing for exams**. The Three Great Benzaiten shrines in Japan are **Enoshima Shrine, Itsukushima Shrine, and Chikubu Island Shrine**.
 
-→ For a guide to visiting Enoshima Shrine, refer to [Enoshima Shrine Pilgrimage Guide](/blog/enoshima-jinja/). For Itsukushima Shrine, refer to [Itsukushima Shrine Pilgrimage Guide](/blog/itsukushima-jinja/).
+ↁEFor a guide to visiting Enoshima Shrine, refer to [Enoshima Shrine Pilgrimage Guide](/blog/enoshima-jinja/). For Itsukushima Shrine, refer to [Itsukushima Shrine Pilgrimage Guide](/blog/itsukushima-jinja/).
 
 ### ⑤ Fukurokuju
 
@@ -127,14 +127,14 @@ A **Seven Lucky Gods pilgrimage** is a traditional Japanese pilgrimage where you
 
 ### Blessings of a Seven Lucky Gods Pilgrimage
 
-It is believed that by visiting all seven deities, one will experience "**Shichinan Sokumetsu, Shichifuku Sokushō**" (七難即滅・七福即生) — meaning seven misfortunes will vanish, and seven fortunes will arise.
+It is believed that by visiting all seven deities, one will experience "**Shichinan Sokumetsu, Shichifuku SokushŁE*" (丁E��即滁E�E丁E��即甁E  Emeaning seven misfortunes will vanish, and seven fortunes will arise.
 
 ### Basic Steps for Pilgrimage
 
 1.  **Decide on a course** (refer to famous routes below).
 2.  **Receive a dedicated "shikishi" (colored paper board) or "Goshuincho" (Goshuin ledger)** at the first shrine or temple.
-3.  **Visit each shrine or temple → Offer prayers and receive a Goshuin or a Seven Lucky Gods stamp.**
-4.  **Complete the pilgrimage by visiting all seven shrines/temples → Display the completed shikishi/Goshuincho for one year.**
+3.  **Visit each shrine or temple ↁEOffer prayers and receive a Goshuin or a Seven Lucky Gods stamp.**
+4.  **Complete the pilgrimage by visiting all seven shrines/temples ↁEDisplay the completed shikishi/Goshuincho for one year.**
 5.  **Embark on the pilgrimage again in the following New Year.**
 
 ### Estimated Time and Cost
@@ -180,7 +180,7 @@ Some regions offer unique collection methods, such as **"stamping the Seven Luck
 -   **Wait quietly** while the Goshuin is being written.
 -   **A Hatsuhoryo (offering fee) of ¥300 is common** (some regions or establishments may charge ¥500).
 -   **Prepare small change** to avoid needing change.
--   **Do not treat it like a stamp rally** — regard it as a sacred seal.
+-   **Do not treat it like a stamp rally**  Eregard it as a sacred seal.
 
 For detailed Goshuin etiquette, refer to the [Complete Guide to Basic Shrine Visits](/blog/shrine-visit-basics/).
 
@@ -201,11 +201,11 @@ For those who cannot embark on a Seven Lucky Gods pilgrimage or wish to have the
 
 ### The Correct Way to Display
 
--   **Slightly above eye level** — out of respect for the deities.
--   **Facing East or South** — directions believed to attract positive energy (yang qi).
--   **Entryway, tokonoma (alcove), or living room** — places visible to the family.
--   **There is no strict rule for the order of the seven deities** — many households place Daikokuten or Ebisu in the center.
--   **A treasure ship should face East or South** — the direction that invites fortune.
+-   **Slightly above eye level**  Eout of respect for the deities.
+-   **Facing East or South**  Edirections believed to attract positive energy (yang qi).
+-   **Entryway, tokonoma (alcove), or living room**  Eplaces visible to the family.
+-   **There is no strict rule for the order of the seven deities**  Emany households place Daikokuten or Ebisu in the center.
+-   **A treasure ship should face East or South**  Ethe direction that invites fortune.
 
 ### Places Not to Display
 
@@ -245,21 +245,21 @@ Searching with "**Place Name + Seven Lucky Gods**" (e.g., Kutani Ware, Imari War
 
 ## How to Choose Without Fail and What to Avoid
 
-### ✅ Checklist When Choosing
+### ✁EChecklist When Choosing
 
-1.  **Confirm all seven deities are present** — if one is missing, the meaning is halved.
-2.  **Facial expressions and balance** — there are individual differences. Choose **calm and serene expressions**.
-3.  **Size** — be careful not to choose something too large or too small for the display space.
-4.  **Material** — ceramics are fragile, metal is heavy, wood carvings change over time.
-5.  **Box and accessories** — for gifts, a paulownia wood box elevates the presentation.
+1.  **Confirm all seven deities are present**  Eif one is missing, the meaning is halved.
+2.  **Facial expressions and balance**  Ethere are individual differences. Choose **calm and serene expressions**.
+3.  **Size**  Ebe careful not to choose something too large or too small for the display space.
+4.  **Material**  Eceramics are fragile, metal is heavy, wood carvings change over time.
+5.  **Box and accessories**  Efor gifts, a paulownia wood box elevates the presentation.
 
-### ❌ Examples of What to Avoid
+### ❁EExamples of What to Avoid
 
--   **"Buying just one deity to complete a set"** — the style might not match the existing set.
--   **Displaying multiple sets together** — can disperse energy.
--   **Displaying in toilets or wet areas** — can disrupt the flow of energy.
--   **Leaving broken or chipped items unattended** — if their role is over, they should be ritually disposed of.
--   **"Buying an expensive item just because it's lucky"** — ultimately, a price range you can comfortably maintain is the right choice.
+-   **"Buying just one deity to complete a set"**  Ethe style might not match the existing set.
+-   **Displaying multiple sets together**  Ecan disperse energy.
+-   **Displaying in toilets or wet areas**  Ecan disrupt the flow of energy.
+-   **Leaving broken or chipped items unattended**  Eif their role is over, they should be ritually disposed of.
+-   **"Buying an expensive item just because it's lucky"**  Eultimately, a price range you can comfortably maintain is the right choice.
 
 ## Frequently Asked Questions (FAQ)
 
@@ -293,8 +293,8 @@ To be frank about the Seven Lucky Gods, our editorial team believes that the **g
 
 Before embarking on your pilgrimage, try writing them down on paper:
 
-1.  **What is your most important wish right now?** → Choose one main deity.
-2.  **What is your second most important wish?** → Choose two secondary deities.
+1.  **What is your most important wish right now?** ↁEChoose one main deity.
+2.  **What is your second most important wish?** ↁEChoose two secondary deities.
 3.  **For the remaining four deities, visit them with the intention of "forming a connection."**
 
 Spend the most time with your main deity, clearly conveying your wish. For the others, a simple "thank you for your guidance" greeting is sufficient. **Just having this sense of priority will transform the quality of your visit.**
@@ -318,18 +318,18 @@ Spend the most time with your main deity, clearly conveying your wish. For the o
 -   Famous routes include: **Yanaka, Nihonbashi, Sumida River, Asakusa Meisho, Kamakura Enoshima, Miyako, and Osaka**, found nationwide.
 -   Statues in the **¥3,000 to ¥15,000** range are standard for home use, with treasure ship sets being a classic choice.
 -   Display them **above eye level, facing East or South**; avoid toilets or directly on the floor.
--   "**Shichinan Sokumetsu, Shichifuku Sokushō**" — visiting seven shrines and temples invites seven fortunes.
+-   "**Shichinan Sokumetsu, Shichifuku SokushŁE*"  Evisiting seven shrines and temples invites seven fortunes.
 
-> **Sun-chan☀️** "The Seven Lucky Gods are **seven deities who generously accept that 'human wishes aren't just one thing'!** 💛 Each deity has different blessings, but when they're all together, it feels so reassuring to know that 'all kinds of good fortune will come'! 🌼 Why not take a day during the New Year to slowly visit them all? ☀️"
+> **Sun-chan☀�E�E* "The Seven Lucky Gods are **seven deities who generously accept that 'human wishes aren't just one thing'!** 💛 Each deity has different blessings, but when they're all together, it feels so reassuring to know that 'all kinds of good fortune will come'! 🌼 Why not take a day during the New Year to slowly visit them all? ☀�E�E
 
 ### Related Articles You Might Want to Read
 
--   [Complete Guide to Choosing Lucky Items](/blog/lucky-items-guide/) — General lucky items, including the Seven Lucky Gods
--   [Kumade Guide: Origin, Tori-no-Ichi, Size, Display, and Disposal Methods](/blog/kumade-guide/) — Another representative lucky charm
--   [Maneki Neko Guide: Color, Paw Direction, Size, and Placement](/blog/maneki-neko/) — A classic for business prosperity
--   [Daruma Guide: Color, Origin, Eye-Painting Ritual, and Where to Buy](/blog/daruma-guide/) — A lucky charm for making wishes
--   [Types of Omamori and How to Choose](/blog/omamori-guide/) — Basics of charms received at shrines
--   [Complete Guide to Basic Shrine Visits](/blog/shrine-visit-basics/) — Goshuin and shrine etiquette
--   [Enoshima Shrine Pilgrimage Guide](/blog/enoshima-jinja/) — One of Japan's Three Great Benzaiten Shrines
--   [Itsukushima Shrine Pilgrimage Guide](/blog/itsukushima-jinja/) — A World Heritage Site enshrining Benzaiten
--   [Lucky Charm Disposal Methods: Complete Guide to Otakiage and Dondo-yaki](/blog/engimono-disposal/) — Proper disposal of old statues
+-   [Complete Guide to Choosing Lucky Items](/blog/lucky-items-guide/)  EGeneral lucky items, including the Seven Lucky Gods
+-   [Kumade Guide: Origin, Tori-no-Ichi, Size, Display, and Disposal Methods](/blog/kumade-guide/)  EAnother representative lucky charm
+-   [Maneki Neko Guide: Color, Paw Direction, Size, and Placement](/blog/maneki-neko/)  EA classic for business prosperity
+-   [Daruma Guide: Color, Origin, Eye-Painting Ritual, and Where to Buy](/blog/daruma-guide/)  EA lucky charm for making wishes
+-   [Types of Omamori and How to Choose](/blog/omamori-guide/)  EBasics of charms received at shrines
+-   [Complete Guide to Basic Shrine Visits](/blog/shrine-visit-basics/)  EGoshuin and shrine etiquette
+-   [Enoshima Shrine Pilgrimage Guide](/blog/enoshima-jinja/)  EOne of Japan's Three Great Benzaiten Shrines
+-   [Itsukushima Shrine Pilgrimage Guide](/blog/itsukushima-jinja/)  EA World Heritage Site enshrining Benzaiten
+-   [Lucky Charm Disposal Methods: Complete Guide to Otakiage and Dondo-yaki](/blog/engimono-disposal/)  EProper disposal of old statues
