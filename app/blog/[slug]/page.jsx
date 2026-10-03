@@ -42,7 +42,11 @@ export async function generateMetadata({ params }) {
     keywords: post.tags?.length ? post.tags.join(", ") : undefined,
     alternates: {
       canonical: `/blog/${post.slug}/`,
-      languages: { ja: `/blog/${post.slug}/`, en: `/en/blog/${post.slug}/` },
+      languages: {
+        ja: `/blog/${post.slug}/`,
+        en: `/en/blog/${post.slug}/`,
+        "x-default": `/blog/${post.slug}/`,
+      },
     },
     openGraph: {
       type: "article",

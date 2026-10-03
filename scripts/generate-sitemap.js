@@ -17,14 +17,19 @@ const CATEGORY_SLUGS = ['powerstones', 'powerspots', 'lucky-goods', 'luck-habits
 
 function loadPosts() {
   if (!fs.existsSync(POSTS_DIR)) return [];
-  return fs.readdirSync(POSTS_DIR)
-    .filter((f) => f.endsWith('.md') || f.endsWith('.mdx'))
+  const files = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith('.md') || f.endsWith('.mdx'));
+  const enFiles = new Set(files.filter((f) => /\.en\.(md|mdx)$/.test(f)));
+  return files
+    .filter((f) => !/\.en\.(md|mdx)$/.test(f))
     .map((f) => {
       const raw = fs.readFileSync(path.join(POSTS_DIR, f), 'utf8');
       const { data } = matter(raw);
-      const slug = data.slug || f.replace(/\.(md|mdx)$/, '');
+      const baseName = f.replace(/\.(md|mdx)$/, '');
+      const ext = f.match(/\.(md|mdx)$/)[0];
+      const slug = data.slug || baseName;
       const date = data.date ? new Date(data.date).toISOString() : new Date().toISOString();
-      return { slug, date, draft: Boolean(data.draft) };
+      const hasEn = enFiles.has(`${baseName}.en${ext}`);
+      return { slug, date, draft: Boolean(data.draft), hasEn };
     })
     .filter((p) => !p.draft);
 }
@@ -56,6 +61,12 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/blog/`, today, 'daily', '0.9'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/recommend-youtube/`, today, 'monthly', '0.6'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/omikuji/`, today, 'monthly', '0.7'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/credits/`, today, 'monthly', '0.3'));
+
+  // 英語版ルート — app/en/ 配下に実在するページのみ
+  entries.push(urlEntry(`${SITE_URL}${BASE}/en/`, today, 'daily', '0.9'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/en/omikuji/`, today, 'monthly', '0.6'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/en/credits/`, today, 'monthly', '0.3'));
 
   CATEGORY_SLUGS.forEach((s) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/category/${s}/`, today, 'weekly', '0.8'));
@@ -63,6 +74,12 @@ function build() {
 
   posts.forEach((p) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/blog/${p.slug}/`, p.date, 'monthly', '0.7'));
+    // .en.md 訳がある記事だけ /en/blog/ も生成される(app/en/blog/[slug]の
+    // generateStaticParamsと同じ条件)ため、存在しないEN URLをsitemapに
+    // 載せて404を誘発しないようhasEnで絞る。
+    if (p.hasEn) {
+      entries.push(urlEntry(`${SITE_URL}${BASE}/en/blog/${p.slug}/`, p.date, 'monthly', '0.6'));
+    }
   });
 
   // /tag/* — タグ部分は Unicode をそのまま URL 末尾に置けないため encodeURIComponent。
