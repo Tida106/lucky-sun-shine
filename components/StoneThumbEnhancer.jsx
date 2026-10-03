@@ -15,7 +15,6 @@ export default function StoneThumbEnhancer({ html, className }) {
   useEffect(() => {
     const container = ref.current;
     if (!container) return;
-    let cancelled = false;
 
     const links = container.querySelectorAll('table a[href^="/blog/"], table a[href^="/en/blog/"]');
     links.forEach((link) => {
@@ -31,21 +30,16 @@ export default function StoneThumbEnhancer({ html, className }) {
       icon.textContent = '💎';
       link.parentNode.insertBefore(icon, link);
 
-      getStoneThumbnailBySlug(slug).then((url) => {
-        if (cancelled || !url) return;
-        icon.textContent = '';
-        const img = document.createElement('img');
-        img.src = url;
-        img.alt = '';
-        img.loading = 'lazy';
-        img.className = 'w-full h-full object-cover';
-        icon.appendChild(img);
-      });
+      const url = getStoneThumbnailBySlug(slug);
+      if (!url) return;
+      icon.textContent = '';
+      const img = document.createElement('img');
+      img.src = url;
+      img.alt = '';
+      img.loading = 'lazy';
+      img.className = 'w-full h-full object-cover';
+      icon.appendChild(img);
     });
-
-    return () => {
-      cancelled = true;
-    };
   }, [html]);
 
   return <div ref={ref} className={className} dangerouslySetInnerHTML={{ __html: html }} />;

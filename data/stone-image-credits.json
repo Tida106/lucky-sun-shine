@@ -1,0 +1,697 @@
+{
+  "blue-topaz": {
+    "nameJa": "ブルートパーズ",
+    "nameEn": "Blue Topaz",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Blue topaz (8358129568).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "artist": "MAURO CATEB from Brazil",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Blue_topaz_(8358129568).jpg"
+  },
+  "citrine": {
+    "nameJa": "シトリン（黄水晶）",
+    "nameEn": "Citrine",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Citrine cabochon gemstone.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Gemstones",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Citrine_cabochon_gemstone.JPG"
+  },
+  "iolite": {
+    "nameJa": "アイオライト（菫青石）",
+    "nameEn": "Iolite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Cordierite cut.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Eurico Zimbres        Zimbres",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Cordierite_cut.jpg"
+  },
+  "morion": {
+    "nameJa": "モリオン（黒水晶）",
+    "nameEn": "Morion",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Quarz Morion, DaB. 2022-06.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "DaB.",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Quarz_Morion,_DaB._2022-06.jpg"
+  },
+  "smoky-quartz": {
+    "nameJa": "スモーキークォーツ（煙水晶）",
+    "nameEn": "Smoky Quartz",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Albite and smoky quartz - Minas Gerais, Brazil.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "Rock Currier",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Albite_and_smoky_quartz_-_Minas_Gerais,_Brazil.jpg"
+  },
+  "angelite": {
+    "nameJa": "アンジェライト",
+    "nameEn": "Angelite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Anhidrita.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Sarranpa",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Anhidrita.jpg"
+  },
+  "amazonite": {
+    "nameJa": "アマゾナイト",
+    "nameEn": "Amazonite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Amazonit Broken Hill,Australien.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Manfred Mader",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Amazonit_Broken_Hill,Australien.jpg"
+  },
+  "imperial-topaz": {
+    "nameJa": "インペリアルトパーズ",
+    "nameEn": "Imperial Topaz",
+    "source": "wikimedia-commons",
+    "sourceTitle": "57.06 Carats Emerald cut Imperial Topaz.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Icon Jewels",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:57.06_Carats_Emerald_cut_Imperial_Topaz.jpg"
+  },
+  "moonstone": {
+    "nameJa": "ムーンストーン",
+    "nameEn": "Moonstone",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Feldspar 10.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Géry PARENT",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Feldspar_10.jpg"
+  },
+  "onyx": {
+    "nameJa": "オニキス",
+    "nameEn": "Onyx",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Black oval onyx cabochons 2.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "artist": "W.carter",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Black_oval_onyx_cabochons_2.jpg"
+  },
+  "rhodonite": {
+    "nameJa": "ロードナイト",
+    "nameEn": "Rhodonite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "8224M-rhodonite3.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "CarlesMillan",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:8224M-rhodonite3.jpg"
+  },
+  "seraphinite": {
+    "nameJa": "セラフィナイト",
+    "nameEn": "Seraphinite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Seraphinite.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Texas Lane",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Seraphinite.jpg"
+  },
+  "lemurian-quartz": {
+    "nameJa": "レムリアンクォーツ",
+    "nameEn": "Lemurian Quartz",
+    "source": "wikimedia-commons",
+    "sourceTitle": "1140 Kremeň - Banská Štiavnica.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Mineralysk",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:1140_Kreme%C5%88_-_Bansk%C3%A1_%C5%A0tiavnica.jpg"
+  },
+  "phantom-quartz": {
+    "nameJa": "ファントムクォーツ",
+    "nameEn": "Phantom Quartz",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Chlorite phantom quartz.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Tiia Monto",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Chlorite_phantom_quartz.jpg"
+  },
+  "topaz": {
+    "nameJa": "トパーズ",
+    "nameEn": "Topaz",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Topaz-251152.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Robert M. Lavinsky",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Topaz-251152.jpg"
+  },
+  "apatite": {
+    "nameJa": "アパタイト",
+    "nameEn": "Apatite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Apatit aus Bity, Maharitra, Madagaskar.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Elena Ternovaja",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Apatit_aus_Bity,_Maharitra,_Madagaskar.jpg"
+  },
+  "unakite": {
+    "nameJa": "ユナカイト",
+    "nameEn": "Unakite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Unakite.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "User:JohnArmagh",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Unakite.jpg"
+  },
+  "howlite": {
+    "nameJa": "ハウライト",
+    "nameEn": "Howlite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Howlite-299765.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Robert M. Lavinsky",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Howlite-299765.jpg"
+  },
+  "pietersite": {
+    "nameJa": "ピーターサイト",
+    "nameEn": "Pietersite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "Pietersite.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Maatpublishing",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pietersite.jpg"
+  },
+  "selenite": {
+    "nameJa": "セレナイト",
+    "nameEn": "Selenite",
+    "source": "wikimedia-commons",
+    "sourceTitle": "6selenite1.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "No machine-readable author provided. Runningblader assumed (based on copyright claims).",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:6selenite1.jpg"
+  },
+  "clear-quartz": {
+    "nameJa": "水晶（クリスタル）",
+    "nameEn": "Clear Quartz",
+    "source": "wikipedia",
+    "sourceTitle": "Quartz_Brésil.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Didier Descouens",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Quartz_Br%C3%A9sil.jpg"
+  },
+  "amethyst": {
+    "nameJa": "アメジスト（紫水晶）",
+    "nameEn": "Amethyst",
+    "source": "wikipedia",
+    "sourceTitle": "Amethyst._Magaliesburg,_South_Africa.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "JJ Harrison (https://jjharrison.com.au/)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Amethyst._Magaliesburg,_South_Africa.jpg"
+  },
+  "lapis-lazuli": {
+    "nameJa": "ラピスラズリ",
+    "nameEn": "Lapis Lazuli",
+    "source": "wikipedia",
+    "sourceTitle": "Lapis_lazuli_block.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lapis_lazuli_block.jpg"
+  },
+  "turquoise": {
+    "nameJa": "ターコイズ（トルコ石）",
+    "nameEn": "Turquoise",
+    "source": "wikipedia",
+    "sourceTitle": "Turquoise.pebble.700pix.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Adrian Pingstone",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Turquoise.pebble.700pix.jpg"
+  },
+  "opal": {
+    "nameJa": "オパール",
+    "nameEn": "Opal",
+    "source": "wikipedia",
+    "sourceTitle": "Opal_banded.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Opal_banded.jpg"
+  },
+  "garnet": {
+    "nameJa": "ガーネット（ザクロ石）",
+    "nameEn": "Garnet",
+    "source": "wikipedia",
+    "sourceTitle": "GarnetCrystalUSGOV.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Unknown authorUnknown author",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:GarnetCrystalUSGOV.jpg"
+  },
+  "peridot": {
+    "nameJa": "ペリドット（橄欖石）",
+    "nameEn": "Peridot",
+    "source": "wikipedia",
+    "sourceTitle": "Peridot2.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "No machine-readable author provided. S kitahashi assumed (based on copyright claims).",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Peridot2.jpg"
+  },
+  "aquamarine": {
+    "nameJa": "アクアマリン",
+    "nameEn": "Aquamarine",
+    "source": "wikipedia",
+    "sourceTitle": "Aquamarin_cut.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Werner Lang(Wela49~commonswiki)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Aquamarin_cut.jpg"
+  },
+  "sunstone": {
+    "nameJa": "サンストーン",
+    "nameEn": "Sunstone",
+    "source": "wikipedia",
+    "sourceTitle": "Sunstone1.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "John Bailey, incorrectly uploaded by Donsimpson under false copyright tag, released via ticket permission",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sunstone1.jpg"
+  },
+  "tigers-eye": {
+    "nameJa": "タイガーアイ",
+    "nameEn": "Tiger's Eye",
+    "source": "wikipedia",
+    "sourceTitle": "Tigers-Eye.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Mitchell Gore (Lestatdelc at en.wikipedia)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tigers-Eye.jpg"
+  },
+  "hematite": {
+    "nameJa": "ヘマタイト（赤鉄鉱）",
+    "nameEn": "Hematite",
+    "source": "wikipedia",
+    "sourceTitle": "HematiteUSGOV.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:HematiteUSGOV.jpg"
+  },
+  "obsidian": {
+    "nameJa": "オブシディアン（黒曜石）",
+    "nameEn": "Obsidian",
+    "source": "wikipedia",
+    "sourceTitle": "Lipari-Obsidienne_(5).jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Ji-Elle\n\nIt feels nice and warm\n\nIt feels like a love storm",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lipari-Obsidienne_(5).jpg"
+  },
+  "malachite": {
+    "nameJa": "マラカイト（孔雀石）",
+    "nameEn": "Malachite",
+    "source": "wikipedia",
+    "sourceTitle": "Azurite-Malachite-163967.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Robert M. Lavinsky",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Azurite-Malachite-163967.jpg"
+  },
+  "agate": {
+    "nameJa": "アゲート（瑪瑙）",
+    "nameEn": "Agate",
+    "source": "wikipedia",
+    "sourceTitle": "Argentina001.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "峠 武宏",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Argentina001.jpg"
+  },
+  "carnelian": {
+    "nameJa": "カーネリアン",
+    "nameEn": "Carnelian",
+    "source": "wikipedia",
+    "sourceTitle": "Carnelian_handicrafts.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "欅 (Keyaki)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Carnelian_handicrafts.jpg"
+  },
+  "jade": {
+    "nameJa": "ヒスイ（翡翠）",
+    "nameEn": "Jade",
+    "source": "wikipedia",
+    "sourceTitle": "歴史を変えたヒスイ.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Swanee",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E6%AD%B4%E5%8F%B2%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%83%92%E3%82%B9%E3%82%A4.jpg"
+  },
+  "labradorite": {
+    "nameJa": "ラブラドライト",
+    "nameEn": "Labradorite",
+    "source": "wikipedia",
+    "sourceTitle": "LabradoritD.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Simon Eugster --Simon 20:25, 14 April 2006 (UTC)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:LabradoritD.jpg"
+  },
+  "sodalite": {
+    "nameJa": "ソーダライト",
+    "nameEn": "Sodalite",
+    "source": "wikipedia",
+    "sourceTitle": "Sodalite_(Mineral).jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Philippe Giabbanelli",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sodalite_(Mineral).jpg"
+  },
+  "larimar": {
+    "nameJa": "ラリマー",
+    "nameEn": "Larimar",
+    "source": "wikipedia",
+    "sourceTitle": "Larimar.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "No machine-readable author provided. Vassil assumed (based on copyright claims).",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Larimar.jpg"
+  },
+  "prehnite": {
+    "nameJa": "プレナイト",
+    "nameEn": "Prehnite",
+    "source": "wikipedia",
+    "sourceTitle": "Prehnite_-_Southbury,_Connecticut,_USA.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Ivar Leidus",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Prehnite_-_Southbury,_Connecticut,_USA.jpg"
+  },
+  "aventurine": {
+    "nameJa": "アベンチュリン",
+    "nameEn": "Aventurine",
+    "source": "wikipedia",
+    "sourceTitle": "AventurinGeschliffen.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Simon Eugster --Simon 14:31, 11 April 2006 (UTC)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:AventurinGeschliffen.jpg"
+  },
+  "rhodochrosite": {
+    "nameJa": "ロードクロサイト（インカローズ）",
+    "nameEn": "Rhodochrosite",
+    "source": "wikipedia",
+    "sourceTitle": "Rhodochrosite.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Original uploader was Tsumeb at en.wikipedia",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Rhodochrosite.jpg"
+  },
+  "chrysocolla": {
+    "nameJa": "クリソコラ",
+    "nameEn": "Chrysocolla",
+    "source": "wikipedia",
+    "sourceTitle": "Chrysocolla_USA.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Chrysocolla_USA.jpg"
+  },
+  "chrysoprase": {
+    "nameJa": "クリソプレーズ",
+    "nameEn": "Chrysoprase",
+    "source": "wikipedia",
+    "sourceTitle": "Chryzopras_(nepravy_chrazopras)_Bohouskovice.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Xth-Floor",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Chryzopras_(nepravy_chrazopras)_Bohouskovice.jpg"
+  },
+  "fluorite": {
+    "nameJa": "フローライト（蛍石）",
+    "nameEn": "Fluorite",
+    "source": "wikipedia",
+    "sourceTitle": "FluoriteValzergueFillonjaune.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Didier Descouens",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:FluoriteValzergueFillonjaune.jpg"
+  },
+  "pyrite": {
+    "nameJa": "パイライト（黄鉄鉱）",
+    "nameEn": "Pyrite",
+    "source": "wikipedia",
+    "sourceTitle": "Pyrite_-_Huanzala_mine,_Huallanca,_Bolognesi,_Ancash,_Peru.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Ivar Leidus",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pyrite_-_Huanzala_mine,_Huallanca,_Bolognesi,_Ancash,_Peru.jpg"
+  },
+  "azurite": {
+    "nameJa": "アズライト（藍銅鉱）",
+    "nameEn": "Azurite",
+    "source": "wikipedia",
+    "sourceTitle": "Azurite_from_China.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "artist": "Eric Hunt",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Azurite_from_China.jpg"
+  },
+  "charoite": {
+    "nameJa": "チャロアイト",
+    "nameEn": "Charoite",
+    "source": "wikipedia",
+    "sourceTitle": "Charoite_MFrey.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "derivative work: MichaelFrey (talk)\nCzaroit_płytka,_Rosja.jpg: Kluka",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Charoite_MFrey.jpg"
+  },
+  "sugilite": {
+    "nameJa": "スギライト",
+    "nameEn": "Sugilite",
+    "source": "wikipedia",
+    "sourceTitle": "Sugilith.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Simon Eugster --Simon 17:32, 11 April 2006 (UTC)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sugilith.jpg"
+  },
+  "rutilated-quartz": {
+    "nameJa": "ルチルクォーツ（針水晶）",
+    "nameEn": "Rutilated Quartz",
+    "source": "wikipedia",
+    "sourceTitle": "Rutile-ww7a.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Robert M. Lavinsky",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Rutile-ww7a.jpg"
+  },
+  "ametrine": {
+    "nameJa": "アメトリン",
+    "nameEn": "Ametrine",
+    "source": "wikipedia",
+    "sourceTitle": "Ametrine_cut.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Ametrine_cut.jpg"
+  },
+  "kunzite": {
+    "nameJa": "クンツァイト",
+    "nameEn": "Kunzite",
+    "source": "wikipedia",
+    "sourceTitle": "Kunzite_Nouristan.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Didier Descouens",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Kunzite_Nouristan.jpg"
+  },
+  "tanzanite": {
+    "nameJa": "タンザナイト",
+    "nameEn": "Tanzanite",
+    "source": "wikipedia",
+    "sourceTitle": "Tanzanite_taillée.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "artist": "Didier Descouens",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tanzanite_taill%C3%A9e.jpg"
+  },
+  "morganite": {
+    "nameJa": "モルガナイト",
+    "nameEn": "Morganite",
+    "source": "wikipedia",
+    "sourceTitle": "Morganite_(Brésil).jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Géry PARENT",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Morganite_(Br%C3%A9sil).jpg"
+  },
+  "amber": {
+    "nameJa": "アンバー（琥珀）",
+    "nameEn": "Amber",
+    "source": "wikipedia",
+    "sourceTitle": "Amber.pendants.800pix.050203.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Amber.pendants.800pix.050203.jpg"
+  },
+  "spinel": {
+    "nameJa": "スピネル",
+    "nameEn": "Spinel",
+    "source": "wikipedia",
+    "sourceTitle": "Spinel.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "No machine-readable author provided. Mmlynczak~commonswiki assumed (based on copyright claims).",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Spinel.jpg"
+  },
+  "diamond": {
+    "nameJa": "ダイヤモンド",
+    "nameEn": "Diamond",
+    "source": "wikipedia",
+    "sourceTitle": "Rough_diamond.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "Unknown authorUnknown author / U.S. Geological Survey",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Rough_diamond.jpg"
+  },
+  "emerald": {
+    "nameJa": "エメラルド",
+    "nameEn": "Emerald",
+    "source": "wikipedia",
+    "sourceTitle": "Emerald_rough_300x422.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Ryan Salsbury",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Emerald_rough_300x422.jpg"
+  },
+  "pearl": {
+    "nameJa": "パール（真珠）",
+    "nameEn": "Pearl",
+    "source": "wikipedia",
+    "sourceTitle": "Various_pearls.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "MASAYUKI KATO",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Various_pearls.jpg"
+  },
+  "tourmaline": {
+    "nameJa": "トルマリン",
+    "nameEn": "Tourmaline",
+    "source": "wikipedia",
+    "sourceTitle": "Tourmaline.xtal.750pix.jpg",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "artist": "en:User:Arpingstone (Adrian Pingstone)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tourmaline.xtal.750pix.jpg"
+  },
+  "zircon": {
+    "nameJa": "ジルコン",
+    "nameEn": "Zircon",
+    "source": "wikipedia",
+    "sourceTitle": "Zircão.jpeg",
+    "license": "CC BY-SA 2.0 br",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/br/deed.en",
+    "artist": "Eurico Zimbres (FGEL-UERJ) / Tom Epaminondas (mineral collector)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Zirc%C3%A3o.jpeg"
+  },
+  "alexandrite": {
+    "nameJa": "アレキサンドライト",
+    "nameEn": "Alexandrite",
+    "source": "wikipedia",
+    "sourceTitle": "Alexandrite.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "Vzb83",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Alexandrite.jpg"
+  },
+  "aragonite": {
+    "nameJa": "アラゴナイト",
+    "nameEn": "Aragonite",
+    "source": "wikipedia",
+    "sourceTitle": "Aragonite_Salsigne_France.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Didier Descouens",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Aragonite_Salsigne_France.jpg"
+  },
+  "black-tourmaline": {
+    "nameJa": "ブラックトルマリン",
+    "nameEn": "Black Tourmaline",
+    "source": "wikipedia",
+    "sourceTitle": "Sciorlite.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "artist": "Gia.cossa",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sciorlite.jpg"
+  },
+  "bloodstone": {
+    "nameJa": "ブラッドストーン",
+    "nameEn": "Bloodstone",
+    "source": "wikipedia",
+    "sourceTitle": "Quarz_-_Heliotrop_(Blutjaspis).JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Ra'ike (see also: de:Benutzer:Ra'ike)",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Quarz_-_Heliotrop_(Blutjaspis).JPG"
+  },
+  "lepidolite": {
+    "nameJa": "レピドライト",
+    "nameEn": "Lepidolite",
+    "source": "wikipedia",
+    "sourceTitle": "Lepidolit_blaszkowy,_Brazylia.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artist": "No machine-readable author provided. Kluka assumed (based on copyright claims).",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lepidolit_blaszkowy,_Brazylia.jpg"
+  },
+  "ruby": {
+    "nameJa": "ルビー",
+    "nameEn": "Ruby",
+    "source": "wikipedia",
+    "sourceTitle": "Ruby_oval_0.99cts.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Wiener Edelstein Zentrum",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Ruby_oval_0.99cts.jpg"
+  },
+  "sapphire": {
+    "nameJa": "サファイア",
+    "nameEn": "Sapphire",
+    "source": "wikipedia",
+    "sourceTitle": "Sapphire_Gem.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Sapphiredge",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sapphire_Gem.jpg"
+  },
+  "rose-quartz-meaning": {
+    "nameJa": "ローズクォーツ",
+    "nameEn": "Rose Quartz",
+    "source": "wikipedia",
+    "sourceTitle": "Quartz-236691.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artist": "Robert M. Lavinsky",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Quartz-236691.jpg"
+  },
+  "sardonyx": {
+    "nameJa": "サードオニキス",
+    "nameEn": "Sardonyx",
+    "source": "icon-fallback"
+  }
+}

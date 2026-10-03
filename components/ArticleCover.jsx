@@ -49,7 +49,7 @@ export default function ArticleCover({ post, variant = 'card', locale = 'ja', cl
       <span aria-hidden="true" className="absolute -bottom-12 -left-8 w-32 h-32 rounded-full bg-white/25 blur-2xl pointer-events-none" />
 
       {/* 真ん中のオーブ（安全な独立部品にお任せ！） */}
-      <GemstoneOrb stoneName={post.coverStoneName} catSlug={cat?.slug} sizeClasses={sizeClasses} />
+      <GemstoneOrb stoneSlug={post.coverStoneSlug} catSlug={cat?.slug} sizeClasses={sizeClasses} />
 
       {/* カテゴリラベル（左上） */}
       <div

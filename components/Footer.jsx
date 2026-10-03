@@ -35,6 +35,7 @@ export default function Footer() {
     privacy: isEn ? 'Privacy Policy' : 'プライバシーポリシー',
     disclaimer: isEn ? 'Disclaimer' : '免責事項',
     contact: isEn ? 'Contact' : 'お問い合わせ',
+    credits: isEn ? 'Image Credits' : '画像クレジット',
     tags: isEn ? 'All Tags' : 'タグ一覧',
     search: isEn ? 'Search' : 'サイト内検索',
     rights: isEn ? 'All rights reserved.' : 'All rights reserved.',
@@ -132,6 +133,7 @@ export default function Footer() {
             <li><Link href="/privacy/" className="hover:text-amber-700">{t.privacy}</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">{t.disclaimer}</Link></li>
             <li><Link href="/contact/" className="hover:text-amber-700">{t.contact}</Link></li>
+            <li><Link href={isEn ? '/en/credits/' : '/credits/'} className="hover:text-amber-700">{t.credits}</Link></li>
             <li><Link href="/recommend-youtube/" className="hover:text-amber-700">{t.youtube}</Link></li>
             <li><Link href="/tags/" className="hover:text-amber-700">{t.tags}</Link></li>
             <li><Link href="/search/" className="hover:text-amber-700">{t.search}</Link></li>
