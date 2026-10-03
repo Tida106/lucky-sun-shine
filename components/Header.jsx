@@ -18,10 +18,29 @@ const categoryEnMap = {
   '運気アップ習慣': 'Good Luck Habits',
 };
 
-export default function Header() {
+// 言語切り替えボタンの行き先。/en/ 配下は現状 "/", "/en/blog/[slug]/"
+// (翻訳がある記事のみ), "/en/omikuji/" しか実在しないため、それ以外の
+// パス(タグ・カテゴリ・検索・固定ページ等)では必ず実在するトップページに
+// フォールバックする。これを怠ると、全タグ/カテゴリページの切り替えボタンが
+// 存在しない /en/tag/xxx/ 等を指して404になる。
+function otherLangHref(pathname, isEn, enSlugSet) {
+  if (isEn) {
+    const blogMatch = pathname.match(/^\/en\/blog\/([a-z0-9-]+)\/?$/i);
+    if (blogMatch) return `/blog/${blogMatch[1]}/`;
+    if (/^\/en\/omikuji\/?$/.test(pathname)) return '/omikuji/';
+    return '/';
+  }
+  const blogMatch = pathname.match(/^\/blog\/([a-z0-9-]+)\/?$/i);
+  if (blogMatch && enSlugSet.has(blogMatch[1])) return `/en/blog/${blogMatch[1]}/`;
+  if (/^\/omikuji\/?$/.test(pathname)) return '/en/omikuji/';
+  return '/en/';
+}
+
+export default function Header({ enSlugs = [] }) {
   // 現在のURLを取得し、「/en」から始まっていれば英語モードと判定
   const pathname = usePathname() || '';
   const isEn = pathname.startsWith('/en');
+  const enSlugSet = new Set(enSlugs);
 
   // 英語・日本語のテキストとURLの切り替え辞書
   // /en/search/, /en/recommend-youtube/, /en/about-mascot/, /en/category/
@@ -44,9 +63,6 @@ export default function Header() {
 
   const getCategoryUrl = (slug) => `/category/${slug}/`;
 
-  const otherLangHref = isEn
-    ? (pathname.replace(/^\/en/, '') || '/')
-    : `/en${pathname}`;
   const langToggleLabel = isEn ? 'JP' : 'EN';
 
   return (
@@ -96,7 +112,7 @@ export default function Header() {
         </nav>
         <div className="flex items-center gap-2">
           <Link
-            href={otherLangHref}
+            href={otherLangHref(pathname, isEn, enSlugSet)}
             className="inline-flex items-center justify-center h-9 px-3 rounded-full bg-sky-100 border border-sky-300 hover:bg-sky-200 hover:shadow-[0_0_12px_rgba(56,189,248,0.5)] transition-all text-sky-700 text-xs font-bold mr-1"
             title={isEn ? 'Switch to Japanese' : 'Switch to English'}
           >

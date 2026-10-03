@@ -234,7 +234,7 @@ Whether it's the protective black, the loving pink, or the healing green—no ma
 - [Rose Quartz Meaning and Benefits](/blog/rose-quartz-meaning/) — A classic for love luck, alongside Pink Tourmaline
 - [Morion (Black Quartz) Meaning and Benefits](/blog/morion/) — A top-tier protective stone, alongside Black Tourmaline
 - [Protective Crystals](/blog/protection-luck-stones/) — Compares Tourmaline's role in the protection section
-- [How to Properly Wear Crystals](/blog/how-to-wear-power-stones/) — Explains left/right hand usage and placement for maximizing effects
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Explains left/right hand usage and placement for maximizing effects
 
 ## Summary
 

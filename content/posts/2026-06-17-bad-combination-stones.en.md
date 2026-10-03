@@ -386,4 +386,4 @@ After learning about stone compatibility, also check out the "optimal usage" and
     👉 [8 Crystals to Place at Your Entrance｜Tuning Your "Gate of Qi" with Feng Shui](/blog/fengshui-entrance-stones)
 
 *   **Are your purification stones looking dull? Refresh them without feeling wasteful!**
-    👉 [Lifespan of Crystal Crushed Stones for Purification? Guide to Replacement Time and Proper Disposal](/blog/sazare-stone-lifespan)
+    👉 [Lifespan of Crystal Crushed Stones for Purification? Guide to Replacement Time and Proper Disposal](/blog/sazare-ishi-guide/)

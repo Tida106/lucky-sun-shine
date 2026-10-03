@@ -323,7 +323,7 @@ Winter is traditionally a season with many **turning points for "warding off evi
 
 > **Important**: These stones are **not "substitutes for effort" but "small talismans that support effort."** **Passing exams, succeeding in business, or securing a job** are determined by **one's preparation, skills, commitment, and elements of luck.** There is **absolutely no guarantee that "holding these will ensure passing or success."** Please enjoy them with the understanding that they are **"charms to help you compose yourself and give your best."**
 
-→ Related: [How to Choose Your First Crystal](/blog/first-powerstone/) / [Guide to Shrines Traditionally Visited for Academic Success](/blog/shrine-gakugyo-guide/)
+→ Related: [How to Choose Your First Crystal](/blog/first-powerstone-guide/) / [Guide to Shrines Traditionally Visited for Academic Success](/blog/shrine-gakugyo-guide/)
 
 ## <span id="winter-care"></span>Winter Crystal Care and Temperature Difference Countermeasures
 
