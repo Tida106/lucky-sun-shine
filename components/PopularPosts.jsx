@@ -1,17 +1,9 @@
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import { featuredSlugs } from '@/lib/featured';
-import { getCategory } from '@/lib/categories';
+import { getCategory, getCategoryTitle } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import SunOrnament from './icons/SunOrnament';
-
-// カテゴリ名の英語変換用辞書
-const categoryEnMap = {
-  'パワーストーン': 'Power Stones',
-  'パワースポット': 'Power Spots',
-  '開運グッズ': 'Lucky Items',
-  '運気アップ習慣': 'Good Luck Habits',
-};
 
 // Display name is "編集部おすすめ" — the underlying list is a curated
 // editorial pick (lib/featured.js), not real popularity data. The component
@@ -47,7 +39,7 @@ export default function PopularPosts({ limit = 5, heading = '編集部おすす�
       <ol className="space-y-3">
         {ranked.map((post, i) => {
           const cat = getCategory(post.category);
-          const catTitle = cat ? (isEn ? (categoryEnMap[cat.title] || cat.title) : cat.title) : '';
+          const catTitle = getCategoryTitle(cat, locale) || '';
           
           return (
             <li key={post.slug}>

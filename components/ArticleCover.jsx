@@ -1,4 +1,4 @@
-import { getCategory } from '@/lib/categories';
+import { getCategory, getCategoryTitle } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import GemstoneOrb from './GemstoneOrb'; // さっき作った専用オーブを呼び出す
 
@@ -19,12 +19,13 @@ function pickMascot(seed = '') {
   return MASCOTS[h % MASCOTS.length];
 }
 
-export default function ArticleCover({ post, variant = 'card', className = '' }) {
+export default function ArticleCover({ post, variant = 'card', locale = 'ja', className = '' }) {
   if (!post) return null;
 
   const categorySlug = post.category;
   const title = post.title || '';
   const cat = categorySlug ? getCategory(categorySlug) : null;
+  const catTitle = getCategoryTitle(cat, locale);
 
   const gradient = cat?.color || 'from-amber-200 via-yellow-100 to-orange-100';
   const accent = cat?.pastel?.accent || 'text-amber-700';
@@ -34,21 +35,6 @@ export default function ArticleCover({ post, variant = 'card', className = '' })
   const sizeClasses = isHero
     ? 'w-28 h-28 sm:w-36 sm:h-36 md:w-44 md:h-44'
     : 'w-20 h-20';
-
-  // タイトルから石の名前を賢く抽出
-  const stoneKeywords = [
-    'ガーネット', 'ローズクォーツ', 'アメジスト', 'ムーンストーン', 'ルビー',
-    'スモーキークォーツ', 'ラピスラズリ', 'アクアマリン', 'ブルートパーズ', 'サファイア',
-    'ダイヤモンド', 'エメラルド', 'パール', 'ターコイズ', 'シトリン', 'ペリドット',
-    'オパール', 'トルマリン', 'タンザナイト', 'アイオライト', 'ヘマタイト', 'カーネリアン',
-    'アベンチュリン', 'クリソプレーズ', 'タイガーアイ', 'コーラル（珊瑚）', 'ブラッドストーン',
-    'ロードナイト', 'フローライト', 'マラカイト', 'アレキサンドライト'
-  ];
-
-  let stoneName = null;
-  if (categorySlug === 'powerstones' && title) {
-    stoneName = stoneKeywords.find(stone => title.includes(stone));
-  }
 
   return (
     <div
@@ -63,7 +49,7 @@ export default function ArticleCover({ post, variant = 'card', className = '' })
       <span aria-hidden="true" className="absolute -bottom-12 -left-8 w-32 h-32 rounded-full bg-white/25 blur-2xl pointer-events-none" />
 
       {/* 真ん中のオーブ（安全な独立部品にお任せ！） */}
-      <GemstoneOrb stoneName={stoneName} catSlug={cat?.slug} sizeClasses={sizeClasses} />
+      <GemstoneOrb stoneName={post.coverStoneName} catSlug={cat?.slug} sizeClasses={sizeClasses} />
 
       {/* カテゴリラベル（左上） */}
       <div
@@ -79,7 +65,7 @@ export default function ArticleCover({ post, variant = 'card', className = '' })
             className={isHero ? 'w-3.5 h-3.5 md:w-4 md:h-4' : 'w-3 h-3'}
           />
         )}
-        <span>{cat?.title || categorySlug || '未分類'}</span>
+        <span>{catTitle || categorySlug || '未分類'}</span>
       </div>
 
       {/* 太陽ちゃん（右下） */}

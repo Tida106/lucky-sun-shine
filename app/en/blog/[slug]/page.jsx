@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes, extractHeadings } from "@/lib/posts";
-import { getCategory } from "@/lib/categories";
+import { getCategory, getCategoryTitle } from "@/lib/categories";
 import { site } from "@/lib/site";
 import Sidebar from "@/components/Sidebar";
 import CategoryIcon from "@/components/CategoryIcon";
@@ -73,8 +73,10 @@ export default async function BlogPostPage({ params }) {
   const next = idxInCat >= 0 && idxInCat < sameCatAll.length - 1 ? sameCatAll[idxInCat + 1] : null;
   const alsoRead = getRelatedPosts(post, all, { limit: 4 });
 
+  const catTitle = getCategoryTitle(cat, LOCALE) || post.category;
+
   const breadcrumbItems = [
-    { name: cat?.title || post.category },
+    { name: catTitle },
     { name: post.title },
   ];
 
@@ -82,13 +84,13 @@ export default async function BlogPostPage({ params }) {
     <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
       <article className="min-w-0">
         <Breadcrumbs items={breadcrumbItems} className="mb-6" locale={LOCALE} />
-        <ArticleCover post={post} variant="hero" className="mb-8" />
+        <ArticleCover post={post} variant="hero" locale={LOCALE} className="mb-8" />
 
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-2 text-xs">
             <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full font-medium ${cat?.pastel ? `${cat.pastel.accentBg}${cat.pastel.accent}` : "bg-amber-100 text-amber-700"}`}>
               {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
-              {cat?.title || post.category}
+              {catTitle}
             </span>
             <span className="text-ink-500">About {minutes} min read</span>
           </div>

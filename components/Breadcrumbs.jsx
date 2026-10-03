@@ -1,15 +1,9 @@
 import Link from 'next/link';
 import { site } from '@/lib/site';
 
-// カテゴリ名の英語変換用辞書
-const categoryEnMap = {
-  'パワーストーン': 'Power Stones',
-  'パワースポット': 'Power Spots',
-  '開運グッズ': 'Lucky Items',
-  '運気アップ習慣': 'Good Luck Habits',
-};
-
 // 共通パンくず — ビジュアル(nav)と BreadcrumbList の JSON-LD を同時に出力する。
+// items[].name は呼び出し側で既にロケールに応じた表示名に解決済みの前提
+// (カテゴリ名の英訳は lib/categories.js の getCategoryTitle が単一の源)。
 export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
   if (!items || items.length === 0) return null;
 
@@ -33,13 +27,11 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
       },
       ...items.map((it, i) => {
         const isLast = i === items.length - 1;
-        // 辞書に一致するカテゴリ名があれば英語に変換
-        const itemName = isEn ? (categoryEnMap[it.name] || it.name) : it.name;
-        
+
         const base = {
           '@type': 'ListItem',
           position: i + 2,
-          name: itemName,
+          name: it.name,
         };
         // 末尾(現在地)は item を出さないのが推奨。中間ノードのみ URL を付ける。
         if (!isLast && it.href) {
@@ -62,7 +54,6 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
         <Link href={rootPath} className="hover:text-amber-700">{topText}</Link>
         {items.map((it, i) => {
           const isLast = i === items.length - 1;
-          const itemName = isEn ? (categoryEnMap[it.name] || it.name) : it.name;
           // 英語環境で中間のリンクがある場合は /en/ を付与
           const linkPath = isEn && it.href && !it.href.startsWith('/en/') ? `/en${it.href}` : it.href;
 
@@ -70,10 +61,10 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
             <span key={`${i}-${it.name}`}>
               <span className="mx-1">/</span>
               {isLast || !it.href ? (
-                <span className="text-ink-700">{itemName}</span>
+                <span className="text-ink-700">{it.name}</span>
               ) : (
                 <Link href={linkPath} className="hover:text-amber-700">
-                  {itemName}
+                  {it.name}
                 </Link>
               )}
             </span>

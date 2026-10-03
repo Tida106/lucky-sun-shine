@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getCategory } from '@/lib/categories';
+import { getCategory, getCategoryTitle } from '@/lib/categories';
 import ArticleCover from './ArticleCover';
 
 function formatDate(iso) {
@@ -11,14 +11,14 @@ export default function PostCard({ post, locale = 'ja' }) {
   const cat = getCategory(post.category);
   const isEn = locale === 'en';
   const postUrl = isEn ? `/en/blog/${post.slug}/` : `/blog/${post.slug}/`;
-  const catName = isEn ? post.category : (cat?.title || post.category);
+  const catName = getCategoryTitle(cat, locale) || post.category;
 
   return (
     <article className="card-elev group rounded-2xl bg-white border border-amber-100 hover:border-amber-300 overflow-hidden">
       <Link href={postUrl} className="block">
         <div className="overflow-hidden">
           <div className="transition-transform duration-500 ease-out group-hover:scale-105">
-            <ArticleCover post={post} variant="card" />
+            <ArticleCover post={post} variant="card" locale={locale} />
           </div>
         </div>
         <div className="p-6">
