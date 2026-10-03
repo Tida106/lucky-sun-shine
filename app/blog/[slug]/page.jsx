@@ -64,7 +64,7 @@ export default async function BlogPostPage({ params }) {
   const html = await renderMarkdown(post.content);
   const headings = extractHeadings(html);
   const cat = getCategory(post.category);
-  const minutes = readingTimeMinutes(post.content);
+  const minutes = readingTimeMinutes(post.content, LOCALE);
 
   const all = getAllPosts(LOCALE);
   const sameCatAll = all.filter((p) => p.category === post.category);

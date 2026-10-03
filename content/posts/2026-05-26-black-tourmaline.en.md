@@ -18,7 +18,7 @@ author: Sun-chan
 
 Often hailed as one of the "**most powerful protective stones**," Black Tourmaline is the common name for **Schorl**, the most iron-rich variety within the Tourmaline group. With its **deep, jet-black luster** and **pyroelectric and piezoelectric properties** (meaning it generates an electric charge when heated or rubbed), it has been cherished since ancient times as a stone that "**wards off negative energies and offers protection**."
 
-In modern times, it continues to gain popularity as a power stone, serving as an **amulet for EMF protection in our PC and smartphone-dominated world** and a **companion for desk workers needing to maintain focus**. In this article, we've put together a comprehensive guide covering everything from the origins of its stone properties and mineralogical features to its **distinction from Morion (Black Quartz)**, widely believed effects, care methods, and frequently asked questions.
+In modern times, it continues to gain popularity as a crystal, serving as an **amulet for EMF protection in our PC and smartphone-dominated world** and a **companion for desk workers needing to maintain focus**. In this article, we've put together a comprehensive guide covering everything from the origins of its stone properties and mineralogical features to its **distinction from Morion (Black Quartz)**, widely believed effects, care methods, and frequently asked questions.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ Black Tourmaline is the **most iron-rich variety within the Tourmaline group**, 
 
 A common characteristic of all tourmalines is their **pyroelectricity and piezoelectricity**—physical phenomena where they **generate an electric charge when heated or rubbed**. This property is the origin of its Japanese name "**Denkiseki**" (electric stone) and its traditional uses for "**warding off negative energies and dealing with electromagnetic fields**."
 
-With a Mohs hardness of 7 to 7.5, it is sufficiently hard for daily use, and **it has no cleavage, making it quite resistant to impact**. It is widely available in various forms such as rough stones, tumbled stones, and bracelets. It is also popular as an entry-level gemstone, allowing you to start your authentic power stone journey at an accessible price range (from a few thousand yen).
+With a Mohs hardness of 7 to 7.5, it is sufficiently hard for daily use, and **it has no cleavage, making it quite resistant to impact**. It is widely available in various forms such as rough stones, tumbled stones, and bracelets. It is also popular as an entry-level gemstone, allowing you to start your authentic crystal journey at an accessible price range (from a few thousand yen).
 
 ## <span id="meaning"></span>Stone Properties and Historical and Cultural Background
 
@@ -64,7 +64,7 @@ In medieval Europe, **alchemists** kept Black Tourmaline in their laboratories a
 
 In 1703, a Dutch jeweler discovered the electrification phenomenon of heated tourmaline, calling it a "**mysterious stone that attracts ashes**," which caused a stir in the European scientific community. This became the origin of the Japanese name "Denkiseki" (electric stone) and modern legends such as "**a stone that generates negative ions**" and "**a stone that absorbs electromagnetic waves**."
 
-Since the latter half of the 20th century, with the widespread adoption of **PCs, televisions, and smartphones**, the demand for Black Tourmaline as a "**protective stone for EMF shielding**" has surged. Today, it is one of the most widely circulated power stones, traditionally placed on **desks, in bedrooms, and at entrances** as a stone for warding off negative energies.
+Since the latter half of the 20th century, with the widespread adoption of **PCs, televisions, and smartphones**, the demand for Black Tourmaline as a "**protective stone for EMF shielding**" has surged. Today, it is one of the most widely circulated crystals, traditionally placed on **desks, in bedrooms, and at entrances** as a stone for warding off negative energies.
 
 > Sources: GIA (Gemological Institute of America) overview of Tourmaline, AGTA (American Gem Trade Association) mineralogical data, and more.
 
@@ -77,7 +77,7 @@ Since the latter half of the 20th century, with the widespread adoption of **PCs
 
 ## <span id="benefits"></span>Widely Believed Effects
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic. These are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Please Note**: The "effects" of crystals are cultural and symbolic. These are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Strong Protection and Warding off Negative Energies** — Traditionally known as **"one of the most powerful protective stones"** since ancient times.
 - **Symbol of EMF Protection** — Due to its pyroelectric and piezoelectric physical properties, it has become popular in modern times as an **amulet for PC and smartphone environments**.
@@ -179,15 +179,15 @@ Placing it in **"the place where you spend the most time each day"** is often wh
 
 **Q6. What should I do if my Black Tourmaline chips or breaks?**
 
-A. In the world of power stones, there's a tradition of viewing it as having "**taken your place**" or "sacrificed itself for you." Many users believe that "**the stone absorbed too much negative energy and completed its duty**," and it's common to return it to the earth with gratitude or carefully store it in a drawer. You can see it as a fresh start to welcome a new stone and resume your connection.
+A. In the world of crystals, there's a tradition of viewing it as having "**taken your place**" or "sacrificed itself for you." Many users believe that "**the stone absorbed too much negative energy and completed its duty**," and it's common to return it to the earth with gratitude or carefully store it in a drawer. You can see it as a fresh start to welcome a new stone and resume your connection.
 
 ## <span id="postscript"></span>Editor's Note
 
-For me, the administrator of this site, Black Tourmaline was "**the most practical power stone**." It all started in my student days when I bought a rough stone (for 500 yen) at a mineral show and placed it on my desk. My motivation was very simple: I was drawn to the word "**protection from evil**."
+For me, the administrator of this site, Black Tourmaline was "**the most practical crystal**." It all started in my student days when I bought a rough stone (for 500 yen) at a mineral show and placed it on my desk. My motivation was very simple: I was drawn to the word "**protection from evil**."
 
 As I entered the workforce and my PC work increased, the **meaning of placing Black Tourmaline changed** for me. Rather than merely "**warding off evil**," it became a visual cue: "**this is a place for focus from now on**." It has remained on my desk as that psychological "switch" ever since.
 
-Black Tourmaline isn't a "**flashy stone**." But it's a prime example of a "daily use" power stone that quietly blends into your daily workspace, **becoming indispensable before you know it**—that's the kind of relationship you can have with it.
+Black Tourmaline isn't a "**flashy stone**." But it's a prime example of a "daily use" crystal that quietly blends into your daily workspace, **becoming indispensable before you know it**—that's the kind of relationship you can have with it.
 
 ## <span id="team-view"></span>Our Editorial Team's View: The Value as a "Daily Focus Switch"
 
@@ -221,9 +221,9 @@ By quietly placing it by your PC, at the entrance, or in your bedroom—**wherev
 -   [Morion (Black Quartz) Meaning and Effects](/blog/morion/) — The Ultimate Protective Pair: Quartz-Family Jet Black
 -   [Onyx Meaning and Effects](/blog/onyx/) — Black Guardian Stone: A Symbol of Protection and Willpower
 -   [Clear Quartz Meaning and Effects](/blog/clear-quartz/) — The Universal Cleansing Stone to Combine with Black Tourmaline
--   [Protective and Good Luck Power Stones](/blog/protection-luck-stones/) — Comparing Black Tourmaline's Place in the Protection Chapter
--   [Power Stones and Feng Shui (Desk Edition)](/blog/fengshui-desk-stones/) — Feng Shui Placement of Stones on Your Desk
--   [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — How to Use Left and Right, and the Best Places to Maximize Effects
+-   [Protective and Good Luck Crystals](/blog/protection-luck-stones/) — Comparing Black Tourmaline's Place in the Protection Chapter
+-   [Crystals and Feng Shui (Desk Edition)](/blog/fengshui-desk-stones/) — Feng Shui Placement of Stones on Your Desk
+-   [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — How to Use Left and Right, and the Best Places to Maximize Effects
 
 ## Summary
 
@@ -233,4 +233,4 @@ By quietly placing it by your PC, at the entrance, or in your bedroom—**wherev
 -   It is compatible with most cleansing methods (with caution for prolonged coarse salt exposure and sudden temperature changes). **Frequent cleansing is recommended**.
 -   Since individual experiences of its effects vary, it's best to engage with it casually as an "amulet."
 
-Though not flashy, it "**quietly integrates into your daily focus environment**"—making it one of the most practical power stones for modern desk workers.
+Though not flashy, it "**quietly integrates into your daily focus environment**"—making it one of the most practical crystals for modern desk workers.

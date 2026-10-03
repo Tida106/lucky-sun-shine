@@ -1,5 +1,5 @@
 ---
-title: "Recommended Power Stones for Rooster-Born Individuals | Chinese Zodiac and Stone Compatibility"
+title: "Recommended Crystals for Rooster-Born Individuals | Chinese Zodiac and Stone Compatibility"
 description: "Discover the compatibility between the meticulous and far-sighted personality of those born in the Year of the Rooster and Sodalite, known as the stone of logic. This complete guide to choosing an amulet for this zodiac sign, which symbolizes the power of 'taking in' fortune, covers supportive stones for business prosperity, the culture of Tori-no-Ichi (Rooster Market), and how to make the most of your zodiac year."
 date: "2026-05-10"
 updated: "2026-05-23"
@@ -34,7 +34,7 @@ Among the twelve zodiac signs, the Rooster is associated with the element of "Me
 
 Sodalite is a relatively new stone, discovered in Greenland in the early 19th century. Yet, its beautiful indigo-blue color quickly earned it recognition as "**the stone that bridges thought and intuition**." It closely resembles Lapis Lazuli, but can be distinguished by the white matrix running through it instead of golden flecks.
 
-> **Please note**: The "effects" of power stones are cultural and symbolic. They do not guarantee medical or scientific efficacy.
+> **Please note**: The "effects" of crystals are cultural and symbolic. They do not guarantee medical or scientific efficacy.
 
 The primary reason Sodalite resonates with Rooster-born individuals is that it is "**a stone that keeps logic calm and clear, while also preventing intuition from being clouded**." Rooster individuals need both logic and intuition, but if they lean too much towards meticulousness, their intuition can dull, and if they rely too much on intuition, their plans can fall apart. Sodalite, as a bridging stone that balances these two extremes, is said to most naturally support the true nature of the Rooster.
 
@@ -82,10 +82,10 @@ When I recommend Sodalite to Rooster-born individuals, they often tell me, "**I 
 
 ## Related Articles You Might Enjoy
 
-- [Complete Guide to Power Stones by Chinese Zodiac Sign](/blog/eto-powerstones-guide/) — Comparison and Quick Reference for the Twelve Zodiacs
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+- [Complete Guide to Crystals by Chinese Zodiac Sign](/blog/eto-powerstones-guide/) — Comparison and Quick Reference for the Twelve Zodiacs
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 - [Sodalite Meaning and Effects | The Stone that Bridges Logic and Intuition](/blog/sodalite/)
-- [Power Stone Guide by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/)
+- [Crystal Guide by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/)
 - [Lapis Lazuli Meaning and Effects](/blog/lapis-lazuli/)
 
 ## Summary

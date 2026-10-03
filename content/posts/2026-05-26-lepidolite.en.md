@@ -15,7 +15,7 @@ author: Sun-chan
 
 ## Introduction
 
-Also known as "**Purple Mica**," Lepidolite is a **rare power stone that naturally contains lithium**. With its soft pink to lilac (pale purple) hues and the **"flaky, shimmering luster"** characteristic of mica, it has garnered attention in the modern healing world as **"a stone that calms the waves of the heart and supports life transitions."**
+Also known as "**Purple Mica**," Lepidolite is a **rare crystal that naturally contains lithium**. With its soft pink to lilac (pale purple) hues and the **"flaky, shimmering luster"** characteristic of mica, it has garnered attention in the modern healing world as **"a stone that calms the waves of the heart and supports life transitions."**
 
 This article compiles everything you need to know, from the origin of its stone meanings to its mineralogical characteristics, its **unique composition containing lithium**, its reputed effects, care methods, and frequently asked questions. It is structured to serve as a comprehensive reference for those who **"wish to maintain mental balance during times of change" or "want to calm anxiety and impatience."**
 
@@ -74,7 +74,7 @@ Within the context of the **New Age movement and modern spirituality**, it is po
 
 ## <span id="benefits"></span>Reputed Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Symbol of Mental Stability and Harmonizing Emotional Waves** — Due to its symbolism as a lithium-bearing mineral, it is used as an amulet to **"gently calm emotional fluctuations."**
 - **Support for Transitions** — Believed to watch over the process of moving **"towards your next self"** amidst change.
@@ -169,7 +169,7 @@ A. As it is a **soft stone, there is a risk of chipping due to pressure under a 
 
 **Q6. What should I do if my Lepidolite accessory chips or flakes?**
 
-A. It is a soft stone, so it has a tendency to chip. In the world of power stones, it is traditionally believed that **"it took the damage in your place,"** and it is common to return it to the earth with gratitude or carefully store it in a drawer. As it is in an **affordable price range**, it's also a positive aspect of Lepidolite that it's easy to welcome a new stone if it chips.
+A. It is a soft stone, so it has a tendency to chip. In the world of crystals, it is traditionally believed that **"it took the damage in your place,"** and it is common to return it to the earth with gratitude or carefully store it in a drawer. As it is in an **affordable price range**, it's also a positive aspect of Lepidolite that it's easy to welcome a new stone if it chips.
 
 ## <span id="postscript"></span>Postscript
 
@@ -177,7 +177,7 @@ For me, as the administrator, Lepidolite was **"a stone I encountered during a p
 
 When I actually had it in my life, I experienced a peculiar feeling: **the very fact of "having a lithium-bearing stone" somehow became a source of mental support**. Even knowing that lithium doesn't act on the body, the awareness of **"having a symbol for regulating emotional waves on my desk"** served as a small ritual during an anxious period.
 
-Lepidolite is not a **"flashy stone."** However, its **pale lilac hue quietly blends into the daily scenery and accompanies you through periods of change** — it's a gentle power stone with which you can have such a relationship.
+Lepidolite is not a **"flashy stone."** However, its **pale lilac hue quietly blends into the daily scenery and accompanies you through periods of change** — it's a gentle crystal with which you can have such a relationship.
 
 ## <span id="team-view"></span>Team's View: Value as a "Companion for Times of Change"
 
@@ -212,8 +212,8 @@ Its pale lilac color reminds you of **"gentleness" rather than "strength."** No 
 - [Larimar: Meaning and Effects](/blog/larimar/) — Caribbean sea healing, double healing
 - [Moonstone: Meaning and Effects](/blog/moonstone/) — Harmony of femininity and transition
 - [Jade: Meaning and Effects](/blog/jade/) — Eastern healing stone, virtue and prosperity
-- [Protection and Amulet Power Stones](/blog/protection-luck-stones/) — Stones that offer mental stability and ward off evil
-- [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects
+- [Protection and Amulet Crystals](/blog/protection-luck-stones/) — Stones that offer mental stability and ward off evil
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects
 
 ## Summary
 

@@ -95,7 +95,7 @@ Night is **the time to reset your energy for the day.** How you spend the 30 min
 -   **One to two potted houseplants** (bring in life energy)
 -   **Wash bedding once a week** (purification of sweat and energy)
 
-→ For more details, refer to [Feng Shui for Bedrooms and Recommended Power Stones](/blog/fengshui-bedroom-stones/).
+→ For more details, refer to [Feng Shui for Bedrooms and Recommended Crystals](/blog/fengshui-bedroom-stones/).
 
 ## <span id="seasons"></span>Seasonal Lucky Actions
 
@@ -140,7 +140,7 @@ Feng Shui is an ancient Chinese environmental science that **attracts good fortu
 -   **Place houseplants** (life energy)
 -   **Don't place a mirror directly opposite the entrance** (reflects good fortune away)
 
-→ For more details, refer to [Feng Shui for Entrances and Recommended Power Stones](/blog/fengshui-entrance-stones/).
+→ For more details, refer to [Feng Shui for Entrances and Recommended Crystals](/blog/fengshui-entrance-stones/).
 
 ### Lucky Colors by Direction
 
@@ -155,7 +155,7 @@ Feng Shui is an ancient Chinese environmental science that **attracts good fortu
 | North | Trust and Love | White, Pink, Light Blue |
 | Northeast | Change and Career Change | White |
 
-→ For more directional details, refer to [Power Stone Placement Guide by Direction](/blog/fengshui-direction-stones/).
+→ For more directional details, refer to [Crystal Placement Guide by Direction](/blog/fengshui-direction-stones/).
 
 ### Feng Shui for Your Desk and Workspace
 
@@ -164,7 +164,7 @@ Feng Shui is an ancient Chinese environmental science that **attracts good fortu
 -   **Keep it organized and tidy** (clarifies thoughts)
 -   **One potted houseplant** (life energy and oxygen)
 
-→ For more details, refer to [Feng Shui for Desks and Recommended Power Stones](/blog/fengshui-desk-stones/).
+→ For more details, refer to [Feng Shui for Desks and Recommended Crystals](/blog/fengshui-desk-stones/).
 
 ## <span id="kotodama"></span>Kotodama and the Law of Attraction
 
@@ -216,9 +216,9 @@ A. While there's significant individual variation, many people report feeling **
 
 A. Yes, **it's even recommended.** The combination of daily habits (foundation) and milestone good fortune (enhancement) will improve the quality of your luck. For details, refer to [Complete Guide to Choosing Lucky Items](/blog/lucky-items-guide/) and [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/).
 
-**Q3. Can power stones be incorporated into lucky habits?**
+**Q3. Can crystals be incorporated into lucky habits?**
 
-A. Yes. Simply adding **"holding or gazing at a stone"** to your morning and evening routines can act as a reminder for your consciousness. For details, refer to [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/).
+A. Yes. Simply adding **"holding or gazing at a stone"** to your morning and evening routines can act as a reminder for your consciousness. For details, refer to [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/).
 
 **Q4. If I can't stick to anything, where should I start?**
 
@@ -236,12 +236,12 @@ A. ① Leaving shoes scattered at the entrance, ② having your sleeping reflect
 
 -   [How to Boost Your Luck with a Morning Routine](/blog/morning-routine-lucky/) — The definitive guide to morning good fortune
 -   [How to Choose a Wallet for Financial Luck](/blog/money-luck-wallet/) — Reasons for spring and autumn wallets
--   [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/) — An introduction to Feng Shui
--   [Feng Shui for Entrances and Recommended Power Stones](/blog/fengshui-entrance-stones/) — How to arrange your entrance
--   [Feng Shui for Bedrooms and Recommended Power Stones](/blog/fengshui-bedroom-stones/) — How to arrange your bedroom
--   [Feng Shui for Desks and Recommended Power Stones](/blog/fengshui-desk-stones/) — How to arrange your workspace
--   [Utilizing Moon Phases and Power Stones](/blog/moon-phases-and-stones/) — The rhythm of the moon and daily life
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — Incorporating stones into your life
+-   [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/) — An introduction to Feng Shui
+-   [Feng Shui for Entrances and Recommended Crystals](/blog/fengshui-entrance-stones/) — How to arrange your entrance
+-   [Feng Shui for Bedrooms and Recommended Crystals](/blog/fengshui-bedroom-stones/) — How to arrange your bedroom
+-   [Feng Shui for Desks and Recommended Crystals](/blog/fengshui-desk-stones/) — How to arrange your workspace
+-   [Utilizing Moon Phases and Crystals](/blog/moon-phases-and-stones/) — The rhythm of the moon and daily life
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — Incorporating stones into your life
 -   [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/) — Milestone good fortune
 -   [Complete Guide to Choosing Lucky Items](/blog/lucky-items-guide/) — Incorporating lucky charms
 

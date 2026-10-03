@@ -117,9 +117,9 @@ A. **Yes, but only during the summer climbing season (July to September)**. Kusu
 
 A. **Absolutely!** There are many other prominent shrines in the Chubu and Tokai regions, such as **Atsuta Jingu (Aichi), Ise Jingu (Mie and Kinki), and Nangu Taisha (Gifu)**. Sun-chan plans to introduce them on this site in due course!
 
-**Q5. Can I bring power stones with me when visiting a shrine?**
+**Q5. Can I bring crystals with me when visiting a shrine?**
 
-A. Yes, you can! Common practices include holding them in your palm before passing through the torii gate, or placing them near your omamori or Ofuda (talismans) after your visit. For more details, please refer to [Basics of Power Stones and Feng Shui](/blog/fengshui-powerstone-basics/).
+A. Yes, you can! Common practices include holding them in your palm before passing through the torii gate, or placing them near your omamori or Ofuda (talismans) after your visit. For more details, please refer to [Basics of Crystals and Feng Shui](/blog/fengshui-powerstone-basics/).
 
 ## Related Articles You Might Also Like
 

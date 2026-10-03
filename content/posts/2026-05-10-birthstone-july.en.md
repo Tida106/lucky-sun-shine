@@ -75,7 +75,7 @@ Here are the key metaphysical properties and traditional benefits associated wit
 | Salt | Good | Good |
 | Direct Sunlight | Excellent (Very Durable) | Good |
 
-Ruby boasts a **Mohs hardness of 9**, making it exceptionally tough, scratch-resistant, and compatible with virtually all cleansing methods. For comprehensive cleansing steps, check out our [Complete Guide to Power Stone Cleansing](/blog/purification-complete-guide/).
+Ruby boasts a **Mohs hardness of 9**, making it exceptionally tough, scratch-resistant, and compatible with virtually all cleansing methods. For comprehensive cleansing steps, check out our [Complete Guide to Crystal Cleansing](/blog/purification-complete-guide/).
 
 ## Great as Birthday Gifts
 

@@ -1,7 +1,7 @@
 ---
-title: "Power Stone Compatibility and Combination Guide | How to Choose, What to Avoid, and Purpose-Specific Recipes"
+title: "Crystal Compatibility and Combination Guide | How to Choose, What to Avoid, and Purpose-Specific Recipes"
 description: >-
-  This How-To hub article explains power stone 'compatibility' from five perspectives: purpose, color, Five Elements, chakras, and hardness differences. It serves as an entry point for combinations, linking to individual stone pages.
+  This How-To hub article explains crystal 'compatibility' from five perspectives: purpose, color, Five Elements, chakras, and hardness differences. It serves as an entry point for combinations, linking to individual stone pages.
 date: '2026-05-27'
 category: powerstones
 tags:
@@ -15,13 +15,13 @@ draft: false
 
 ## Introduction
 
-"**Is it okay to wear this stone with that one?**" "**Is it true that some combinations repel each other?**" — These questions inevitably arise when you have more than one power stone: **"the compatibility between stones."**
+"**Is it okay to wear this stone with that one?**" "**Is it true that some combinations repel each other?**" — These questions inevitably arise when you have more than one crystal: **"the compatibility between stones."**
 
 This article serves as a **How-To hub article**, compiling a **basic framework for understanding 'compatibility,'** **general guidelines on combinations 'best avoided,'** and **specific purpose-based recipes.**
 
-While the practical aspects of **"classic two- or three-stone combos," "harmony of color and chakras," and "handling hardness differences"** are covered in our [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/), this article focuses on the **"theory of compatibility" and "an entry point to purpose-specific recipes."**
+While the practical aspects of **"classic two- or three-stone combos," "harmony of color and chakras," and "handling hardness differences"** are covered in our [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/), this article focuses on the **"theory of compatibility" and "an entry point to purpose-specific recipes."**
 
-> **Important Note**: The 'effects' and 'compatibility' of power stones are rooted in cultural and symbolic meanings. This article does not guarantee specific increases in luck or effects, nor are 'combinations to avoid' absolute rules. Please read this solely as a reference for enjoying power stones as charms.
+> **Important Note**: The 'effects' and 'compatibility' of crystals are rooted in cultural and symbolic meanings. This article does not guarantee specific increases in luck or effects, nor are 'combinations to avoid' absolute rules. Please read this solely as a reference for enjoying crystals as charms.
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ While the practical aspects of **"classic two- or three-stone combos," "harmony 
 
 ## <span id="five-aspects"></span>Five Aspects to Consider for 'Compatibility'
 
-Power stone 'compatibility' is not determined by a **single rule**; rather, it's traditionally understood as **being judged multi-dimensionally from several perspectives.** Here are five key aspects:
+Crystal 'compatibility' is not determined by a **single rule**; rather, it's traditionally understood as **being judged multi-dimensionally from several perspectives.** Here are five key aspects:
 
 | Aspect         | Content                                            | Example                             |
 | -------------- | -------------------------------------------------- | ----------------------------------- |
@@ -79,7 +79,7 @@ This approach is based on **color psychology and traditional color theory.** Gro
 
 ## <span id="by-gogyo"></span>③ Matching by the Five Elements and Eastern Philosophy
 
-The **traditional Chinese philosophy of the "Five Elements" (Gogyo)** — a way of understanding the world through the cycle of five elements: Wood, Fire, Earth, Metal, and Water. Power stones can also be aligned with the Five Elements through their colors and symbolism, and there's a tradition of judging combinations based on relationships called **"Soshō" (mutual generation) and "Sōkoku" (mutual overcoming).**
+The **traditional Chinese philosophy of the "Five Elements" (Gogyo)** — a way of understanding the world through the cycle of five elements: Wood, Fire, Earth, Metal, and Water. Crystals can also be aligned with the Five Elements through their colors and symbolism, and there's a tradition of judging combinations based on relationships called **"Soshō" (mutual generation) and "Sōkoku" (mutual overcoming).**
 
 | Five Elements | Corresponding Color | Example Stones                        |
 | ------------- | ------------------- | ------------------------------------- |
@@ -175,7 +175,7 @@ Based on the five aspects we've discussed so far, I've put together specific pur
 | **Defense and Offense** | **Citrine and Pyrite**              | Money Luck and Warding off Evil             |
 | **3-Stone Balance** | **Citrine and Tiger's Eye and Clear Quartz** | Grouping Earth elements, amplified by Clear Quartz |
 
-→ Details: [9 Popular Power Stones for Money Luck](/blog/purpose-money-stones/)
+→ Details: [9 Popular Crystals for Money Luck](/blog/purpose-money-stones/)
 
 ### 💗 Love Luck Recipes
 
@@ -185,7 +185,7 @@ Based on the five aspects we've discussed so far, I've put together specific pur
 | **For Marriage Intentions** | **Morganite and Aquamarine**        | Beryl Sister Stones           |
 | **3-Stone Balance** | **Rose Quartz and Amethyst and Clear Quartz** | Love and Truth and Amplification |
 
-→ Details: [9 Popular Power Stones for Love Luck](/blog/purpose-love-stones/)
+→ Details: [9 Popular Crystals for Love Luck](/blog/purpose-love-stones/)
 
 ### 💼 Work and Success Luck Recipes
 
@@ -195,7 +195,7 @@ Based on the five aspects we've discussed so far, I've put together specific pur
 | **For Important Occasions** | **Ruby and Garnet**                 | Layering Red Tones                          |
 | **3-Stone Balance** | **Tiger's Eye and Pietersite and Clear Quartz** | Decision and Adapting to Complex Changes and Amplification |
 
-→ Details: [9 Popular Power Stones for Work and Success Luck](/blog/purpose-work-stones/)
+→ Details: [9 Popular Crystals for Work and Success Luck](/blog/purpose-work-stones/)
 
 ### 🌿 Health Luck (Charm) Recipes
 
@@ -205,9 +205,9 @@ Based on the five aspects we've discussed so far, I've put together specific pur
 | **Green for Healing** | **Jade and Aventurine**             | Harmony of Nature           |
 | **Emphasizing Brightness** | **Peridot and Turquoise**           | Sun and Travel Charm        |
 
-> **Important**: Power stones have no effect on curing, preventing, or improving disease symptoms. **If you have health concerns, please consult a medical professional.**
+> **Important**: Crystals have no effect on curing, preventing, or improving disease symptoms. **If you have health concerns, please consult a medical professional.**
 
-→ Details: [9 Popular Power Stones for Health Luck](/blog/purpose-health-stones/)
+→ Details: [9 Popular Crystals for Health Luck](/blog/purpose-health-stones/)
 
 ### 🤝 Relationship Luck Recipes
 
@@ -217,7 +217,7 @@ Based on the five aspects we've discussed so far, I've put together specific pur
 | **Family Harmony**  | **Rose Quartz and Chrysocolla**     | Gentleness and Motherhood  |
 | **Friendship and Workplace** | **Turquoise and Amazonite**         | Friendship and Courage     |
 
-→ Details: [9 Popular Power Stones for Relationship Luck](/blog/purpose-relation-stones/)
+→ Details: [9 Popular Crystals for Relationship Luck](/blog/purpose-relation-stones/)
 
 ### 🛡️ Protection and Warding off Evil Recipes
 
@@ -227,7 +227,7 @@ Based on the five aspects we've discussed so far, I've put together specific pur
 | **Charm for PC Environment** | **Black Tourmaline and Clear Quartz** | Modern Evil Warding Staple    |
 | **3-Stone Balance** | **Morion and Black Tourmaline and Clear Quartz** | Layering Black Tones and Purification |
 
-→ Details: [9 Popular Power Stones for Protection and Warding off Evil](/blog/purpose-protection-stones/)
+→ Details: [9 Popular Crystals for Protection and Warding off Evil](/blog/purpose-protection-stones/)
 
 ## <span id="practical-tips"></span>Practical Tips for Combining Stones
 
@@ -253,21 +253,21 @@ Be mindful of hardness differences not only when wearing them, but also when sto
 
 **Clear Quartz (Crystal)** is considered compatible with all stones, and **"add Clear Quartz if you're undecided"** is a traditional golden rule. When a combination feels unbalanced, adding Clear Quartz is often said to bring overall calm.
 
-→ For detailed wearing instructions, refer to [How to Wear Power Stones Correctly](/blog/how-to-wear-powerstones/).
+→ For detailed wearing instructions, refer to [How to Wear Crystals Correctly](/blog/how-to-wear-powerstones/).
 
 ## <span id="faq"></span>Frequently Asked Questions (FAQ)
 
 **Q1. Are there any stones that should absolutely never be combined?**
 
-A. **There are no absolute 'no-go' combinations.** The "combinations best avoided" introduced in this article are **cultural and symbolic references**, not **absolute rules.** If you cherish a combination, **it can work even if it goes against traditional compatibility** — this is the essence of choosing power stones.
+A. **There are no absolute 'no-go' combinations.** The "combinations best avoided" introduced in this article are **cultural and symbolic references**, not **absolute rules.** If you cherish a combination, **it can work even if it goes against traditional compatibility** — this is the essence of choosing crystals.
 
 **Q2. Does combining stones double their effects?**
 
-A. **It's not accurate to say they double.** The effects of power stones are **cultural and symbolic in nature**, and there's no scientific way to numerically measure an increase or decrease in effects due to combinations. You can expect a psychological effect of **"making your intentions clearer,"** but this also varies from person to person.
+A. **It's not accurate to say they double.** The effects of crystals are **cultural and symbolic in nature**, and there's no scientific way to numerically measure an increase or decrease in effects due to combinations. You can expect a psychological effect of **"making your intentions clearer,"** but this also varies from person to person.
 
 **Q3. Should I really avoid 'Sōkoku' combinations in the Five Elements?**
 
-A. **There's no absolute need to avoid them.** The Five Elements represent an **ancient Chinese philosophical worldview**, and in modern power stone culture, they are treated as **"one point of reference."** The modern approach is to view **"Sōkoku as combinations that emphasize balance,"** and **interpret them flexibly according to your purpose.**
+A. **There's no absolute need to avoid them.** The Five Elements represent an **ancient Chinese philosophical worldview**, and in modern crystal culture, they are treated as **"one point of reference."** The modern approach is to view **"Sōkoku as combinations that emphasize balance,"** and **interpret them flexibly according to your purpose.**
 
 **Q4. What's the ideal number of stones for a bracelet?**
 
@@ -283,7 +283,7 @@ A. **No problem at all.** Stones you've **"cherished for many years"** hold **in
 
 ## <span id="postscript"></span>Editor's Postscript
 
-The question "Is it okay to combine this stone with that one?" is one of the **most frequently asked practical topics** I receive when giving power stone consultations. Back then, I always started by saying, **"There's no absolute answer."**
+The question "Is it okay to combine this stone with that one?" is one of the **most frequently asked practical topics** I receive when giving crystal consultations. Back then, I always started by saying, **"There's no absolute answer."**
 
 That's because the right combination **"changes depending on the person who wears it."** Even with the same "Citrine and Rutilated Quartz," while it's a classic pair for someone aiming for business results, it might be a **slightly off-choice for someone wishing for their family's health.** Your subjective sense of **"what you are wishing for"** is indeed the first criterion for combination.
 
@@ -299,26 +299,26 @@ If you're unsure, **start with two stones**. Once you get used to it, add a thir
 
 ## <span id="related"></span>Related Articles You Might Like
 
-- [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — Practical guide to classic two- and three-stone combos and color and chakra harmony (Supplemental Article)
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — An introductory guide before choosing your first stone
-- [How to Wear Power Stones Correctly](/blog/how-to-wear-powerstones/) — Differentiating between left and right, and the meaning of wearing locations
-- [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/) — Caring for your combined stones
+- [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Practical guide to classic two- and three-stone combos and color and chakra harmony (Supplemental Article)
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — An introductory guide before choosing your first stone
+- [How to Wear Crystals Correctly](/blog/how-to-wear-powerstones/) — Differentiating between left and right, and the meaning of wearing locations
+- [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/) — Caring for your combined stones
 - [Comprehensive Guide to 12-Month Birthstones](/blog/birthstone-guide/) — Combinations starting with birthstones
-- [Comprehensive Guide to Purpose-Specific Power Stones](/blog/luck-powerstones-complete-guide/) — An overview of 10 genres
+- [Comprehensive Guide to Purpose-Specific Crystals](/blog/luck-powerstones-complete-guide/) — An overview of 10 genres
 - [Meanings and Effects of Clear Quartz (Crystal)](/blog/clear-quartz/) — The versatile purifying stone compatible with all others
-- [9 Popular Power Stones for Money Luck](/blog/purpose-money-stones/) — Purpose-Specific Hub Article ①
-- [9 Popular Power Stones for Love Luck](/blog/purpose-love-stones/) — Purpose-Specific Hub Article ②
-- [9 Popular Power Stones for Work and Success Luck](/blog/purpose-work-stones/) — Purpose-Specific Hub Article ③
-- [9 Popular Power Stones for Health Luck](/blog/purpose-health-stones/) — Purpose-Specific Hub Article ④
-- [9 Popular Power Stones for Relationship Luck](/blog/purpose-relation-stones/) — Purpose-Specific Hub Article ⑤
-- [9 Popular Power Stones for Protection and Warding off Evil](/blog/purpose-protection-stones/) — Purpose-Specific Hub Article ⑥
+- [9 Popular Crystals for Money Luck](/blog/purpose-money-stones/) — Purpose-Specific Hub Article ①
+- [9 Popular Crystals for Love Luck](/blog/purpose-love-stones/) — Purpose-Specific Hub Article ②
+- [9 Popular Crystals for Work and Success Luck](/blog/purpose-work-stones/) — Purpose-Specific Hub Article ③
+- [9 Popular Crystals for Health Luck](/blog/purpose-health-stones/) — Purpose-Specific Hub Article ④
+- [9 Popular Crystals for Relationship Luck](/blog/purpose-relation-stones/) — Purpose-Specific Hub Article ⑤
+- [9 Popular Crystals for Protection and Warding off Evil](/blog/purpose-protection-stones/) — Purpose-Specific Hub Article ⑥
 
 ## Summary
 
--   Power stone 'compatibility' is judged multi-dimensionally from **five aspects: purpose, color, Five Elements, chakras, and hardness differences**.
+-   Crystal 'compatibility' is judged multi-dimensionally from **five aspects: purpose, color, Five Elements, chakras, and hardness differences**.
 -   **There are no 'absolute no-gos,' and combinations 'best avoided' are cultural references.**
 -   Specific suggestions, linked to hub articles for each purpose, can be found in the **6 purpose-specific recipe collections**.
 -   **Start with the 'Two-Stone Rule'** — a simple progression is the classic style for lasting enjoyment.
--   The effects of power stones are **cultural and symbolic in nature**, and combining them does not guarantee a doubling of effects.
+-   The effects of crystals are **cultural and symbolic in nature**, and combining them does not guarantee a doubling of effects.
 
 Please use the five aspects in this article as **'tools for thinking, not absolute rules.'** Your unique combination will surely be found! ☀️

@@ -15,7 +15,7 @@ draft: false
 
 ## Introduction
 
-"**I want to get into my dream school**," "**I want to pass my certification exam**," "**I want to pray for my child's academic success**" — praying for academic achievement and exam victory is a universal theme many people turn to shrines for at life's turning points. In this article, Sun-chan has compiled a comparison of **nationwide shrines famous for academic achievement and exam success**, linking them with our individual guide articles, all on one page. Discover the **enshrined deities, academic origins, and highlights** to find the perfect shrine for you or your child in no time. For shrine visiting etiquette, please refer to the [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/), and for power stones as amulets, also see [Power Stones for Study Luck](/blog/study-luck-stones/).
+"**I want to get into my dream school**," "**I want to pass my certification exam**," "**I want to pray for my child's academic success**" — praying for academic achievement and exam victory is a universal theme many people turn to shrines for at life's turning points. In this article, Sun-chan has compiled a comparison of **nationwide shrines famous for academic achievement and exam success**, linking them with our individual guide articles, all on one page. Discover the **enshrined deities, academic origins, and highlights** to find the perfect shrine for you or your child in no time. For shrine visiting etiquette, please refer to the [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/), and for crystals as amulets, also see [Crystals for Study Luck](/blog/study-luck-stones/).
 
 ## The Connection Between Academic Success and Shrines
 
@@ -144,17 +144,17 @@ A. No problem at all. Pilgrimages to Tenmangu Shrines, such as the "**San-Tenjin
 
 A. No. There are many other **famous shrines throughout Japan that are deeply connected to wisdom and study**, such as **Togakushi Shrine Chusha** (Ame-no-Yagokoro-Omoikane-no-Mikoto), **Kasuga Taisha** (the Fujiwara clan's "House of Learning"), and **Hieizan Enryakuji** (the "mountain of scholar-monks"). Visiting a shrine near you is perfectly fine.
 
-**Q5. Can I bring power stones with me when visiting a shrine?**
+**Q5. Can I bring crystals with me when visiting a shrine?**
 
-A. Yes. Many people bring power stones for study luck, such as **Fluorite ('Stone of Genius')** or **Garnet ('Stone of Fruition')**. Common practices include holding them in your palm before passing through the torii gate, or placing them near the Ofuda (shrine talismans) after your visit. For more details, please refer to [Power Stones for Study Luck](/blog/study-luck-stones/).
+A. Yes. Many people bring crystals for study luck, such as **Fluorite ('Stone of Genius')** or **Garnet ('Stone of Fruition')**. Common practices include holding them in your palm before passing through the torii gate, or placing them near the Ofuda (shrine talismans) after your visit. For more details, please refer to [Crystals for Study Luck](/blog/study-luck-stones/).
 
 ## Related Articles You Might Also Like
 
 -   [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/) — Basic Etiquette and Manners
--   [Power Stones for Study Luck](/blog/study-luck-stones/) — Fluorite and other academic stones
--   [Power Stones for Career Luck](/blog/work-luck-stones/) — For professionals seeking certifications
--   [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison of 10 categories
--   [Basics of Power Stones and Feng Shui](/blog/fengshui-powerstone-basics/) — Arranging stones and space
+-   [Crystals for Study Luck](/blog/study-luck-stones/) — Fluorite and other academic stones
+-   [Crystals for Career Luck](/blog/work-luck-stones/) — For professionals seeking certifications
+-   [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison of 10 categories
+-   [Basics of Crystals and Feng Shui](/blog/fengshui-powerstone-basics/) — Arranging stones and space
 
 ## Summary
 
@@ -163,6 +163,6 @@ A. Yes. Many people bring power stones for study luck, such as **Fluorite ('Ston
 -   Other famous shrines revered since ancient times for enshrining gods of wisdom include **Togakushi Shrine Chusha (Ame-no-Yagokoro-Omoikane-no-Mikoto), Kasuga Taisha, and Hieizan Enryakuji**.
 -   The basic mindset for visiting shrines is to pray for "**may my efforts bear fruit**" rather than "please grant me success."
 -   **Nadenade-Ushi (Petting Ox), Ema (votive tablets), and Plum Blossoms** are the three main symbols of Tenmangu Shrines.
--   Combining a shrine visit with [Power Stones for Study Luck](/blog/study-luck-stones/) can provide a daily amulet.
+-   Combining a shrine visit with [Crystals for Study Luck](/blog/study-luck-stones/) can provide a daily amulet.
 
 It has been said since ancient times that success comes from "**effort multiplied by peace of mind**." A shrine visit is a ritual to **prepare your mind** to face your efforts. From this page, take the first step towards finding the perfect shrine for you or your child.

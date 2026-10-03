@@ -1,6 +1,6 @@
 ---
 title: "Omiwa Shrine Worship Guide: One of Japan's Oldest Shrines, with Mount Miwa as its Sacred Body"
-description: "This comprehensive guide covers the history, divine blessings, Mount Miwa faith, key worship points, Sai Shrine, the Medicinal Well, sacred mountain ascent (Tohhai), recommended power stones, and surrounding attractions of Omiwa Shrine (1422 Miwa, Sakurai City, Nara Prefecture). It's an essential resource for visiting a sacred site that continues to preserve one of Japan's oldest forms of primitive worship."
+description: "This comprehensive guide covers the history, divine blessings, Mount Miwa faith, key worship points, Sai Shrine, the Medicinal Well, sacred mountain ascent (Tohhai), recommended crystals, and surrounding attractions of Omiwa Shrine (1422 Miwa, Sakurai City, Nara Prefecture). It's an essential resource for visiting a sacred site that continues to preserve one of Japan's oldest forms of primitive worship."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -23,7 +23,7 @@ Omiwa Shrine (pronounced O-miwa Jinja) is one of Japan's oldest shrines, unique 
 - [How to Ascend Mount Miwa (Tohhai)](#climb)
 - [Key Tips for Your Visit](#point)
 - [Access Information](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Basic Worship Etiquette](#manner)
 - [Frequently Asked Questions (FAQ)](#faq)
@@ -100,7 +100,7 @@ Approximately 5 minutes walk from JR Sakurai Line "**Miwa**" Station. By car, ab
 
 **Parking**: Available (free, with paid parking also nearby).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the energy of this sacred site and are recommended for your visit to Omiwa Shrine.
 
@@ -161,7 +161,7 @@ For me, Sun-chan, Omiwa Shrine is **"the shrine where you know the deity's addre
 - [Kasuga Grand Shrine Worship Guide](/blog/kasuga-taisha/) — Nara's Three Thousand Lanterns
 - [Izumo Taisha Grand Shrine Worship Guide](/blog/izumo-taisha/) — The Bond Between Omononushi and Okuninushi
 - [The Meaning and Effects of Jade](/blog/jade/) — An Ancient Japanese Artifact
-- [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Health and Matchmaking Chapter
+- [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Health and Matchmaking Chapter
 
 ## Summary
 

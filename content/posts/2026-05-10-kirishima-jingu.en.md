@@ -1,7 +1,7 @@
 ---
 title: "Kirishima Jingu Pilgrimage Guide | Southern Kyushu's Vermilion Shrine Dedicated to Ninigi-no-Mikoto, the Protagonist of the Tenson Korin Myth"
 description: >-
-  A comprehensive guide to Kirishima Jingu (Kirishima City, Kagoshima Prefecture), covering its history, Ninigi-no-Mikoto, the Tenson Korin myth, the vermilion National Treasure shrine, Sakamoto Ryoma's honeymoon, Mt. Takachiho trailhead, key visiting points, access, recommended power stones, nearby attractions, and FAQs.
+  A comprehensive guide to Kirishima Jingu (Kirishima City, Kagoshima Prefecture), covering its history, Ninigi-no-Mikoto, the Tenson Korin myth, the vermilion National Treasure shrine, Sakamoto Ryoma's honeymoon, Mt. Takachiho trailhead, key visiting points, access, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -28,7 +28,7 @@ Kirishima Jingu is a venerable shrine that stands at the foot of the sacred **Ki
 - [Sakamoto Ryoma and Oryo's Honeymoon](#ryoma)
 - [Key Visiting Points](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Best Times to Visit](#season)
 - [Basic Shrine Visiting Manners](#manner)
@@ -98,7 +98,7 @@ Car: Approximately 30 minutes from Kyushu Expressway **"Mizobe-Kagoshima Airport
 
 **Parking**: Available within the shrine grounds (free, approx. 500 spaces).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones that are said to resonate well with the sacred energy of Kirishima Jingu if you bring them when you visit.
 

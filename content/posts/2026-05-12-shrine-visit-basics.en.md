@@ -240,9 +240,9 @@ A. **There is no set amount**. Amounts preferred for their auspicious wordplay i
 
 A. Traditionally, it's "**Issha Ichigan**" (one wish per shrine). It's said that making too many wishes can disperse the deity's power. **Choosing your single most important wish**, or focusing on gratitude, aligns better with the spirit of Shinto.
 
-**Q6. Is it okay to bring power stones to a shrine?**
+**Q6. Is it okay to bring crystals to a shrine?**
 
-A. Yes. Many people bring them with the intention of "**purifying**" **their stones with the sacred energy of the shrine**. Common practices include holding them in your palm before passing under the torii gate or placing them near your omamori or o-fuda after your visit. For more details, please refer to [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/).
+A. Yes. Many people bring them with the intention of "**purifying**" **their stones with the sacred energy of the shrine**. Common practices include holding them in your palm before passing under the torii gate or placing them near your omamori or o-fuda after your visit. For more details, please refer to [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/).
 
 ## <span id="related"></span>Related Articles You Might Like
 
@@ -252,7 +252,7 @@ A. Yes. Many people bring them with the intention of "**purifying**" **their sto
 -   [Itsukushima Jinja Shrine Visit Guide](/blog/itsukushima-jinja/) — A Maritime World Heritage Site
 -   [Kumano Hongu Taisha Shrine Visit Guide](/blog/kumano-hongu-taisha/) — The Sacred Site of Rebirth
 -   [Omiwa Jinja Shrine Visit Guide](/blog/omiwa-jinja/) — One of Japan's Oldest Shrines
--   [The Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — For Charms on Your Visit
+-   [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — For Charms on Your Visit
 
 ## Editorial Team's View: Avoiding Becoming "Etiquette Police"
 

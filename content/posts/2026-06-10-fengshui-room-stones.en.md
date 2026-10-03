@@ -1,6 +1,6 @@
 ---
-title: "Complete Feng Shui Guide: Power Stone Placement by Room – A Quick Chart for 7 Spaces and Their Best Crystals"
-description: "This complete guide, from a Feng Shui perspective, explains the optimal power stones and their placement for each of the 7 spaces in your home: entrance, living room, bedroom, home office, kitchen, bathroom, and children's room. It covers everything from combining stones with directions to important purification tips."
+title: "Complete Feng Shui Guide: Crystal Placement by Room – A Quick Chart for 7 Spaces and Their Best Crystals"
+description: "This complete guide, from a Feng Shui perspective, explains the optimal crystals and their placement for each of the 7 spaces in your home: entrance, living room, bedroom, home office, kitchen, bathroom, and children's room. It covers everything from combining stones with directions to important purification tips."
 date: "2026-06-10"
 category: "powerstones"
 tags: ["Black Tourmaline", "Rooms", "Home Decor", "Entrance", "Bedroom", "Living Room"]
@@ -10,7 +10,7 @@ draft: false
 
 ## Introduction
 
-Ever bought a power stone, only to wonder where on earth to put it? Haven't we all felt that way?
+Ever bought a crystal, only to wonder where on earth to put it? Haven't we all felt that way?
 
 In Feng Shui, it's believed that **different types of "Qi" (energy) flow through each space in your home.** The Qi in your bedroom supports peaceful sleep and restoration, while the Qi in your entrance invites energy from the outside world. By choosing and placing stones that match each space, the stones and the environment are said to "resonate," making it easier for them to unleash their full potential.
 
@@ -18,7 +18,7 @@ In this article, I've put together a list of **recommended stones, their placeme
 
 ---
 
-## Quick Reference Chart: Recommended Power Stones by Room
+## Quick Reference Chart: Recommended Crystals by Room
 
 | Location | Main Purpose | Representative Stones |
 |---|---|---|
@@ -58,7 +58,7 @@ In Feng Shui, **the entrance is the gateway for all the Qi (energy) in your home
 -   **On top of the shoe cabinet, slightly below eye level** is generally best.
 -   Placing a small dish or cloth underneath the stone shows respectful treatment.
 
-> For a detailed placement guide for your entrance, also check out [8 Power Stones to Place in Your Entrance](/blog/fengshui-entrance-stones/).
+> For a detailed placement guide for your entrance, also check out [8 Crystals to Place in Your Entrance](/blog/fengshui-entrance-stones/).
 
 ---
 
@@ -124,7 +124,7 @@ People spend about one-third of their day in the bedroom. During this time, both
 -   **Avoid placing near mirrors**: In Feng Shui, mirrors are said to reflect energy and make sleep shallower.
 -   Also, be mindful of placing them near TVs or electronic devices (the heat from electromagnetic waves can sometimes damage stones).
 
-> For more details, please see the placement chart in [7 Power Stones to Place in Your Bedroom](/blog/fengshui-bedroom-stones/).
+> For more details, please see the placement chart in [7 Crystals to Place in Your Bedroom](/blog/fengshui-bedroom-stones/).
 
 ---
 
@@ -157,7 +157,7 @@ A home office is an excellent place for stones that enhance **concentration, jud
 -   Considering the **three divisions of your desk (left: receiving, center: working, right: sending)** can help harmonize the flow of Qi.
 -   More detailed placement methods are explained with differentiation in the next section.
 
-> For a **detailed version for your home office**, [7 Power Stones to Place on Your Desk in the Office](/blog/fengshui-desk-stones/) is a dedicated article. You can find desk-specific information there, such as the 8 principles of placement and industry-specific patterns. This article focuses on the "overall flow of energy in the room."
+> For a **detailed version for your home office**, [7 Crystals to Place on Your Desk in the Office](/blog/fengshui-desk-stones/) is a dedicated article. You can find desk-specific information there, such as the 8 principles of placement and industry-specific patterns. This article focuses on the "overall flow of energy in the room."
 
 ---
 
@@ -219,7 +219,7 @@ In Feng Shui, toilets and bathrooms are considered "places where Qi flows out." 
 -   **Do not submerge**: Selenite dissolves in water. Citrine and Tiger's Eye also should not be submerged for long periods.
 -   It's generally safer not to keep valuable or cherished stones permanently in the bathroom.
 
-> For detailed purification methods, please refer to [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+> For detailed purification methods, please refer to [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 ---
 
@@ -266,7 +266,7 @@ If you want to further enhance the effects of your stones, it's recommended to c
 | Southwest | Love and Marriage | Rose Quartz, Moonstone |
 | West | Creativity and Children | Amethyst, Moonstone |
 
-> A complete quick reference chart for the Eight Directions and Five Elements can be found in [Power Stone Chart by Direction](/blog/fengshui-direction-stones/).
+> A complete quick reference chart for the Eight Directions and Five Elements can be found in [Crystal Chart by Direction](/blog/fengshui-direction-stones/).
 
 ---
 
@@ -293,7 +293,7 @@ If you want to further enhance the effects of your stones, it's recommended to c
 
 ## Difference From the Home Office Article: "Desk" vs. "Overall Room Energy"
 
-[7 Power Stones to Place on Your Desk in the Office](/blog/fengshui-desk-stones/) is an article **specifically focused on desk placement.** It explains detailed placement methods for desk workers, such as "stones to place next to your computer," "the 3-division desk layout," and "industry-specific patterns."
+[7 Crystals to Place on Your Desk in the Office](/blog/fengshui-desk-stones/) is an article **specifically focused on desk placement.** It explains detailed placement methods for desk workers, such as "stones to place next to your computer," "the 3-division desk layout," and "industry-specific patterns."
 
 This article, however, takes a step back and focuses on harmonizing the **overall energy flow of the home office as a space.** The recommended sequence is to use this article as a "finishing touch" after organizing your desk, by placing stones according to the room's cardinal directions.
 
@@ -301,12 +301,12 @@ This article, however, takes a step back and focuses on harmonizing the **overal
 
 ## Related Articles You Might Also Like
 
--   [Feng Shui and Power Stones: A Basic Introduction](/blog/fengshui-powerstone-basics/) — Basic Knowledge of Qi, Five Elements, and Directions
--   [Power Stone Chart by Direction](/blog/fengshui-direction-stones/) — Find Your Stone by Your Wish
--   [8 Power Stones to Place in Your Entrance](/blog/fengshui-entrance-stones/) — Detailed Guide for the Entrance
--   [7 Power Stones to Place in Your Bedroom](/blog/fengshui-bedroom-stones/) — Detailed Guide for the Bedroom
--   [7 Power Stones to Place on Your Desk in the Office](/blog/fengshui-desk-stones/) — Desk-Specific Guide
--   [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/) — Basics of Purification
+-   [Feng Shui and Crystals: A Basic Introduction](/blog/fengshui-powerstone-basics/) — Basic Knowledge of Qi, Five Elements, and Directions
+-   [Crystal Chart by Direction](/blog/fengshui-direction-stones/) — Find Your Stone by Your Wish
+-   [8 Crystals to Place in Your Entrance](/blog/fengshui-entrance-stones/) — Detailed Guide for the Entrance
+-   [7 Crystals to Place in Your Bedroom](/blog/fengshui-bedroom-stones/) — Detailed Guide for the Bedroom
+-   [7 Crystals to Place on Your Desk in the Office](/blog/fengshui-desk-stones/) — Desk-Specific Guide
+-   [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/) — Basics of Purification
 -   [Meaning and Effects of Black Tourmaline](/blog/black-tourmaline/) — Guardian Stone for the Entrance
 -   [Meaning and Effects of Rose Quartz](/blog/rose-quartz-meaning/) — For Living Rooms and Children's Rooms
 -   [Meaning and Effects of Amethyst](/blog/amethyst/) — For Bedrooms and Children's Rooms

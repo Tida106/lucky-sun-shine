@@ -1,6 +1,6 @@
 ---
 title: "Kasuga Taisha Shrine Visiting Guide | A Fujiwara Clan Shrine in Nara Lit by 3,000 Lanterns"
-description: "A comprehensive guide to Kasuga Taisha Shrine (160 Kasuganocho, Nara City, Nara Prefecture), covering its history, blessings, visiting tips, Meoto Daikokusha Shrine, Mantoro Lantern Festival, sacred deer, recommended power stones, and nearby attractions. This is your essential guide for visiting a World Heritage site and a cultural asset of ancient Nara."
+description: "A comprehensive guide to Kasuga Taisha Shrine (160 Kasuganocho, Nara City, Nara Prefecture), covering its history, blessings, visiting tips, Meoto Daikokusha Shrine, Mantoro Lantern Festival, sacred deer, recommended crystals, and nearby attractions. This is your essential guide for visiting a World Heritage site and a cultural asset of ancient Nara."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -21,7 +21,7 @@ Kasuga Taisha Shrine is an ancient shrine connected to the Fujiwara clan, set ag
 - [Meoto Daikokusha Shrine for Matchmaking](#meoto)
 - [Visiting Tips](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Basic Visiting Manners](#manner)
 - [Frequently Asked Questions (FAQ)](#faq)
@@ -86,7 +86,7 @@ From JR or Kintetsu "**Nara**" Station, take the city loop bus for about 10 minu
 
 **Parking**: Available (paid, 100 spaces). Public transport is recommended, as it tends to fill up on weekends and national holidays.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Kasuga Taisha Shrine, which you might consider bringing when you visit.
 
@@ -146,7 +146,7 @@ For me, Sun-chan, Kasuga Taisha is "the shrine of lanterns." More than the splen
 - [Omiwa Jinja Shrine Visiting Guide](/blog/omiwa-jinja/) — Nara's Mt. Miwa Faith
 - [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — A Talisman for Matchmaking
 - [Citrine Meaning and Effects](/blog/citrine/) — The Stone of Business Prosperity
-- [Comprehensive Power Stone Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Matchmaking Chapter
+- [Comprehensive Crystal Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Matchmaking Chapter
 
 ## Summary
 

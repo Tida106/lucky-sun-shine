@@ -1,7 +1,7 @@
 ---
 title: "Togakushi Shrine Pilgrimage Guide | Exploring Shinshu's Five Shrines, Famed for the Ama-no-Iwato Myth and Cedar Avenue"
 description: >-
-  A comprehensive guide to Togakushi Shrine (located in Togakushi, Nagano City, Nagano Prefecture, consisting of five shrines), covering its history, the Ama-no-Iwato myth, Okusha, Chusha, Hokosha, Kuzuryu-sha, Hinomikosha, the iconic cedar avenue, key pilgrimage points, access, recommended power stones, nearby attractions, and frequently asked questions.
+  A comprehensive guide to Togakushi Shrine (located in Togakushi, Nagano City, Nagano Prefecture, consisting of five shrines), covering its history, the Ama-no-Iwato myth, Okusha, Chusha, Hokosha, Kuzuryu-sha, Hinomikosha, the iconic cedar avenue, key pilgrimage points, access, recommended crystals, nearby attractions, and frequently asked questions.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -25,7 +25,7 @@ Togakushi Shrine is one of Shinshu's most venerable ancient shrines, with five d
 - [Cedar Avenue and Zuijinmon Gate](#sugi)
 - [Pilgrimage Tips](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Best Season and Time to Visit](#season)
 - [Basic Etiquette for Shrine Visits](#manner)
@@ -92,7 +92,7 @@ By Car: Approximately 20 minutes from Shinanomachi IC on the Joshinetsu Expressw
 
 **Parking**: Parking lots are available at Okusha, Chusha, and Hokosha Shrines (some are paid).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Togakushi Shrine if you bring them for your visit.
 

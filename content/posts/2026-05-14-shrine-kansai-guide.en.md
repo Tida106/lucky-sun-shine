@@ -183,9 +183,9 @@ A. **Practically speaking, no, it's very difficult**. Just getting from **Kumano
 
 A. Yes, there are many! Other prominent shrines in Kansai include **Shimogamo Shrine, Kamigamo Shrine, Fushimi Inari Taisha (Kyoto), Sumiyoshi Taisha (Osaka), and Kitano Tenmangu Shrine (Kyoto)**. I plan to introduce them on this site progressively!
 
-**Q5. Is it okay to bring power stones when visiting a shrine?**
+**Q5. Is it okay to bring crystals when visiting a shrine?**
 
-A. Yes! It's common to hold them in your palm before passing through the torii gate, or place them near your omamori or ofuda (amulets and talismans) after your visit. For more details, refer to [The Basics of Power Stones and Feng Shui](/blog/fengshui-powerstone-basics/).
+A. Yes! It's common to hold them in your palm before passing through the torii gate, or place them near your omamori or ofuda (amulets and talismans) after your visit. For more details, refer to [The Basics of Crystals and Feng Shui](/blog/fengshui-powerstone-basics/).
 
 ## Related Articles You Might Like
 

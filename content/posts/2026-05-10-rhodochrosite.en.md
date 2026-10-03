@@ -46,7 +46,7 @@ In a spiritual context, it's known as "**a stone that heals past romantic wounds
 
 ## Alleged Effects
 
-> **Please note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Please note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
 -   **Passionate Love**: Based on the legend of "The Emperor's Heart," it's said to attract intense romance.
 -   **Meeting Your Soulmate**: It's considered a leading stone for love luck, believed to attract your destined person.
@@ -108,7 +108,7 @@ Here are the approximate market prices for Rhodochrosite (Inca Rose) (as of 2026
 
 > Argentinian Inca Rose is considered the highest quality. Those with deep color and good transparency are superior.
 
-Prices vary significantly depending on origin, grade, and size. It's recommended to compare multiple stores, looking for items with certification, transparency, and deep color. For general guidance, please refer to the [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/).
+Prices vary significantly depending on origin, grade, and size. It's recommended to compare multiple stores, looking for items with certification, transparency, and deep color. For general guidance, please refer to the [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/).
 
 ## How to Spot Fakes and Artificial Stones
 
@@ -133,11 +133,11 @@ A. Rhodochrosite is said to intensify "passion," so it's sometimes mentioned tha
 
 ## Related Articles You Might Like
 
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 -   [Rose Quartz: Meaning, Stone Powers, and Effects](/blog/rose-quartz-meaning/)
 -   [Morganite: Meaning, Stone Powers, and Effects](/blog/morganite/)
 -   [Rhodonite: Meaning, Stone Powers, and Effects](/blog/rhodonite/)
--   [Recommended Power Stones for Love Luck](/blog/luck-powerstones-complete-guide/)
+-   [Recommended Crystals for Love Luck](/blog/luck-powerstones-complete-guide/)
 
 ## Editor's Note
 
@@ -145,7 +145,7 @@ Within our editorial team, Rhodochrosite has the most stories about being "a sto
 
 ## Summary
 
--   Rhodochrosite (Inca Rose) is a power stone symbolizing "Passionate Love, Soulmates, and a Rose-Colored Life."
+-   Rhodochrosite (Inca Rose) is a crystal symbolizing "Passionate Love, Soulmates, and a Rose-Colored Life."
 -   Passionate Love: Believed to attract intense romance.
 -   Meeting Your Soulmate: Also said to attract your destined person.
 -   For purification, Clear Quartz Crystal Chips and White Sage are recommended. Avoiding water is advisable.

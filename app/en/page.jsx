@@ -15,14 +15,14 @@ import SunSpeechBubble from '@/components/SunSpeechBubble';
 import DailyMessage from '@/components/DailyMessage';
 
 export const metadata = {
-  title: 'Lucky Sun Shine | Power Stones, Power Spots & Good Luck Guide',
+  title: 'Lucky Sun Shine | Crystals, Power Spots & Good Luck Guide',
   description:
-    'Discover the latest info on power stones, power spots, lucky items, and habits to boost your fortune. Start your lucky action today!',
+    'Discover the latest info on crystals, power spots, lucky items, and habits to boost your fortune. Start your lucky action today!',
 };
 
 // カテゴリ名の英語変換用辞書
 const categoryEnMap = {
-  'パワーストーン': { title: 'Power Stones', tagline: 'A complete guide to stones and their meanings.' },
+  'パワーストーン': { title: 'Crystals', tagline: 'A complete guide to stones and their meanings.' },
   'パワースポット': { title: 'Power Spots', tagline: 'Sacred places filled with nature\'s energy.' },
   '開運グッズ': { title: 'Lucky Items', tagline: 'Everyday items to invite good fortune.' },
   '運気アップ習慣': { title: 'Good Luck Habits', tagline: 'Small daily routines to brighten your life.' },
@@ -95,7 +95,7 @@ const GIFT_PICKS = [
   {
     slug: 'powerstone-gift-guide',
     label: 'Gift Guide',
-    headline: 'Power Stone Gift Guide',
+    headline: 'Crystal Gift Guide',
     body: 'How to choose by recipient and budget, plus message ideas to include.',
   },
   {
@@ -190,7 +190,7 @@ export default function EnHomePage() {
             <SunSpeechBubble>Welcome☀️ I've been waiting for you!</SunSpeechBubble>
           </div>
           <p className="mt-6 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
-            Power stones, power spots, lucky items, and good luck habits.<br />
+            Crystals, power spots, lucky items, and good luck habits.<br />
             A media dedicated to bringing a "little good omen" into your daily life.
           </p>
           <div className="mt-7 flex flex-wrap justify-center gap-3">
@@ -298,7 +298,7 @@ export default function EnHomePage() {
             <div className="text-4xl mb-3 drop-shadow-sm">🥉</div>
             <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">RISING FAST!</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
-              Entrance Power Stones Guide
+              Entrance Crystals Guide
             </h3>
             <p className="mt-3 text-sm text-ink-700 leading-relaxed">
               Invite good energy and block the bad. How to choose and place stones at your entrance.
@@ -561,7 +561,7 @@ export default function EnHomePage() {
                 <span>SEASONAL</span>
               </p>
               <h3 className="mt-2 font-display text-xl md:text-2xl font-extrabold text-ink-900 leading-snug group-hover:text-sky-700 transition-colors">
-                Perfect Power Stones for Summer
+                Perfect Crystals for Summer
               </h3>
               <p className="mt-3 text-sm md:text-base text-ink-700 leading-relaxed">
                 Strong sunlight, summer fatigue, and crowded exhaustion. These cool and refreshing stones will gently balance your energy during the hot season.
@@ -680,7 +680,7 @@ export default function EnHomePage() {
                 Recommended YouTube Channels for Good Luck
               </h3>
               <p className="mt-3 text-sm md:text-base text-ink-700 leading-relaxed">
-                Shrines, power spots, fortune-telling, and power stones. There are atmospheres and passions you can only truly grasp through video. Here are 4 channels carefully selected by Lucky Sun Shine that are genuinely worth watching.
+                Shrines, power spots, fortune-telling, and crystals. There are atmospheres and passions you can only truly grasp through video. Here are 4 channels carefully selected by Lucky Sun Shine that are genuinely worth watching.
               </p>
               <span className="mt-4 inline-flex items-center gap-1 text-sm font-bold text-amber-700 group-hover:underline">
                 View Recommended Channels

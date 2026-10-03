@@ -1,5 +1,5 @@
 ---
-title: "7 Power Stones for Your Home Office and Desk | A Quick Guide to Feng Shui Placement for Focus, Career Success, and Improved Relationships"
+title: "7 Crystals for Your Home Office and Desk | A Quick Guide to Feng Shui Placement for Focus, Career Success, and Improved Relationships"
 description: "A comprehensive guide to desk feng shui for the remote work era."
 date: '2026-05-10'
 updated: '2026-05-23'
@@ -13,7 +13,7 @@ draft: false
 
 ## Introduction
 
-With remote and work-from-home becoming the norm, the **"energy" around your desk** directly impacts your work performance. In this article, I'll introduce 7 power stones you should place on your desk and explain how to arrange them to enhance focus, career luck, and improve your relationships.
+With remote and work-from-home becoming the norm, the **"energy" around your desk** directly impacts your work performance. In this article, I'll introduce 7 crystals you should place on your desk and explain how to arrange them to enhance focus, career luck, and improve your relationships.
 
 ## Four Key Objectives for Your Desk
 
@@ -22,7 +22,7 @@ With remote and work-from-home becoming the norm, the **"energy" around your des
 3.  Improve **interpersonal relationships** (quality of emails and meetings)
 4.  Relieve **fatigue and stress**
 
-## 7 Power Stones You'll Want on Your Desk
+## 7 Crystals You'll Want on Your Desk
 
 ### 1. Fluorite (Stone of Focus and Genius)
 
@@ -156,9 +156,9 @@ A. **Both are ideal**. Houseplants activate energy, and stones help direct that 
 ## Related Articles You Might Like
 
 -   [Complete Guide to Lucky Habits](/blog/lucky-habits-guide/) — A comprehensive edition including habits beyond your desk
--   [Basics of Feng Shui and Power Stones](/blog/fengshui-powerstone-basics/) — Fundamental combinations of spaces and stones
--   [Power Stones to Place at Your Entrance](/blog/fengshui-entrance-stones/) — To align the energetic gateway
--   [Quick Reference Guide to Power Stones by Direction](/blog/fengshui-direction-stones/) — Eight directions and Five Elements
+-   [Basics of Feng Shui and Crystals](/blog/fengshui-powerstone-basics/) — Fundamental combinations of spaces and stones
+-   [Crystals to Place at Your Entrance](/blog/fengshui-entrance-stones/) — To align the energetic gateway
+-   [Quick Reference Guide to Crystals by Direction](/blog/fengshui-direction-stones/) — Eight directions and Five Elements
 -   [Meaning and Effects of Fluorite](/blog/fluorite/) — The Genius Stone of Focus
 -   [Meaning and Effects of Tiger's Eye](/blog/tigers-eye/) — The Stone of Decision and Financial Luck
 

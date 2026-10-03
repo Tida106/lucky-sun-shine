@@ -72,7 +72,7 @@ Since the 20th century, deposits have also been found in Brazil, Sri Lanka, and 
 
 ## <span id="benefits"></span>Purported Effects and Benefits
 
-> **Disclaimer**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Disclaimer**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Ability to Embrace Change** — As a color-changing stone, it is regarded as a **symbol of "periods of transformation in life."**
 - **Balancing Duality** — It is believed to support the **harmony of different roles**, such as one's day persona and night persona, or work and private life.
@@ -202,8 +202,8 @@ It's okay not to be afraid of change. Alexandrite, you see, is a magical friend 
 - [Moonstone Meanings and Effects](/blog/moonstone/) — Also a June birthstone, the stone of intuition and new beginnings.
 - [Pearl Meanings and Effects](/blog/pearl/) — Also a June birthstone, the ocean gem of purity and femininity.
 - [Diamond Meanings and Effects](/blog/diamond/) — A stone to welcome at life's milestones, a symbol of resilience.
-- [Moon Phases and Power Stones](/blog/moon-phases-and-stones/) — Harnessing stone energy with the moon's rhythm.
-- [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects by placement.
+- [Moon Phases and Crystals](/blog/moon-phases-and-stones/) — Harnessing stone energy with the moon's rhythm.
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects by placement.
 
 ## Summary
 

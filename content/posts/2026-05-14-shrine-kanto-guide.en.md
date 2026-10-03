@@ -116,9 +116,9 @@ A. **A car offers more flexibility**, but **roads may be closed due to snow and 
 
 A. Yes, there are many other renowned shrines in Kanto, such as **Kashima Jingu (Ibaraki), Katori Jingu (Chiba), Hikawa Shrine (Saitama), and Samukawa Shrine (Kanagawa)**. Sun-chan's site plans to introduce them sequentially.
 
-**Q5. Is it okay to bring power stones to a shrine?**
+**Q5. Is it okay to bring crystals to a shrine?**
 
-A. Yes, absolutely! It's common to hold them in your palm before passing through the torii gate, or place them near your omamori or Ofuda (charms or talismans) after your visit. For more details, please refer to [The Basics of Power Stones and Feng Shui](/blog/fengshui-powerstone-basics/).
+A. Yes, absolutely! It's common to hold them in your palm before passing through the torii gate, or place them near your omamori or Ofuda (charms or talismans) after your visit. For more details, please refer to [The Basics of Crystals and Feng Shui](/blog/fengshui-powerstone-basics/).
 
 ## Related Articles You Might Also Like
 

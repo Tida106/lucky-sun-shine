@@ -266,4 +266,4 @@ If you can write down the answers to these three questions, go ahead and paint t
 -   [How to Choose a Maneki Neko (Lucky Cat): Complete Guide to Colors, Paw Direction, Size, and Placement](/blog/maneki-neko/) — Another 대표的な縁起物 (representative lucky charm).
 -   [Types and Selection of Omamori (Amulets): Complete Guide to Benefits, Shrines, Carrying Multiple, and Returning](/blog/omamori-guide/) — Basics of amulets obtained from shrines.
 -   [Recommended Shrines for Academic Achievement and Passing Exams](/blog/shrine-gakugyo-guide/) — Popular places for students taking exams to visit.
--   [Power Stones to Boost Study Luck](/blog/study-luck-stones/) — Guardian stones that pair well with Daruma.
+-   [Crystals to Boost Study Luck](/blog/study-luck-stones/) — Guardian stones that pair well with Daruma.

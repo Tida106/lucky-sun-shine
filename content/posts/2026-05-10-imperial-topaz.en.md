@@ -44,7 +44,7 @@ As a warm-toned stone corresponding to the 3rd Chakra (Solar Plexus), it is cher
 
 ## Said Effects and Benefits
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Please Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
 -   **Success and Career Advancement**: Due to its history bearing the name of an emperor, it has been said to support those striving for greater heights.
 -   **Confidence and Dignity**: As a warm-toned stone corresponding to the 3rd Chakra, it is believed to bestow the power to carry oneself with poise and dignity.
@@ -68,7 +68,7 @@ Imperial Topaz is a stone whose value can change significantly with even slight 
 -   **Red-Pink**: Rare. The highest rank that can be designated "**Imperial**" on a gemological certificate.
 -   **Sherry Pink Pleochroism**: A rare item whose color changes depending on the viewing direction, popular among collectors.
 
-Since the perception of color greatly influences the stone's impression, it's recommended to see its actual brilliance in person if possible. If you're unsure about choosing a theme, please refer to our [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/).
+Since the perception of color greatly influences the stone's impression, it's recommended to see its actual brilliance in person if possible. If you're unsure about choosing a theme, please refer to our [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/).
 
 ## Compatible Combinations
 
@@ -80,7 +80,7 @@ Since the perception of color greatly influences the stone's impression, it's re
 | Imperial Topaz and [Sunstone](/blog/sunstone/) | A duet of sun's radiance |
 | Imperial Topaz and [Tiger's Eye](/blog/tigers-eye/) | The decisive combination for competitive luck and career advancement |
 
-For more details on how to think about combinations, please refer to our [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For more details on how to think about combinations, please refer to our [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Purification Methods
 
@@ -95,7 +95,7 @@ Methods to Avoid:
 -   Prolonged direct sunlight (risk of color change)
 -   Strong impact (due to cleavage, it can break easily depending on the direction)
 
-For detailed steps, please refer to the [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+For detailed steps, please refer to the [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 ## Price Range
 
@@ -133,7 +133,7 @@ A. While Citrine is also widely recognized as a November birthstone, Imperial To
 
 ## Summary
 
--   Imperial Topaz is a power stone symbolizing "Emperor's Radiance, Success, and Confidence."
+-   Imperial Topaz is a crystal symbolizing "Emperor's Radiance, Success, and Confidence."
 -   It bears the "Imperial" name due to its history of 19th-century Russian Emperor Alexander I desiring exclusive ownership.
 -   Today, its main origin is Ouro Preto, Brazil, with sherry to peach-pink hues being the most prized.
 -   For purification, **clear quartz chips and white sage** are suitable, and it's best to avoid **prolonged direct sunlight and strong impacts**.
@@ -146,7 +146,7 @@ Behind the desire to "be confident" usually lies the fear of "**not being enough
 
 ## Related Articles You Might Like
 
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 -   [Citrine: Meaning, Symbolism, and Effects](/blog/citrine/)
 -   [Sunstone: Meaning, Symbolism, and Effects](/blog/sunstone/)
 -   [Tiger's Eye: Meaning, Symbolism, and Effects](/blog/tigers-eye/)

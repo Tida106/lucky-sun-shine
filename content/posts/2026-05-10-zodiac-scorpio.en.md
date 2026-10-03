@@ -1,7 +1,7 @@
 ---
-title: "Scorpio Zodiac Stones and Power Stones | A Guide to Personality, Fortune, and Obsidian-Centric Choices"
+title: "Scorpio Zodiac Stones and Crystals | A Guide to Personality, Fortune, and Obsidian-Centric Choices"
 description: >-
-  A comprehensive guide to recommended power stones that support the personality and fortune of Scorpios (Oct 24 - Nov 22). Centering on their guardian stone Obsidian, this guide covers compatible stones like Charoite, Garnet, and Labradorite, along with lucky colors, fortune-boosting actions, how to wear them, and FAQs.
+  A comprehensive guide to recommended crystals that support the personality and fortune of Scorpios (Oct 24 - Nov 22). Centering on their guardian stone Obsidian, this guide covers compatible stones like Charoite, Garnet, and Labradorite, along with lucky colors, fortune-boosting actions, how to wear them, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -15,7 +15,7 @@ draft: false
 
 ## Introduction
 
-Scorpio is a **Water element** zodiac sign, with the Sun transiting through it from **October 24 to November 22**. Its ruling planet is **Pluto**, symbolizing **"depth, insight, and transformation."** It's the most **intense and mysterious** sign among the 12 zodiacs, shying away from superficial relationships and seeking genuine connections. In this article, we'll put together a one-page guide covering power stones suited for the Scorpio personality and fortune, **focusing on their guardian stone, Obsidian**, along with compatible stones, lucky colors, fortune-boosting actions, and FAQs.
+Scorpio is a **Water element** zodiac sign, with the Sun transiting through it from **October 24 to November 22**. Its ruling planet is **Pluto**, symbolizing **"depth, insight, and transformation."** It's the most **intense and mysterious** sign among the 12 zodiacs, shying away from superficial relationships and seeking genuine connections. In this article, we'll put together a one-page guide covering crystals suited for the Scorpio personality and fortune, **focusing on their guardian stone, Obsidian**, along with compatible stones, lucky colors, fortune-boosting actions, and FAQs.
 
 ## Basic Scorpio Personality Traits
 
@@ -32,9 +32,9 @@ Scorpios are a zodiac sign with **"soul-level depth."** Their strengths lie in *
 **Strengths**: Insight, Concentration, Loyalty, Mysticism, The strength to love deeply
 **Weaknesses (the flip side)**: Attachment, Jealousy, Secrecy, Vengefulness, Extremism
 
-> **Please Note**: The effects of zodiac signs and power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects of zodiac signs and crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Scorpio
+## Recommended Crystals for Scorpio
 
 The themes of **"depth, transformation, and essence"** for Scorpio resonate deeply with **dark, profound stones, especially those in black and purple hues**.
 
@@ -89,7 +89,7 @@ Here are common concerns Scorpios might face and how to use the corresponding st
 | Obsidian and Labradorite | Double enhancement of essence and spirituality |
 | Obsidian and [Clear Quartz](/blog/clear-quartz/) | Amplification and purification of energy |
 
-For basics on combinations, refer to [The Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For basics on combinations, refer to [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Fortune-Boosting Actions
 
@@ -138,9 +138,9 @@ A. Generally, other Water signs like **Cancer and Pisces**, and Earth signs like
 
 ## Related Articles You Might Also Like
 
--   [The Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 signs
--   [Power Stones for Libra](/blog/zodiac-libra/) — The preceding sign
--   [Power Stones for Sagittarius](/blog/zodiac-sagittarius/) — The next sign
+-   [The Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 signs
+-   [Crystals for Libra](/blog/zodiac-libra/) — The preceding sign
+-   [Crystals for Sagittarius](/blog/zodiac-sagittarius/) — The next sign
 -   [Meaning, Stone Language, and Effects of Obsidian](/blog/obsidian/) — Detailed explanation of the main stone
 -   [November Birthstones | Topaz and Citrine](/blog/birthstone-november/) — For Scorpios born in November
 

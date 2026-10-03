@@ -1,20 +1,20 @@
 ---
-title: "How to Properly Wear Power Stones: Left vs. Right, and Where to Maximize Their Effects"
-description: "It's believed that the meaning of power stones changes depending on whether you wear them on your left or right hand. This beginner's guide provides a complete explanation of how to properly wear bracelets, pendants, rings, and earrings, how to align them with chakras, where to place them in your home, and even when not to wear them."
+title: "How to Properly Wear Crystals: Left vs. Right, and Where to Maximize Their Effects"
+description: "It's believed that the meaning of crystals changes depending on whether you wear them on your left or right hand. This beginner's guide provides a complete explanation of how to properly wear bracelets, pendants, rings, and earrings, how to align them with chakras, where to place them in your home, and even when not to wear them."
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
-tags: ["Power Stones", "Beginners", "How to Wear"]
+tags: ["Crystals", "Beginners", "How to Wear"]
 draft: false
 ---
 
 ## Introduction
 
-"I bought a power stone, but which hand should I wear it on, left or right?" "Which is more effective, a ring or a bracelet?" — How you wear your stones is surprisingly important for experiencing their full benefits. This article will explain the correct way to wear different types of power stone accessories.
+"I bought a crystal, but which hand should I wear it on, left or right?" "Which is more effective, a ring or a bracelet?" — How you wear your stones is surprisingly important for experiencing their full benefits. This article will explain the correct way to wear different types of crystal accessories.
 
 ## The Golden Rule: Left for "Receiving," Right for "Giving"
 
-In the world of power stones, there's an ancient **left and right energy law** that has been passed down.
+In the world of crystals, there's an ancient **left and right energy law** that has been passed down.
 
 - **Left Hand/Left Side** = Receiving (Input): The side that absorbs energy.
 - **Right Hand/Right Side** = Emitting (Output): The side that sends out energy.
@@ -39,7 +39,7 @@ Keeping this principle in mind, you can decide which hand to wear your stone on 
 
 - **Purpose**: To create a circulation of energy.
 - **Effect Example**: Left with [Rose Quartz](/blog/rose-quartz-meaning/), right with [Citrine](/blog/citrine/) → Absorbing love while emitting abundance.
-- **Caution**: Check the compatibility of the stones (for more details, see [The Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/)).
+- **Caution**: Check the compatibility of the stones (for more details, see [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/)).
 
 ## For Pendants (Necklaces)
 
@@ -108,7 +108,7 @@ For delicate stones, pendants and bracelets are recommended due to lower risk of
 
 ## When Not to Wear Your Stones
 
-- **Bathing and water activities**: Remove stones that are sensitive to water ([Lapis Lazuli](/blog/lapis-lazuli/), [Malachite](/blog/malachite/), [Turquoise](/blog/turquoise/), etc. / For more details, see [The Complete Guide to Power Stone Cleansing](/blog/purification-complete-guide/)).
+- **Bathing and water activities**: Remove stones that are sensitive to water ([Lapis Lazuli](/blog/lapis-lazuli/), [Malachite](/blog/malachite/), [Turquoise](/blog/turquoise/), etc. / For more details, see [The Complete Guide to Crystal Cleansing](/blog/purification-complete-guide/)).
 - **Strenuous exercise**: Risk of metal parts rusting from sweat.
 - **During strong emotions (anger, anxiety)**: It's said that negative energy can transfer to the stone.
 
@@ -168,12 +168,12 @@ Stones don't work because of the "correctness" of how you wear them; they work b
 - Rings have meanings for each finger, and earrings are great for intuition-related stones.
 - Beyond accessories, placing stones in pockets, bags, or specific spots at home is also effective.
 
-Your relationship with power stones is unique to you. Ultimately, choosing a method that allows you to **naturally and consistently wear them** is the most effective approach.
+Your relationship with crystals is unique to you. Ultimately, choosing a method that allows you to **naturally and consistently wear them** is the most effective approach.
 
 ## Related Articles You Might Want to Read
 
-- [Power Stone Introduction: All You Need to Know as a Beginner](/blog/powerstone-beginner-guide/)
-- [The Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
-- [The Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/)
-- [The Complete Guide to Power Stone Cleansing](/blog/purification-complete-guide/)
+- [Crystal Introduction: All You Need to Know as a Beginner](/blog/powerstone-beginner-guide/)
+- [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
+- [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/)
+- [The Complete Guide to Crystal Cleansing](/blog/purification-complete-guide/)
 - [How to Spot Fake and Artificial Stones](/blog/spot-fake-stones/)

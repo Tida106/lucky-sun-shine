@@ -1,6 +1,6 @@
 ---
-title: "Izumo Grand Shrine: A Complete Guide to Shimane's Sacred Site for Fate-Forging, Worship Etiquette, and Compatible Power Stones"
-description: "A comprehensive guide to Izumo Grand Shrine, covering its history, blessings, unique worship etiquette (two bows, four claps, one bow), highlights, access, worship during Kamiari-zuki, compatible power stones, and FAQs. This is your definitive resource to perfectly prepare for a visit to Japan's oldest sacred site for forging connections."
+title: "Izumo Grand Shrine: A Complete Guide to Shimane's Sacred Site for Fate-Forging, Worship Etiquette, and Compatible Crystals"
+description: "A comprehensive guide to Izumo Grand Shrine, covering its history, blessings, unique worship etiquette (two bows, four claps, one bow), highlights, access, worship during Kamiari-zuki, compatible crystals, and FAQs. This is your definitive resource to perfectly prepare for a visit to Japan's oldest sacred site for forging connections."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -12,7 +12,7 @@ draft: false
 
 Izumo Grand Shrine (Izumo Oyashiro) is nationally renowned as the "**Deity of Matchmaking and Connections**." Its Main Hall is said to date back to the Age of Myths, and ancient texts like "Kuchizusami" from the Heian period describe it with the phrase "**Kumota, Wani, Kyosan**" – suggesting that Izumo Grand Shrine's Main Hall was then the tallest building in Japan, surpassing even the Great Buddha Hall of Todai-ji Temple and the Daigoku-den of the Kyoto Imperial Palace. It is truly a shrine of immense ancient heritage.
 
-This article provides a comprehensive guide to **its founding history, worship etiquette, strategies for visiting during Kamiari-zuki, nearby sacred sites to explore, compatible power stones, and frequently asked questions**. Whether you are visiting for the first time or seeking deeper knowledge on a repeat visit, feel free to use it as your definitive guide.
+This article provides a comprehensive guide to **its founding history, worship etiquette, strategies for visiting during Kamiari-zuki, nearby sacred sites to explore, compatible crystals, and frequently asked questions**. Whether you are visiting for the first time or seeking deeper knowledge on a repeat visit, feel free to use it as your definitive guide.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This article provides a comprehensive guide to **its founding history, worship e
 - [Worship Etiquette (Unique Two Bows, Four Claps, One Bow)](#manners)
 - [Recommended Seasons and Worship Strategies](#season)
 - [Access](#access)
-- [Compatible Power Stones](#stones)
+- [Compatible Crystals](#stones)
 - [Nearby Spots You Might Want to Visit](#nearby)
 - [Frequently Asked Questions (FAQ)](#faq)
 - [Editor's Note](#postscript)
@@ -121,7 +121,7 @@ Surprisingly, visiting the shrine grounds after the rain is also recommended. Th
 -   **Parking**: Free shrine parking is available (385 spaces). Early morning arrival is recommended during Kamiari-zuki and the New Year.
 -   **Airport**: Approximately 30-40 minutes by car or bus from Izumo Enmusubi Airport.
 
-## <span id="stones"></span>Compatible Power Stones
+## <span id="stones"></span>Compatible Crystals
 
 Here are some stones said to resonate well with the sacred energy of Izumo Grand Shrine if you bring them during your visit.
 
@@ -227,8 +227,8 @@ When you visit, take a deep breath and quietly say in your heart, "**Please brin
 - [Itsukushima Shrine](/blog/itsukushima-jinja/) — Another sacred site connected to the sea.
 - [Meiji Jingu](/blog/meiji-jingu/) — Tokyo's central guardian shrine and a representative power spot.
 - [Kumano Hongu Taisha](/blog/kumano-hongu-taisha/) — A sacred site for connections in the Kii Peninsula.
-- [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — A classic power stone for fate-forging worship.
-- [Comprehensive Guide to Recommended Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Zodiac-specific guardian stones to complement your Izumo visit.
+- [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — A classic crystal for fate-forging worship.
+- [Comprehensive Guide to Recommended Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Zodiac-specific guardian stones to complement your Izumo visit.
 
 ## Summary
 
@@ -236,7 +236,7 @@ When you visit, take a deep breath and quietly say in your heart, "**Please brin
 -   The unique worship etiquette involves **two bows, four claps, and one bow**.
 -   The best timing for a visit is during **Kamiari-zuki (the tenth month of the lunar calendar, usually around November in the modern calendar)** or **early morning**.
 -   For an authentic visit, make sure to explore **Soga-no-Yashiro Shrine and Inasa-no-Hama Beach** in addition to the Main Hall.
--   It has excellent compatibility with power stones such as Rose Quartz, Moonstone, and Clear Quartz.
+-   It has excellent compatibility with crystals such as Rose Quartz, Moonstone, and Clear Quartz.
 
 "Connections" encompass not just romance, but all paths in life. When you feel stuck in your daily life or stand at a crossroads, the serene and dignified atmosphere of Izumo Grand Shrine will gently encourage you forward.
 ---

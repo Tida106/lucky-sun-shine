@@ -10,11 +10,11 @@ draft: false
 
 ## Introduction: A Quick Guide to Your Zodiac's Guardian Stone
 
-Ever wondered, "What's the guardian stone for Capricorn?" or "Which stone is best for Scorpio?" I bet many of you searching for zodiac power stones are looking for a quick and easy chart, right?
+Ever wondered, "What's the guardian stone for Capricorn?" or "Which stone is best for Scorpio?" I bet many of you searching for zodiac crystals are looking for a quick and easy chart, right?
 
 In this article, I've put together a handy chart of each of the 12 zodiac signs' **guardian stones (traditional stones) and modern recommended stones**, along with a simple explanation of their connection to each sign.
 
-> **Please Note**: The "effects" of guardian stones and power stones are based on cultural and symbolic meanings. They are not medically or scientifically guaranteed, and individual experiences may vary. Please enjoy them as part of astrology and belief.
+> **Please Note**: The "effects" of guardian stones and crystals are based on cultural and symbolic meanings. They are not medically or scientifically guaranteed, and individual experiences may vary. Please enjoy them as part of astrology and belief.
 
 ## The Difference Between Guardian Stones and Birthstones
 
@@ -58,7 +58,7 @@ Aries, kicking off the 12 zodiac signs, is all about passion and action! Red to 
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AA%E3%82%A2%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Carnelian on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Aries](/blog/zodiac-aries/)
+→ [Detailed Guide to Crystals for Aries](/blog/zodiac-aries/)
 
 ---
 
@@ -70,7 +70,7 @@ Taurus, ruling beauty and stability, resonates with green and pink stones that s
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%84%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Rose Quartz on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Taurus](/blog/zodiac-taurus/)
+→ [Detailed Guide to Crystals for Taurus](/blog/zodiac-taurus/)
 
 ---
 
@@ -82,7 +82,7 @@ Gemini, skilled in gathering information and communication, is aligned with blue
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%88%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Citrine on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Gemini](/blog/zodiac-gemini/)
+→ [Detailed Guide to Crystals for Gemini](/blog/zodiac-gemini/)
 
 ---
 
@@ -94,7 +94,7 @@ With the Moon as its ruling planet, Cancer has a particularly strong affinity fo
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Moonstone on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Cancer](/blog/zodiac-cancer/)
+→ [Detailed Guide to Crystals for Cancer](/blog/zodiac-cancer/)
 
 ---
 
@@ -106,7 +106,7 @@ Ruled by the Sun, Leo is associated with golden to orange stones that symbolize 
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%A2%E3%82%A4%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Tiger's Eye on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Leo](/blog/zodiac-leo/)
+→ [Detailed Guide to Crystals for Leo](/blog/zodiac-leo/)
 
 ---
 
@@ -118,7 +118,7 @@ Virgo, with its analytical nature and delicacy, is associated with blue to purpl
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Amethyst on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Virgo](/blog/zodiac-virgo/)
+→ [Detailed Guide to Crystals for Virgo](/blog/zodiac-virgo/)
 
 ---
 
@@ -130,7 +130,7 @@ Libra, who loves harmony and balance, traditionally has Opal as its guardian sto
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%91%E3%83%BC%E3%83%AB%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Opal on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Libra](/blog/zodiac-libra/)
+→ [Detailed Guide to Crystals for Libra](/blog/zodiac-libra/)
 
 ---
 
@@ -142,7 +142,7 @@ Scorpio, symbolizing depth and transformation, is aligned with deep-colored ston
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%91%E3%83%BC%E3%82%BA%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Topaz on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Scorpio](/blog/zodiac-scorpio/)
+→ [Detailed Guide to Crystals for Scorpio](/blog/zodiac-scorpio/)
 
 ---
 
@@ -154,7 +154,7 @@ Sagittarius, who loves adventure and freedom, traditionally has Turquoise as its
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%BC%E3%82%B3%E3%82%A4%E3%82%BA%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Turquoise on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Sagittarius](/blog/zodiac-sagittarius/)
+→ [Detailed Guide to Crystals for Sagittarius](/blog/zodiac-sagittarius/)
 
 ---
 
@@ -166,7 +166,7 @@ Capricorn, characterized by effort and perseverance, is aligned with deep red to
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AC%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Garnet on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Capricorn](/blog/zodiac-capricorn/)
+→ [Detailed Guide to Crystals for Capricorn](/blog/zodiac-capricorn/)
 
 ---
 
@@ -178,7 +178,7 @@ Aquarius, representing innovation and originality, is aligned with blue to purpl
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%94%E3%82%B9%E3%83%A9%E3%82%BA%E3%83%AA%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Lapis Lazuli on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Aquarius](/blog/zodiac-aquarius/)
+→ [Detailed Guide to Crystals for Aquarius](/blog/zodiac-aquarius/)
 
 ---
 
@@ -190,7 +190,7 @@ Pisces, the last of the 12 zodiac signs, symbolizes deep sensitivity and dreamin
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Aquamarine on Rakuten Ichiba</a>
 
-→ [Detailed Guide to Power Stones for Pisces](/blog/zodiac-pisces/)
+→ [Detailed Guide to Crystals for Pisces](/blog/zodiac-pisces/)
 
 ---
 
@@ -204,7 +204,7 @@ Choosing one from the "Modern Recommended Stones" in the chart, based on your in
 
 It's believed that combining 1 to 2 stones that align with your current needs (love, career, health) with your main guardian stone can help complement its effects.
 
-→ [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/)
+→ [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/)
 
 ### 3. Pay special attention during "the month the sun passes through your sign."
 
@@ -248,8 +248,8 @@ If you look at the chart and feel like, 'This stone is cute!' or 'I'm drawn to t
 
 ## Related Articles You Might Enjoy
 
--   [Complete Guide to Zodiac Signs and Power Stones | Compatibility and Selection by Element](/blog/zodiac-powerstones-guide/)
+-   [Complete Guide to Zodiac Signs and Crystals | Compatibility and Selection by Element](/blog/zodiac-powerstones-guide/)
 -   [Comprehensive Guide to 12-Month Birthstones](/blog/birthstone-guide/)
--   [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/)
--   [Power Stone Introduction | Everything Beginners Need to Know](/blog/powerstone-beginner-guide/)
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+-   [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/)
+-   [Crystal Introduction | Everything Beginners Need to Know](/blog/powerstone-beginner-guide/)
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)

@@ -1,7 +1,7 @@
 ---
-title: "Power Stone Cleansing and Care Complete Guide | Method-Specific Steps and Stone-by-Stone Suitability Chart"
+title: "Crystal Cleansing and Care Complete Guide | Method-Specific Steps and Stone-by-Stone Suitability Chart"
 description: >-
-  A How-To hub article organizing power stone care into three stages: "daily cleaning, cleansing, and storage." This guide serves as an entry point for care, linking to individual pages for each stone.
+  A How-To hub article organizing crystal care into three stages: "daily cleaning, cleansing, and storage." This guide serves as an entry point for care, linking to individual pages for each stone.
 date: '2026-05-27'
 category: powerstones
 tags:
@@ -16,13 +16,13 @@ draft: false
 
 ## Introduction
 
-"**I want to keep my favorite power stone beautiful for longer**." "I understand cleansing methods, but what about daily care and storage?" — These are practical questions that inevitably arise when you have a long-term relationship with power stones.
+"**I want to keep my favorite crystal beautiful for longer**." "I understand cleansing methods, but what about daily care and storage?" — These are practical questions that inevitably arise when you have a long-term relationship with crystals.
 
 This article was created as a **How-To hub article that organizes "care" into three stages (daily cleaning / cleansing / long-term storage)**. It brings together **practical steps for 8 cleansing methods**, a **useful suitability chart for over 35 types of stones**, **safety considerations, and guidelines for repair and replacement** all in one page.
 
-For detailed information on **"10 types of cleansing methods" and "cleansing frequency and timing,"** please refer to our [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/). This article will focus on explaining the **"three-stage approach of daily maintenance, cleansing, and storage" and the "stone-specific suitability chart."**
+For detailed information on **"10 types of cleansing methods" and "cleansing frequency and timing,"** please refer to our [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/). This article will focus on explaining the **"three-stage approach of daily maintenance, cleansing, and storage" and the "stone-specific suitability chart."**
 
-> **Note**: The "cleansing effects" of power stones are cultural and symbolic in nature. This article **does not guarantee specific increases in luck or restoration of a stone's abilities**. Please read this guide with the understanding that the purpose of care is to **physically preserve the stone's beauty for a long time** and to serve as a **ritual for the owner to clear their own mind**.
+> **Note**: The "cleansing effects" of crystals are cultural and symbolic in nature. This article **does not guarantee specific increases in luck or restoration of a stone's abilities**. Please read this guide with the understanding that the purpose of care is to **physically preserve the stone's beauty for a long time** and to serve as a **ritual for the owner to clear their own mind**.
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ For detailed information on **"10 types of cleansing methods" and "cleansing fre
 
 ## <span id="three-stages"></span>Three Stages of Care: Daily Cleaning, Cleansing, and Long-Term Storage
 
-Power stone care combines three distinct actions. Being aware that **each has a different purpose and frequency** will help reduce confusion:
+Crystal care combines three distinct actions. Being aware that **each has a different purpose and frequency** will help reduce confusion:
 
 | Stage | Purpose | Frequency Guideline |
 |---|---|---|
@@ -55,7 +55,7 @@ Power stone care combines three distinct actions. Being aware that **each has a 
 | **② Cleansing** | Cultural and symbolic "resetting of feelings" | Once to several times a month (depends on the stone) |
 | **③ Long-Term Storage** | Prevents physical deterioration and contact with other stones | In a dedicated case when not being worn |
 
-You don't need to do **"all three"** stages. The reality of power stones is that **"daily cleaning alone is often enough to keep them long-lasting,"** and cleansing can be approached with the attitude of **"those who want to perform it as a ritual do so."** There's no problem with that.
+You don't need to do **"all three"** stages. The reality of crystals is that **"daily cleaning alone is often enough to keep them long-lasting,"** and cleansing can be approached with the attitude of **"those who want to perform it as a ritual do so."** There's no problem with that.
 
 ## <span id="daily"></span>① Daily Cleaning | Essential Care After Wearing
 
@@ -74,7 +74,7 @@ The most important and practical aspect is **"daily cleaning."** By also caring 
 -   ❌ **Sudden changes in hot or cold water**: Stones sensitive to temperature changes can crack.
 -   ❌ **Storing while wet**: Moisture can penetrate the crystalline structure of some stones.
 
-Simply by forming the habit of **"wiping after wearing,"** the **beauty of your power stone 5 to 10 years later will be significantly different** — this is the most crucial point in power stone care.
+Simply by forming the habit of **"wiping after wearing,"** the **beauty of your crystal 5 to 10 years later will be significantly different** — this is the most crucial point in crystal care.
 
 ## <span id="purification"></span>② Cleansing | Method-Specific Steps
 
@@ -84,7 +84,7 @@ Cleansing is an act traditionally performed as a **"ritual for resetting one's f
 
 **Steps**:
 1.  Prepare a quartz cluster (raw stone) or gemstone chips on a clean dish.
-2.  Place your power stone on top.
+2.  Place your crystal on top.
 3.  Leave it there for **6 to 12 hours (overnight)**.
 4.  The next morning, pick it up with gratitude.
 
@@ -106,7 +106,7 @@ Cleansing is an act traditionally performed as a **"ritual for resetting one's f
 
 **Steps**:
 1.  **The three days before and after a full moon** are traditionally recommended.
-2.  Place the power stone in a location where **direct moonlight falls**, such as a windowsill or balcony.
+2.  Place the crystal in a location where **direct moonlight falls**, such as a windowsill or balcony.
 3.  Leave it there **overnight (6 to 12 hours)**.
 4.  The next morning, pick it up with gratitude.
 
@@ -117,7 +117,7 @@ Cleansing is an act traditionally performed as a **"ritual for resetting one's f
 ### <span id="m-sunlight"></span>Method 4: Sunlight Bath (Short Duration)
 
 **Steps**:
-1.  Place the power stone where it receives **morning sun (soft light from the morning)**.
+1.  Place the crystal where it receives **morning sun (soft light from the morning)**.
 2.  Remove it after a **maximum of 1 to 2 hours**.
 3.  Do not leave it in direct sunlight for an extended period.
 
@@ -129,7 +129,7 @@ Cleansing is an act traditionally performed as a **"ritual for resetting one's f
 
 **Steps**:
 1.  Turn on **room temperature to lukewarm water** at a low flow rate.
-2.  Expose the power stone to the water for **30 seconds to 1 minute**.
+2.  Expose the crystal to the water for **30 seconds to 1 minute**.
 3.  **Completely wipe away all moisture with a dry, soft cloth**.
 
 **Characteristics**: Suitable for water-friendly stones such as **Quartz, Amethyst, and Citrine**. Short duration is the general rule.
@@ -140,7 +140,7 @@ Cleansing is an act traditionally performed as a **"ritual for resetting one's f
 
 **Steps**:
 1.  Place **natural salt (coarse salt)** in a clean small dish.
-2.  **Do NOT directly bury** the power stone in the salt (NG) — instead, use an indirect method: **place it on a small dish, with another small dish of salt placed nearby**.
+2.  **Do NOT directly bury** the crystal in the salt (NG) — instead, use an indirect method: **place it on a small dish, with another small dish of salt placed nearby**.
 3.  Leave it there for **6 to 12 hours**.
 4.  After completion, discard the salt (do not reuse).
 
@@ -152,7 +152,7 @@ Cleansing is an act traditionally performed as a **"ritual for resetting one's f
 
 **Steps**:
 1.  Strike the tuning fork against metal to produce a sound (or gently tap a crystal bowl).
-2.  Allow the sound to resonate **near the power stone (10 to 30 cm away)**.
+2.  Allow the sound to resonate **near the crystal (10 to 30 cm away)**.
 3.  Perform a sound bath for **1 to 3 minutes**.
 
 **Characteristics**: **Suitable for all stones**. It is the safest method as it does not use water, salt, or fire. The only caution is **not to touch metal parts directly**.
@@ -160,7 +160,7 @@ Cleansing is an act traditionally performed as a **"ritual for resetting one's f
 ### <span id="m-meditation"></span>Method 8: Intention (Meditation-Based)
 
 **Steps**:
-1.  Hold the power stone **cupped in both hands**.
+1.  Hold the crystal **cupped in both hands**.
 2.  **Take several deep breaths** — calming your mind.
 3.  Express feelings of gratitude, such as **"Thank you for always being by my side."**
 4.  Hold it for **1 to 5 minutes**.
@@ -317,7 +317,7 @@ When you've had a stone for a long time, it might **chip, crack, or fade**. Here
 -   **Store it carefully in a drawer** (to keep as a memento).
 -   **Offer it to a shrine or temple** (at locations that accept offerings for ceremonial burning).
 
-Rather than **carelessly discarding it as trash**, these methods allow you to **"send it off with gratitude,"** which is the traditional way of interacting with power stones.
+Rather than **carelessly discarding it as trash**, these methods allow you to **"send it off with gratitude,"** which is the traditional way of interacting with crystals.
 
 ## <span id="faq"></span>Frequently Asked Questions (FAQ)
 
@@ -343,11 +343,11 @@ A. **Caution is needed if there are differences in hardness**. It's ideal to **p
 
 **Q6. Where can I buy cleansing supplies (sage, quartz clusters)?**
 
-A. **Power stone specialty stores and healing shops** are reliable standard places. You **can also purchase online**, but make sure to confirm that **"white sage is a legal plant (generally available for circulation)."** There are also similar-sounding plants like **California sage and common sage**, so choose products **where the intended use is clearly specified**.
+A. **Crystal specialty stores and healing shops** are reliable standard places. You **can also purchase online**, but make sure to confirm that **"white sage is a legal plant (generally available for circulation)."** There are also similar-sounding plants like **California sage and common sage**, so choose products **where the intended use is clearly specified**.
 
 ## <span id="postscript"></span>Editor's Note
 
-The question, "Please tell me how to cleanse power stones," is a **topic particularly often asked by beginners in power stone care**. Back then, I always used to start by explaining, **"Actually, daily cleaning and storage are more important than cleansing."**
+The question, "Please tell me how to cleanse crystals," is a **topic particularly often asked by beginners in crystal care**. Back then, I always used to start by explaining, **"Actually, daily cleaning and storage are more important than cleansing."**
 
 This is because I've seen many people get exhausted by **"anxiety and a sense of obligation regarding cleansing."** "I must remember to give it a moonlight bath," "If I don't burn sage, negative energy will accumulate..." — when such **"must-do" pressures** pile up, the relationship with the amulet itself can become burdensome.
 
@@ -363,27 +363,27 @@ You don't have to strive for perfection. Just **"a little bit of care when you f
 
 ## <span id="related"></span>Related Articles You Might Also Like
 
-- [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/) — Details on 10 cleansing methods, frequency, and timing (complementary article)
-- [Power Stone Compatibility and Combination Guide](/blog/powerstone-compatibility/) — Understanding combinations, examples of what not to do, and purpose-specific recipes
-- [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — Classic 2-stone and 3-stone combinations
-- [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Distinguishing between left and right, and the meaning of placement
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — Beginner's guide before choosing your first stone
+- [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/) — Details on 10 cleansing methods, frequency, and timing (complementary article)
+- [Crystal Compatibility and Combination Guide](/blog/powerstone-compatibility/) — Understanding combinations, examples of what not to do, and purpose-specific recipes
+- [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Classic 2-stone and 3-stone combinations
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Distinguishing between left and right, and the meaning of placement
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — Beginner's guide before choosing your first stone
 - [Meaning and Effects of Quartz (Crystal)](/blog/clear-quartz/) — The versatility of quartz used for cleansing
 - [Comprehensive Guide to 12-Month Birthstones](/blog/birthstone-guide/) — Characteristics of each birthstone
-- [9 Popular Power Stones for Boosting Financial Luck](/blog/purpose-money-stones/) — Purpose-specific hub article ①
-- [9 Popular Power Stones for Boosting Love Luck](/blog/purpose-love-stones/) — Purpose-specific hub article ②
-- [9 Popular Power Stones for Boosting Career and Success Luck](/blog/purpose-work-stones/) — Purpose-specific hub article ③
-- [9 Popular Power Stones for Health Luck](/blog/purpose-health-stones/) — Purpose-specific hub article ④
-- [9 Popular Power Stones for Interpersonal and Relationship Luck](/blog/purpose-relation-stones/) — Purpose-specific hub article ⑤
-- [9 Popular Power Stones for Warding Off Evil and Protection](/blog/purpose-protection-stones/) — Purpose-specific hub article ⑥
+- [9 Popular Crystals for Boosting Financial Luck](/blog/purpose-money-stones/) — Purpose-specific hub article ①
+- [9 Popular Crystals for Boosting Love Luck](/blog/purpose-love-stones/) — Purpose-specific hub article ②
+- [9 Popular Crystals for Boosting Career and Success Luck](/blog/purpose-work-stones/) — Purpose-specific hub article ③
+- [9 Popular Crystals for Health Luck](/blog/purpose-health-stones/) — Purpose-specific hub article ④
+- [9 Popular Crystals for Interpersonal and Relationship Luck](/blog/purpose-relation-stones/) — Purpose-specific hub article ⑤
+- [9 Popular Crystals for Warding Off Evil and Protection](/blog/purpose-protection-stones/) — Purpose-specific hub article ⑥
 
 ## Summary
 
--   Power stone care should be organized into **three stages: "daily cleaning, cleansing, and long-term storage."**
+-   Crystal care should be organized into **three stages: "daily cleaning, cleansing, and long-term storage."**
 -   **Daily cleaning is the most important** — make a habit of wiping with a soft cloth after wearing.
 -   Cleansing primarily holds **"ritualistic meaning,"** with **no scientific proof of its effects** — approach it as enjoyment, not an obligation.
 -   Always check the **stone-by-stone suitability chart** for what is NOT allowed with running water, sunlight, and salt.
 -   Be mindful of safety considerations (fire, ventilation, metal corrosion, ingestion risk) and guidelines for repair and replacement.
 -   **"Send off a broken stone with gratitude"** — traditionally, return it to the earth, store it in a drawer, or offer it to a shrine.
 
-You don't need to aim for perfection. Just **"a little bit of careful attention when you feel like it"** — that alone will keep your power stones beautiful and by your side for a long, long time! ☀️
+You don't need to aim for perfection. Just **"a little bit of careful attention when you feel like it"** — that alone will keep your crystals beautiful and by your side for a long, long time! ☀️

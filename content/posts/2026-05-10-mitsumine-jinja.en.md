@@ -1,6 +1,6 @@
 ---
 title: "Mitsumine Shrine Visitor's Guide | Chichibu's Premier Power Spot, Known for 'Oin-sama' Wolf Worship and Its Unique Triple Torii Gate"
-description: "A comprehensive guide to Mitsumine Shrine (Chichibu City, Saitama Prefecture), covering its history, Izanagi-no-Mikoto and Izanami-no-Mikoto, 'Oin-sama' (sacred wolf) worship, the triple torii gate, Kimamori amulets, the inner shrine (Okumiya), visiting tips, access, recommended power stones, nearby spots, and FAQs. Your essential companion for visiting this sacred site at an altitude of 1,100 meters."
+description: "A comprehensive guide to Mitsumine Shrine (Chichibu City, Saitama Prefecture), covering its history, Izanagi-no-Mikoto and Izanami-no-Mikoto, 'Oin-sama' (sacred wolf) worship, the triple torii gate, Kimamori amulets, the inner shrine (Okumiya), visiting tips, access, recommended crystals, nearby spots, and FAQs. Your essential companion for visiting this sacred site at an altitude of 1,100 meters."
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerspots"
@@ -22,7 +22,7 @@ Mitsumine Shrine, nestled in the Chichibu mountains at an elevation of about 1,1
 - [About the Okumiya (Inner Shrine)](#okumiya)
 - [Key Visiting Tips](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Best Time to Visit](#season)
 - [Basic Visiting Manners](#manner)
@@ -95,7 +95,7 @@ Car: Approximately 2 hours from "Hanazono Interchange" on the Kan-Etsu Expresswa
 
 Parking: Paid parking available (approx. 300 spaces for standard cars).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the shrine's energy when you visit Mitsumine Shrine.
 

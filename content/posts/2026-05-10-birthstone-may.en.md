@@ -34,7 +34,7 @@ For May's birthstone, **Emerald** is the main star, and **Jade** is recognized a
 
 Emerald's stone meanings are **"good fortune, love, eternal youth, and prosperity."** It's super famous as the **gemstone Cleopatra adored**, and the emerald mines in ancient Egypt were even called **"Cleopatra's Mines."** How cool is that?
 
-> **Heads up!** The effects attributed to power stones are cultural and symbolic. They aren't medically or scientifically guaranteed, okay?
+> **Heads up!** The effects attributed to crystals are cultural and symbolic. They aren't medically or scientifically guaranteed, okay?
 
 Since ancient times, it's been called the **"Stone of Truth,"** and there's even a legend that if you look at an emerald in front of someone telling a lie, its color will **change**! In the Bible, it appears as one of the **12 gemstones adorning the walls of the New Jerusalem.** **Jade**, known as "gyoku" in the East, has been revered in China and Japan for over 5,000 years as a symbol of **"virtue, prosperity, and longevity."**
 
@@ -77,7 +77,7 @@ Here are some of the main effects and powers attributed to Emerald and Jade:
 | Salt | × | △ |
 | Direct Sunlight | △ | ○ |
 
-Emeralds often have **many inclusions**, so **oil treatment** is common. Please avoid ultrasonic cleaners and strong detergents. For more details, check out our [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+Emeralds often have **many inclusions**, so **oil treatment** is common. Please avoid ultrasonic cleaners and strong detergents. For more details, check out our [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 ## Also Recommended for Birthday Gifts
 

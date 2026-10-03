@@ -47,7 +47,7 @@ Furthermore, Tanzanite possesses a rare property called **pleochroism**, where r
 
 ## Effects and What It's Said to Do
 
-> **Please note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Please note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
 -   **Life Transformation**: Due to its history as the "New Time Stone of the 20th Century," it's believed to support significant life transitions.
 -   **Enhanced Spirituality**: Its high-frequency blue-purple hues are said to simultaneously activate the 6th and 7th Chakras, deepening your connection to the spiritual realm.
@@ -86,7 +86,7 @@ Methods to avoid:
 -   Strong impacts (it has cleavage and is prone to chipping)
 -   Running water purification (Mohs hardness 6.5-7, but somewhat fragile)
 
-For detailed purification methods, please refer to the [Complete Guide to Power Stone Purification](/blog/purification-complete-guide/).
+For detailed purification methods, please refer to the [Complete Guide to Crystal Purification](/blog/purification-complete-guide/).
 
 ## Origin and Rarity
 
@@ -112,7 +112,7 @@ Prices vary significantly depending on origin, grade, and size. It's recommended
 -   If the transparency or color saturation appears too uniform, it might be glass, a synthetic stone, or a dyed stone.
 -   "Tanzanite-colored glass" and "synthetic forsterite" are sometimes circulated as fakes.
 -   Almost all Tanzanite undergoes heat treatment, which is a legitimate and common practice.
--   Purchasing from a reputable specialist with a gemological certificate provides assurance. For more details, refer to [How to Spot Fake or Synthetic Power Stones](/blog/spot-fake-stones/).
+-   Purchasing from a reputable specialist with a gemological certificate provides assurance. For more details, refer to [How to Spot Fake or Synthetic Crystals](/blog/spot-fake-stones/).
 
 ## Frequently Asked Questions (FAQ)
 
@@ -145,7 +145,7 @@ The "New Time Stone of the 20th Century" — as this name suggests, Tanzanite is
 
 ## Summary
 
--   Tanzanite is a power stone symbolizing "transformation, spirituality, and a new life."
+-   Tanzanite is a crystal symbolizing "transformation, spirituality, and a new life."
 -   Discovered in Tanzania in 1967, named and popularized globally by Tiffany and Company as a "20th-century discovery."
 -   A rare stone found in only one location worldwide, predicted to be depleted in the near future.
 -   For purification, clear quartz chips and white sage are recommended. It's best to avoid prolonged direct sunlight.

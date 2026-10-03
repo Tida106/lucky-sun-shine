@@ -1,7 +1,7 @@
 ---
 title: "Hieizan Enryakuji Temple: A Sacred Guide to the Mother Mountain of Japanese Buddhism, Founded by Saicho and Head Temple of Tendai Buddhism"
 description: >-
-  A comprehensive guide to Hieizan Enryakuji Temple (Otsu City, Shiga Prefecture), covering its history, founder Saicho, Tendai Buddhism, the Three Pagodas (Todo, Saito, and Yokawa), the Eternal Flame of Konpon Chudo, the Sennichi Kaihogyo ascetic practice, key visiting points, access information, recommended power stones, nearby attractions, and FAQs.
+  A comprehensive guide to Hieizan Enryakuji Temple (Otsu City, Shiga Prefecture), covering its history, founder Saicho, Tendai Buddhism, the Three Pagodas (Todo, Saito, and Yokawa), the Eternal Flame of Konpon Chudo, the Sennichi Kaihogyo ascetic practice, key visiting points, access information, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -26,7 +26,7 @@ Hieizan Enryakuji Temple is the **head temple of the Tendai sect**, encompassing
 - [Sennichi Kaihogyo (Thousand-Day Circumambulation)](#kaihogyo)
 - [Key Visiting Points](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots You'll Want to Visit](#nearby)
 - [Best Time and Season to Visit](#season)
 - [Basic Temple Etiquette](#manner)
@@ -109,7 +109,7 @@ Car: Via Hieizan Driveway (toll road) from Kyoto-Higashi IC or Otsu IC.
 
 **Parking**: Paid parking is available in each area of the driveway.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Hieizan Enryakuji Temple when you bring them with you.
 

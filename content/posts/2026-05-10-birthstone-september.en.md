@@ -32,7 +32,7 @@ September's main birthstone is **Sapphire**, with **Lapis Lazuli and Iolite** se
 ## Meanings and Gemstone Powers
 Sapphire's gemstone meanings are **"sincerity, compassion, virtue, and truth."** Its name comes from the Latin word **"sapphirus," meaning 'blue stone.'** Ancient Persian myths even claimed that **"the Earth rests on a giant sapphire, and its glow creates the blue of the sky!"** Isn't that a wonderful image?
 
-> **Please Note**: The effects of power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects of crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
 In medieval Christianity, sapphire was known as the **"Stone of Clergy"** and used in bishops' rings. It was also favored by judges as a **"stone that speaks truth." Lapis Lazuli**, meanwhile, was dubbed a **"fragment of heaven"** and featured prominently in ancient Egyptian artifacts, like Tutankhamun's golden mask. **Iolite** has a fascinating history too; Vikings reportedly used it as a **navigation stone** to discern the sun's position on cloudy days!
 
@@ -72,7 +72,7 @@ These three beautiful stones are said to offer the following main benefits:
 | Salt | ○ | **×** | △ |
 | Direct sunlight | ◎ | △ | ○ |
 
-**Please be careful! Lapis Lazuli is sensitive to water and salt, which can cause discoloration and deterioration.** Always wipe it clean with a dry cloth. For more details, check out our [Complete Guide to Power Stone Cleansing](/blog/purification-complete-guide/).
+**Please be careful! Lapis Lazuli is sensitive to water and salt, which can cause discoloration and deterioration.** Always wipe it clean with a dry cloth. For more details, check out our [Complete Guide to Crystal Cleansing](/blog/purification-complete-guide/).
 
 ## Perfect for Birthday Gifts, too!
 

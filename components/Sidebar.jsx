@@ -71,7 +71,7 @@ function SeriesSection({ s, locale = 'ja' }) {
 
 // カテゴリ名の英語変換用辞書（ご提示いただいた4カテゴリを紐付け）
 const categoryEnMap = {
-  'パワーストーン': 'Power Stones',
+  'パワーストーン': 'Crystals',
   'パワースポット': 'Power Spots',
   '開運グッズ': 'Lucky Items',
   '運気アップ習慣': 'Good Luck Habits',
@@ -84,7 +84,7 @@ export default function Sidebar({ headings, locale = 'ja' }) {
   const t = {
     search: isEn ? "Search" : "サイト内検索",
     searchDesc: isEn
-      ? "Search by power stone names, fortunes, locations, etc."
+      ? "Search by crystal names, fortunes, locations, etc."
       : "パワーストーン名・運勢・地名などで横断検索できます。",
     categories: isEn ? "Categories" : "カテゴリで探す",
     hubs: isEn ? "Explore by Theme" : "ハブから探す",

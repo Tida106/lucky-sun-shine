@@ -1,7 +1,7 @@
 ---
 title: "Takachiho Gorge Pilgrimage Guide | The Mythical Land of Tenson Kōrin, Famous for its Columnar Joints and Manai Falls"
 description: >-
-  A comprehensive guide to Takachiho Gorge (Takachiho Town, Nishiusuki District, Miyazaki Prefecture), covering its geology, the Tenson Kōrin myth, Manai Falls, rental boats, Takachiho Shrine, Yokagura (night rituals), Amano Iwato Shrine, Amanoyasukawara, key visiting points, access, recommended power stones, nearby spots, and FAQs.
+  A comprehensive guide to Takachiho Gorge (Takachiho Town, Nishiusuki District, Miyazaki Prefecture), covering its geology, the Tenson Kōrin myth, Manai Falls, rental boats, Takachiho Shrine, Yokagura (night rituals), Amano Iwato Shrine, Amanoyasukawara, key visiting points, access, recommended crystals, nearby spots, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -27,7 +27,7 @@ Takachiho Gorge, located in Takachiho Town, northern Miyazaki Prefecture, is a v
 - [Amano Iwato Shrine and Amanoyasukawara](#amanoiwato)
 - [Key Visiting Points](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots You'll Want to Visit](#nearby)
 - [Best Times to Visit](#season)
 - [Basic Visiting Etiquette](#manner)
@@ -110,7 +110,7 @@ Car: Approximately 2 hours from "**Kumamoto IC**" on the Kyushu Expressway, or a
 
 **Parking**: Oshihoi Parking (paid), Ohashi Parking (free), Araragi Parking (free). During long holidays and summer, parking lots tend to fill up, so early morning arrival is recommended.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Takachiho Gorge when carried during your visit.
 

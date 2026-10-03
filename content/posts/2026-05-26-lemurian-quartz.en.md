@@ -16,7 +16,7 @@ author: Sun-chan
 
 ## Introduction
 
-Lemurian Quartz, often called the "**Crystal of Lemuria**," is a special type of quartz **discovered in 1999 in Brazil (Minas Gerais state, Serra do Cabral mine)**. Its most distinctive feature is the "**barcode-like striations**" etched onto its crystal faces, which are believed to **"hold the wisdom of the lost ancient continent of Lemuria."** This makes it a rare and revered power stone with a special place in today's spiritual community.
+Lemurian Quartz, often called the "**Crystal of Lemuria**," is a special type of quartz **discovered in 1999 in Brazil (Minas Gerais state, Serra do Cabral mine)**. Its most distinctive feature is the "**barcode-like striations**" etched onto its crystal faces, which are believed to **"hold the wisdom of the lost ancient continent of Lemuria."** This makes it a rare and revered crystal with a special place in today's spiritual community.
 
 This article provides a complete overview, covering everything from the origin of its stone language and mineralogical features to **what the "Legend of Lemuria" entails**, its reputed effects, care methods, and frequently asked questions. It's designed to be a handy reference for anyone interested in **"ancient memories, spirituality, and deep intuition."**
 
@@ -64,7 +64,7 @@ Around the time Lemurian Quartz was discovered in 1999, a narrative spread in th
 
 "**By tracing the crystal's striations during meditation, one can receive ancient memories and messages of love**" — such a unique ritual of modern spirituality became established, and Lemurian Quartz is now cherished by healing practitioners worldwide as a "**rare crystal that carries a modern myth**."
 
-In Japan, since the 2000s, it has rapidly become a must-have item for **"therapists, healers, and spiritual workers."** It is strongly supported by power stone enthusiasts seeking deep meaning, recognized as **"one of the pinnacles of the quartz family."**
+In Japan, since the 2000s, it has rapidly become a must-have item for **"therapists, healers, and spiritual workers."** It is strongly supported by crystal enthusiasts seeking deep meaning, recognized as **"one of the pinnacles of the quartz family."**
 
 > Sources: GIA (Gemological Institute of America) Quartz Overview, various spiritual industry texts.
 
@@ -77,7 +77,7 @@ In Japan, since the 2000s, it has rapidly become a must-have item for **"therapi
 
 ## <span id="benefits"></span>Reputed Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 -   **Connection to Ancient Memories** — Said to connect one to deep intuition, mediated by the modern myth of "**Lemurian wisdom**."
 -   **Spiritual Awakening** — A ritualistic use, interpreting the crystal's striations as "**wisdom barcodes**."
@@ -171,7 +171,7 @@ A. **Both are described as "support stones for spirituality,"** but they are sai
 
 **Q6. What if Lemurian Quartz chips or its striations get worn down?**
 
-A. In the world of power stones, it's traditionally interpreted as "**it took the hit for you**." Many Lemurian Quartz enthusiasts, in particular, see it as a "**milestone in their soul's story**." It's common to return it to the earth with gratitude or carefully store it in a drawer. **If the striations wear down, it can be a signal to welcome a new crystal** and restart your journey together.
+A. In the world of crystals, it's traditionally interpreted as "**it took the hit for you**." Many Lemurian Quartz enthusiasts, in particular, see it as a "**milestone in their soul's story**." It's common to return it to the earth with gratitude or carefully store it in a drawer. **If the striations wear down, it can be a signal to welcome a new crystal** and restart your journey together.
 
 ## <span id="postscript"></span>Editor's Postscript
 
@@ -179,7 +179,7 @@ For the editor, Lemurian Quartz was "**a stone that taught me the power of story
 
 But when I actually held it and **traced the striations with my finger**, a **distinctly rough sensation** was transmitted through my fingertip. The moment I felt, "**This is definitely not just any quartz crystal**," the realization came: "**Whether the continent of Lemuria actually existed doesn't matter**." It was then I understood that **the story itself has the power to move something deep within me** — that was the true essence of Lemurian Quartz.
 
-Lemurian Quartz is **not a flashy stone**. However, it's a rare crystal that allows for a unique way of engagement, "**using the power of myth to converse with your inner self**," unlike any other gemstone. Whether you're interested in spirituality or not, I believe it's a profound power stone that lets you enjoy the very experience of "**holding a stone with a story**."
+Lemurian Quartz is **not a flashy stone**. However, it's a rare crystal that allows for a unique way of engagement, "**using the power of myth to converse with your inner self**," unlike any other gemstone. Whether you're interested in spirituality or not, I believe it's a profound crystal that lets you enjoy the very experience of "**holding a stone with a story**."
 
 ## <span id="team-view"></span>Editorial Team's View: Value as a "Stone Carrying Myth"
 
@@ -220,8 +220,8 @@ When you trace the crystal's striations with your finger, try to **listen to the
 - [Selenite Meaning and Effects](/blog/selenite/) — Ancient memory and Moon Goddess, deepens spiritual rituals.
 - [Labradorite Meaning and Effects](/blog/labradorite/) — Dual support for spirituality and intuition.
 - [Phantom Quartz Meaning and Effects](/blog/phantom-quartz/) — A narrative stone of the quartz family, memories of growth.
-- [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — Guide to combining the quartz crystal family.
-- [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects.
+- [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Guide to combining the quartz crystal family.
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects.
 
 ## Summary
 

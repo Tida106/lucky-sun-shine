@@ -15,7 +15,7 @@ draft: false
 
 ## Introduction
 
-Often called "**the Sun's Blood**," Bloodstone is a striking gemstone with a distinctive appearance: **deep green chalcedony (cryptocrystalline quartz) adorned with red specks that look like blood spatters**. As an alternative March birthstone, and historically revered as a "**guardian stone for warriors**" and a "**symbol of devotion and courage**," it is a power stone with a rich and extensive history.
+Often called "**the Sun's Blood**," Bloodstone is a striking gemstone with a distinctive appearance: **deep green chalcedony (cryptocrystalline quartz) adorned with red specks that look like blood spatters**. As an alternative March birthstone, and historically revered as a "**guardian stone for warriors**" and a "**symbol of devotion and courage**," it is a crystal with a rich and extensive history.
 
 This article provides a comprehensive overview, from the origins of its symbolism and mineralogical features, to the **legend of "Christ's blood symbolism,"** its reputed benefits, care methods, distinctions from jasper and other chalcedonies, and frequently asked questions. It is designed to serve as a dictionary for anyone wishing to deeply understand this **"stone of courage to face challenges,"** whether as a March birthstone or for its powerful properties.
 
@@ -72,7 +72,7 @@ Medieval European alchemists believed that "**wearing Bloodstone enhanced magica
 
 ## <span id="benefits"></span>Reputed Benefits and Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 -   **Support for Courage and Decisiveness** — Traditionally known as a "**warrior's guardian stone**," it is said to bestow the strength to face challenges.
 -   **Symbol of Devotion and Sacrifice** — From the legend of Christ's blood, it serves as a spiritual anchor for those in professions requiring **devotion to others**.
@@ -160,7 +160,7 @@ A. **Heliotrope** is derived from the Greek words **"Helio = sun" and "Tropein =
 
 **Q6. What should I do if my Bloodstone accessory chips?**
 
-A. In the world of power stones, there's a tradition of interpreting this as the stone "**acted as a substitute for you**." While a Mohs hardness of 6.5 to 7 is quite durable, strong impacts can cause chipping. Since **chipped stones can often be recut through polishing**, first consult the store where you purchased it or a trusted jewelry repair shop.
+A. In the world of crystals, there's a tradition of interpreting this as the stone "**acted as a substitute for you**." While a Mohs hardness of 6.5 to 7 is quite durable, strong impacts can cause chipping. Since **chipped stones can often be recut through polishing**, first consult the store where you purchased it or a trusted jewelry repair shop.
 
 ## <span id="postscript"></span>Editor's Note
 
@@ -210,7 +210,7 @@ It doesn't have to be flashy. On days when you need **the power to decide quietl
 - [Garnet Meaning and Benefits](/blog/garnet/) — The stone of victory and passion, a red gem supporting competitiveness.
 - [Hematite Meaning and Benefits (Red Iron Ore)](/blog/hematite/) — Another "warrior's guardian stone," the shield of ancient warriors.
 - [Carnelian Meaning and Benefits](/blog/carnelian/) — A chalcedony sister stone, the reddish-orange stone of action and achievement.
-- [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effectiveness.
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effectiveness.
 
 ## Summary
 

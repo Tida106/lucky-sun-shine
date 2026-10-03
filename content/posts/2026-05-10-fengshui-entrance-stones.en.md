@@ -1,5 +1,5 @@
 ---
-title: "8 Power Stones for Your Entrance: Feng Shui Placement Tips to Harmonize the 'Gateway of Ki' and a Directional Guide"
+title: "8 Crystals for Your Entrance: Feng Shui Placement Tips to Harmonize the 'Gateway of Ki' and a Directional Guide"
 description: "The entrance is the 'gateway of Ki' where all energy enters your home."
 date: '2026-05-10'
 updated: '2026-05-23'
@@ -14,7 +14,7 @@ draft: false
 
 ## Introduction
 
-In Feng Shui, the **most important place** is actually not the living room or the bedroom, but rather the **entrance**. Since all energy entering your home passes through the entrance, harmonizing this space directly impacts your overall luck. In this article, I'll explain 8 power stones you'll want to place in your entrance and tips on how to arrange them!
+In Feng Shui, the **most important place** is actually not the living room or the bedroom, but rather the **entrance**. Since all energy entering your home passes through the entrance, harmonizing this space directly impacts your overall luck. In this article, I'll explain 8 crystals you'll want to place in your entrance and tips on how to arrange them!
 
 ## Why the Entrance is the Most Important Place in Feng Shui
 
@@ -23,7 +23,7 @@ In Feng Shui, the **most important place** is actually not the living room or th
 - **Visitors' Impression**: The energy of others is also brought into your home.
 - **Overall Home Energy Balance**: The state of your entrance affects the entire house.
 
-## 8 Power Stones You'll Want to Place in Your Entrance
+## 8 Crystals You'll Want to Place in Your Entrance
 
 ### 1. Quartz (Most Basic and Versatile)
 
@@ -128,7 +128,7 @@ A. Yes! Even just **one small quartz point** is believed to change the energy fl
 
 **Q4. What if the stones get dirty?**
 
-A. Once a month, **wipe them with a soft cloth**, or if it's not quartz, **rinse them briefly under running water** (excluding water-sensitive stones). Leaving dirt is believed to reduce their purification power, so regular care is important. For more details, please refer to the [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+A. Once a month, **wipe them with a soft cloth**, or if it's not quartz, **rinse them briefly under running water** (excluding water-sensitive stones). Leaving dirt is believed to reduce their purification power, so regular care is important. For more details, please refer to the [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 **Q5. Should I match the entrance direction with the stones?**
 
@@ -137,9 +137,9 @@ A. It's not mandatory, but being mindful of the combinations listed under **"Rec
 ## Related Articles You'll Want to Read
 
 - [Complete Guide to Lucky Habits](/blog/lucky-habits-guide/) — A comprehensive guide including habits beyond the entrance.
-- [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/) — The fundamentals of combining spaces and stones.
-- [Power Stones for Your Bedroom](/blog/fengshui-bedroom-stones/) — Feng Shui for the bedroom.
-- [Power Stone Quick Reference by Direction](/blog/fengshui-direction-stones/) — Placement according to the Eight Directions and Five Elements.
+- [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/) — The fundamentals of combining spaces and stones.
+- [Crystals for Your Bedroom](/blog/fengshui-bedroom-stones/) — Feng Shui for the bedroom.
+- [Crystal Quick Reference by Direction](/blog/fengshui-direction-stones/) — Placement according to the Eight Directions and Five Elements.
 - [Meaning and Effects of Quartz (Crystal)](/blog/clear-quartz/) — The essential stone for your entrance.
 - [Meaning and Effects of Morion](/blog/morion/) — The strongest ward against evil.
 

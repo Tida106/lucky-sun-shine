@@ -1,7 +1,7 @@
 ---
-title: "Leo Zodiac and Power Stones: Personality, Fortune, and a Guide Focused on Tiger's Eye"
+title: "Leo Zodiac and Crystals: Personality, Fortune, and a Guide Focused on Tiger's Eye"
 description: >-
-  A comprehensive guide to recommended power stones that support the personality and luck of Leos (July 23 – August 22). This article covers everything from their guardian stone, Tiger's Eye, to compatible stones like Citrine, Sunstone, and Ruby, along with lucky colors, good luck actions, how to wear them, and FAQs.
+  A comprehensive guide to recommended crystals that support the personality and luck of Leos (July 23 – August 22). This article covers everything from their guardian stone, Tiger's Eye, to compatible stones like Citrine, Sunstone, and Ruby, along with lucky colors, good luck actions, how to wear them, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -14,7 +14,7 @@ draft: false
 
 ## Welcome!
 
-Leo, or Shishiza as we say in Japanese, is a **Fire element** sign that the sun passes through from **July 23 to August 22**. Its ruling planet is **the Sun (Sol)** itself, and among the 12 zodiac signs, Leo's mission is to **"shine authentically."** It symbolizes **"charisma, self-esteem, and creativity,"** and Leos naturally possess a strong aptitude for being in the spotlight and expressing themselves. In this article, I've put together a one-page guide covering power stones that suit Leo's personality and fortune, **focusing on their guardian stone, Tiger's Eye**, along with compatible stones, lucky colors, good luck actions, and FAQs!
+Leo, or Shishiza as we say in Japanese, is a **Fire element** sign that the sun passes through from **July 23 to August 22**. Its ruling planet is **the Sun (Sol)** itself, and among the 12 zodiac signs, Leo's mission is to **"shine authentically."** It symbolizes **"charisma, self-esteem, and creativity,"** and Leos naturally possess a strong aptitude for being in the spotlight and expressing themselves. In this article, I've put together a one-page guide covering crystals that suit Leo's personality and fortune, **focusing on their guardian stone, Tiger's Eye**, along with compatible stones, lucky colors, good luck actions, and FAQs!
 
 ## Leo's Basic Personality
 
@@ -31,9 +31,9 @@ Leos are signs that live their lives **"as grandly as the Sun."** They value lea
 **Strengths**: Charisma, generosity, creativity, dramatic expression, pride
 **Weaknesses (the flip side)**: High pride, self-centeredness, bossiness, craving for praise
 
-> **Please note**: The effects of zodiac signs and power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Please note**: The effects of zodiac signs and crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Leo
+## Recommended Crystals for Leo
 
 Stones with a majestic **golden and golden-yellow** hue deeply resonate with Leo's themes of **"Sun, charisma, and brilliance."**
 
@@ -88,7 +88,7 @@ Here are some common concerns Leos might have and how to use the corresponding s
 | Tiger's Eye and Ruby | Passion and competitive spirit |
 | Tiger's Eye and [Clear Quartz](/blog/clear-quartz/) | Amplification and purification of energy |
 
-For the basics of combinations, please refer to the [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, please refer to the [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Good Luck Actions
 
@@ -137,9 +137,9 @@ A. Generally, other Fire signs like **Aries and Sagittarius**, and Air signs lik
 
 ## Related Articles You Might Like to Read
 
--   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 zodiac signs
--   [Cancer Power Stones](/blog/zodiac-cancer/) — The preceding sign
--   [Virgo Power Stones](/blog/zodiac-virgo/) — The next sign
+-   [Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 zodiac signs
+-   [Cancer Crystals](/blog/zodiac-cancer/) — The preceding sign
+-   [Virgo Crystals](/blog/zodiac-virgo/) — The next sign
 -   [Tiger's Eye Meaning, Stone Lore, and Effects](/blog/tigers-eye/) — Detailed explanation of the main stone
 -   [August Birthstones | Peridot and Spinel](/blog/birthstone-august/) — For Leos born in August
 

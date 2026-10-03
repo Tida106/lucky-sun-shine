@@ -1,6 +1,6 @@
 ---
 title: "Meiji Jingu Shrine Visitor's Guide | Tokyo's Largest Power Spot with 700,000 m² of Sacred Forest"
-description: "A comprehensive guide to Meiji Jingu Shrine (1-1 Yoyogi Kamizono-cho, Shibuya-ku, Tokyo), covering its history, blessings and benefits, key visiting points, Kiyomasa's Well, Meoto-Kusu (Married Couple Camphor Trees), New Year's visit crowd information, recommended power stones, and nearby spots. This is your definitive guide to fully experience the sacred forest just a minute's walk from Harajuku Station."
+description: "A comprehensive guide to Meiji Jingu Shrine (1-1 Yoyogi Kamizono-cho, Shibuya-ku, Tokyo), covering its history, blessings and benefits, key visiting points, Kiyomasa's Well, Meoto-Kusu (Married Couple Camphor Trees), New Year's visit crowd information, recommended crystals, and nearby spots. This is your definitive guide to fully experience the sacred forest just a minute's walk from Harajuku Station."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -20,7 +20,7 @@ Meiji Jingu Shrine, located right next to Harajuku in Tokyo, is the capital's la
 - [Blessings and Benefits](#benefit)
 - [Highlights and Must-Sees](#highlight)
 - [Key Visiting Points](#point)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Best Time to Visit](#timing)
 - [Basic Etiquette for Shrine Visits](#manner)
@@ -77,7 +77,7 @@ Emperor Meiji and Empress Shoken are regarded as an **ideal example of a married
 - For Hatsumode (New Year's visit), **early morning to late morning on New Year's Day** sees the peak crowds, and the first three days are crowded all day.
 - Exorcism (Oharai) and prayers to ward off evil (Yakuyoke Kito) are accepted at the shrine office at any time.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Meiji Jingu Shrine when you bring them for your visit.
 
@@ -178,7 +178,7 @@ On your way back, the moment you return to the streets of Harajuku — if you fe
 - [Izumo Taisha Grand Shrine Visitor's Guide](/blog/izumo-taisha/) — The Home of Matchmaking
 - [Meaning and Effects of Rose Quartz](/blog/rose-quartz-meaning/) — A Charm for Love and Relationships
 - [Meaning and Effects of Moonstone](/blog/moonstone/) — The Stone for Marital Harmony
-- [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Chapter on Matchmaking and Love Luck
+- [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Chapter on Matchmaking and Love Luck
 
 ## Summary
 

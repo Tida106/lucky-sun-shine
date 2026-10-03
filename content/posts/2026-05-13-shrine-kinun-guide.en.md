@@ -11,7 +11,7 @@ draft: false
 
 ## Introduction
 
-"I want to succeed in business," "I want a pay raise," "I want to save steadily"—praying for financial luck and business prosperity has been a central theme of shrine visits since ancient times. In this article, I've compiled a list of **nationwide shrines famous for financial luck and business prosperity**, connecting them to our site's individual guide articles, so you can compare them all on one page. Discover the perfect shrine for you, taking into account the **enshrined deities, origins of financial blessings, and highlights**. For basic shrine visiting etiquette, check out the [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/). For power stones as lucky charms, see [Power Stones for Financial Luck](/blog/money-luck-stones/), and for choosing a money-attracting wallet, refer to [How to Choose a Wallet for Financial Luck](/blog/money-luck-wallet/).
+"I want to succeed in business," "I want a pay raise," "I want to save steadily"—praying for financial luck and business prosperity has been a central theme of shrine visits since ancient times. In this article, I've compiled a list of **nationwide shrines famous for financial luck and business prosperity**, connecting them to our site's individual guide articles, so you can compare them all on one page. Discover the perfect shrine for you, taking into account the **enshrined deities, origins of financial blessings, and highlights**. For basic shrine visiting etiquette, check out the [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/). For crystals as lucky charms, see [Crystals for Financial Luck](/blog/money-luck-stones/), and for choosing a money-attracting wallet, refer to [How to Choose a Wallet for Financial Luck](/blog/money-luck-wallet/).
 
 ## The Relationship Between Financial Luck, Business Prosperity, and Shrines
 
@@ -76,7 +76,7 @@ The main enshrined deity, **Okuninushi-no-Okami**, was **syncretized with "Daiko
 -   **Financial Luck Feature**: Worship of Okuninushi-no-Okami (Daikokuten) as a **"deity who brings good fortune."**
 -   **Blessings**: Financial luck, business prosperity, matchmaking, bountiful harvests.
 
-→ [Izumo Taisha Visiting Guide | The Sacred Site of Matchmaking in Shimane: Visiting Methods and Compatibility with Power Stones](/blog/izumo-taisha/)
+→ [Izumo Taisha Visiting Guide | The Sacred Site of Matchmaking in Shimane: Visiting Methods and Compatibility with Crystals](/blog/izumo-taisha/)
 
 ## <span id="omiwa"></span>Omiwa Shrine (Nara Prefecture) — Financial Luck from Snake Deity Worship
 
@@ -149,17 +149,17 @@ A. While practices vary depending on the tradition, the most common approach is 
 
 A. **Yes, it's possible**, but Shinto tradition has always placed more emphasis on "**prosperity gained through sincere labor**" than on "wealth acquired without effort." Instead of speculative prayers, it's more natural to pray for **"sharpened judgment and decision-making skills."**
 
-**Q5. Is it okay to bring power stones when visiting a shrine?**
+**Q5. Is it okay to bring crystals when visiting a shrine?**
 
-A. Yes, many people bring financial luck stones such as **citrine** and **rutilated quartz**. Common practices include holding them in your palm before passing through the torii gate or placing them near your omamori (sacred talismans) after your visit. For more details, please refer to [Power Stones for Financial Luck](/blog/money-luck-stones/).
+A. Yes, many people bring financial luck stones such as **citrine** and **rutilated quartz**. Common practices include holding them in your palm before passing through the torii gate or placing them near your omamori (sacred talismans) after your visit. For more details, please refer to [Crystals for Financial Luck](/blog/money-luck-stones/).
 
 ## Related Articles You Might Like
 
 -   [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/) — Basic etiquette and manners
--   [Power Stones for Financial Luck](/blog/money-luck-stones/) — Citrine and other money-attracting stones
+-   [Crystals for Financial Luck](/blog/money-luck-stones/) — Citrine and other money-attracting stones
 -   [How to Choose a Wallet for Financial Luck](/blog/money-luck-wallet/) — How to choose the wallet itself
--   [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — A comparison of 10 categories
--   [Basics of Power Stones and Feng Shui](/blog/fengshui-powerstone-basics/) — How to harmonize stones and space
+-   [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — A comparison of 10 categories
+-   [Basics of Crystals and Feng Shui](/blog/fengshui-powerstone-basics/) — How to harmonize stones and space
 
 ## Summary
 
@@ -167,6 +167,6 @@ A. Yes, many people bring financial luck stones such as **citrine** and **rutila
 -   The six representative financial luck shrines across Japan include **Enoshima, Itsukushima, and Munakata (Benten lineage), Izumo and Omiwa (Daikokuten and snake deity lineage), and Kasuga (Fujiwara clan lineage)**.
 -   The basic principle for visiting is to focus on **"prosperity and integrity" rather than just "profit,"** and the **Day of the Snake (Mi no Hi) and Day of the Tiger (Tora no Hi)** are considered auspicious days.
 -   For offerings, **your feelings are more important than the amount**, and for money washing, aim to **circulate the "seed money"**.
--   Combining shrine visits with [Power Stones for Financial Luck](/blog/money-luck-stones/) and a [Financial Luck Wallet](/blog/money-luck-wallet/) can serve as everyday charms.
+-   Combining shrine visits with [Crystals for Financial Luck](/blog/money-luck-stones/) and a [Financial Luck Wallet](/blog/money-luck-wallet/) can serve as everyday charms.
 
 It is traditionally said that financial luck only comes when you align **"everything: your home, its flow, and your mindset regarding money."** Visiting a shrine is the best place to renew that awareness.

@@ -1,6 +1,6 @@
 ---
-title: "Can You Take Your Power Stones into the Bath, Hot Springs, or Ocean? A Guide to Water, Heat, and Salt Concerns"
-description: "Is it okay to wear your power stones in the bath, hot springs, ocean, or pool? This comprehensive guide explains the effects of water, heat, salt, and chlorine, provides a quick reference chart for stone-specific dos and don'ts, tips for when you forget to remove them, and warnings about elastic cord degradation."
+title: "Can You Take Your Crystals into the Bath, Hot Springs, or Ocean? A Guide to Water, Heat, and Salt Concerns"
+description: "Is it okay to wear your crystals in the bath, hot springs, ocean, or pool? This comprehensive guide explains the effects of water, heat, salt, and chlorine, provides a quick reference chart for stone-specific dos and don'ts, tips for when you forget to remove them, and warnings about elastic cord degradation."
 date: "2026-07-01"
 category: "powerstones"
 tags: ["Crystal Quartz", "Bracelet", "Purification Methods", "Beginner's Guide"]
@@ -9,15 +9,15 @@ draft: false
 
 ## Introduction: The Short Answer is "It's Best to Take Them Off"
 
-"Oops, I wore my bracelet into the bath!" "Is it okay to bring my stones to the beach?" These are questions we all face when we wear power stones every day.
+"Oops, I wore my bracelet into the bath!" "Is it okay to bring my stones to the beach?" These are questions we all face when we wear crystals every day.
 
-**To get straight to the point, it's generally best not to take your power stones into baths, hot springs, the ocean, or pools.**
+**To get straight to the point, it's generally best not to take your crystals into baths, hot springs, the ocean, or pools.**
 
 Of course, some stones like crystal quartz are known to be quite durable in water, but there are differences depending on the type of stone. However, many stones are vulnerable to one or more of water, heat, salt, or chlorine. The elastic cords and metal clasps on bracelets are particularly susceptible to deterioration in any watery environment. Thinking "the stone looks fine, so I'll leave it on" often ends up shortening your bracelet's lifespan.
 
 In this article, I'll break down the effects of water, heat, and salt by type, and provide an easy-to-understand quick reference guide on "how much is okay for each stone."
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic. They are not medically or scientifically guaranteed. The information regarding the effects on each stone in this article is based on general mineralogical knowledge as a guideline. For care of your precious stones, please also consult with specialists.
+> **Please Note**: The "effects" of crystals are cultural and symbolic. They are not medically or scientifically guaranteed. The information regarding the effects on each stone in this article is based on general mineralogical knowledge as a guideline. For care of your precious stones, please also consult with specialists.
 
 ## ① Effects of Water (Tap Water and Bathwater)
 
@@ -152,7 +152,7 @@ Even if the stone itself is durable in water, **the elastic cord or wire of your
 
 There's a risk of your bracelet suddenly breaking because "the stone is fine, but the cord is damaged." Regardless of the type of stone, making a habit of removing your bracelet in watery places will help both the stone and the bracelet last longer.
 
-You can find more detailed information on bracelet lifespan, sizing, and repairs in the [Complete Guide to Power Stone Bracelets](/blog/bracelet-complete-guide/).
+You can find more detailed information on bracelet lifespan, sizing, and repairs in the [Complete Guide to Crystal Bracelets](/blog/bracelet-complete-guide/).
 
 ## What to Do If You Forget to Take Them Off
 
@@ -164,7 +164,7 @@ If you accidentally went for a bath or a swim in the sea while wearing your ston
 3.  **Allow to air dry in a well-ventilated, shaded spot** (avoid hairdryer heat).
 4.  **Once completely dry, purification is recommended.**
 
-For purification methods, please refer to the [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/). Placing them on crystal chips, passing them through white sage smoke, or moonlight bathing are safe purification methods that can also be used for water-vulnerable stones.
+For purification methods, please refer to the [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/). Placing them on crystal chips, passing them through white sage smoke, or moonlight bathing are safe purification methods that can also be used for water-vulnerable stones.
 
 ## Tips for Storage and Care
 
@@ -182,7 +182,7 @@ Everyday sweat and sebum can also cause stones to discolor or become cloudy. Sim
 
 Stones can get scratched if they rub against each other. **Storing them in individually partitioned cases or cloth pouches** is ideal. A location free from direct sunlight, high humidity, and and high temperatures (like inside a drawer) is perfect.
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B1%E3%83%BC%E3%82%B9%2F&link_type=text" rel="sponsored noopener" target="_blank">Find power stone storage cases on Rakuten Ichiba</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%20%E3%82%B1%E3%83%BC%E3%82%B9%2F&link_type=text" rel="sponsored noopener" target="_blank">Find crystal storage cases on Rakuten Ichiba</a>
 
 ### Daily Purification with Crystal Chips
 
@@ -235,8 +235,8 @@ Making a habit of handling your stones with care will lead to a long and beautif
 
 ## Related Articles You Might Enjoy
 
-- [Complete Guide to Power Stone Bracelets: Size, Stone Selection, Combinations, and Care](/blog/bracelet-complete-guide/)
-- [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/)
-- [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/)
-- [Power Stone Beginner's Guide: Everything Newbies Need to Know](/blog/powerstone-beginner-guide/)
+- [Complete Guide to Crystal Bracelets: Size, Stone Selection, Combinations, and Care](/blog/bracelet-complete-guide/)
+- [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/)
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/)
+- [Crystal Beginner's Guide: Everything Newbies Need to Know](/blog/powerstone-beginner-guide/)
 - [How to Spot Fake and Artificial Stones](/blog/spot-fake-stones/)

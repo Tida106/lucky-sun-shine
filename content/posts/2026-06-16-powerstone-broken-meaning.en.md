@@ -1,9 +1,9 @@
 ---
-title: "When Your Power Stone Breaks or Bracelet Snaps: Meaning, Solutions, and Why It's Not a Bad Omen"
+title: "When Your Crystal Breaks or Bracelet Snaps: Meaning, Solutions, and Why It's Not a Bad Omen"
 description: "Did your stone break or your bracelet string snap? If you're searching with anxiety, this complete guide is for you. We gently cover physical causes, spiritual interpretations, four solutions (repair, cleanse, give thanks, or get a new one), knowledge about fragile stones, prevention tips, and FAQs. The bottom line: it's not an ominous sign."
 date: "2026-06-16"
 category: "powerstones"
-tags: ["power stones", "care", "cleansing", "troubleshooting", "maintenance"]
+tags: ["crystals", "care", "cleansing", "troubleshooting", "maintenance"]
 author: "Sun-chan"
 draft: false
 ---
@@ -16,7 +16,7 @@ First, let me tell you this: **A stone breaking or a bracelet cord snapping is n
 
 In this article, I've put together an explanation of the physical reasons **why stones break or cords snap**, an introduction to **spiritual interpretations** (without asserting them as fact), **four solutions for when a stone breaks or a cord snaps**, and **prevention tips**, all arranged to help ease your worries. Let's take the next step together with a calm heart.
 
-> **Please Note**: The "meaning," "effects," and "symbolism" of power stones are cultural and spiritual interpretations. They are not medically or scientifically guaranteed, nor does a stone breaking or cord snapping guarantee any good or bad fortune. This article is meant to be read as a guide to ease the hearts of those feeling anxious, assuming the perspective of **enjoying power stones as charms or talismans**.
+> **Please Note**: The "meaning," "effects," and "symbolism" of crystals are cultural and spiritual interpretations. They are not medically or scientifically guaranteed, nor does a stone breaking or cord snapping guarantee any good or bad fortune. This article is meant to be read as a guide to ease the hearts of those feeling anxious, assuming the perspective of **enjoying crystals as charms or talismans**.
 
 ## Table of Contents
 
@@ -109,13 +109,13 @@ Once you've sorted through the physical and spiritual backgrounds, let's look at
 
 If your bracelet cord snapped or stretched, **restoring it by re-stringing (replacing the elastic)** is the simplest option.
 
--   **Specialty Store Re-stringing Service**: Most power stone specialty stores offer this service for around 1,000 to 3,000 yen.
+-   **Specialty Store Re-stringing Service**: Most crystal specialty stores offer this service for around 1,000 to 3,000 yen.
 -   **DIY Replacement**: You can also buy Operon elastic and re-string it yourself (requires some practice).
 -   **Switching to Wire**: An option if you want to increase durability.
 
 If the stone itself is intact and **only the cord broke**, repair is the primary option. If it's a stone you've had for a long time, **sending it for re-stringing with a feeling of gratitude** is also a ceremonial gesture and a key to continuing to cherish it.
 
-→ For details on remeasuring sizes and the best time for re-stringing, please refer to the "Care and Cleansing" section in the [Complete Guide to Choosing Power Stone Bracelets](/blog/bracelet-complete-guide/).
+→ For details on remeasuring sizes and the best time for re-stringing, please refer to the "Care and Cleansing" section in the [Complete Guide to Choosing Crystal Bracelets](/blog/bracelet-complete-guide/).
 
 ### ② Cleanse and Store It
 
@@ -128,7 +128,7 @@ If you're still undecided about repair, or you want to keep it close until you'v
 
 Once cleansed, wrap it in a **soft cloth or small pouch** and place it in a drawer or small box. When you suddenly feel, "I want to wear it again," take the time to make your **next choice**, whether that's sending it for repair or welcoming a new stone.
 
-→ The cleansing procedure and suitability for each stone are summarized in the [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/).
+→ The cleansing procedure and suitability for each stone are summarized in the [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/).
 
 ### ③ Give Thanks and Release It
 
@@ -144,7 +144,7 @@ If you feel that it "fulfilled its purpose," then **letting it go with a feeling
 
 > **Environmental and Legal Considerations**: Placing or releasing stones in **public places** like the sea, rivers, or parks requires **adherence to local regulations and environmental considerations**. Generally, choosing to bury it in **your own garden or a potted plant** or opting for **disposal** is the safest approach.
 
-If you choose a shrine for a memorial service, it's good etiquette to **inquire in advance whether they accept such items**. Shrines that perform ceremonial burning or doll memorial services may sometimes accept power stones. For insights into disposing of good luck charms, the [Guide to Disposing of Engimono (Lucky Charms)](/blog/engimono-disposal/) is also helpful.
+If you choose a shrine for a memorial service, it's good etiquette to **inquire in advance whether they accept such items**. Shrines that perform ceremonial burning or doll memorial services may sometimes accept crystals. For insights into disposing of good luck charms, the [Guide to Disposing of Engimono (Lucky Charms)](/blog/engimono-disposal/) is also helpful.
 
 ### ④ Welcome a New Stone
 
@@ -181,7 +181,7 @@ A jet-black stone cherished as "**a modern classic for warding off negativity**.
 → [Meaning, Stone Words, and Effects of Black Tourmaline](/blog/black-tourmaline/)
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%88%E3%83%AB%E3%83%9E%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">Find Black Tourmaline on Rakuten Ichiba</a>
 
-→ If you want to choose the perfect stone for you, please also see the [Power Stone Beginner's Guide: Your First Stone](/blog/powerstone-beginner-guide/) and the [Comprehensive Guide to 12 Birthstones](/blog/birthstone-guide/).
+→ If you want to choose the perfect stone for you, please also see the [Crystal Beginner's Guide: Your First Stone](/blog/powerstone-beginner-guide/) and the [Comprehensive Guide to 12 Birthstones](/blog/birthstone-guide/).
 
 ## <span id="fragile-stones"></span>Knowledge of Fragile Stones and Cord Materials
 
@@ -249,13 +249,13 @@ Catching "small, unnoticed changes as they progress" early is the biggest secret
 
 Regular cleansing is also **maintenance for your stone**. Aim to do it **once or twice a month** using methods like moonlight baths or placing it on a quartz cluster.
 
-→ Please refer to the [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/) for cleansing procedures and precautions for each stone.
+→ Please refer to the [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/) for cleansing procedures and precautions for each stone.
 
 ### ⑤ Create Days When You Don't Wear It Daily
 
 While it's easy to think of a charm as something to wear every day, making time for your stone to **rest occasionally** will ultimately help you keep it longer. Simply having days where you decide, "Today, my stone is also resting," and return it to its drawer, will definitely extend the elastic's lifespan.
 
-→ For more systematic maintenance methods, please also see the [Power Stone Care Guide](/blog/powerstone-care-guide/).
+→ For more systematic maintenance methods, please also see the [Crystal Care Guide](/blog/powerstone-care-guide/).
 
 ## <span id="faq"></span>Frequently Asked Questions (FAQ)
 
@@ -318,14 +318,14 @@ The sun, you know, rises properly and sets properly every day. Even if a stone b
 
 ## <span id="related"></span>Related Articles You Might Also Like
 
--   [Complete Guide to Choosing a Power Stone Bracelet](/blog/bracelet-complete-guide/) — Size, stone selection, and care
--   [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/) — 10 cleansing methods and suitability for each stone
--   [Power Stone Care Guide](/blog/powerstone-care-guide/) — Basics for cherishing your stones longer
--   [Power Stone Beginner's Guide: Your First Stone](/blog/powerstone-beginner-guide/) — Your entry point to welcoming a new stone
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — Four axes: purpose, birthstone, color, intuition
+-   [Complete Guide to Choosing a Crystal Bracelet](/blog/bracelet-complete-guide/) — Size, stone selection, and care
+-   [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/) — 10 cleansing methods and suitability for each stone
+-   [Crystal Care Guide](/blog/powerstone-care-guide/) — Basics for cherishing your stones longer
+-   [Crystal Beginner's Guide: Your First Stone](/blog/powerstone-beginner-guide/) — Your entry point to welcoming a new stone
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — Four axes: purpose, birthstone, color, intuition
 -   [Comprehensive Guide to 12 Birthstones](/blog/birthstone-guide/) — Revisit your birth month stone
--   [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Habits for wearing and storage
--   [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — For when you're assembling your next bracelet
+-   [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Habits for wearing and storage
+-   [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — For when you're assembling your next bracelet
 -   [Guide to Disposing of Engimono (Lucky Charms)](/blog/engimono-disposal/) — How to release them, including shrine memorial services
 -   [Meaning and Effects of Clear Quartz](/blog/clear-quartz/) — The classic stone for new beginnings
 -   [Meaning and Effects of Rose Quartz](/blog/rose-quartz-meaning/) — For emotional resets

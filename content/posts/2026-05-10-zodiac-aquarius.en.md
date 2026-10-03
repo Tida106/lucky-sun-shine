@@ -1,7 +1,7 @@
 ---
-title: "Zodiac Stones and Power Stones for Aquarius | Personality, Fortune, and an Amethyst-Centered Selection Guide"
+title: "Zodiac Stones and Crystals for Aquarius | Personality, Fortune, and an Amethyst-Centered Selection Guide"
 description: >-
-  This comprehensive guide explores recommended power stones that support the personality and fortune of Aquarius (Jan 20 - Feb 18). We cover everything from the guardian stone Amethyst to complementary stones like Aquamarine, Labradorite, and Fluorite, along with lucky colors, fortune-boosting actions, wearing tips, and FAQs.
+  This comprehensive guide explores recommended crystals that support the personality and fortune of Aquarius (Jan 20 - Feb 18). We cover everything from the guardian stone Amethyst to complementary stones like Aquamarine, Labradorite, and Fluorite, along with lucky colors, fortune-boosting actions, wearing tips, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -14,7 +14,7 @@ draft: false
 
 ## Introduction
 
-Aquarius is an **Air sign** that the sun passes through from **January 20th to February 18th**. Its ruling planet is **Uranus**, symbolizing **"innovation, freedom, and originality."** Among the 12 zodiac signs, Aquarius is the most **ahead of its time**, possessing the power to **create new values** without being constrained by existing frameworks. In this article, we'll put together a guide to power stones that suit the Aquarian personality and fortune, **focusing on Amethyst as the guardian stone**, and also covering complementary stones, lucky colors, fortune-boosting actions, and FAQs—all in one place!
+Aquarius is an **Air sign** that the sun passes through from **January 20th to February 18th**. Its ruling planet is **Uranus**, symbolizing **"innovation, freedom, and originality."** Among the 12 zodiac signs, Aquarius is the most **ahead of its time**, possessing the power to **create new values** without being constrained by existing frameworks. In this article, we'll put together a guide to crystals that suit the Aquarian personality and fortune, **focusing on Amethyst as the guardian stone**, and also covering complementary stones, lucky colors, fortune-boosting actions, and FAQs—all in one place!
 
 ## Basic Personality of Aquarius
 
@@ -31,9 +31,9 @@ Aquarians are people of the motto: **"All for everyone, while staying true to yo
 **Strengths**: Originality, Foresight, Philanthropy, Fairness, Intellectual Curiosity
 **Weaknesses (the flip side)**: Can be seen as eccentric, Difficulty expressing emotions, Can appear aloof, Difficulty fitting into groups
 
-> **Note**: The effects of zodiac signs and power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Note**: The effects of zodiac signs and crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Aquarius
+## Recommended Crystals for Aquarius
 
 Deeply resonating with Aquarius' themes of **"innovation, spirituality, and freedom"** are translucent and spiritual stones in **purple and aquamarine blue**.
 
@@ -88,7 +88,7 @@ Here are common concerns Aquarians might face and how to use corresponding stone
 | Amethyst and Fluorite | Spirituality and focus, for researchers |
 | Amethyst and [Clear Quartz](/blog/clear-quartz/) | Energy amplification and purification |
 
-For basic combinations, refer to [The Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For basic combinations, refer to [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Fortune-Boosting Actions
 
@@ -137,9 +137,9 @@ A. Generally, other Air signs **Gemini and Libra**, and Fire signs **Aries and S
 
 ## Related Articles You'll Want to Read
 
--   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 zodiac signs
--   [Power Stones for Capricorn](/blog/zodiac-capricorn/) — Previous Zodiac Sign
--   [Power Stones for Pisces](/blog/zodiac-pisces/) — Next Zodiac Sign
+-   [Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 zodiac signs
+-   [Crystals for Capricorn](/blog/zodiac-capricorn/) — Previous Zodiac Sign
+-   [Crystals for Pisces](/blog/zodiac-pisces/) — Next Zodiac Sign
 -   [Meaning, Stone Language, and Effects of Amethyst](/blog/amethyst/) — Detailed explanation of the main stone
 -   [February Birthstone | Amethyst](/blog/birthstone-february/) — For Aquarius born in February
 

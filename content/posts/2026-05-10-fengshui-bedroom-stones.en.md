@@ -1,5 +1,5 @@
 ---
-title: "7 Power Stones for Your Bedroom: Feng Shui and Placement Guide for Better Sleep, Love Luck, and Nightmare Protection"
+title: "7 Crystals for Your Bedroom: Feng Shui and Placement Guide for Better Sleep, Love Luck, and Nightmare Protection"
 description: "Your bedroom, where you spend a third of your day, is a charging station for your luck and energy."
 date: '2026-05-10'
 updated: '2026-05-23'
@@ -13,7 +13,7 @@ draft: false
 
 ## Introduction
 
-We spend **one-third** of our day in the bedroom. Your bedroom is a "charging station for good fortune" — by keeping it tidy and harmonious, you can transform everything from your next day's performance to your relationships. In this article, I'll introduce 7 power stones perfect for your bedroom and share tips on where to place them.
+We spend **one-third** of our day in the bedroom. Your bedroom is a "charging station for good fortune" — by keeping it tidy and harmonious, you can transform everything from your next day's performance to your relationships. In this article, I'll introduce 7 crystals perfect for your bedroom and share tips on where to place them.
 
 ## 3 Key Objectives for Your Bedroom
 
@@ -21,7 +21,7 @@ We spend **one-third** of our day in the bedroom. Your bedroom is a "charging st
 2.  Enhance **love luck and marital harmony**
 3.  Prevent **nightmares and spiritual unease**
 
-## 7 Power Stones Perfect for Your Bedroom
+## 7 Crystals Perfect for Your Bedroom
 
 ### 1. Amethyst (Sleep Quality and Mental Stability)
 
@@ -165,14 +165,14 @@ A. For a child's bedroom, **stones with gentle energy (Rose Quartz, Amethyst, an
 
 **Q5. How often should I give my stones a moonlight bath?**
 
-A. Traditionally, **once or twice a month (especially on a full moon night)**. Place them by the window and always bring them back inside by the next morning. For more details on moonlight baths, please refer to [Moon Phases and Power Stones](/blog/moon-phases-and-stones/).
+A. Traditionally, **once or twice a month (especially on a full moon night)**. Place them by the window and always bring them back inside by the next morning. For more details on moonlight baths, please refer to [Moon Phases and Crystals](/blog/moon-phases-and-stones/).
 
 ## Related Articles You Might Enjoy
 
 -   [Complete Guide to Lucky Habits](/blog/lucky-habits-guide/) — A comprehensive guide including habits beyond the bedroom
--   [Power Stones for Your Entrance](/blog/fengshui-entrance-stones/) — Harmonizing the entry point of energy
--   [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/) — The fundamentals of combining spaces and stones
--   [Moon Phases and Power Stones](/blog/moon-phases-and-stones/) — Charging your stones with the moon's rhythm
+-   [Crystals for Your Entrance](/blog/fengshui-entrance-stones/) — Harmonizing the entry point of energy
+-   [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/) — The fundamentals of combining spaces and stones
+-   [Moon Phases and Crystals](/blog/moon-phases-and-stones/) — Charging your stones with the moon's rhythm
 -   [Amethyst Meaning and Effects](/blog/amethyst/) — A classic bedroom stone
 -   [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — The quintessential stone for love luck
 

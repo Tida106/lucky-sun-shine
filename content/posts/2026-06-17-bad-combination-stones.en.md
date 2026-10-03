@@ -1,6 +1,6 @@
 ---
-title: "Are There Really Power Stone Combinations You Shouldn't Wear?｜The Truth About So-Called 'Forbidden' Pairings"
-description: "You've searched because you're worried about 'bad compatibility' or 'energy repulsion' between stones. Rest assured, there are no scientifically proven 'absolutely forbidden' power stone combinations. This complete guide gently unpacks the truth behind three common 'NG theories,' explains physical compatibility you should genuinely consider, offers tips for choosing harmonious pairings, and includes an FAQ section."
+title: "Are There Really Crystal Combinations You Shouldn't Wear?｜The Truth About So-Called 'Forbidden' Pairings"
+description: "You've searched because you're worried about 'bad compatibility' or 'energy repulsion' between stones. Rest assured, there are no scientifically proven 'absolutely forbidden' crystal combinations. This complete guide gently unpacks the truth behind three common 'NG theories,' explains physical compatibility you should genuinely consider, offers tips for choosing harmonious pairings, and includes an FAQ section."
 date: "2026-06-17"
 category: "powerstones"
 tags: ["clear quartz", "combinations", "compatibility", "beginner's guide", "bracelets"]
@@ -11,11 +11,11 @@ draft: false
 
 Have you encountered information like, "**This combination is an absolute no-go**," "**Their energies repel each other and lead to counterproductive results**," or "**Wearing incompatible stones together will bring misfortune**" somewhere, and now you're feeling anxious looking at the bracelet on your wrist?
 
-First and foremost, let me tell you this: **There are no scientifically proven "absolutely forbidden power stone combinations."** Most of the stories about "this stone and that stone repelling each other" or "their effects canceling out when combined" are merely cultural or symbolic interpretations, and **none of them are absolute rules**.
+First and foremost, let me tell you this: **There are no scientifically proven "absolutely forbidden crystal combinations."** Most of the stories about "this stone and that stone repelling each other" or "their effects canceling out when combined" are merely cultural or symbolic interpretations, and **none of them are absolute rules**.
 
 In this article, we'll carefully unravel the **actual truth** behind the combinations often labeled as "forbidden," one by one. By the time you finish reading, you'll surely arrive at the simple and reassuring conclusion that "**the combination that feels good to you is the right one**."
 
-> **Please Note**: The "meanings," "effects," and "compatibility" of power stones are cultural and symbolic interpretations. They are not medically or scientifically guaranteed, nor do they guarantee that good or bad things will happen based on combinations. This article is intended as a gentle guide for those with anxieties, assuming an approach of **enjoying power stones as protective talismans**.
+> **Please Note**: The "meanings," "effects," and "compatibility" of crystals are cultural and symbolic interpretations. They are not medically or scientifically guaranteed, nor do they guarantee that good or bad things will happen based on combinations. This article is intended as a gentle guide for those with anxieties, assuming an approach of **enjoying crystals as protective talismans**.
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ Furthermore,
 
 In short, the conflict cycle of the Five Elements is at the level of "**one perspective that some people might consider**." **If it doesn't concern you, there's no need to worry about it**. In fact, you can even use it positively to "enjoy combinations that consider the balance of the Five Elements."
 
-→ For ideas on combinations stemming from Chinese astrology, you can also refer to [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+→ For ideas on combinations stemming from Chinese astrology, you can also refer to [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ### ② Repelling Energies (Onyx and Rose Quartz, and so on)
 
@@ -152,7 +152,7 @@ As you wear them, the beads will rub against each other, and **fine scratches wi
 
 Avoid **washing bracelets containing these stones together** with **water-resistant stones** (like clear quartz). It's safer to **wipe them individually with a dry cloth** or choose **water-free purification methods** (moonlight bathing, clear quartz cluster, white sage, and so on).
 
-→ For detailed information on suitable purification methods for each stone, see [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+→ For detailed information on suitable purification methods for each stone, see [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 ### ③ Do Not Place Fade-Prone Stones in Direct Sunlight for Purification
 
@@ -209,7 +209,7 @@ If you try to include everything—love luck, money luck, career luck, health lu
 
 When your goal is focused, the anxiety of "I feel like they're incompatible" will **naturally fade away**.
 
-→ For examples of combinations by purpose, see [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+→ For examples of combinations by purpose, see [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ### ③ Prioritize Whether It "Feels Right" Intuitively
 
@@ -259,7 +259,7 @@ Actually hold the bracelet or stones in your hand, and **wear them for one to tw
 
 Combinations are not "set for life once decided." It's **okay to change them freely** according to your mood or the season of your life.
 
-→ For the basics of choosing a bracelet, also refer to [Complete Guide to Power Stone Bracelet Selection](/blog/bracelet-complete-guide/).
+→ For the basics of choosing a bracelet, also refer to [Complete Guide to Crystal Bracelet Selection](/blog/bracelet-complete-guide/).
 
 ## <span id="faq"></span>Frequently Asked Questions (FAQ)
 
@@ -351,13 +351,13 @@ You can try it out for free for the first 10 minutes right now, so if you're cur
 
 ## <span id="related"></span>Related Articles You Might Also Like
 
-- [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — Classic combos by purpose and how to create synergistic effects
-- [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/) — Suitable purification methods for each stone
-- [Complete Guide to Power Stone Bracelet Selection](/blog/bracelet-complete-guide/) — From size and stone selection to care
-- [Meaning and How to Handle a Broken Power Stone or Bracelet](/blog/powerstone-broken-meaning/) — How to ease anxious feelings
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — Four axes: purpose, birthstone, color, and intuition
-- [Power Stone Beginner's Guide｜Your First Stone](/blog/powerstone-beginner-guide/) — Choosing your first stone
-- [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Wearing and daily habits
+- [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Classic combos by purpose and how to create synergistic effects
+- [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/) — Suitable purification methods for each stone
+- [Complete Guide to Crystal Bracelet Selection](/blog/bracelet-complete-guide/) — From size and stone selection to care
+- [Meaning and How to Handle a Broken Crystal or Bracelet](/blog/powerstone-broken-meaning/) — How to ease anxious feelings
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — Four axes: purpose, birthstone, color, and intuition
+- [Crystal Beginner's Guide｜Your First Stone](/blog/powerstone-beginner-guide/) — Choosing your first stone
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Wearing and daily habits
 - [Clear Quartz Meaning and Effects](/blog/clear-quartz/) — The versatile combination stone
 - [Amethyst Meaning and Effects](/blog/amethyst/) — For themes of serenity
 - [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — The quintessential stone of love and healing
@@ -368,7 +368,7 @@ You can try it out for free for the first 10 minutes right now, so if you're cur
 
 ## Summary
 
-- **There are no scientifically proven "absolutely forbidden power stone combinations."**
+- **There are no scientifically proven "absolutely forbidden crystal combinations."**
 - The Five Elements' conflict cycle, energy repulsion, and clashes between strong stones are **all merely interpretations at the level of "some people say this."**
 - What you should genuinely consider is "**physical compatibility**": avoiding scratches from hardness differences, not washing water-sensitive stones together, and not exposing fade-prone stones to sunlight.
 - When in doubt, follow three rules: **add one clear quartz, focus on one purpose, and prioritize your intuition.**
@@ -379,11 +379,11 @@ You can try it out for free for the first 10 minutes right now, so if you're cur
 After learning about stone compatibility, also check out the "optimal usage" and "maintenance" tailored to your current situation to further enhance your talisman's effects!
 
 *   **For those who have been unlucky recently or are worried about future luck...**
-    👉 [Power Stones to Overcome Daisakkai｜How to Navigate Low Luck Periods with Guardian Stones](/blog/daisakkkai-powerstone-guide)
+    👉 [Crystals to Overcome Daisakkai｜How to Navigate Low Luck Periods with Guardian Stones](/blog/daisakkkai-powerstone-guide)
 
 *   **For those who don't want to give up on stones said to have bad compatibility...**
     (※ Often, wearing one and placing the other in a "space" can solve the issue!)
-    👉 [8 Power Stones to Place at Your Entrance｜Tuning Your "Gate of Qi" with Feng Shui](/blog/fengshui-entrance-stones)
+    👉 [8 Crystals to Place at Your Entrance｜Tuning Your "Gate of Qi" with Feng Shui](/blog/fengshui-entrance-stones)
 
 *   **Are your purification stones looking dull? Refresh them without feeling wasteful!**
-    👉 [Lifespan of Power Stone Crushed Stones for Purification? Guide to Replacement Time and Proper Disposal](/blog/sazare-stone-lifespan)
+    👉 [Lifespan of Crystal Crushed Stones for Purification? Guide to Replacement Time and Proper Disposal](/blog/sazare-stone-lifespan)

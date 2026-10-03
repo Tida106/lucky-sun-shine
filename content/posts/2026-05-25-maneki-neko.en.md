@@ -247,4 +247,4 @@ A budget of **¥2,000 to ¥5,000** is usually sufficient. Rather than aiming for
 -   [How to Choose a Daruma: A Complete Guide to Colors, Origins, Eye-Painting Etiquette, and Where to Buy](/blog/daruma-guide/) — Another representative Japanese lucky charm.
 -   [Types and How to Choose Omamori (Amulets): A Complete Guide to Benefits, Shrines, Carrying Multiple, and Returning](/blog/omamori-guide/) — The basics of amulets received at shrines.
 -   [How to Choose a Wallet for Financial Luck](/blog/money-luck-wallet/) — Arranging the gateway to financial fortune.
--   [Power Stones to Place at Your Entrance](/blog/fengshui-entrance-stones/) — Arranging the energy of your entryway.
+-   [Crystals to Place at Your Entrance](/blog/fengshui-entrance-stones/) — Arranging the energy of your entryway.

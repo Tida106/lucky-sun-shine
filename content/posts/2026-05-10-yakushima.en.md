@@ -1,7 +1,7 @@
 ---
 title: "Yakushima Pilgrimage Guide: A World Natural Heritage Site of Ocean Alps, Featuring Jomon Sugi and Shiratani Unsuikyo"
 description: >-
-  A comprehensive guide to Yakushima Island (Yakushima Town, Kumage District, Kagoshima Prefecture), covering its geology, World Natural Heritage status, Jomon Sugi, Shiratani Unsuikyo, Yaku Shrine, Mount Miyanoura, the 'Princess Mononoke' inspiration, Yakusugi Land, pilgrimage tips, access, recommended power stones, and FAQs.
+  A comprehensive guide to Yakushima Island (Yakushima Town, Kumage District, Kagoshima Prefecture), covering its geology, World Natural Heritage status, Jomon Sugi, Shiratani Unsuikyo, Yaku Shrine, Mount Miyanoura, the 'Princess Mononoke' inspiration, Yakusugi Land, pilgrimage tips, access, recommended crystals, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -27,7 +27,7 @@ Yakushima is an island with a circumference of approximately 132 km, floating in
 - [Yakusugi Land and Kigen Sugi](#yakusugiland)
 - [Key Pilgrimage Tips](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots You Might Want to Visit](#nearby)
 - [Recommended Seasons and Times](#season)
 - [Unique Yakushima Etiquette](#manner)
@@ -106,7 +106,7 @@ Nearby, **"Kigen Sugi"** is a giant tree estimated to be **3,000 years old**, an
 
 **Parking:** Parking is available at major tourist spots. Private car restrictions are in place for a long period (March to November) at the Jomon Sugi trailhead (Arakawa Trailhead), so using the shuttle bus from Yakusugi Nature Museum is generally required.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones said to resonate easily with the energy of the sacred site when brought to Yakushima for your pilgrimage.
 

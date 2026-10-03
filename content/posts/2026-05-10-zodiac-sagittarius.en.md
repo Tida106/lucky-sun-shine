@@ -1,7 +1,7 @@
 ---
 title: "Sagittarius Zodiac Stones: Personality, Fortune, and a Turquoise-Focused Selection Guide"
 description: >-
-  A comprehensive guide to power stones that support the personality and fortune of Sagittarius (November 23 - December 21). Focusing on turquoise as the guardian stone, this guide covers compatible stones like Lapis Lazuli, Citrine, and Sugilite, as well as lucky colors, auspicious actions, how to wear them, and FAQs.
+  A comprehensive guide to crystals that support the personality and fortune of Sagittarius (November 23 - December 21). Focusing on turquoise as the guardian stone, this guide covers compatible stones like Lapis Lazuli, Citrine, and Sugilite, as well as lucky colors, auspicious actions, how to wear them, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -14,7 +14,7 @@ draft: false
 
 ## Introduction
 
-Hey there! Sun-chan here! Sagittarius is a **Fire element** sign, with the sun traversing its skies from **November 23rd to December 21st**. Ruled by **Jupiter**, this sign embodies **"adventure, freedom, and optimism."** Among all 12 zodiac signs, Sagittarians are the most captivated by the **wider world**, deeply connected to travel, philosophy, higher education, and diverse cultures. In this article, we'll explore power stones that perfectly align with the Sagittarius personality and destiny. We'll focus on **turquoise as their guardian stone**, and also cover compatible stones, lucky colors, auspicious actions, and an FAQ—all on one handy page!
+Hey there! Sun-chan here! Sagittarius is a **Fire element** sign, with the sun traversing its skies from **November 23rd to December 21st**. Ruled by **Jupiter**, this sign embodies **"adventure, freedom, and optimism."** Among all 12 zodiac signs, Sagittarians are the most captivated by the **wider world**, deeply connected to travel, philosophy, higher education, and diverse cultures. In this article, we'll explore crystals that perfectly align with the Sagittarius personality and destiny. We'll focus on **turquoise as their guardian stone**, and also cover compatible stones, lucky colors, auspicious actions, and an FAQ—all on one handy page!
 
 ## Understanding the Sagittarius Personality
 
@@ -31,9 +31,9 @@ Sagittarians are always reaching for **"further and higher"**! Their greatest st
 **Strengths**: Adventurous spirit, optimism, honesty, intellectual curiosity, generosity
 **Weaknesses (the flip side)**: Can get bored easily, sometimes a bit careless, might forget promises, and can occasionally appear irresponsible.
 
-> **Note**: The effects of zodiac signs and power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Note**: The effects of zodiac signs and crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Sagittarius
+## Recommended Crystals for Sagittarius
 
 Stones that truly resonate with Sagittarius's themes of **"adventure, freedom, and a broad perspective"** are those connected to travel and spirituality, particularly **turquoise, and stones with blue or purple hues**.
 
@@ -88,7 +88,7 @@ Here are some common challenges Sagittarians might face, along with how specific
 | Turquoise and Sugilite | Adventure and Spirituality, Philosophical Journey |
 | Turquoise and [Clear Quartz](/blog/clear-quartz/) | Energy Amplification and Purification |
 
-For the basics of combinations, see [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, see [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Auspicious Actions
 
@@ -137,9 +137,9 @@ A. Generally, Sagittarians tend to get along great with fellow fire signs like *
 
 ## Related Articles You Might Like
 
--   [Zodiac Power Stones Comprehensive Guide](/blog/zodiac-powerstones-guide/) — Comparison and Quick Reference for All 12 Zodiac Signs
--   [Scorpio Power Stones](/blog/zodiac-scorpio/) — The preceding sign
--   [Capricorn Power Stones](/blog/zodiac-capricorn/) — The next sign
+-   [Zodiac Crystals Comprehensive Guide](/blog/zodiac-powerstones-guide/) — Comparison and Quick Reference for All 12 Zodiac Signs
+-   [Scorpio Crystals](/blog/zodiac-scorpio/) — The preceding sign
+-   [Capricorn Crystals](/blog/zodiac-capricorn/) — The next sign
 -   [Turquoise Meaning, Stone Language, and Effects](/blog/turquoise/) — Detailed explanation of the main stone
 -   [December Birthstones | Turquoise and Tanzanite](/blog/birthstone-december/) — For Sagittarians born in December
 

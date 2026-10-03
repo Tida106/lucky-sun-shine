@@ -1,7 +1,7 @@
 ---
-title: "Feng Shui Directional Power Stones: A Quick Guide to Eight Directions, Five Elements, and Wish-Specific Placement"
+title: "Feng Shui Directional Crystals: A Quick Guide to Eight Directions, Five Elements, and Wish-Specific Placement"
 description: >-
-  Explore the ultimate quick reference for optimal power stone placement according to Feng Shui's Eight Directions (North, Northeast, East, Southeast, South, Southwest, West, Northwest). From North for career and South for reputation, to Southeast for wealth and East for health – this guide helps you find the perfect stone based on your desired direction and wish.
+  Explore the ultimate quick reference for optimal crystal placement according to Feng Shui's Eight Directions (North, Northeast, East, Southeast, South, Southwest, West, Northwest). From North for career and South for reputation, to Southeast for wealth and East for health – this guide helps you find the perfect stone based on your desired direction and wish.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: luck-habits
@@ -15,7 +15,7 @@ author: Sun-chan
 
 ## Hello there!
 
-Hey everyone! Sun-chan here! One of the core principles of Feng Shui is the **Eight Directions**. Each direction is assigned a **different area and energy**. In this article, I've put together a comprehensive quick reference guide to help you find the optimal power stones for each of the Eight Directions, so you can easily choose stones based on your personal wishes!
+Hey everyone! Sun-chan here! One of the core principles of Feng Shui is the **Eight Directions**. Each direction is assigned a **different area and energy**. In this article, I've put together a comprehensive quick reference guide to help you find the optimal crystals for each of the Eight Directions, so you can easily choose stones based on your personal wishes!
 
 ## The Basic Matrix of the Eight Directions
 
@@ -182,11 +182,11 @@ A. Traditionally, the **"Demon's Gate" (Northeast)** was considered a direction 
 ## Related Articles You Might Like
 
 -   [Complete Guide to Lucky Habits](/blog/lucky-habits-guide/) — A comprehensive version, including habits beyond Feng Shui
--   [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/) — An introduction to Feng Shui
--   [Power Stones for Your Entrance](/blog/fengshui-entrance-stones/) — Reinforcing directions at your entryway
--   [Power Stones for Your Bedroom](/blog/fengshui-bedroom-stones/) — Feng Shui for the bedroom
--   [Power Stones for Your Workspace and Desk](/blog/fengshui-desk-stones/) — Directional placement for your desk
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — The basics of selecting your stones
+-   [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/) — An introduction to Feng Shui
+-   [Crystals for Your Entrance](/blog/fengshui-entrance-stones/) — Reinforcing directions at your entryway
+-   [Crystals for Your Bedroom](/blog/fengshui-bedroom-stones/) — Feng Shui for the bedroom
+-   [Crystals for Your Workspace and Desk](/blog/fengshui-desk-stones/) — Directional placement for your desk
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — The basics of selecting your stones
 
 ## Summary
 

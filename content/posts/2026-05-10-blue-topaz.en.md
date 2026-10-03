@@ -70,7 +70,7 @@ All three tones are **colorless topaz treated with radiation and heat**, which i
 
 ## <span id="benefits"></span>Commonly Attributed Benefits
 
-> **Note**: The "benefits" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and how one experiences these effects can vary individually.
+> **Note**: The "benefits" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and how one experiences these effects can vary individually.
 
 - **Facilitating Communication** — Corresponds to the 5th chakra, helps organize thoughts and words
 - **Fostering Sincere Relationships** — Symbolizes genuine, honest bonds
@@ -124,7 +124,7 @@ A. Citrine is a **warm-toned (yellow to orange) gemstone symbolizing wealth and 
 
 **Q5. Are there other stones for communication?**
 
-A. Aquamarine, Amazonite, Lapis Lazuli, and Sodalite are classic choices. For more details, please refer to the "Relationships" chapter in the [Comprehensive Guide to Power Stones for Specific Purposes](/blog/luck-powerstones-complete-guide/).
+A. Aquamarine, Amazonite, Lapis Lazuli, and Sodalite are classic choices. For more details, please refer to the "Relationships" chapter in the [Comprehensive Guide to Crystals for Specific Purposes](/blog/luck-powerstones-complete-guide/).
 
 ## <span id="postscript"></span>Editor's Note
 
@@ -136,7 +136,7 @@ For me, as the site administrator, Blue Topaz is a "**stone that helps me re-eva
 - [Aquamarine: Meaning and Benefits](/blog/aquamarine/) — A blue partner for communication
 - [Lapis Lazuli: Meaning and Benefits](/blog/lapis-lazuli/) — A combination for truth and intellect
 - [Comprehensive Guide to 12-Month Birthstones](/blog/birthstone-guide/) — Featuring November's birthstone
-- [Comprehensive Guide to Power Stones for Specific Purposes](/blog/luck-powerstones-complete-guide/) — Appears in the "Relationships" chapter
+- [Comprehensive Guide to Crystals for Specific Purposes](/blog/luck-powerstones-complete-guide/) — Appears in the "Relationships" chapter
 
 ## Summary
 

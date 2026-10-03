@@ -35,7 +35,7 @@ October's main birthstone is **Opal**, with **Tourmaline** serving as a classica
 
 Opal's symbolic meanings include **'hope, innocence, good fortune, and love'**. Its origin traces back to the Sanskrit word **'upala,' meaning 'precious stone'**. In ancient Rome, it was known as **'Cupid's Stone'** and **'Venus's Eye'**, considered a special gem that **'encompassed the beauty of all other gemstones within itself'**.
 
-> **Please Note**: The effects of power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects of crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
 Shakespeare praised Opal in 'Twelfth Night' as **'changing color while wearing the brilliance of light'**. **Napoleon** gifted Empress Marie Louise a magnificent opal known as **'The Burning of Troy'**. **Tourmaline** possesses the rare property of **pyroelectricity**, meaning it can generate an electric charge when heated or rubbed. And **Rose Quartz** has been cherished since ancient times as the **'stone of love and beauty'**.
 
@@ -79,7 +79,7 @@ Here are the main effects attributed to these three gemstones:
 | Salt | × | ○ | △ |
 | Direct Sunlight | **× (Cracks from drying)** | ○ | **× (Fades)** |
 
-**Opal is a hydrous mineral (hydrous silica)**, and rapid drying can cause it to crack, a phenomenon known as 'crazing'. **Rose Quartz also fades when exposed to UV light**. Please avoid direct sunlight for both. For more details, refer to our [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+**Opal is a hydrous mineral (hydrous silica)**, and rapid drying can cause it to crack, a phenomenon known as 'crazing'. **Rose Quartz also fades when exposed to UV light**. Please avoid direct sunlight for both. For more details, refer to our [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 ## Also Recommended for Birthday Gifts
 

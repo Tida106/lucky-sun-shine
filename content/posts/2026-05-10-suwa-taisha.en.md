@@ -1,6 +1,6 @@
 ---
 title: "A Comprehensive Guide to Suwa Grand Shrine: Visiting Four Shrines and the Onbashira Festival, Shinano Province's Ichinomiya"
-description: "Discover Suwa Grand Shrine, comprising four distinct shrines: Kamisha Honmiya, Kamisha Maemiya, Shimosha Akimiya, and Shimosha Harumiya. This definitive guide covers its rich history, the deities Take Minakata no Kami and Yasaka Tome no Kami, the famous Onbashira Festival, the traditional Four Shrines Pilgrimage, divine blessings, access information, recommended power stones, nearby attractions, and frequently asked questions. Everything you need to explore one of Japan's oldest shrines and Shinano Province's Ichinomiya!"
+description: "Discover Suwa Grand Shrine, comprising four distinct shrines: Kamisha Honmiya, Kamisha Maemiya, Shimosha Akimiya, and Shimosha Harumiya. This definitive guide covers its rich history, the deities Take Minakata no Kami and Yasaka Tome no Kami, the famous Onbashira Festival, the traditional Four Shrines Pilgrimage, divine blessings, access information, recommended crystals, nearby attractions, and frequently asked questions. Everything you need to explore one of Japan's oldest shrines and Shinano Province's Ichinomiya!"
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerspots"
@@ -22,7 +22,7 @@ Suwa Grand Shrine is Shinano Province's Ichinomiya (chief shrine of a province),
 - [Highlights](#highlight)
 - [Key Points for Visiting](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Recommended Seasons and Times](#season)
 - [Basic Shrine Etiquette](#manner)
@@ -97,7 +97,7 @@ By car, it's 15-30 minutes from Suwa Interchange on the Chuo Expressway to each 
 
 **Parking**: Free parking is available at each shrine. Traffic restrictions will be in place around the shrines during the Onbashira Festival year.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Suwa Grand Shrine, making them great companions for your visit!
 

@@ -60,7 +60,7 @@ In ancient Egypt, it was used as **ornaments for royalty** from around 3000 BCE,
 
 ## <span id="benefits"></span>Reputed Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 -   **Travel Protection** — Believed to guard against accidents and troubles during travel.
 -   **Friendship and Bonds** — Symbolizes honest relationships with companions.
@@ -115,7 +115,7 @@ A. **Yellowing and greening** can occur due to sweat, skin oils, and UV exposure
 
 **Q5. Are there other stones for travel protection?**
 
-A. Aquamarine, Malachite, and Sugilite are popular choices. For more details, please refer to the Travel and Road Safety section of our [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/).
+A. Aquamarine, Malachite, and Sugilite are popular choices. For more details, please refer to the Travel and Road Safety section of our [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/).
 
 ## <span id="postscript"></span>Editor's Note
 
@@ -127,7 +127,7 @@ For Sun-chan, turquoise is the "**stone to carry on travel days**." Whether it's
 -   [Lapis Lazuli: Meaning and Effects](/blog/lapis-lazuli/) — Double blue protection
 -   [Amazonite: Meaning and Effects](/blog/amazonite/) — A pair for self-expression
 -   [Complete Guide to 12-Month Birthstones](/blog/birthstone-guide/) — As a December birthstone
--   [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Appears in the Travel Protection chapter
+-   [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Appears in the Travel Protection chapter
 
 ## Summary
 

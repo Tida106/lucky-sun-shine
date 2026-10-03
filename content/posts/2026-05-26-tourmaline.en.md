@@ -91,7 +91,7 @@ In the late 20th century (1989), **"neon blue glowing Tourmaline"** was discover
 
 ## <span id="benefits"></span>Attributed Benefits and Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 -   **Symbol of Protection and Ward Against Evil** — Especially Black Tourmaline, cherished since ancient times as "**the strongest protective stone**."
 -   **Amulet for Electromagnetic Radiation Shielding** — Due to its electrically charged physical properties, it is worn as an amulet in modern **PC and smartphone environments**.
@@ -186,7 +186,7 @@ A. **A rare color variety discovered in Paraíba, Brazil, in 1989**, it glows wi
 
 ## <span id="postscript"></span>Editor's Notes
 
-Tourmaline was the **"first power stone"** I ever encountered. When I was in middle school, I bought a **raw Black Tourmaline stone (for 500 yen)** at a local mineral show and placed it on my desk. My motivation was simple: I was drawn to the idea of "**protection**."
+Tourmaline was the **"first crystal"** I ever encountered. When I was in middle school, I bought a **raw Black Tourmaline stone (for 500 yen)** at a local mineral show and placed it on my desk. My motivation was simple: I was drawn to the idea of "**protection**."
 
 As an adult, I rediscovered the fact that **Tourmaline has over 100 color variations**. Black, pink, green, watermelon — **it feels like having a different gemstone every time I switch colors**, offering a refreshing experience.
 
@@ -233,8 +233,8 @@ Whether it's the protective black, the loving pink, or the healing green—no ma
 - [Opal Meaning and Benefits](/blog/opal/) — A fellow October birthstone, a stone of hope with iridescent play-of-color
 - [Rose Quartz Meaning and Benefits](/blog/rose-quartz-meaning/) — A classic for love luck, alongside Pink Tourmaline
 - [Morion (Black Quartz) Meaning and Benefits](/blog/morion/) — A top-tier protective stone, alongside Black Tourmaline
-- [Protective Power Stones](/blog/protection-luck-stones/) — Compares Tourmaline's role in the protection section
-- [How to Properly Wear Power Stones](/blog/how-to-wear-power-stones/) — Explains left/right hand usage and placement for maximizing effects
+- [Protective Crystals](/blog/protection-luck-stones/) — Compares Tourmaline's role in the protection section
+- [How to Properly Wear Crystals](/blog/how-to-wear-power-stones/) — Explains left/right hand usage and placement for maximizing effects
 
 ## Summary
 

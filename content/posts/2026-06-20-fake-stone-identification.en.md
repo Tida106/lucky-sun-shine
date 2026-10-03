@@ -1,9 +1,9 @@
 ---
-title: "How to Spot Fake Powerstones and Choose Authentic Ones | Understanding Imitations, Treated, and Synthetic Stones, and What to Do"
+title: "How to Spot Fake Crystals and Choose Authentic Ones | Understanding Imitations, Treated, and Synthetic Stones, and What to Do"
 description: "Feeling anxious, wondering if your stone is real? This complete guide from Sun-chan gently explains the four types: glass imitations, dyed and treated stones, synthetic stones, and misnamed stones. Learn simple identification tips (weight, temperature, bubbles, color inconsistencies, and price), reliable methods like gemological reports, how to choose trusted sellers, and what to do if you find out your stone isn't authentic."
 date: "2026-06-20"
 category: "powerstones"
-tags: ["powerstones", "buying guide", "gem identification", "purchase tips"]
+tags: ["crystals", "buying guide", "gem identification", "purchase tips"]
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Let me tell you right away: **there's no single magic trick to definitively unma
 
 In this article, Sun-chan will gently unravel the **differences among four types** — imitations, treated stones, synthetic stones, and misnamed stones. We'll cover identification points, how to choose trusted sellers, and what to do if you discover your stone isn't what you expected. By the time you finish reading, our goal is for you to feel reassured, knowing that "**there's no need to be overly scared, but you've grasped the important points**."
 
-> **Please note**: The "meaning" and "effects" of powerstones are cultural and symbolic interpretations. This article is not a professional gemological reference; it offers general information to help **beginners feel secure and comfortable with their stones**. For definite authenticity checks, please consult **professional gemological laboratories**.
+> **Please note**: The "meaning" and "effects" of crystals are cultural and symbolic interpretations. This article is not a professional gemological reference; it offers general information to help **beginners feel secure and comfortable with their stones**. For definite authenticity checks, please consult **professional gemological laboratories**.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ In this article, Sun-chan will gently unravel the **differences among four types
 
 Many who've landed here through a search are likely feeling a flutter of anxiety, wondering, "**Was I scammed?**" While that feeling is valid, there are three key **premises** I want you to understand first.
 
-- The powerstone market features a **spectrum**, ranging from **complete fakes** to **legitimate treated stones**.
+- The crystal market features a **spectrum**, ranging from **complete fakes** to **legitimate treated stones**.
 - "**Treated does not equal a bad stone**" (many are legitimate products circulating in the market).
 - If you want a **guarantee of authenticity**, there's one answer: **choose stones that come with a gemological report.**
 
@@ -183,7 +183,7 @@ If you feel you've reached your limit in identifying stones yourself, **entrusti
 
 ### What is a Gemological Certificate?
 
-A written document issued by a specialized institution, certifying the **mineral species, presence or absence of treatments**, and other characteristics of a gemstone or powerstone, based on **scientific examination**.
+A written document issued by a specialized institution, certifying the **mineral species, presence or absence of treatments**, and other characteristics of a gemstone or crystal, based on **scientific examination**.
 
 - Information included: **Mineral name, natural/synthetic distinction, presence or absence of treatment, size, weight**, etc.
 - Determination is made using a combination of **refractive index, specific gravity, spectroscopic analysis, and magnification examination**.
@@ -207,7 +207,7 @@ The method for requesting a report varies by institution, so it's safest to chec
 Fundamentally, **buying a stone that already comes with a gemological certificate** is the most reliable option.
 
 - For expensive stones (such as [Emerald](/blog/emerald/), [Ruby](/blog/ruby/), [Sapphire](/blog/sapphire/), and [Tanzanite](/blog/tanzanite/)), **handling items with certificates is common practice**.
-- For powerstone bracelets too, more stores are offering **products with certificates**.
+- For crystal bracelets too, more stores are offering **products with certificates**.
 - A gemological certificate serves as a reassurance, guaranteeing "**what**" the stone is.
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Emerald on Rakuten Ichiba</a> / <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8A%E3%82%A4%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">Search for Tanzanite on Rakuten Ichiba</a>
@@ -326,7 +326,7 @@ Experience will surely make your next selections wiser.
 - Make it a habit to consider "**items with gemological certificates**."
 - Develop a sense of market value by consulting **multiple sources of information**.
 
-→ For the basics of choosing stones, please also see [The Complete Guide to Choosing Powerstones](/blog/how-to-choose-powerstones/), [Powerstones for Beginners: A Guide to Your First Stone](/blog/powerstone-beginner-guide/), and [The Complete Guide to Choosing a Powerstone Bracelet](/blog/bracelet-complete-guide/).
+→ For the basics of choosing stones, please also see [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/), [Crystals for Beginners: A Guide to Your First Stone](/blog/powerstone-beginner-guide/), and [The Complete Guide to Choosing a Crystal Bracelet](/blog/bracelet-complete-guide/).
 
 ## <span id="faq"></span>Frequently Asked Questions (FAQ)
 
@@ -376,7 +376,7 @@ A. That feeling is completely natural. To calm down, you could:
 - Welcome a **new, certified stone** to reset your feelings.
 - Remember Sun-chan's words: "**Experience makes your next choices wiser**."
 
-If it's still too painful, **letting it go** is also an option. For ways to let go, refer to the "Releasing with Gratitude" section in [Meaning and Remedies When a Powerstone Breaks or a Bracelet Snaps](/blog/powerstone-broken-meaning/).
+If it's still too painful, **letting it go** is also an option. For ways to let go, refer to the "Releasing with Gratitude" section in [Meaning and Remedies When a Crystal Breaks or a Bracelet Snaps](/blog/powerstone-broken-meaning/).
 
 ## <span id="sunshine"></span>A Word from Sun-chan☀️
 
@@ -396,18 +396,18 @@ The sun, you know, sends its light equally to genuine stones and to glass beads.
 
 **Anxiety Relief Series (3 Parts)**
 
-- [Meaning and Remedies When a Powerstone Breaks or a Bracelet Snaps](/blog/powerstone-broken-meaning/) — How to soothe anxiety about breakage or snapping.
-- [The Truth About "Bad" Powerstone Combinations](/blog/bad-combination-stones/) — The basis and reality of "forbidden combinations."
-- [Which Hand to Wear Your Powerstone On: Left or Right?](/blog/left-right-hand-powerstone/) — Tips for choosing the right or left hand.
+- [Meaning and Remedies When a Crystal Breaks or a Bracelet Snaps](/blog/powerstone-broken-meaning/) — How to soothe anxiety about breakage or snapping.
+- [The Truth About "Bad" Crystal Combinations](/blog/bad-combination-stones/) — The basis and reality of "forbidden combinations."
+- [Which Hand to Wear Your Crystal On: Left or Right?](/blog/left-right-hand-powerstone/) — Tips for choosing the right or left hand.
 
 **Basics of Choosing and Wearing Stones**
 
-- [The Complete Guide to Choosing Powerstones](/blog/how-to-choose-powerstones/) — Four axes: purpose, birthstone, color, and intuition.
-- [Powerstones for Beginners: A Guide to Your First Stone](/blog/powerstone-beginner-guide/) — Choosing your first stone.
-- [The Complete Guide to Choosing a Powerstone Bracelet](/blog/bracelet-complete-guide/) — Size, stone selection, and care.
-- [How to Properly Wear Powerstones](/blog/how-to-wear-powerstones/) — Guide by accessory type.
-- [The Complete Guide to Powerstone Combinations](/blog/powerstone-combinations/) — Compatibility and classic pairings.
-- [The Complete Guide to Powerstone Purification Methods](/blog/purification-complete-guide/) — 10 purification methods.
+- [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — Four axes: purpose, birthstone, color, and intuition.
+- [Crystals for Beginners: A Guide to Your First Stone](/blog/powerstone-beginner-guide/) — Choosing your first stone.
+- [The Complete Guide to Choosing a Crystal Bracelet](/blog/bracelet-complete-guide/) — Size, stone selection, and care.
+- [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Guide by accessory type.
+- [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Compatibility and classic pairings.
+- [The Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/) — 10 purification methods.
 
 **Explanations of Major Stones**
 

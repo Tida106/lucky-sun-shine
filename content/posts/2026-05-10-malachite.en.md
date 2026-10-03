@@ -58,7 +58,7 @@ In ancient Egypt, dating back to around 4000 BCE, it was used as a material for 
 
 ## <span id="benefits"></span>Attributed Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 -   **Danger Detection and Warding Off Evil** — Symbolizes forewarning of trouble.
 -   **Healing and Maternal Love** — Embraces and comforts wounded hearts.
@@ -97,7 +97,7 @@ Malachite's **delicate nature** is unparalleled by other stones. To enjoy it for
 
 **Q1. Is it true that if it breaks, it acts as a 'substitute' for you?**
 
-A. This is a belief common to all power stones, and malachite, especially as a **symbol of danger detection**, is often believed to have 'taken on trouble on behalf of its owner.' Its soft and brittle mineralogical characteristics further reinforce this legend.
+A. This is a belief common to all crystals, and malachite, especially as a **symbol of danger detection**, is often believed to have 'taken on trouble on behalf of its owner.' Its soft and brittle mineralogical characteristics further reinforce this legend.
 
 **Q2. Is copper harmful to health?**
 
@@ -124,8 +124,8 @@ For me, Sun-chan, malachite is truly a "stone to display and admire." While it's
 - [Turquoise Meaning and Effects](/blog/turquoise/) — A pairing for travel and protection
 - [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — A pairing for maternal love and affection
 - [Jade Meaning and Effects](/blog/jade/) — A pairing for green healing and prosperity
-- [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/) — Handling Malachite
-- [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Amulets chapter
+- [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/) — Handling Malachite
+- [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Amulets chapter
 
 ## Summary
 

@@ -1,6 +1,6 @@
 ---
-title: "Complete Guide to Power Stone Combinations | How to Combine 2 or 3 Stones for Synergy"
-description: "Power stones are believed to unleash their true potential when combined in multiples rather than worn individually. This beginner's guide provides a complete explanation of ideal combinations for synergy, styles to avoid, harmony with colors and chakras, and precautions regarding hardness differences, all categorized by purpose."
+title: "Complete Guide to Crystal Combinations | How to Combine 2 or 3 Stones for Synergy"
+description: "Crystals are believed to unleash their true potential when combined in multiples rather than worn individually. This beginner's guide provides a complete explanation of ideal combinations for synergy, styles to avoid, harmony with colors and chakras, and precautions regarding hardness differences, all categorized by purpose."
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
@@ -10,7 +10,7 @@ draft: false
 
 ## Introduction
 
-"Is it okay to wear Rose Quartz and Citrine together?" — While combining multiple power stones can create **synergistic effects**, sometimes their **meanings might cancel each other out**. In this article, I'll explain the basics of power stone combinations in a way that's easy for beginners to understand.
+"Is it okay to wear Rose Quartz and Citrine together?" — While combining multiple crystals can create **synergistic effects**, sometimes their **meanings might cancel each other out**. In this article, I'll explain the basics of crystal combinations in a way that's easy for beginners to understand.
 
 ## Three Basic Rules for Combinations
 
@@ -166,8 +166,8 @@ Start with simple combinations of 2-3 stones. Once you get comfortable, try expl
 
 ## Related Articles You Might Like
 
--   [Power Stone Introduction | Everything Beginners Need to Know First](/blog/powerstone-beginner-guide/)
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
--   [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/)
--   [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/)
--   [Complete Guide to Power Stones for Boosting Luck](/blog/luck-powerstones-complete-guide/)
+-   [Crystal Introduction | Everything Beginners Need to Know First](/blog/powerstone-beginner-guide/)
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
+-   [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/)
+-   [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/)
+-   [Complete Guide to Crystals for Boosting Luck](/blog/luck-powerstones-complete-guide/)

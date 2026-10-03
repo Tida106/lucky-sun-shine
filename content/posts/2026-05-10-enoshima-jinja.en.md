@@ -1,7 +1,7 @@
 ---
 title: "Enoshima Shrine Visit Guide | Shonan's Maritime Sacred Site Honoring Japan's Three Great Benzaiten and Munakata Three Goddesses"
 description: >-
-  A comprehensive guide to Enoshima Shrine (Enoshima Island, Fujisawa City, Kanagawa Prefecture), covering its history, the Munakata Three Goddesses (Tagorihime-no-Mikoto, Ichikishimahime-no-Mikoto, Tagitsuhime-no-Mikoto), Hetsunomiya, Nakatsunomiya, Okutsunomiya, Japan's Three Great Benzaiten, key visiting points, access, recommended power stones, nearby attractions, and FAQs.
+  A comprehensive guide to Enoshima Shrine (Enoshima Island, Fujisawa City, Kanagawa Prefecture), covering its history, the Munakata Three Goddesses (Tagorihime-no-Mikoto, Ichikishimahime-no-Mikoto, Tagitsuhime-no-Mikoto), Hetsunomiya, Nakatsunomiya, Okutsunomiya, Japan's Three Great Benzaiten, key visiting points, access, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -25,7 +25,7 @@ Enoshima Shrine is an ancient shrine that considers the entire **Enoshima Island
 - [Japan's Three Great Benzaiten and Happi Benzaiten and Myōon Benzaiten](#benten)
 - [Key Visiting Points](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit Together](#nearby)
 - [Recommended Season and Time](#season)
 - [Basic Shrine Etiquette](#manner)
@@ -94,7 +94,7 @@ By train: Approximately 15 minutes walk from **Katase-Enoshima Station** on the 
 
 **Parking**: Several paid parking lots are available on and around the island. Public transportation is recommended, especially on weekends when parking lots are almost certainly full.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the energy of Enoshima Shrine and are recommended to bring during your visit.
 

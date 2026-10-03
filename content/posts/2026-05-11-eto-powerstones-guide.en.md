@@ -1,11 +1,11 @@
 ---
-title: "Complete Guide to Zodiac Power Stones | Meanings, Compatibility, and Lucky Stones for Each Chinese Zodiac Sign"
-description: "Compare the personality, fortune, and most compatible power stones for each of the twelve Chinese zodiac signs (Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Sheep, Monkey, Rooster, Dog, and Boar) on a single page."
+title: "Complete Guide to Zodiac Crystals | Meanings, Compatibility, and Lucky Stones for Each Chinese Zodiac Sign"
+description: "Compare the personality, fortune, and most compatible crystals for each of the twelve Chinese zodiac signs (Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Sheep, Monkey, Rooster, Dog, and Boar) on a single page."
 date: '2026-05-11'
 updated: '2026-05-24'
 category: powerstones
 tags:
-  - Power Stones
+  - Crystals
   - Chinese Zodiac
   - Recommended Stones
 author: Sun-chan
@@ -14,19 +14,19 @@ draft: false
 
 ## Introduction
 
-Hey there! Ever wondered, "**What's the perfect power stone for my Chinese zodiac sign?**" Well, you've come to the right place! This comprehensive guide answers exactly that on a single page. I've put together a handy comparison of the personality traits, fortune, and traditionally associated **guardian stones** for each of the twelve Chinese zodiac signs (Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Sheep, Monkey, Rooster, Dog, and Boar). Just jump straight to your sign from the table of contents to find your perfect lucky charm in no time! This guide focuses on the unique **"12-year cycle"** of protection themes, offering a different perspective from astrological signs and birthstones.
+Hey there! Ever wondered, "**What's the perfect crystal for my Chinese zodiac sign?**" Well, you've come to the right place! This comprehensive guide answers exactly that on a single page. I've put together a handy comparison of the personality traits, fortune, and traditionally associated **guardian stones** for each of the twelve Chinese zodiac signs (Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Sheep, Monkey, Rooster, Dog, and Boar). Just jump straight to your sign from the table of contents to find your perfect lucky charm in no time! This guide focuses on the unique **"12-year cycle"** of protection themes, offering a different perspective from astrological signs and birthstones.
 
-## The Relationship Between Chinese Zodiac and Power Stones
+## The Relationship Between Chinese Zodiac and Crystals
 
 The Chinese zodiac, or "Eto" as it's known in Japan, originated from ancient China's twelve animal signs. It represents a **12-year cycle of time and fortune**. Each animal is associated with a specific **direction, season, and one of the Five Elements (Wood, Fire, Earth, Metal, and Water)**. It's believed that your birth year's zodiac sign reflects your **"innate nature throughout life."**
 
-The connection with power stones is made based on each zodiac sign's **personality, element, and traditional beliefs**. For instance, the **Rat, with its "Water element,"** is often paired with **Citrine** (which is believed to warm water and attract wealth). The **Horse, possessing a "Fire element,"** might be linked to **Carnelian** (to transform energy into achievement). And for the **Dragon, deeply connected to "Dragon God folklore,"** the royal stone **Lapis Lazuli** is a fitting choice. This shows how stones are chosen for their "compatibility" from both ancient legends and the Five Elements.
+The connection with crystals is made based on each zodiac sign's **personality, element, and traditional beliefs**. For instance, the **Rat, with its "Water element,"** is often paired with **Citrine** (which is believed to warm water and attract wealth). The **Horse, possessing a "Fire element,"** might be linked to **Carnelian** (to transform energy into achievement). And for the **Dragon, deeply connected to "Dragon God folklore,"** the royal stone **Lapis Lazuli** is a fitting choice. This shows how stones are chosen for their "compatibility" from both ancient legends and the Five Elements.
 
 The year you become a "**Toshi Otoko**" or "**Toshi Onna**" (the year of your own zodiac sign, occurring every 12 years) is considered a special milestone to reset your life's rhythm. It's a long-standing custom to get a new guardian stone during this significant year.
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic in nature. They are not guaranteed to have medical or scientific efficacy.
+> **Please Note**: The "effects" of crystals are cultural and symbolic in nature. They are not guaranteed to have medical or scientific efficacy.
 
-## Chinese Zodiac × Power Stones Quick Reference Chart
+## Chinese Zodiac × Crystals Quick Reference Chart
 
 | Zodiac Sign | Reading (Japanese) | Personality Keywords | Five Elements | Main Stone |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ The Rat is at the **very beginning** of the Chinese zodiac cycle. Active at nigh
 - **Compatible Stones**: Clear Quartz, Tiger's Eye, Pearl
 - **Lucky Actions**: Get a new wallet on a Kinoe-Ne day (the first day of the 60-day cycle) and save loose change at night
 
-→ [Learn more about Power Stones for the Year of the Rat](/blog/eto-rat/)
+→ [Learn more about Crystals for the Year of the Rat](/blog/eto-rat/)
 
 ---
 
@@ -69,7 +69,7 @@ The Ox symbolizes "**patience and steadfastness**." Placed second in the Chinese
 - **Compatible Stones**: Jade, Aventurine, Clear Quartz
 - **Lucky Actions**: Visit Sugawara no Michizane Shrine (Tenjin-sama) and spend time connecting with nature
 
-→ [Learn more about Power Stones for the Year of the Ox](/blog/eto-ox/)
+→ [Learn more about Crystals for the Year of the Ox](/blog/eto-ox/)
 
 ---
 
@@ -83,7 +83,7 @@ The Tiger symbolizes "**courage and decisive action**." Deeply connected to mart
 - **Compatible Stones**: Citrine, Onyx, Clear Quartz
 - **Lucky Actions**: Visit Bishamonten Shrine and start a new challenge on a Tiger day
 
-→ [Learn more about Power Stones for the Year of the Tiger](/blog/eto-tiger/)
+→ [Learn more about Crystals for the Year of the Tiger](/blog/eto-tiger/)
 
 ---
 
@@ -97,7 +97,7 @@ The Rabbit symbolizes "**leaps and gentleness**." Strongly associated with the m
 - **Compatible Stones**: Moonstone, Pearl, Clear Quartz
 - **Lucky Actions**: Bathe in the light of the full moon and visit shrines dedicated to moon deities
 
-→ [Learn more about Power Stones for the Year of the Rabbit](/blog/eto-rabbit/)
+→ [Learn more about Crystals for the Year of the Rabbit](/blog/eto-rabbit/)
 
 ---
 
@@ -111,7 +111,7 @@ The Dragon is the **only mythical creature in the Chinese zodiac**, symbolizing 
 - **Compatible Stones**: Tiger's Eye, Clear Quartz, Turquoise
 - **Lucky Actions**: Visit a shrine dedicated to Dragon Gods and make big decisions on a Dragon day
 
-→ [Learn more about Power Stones for the Year of the Dragon](/blog/eto-dragon/)
+→ [Learn more about Crystals for the Year of the Dragon](/blog/eto-dragon/)
 
 ---
 
@@ -125,7 +125,7 @@ The Snake symbolizes "**intuition and rebirth**." Its repeated shedding of skin 
 - **Compatible Stones**: Lapis Lazuli, Moonstone, Clear Quartz
 - **Lucky Actions**: Visit Benzaiten Shrine (especially on a Ki-Mi day) and practice meditation regularly
 
-→ [Learn more about Power Stones for the Year of the Snake](/blog/eto-snake/)
+→ [Learn more about Crystals for the Year of the Snake](/blog/eto-snake/)
 
 ---
 
@@ -139,7 +139,7 @@ The Horse symbolizes "**freedom and swiftness**." Worshiped at shrines as a sacr
 - **Compatible Stones**: Garnet, Citrine, Hematite
 - **Lucky Actions**: Visit shrines with sacred horse beliefs and embark on a journey on a Horse day
 
-→ [Learn more about Power Stones for the Year of the Horse](/blog/eto-horse/)
+→ [Learn more about Crystals for the Year of the Horse](/blog/eto-horse/)
 
 ---
 
@@ -153,7 +153,7 @@ The Sheep symbolizes "**harmony and artistry**." As sheep live in flocks, this s
 - **Compatible Stones**: Morganite, Aventurine, Clear Quartz
 - **Lucky Actions**: Cherish family time and enjoy art appreciation
 
-→ [Learn more about Power Stones for the Year of the Sheep](/blog/eto-sheep/)
+→ [Learn more about Crystals for the Year of the Sheep](/blog/eto-sheep/)
 
 ---
 
@@ -167,7 +167,7 @@ The Monkey symbolizes "**intellect and resourcefulness**." Worshiped as a messen
 - **Compatible Stones**: Fluorite, Lapis Lazuli, Clear Quartz
 - **Lucky Actions**: Visit Sannō Gongen Shrine and start learning something new
 
-→ [Learn more about Power Stones for the Year of the Monkey](/blog/eto-monkey/)
+→ [Learn more about Crystals for the Year of the Monkey](/blog/eto-monkey/)
 
 ---
 
@@ -181,7 +181,7 @@ The Rooster symbolizes "**foresight and meticulousness**." Also known as a sign 
 - **Compatible Stones**: Citrine, Lapis Lazuli, Clear Quartz
 - **Lucky Actions**: Visit the Tori-no-Ichi festival (on a Rooster day in November) and establish a consistent morning routine
 
-→ [Learn more about Power Stones for the Year of the Rooster](/blog/eto-rooster/)
+→ [Learn more about Crystals for the Year of the Rooster](/blog/eto-rooster/)
 
 ---
 
@@ -195,7 +195,7 @@ The Dog symbolizes "**loyalty and protection**." Known as a symbol of safe child
 - **Compatible Stones**: Rose Quartz, Moonstone, Clear Quartz
 - **Lucky Actions**: Pray for safe childbirth on an Inu-no-Hi day and nurture your trusted relationships
 
-→ [Learn more about Power Stones for the Year of the Dog](/blog/eto-dog/)
+→ [Learn more about Crystals for the Year of the Dog](/blog/eto-dog/)
 
 ---
 
@@ -209,7 +209,7 @@ The Boar is the **last** of the Chinese zodiac signs, symbolizing "**bravery and
 - **Compatible Stones**: Carnelian, Onyx, Clear Quartz
 - **Lucky Actions**: Visit Marishiten Shrine and pray for good health on a Boar day
 
-→ [Learn more about Power Stones for the Year of the Boar](/blog/eto-boar/)
+→ [Learn more about Crystals for the Year of the Boar](/blog/eto-boar/)
 
 ---
 
@@ -277,11 +277,11 @@ The year of your own Chinese zodiac sign, which comes around once every 12 years
 
 **Q1. Should I prioritize my Chinese zodiac stone or my astrological zodiac stone?**
 
-A. **It's ideal to have both!** The Chinese zodiac reflects your **"innate nature over a 12-year cycle,"** while astrological signs are influenced by the **"period the sun passes through."** They represent different rhythms. Enjoy deepening your connection with guardian stones by combining them. For comparison, you can also check out the [Complete Guide to Astrological Power Stones](/blog/zodiac-powerstones-guide/).
+A. **It's ideal to have both!** The Chinese zodiac reflects your **"innate nature over a 12-year cycle,"** while astrological signs are influenced by the **"period the sun passes through."** They represent different rhythms. Enjoy deepening your connection with guardian stones by combining them. For comparison, you can also check out the [Complete Guide to Astrological Crystals](/blog/zodiac-powerstones-guide/).
 
 **Q2. What if I feel my Chinese zodiac stone doesn't "match" me?**
 
-A. Traditional compatibility is just a **"guideline."** The stone you feel drawn to is often said to be the one meant for you, so there's no need to force yourself to stick to a guardian stone if it doesn't feel right. It's perfectly fine to choose from **Clear Quartz** or other **purpose-specific stones** (check out the [Complete Guide to Lucky Power Stones by Purpose](/blog/luck-powerstones-complete-guide/)).
+A. Traditional compatibility is just a **"guideline."** The stone you feel drawn to is often said to be the one meant for you, so there's no need to force yourself to stick to a guardian stone if it doesn't feel right. It's perfectly fine to choose from **Clear Quartz** or other **purpose-specific stones** (check out the [Complete Guide to Lucky Crystals by Purpose](/blog/luck-powerstones-complete-guide/)).
 
 **Q3. Is it true that the zodiac sign changes with the traditional lunar new year?**
 
@@ -297,10 +297,10 @@ A. **Chinese zodiac signs are deeply personal protective symbols**, so they make
 
 ## Related Articles You Might Enjoy
 
-- [Complete Guide to Astrological Power Stones](/blog/zodiac-powerstones-guide/) — Choose your guardian stone based on your sun sign and purpose.
+- [Complete Guide to Astrological Crystals](/blog/zodiac-powerstones-guide/) — Choose your guardian stone based on your sun sign and purpose.
 - [Complete Guide to 12-Month Birthstones](/blog/birthstone-guide/) — Start your stone journey from your birth month.
-- [Complete Guide to Lucky Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Explore 10 categories like love, money, and career.
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — The basics of selecting your stones.
+- [Complete Guide to Lucky Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Explore 10 categories like love, money, and career.
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — The basics of selecting your stones.
 - [Meanings and Effects of Clear Quartz](/blog/clear-quartz/) — The versatile stone that suits every zodiac sign.
 
 ## Summary

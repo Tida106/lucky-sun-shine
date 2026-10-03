@@ -29,7 +29,7 @@ Historically, **Topaz** has been recognized as the primary birthstone for Novemb
 
 Topaz carries the symbolism of **"friendship, hope, and success."** Its name is believed to come either from the Sanskrit word **"tapas" (meaning fire)** or from **Topazos Island** in the Red Sea. In ancient Egypt, it was revered as the **"Stone of Ra, the Sun God,"** and considered a **"light that illuminates the darkness of night."**
 
-> **Please Note**: The effects attributed to power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects attributed to crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
 **Citrine** derives its name from the Latin word **"citrus" (meaning citrus fruit)**. In Europe, it was known as the **"Merchant's Stone,"** and traders would place it in their cash registers to attract business prosperity. Even in Japan, it's widely recognized as a **"premier stone for financial luck,"** and the tradition of keeping it in wallets and piggy banks continues to this day!
 
@@ -73,7 +73,7 @@ Here are the main effects and powers commonly attributed to Topaz and Citrine:
 | Salt | ○ | ○ |
 | Direct Sunlight | △ (Potential for color change) | △ (Beware of fading) |
 
-Citrine can **fade if exposed to direct sunlight for extended periods**. For more details, refer to our [Complete Guide to Power Stone Cleansing](/blog/purification-complete-guide/).
+Citrine can **fade if exposed to direct sunlight for extended periods**. For more details, refer to our [Complete Guide to Crystal Cleansing](/blog/purification-complete-guide/).
 
 ## Also Recommended as a Birthday Gift
 

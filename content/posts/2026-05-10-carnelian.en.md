@@ -59,7 +59,7 @@ In ancient Egypt, it was a symbol of regeneration and resurrection, known as the
 
 ## <span id="benefits"></span>Purported Benefits
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and how one experiences these effects can vary individually.
+> **Please Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and how one experiences these effects can vary individually.
 
 -   **Action and Execution Power** — Encourages those who tend to overthink without taking action
 -   **Victory and Achievement** — Provides support to see goals through to completion
@@ -112,7 +112,7 @@ A. Yes. In ancient Egypt, both kings and queens wore it, and as symbolized by Na
 
 **Q5. Are there other stones for motivation and execution power?**
 
-A. Garnet, Sunstone, and Tiger's Eye are classic choices. For more details, please refer to the Career Luck chapter in the [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/).
+A. Garnet, Sunstone, and Tiger's Eye are classic choices. For more details, please refer to the Career Luck chapter in the [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/).
 
 ## <span id="postscript"></span>Editor's Postscript
 
@@ -124,7 +124,7 @@ For me, Sun-chan, Carnelian is "**the stone I hold before sitting down at my des
 - [Citrine Meaning and Benefits](/blog/citrine/) — The Combination of Abundance and Action
 - [Tiger's Eye Meaning and Benefits](/blog/tigers-eye/) — The Pair of Decision and Execution
 - [Sunstone Meaning and Benefits](/blog/sunstone/) — The Pair of Sun-like Positivity
-- [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Career Luck Chapter
+- [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Career Luck Chapter
 
 ## Summary
 

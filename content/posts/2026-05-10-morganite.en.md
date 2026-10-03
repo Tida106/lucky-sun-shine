@@ -42,7 +42,7 @@ In Western countries, it's sometimes called the "Engagement Stone," and the cust
 
 ## Perceived Benefits and Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
 -   **Gentleness and Compassion**: As the Heart Beryl, it is believed to cultivate loving energy.
 -   **Marriage and Partnership**: Known as the "Engagement Stone" in Western countries, it is said to support sincere relationships.
@@ -99,7 +99,7 @@ Here are the approximate market prices for Morganite (as of 2026, A to AA grade 
 
 > There's a significant price difference depending on the intensity of the pink color. Madagascar origins are particularly beautiful.
 
-Prices vary greatly depending on the origin, grade, and size. It's recommended to compare options from several stores, considering factors like certification, transparency, and color intensity, before making a choice. For guidelines, please refer to the [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/).
+Prices vary greatly depending on the origin, grade, and size. It's recommended to compare options from several stores, considering factors like certification, transparency, and color intensity, before making a choice. For guidelines, please refer to the [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/).
 
 ## How to Identify Fakes and Artificial Stones
 
@@ -124,11 +124,11 @@ A. Heat treatment is a widely accepted practice in the mineral industry, applied
 
 ## Related Articles You Might Like
 
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 -   [Rose Quartz Meaning, Stone Lore, and Benefits](/blog/rose-quartz-meaning/)
 -   [Aquamarine Meaning, Stone Lore, and Benefits](/blog/aquamarine/)
 -   [Moonstone Meaning, Stone Lore, and Benefits](/blog/moonstone/)
--   [Recommended Power Stones for Love Luck](/blog/luck-powerstones-complete-guide/)
+-   [Recommended Crystals for Love Luck](/blog/luck-powerstones-complete-guide/)
 
 ## Editor's Note
 
@@ -136,7 +136,7 @@ I feel that Morganite is a "stone of love for those who don't seek dramatic flai
 
 ## Summary
 
--   Morganite is a power stone symbolizing "Gentleness, Marriage, and Fulfillment of Love."
+-   Morganite is a crystal symbolizing "Gentleness, Marriage, and Fulfillment of Love."
 -   Gentleness and Compassion: Believed to cultivate loving energy.
 -   Marriage and Partnership: Believed to support sincere relationships.
 -   For purification, Clear Quartz Chips and White Sage are recommended. Prolonged direct sunlight (fading) should be avoided.

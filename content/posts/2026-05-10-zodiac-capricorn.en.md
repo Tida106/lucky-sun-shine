@@ -1,7 +1,7 @@
 ---
-title: "Capricorn Zodiac and Power Stones: Personality, Fortune, and a Garnet-Focused Selection Guide"
+title: "Capricorn Zodiac and Crystals: Personality, Fortune, and a Garnet-Focused Selection Guide"
 description: >-
-  Explore recommended power stones that empower the personality and fortune of Capricorn (December 22nd - January 19th). This comprehensive guide covers the guardian stone Garnet, compatible stones like Onyx, Smoky Quartz, and Hematite, lucky colors, auspicious actions, how to wear your stones, and FAQs.
+  Explore recommended crystals that empower the personality and fortune of Capricorn (December 22nd - January 19th). This comprehensive guide covers the guardian stone Garnet, compatible stones like Onyx, Smoky Quartz, and Hematite, lucky colors, auspicious actions, how to wear your stones, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -14,7 +14,7 @@ draft: false
 
 ## Introduction
 
-Hey there, Capricorn friends! Capricorn is an **Earth element** zodiac sign, with the Sun transiting it from **December 22nd to January 19th**. Its ruling planet is **Saturn**, symbolizing **"responsibility, effort, and realism."** Among the 12 zodiac signs, Capricorns are the strongest when it comes to **long-term goals** and **social success**, striving for the top through steady effort. In this article, we'll dive deep into power stones that resonate with Capricorn's personality and fortune, **focusing on Garnet as your guardian stone**. We'll also cover compatible stones, lucky colors, auspicious actions, and FAQs, all in one handy guide!
+Hey there, Capricorn friends! Capricorn is an **Earth element** zodiac sign, with the Sun transiting it from **December 22nd to January 19th**. Its ruling planet is **Saturn**, symbolizing **"responsibility, effort, and realism."** Among the 12 zodiac signs, Capricorns are the strongest when it comes to **long-term goals** and **social success**, striving for the top through steady effort. In this article, we'll dive deep into crystals that resonate with Capricorn's personality and fortune, **focusing on Garnet as your guardian stone**. We'll also cover compatible stones, lucky colors, auspicious actions, and FAQs, all in one handy guide!
 
 ## Capricorn's Core Personality
 
@@ -31,9 +31,9 @@ Capricorns are like the zodiac sign that **"climbs a rocky mountain one step at 
 **Strengths**: Sense of responsibility, perseverance, practical ability, realism, respecting tradition
 **Challenges (the flip side)**: Can be too rigid, struggle to relax and enjoy, can be hard on others and themselves, prone to pessimism
 
-> **Heads up!**: The effects of zodiac signs and power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Heads up!**: The effects of zodiac signs and crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Capricorn
+## Recommended Crystals for Capricorn
 
 Deeply resonating with Capricorn's themes of **"effort, perseverance, and the culmination of results"** are grounding stones in shades of **deep red, black, and brown**.
 
@@ -88,7 +88,7 @@ Here are common challenges Capricorns face, and how to use specific stones to ad
 | Garnet and Hematite | Sustained luck in challenges |
 | Garnet and [Clear Quartz](/blog/clear-quartz/) | Amplification and purification of energy |
 
-For the basics of combinations, refer to the [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, refer to the [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Auspicious Actions
 
@@ -137,9 +137,9 @@ A. Generally, fellow Earth signs **Taurus and Virgo**, and Water signs **Cancer 
 
 ## Related Articles You Might Also Like
 
-- [12 Zodiac Power Stone Comprehensive Guide](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 zodiac signs
-- [Sagittarius Power Stones](/blog/zodiac-sagittarius/) — The preceding sign
-- [Aquarius Power Stones](/blog/zodiac-aquarius/) — The following sign
+- [12 Zodiac Crystal Comprehensive Guide](/blog/zodiac-powerstones-guide/) — Comparison and quick reference for all 12 zodiac signs
+- [Sagittarius Crystals](/blog/zodiac-sagittarius/) — The preceding sign
+- [Aquarius Crystals](/blog/zodiac-aquarius/) — The following sign
 - [Garnet's Meaning, Stone Language, and Effects](/blog/garnet/) — Detailed explanation of the main stone
 - [January Birthstone | Garnet](/blog/birthstone-january/) — For Capricorns born in January
 

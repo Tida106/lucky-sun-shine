@@ -1,7 +1,7 @@
 ---
-title: Power Stones for Fertility and Safe Childbirth | Complete Guide to Meanings, Effects, and Combinations
+title: Crystals for Fertility and Safe Childbirth | Complete Guide to Meanings, Effects, and Combinations
 description: >-
-  A comprehensive guide to power stones for those wishing for fertility and a safe childbirth. Covers the meanings and effects of Moonstone, Unakite, Chrysocolla, Rose Quartz, Malachite, and more, along with how to choose and combine them during fertility treatment, pregnancy, and postpartum, how to wear them around the abdomen, and FAQs.
+  A comprehensive guide to crystals for those wishing for fertility and a safe childbirth. Covers the meanings and effects of Moonstone, Unakite, Chrysocolla, Rose Quartz, Malachite, and more, along with how to choose and combine them during fertility treatment, pregnancy, and postpartum, how to wear them around the abdomen, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -14,15 +14,15 @@ draft: false
 
 ## Introduction
 
-"**I want to be blessed with a child**," "**I want to have a peaceful pregnancy**," "**I want to give birth safely**" — the period of welcoming a new life is a mix of hope and anxiety. In this article, I've compiled a comprehensive guide on power stones traditionally associated with fertility and safe childbirth, **centering on Moonstone as a guardian stone**. It covers how to choose and combine stones for each phase, how to wear them, and frequently asked questions, all in one place. If you'd like an overview with a comparison chart, please also refer to the [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/#fertility).
+"**I want to be blessed with a child**," "**I want to have a peaceful pregnancy**," "**I want to give birth safely**" — the period of welcoming a new life is a mix of hope and anxiety. In this article, I've compiled a comprehensive guide on crystals traditionally associated with fertility and safe childbirth, **centering on Moonstone as a guardian stone**. It covers how to choose and combine stones for each phase, how to wear them, and frequently asked questions, all in one place. If you'd like an overview with a comparison chart, please also refer to the [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/#fertility).
 
-## The Relationship Between Fertility and Safe Childbirth and Power Stones
+## The Relationship Between Fertility and Safe Childbirth and Crystals
 
 Many fertility stones often feature colors that symbolize "**motherhood**," such as **milky white, light green, and pink**. In ancient Rome, **Moonstone** was considered the stone of Diana, the goddess of the moon, and its connection to "**the moon's rhythm equaling a woman's cycle**" led to its use for fertility prayers. Native Americans in North America regarded **Unakite** as a symbol of "**Mother Earth**," and in Hawaiian goddess worship, **Chrysocolla** has been cherished under the name "**Mother Earth**."
 
-> **Important Note**: Power stones are not a substitute for medical treatment. **If you experience any discomfort during fertility treatment, pregnancy, or postpartum, please consult a medical institution immediately.** This article explains cultural and symbolic meanings only.
+> **Important Note**: Crystals are not a substitute for medical treatment. **If you experience any discomfort during fertility treatment, pregnancy, or postpartum, please consult a medical institution immediately.** This article explains cultural and symbolic meanings only.
 
-## Recommended Power Stones for Fertility and Safe Childbirth
+## Recommended Crystals for Fertility and Safe Childbirth
 
 Here are 5 representative stones that support fertility and safe childbirth, organized by their role.
 
@@ -79,7 +79,7 @@ A traditional stone historically used in Europe as a "**stone to protect childre
 | Chrysocolla and Rose Quartz       | Relaxation and gentleness              |
 | Moonstone and [Clear Quartz](/blog/clear-quartz/) | Amplification and purification of energy |
 
-For the basics of combinations, refer to the [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, refer to the [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## How to Wear and Incorporate Them
 
@@ -123,9 +123,9 @@ A. **Once a month**, especially according to pregnancy weeks or on the new moon.
 
 ## Related Articles You Might Want to Read
 
--   [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison and Quick Reference for 10 Categories
--   [Power Stones for Marriage Luck](/blog/marriage-luck-stones/) — Strengthening Marital Bonds
--   [Power Stones for Health Luck](/blog/health-luck-stones/) — Mind and Body Care
+-   [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison and Quick Reference for 10 Categories
+-   [Crystals for Marriage Luck](/blog/marriage-luck-stones/) — Strengthening Marital Bonds
+-   [Crystals for Health Luck](/blog/health-luck-stones/) — Mind and Body Care
 -   [The Meaning and Effects of Moonstone](/blog/moonstone/) — Detailed Explanation of the Main Stone
 -   [The Meaning and Effects of Rose Quartz](/blog/rose-quartz-meaning/) — Stone of Motherhood and Love
 

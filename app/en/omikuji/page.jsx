@@ -5,14 +5,14 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 export const metadata = {
   title: "Sun-chan's Fortune ☀️ | Lucky Sun Shine",
   description:
-    "Sun-chan delivers today's fortune and a lucky power stone. Draw as many times as you like and brighten your day ☀️",
+    "Sun-chan delivers today's fortune and a lucky crystal. Draw as many times as you like and brighten your day ☀️",
   alternates: {
     canonical: '/en/omikuji/',
     languages: { ja: '/omikuji/', en: '/en/omikuji/' },
   },
   openGraph: {
     title: "Sun-chan's Fortune ☀️",
-    description: "Sun-chan delivers today's fortune and a lucky power stone.",
+    description: "Sun-chan delivers today's fortune and a lucky crystal.",
     url: `${site.url}/en/omikuji/`,
     images: [
       {

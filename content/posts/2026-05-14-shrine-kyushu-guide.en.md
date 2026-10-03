@@ -157,9 +157,9 @@ A. It is a full-fledged **10-hour round-trip mountain hike**. **Prior training, 
 
 A. It is performed **every evening at Takachiho Shrine from 8:00 PM to 9:00 PM** (please check in advance). Experiencing Kagura in the setting of myth is unique. From **November to February**, more elaborate **"all-night Kagura"** performances are also offered in various local communities.
 
-**Q5. Is it okay to bring a power stone when visiting a shrine?**
+**Q5. Is it okay to bring a crystal when visiting a shrine?**
 
-A. Yes. It's common practice to hold it in your palm before passing through the torii gate, or to place it near an omamori (charm) or Ofuda (talisman) after your visit. For more details, please refer to [Basics of Power Stones and Feng Shui](/blog/fengshui-powerstone-basics/).
+A. Yes. It's common practice to hold it in your palm before passing through the torii gate, or to place it near an omamori (charm) or Ofuda (talisman) after your visit. For more details, please refer to [Basics of Crystals and Feng Shui](/blog/fengshui-powerstone-basics/).
 
 ## Related Articles You Might Also Like
 

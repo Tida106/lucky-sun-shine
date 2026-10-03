@@ -16,7 +16,7 @@ draft: false
 
 ## Introduction
 
-**Phantom Quartz**, also known as "**Mountain-Included Quartz**" (Yama-iri Suisho), is a profoundly mystical power stone where a phantom (a ghost or illusion) of another crystal appears in a triangular pyramid shape within transparent quartz. Because it visually holds "**a past mountain trapped within the crystal**," it is deeply cherished by those who are mindful of their life stages, as a stone symbolizing "**growth, progress, and breakthroughs**."
+**Phantom Quartz**, also known as "**Mountain-Included Quartz**" (Yama-iri Suisho), is a profoundly mystical crystal where a phantom (a ghost or illusion) of another crystal appears in a triangular pyramid shape within transparent quartz. Because it visually holds "**a past mountain trapped within the crystal**," it is deeply cherished by those who are mindful of their life stages, as a stone symbolizing "**growth, progress, and breakthroughs**."
 
 This article provides a comprehensive overview, from the origin of its gemstone language and its mineralogical characteristics, to the **mechanism by which its "phantom (illusion)" is formed**, its purported effects, care instructions, an explanation of its color variations (such as green, red, and white), and frequently asked questions. This guide is structured to serve as a reference for anyone looking to "**grow and advance to the next stage**."
 
@@ -90,7 +90,7 @@ In Japan, **Green Phantom**, in particular, is cherished as a "**green healing s
 
 ## <span id="benefits"></span>Purported Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 -   **Symbol of Growth and Progress** — The very fact that "**records of growth are etched within the crystal**" serves as an amulet to encourage self-awareness of one's own development.
 -   **Support for Breakthroughs** — A mental pillar during moments of "**surpassing one's current self**."
@@ -184,7 +184,7 @@ A. **It has not been medically or scientifically proven**. The mineralogical fac
 
 **Q6. What if my Phantom Quartz cracks or the phantom part breaks?**
 
-A. In the world of power stones, there is a tradition of interpreting this as the stone having "**acted as a substitute**" for you. The phantom part is an inclusion, so it can break under extreme impact. It is common practice to return it to the earth with gratitude or carefully store it in a drawer. Many enthusiasts also interpret it as "**a phase of their personal growth has come to an end**."
+A. In the world of crystals, there is a tradition of interpreting this as the stone having "**acted as a substitute**" for you. The phantom part is an inclusion, so it can break under extreme impact. It is common practice to return it to the earth with gratitude or carefully store it in a drawer. Many enthusiasts also interpret it as "**a phase of their personal growth has come to an end**."
 
 ## <span id="postscript"></span>Editor's Note
 
@@ -192,7 +192,7 @@ For the site administrator, Phantom Quartz was a "**stone I picked up at a turni
 
 Once I actually placed it on my desk and incorporated it into my daily life, a small ritual emerged: "**Each time I looked at the mountain within the crystal, I would remember my past**." I believe the greatest gift from my relationship with Phantom Quartz was the opportunity to gain such an integrated perspective: "**My 30s self exists because of my 20s self. And my 40s self will build upon who I am now**."
 
-Phantom Quartz is not a "**flashy stone**." Yet, it is a profound power stone that allows for a relationship where **the past shadow trapped within the crystal quietly affirms one's current growth**.
+Phantom Quartz is not a "**flashy stone**." Yet, it is a profound crystal that allows for a relationship where **the past shadow trapped within the crystal quietly affirms one's current growth**.
 
 ## <span id="team-view"></span>Our Editorial Team's Perspective: A Rare Stone with "Growth Rings"
 
@@ -233,8 +233,8 @@ Even when you move to the next stage, your past self doesn't disappear. **Everyt
 -   [Jade: Meaning and Effects](/blog/jade/) — A green growth stone pair, harmony of virtue and breakthrough
 -   [Amethyst: Meaning and Effects](/blog/amethyst/) — Growth and spiritual alignment
 -   [Garnet: Meaning and Effects](/blog/garnet/) — Indomitable passion, a companion for long-term goal achievement
--   [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — Guide to combining the quartz family
--   [How to Properly Wear Power Stones](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects
+-   [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Guide to combining the quartz family
+-   [How to Properly Wear Crystals](/blog/how-to-wear-powerstones/) — Differentiating left and right, and maximizing effects
 
 ## Summary
 

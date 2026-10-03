@@ -63,7 +63,7 @@ How did you like the "Network of Light" protecting the city of Tokyo? ✨
 3.  **Meiji Jingu**, a magic forest created with love for the future (Heart clearing & Oasis 🌳)
 4.  **Gotokuji**, beckoning fortune and wonderful connections (Attracting chances & good relationships 🐾)
 
-Every single spot is a wonderful sanctuary that stays close to our hearts and charges us with positive energy ☀️ This weekend, why not wear your favorite power stone and take a leisurely tour of Tokyo's network of light? May your heart and body be filled with warm light, and may wonderful luck come flying in one after another ✨
+Every single spot is a wonderful sanctuary that stays close to our hearts and charges us with positive energy ☀️ This weekend, why not wear your favorite crystal and take a leisurely tour of Tokyo's network of light? May your heart and body be filled with warm light, and may wonderful luck come flying in one after another ✨
 
 ### ☀️ A Special Cheering Message from Your Guide, Angel "Sun-chan" ☀️
 

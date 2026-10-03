@@ -10,21 +10,21 @@ author: "Sun-chan"
 
 ## Introduction
 
-If you're Japanese, you've probably heard the word "sazare-ishi" before! This term, which even appears in Japan's national anthem "Kimigayo," is actually a **popular purification and home decor item in the world of power stones**.
+If you're Japanese, you've probably heard the word "sazare-ishi" before! This term, which even appears in Japan's national anthem "Kimigayo," is actually a **popular purification and home decor item in the world of crystals**.
 
-Sazare-ishi refers to natural stones processed into small chips. We're talking about gravel-like stones, usually a few millimeters to about 2 centimeters in size. They're more affordable than single power stones and offer a variety of uses like **purification, home decor, and power charging**. That's why they're a favorite among power stone beginners!
+Sazare-ishi refers to natural stones processed into small chips. We're talking about gravel-like stones, usually a few millimeters to about 2 centimeters in size. They're more affordable than single crystals and offer a variety of uses like **purification, home decor, and power charging**. That's why they're a favorite among crystal beginners!
 
 In this article, I'll give you a complete guide to sazare-ishi, covering everything from basic uses and type-specific recommendations to their "lifespan and when to replace them," care methods, and even how to dispose of old stones. This one article has got you covered!
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed. Please enjoy reading this guide with the understanding that power stones are for amulets and home decor.
+> **Please Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed. Please enjoy reading this guide with the understanding that crystals are for amulets and home decor.
 
 ## What Exactly is Sazare-ishi?
 
 Sazare-ishi are natural stones that have been crushed and **processed into small chips**. The size of the grains varies, usually ranging from a few millimeters to about 2 centimeters, and they're often sold in bags or containers.
 
-Unlike single power stones, sazare-ishi are made up of **multiple small fragments, which means they have a larger contact surface**. This is a big advantage because they can firmly support other stones or accessories placed on them. Because of this characteristic, they're considered **perfect for purifying and power charging other stones**, making them a classic item among spiritual enthusiasts.
+Unlike single crystals, sazare-ishi are made up of **multiple small fragments, which means they have a larger contact surface**. This is a big advantage because they can firmly support other stones or accessories placed on them. Because of this characteristic, they're considered **perfect for purifying and power charging other stones**, making them a classic item among spiritual enthusiasts.
 
-Prices vary depending on the type of stone, but you can usually find 100g for around **¥500 to ¥2,000**, making them a great entry point into the world of power stones!
+Prices vary depending on the type of stone, but you can usually find 100g for around **¥500 to ¥2,000**, making them a great entry point into the world of crystals!
 
 ## 4 Main Ways to Use Sazare-ishi
 
@@ -32,7 +32,7 @@ Prices vary depending on the type of stone, but you can usually find 100g for ar
 
 One of the most popular ways to use sazare-ishi is by **placing your bracelets and necklaces on them for purification**.
 
-It's believed that the power stones you wear throughout the day absorb all sorts of energies. By gently placing them on sazare-ishi when you get home, they can slowly reset themselves overnight.
+It's believed that the crystals you wear throughout the day absorb all sorts of energies. By gently placing them on sazare-ishi when you get home, they can slowly reset themselves overnight.
 
 **How to do it:**
 1.  Put sazare-ishi into your favorite bowl or small dish.
@@ -41,7 +41,7 @@ It's believed that the power stones you wear throughout the day absorb all sorts
 
 Clear quartz sazare-ishi are the most commonly used, but the atmosphere can change depending on the type of stone you choose.
 
-→ For more on how to choose and wear power stone bracelets, check out our [Complete Guide to Power Stone Bracelets](/blog/bracelet-complete-guide/)!
+→ For more on how to choose and wear crystal bracelets, check out our [Complete Guide to Crystal Bracelets](/blog/bracelet-complete-guide/)!
 
 ---
 
@@ -51,9 +51,9 @@ Sazare-ishi can instantly become **stylish home decor just by arranging them in 
 
 **Recommended Placement Locations:**
 
--   **Entryway**: To purify energies coming in from outside, clear quartz sazare-ishi or black tourmaline sazare-ishi are often preferred. → Learn more in our [Power Stones for Your Entryway Guide](/blog/genkan-powerstone-guide/).
--   **Living Room**: To promote harmony in family gathering spaces, rose quartz or citrine sazare-ishi are popular. → Learn more in our [Complete Guide to Power Stones by Room in Feng Shui](/blog/fengshui-room-stones/).
--   **Bedroom**: For peaceful sleep and relaxation, amethyst sazare-ishi are a popular choice. → Learn more in our [Complete Guide to Power Stones for the Bedroom](/blog/fengshui-bedroom-stones/).
+-   **Entryway**: To purify energies coming in from outside, clear quartz sazare-ishi or black tourmaline sazare-ishi are often preferred. → Learn more in our [Crystals for Your Entryway Guide](/blog/genkan-powerstone-guide/).
+-   **Living Room**: To promote harmony in family gathering spaces, rose quartz or citrine sazare-ishi are popular. → Learn more in our [Complete Guide to Crystals by Room in Feng Shui](/blog/fengshui-room-stones/).
+-   **Bedroom**: For peaceful sleep and relaxation, amethyst sazare-ishi are a popular choice. → Learn more in our [Complete Guide to Crystals for the Bedroom](/blog/fengshui-bedroom-stones/).
 
 **Tips for Choosing a Container:**
 -   **Glass containers**: Make the stones' colors pop and add beautiful transparency.
@@ -82,11 +82,11 @@ They're not as noticeable as a bracelet, so you can easily tuck them into your p
 
 ### ④ Use Them to Purify and Power Charge Other Stones
 
-**Placing clear quartz sazare-ishi in a dish and then resting other power stones on top** is a classic method for power stone purification.
+**Placing clear quartz sazare-ishi in a dish and then resting other crystals on top** is a classic method for crystal purification.
 
 Clear quartz is known as a "master cleanser," and its biggest advantage is that it can **work with almost all types of stones**, unlike water, salt, or sunlight. Even stones that are sensitive to water, like lapis lazuli and malachite, can be safely purified using clear quartz sazare-ishi without causing any damage.
 
-→ If you want to know all types of purification methods, please check out our [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+→ If you want to know all types of purification methods, please check out our [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 **Steps for Purification with Clear Quartz Sazare-ishi:**
 1.  Place clear quartz sazare-ishi in a clean dish (enough to cover the bottom of the dish).
@@ -267,7 +267,7 @@ A. Generally, **overnight (6-8 hours)** is recommended. If you're in a hurry, 30
 
 ## A Little Note from Sun-chan☀️
 
-I really think sazare-ishi are one of those power stone items you're meant to use in a really **relaxed and gentle way**.
+I really think sazare-ishi are one of those crystal items you're meant to use in a really **relaxed and gentle way**.
 
 Just gently placing your bracelet down and saying, "Thank you for today," somehow makes me feel like my mood shifts. It's not so much about whether they "work" or not, but rather that it becomes **a ritual for me to "properly let go" when I get home**. That's what I think is important!
 
@@ -283,12 +283,12 @@ Sazare-ishi are consumables, so if they start looking dull, don't hesitate to re
 
 ## Related Articles You Might Also Like
 
--   [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/)
--   [Complete Guide to Power Stone Bracelets](/blog/bracelet-complete-guide/)
--   [Complete Guide to Power Stones by Room in Feng Shui](/blog/fengshui-room-stones/)
--   [Power Stones for Your Entryway Guide](/blog/genkan-powerstone-guide/)
--   [Complete Guide to Power Stones for the Bedroom](/blog/fengshui-bedroom-stones/)
--   [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/)
+-   [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/)
+-   [Complete Guide to Crystal Bracelets](/blog/bracelet-complete-guide/)
+-   [Complete Guide to Crystals by Room in Feng Shui](/blog/fengshui-room-stones/)
+-   [Crystals for Your Entryway Guide](/blog/genkan-powerstone-guide/)
+-   [Complete Guide to Crystals for the Bedroom](/blog/fengshui-bedroom-stones/)
+-   [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/)
 -   [Clear Quartz Meaning and Effects Guide](/blog/clear-quartz/)
 -   [Amethyst Meaning and Effects Guide](/blog/amethyst/)
 -   [Rose Quartz Meaning and Effects Guide](/blog/rose-quartz-meaning/)

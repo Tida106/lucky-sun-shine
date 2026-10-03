@@ -1,6 +1,6 @@
 ---
-title: "The Complete Guide to Power Stone Cleansing: 10 Methods and Stone-Specific Suitability"
-description: "This complete guide explains all 10 power stone cleansing methods, including step-by-step instructions for methods like clear quartz chips, white sage, and moonlight bathing. It also includes a quick reference chart for stones sensitive to water, salt, or direct sunlight, cleansing frequency, and actions to avoid. Read this, and you'll never be confused about cleansing again."
+title: "The Complete Guide to Crystal Cleansing: 10 Methods and Stone-Specific Suitability"
+description: "This complete guide explains all 10 crystal cleansing methods, including step-by-step instructions for methods like clear quartz chips, white sage, and moonlight bathing. It also includes a quick reference chart for stones sensitive to water, salt, or direct sunlight, cleansing frequency, and actions to avoid. Read this, and you'll never be confused about cleansing again."
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
@@ -10,7 +10,7 @@ draft: false
 
 ## Introduction
 
-When you wear power stones continuously, they're said to "**get tired**." Since they absorb negative energy for us, it's essential to regularly **cleanse** them to help them regain their original power. This article will introduce all 10 cleansing methods and provide a complete guide to their **suitability for different stones**.
+When you wear crystals continuously, they're said to "**get tired**." Since they absorb negative energy for us, it's essential to regularly **cleanse** them to help them regain their original power. This article will introduce all 10 cleansing methods and provide a complete guide to their **suitability for different stones**.
 
 ## 3 Key Times When Cleansing is Needed
 
@@ -186,8 +186,8 @@ Cleansing is an important practice that expresses your "**gratitude to your ston
 
 ## Related Articles You Might Also Enjoy
 
--   [Power Stone Basics: Everything Beginners Need to Know](/blog/powerstone-beginner-guide/)
--   [The Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
--   [How to Properly Wear Your Power Stones](/blog/how-to-wear-powerstones/)
+-   [Crystal Basics: Everything Beginners Need to Know](/blog/powerstone-beginner-guide/)
+-   [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
+-   [How to Properly Wear Your Crystals](/blog/how-to-wear-powerstones/)
 -   [How to Spot Fake and Artificial Stones](/blog/spot-fake-stones/)
--   [The Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/)
+-   [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/)

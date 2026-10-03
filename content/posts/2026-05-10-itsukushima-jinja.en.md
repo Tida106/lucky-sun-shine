@@ -1,6 +1,6 @@
 ---
 title: "Itsukushima Shrine Pilgrimage Guide | Complete Guide to Miyajima's Floating World Heritage Power Spot"
-description: "A comprehensive guide to Itsukushima Shrine (Miyajima-cho, Hatsukaichi City, Hiroshima Prefecture), covering its history, blessings, key pilgrimage points according to tidal changes, the Great Torii Gate, Mount Misen, recommended power stones, and nearby attractions. This is your essential guide to visiting the World Heritage shrine built by Taira no Kiyomori."
+description: "A comprehensive guide to Itsukushima Shrine (Miyajima-cho, Hatsukaichi City, Hiroshima Prefecture), covering its history, blessings, key pilgrimage points according to tidal changes, the Great Torii Gate, Mount Misen, recommended crystals, and nearby attractions. This is your essential guide to visiting the World Heritage shrine built by Taira no Kiyomori."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -20,7 +20,7 @@ Itsukushima Shrine, nestled on Miyajima Island (also known as Itsukushima) in th
 - [Highlights and Must-Sees](#highlight)
 - [Tides and Visiting Tips](#tide)
 - [Access Information](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit Together](#nearby)
 - [Basic Visiting Etiquette](#manner)
 - [Frequently Asked Questions (FAQ)](#faq)
@@ -83,7 +83,7 @@ From JR Hiroshima Station, take the Sanyo Main Line to **Miyajimaguchi Station**
 
 **Parking**: There is almost no parking available on Miyajima Island, so please use a **parking lot on the Miyajimaguchi side** and cross by ferry.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones said to resonate with the energy of the sacred grounds of Itsukushima Shrine when you carry them during your visit.
 
@@ -181,7 +181,7 @@ Instead of rushing to buy souvenirs and leave, try to delay your ferry ride and 
 -   [Izumo Taisha Shrine Pilgrimage Guide](/blog/izumo-taisha/) — The home of matchmaking
 -   [Munakata Taisha Shrine Pilgrimage Guide](/blog/munakata-taisha/) — The head shrine of the Munakata Three Goddesses
 -   [Aquamarine Meaning and Effects](/blog/aquamarine/) — The stone that resonates with the goddesses of the sea
--   [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featuring chapters on traffic safety and performing arts
+-   [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featuring chapters on traffic safety and performing arts
 
 ## Summary
 

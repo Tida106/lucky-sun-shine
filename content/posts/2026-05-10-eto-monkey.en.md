@@ -1,6 +1,6 @@
 ---
-title: "Recommended Powerstones for the Year of the Monkey | Zodiac Animal and Stone Compatibility"
-description: "Discover the perfect powerstones for those born in the Year of the Monkey! This guide explores the compatibility between their clever and sociable nature and Citrine, a stone of business prosperity. Learn about supporting stones for focus and networking, special uses for 'Eto-year' individuals, and sacred sites tied to Sannō Gongen worship. A complete guide to selecting charms that enhance the intellect and resourcefulness of this zodiac sign."
+title: "Recommended Crystals for the Year of the Monkey | Zodiac Animal and Stone Compatibility"
+description: "Discover the perfect crystals for those born in the Year of the Monkey! This guide explores the compatibility between their clever and sociable nature and Citrine, a stone of business prosperity. Learn about supporting stones for focus and networking, special uses for 'Eto-year' individuals, and sacred sites tied to Sannō Gongen worship. A complete guide to selecting charms that enhance the intellect and resourcefulness of this zodiac sign."
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
@@ -35,11 +35,11 @@ Among the twelve zodiac animals, the Monkey is associated with the element of "M
 
 Citrine is known as "Yellow Quartz" and was used as an amulet for merchants in ancient Rome. In medieval Europe, it was placed near cash registers and ledgers as the "Merchant's Stone." In Japan, too, it is popular as a quintessential stone for financial luck and is favored as a gift, being a stone that holds the light of the sun.
 
-> **Note**: The "effects" of powerstones are cultural and symbolic. They do not guarantee medical or scientific efficacy.
+> **Note**: The "effects" of crystals are cultural and symbolic. They do not guarantee medical or scientific efficacy.
 
 The primary reason Citrine resonates with those born in the Year of the Monkey is that Citrine is the stone that **"transforms talent into business opportunities."** While the Monkey sign possesses abundant talent and knowledge, individuals are often said to stumble at the stage of "monetizing" or "materializing" their talents. Citrine is believed to act as a golden bridge, translating wisdom into tangible results, thereby supporting the biggest challenge for those born in the Year of the Monkey.
 
-Furthermore, because the Monkey sign is associated with the element of "Metal" (金, Kin), it naturally resonates with Citrine's golden color in terms of Yin-Yang and the Five Elements philosophy. While the Year of the Rat, which also has Citrine as its guardian stone, is associated with "accumulating" wealth, the Year of the Monkey is linked to wealth that is "**activated and grown**." It is said that the same stone showing different facets depending on the zodiac sign reveals the profound depth of powerstone culture.
+Furthermore, because the Monkey sign is associated with the element of "Metal" (金, Kin), it naturally resonates with Citrine's golden color in terms of Yin-Yang and the Five Elements philosophy. While the Year of the Rat, which also has Citrine as its guardian stone, is associated with "accumulating" wealth, the Year of the Monkey is linked to wealth that is "**activated and grown**." It is said that the same stone showing different facets depending on the zodiac sign reveals the profound depth of crystal culture.
 
 ## Compatible Stones to Carry Alongside
 
@@ -83,10 +83,10 @@ When I recommend Citrine to people born in the Year of the Monkey, I often hear 
 
 ## Related Articles You Might Enjoy
 
--   [Complete Guide to Powerstones by Zodiac Animal](/blog/eto-powerstones-guide/) — Comparison and Quick Reference for the Twelve Zodiac Signs
--   [Complete Guide to Choosing Powerstones](/blog/how-to-choose-powerstones/)
+-   [Complete Guide to Crystals by Zodiac Animal](/blog/eto-powerstones-guide/) — Comparison and Quick Reference for the Twelve Zodiac Signs
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 -   [Citrine Meaning and Effects | Stone for Financial Luck and Business Prosperity](/blog/citrine/)
--   [Powerstone Guide by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/)
+-   [Crystal Guide by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/)
 -   [Fluorite Meaning and Effects](/blog/fluorite/)
 
 ## Summary

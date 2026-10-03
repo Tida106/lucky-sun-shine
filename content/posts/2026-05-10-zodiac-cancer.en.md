@@ -1,7 +1,7 @@
 ---
-title: "Cancer Zodiac Stones and Power Stones: Personality, Fortune, and a Moonstone-Centric Selection Guide"
+title: "Cancer Zodiac Stones and Crystals: Personality, Fortune, and a Moonstone-Centric Selection Guide"
 description: >-
-  A comprehensive guide to recommended power stones for Cancer (June 22 - July 22), supporting their personality and fortune. We cover guardian stone Moonstone, complementary stones like Rose Quartz, Pearl, and Kunzite, lucky colors, auspicious actions, how to wear them, and a detailed FAQ.
+  A comprehensive guide to recommended crystals for Cancer (June 22 - July 22), supporting their personality and fortune. We cover guardian stone Moonstone, complementary stones like Rose Quartz, Pearl, and Kunzite, lucky colors, auspicious actions, how to wear them, and a detailed FAQ.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -15,7 +15,7 @@ draft: false
 
 ## Introduction
 
-The zodiac sign Cancer (**June 22 - July 22**) is a **Water element** sign, with **the Moon (Luna)** as its ruling planet. It symbolizes **"family love, nurturing, and sensitivity."** Among the 12 zodiac signs, Cancer has the deepest affection for **home, family, and loved ones**, and excels at sensing others' feelings with delicate sensitivity. In this article, we'll summarize the power stones that suit Cancer's personality and fortune, focusing on its **guardian stone, Moonstone**, and covering complementary stones, lucky colors, auspicious actions, and an FAQ, all on one page.
+The zodiac sign Cancer (**June 22 - July 22**) is a **Water element** sign, with **the Moon (Luna)** as its ruling planet. It symbolizes **"family love, nurturing, and sensitivity."** Among the 12 zodiac signs, Cancer has the deepest affection for **home, family, and loved ones**, and excels at sensing others' feelings with delicate sensitivity. In this article, we'll summarize the crystals that suit Cancer's personality and fortune, focusing on its **guardian stone, Moonstone**, and covering complementary stones, lucky colors, auspicious actions, and an FAQ, all on one page.
 
 ## Cancer's Basic Personality
 
@@ -32,9 +32,9 @@ Those born under Cancer are a zodiac sign that **"fiercely protects those within
 **Strengths**: Nurturing, caring, strong memory, intuition, and sincerity
 **Weaknesses (the flip side)**: Intense emotional fluctuations, shyness, overprotectiveness, and dwelling on the past
 
-> **Please Note**: The effects of zodiac signs and power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects of zodiac signs and crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Cancer
+## Recommended Crystals for Cancer
 
 Deeply resonating with Cancer's themes of **"Moon, Water, Family, and Sensitivity"** are soft stones with **milky white and pale hues.**
 
@@ -89,7 +89,7 @@ Common concerns for Cancer individuals and how to use corresponding stones:
 | Moonstone and Kunzite            | Nurturing and Unconditional Love      |
 | Moonstone and [Clear Quartz](/blog/clear-quartz/) | Energy amplification and purification |
 
-For the basics of combinations, please refer to [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, please refer to [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Auspicious Actions
 
@@ -107,7 +107,7 @@ For the basics of combinations, please refer to [Complete Guide to Power Stone C
 -   **Ocean, Lakes, and Hot Springs**: Purify with the energy of water
 -   **Evening Self-Care Rituals**: Take baths and do skincare diligently
 
-For details on Moon Bathing, please refer to [Lunar Phases and Power Stones](/blog/moon-phases-and-stones/).
+For details on Moon Bathing, please refer to [Lunar Phases and Crystals](/blog/moon-phases-and-stones/).
 
 ## How to Wear Them
 
@@ -140,11 +140,11 @@ A. Generally, the other Water signs, **Scorpio and Pisces**, and the Earth signs
 
 ## Related Articles You Might Enjoy
 
--   [Comprehensive Guide to Zodiac Power Stones](/blog/zodiac-powerstones-guide/) — Comparison and Quick Reference for all 12 Zodiac Signs
--   [Gemini Power Stones](/blog/zodiac-gemini/) — The preceding sign
--   [Leo Power Stones](/blog/zodiac-leo/) — The next sign
+-   [Comprehensive Guide to Zodiac Crystals](/blog/zodiac-powerstones-guide/) — Comparison and Quick Reference for all 12 Zodiac Signs
+-   [Gemini Crystals](/blog/zodiac-gemini/) — The preceding sign
+-   [Leo Crystals](/blog/zodiac-leo/) — The next sign
 -   [Moonstone Meaning, Stone Language, and Effects](/blog/moonstone/) — Detailed explanation of the main stone
--   [Lunar Phases and Power Stones](/blog/moon-phases-and-stones/) — Utilizing lunar rhythms
+-   [Lunar Phases and Crystals](/blog/moon-phases-and-stones/) — Utilizing lunar rhythms
 
 ## Summary
 

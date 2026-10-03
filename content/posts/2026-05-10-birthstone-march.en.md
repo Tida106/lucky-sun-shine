@@ -79,7 +79,7 @@ Bloodstone, on the other hand, is said to symbolize **courage, physical stamina,
 | Salt | Use with Caution |
 | Direct Sunlight | Use with Caution (prolonged exposure may cause fading) |
 
-Because Aquamarine is deeply connected to water, **fresh running water is a wonderful cleansing method**. It is great for a gentle rinse after a long day. For an in-depth look at crystal maintenance, check out our [Complete Guide to Power Stone Cleansing and Care](/blog/purification-complete-guide/).
+Because Aquamarine is deeply connected to water, **fresh running water is a wonderful cleansing method**. It is great for a gentle rinse after a long day. For an in-depth look at crystal maintenance, check out our [Complete Guide to Crystal Cleansing and Care](/blog/purification-complete-guide/).
 
 ## A Perfect Choice for Birthday Gifts
 

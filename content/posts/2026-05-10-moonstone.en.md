@@ -59,7 +59,7 @@ In ancient India, it was revered as the **incarnation of Chandra, the Hindu moon
 
 ## <span id="benefits"></span>Effects Attributed to Moonstone
 
-> **Note**: The "effects" of power stones are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Intuition and Sixth Sense** — Corresponds to the Sixth Chakra, helping you become more aware of your inner voice
 - **Balancing Femininity** — A symbol that aligns with hormones and the lunar cycle
@@ -113,7 +113,7 @@ A. Culturally, it has been cherished since ancient times as an "**amulet stone f
 
 **Q5. Are there other stones for intuition?**
 
-A. Labradorite, Amethyst, Lapis Lazuli, and Sugilite are classic choices. For more details, refer to the sections for Cancer and Pisces in the [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/).
+A. Labradorite, Amethyst, Lapis Lazuli, and Sugilite are classic choices. For more details, refer to the sections for Cancer and Pisces in the [Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/).
 
 ## <span id="postscript"></span>Postscript
 
@@ -157,9 +157,9 @@ On a New Moon night, try writing down your "current wishes" in your favorite not
 
 -   [Labradorite Meaning and Effects](/blog/labradorite/) — Intuition's partner stone
 -   [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — Combination for femininity and love
--   [Moon Phases and Power Stone Utilization](/blog/moon-phases-and-stones/) — New Moon and Full Moon cleansing rituals
+-   [Moon Phases and Crystal Utilization](/blog/moon-phases-and-stones/) — New Moon and Full Moon cleansing rituals
 -   [Comprehensive Birthstone Guide](/blog/birthstone-guide/) — Representative birthstone for June
--   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Primary stone for Cancer and Pisces
+-   [Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Primary stone for Cancer and Pisces
 
 ## Summary
 

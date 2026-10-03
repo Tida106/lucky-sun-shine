@@ -1,5 +1,5 @@
 ---
-title: "For Sensitive Souls: 3 Gentle Power Stones to Protect You from Crowd Fatigue (If You Dislike Black Stones)"
+title: "For Sensitive Souls: 3 Gentle Crystals to Protect You from Crowd Fatigue (If You Dislike Black Stones)"
 description: "Do you feel utterly drained after being in crowds? Do you dislike protective stones because they are black and heavy? This is for sensitive souls like you! We introduce barrier stones like Oise-ishi, Prehnite, and Amber, which are light in appearance and gently protect you."
 date: "2026-08-31"
 category: "powerstones"
@@ -50,7 +50,7 @@ If you're about to hear negative complaints at work, touch your Prehnite and use
 
 ## 3. Surprising Lightness and Warmth: The Sunny Haven Amber Delivers
 
-Do you want to wear power stones but find your arm feels heavy and gets tired? Do you dislike the chilling cold when you put a stone on in winter? For such HSP women with sensory sensitivities, the ultimate gentle companion is **Amber**.
+Do you want to wear crystals but find your arm feels heavy and gets tired? Do you dislike the chilling cold when you put a stone on in winter? For such HSP women with sensory sensitivities, the ultimate gentle companion is **Amber**.
 
 Unlike hard minerals found underground, Amber is an "organic gemstone," formed from fossilized tree resin from tens of millions of years ago. It possesses remarkable physical characteristics that set it apart from other stones. First, it boasts **incredible lightness** (specific gravity of approximately 1.08), light enough to float in saltwater, and weighing less than half of typical quartz. Furthermore, being resinous, its thermal conductivity is very low, so it doesn't have that "chilling" coldness when touched. Instead, it reflects your body heat, returning a gentle, skin-like warmth.
 
@@ -69,5 +69,5 @@ Each of the three stones we introduced will gently accompany you in different wa
 *   If you want to "tidy up your mind" without being swayed by others' emotions, **Prehnite** can be an anchor for self-and-other boundaries.
 *   If you want to embrace sensory sensitivities and "transform negatives into the warmth of the sun," **Amber** is so light you'll forget you're wearing it.
 
-The best secret to choosing a power stone is to trust your intuition and the **"comfort you feel when you touch it."** Even without fighting, an amulet that gently embraces and protects you is always close by, my dear.
+The best secret to choosing a crystal is to trust your intuition and the **"comfort you feel when you touch it."** Even without fighting, an amulet that gently embraces and protects you is always close by, my dear.
 ---

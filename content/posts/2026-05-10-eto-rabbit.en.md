@@ -1,6 +1,6 @@
 ---
-title: "Recommended Power Stones for Those Born in the Year of the Rabbit | Zodiac and Stone Compatibility"
-description: "Discover the perfect power stone for those born in the Year of the Rabbit! This guide explores the gentle, optimistic nature of Rabbit-born individuals and their deep connection to rose quartz, often associated with the moon. Learn about stones that enhance love and harmony, how to make the most of your lucky zodiac year, and even sacred sites linked to moon worship. It's your complete guide to choosing a powerful amulet for this once-in-12-year milestone!"
+title: "Recommended Crystals for Those Born in the Year of the Rabbit | Zodiac and Stone Compatibility"
+description: "Discover the perfect crystal for those born in the Year of the Rabbit! This guide explores the gentle, optimistic nature of Rabbit-born individuals and their deep connection to rose quartz, often associated with the moon. Learn about stones that enhance love and harmony, how to make the most of your lucky zodiac year, and even sacred sites linked to moon worship. It's your complete guide to choosing a powerful amulet for this once-in-12-year milestone!"
 date: "2026-05-10"
 updated: "2026-05-23"
 category: "powerstones"
@@ -35,7 +35,7 @@ Among the twelve zodiac signs, the Rabbit carries the "Wood" element, governing 
 
 Rose Quartz has been known since ancient times as the "stone of love" and the "stone of beauty." In Greek mythology, it's associated with Aphrodite, symbolizing love and harmony. In Japan, it's cherished as a representative stone for matchmaking and improving interpersonal luck, believed to fill people with a quiet energy, much like the light of the moon.
 
-> **Please Note**: The "effects" of power stones are based on cultural and symbolic meanings. They do not guarantee medical or scientific efficacy.
+> **Please Note**: The "effects" of crystals are based on cultural and symbolic meanings. They do not guarantee medical or scientific efficacy.
 
 What deeply resonates with Rabbit-born individuals is Rose Quartz's sensitivity towards "**gentleness for oneself and others**." It's often said that while Rabbit-born individuals possess kindness for others, they tend to put their own well-being last. Rose Quartz, as a symbol of "**love that first fulfills oneself**," is believed to help balance the Rabbit's tendency towards self-sacrifice.
 
@@ -83,10 +83,10 @@ I once gave a rose quartz to a Rabbit-born friend, and they later told me, "I fe
 
 ## Related Articles You Might Enjoy
 
--   [Complete Zodiac Power Stone Guide](/blog/eto-powerstones-guide/) — Comparisons and Quick Reference for all Twelve Zodiac Signs
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+-   [Complete Zodiac Crystal Guide](/blog/eto-powerstones-guide/) — Comparisons and Quick Reference for all Twelve Zodiac Signs
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 -   [Rose Quartz Meaning and Effects | The Stone of Love and Connection](/blog/rose-quartz-meaning/)
--   [Power Stone Guide by 12 Zodiac Constellations](/blog/zodiac-powerstones-guide/)
+-   [Crystal Guide by 12 Zodiac Constellations](/blog/zodiac-powerstones-guide/)
 -   [Moonstone Meaning and Effects](/blog/moonstone/)
 
 ## Summary

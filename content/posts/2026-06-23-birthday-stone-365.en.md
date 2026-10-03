@@ -673,7 +673,7 @@ A. Giving someone the stone for their birthday makes for a wonderful surprise. F
 
 **Q5. How much should I believe in the effects of daily birthstones?**
 
-A. The effects of power stones are not scientifically guaranteed. It's considered a healthy approach to enjoy them simply as **a charm or symbol for your wishes**.
+A. The effects of crystals are not scientifically guaranteed. It's considered a healthy approach to enjoy them simply as **a charm or symbol for your wishes**.
 
 ---
 
@@ -702,7 +702,7 @@ If a loved one's birthday is coming up, gifting them the stone for that day is s
 - [November Birthstone Guide](/blog/birthstone-november/) — The brilliance of Topaz
 - [December Birthstone Guide](/blog/birthstone-december/) — Turquoise and Tanzanite
 - [Guide to Gifting Stones for Birthdays](/blog/birthday-gift-stones/) — For a gift to someone special
-- [Powerstone Beginner's Guide](/blog/powerstone-beginner-guide/) — For your first stone selection
+- [Crystal Beginner's Guide](/blog/powerstone-beginner-guide/) — For your first stone selection
 
 ## Summary
 

@@ -11,7 +11,7 @@ author: "Sun-chan"
 
 ## Introduction
 
-"I want to find a good partner," "I want my current love to blossom," "I want to have a long and harmonious marriage"—seeking good relationships (enmusubi) has historically been one of the most common prayers at Shinto shrines. In this article, we've compiled a comparison of **famous shrines nationwide known for matchmaking and relationship success**, linking them to our site's individual guide articles, all on one page. Discover the perfect shrine for you in the shortest time, considering each shrine's **enshrined deity, the origins of its relationship blessings, and its highlights**. For the basics of shrine worship, please refer to our [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/). For power stones as amulets, also see [Power Stones for Love Luck](/blog/love-luck-stones/).
+"I want to find a good partner," "I want my current love to blossom," "I want to have a long and harmonious marriage"—seeking good relationships (enmusubi) has historically been one of the most common prayers at Shinto shrines. In this article, we've compiled a comparison of **famous shrines nationwide known for matchmaking and relationship success**, linking them to our site's individual guide articles, all on one page. Discover the perfect shrine for you in the shortest time, considering each shrine's **enshrined deity, the origins of its relationship blessings, and its highlights**. For the basics of shrine worship, please refer to our [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/). For crystals as amulets, also see [Crystals for Love Luck](/blog/love-luck-stones/).
 
 ## Enmusubi and Shrines
 
@@ -44,7 +44,7 @@ The main enshrined deity, **Okuninushi-no-Okami**, is the protagonist of the Jap
 - **Worship Feature**: The prayer ritual is **two bows, four claps, one bow** (different from general shrines).
 - **Seasonal Festival**: Kamiari Festival (10th lunar month) — Legend of the matchmaking conference where deities from across Japan gather.
 
-→ [Izumo Taisha Worship Guide: The Sacred Site of Matchmaking, Shimane's Worship Techniques, and Power Stone Compatibility](/blog/izumo-taisha/)
+→ [Izumo Taisha Worship Guide: The Sacred Site of Matchmaking, Shimane's Worship Techniques, and Crystal Compatibility](/blog/izumo-taisha/)
 
 ## <span id="meiji"></span>Meiji Jingu (Tokyo)—The Married Couple Camphor Trees in the City Center
 
@@ -152,17 +152,17 @@ A. It's a wonderful opportunity to express **"gratitude for past connections" an
 
 A. **Clean, everyday clothes** are perfectly fine. There's no need to be overly formal, and some people choose **soft colors like pink or white.** Avoid excessive exposure; the basic rule is to wear **"something you wouldn't be ashamed to wear before the deities."**
 
-**Q5. Is it okay to bring power stones when visiting a shrine?**
+**Q5. Is it okay to bring crystals when visiting a shrine?**
 
-A. Yes. Many people bring relationship-boosting stones like **Rose Quartz** and **Morganite.** Common practices include holding them in your palm before passing through the torii gate, or placing them near your omamori (amulets) after worship. For more details, refer to [Power Stones for Love Luck](/blog/love-luck-stones/).
+A. Yes. Many people bring relationship-boosting stones like **Rose Quartz** and **Morganite.** Common practices include holding them in your palm before passing through the torii gate, or placing them near your omamori (amulets) after worship. For more details, refer to [Crystals for Love Luck](/blog/love-luck-stones/).
 
 ## Related Articles You Might Like
 
 - [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/) — Basics of Etiquette and Manners
-- [Power Stones for Love Luck](/blog/love-luck-stones/) — Rose Quartz and other relationship-boosting stones
-- [Power Stones for Marriage Luck](/blog/marriage-luck-stones/) — Morganite and other stones for marriage
-- [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison across 10 categories
-- [Power Stones and Feng Shui Basics](/blog/fengshui-powerstone-basics/) — How to Arrange Stones and Spaces
+- [Crystals for Love Luck](/blog/love-luck-stones/) — Rose Quartz and other relationship-boosting stones
+- [Crystals for Marriage Luck](/blog/marriage-luck-stones/) — Morganite and other stones for marriage
+- [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison across 10 categories
+- [Crystals and Feng Shui Basics](/blog/fengshui-powerstone-basics/) — How to Arrange Stones and Spaces
 
 ## Our Editorial Team's View: The Real Reason "Shrine Hopping" Can Weaken Connections
 
@@ -214,6 +214,6 @@ If you can walk home after your visit feeling just a little lighter than when yo
 - Seven representative matchmaking shrines nationwide include **Izumo Taisha, Meiji Jingu, Enoshima Jinja, Aso Jinja, Omiwa Jinja, Itsukushima Jinja, and Togakushi Jinja.**
 - The basics of worship are **"gratitude and determination" rather than "wishing,"** and it's said that visiting multiple times deepens connections.
 - **Return amulets after about a year**, and don't forget to make a thank-you visit.
-- Combining shrine visits with [power stones](/blog/love-luck-stones/) for love luck can create everyday protection.
+- Combining shrine visits with [crystals](/blog/love-luck-stones/) for love luck can create everyday protection.
 
 New connections, ongoing connections, future connections. **"Good encounters" begin with you taking the initiative.** From this page, take a step towards a shrine that piques your interest.

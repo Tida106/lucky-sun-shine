@@ -11,7 +11,7 @@ draft: false
 
 ## Introduction
 
-Tiger's Eye is a glittering gold-brown power stone characterized by its **chatoyancy (cat's eye effect)**, where its stripes shift with the angle of light. From ancient Roman soldiers who carried it into battle to modern business professionals who hold it before negotiations and important decisions, it has been cherished across eras as an amulet for "decision-making and competition."
+Tiger's Eye is a glittering gold-brown crystal characterized by its **chatoyancy (cat's eye effect)**, where its stripes shift with the angle of light. From ancient Roman soldiers who carried it into battle to modern business professionals who hold it before negotiations and important decisions, it has been cherished across eras as an amulet for "decision-making and competition."
 
 This article compiles **mineral data, historical background, traditional effects, FAQs, and an editor's note** all on one page.
 
@@ -61,7 +61,7 @@ Since modern times, it has been discussed in the context of **financial and care
 
 ## <span id="benefits"></span>Traditional Effects
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Insight** — Said to distinguish essence from illusion.
 - **Decisiveness** — Said to cut through doubt and foster resolve.
@@ -156,8 +156,8 @@ On days when you're scared to decide, hold your Tiger's Eye tight and take three
 - [Citrine Meaning and Effects](/blog/citrine/) — The ultimate financial luck pair
 - [Clear Quartz Meaning and Effects](/blog/clear-quartz/) — The versatile stone for clear thinking
 - [Lapis Lazuli Meaning and Effects](/blog/lapis-lazuli/) — The companion stone for discerning truth
-- [Comprehensive Power Stone Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Career and Financial Luck chapter
-- [Comprehensive Power Stone Guide by Zodiac Sign](/blog/zodiac-powerstones-guide/) — The main stone for Leo
+- [Comprehensive Crystal Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Career and Financial Luck chapter
+- [Comprehensive Crystal Guide by Zodiac Sign](/blog/zodiac-powerstones-guide/) — The main stone for Leo
 
 ## Summary
 

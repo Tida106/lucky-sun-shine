@@ -1,7 +1,7 @@
 ---
 title: "Tamaki Shrine Pilgrimage Guide | Kumano Sanzan's Inner Sanctuary, a 1,076m Sacred Site 'Only the Called Can Reach'"
 description: >-
-  A comprehensive guide to Tamaki Shrine (Totsukawa Village, Nara Prefecture), delving into its history, the deity Kuninotokotachi-no-Mikoto, its revered status as the inner sanctuary of Kumano Sanzan, the majestic 3,000-year-old Jindai Sugi cedar, the ancient Iwakura of Tamaishi-sha, the intriguing legend of 'the Called Shrine,' essential pilgrimage points, access information, recommended power stones, nearby attractions, and a detailed FAQ section.
+  A comprehensive guide to Tamaki Shrine (Totsukawa Village, Nara Prefecture), delving into its history, the deity Kuninotokotachi-no-Mikoto, its revered status as the inner sanctuary of Kumano Sanzan, the majestic 3,000-year-old Jindai Sugi cedar, the ancient Iwakura of Tamaishi-sha, the intriguing legend of 'the Called Shrine,' essential pilgrimage points, access information, recommended crystals, nearby attractions, and a detailed FAQ section.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -28,7 +28,7 @@ Tamaki Shrine is an ancient shrine nestled near the summit of Mount Tamaki, at a
 - [Tamaishi-sha (Iwakura at Mount Tamaki's Summit)](#tamaishi)
 - [Pilgrimage Tips](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots You'll Want to Visit](#nearby)
 - [Best Seasons and Times to Visit](#season)
 - [Basic Pilgrimage Manners](#manner)
@@ -114,9 +114,9 @@ Let's talk about how to get to this special place!
 
 **Parking**: There's a shrine parking lot available (free, approx. 50 spaces). It's closed in winter. **From the parking lot to the main shrine, it's a 15- to 20-minute walk.**
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
-Want to deepen your spiritual connection at Tamaki Shrine? Here are some power stones that are said to resonate beautifully with the sacred energy of the shrine!
+Want to deepen your spiritual connection at Tamaki Shrine? Here are some crystals that are said to resonate beautifully with the sacred energy of the shrine!
 
 | Stone | Reason for Compatibility |
 |---|---|

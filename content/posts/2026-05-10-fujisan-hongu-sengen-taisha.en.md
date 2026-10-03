@@ -1,6 +1,6 @@
 ---
 title: "Fujisan Hongu Sengen Taisha Shrine Pilgrimage Guide | Head Shrine of All Sengen Shrines, with Mount Fuji as its Sacred Deity"
-description: "A comprehensive guide to Fujisan Hongu Sengen Taisha Shrine (1-1 Miyamae-cho, Fujinomiya City, Shizuoka Prefecture), covering its history, benefits, the legend of Konohanasakuyahime no Mikoto, Wakutama Pond, the Okumiya (Inner Shrine) at the summit, key points for worship, recommended power stones, and nearby attractions. This is your essential resource for visiting the heart of Mount Fuji's World Heritage worship."
+description: "A comprehensive guide to Fujisan Hongu Sengen Taisha Shrine (1-1 Miyamae-cho, Fujinomiya City, Shizuoka Prefecture), covering its history, benefits, the legend of Konohanasakuyahime no Mikoto, Wakutama Pond, the Okumiya (Inner Shrine) at the summit, key points for worship, recommended crystals, and nearby attractions. This is your essential resource for visiting the heart of Mount Fuji's World Heritage worship."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -22,7 +22,7 @@ Fujisan Hongu Sengen Taisha Shrine is the **head shrine of approximately 1,300 S
 - [About the Mount Fuji Summit Okumiya (Inner Shrine)](#okumiya)
 - [Misogi (Purification Ritual) at Wakutama Pond](#wakutama)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots You'll Want to Visit](#nearby)
 - [Basic Shrine Etiquette](#manner)
 - [Frequently Asked Questions (FAQ)](#faq)
@@ -92,9 +92,9 @@ Approximately a 10-minute walk from **Fujinomiya Station** on the JR Minobu Line
 
 **Parking**: Available (150 spaces, first 30 minutes free).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
-Here are some power stones that are believed to resonate well with the sacred energy of Fujisan Hongu Sengen Taisha Shrine when you bring them for your visit.
+Here are some crystals that are believed to resonate well with the sacred energy of Fujisan Hongu Sengen Taisha Shrine when you bring them for your visit.
 
 | Stone | Reason for Compatibility |
 |---|---|
@@ -152,7 +152,7 @@ For me, Sun-chan, Sengen Taisha Shrine is a place where you can **"worship Mount
 - [Meiji Jingu Shrine Pilgrimage Guide](/blog/meiji-jingu/) — Tokyo's Serene Forest of the Gods
 - [Meaning and Effects of Moonstone](/blog/moonstone/) — An Amulet for Safe Childbirth and Feminine Power
 - [Meaning and Effects of Aquamarine](/blog/aquamarine/) — A Stone that Resonates with Spring Water
-- [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the chapter on marriage and romantic luck
+- [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the chapter on marriage and romantic luck
 
 ## Summary
 

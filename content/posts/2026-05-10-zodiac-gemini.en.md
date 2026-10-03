@@ -1,7 +1,7 @@
 ---
-title: "Gemini Zodiac Gemstones and Power Stones: Personality, Fortune, and a Guide Centered on Citrine"
+title: "Gemini Zodiac Gemstones and Crystals: Personality, Fortune, and a Guide Centered on Citrine"
 description: >-
-  This comprehensive guide delves into recommended power stones that support the personality and fortune of Geminis (May 21 – June 21). It covers everything, from the guardian stone Citrine to complementary stones like Aquamarine, Agate, and Tiger's Eye, lucky colors, good luck actions, how to wear them, and frequently asked questions.
+  This comprehensive guide delves into recommended crystals that support the personality and fortune of Geminis (May 21 – June 21). It covers everything, from the guardian stone Citrine to complementary stones like Aquamarine, Agate, and Tiger's Eye, lucky colors, good luck actions, how to wear them, and frequently asked questions.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -14,7 +14,7 @@ draft: false
 
 ## Introduction
 
-Welcome, dear readers! Gemini, the sign of the Twins, falls between **May 21 and June 21**, and is an **Air element** sign. Its ruling planet is **Mercury**, symbolizing **"intellect, communication, and curiosity."** Among the 12 zodiac signs, Gemini is most deeply connected to **words and information**, possessing a light and versatile nature. In this article, Sun-chan will guide you through power stones that align with the Gemini personality and fortune. We'll **center our focus on Citrine as the guardian stone**, and also cover complementary stones, lucky colors, good luck actions, and even some FAQs, all compiled into one convenient page!
+Welcome, dear readers! Gemini, the sign of the Twins, falls between **May 21 and June 21**, and is an **Air element** sign. Its ruling planet is **Mercury**, symbolizing **"intellect, communication, and curiosity."** Among the 12 zodiac signs, Gemini is most deeply connected to **words and information**, possessing a light and versatile nature. In this article, Sun-chan will guide you through crystals that align with the Gemini personality and fortune. We'll **center our focus on Citrine as the guardian stone**, and also cover complementary stones, lucky colors, good luck actions, and even some FAQs, all compiled into one convenient page!
 
 ## Gemini's Basic Personality
 
@@ -31,9 +31,9 @@ Geminis are known for their **"duality and versatility."** Their strengths inclu
 **Strengths**: Curious, quick-witted, eloquent, flexible, versatile
 **Weaknesses (or their flip side)**: Prone to boredom, broad but shallow interests, moody, indecisive when faced with choices
 
-> **Please Note**: The effects of zodiac signs and power stones are based on cultural and symbolic meanings. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects of zodiac signs and crystals are based on cultural and symbolic meanings. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Gemini
+## Recommended Crystals for Gemini
 
 Stones with a transparent quality, ranging from **yellow to light blue**, deeply resonate with Gemini's themes of **"words, information, intellect, and lightness."**
 
@@ -88,7 +88,7 @@ Recommended solutions for common Gemini challenges and how to use the correspond
 | Citrine and Agate | Transforms broad connections into deep relationships |
 | Citrine and [Clear Quartz](/blog/clear-quartz/) | Energy amplification and purification |
 
-For the basics of combinations, refer to [The Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, refer to [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Good Luck Actions
 
@@ -137,9 +137,9 @@ A. Generally, fellow Air signs **Libra and Aquarius**, along with Fire signs **A
 
 ## Related Articles You Might Like
 
--   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and Quick Reference for All 12 Zodiac Signs
--   [Taurus Power Stones](/blog/zodiac-taurus/) — The preceding sign
--   [Cancer Power Stones](/blog/zodiac-cancer/) — The next sign
+-   [Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/) — Comparison and Quick Reference for All 12 Zodiac Signs
+-   [Taurus Crystals](/blog/zodiac-taurus/) — The preceding sign
+-   [Cancer Crystals](/blog/zodiac-cancer/) — The next sign
 -   [Citrine (Yellow Quartz) Meaning, Stone Words, and Effects](/blog/citrine/) — Detailed explanation of the main stone
 -   [June Birthstones | Moonstone, Pearl, Alexandrite](/blog/birthstone-june/) — For Geminis born in June
 

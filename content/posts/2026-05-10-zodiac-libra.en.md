@@ -1,7 +1,7 @@
 ---
-title: "Libra's Zodiac and Power Stones: Personality, Fortune, and a Rose Quartz-Focused Selection Guide"
+title: "Libra's Zodiac and Crystals: Personality, Fortune, and a Rose Quartz-Focused Selection Guide"
 description: >-
-  A comprehensive guide to recommended power stones that support the personality
+  A comprehensive guide to recommended crystals that support the personality
   and fortune of Libra (Sep 23 - Oct 23). Centered around the guardian stone
   Rose Quartz, this article also covers compatible stones like Ametrine, Opal,
   and Aquamarine, lucky colors, actions for good fortune, how to wear the
@@ -18,7 +18,7 @@ draft: false
 
 ## Introduction
 
-Hey there! Libra is a **Wind element** zodiac sign, with the Sun passing through it from **September 23rd to October 23rd**. Its ruling planet is **Venus**, symbolizing **"harmony, aesthetic sense, and balance."** Libras are known for having the best **aesthetic sense** and **fairness** among the 12 zodiac signs, possessing a talent for **creating harmony** between people. In this article, Sun-chan will bring you a one-stop guide to power stones that perfectly suit Libra's personality and fortune, **focusing on the guardian stone Rose Quartz**, and covering compatible stones, lucky colors, actions for good fortune, and even an FAQ!
+Hey there! Libra is a **Wind element** zodiac sign, with the Sun passing through it from **September 23rd to October 23rd**. Its ruling planet is **Venus**, symbolizing **"harmony, aesthetic sense, and balance."** Libras are known for having the best **aesthetic sense** and **fairness** among the 12 zodiac signs, possessing a talent for **creating harmony** between people. In this article, Sun-chan will bring you a one-stop guide to crystals that perfectly suit Libra's personality and fortune, **focusing on the guardian stone Rose Quartz**, and covering compatible stones, lucky colors, actions for good fortune, and even an FAQ!
 
 ## Libra's Basic Personality
 
@@ -35,9 +35,9 @@ Libras are known as the sign of **"beauty and fairness."** They have an innate t
 **Strengths**: Aesthetic sense, fairness, sociability, elegance, ability to create harmony by avoiding conflict
 **Weaknesses (the flip side)**: Indecisiveness, people-pleasing, fear of confrontation, difficulty expressing one's own opinions
 
-> **Please Note**: The effects of zodiac signs and power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects of zodiac signs and crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Libra
+## Recommended Crystals for Libra
 
 Stones that deeply resonate with Libra's themes of **"harmony, beauty, and balance"** are those with **pink, pastel, and dualistic qualities.**
 
@@ -92,7 +92,7 @@ Here are some common challenges Libras face and how to use the corresponding sto
 | Rose Quartz and Opal              | Aesthetic Sense and Creativity         |
 | Rose Quartz and [Clear Quartz](/blog/clear-quartz/) | Energy Amplification and Purification  |
 
-For the basics of combinations, refer to [The Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, refer to [The Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## Lucky Colors and Actions for Good Fortune
 
@@ -141,9 +141,9 @@ A. Generally, fellow Air signs like **Gemini and Aquarius**, and Fire signs like
 
 ## You might also like these related articles:
 
--   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/)  EA comparison and quick reference for all 12 zodiac signs.
--   [Virgo Power Stones](/blog/zodiac-virgo/)  EThe previous sign.
--   [Scorpio Power Stones](/blog/zodiac-scorpio/)  EThe next sign.
+-   [Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/)  EA comparison and quick reference for all 12 zodiac signs.
+-   [Virgo Crystals](/blog/zodiac-virgo/)  EThe previous sign.
+-   [Scorpio Crystals](/blog/zodiac-scorpio/)  EThe next sign.
 -   [The Meaning, Stone Language, and Effects of Rose Quartz](/blog/rose-quartz-meaning/)  EDetailed explanation of the main stone.
 -   [October Birthstones: Opal and Rose Quartz](/blog/birthstone-october/)  EFor Libras born in October.
 

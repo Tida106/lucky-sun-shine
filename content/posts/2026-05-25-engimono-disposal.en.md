@@ -4,7 +4,7 @@ description: "A comprehensive guide to disposing of old omamori (charms), ofuda 
 date: "2026-05-25"
 updated: "2026-05-25"
 category: "lucky-goods"
-tags: ["power stones", "Otakiage (burning ritual)", "engimono (lucky charms)", "omamori (charms)", "Dondo-yaki (fire festival)"]
+tags: ["crystals", "Otakiage (burning ritual)", "engimono (lucky charms)", "omamori (charms)", "Dondo-yaki (fire festival)"]
 draft: false
 ---
 
@@ -169,7 +169,7 @@ Omamori received from temples (Buddhism) should **preferably be returned to a te
 | **Shimenawa (Sacred Ropes) / New Year's Decorations** | Dondo-yaki (optimal) | Shrine Kofuda Osamesho | At-home purification |
 | **Hamaya (Evil-Dispelling Arrows)** | To Kofuda Osamesho during next year's Hatsumode (first shrine visit) | Nearby shrine | At-home purification |
 | **Old Wallets** | Otakiage service | Wallet memorial service (some shrines) | At-home purification |
-| **Old Power Stones** | Return to earth (potted plant, garden) | Shrine Kofuda Osamesho (consult in advance) | At-home purification |
+| **Old Crystals** | Return to earth (potted plant, garden) | Shrine Kofuda Osamesho (consult in advance) | At-home purification |
 
 ## Frequently Asked Questions (FAQ)
 
@@ -243,4 +243,4 @@ Just doing this transforms disposal from **"taking out the trash" to a "ritual."
 -   [Complete Guide to Choosing Lucky Charms](/blog/lucky-items-guide/) — Comprehensive guide to all types of lucky charms
 -   [Complete Guide to Basic Shrine Visits](/blog/shrine-visit-basics/) — Shrine visit etiquette when returning charms
 -   [How to Choose a Wallet for Better Financial Luck](/blog/money-luck-wallet/) — Includes purification for old wallets
--   [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/) — Rituals for letting go of stones
+-   [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/) — Rituals for letting go of stones

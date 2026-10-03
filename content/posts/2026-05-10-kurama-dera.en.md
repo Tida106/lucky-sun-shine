@@ -1,7 +1,7 @@
 ---
 title: "Kurama-dera Temple Visiting Guide | Sonten Faith and Kyoto's Most Powerful Spiritual Spot Associated with Ushiwakamaru"
 description: >-
-  A comprehensive guide to Kurama-dera Temple (Sakyo-ku, Kyoto Prefecture), covering its history, Sonten (Senju Kannon, Bishamonten, and Goho Maoson) faith, the Kongo-sho in front of the main hall, the Tree Root Path, Okunoin Maoden, the legend of Ushiwakamaru (Minamoto no Yoshitsune), the traverse route to Kifune Shrine, key visiting points, access, recommended power stones, and FAQs.
+  A comprehensive guide to Kurama-dera Temple (Sakyo-ku, Kyoto Prefecture), covering its history, Sonten (Senju Kannon, Bishamonten, and Goho Maoson) faith, the Kongo-sho in front of the main hall, the Tree Root Path, Okunoin Maoden, the legend of Ushiwakamaru (Minamoto no Yoshitsune), the traverse route to Kifune Shrine, key visiting points, access, recommended crystals, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -27,7 +27,7 @@ Kurama-dera Temple is an ancient temple nestled on **Mount Kurama** (elevation 5
 - [Okunoin Maoden (Inner Sanctuary and Demon King's Hall)](#okunoin)
 - [Visiting Tips](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots You'll Want to Visit](#nearby)
 - [Best Time to Visit](#season)
 - [Basic Visiting Manners](#manner)
@@ -112,7 +112,7 @@ By Cable Car: From Niomon Gate, take the **Kurama-dera Cable Car** to Tahoto Sta
 
 **Parking**: There's very little parking available, so using the Eizan Electric Railway is highly recommended.
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones said to resonate well with the sacred energy of Kurama-dera Temple if you bring them for your visit.
 

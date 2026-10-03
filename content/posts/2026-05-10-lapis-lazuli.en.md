@@ -1,6 +1,6 @@
 ---
 title: "Lapis Lazuli: Meaning, Lore, and Effects | The 'Sky-Embodying Stone' Loved Since Ancient Egypt"
-description: "A comprehensive guide to Lapis Lazuli's lore, history, traditional effects, how to use it at life's turning points, suitable combinations, mineralogical characteristics, and frequently asked questions. This is your definitive guide to incorporating the world's oldest power stone, cherished even by Tutankhamun, into your daily life."
+description: "A comprehensive guide to Lapis Lazuli's lore, history, traditional effects, how to use it at life's turning points, suitable combinations, mineralogical characteristics, and frequently asked questions. This is your definitive guide to incorporating the world's oldest crystal, cherished even by Tutankhamun, into your daily life."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerstones"
@@ -11,7 +11,7 @@ draft: false
 
 ## Introduction
 
-Lapis Lazuli is one of the **world's oldest** power stones. Traces of its use as an adornment have been found in Mesopotamian ruins dating back to around 7000 BCE. In ancient Egypt, it was highly prized as the "**stone of the heavens**," and Lapis Lazuli was intricately inlaid around the eyes and collar of Tutankhamun's golden mask.
+Lapis Lazuli is one of the **world's oldest** crystals. Traces of its use as an adornment have been found in Mesopotamian ruins dating back to around 7000 BCE. In ancient Egypt, it was highly prized as the "**stone of the heavens**," and Lapis Lazuli was intricately inlaid around the eyes and collar of Tutankhamun's golden mask.
 
 Even in the world of painting, the blue in Vermeer's Renaissance masterpiece, **"Girl with a Turban,"** comes from 'ultramarine' pigment, made by crushing Lapis Lazuli. At the time, it was more expensive than gold, making it an indispensable stone in cultural history.
 
@@ -67,7 +67,7 @@ In Japan, it arrived with the spread of Buddhism under the name "**Ruri**" and b
 
 ## <span id="benefits"></span>Attributed Effects and Properties
 
-> **Note**: The 'effects' of power stones are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The 'effects' of crystals are cultural and symbolic. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Truth-Seeking Power** — Said to help you confront your true self.
 - **Strong Fortune and Good Luck** — Believed to help pave your way at life's turning points.
@@ -202,13 +202,13 @@ Don't be scared if trials come. That's just proof that you've finally started mo
 
 -   [Clear Quartz: Meaning and Effects](/blog/clear-quartz/) — The versatile stone that amplifies truth-seeking insights
 -   [Amethyst: Meaning and Effects](/blog/amethyst/) — A partner for intuition and spirituality
--   [Comprehensive Guide to Power Stones by Zodiac Sign](/blog/zodiac-powerstones-guide/) — An affinity stone for Sagittarius, and a September birthstone
--   [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured for career, study, and relationship luck
+-   [Comprehensive Guide to Crystals by Zodiac Sign](/blog/zodiac-powerstones-guide/) — An affinity stone for Sagittarius, and a September birthstone
+-   [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured for career, study, and relationship luck
 -   [Comprehensive Guide to 12-Month Birthstones](/blog/birthstone-guide/) — A September alternative birthstone
 
 ## Summary
 
--   Lapis Lazuli is one of the world's oldest power stones, symbolizing "**truth, wisdom, and good fortune**."
+-   Lapis Lazuli is one of the world's oldest crystals, symbolizing "**truth, wisdom, and good fortune**."
 -   A historical stone cherished by humanity for over 6,000 years, from ancient Egypt to the present day.
 -   It offers strong support when held during life's turning points, transitions, or before important decisions.
 -   **Water, salt, and direct sunlight are strictly forbidden**, and there are many dyed fakes, so be cautious when purchasing.

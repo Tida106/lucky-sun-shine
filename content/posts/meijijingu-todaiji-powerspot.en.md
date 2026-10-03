@@ -5,7 +5,7 @@ category: "powerspots"
 excerpt: "Meiji Jingu and Todaiji. These two universally known sacred sites in Japan are actually miraculous spaces created by the immense 'prayers' and 'love' of the people. We introduce their secrets."
 ---
 
-Hello everyone! Welcome to "Lucky Sun Shine," the comprehensive media for power stones and good luck ☀️✨
+Hello everyone! Welcome to "Lucky Sun Shine," the comprehensive media for crystals and good luck ☀️✨
 Thank you so much for your hard work every day with your job and chores. Do you ever suddenly feel, "My heart is a little tired lately," or "I want to charge my energy and boost my luck"? 💖
 
 For those of you feeling that way, there is a secret we definitely want you to know. Two of Japan's major power spots that we casually visit—**Meiji Jingu and Todaiji**. Actually, these two places are not just historical buildings; they were the ultimate healing projects created by the convergence of the "prayers for happiness" and "warm passion" of an incredible number of people! 🌿✨

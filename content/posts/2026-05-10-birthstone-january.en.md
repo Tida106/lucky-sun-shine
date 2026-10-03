@@ -28,7 +28,7 @@ So, what exactly are birthstones? The tradition of assigning specific gemstones 
 
 Garnet's gemstone lore speaks of "**fruition, victory, passion, and true love**." Its name originates from the Latin word "**granatum**," meaning pomegranate seed, inspired by its crystal structure resembling pomegranate arils. From ornaments worn by ancient Egyptian royalty to Roman soldiers' seals and Crusader amulets—it has been cherished across epochs as a "**crystal of effort and sacrifice**."
 
-> **Please Note**: The effects attributed to power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects attributed to crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
 Repeatedly named in myths and sacred texts, such as "**Garnet lanterns guiding Noah's Ark**" and "the stone of the Song of Solomon" in the Old Testament, its symbolism of **illuminating the path forward amidst adversity** has been passed down through generations to this very day. Isn't that fascinating?
 
@@ -72,7 +72,7 @@ Garnet is especially recommended for people who are:
 | Salt | △ (Avoid direct contact) |
 | Direct Sunlight | △ (Acceptable for short durations) |
 
-For more details, please refer to our [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+For more details, please refer to our [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 ## Also a Great Birthday Gift Idea
 
@@ -114,7 +114,7 @@ A. Not at all! Almost every color except blue exists, including **green (Tsavori
 
 **Q3. Which stones pair well with Garnet?**
 
-A. Classic pairings include **[Clear Quartz](/blog/clear-quartz/)** (for purification and amplification), **[Rose Quartz](/blog/rose-quartz-meaning/)** (for harmony with love), **[Citrine](/blog/citrine/)** (for boosting abundance), and **[Carnelian](/blog/carnelian/)** (for synergizing action). For more details, check out our [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+A. Classic pairings include **[Clear Quartz](/blog/clear-quartz/)** (for purification and amplification), **[Rose Quartz](/blog/rose-quartz-meaning/)** (for harmony with love), **[Citrine](/blog/citrine/)** (for boosting abundance), and **[Carnelian](/blog/carnelian/)** (for synergizing action). For more details, check out our [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 **Q4. Can I wear Garnet even if I'm not born in January?**
 
@@ -130,7 +130,7 @@ A. Yes, they definitely can! With a Mohs hardness of 6.5 to 7.5, Garnet is durab
 - [December's Birthstones: Turquoise, Tanzanite, Lapis Lazuli, and Zircon](/blog/birthstone-december/) — The stone for the previous month.
 - [February's Birthstone: Amethyst](/blog/birthstone-february/) — The stone for the next month.
 - [Garnet: Meaning, Gemstone Lore, and Effects](/blog/garnet/) — A detailed explanation of the stone itself.
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — How to find the right stone for you.
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — How to find the right stone for you.
 
 ## Summary
 

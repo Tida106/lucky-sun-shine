@@ -1,6 +1,6 @@
 ---
 title: "Kumano Hongu Taisha Shrine Pilgrimage Guide: Your Complete Guide to the Sacred Land of Rebirth at the End of the Kumano Kodo"
-description: "This comprehensive guide covers everything about Kumano Hongu Taisha Shrine (Hongu, Tanabe City, Wakayama Prefecture), including its history, blessings, key pilgrimage points, the Otorii Gate at Oyunohara, the Yatagarasu legend, the Kumano Kodo, recommended power stones, and nearby attractions. It is an essential resource for visiting the core of the 'Sacred Sites and Pilgrimage Routes in the Kii Mountain Range' World Heritage site."
+description: "This comprehensive guide covers everything about Kumano Hongu Taisha Shrine (Hongu, Tanabe City, Wakayama Prefecture), including its history, blessings, key pilgrimage points, the Otorii Gate at Oyunohara, the Yatagarasu legend, the Kumano Kodo, recommended crystals, and nearby attractions. It is an essential resource for visiting the core of the 'Sacred Sites and Pilgrimage Routes in the Kii Mountain Range' World Heritage site."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -21,7 +21,7 @@ Hello everyone! Sun-chan here! Kumano Hongu Taisha Shrine, nestled in Hongu-cho,
 - [Highlights](#highlight)
 - [Key Pilgrimage Points](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots to Visit](#nearby)
 - [Basic Shrine Etiquette](#manner)
 - [Frequently Asked Questions (FAQ)](#faq)
@@ -87,7 +87,7 @@ From JR Kii-Tanabe Station, take a Ryujin Bus or Meiko Bus for about two hours a
 
 **Parking**: Free parking is available (150 spaces).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones that are believed to resonate well with the sacred energy of Kumano Hongu Taisha Shrine, making them great companions for your pilgrimage!
 
@@ -147,7 +147,7 @@ For me, Sun-chan, Kumano Hongu Taisha is truly "the shrine where you leave your 
 - [Izumo Taisha Shrine Pilgrimage Guide](/blog/izumo-taisha/) — The Home of Matchmaking
 - [Obsidian: Meaning and Effects](/blog/obsidian/) — The Stone of Rebirth and Truth
 - [Charoite: Meaning and Effects](/blog/charoite/) — The Stone of Life's Transformation
-- [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Amulets and Rebirth Chapter
+- [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Amulets and Rebirth Chapter
 
 ## Summary
 

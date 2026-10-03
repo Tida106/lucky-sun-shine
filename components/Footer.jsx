@@ -12,7 +12,7 @@ const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
 
 // カテゴリ名の英語変換用辞書
 const categoryEnMap = {
-  'パワーストーン': 'Power Stones',
+  'パワーストーン': 'Crystals',
   'パワースポット': 'Power Spots',
   '開運グッズ': 'Lucky Items',
   '運気アップ習慣': 'Good Luck Habits',

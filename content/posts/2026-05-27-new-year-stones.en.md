@@ -1,6 +1,6 @@
 ---
-title: "New Year and Hatsumode Power Stone Guide | Choosing Stones Cherished for New Year's Wishes"
-description: "An evergreen guide to power stones cherished for New Year's Day, Hatsumode (first shrine visit of the year), and other new year milestones."
+title: "New Year and Hatsumode Crystal Guide | Choosing Stones Cherished for New Year's Wishes"
+description: "An evergreen guide to crystals cherished for New Year's Day, Hatsumode (first shrine visit of the year), and other new year milestones."
 date: '2026-05-27'
 category: powerstones
 tags:
@@ -14,15 +14,15 @@ draft: false
 
 ## Introduction
 
-**New Year's Day marks "the turn of the year."** For those who feel, **"I want to start the new year in my own positive way,"** or **"I want to welcome a protective charm as I make my wishes during Hatsumode,"** we have compiled **a timeless hub article on power stones cherished for New Year's Day, Hatsumode, and other new year milestones.**
+**New Year's Day marks "the turn of the year."** For those who feel, **"I want to start the new year in my own positive way,"** or **"I want to welcome a protective charm as I make my wishes during Hatsumode,"** we have compiled **a timeless hub article on crystals cherished for New Year's Day, Hatsumode, and other new year milestones.**
 
-This article avoids definitive statements like "this specific year is good or bad," and instead offers insights from the perspective of a protective charm that helps you set your intentions for the new year. For a detailed fortune guide incorporating specific yearly themes, zodiac signs (Eto), and Nine Star Ki astrology, please refer to our separate article, **[2027 Fortune and Good Luck Power Stones](/blog/lucky-stones-2027/)**. For yearly topics, please see that guide.
+This article avoids definitive statements like "this specific year is good or bad," and instead offers insights from the perspective of a protective charm that helps you set your intentions for the new year. For a detailed fortune guide incorporating specific yearly themes, zodiac signs (Eto), and Nine Star Ki astrology, please refer to our separate article, **[2027 Fortune and Good Luck Crystals](/blog/lucky-stones-2027/)**. For yearly topics, please see that guide.
 
-> **Please note**: The "traditional symbols" and "wish-making meanings" in this article are **general concepts based on cultural folklore** passed down across Japan, and are **not guarantees or predictions of fortune for specific individuals**. The effects of power stones are also limited to **cultural and symbolic meanings**, and do not **guarantee success in luck, income, health, or interpersonal relationships**. Please read this article from the perspective of **simply enjoying them as protective charms**. Descriptions regarding shrine visits and Hatsumode are **not intended to recommend or compel specific religious beliefs**, but rather to introduce traditional customs.
+> **Please note**: The "traditional symbols" and "wish-making meanings" in this article are **general concepts based on cultural folklore** passed down across Japan, and are **not guarantees or predictions of fortune for specific individuals**. The effects of crystals are also limited to **cultural and symbolic meanings**, and do not **guarantee success in luck, income, health, or interpersonal relationships**. Please read this article from the perspective of **simply enjoying them as protective charms**. Descriptions regarding shrine visits and Hatsumode are **not intended to recommend or compel specific religious beliefs**, but rather to introduce traditional customs.
 
 ## Table of Contents
 
-- [The Tradition of Considering Power Stones for the New Year](#why-newyear)
+- [The Tradition of Considering Crystals for the New Year](#why-newyear)
 - [Colors and Stone Symbols Cherished for the New Year](#newyear-colors)
 - [How to Engage with Hatsumode](#hatsumode)
 - [Recommended Stones for New Year's Wishes (Linked with 6-Part Hub Series)](#by-wish)
@@ -33,7 +33,7 @@ This article avoids definitive statements like "this specific year is good or ba
 - [Editor's Postscript](#postscript)
 - [Related Articles You Might Like](#related)
 
-## <span id="why-newyear"></span>The Tradition of Considering Power Stones for the New Year
+## <span id="why-newyear"></span>The Tradition of Considering Crystals for the New Year
 
 The Japanese New Year has long been celebrated as a culture of **"welcoming Toshigami-sama (the New Year's deity) and setting intentions for the year."** New Year-specific decorations like **Kagami Mochi, Kadomatsu, and Shimenawa** all represent the wish to **"ward off evil spirits and welcome a pure year."**
 
@@ -45,13 +45,13 @@ The Japanese New Year has long been celebrated as a culture of **"welcoming Tosh
 | **Hamaya (Evil-warding arrow)** | Ward off evil, avert misfortune |
 | **Hatsu-hinode (First sunrise)** | Beginning of new light |
 
-Power stones are **small protective charms that can be seen as an extension of these "milestone symbols."** They have been cherished as a way to support a **"reset of feelings,"** much like they are incorporated into New Year's decorations.
+Crystals are **small protective charms that can be seen as an extension of these "milestone symbols."** They have been cherished as a way to support a **"reset of feelings,"** much like they are incorporated into New Year's decorations.
 
-It is not about whether they "work or do not work," but about "giving form to your feelings" – this is the authentic way to enjoy power stones during the New Year.
+It is not about whether they "work or do not work," but about "giving form to your feelings" – this is the authentic way to enjoy crystals during the New Year.
 
 ## <span id="newyear-colors"></span>Colors and Stone Symbols Cherished for the New Year
 
-Traditional New Year's decorations feature a consistent palette of **red, white, gold, and green**. These colors symbolize **"warding off evil, purity, abundance, and evergreen (longevity)."** By choosing power stones that correspond to these colors, they become **protective charms that naturally blend with your New Year's decorations.**
+Traditional New Year's decorations feature a consistent palette of **red, white, gold, and green**. These colors symbolize **"warding off evil, purity, abundance, and evergreen (longevity)."** By choosing crystals that correspond to these colors, they become **protective charms that naturally blend with your New Year's decorations.**
 
 ### 🔴 Red Tones — Warding off Evil and the Power of Life
 
@@ -113,19 +113,19 @@ Traditional New Year's decorations feature a consistent palette of **red, white,
 | **Obsidian** | Mirror-like self-reflection | [Details](/blog/obsidian/) |
 | **Hematite** | Earth, practical stability | [Details](/blog/hematite/) |
 
-→ Learn more: [The Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+→ Learn more: [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 
 ## <span id="hatsumode"></span>How to Engage with Hatsumode
 
-**Hatsumode (first shrine or temple visit of the New Year)** is a traditional Japanese custom of **"visiting a shrine or temple at the New Year to offer prayers for the year."** More and more people are **going to Hatsumode with power stones in mind.** In this section, we will introduce ways to engage with Hatsumode, without imposing specific beliefs.
+**Hatsumode (first shrine or temple visit of the New Year)** is a traditional Japanese custom of **"visiting a shrine or temple at the New Year to offer prayers for the year."** More and more people are **going to Hatsumode with crystals in mind.** In this section, we will introduce ways to engage with Hatsumode, without imposing specific beliefs.
 
-> **Important**: Hatsumode is a **religious practice of specific religions and sects** and is not to be forced upon anyone. The use of power stones and Hatsumode are **independent cultural practices**, and there is no **"need to do both" or "only one is correct."** This article introduces them from the perspective of **"enjoying traditional culture."**
+> **Important**: Hatsumode is a **religious practice of specific religions and sects** and is not to be forced upon anyone. The use of crystals and Hatsumode are **independent cultural practices**, and there is no **"need to do both" or "only one is correct."** This article introduces them from the perspective of **"enjoying traditional culture."**
 
 ### 1. Cleanse Your Stones Before Hatsumode
 
 It is customary to carefully cleanse **stones you have worn throughout the previous year** **before heading out for Hatsumode**. Choose a method that will not damage your stones, such as a **Clear Quartz cluster, Selenite, moonlight bathing, or sage.**
 
-→ Learn more: [The Complete Guide to Cleansing and Caring for Power Stones](/blog/powerstone-care-guide/)
+→ Learn more: [The Complete Guide to Cleansing and Caring for Crystals](/blog/powerstone-care-guide/)
 
 ### 2. Bring Your Stones to Hatsumode
 
@@ -137,11 +137,11 @@ Some people visit shrines or temples with **stones they have cherished since the
 
 Another cherished custom is to **welcome a new stone** as **your first purchase of the New Year or on your way home from Hatsumode.** This is a ritual of marking the New Year's milestone by **"welcoming the start of the new year with a stone."**
 
-→ Learn more: [How to Choose Your First Power Stone](/blog/first-powerstone-guide/)
+→ Learn more: [How to Choose Your First Crystal](/blog/first-powerstone-guide/)
 
 ### 4. Basic Etiquette for Worship
 
-Regardless of whether you bring power stones, being mindful of **basic Hatsumode etiquette** can make the day feel more special. It is important to observe **basic manners**, such as **Temizu (purification ritual) and the Nirei Nihakushu Ichirei (bow twice, clap twice, bow once) ritual.**
+Regardless of whether you bring crystals, being mindful of **basic Hatsumode etiquette** can make the day feel more special. It is important to observe **basic manners**, such as **Temizu (purification ritual) and the Nirei Nihakushu Ichirei (bow twice, clap twice, bow once) ritual.**
 
 → Learn more: [The Complete Guide to Shrine Visits](/blog/shrine-visit-basics/)
 
@@ -157,7 +157,7 @@ Making a **Gankake (a prayer for the year)** at the New Year means **"shaping yo
 | **Rutilated Quartz and Pyrite** | Financial luck and warding off evil |
 | **Citrine and Amber** | Golden brilliance and sun's warmth |
 
-→ Details: [9 Popular Power Stones for Financial Luck](/blog/purpose-money-stones/)
+→ Details: [9 Popular Crystals for Financial Luck](/blog/purpose-money-stones/)
 
 ### 💗 Wishing for Love Luck and Matchmaking
 
@@ -167,7 +167,7 @@ Making a **Gankake (a prayer for the year)** at the New Year means **"shaping yo
 | **Morganite and Aquamarine** | Calmness for marriage awareness |
 | **Rhodochrosite and Rhodonite** | Healing past relationships |
 
-→ Details: [9 Popular Power Stones for Love Luck](/blog/purpose-love-stones/) / [Guide to Shrines Strong in Matchmaking](/blog/shrine-enmusubi-guide/)
+→ Details: [9 Popular Crystals for Love Luck](/blog/purpose-love-stones/) / [Guide to Shrines Strong in Matchmaking](/blog/shrine-enmusubi-guide/)
 
 ### 💼 Wishing for Career Luck and Success
 
@@ -177,7 +177,7 @@ Making a **Gankake (a prayer for the year)** at the New Year means **"shaping yo
 | **Tiger's Eye and Citrine** | Bridge for career and financial luck |
 | **Pietersite and Alexandrite** | Decisions during turning points |
 
-→ Details: [9 Popular Power Stones for Career and Success Luck](/blog/purpose-work-stones/)
+→ Details: [9 Popular Crystals for Career and Success Luck](/blog/purpose-work-stones/)
 
 ### 🌿 Wishing for Health and Family Tranquility
 
@@ -187,9 +187,9 @@ Making a **Gankake (a prayer for the year)** at the New Year means **"shaping yo
 | **Jade and Aventurine** | Green healing, natural harmony |
 | **Peridot and Amber** | Gem of the sun and warmth |
 
-> **Important**: Power stones **do not have the effect of curing or preventing illnesses**. If you have health concerns, please **consult a medical professional without fail**.
+> **Important**: Crystals **do not have the effect of curing or preventing illnesses**. If you have health concerns, please **consult a medical professional without fail**.
 
-→ Details: [9 Power Stones Cherished for Health Luck](/blog/purpose-health-stones/)
+→ Details: [9 Crystals Cherished for Health Luck](/blog/purpose-health-stones/)
 
 ### 🤝 Wishing for Interpersonal Luck and Relationships
 
@@ -199,7 +199,7 @@ Making a **Gankake (a prayer for the year)** at the New Year means **"shaping yo
 | **Rose Quartz and Chrysocolla** | Gentleness and maternal love |
 | **Turquoise and Amazonite** | Friendship and courage |
 
-→ Details: [9 Power Stones Cherished for Interpersonal and Relationship Luck](/blog/purpose-relation-stones/)
+→ Details: [9 Crystals Cherished for Interpersonal and Relationship Luck](/blog/purpose-relation-stones/)
 
 ### 🛡️ Wishing for Amulets and Warding off Evil
 
@@ -209,7 +209,7 @@ Making a **Gankake (a prayer for the year)** at the New Year means **"shaping yo
 | **Black Tourmaline and Clear Quartz** | Environmental protection charm |
 | **Onyx and Hematite** | Protection and grounding |
 
-→ Details: [9 Power Stones Cherished for Amulets and Warding off Evil](/blog/purpose-protection-stones/)
+→ Details: [9 Crystals Cherished for Amulets and Warding off Evil](/blog/purpose-protection-stones/)
 
 ### 📚 Wishing for Academic Success and Passing Exams
 
@@ -230,20 +230,20 @@ The New Year is also **a crucial final push for students taking exams.** Stones 
 
 | Eto | Individual Article |
 |---|---|
-| 子年 (Year of the Rat) | [Recommended Power Stones for Those Born in the Year of the Rat](/blog/eto-rat/) |
-| 丑年 (Year of the Ox) | [Recommended Power Stones for Those Born in the Year of the Ox](/blog/eto-ox/) |
-| 寅年 (Year of the Tiger) | [Recommended Power Stones for Those Born in the Year of the Tiger](/blog/eto-tiger/) |
-| 卯年 (Year of the Rabbit) | [Recommended Power Stones for Those Born in the Year of the Rabbit](/blog/eto-rabbit/) |
-| 辰年 (Year of the Dragon) | [Recommended Power Stones for Those Born in the Year of the Dragon](/blog/eto-dragon/) |
-| 巳年 (Year of the Snake) | [Recommended Power Stones for Those Born in the Year of the Snake](/blog/eto-snake/) |
-| 午年 (Year of the Horse) | [Recommended Power Stones for Those Born in the Year of the Horse](/blog/eto-horse/) |
-| 未年 (Year of the Sheep) | [Recommended Power Stones for Those Born in the Year of the Sheep](/blog/eto-sheep/) |
-| 申年 (Year of the Monkey) | [Recommended Power Stones for Those Born in the Year of the Monkey](/blog/eto-monkey/) |
-| 酉年 (Year of the Rooster) | [Recommended Power Stones for Those Born in the Year of the Rooster](/blog/eto-rooster/) |
-| 戌年 (Year of the Dog) | [Recommended Power Stones for Those Born in the Year of the Dog](/blog/eto-dog/) |
-| 亥年 (Year of the Boar) | [Recommended Power Stones for Those Born in the Year of the Boar](/blog/eto-boar/) |
+| 子年 (Year of the Rat) | [Recommended Crystals for Those Born in the Year of the Rat](/blog/eto-rat/) |
+| 丑年 (Year of the Ox) | [Recommended Crystals for Those Born in the Year of the Ox](/blog/eto-ox/) |
+| 寅年 (Year of the Tiger) | [Recommended Crystals for Those Born in the Year of the Tiger](/blog/eto-tiger/) |
+| 卯年 (Year of the Rabbit) | [Recommended Crystals for Those Born in the Year of the Rabbit](/blog/eto-rabbit/) |
+| 辰年 (Year of the Dragon) | [Recommended Crystals for Those Born in the Year of the Dragon](/blog/eto-dragon/) |
+| 巳年 (Year of the Snake) | [Recommended Crystals for Those Born in the Year of the Snake](/blog/eto-snake/) |
+| 午年 (Year of the Horse) | [Recommended Crystals for Those Born in the Year of the Horse](/blog/eto-horse/) |
+| 未年 (Year of the Sheep) | [Recommended Crystals for Those Born in the Year of the Sheep](/blog/eto-sheep/) |
+| 申年 (Year of the Monkey) | [Recommended Crystals for Those Born in the Year of the Monkey](/blog/eto-monkey/) |
+| 酉年 (Year of the Rooster) | [Recommended Crystals for Those Born in the Year of the Rooster](/blog/eto-rooster/) |
+| 戌年 (Year of the Dog) | [Recommended Crystals for Those Born in the Year of the Dog](/blog/eto-dog/) |
+| 亥年 (Year of the Boar) | [Recommended Crystals for Those Born in the Year of the Boar](/blog/eto-boar/) |
 
-→ Overview: [The Complete Guide to Power Stones by Zodiac Sign (Eto)](/blog/eto-powerstones-guide/)
+→ Overview: [The Complete Guide to Crystals by Zodiac Sign (Eto)](/blog/eto-powerstones-guide/)
 
 > **Important**: There is no definitive guarantee that **"special good fortune will come" or "calamity will occur"** for Toshionna and Toshiotoko. Please view it as **"an opportunity to be mindful of your own milestones,"** and enjoy the tradition. This is a different concept from "unlucky years (yakudoshi)."
 
@@ -251,7 +251,7 @@ The New Year is also **a crucial final push for students taking exams.** Stones 
 
 Fortune guides that delve into **the zodiac sign, Nine Star Ki astrology, and overall themes of a specific year** are presented separately as **topical articles that change annually.**
 
-→ **[2027 Fortune and Good Luck Power Stones](/blog/lucky-stones-2027/)** ―― Themes for the Year of the Sheep and the Year with Seven Red Gold Stars in the Center
+→ **[2027 Fortune and Good Luck Crystals](/blog/lucky-stones-2027/)** ―― Themes for the Year of the Sheep and the Year with Seven Red Gold Stars in the Center
 
 Each year's guide focuses on **"the symbolism of that year,"** so if you want to know **"what exactly is the theme for this year?"** please refer to the annual guide above.
 
@@ -267,7 +267,7 @@ It is customary to **cleanse stones that have been worn for a year** between **l
 
 On **New Year's Day morning**, **holding stones up to the light of the first sunrise for just a few minutes** is a **special version of "sun purification."** This is not suitable for **stones sensitive to light (such as Amethyst, Rose Quartz, and Fluorite)**, so it is recommended to enjoy this with light-resistant stones like **Clear Quartz, Citrine, and Tiger's Eye.**
 
-→ For precautions and methods: [The Complete Guide to Cleansing and Caring for Power Stones](/blog/powerstone-care-guide/)
+→ For precautions and methods: [The Complete Guide to Cleansing and Caring for Crystals](/blog/powerstone-care-guide/)
 
 ### Nanakusa no Sekku (Seven-Herb Festival): A Milestone Reset
 
@@ -293,7 +293,7 @@ When you consider **"welcoming a single stone for yourself"** in the New Year, h
 
 Choosing **"a stone you are simply drawn to"** without rationalizing it – this is traditionally seen as selecting **"the protective charm you need right now."** Whether you choose at **New Year's markets, shrine bestowal offices, or local stone shops** – **the one that resonates with you is the right one.**
 
-→ Learn more: [How to Choose Your First Power Stone](/blog/first-powerstone-guide/) / [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+→ Learn more: [How to Choose Your First Crystal](/blog/first-powerstone-guide/) / [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 
 ## <span id="faq"></span>Frequently Asked Questions (FAQ)
 
@@ -301,21 +301,21 @@ Choosing **"a stone you are simply drawn to"** without rationalizing it – this
 
 A. **Not at all!** The custom of **"a new stone for the New Year"** is just **one of many traditional ways to enjoy the milestone**, not an obligation. **Continuing to cherish and use stones you have had since the previous year** is also a perfectly wonderful way to spend the New Year.
 
-**Q2. Is it okay to wear power stones when I go to Hatsumode?**
+**Q2. Is it okay to wear crystals when I go to Hatsumode?**
 
 A. **Generally, it is fine.** Most shrines and temples **do not have special restrictions on wearing accessories.** However, as it is a **sacred place, it is good to exercise consideration for the occasion (Time, Place, Occasion)**, such as refraining from overly flashy decorations. Wearing a bracelet **hidden under clothing or carrying it in a protective charm pouch** will lead to a more peaceful worship experience.
 
-**Q3. Is it okay to carry an amulet bought at Hatsumode and a power stone together?**
+**Q3. Is it okay to carry an amulet bought at Hatsumode and a crystal together?**
 
-A. **It is absolutely fine.** The superstition that **"carrying multiple protective charms causes them to quarrel"** is a **baseless folk tale.** As long as you **cherish each one**, there is no problem in **carrying a shrine amulet and a power stone together.**
+A. **It is absolutely fine.** The superstition that **"carrying multiple protective charms causes them to quarrel"** is a **baseless folk tale.** As long as you **cherish each one**, there is no problem in **carrying a shrine amulet and a crystal together.**
 
 **Q4. Is there an "absolute must-have" stone for the New Year?**
 
-A. **There is no single "absolute stone."** While several stones are mentioned as **corresponding to New Year's symbols**, such as **Clear Quartz, Citrine, Tiger's Eye, and Amethyst**, the right answer depends on **"your situation, wishes, and intuition." The stone you can truly cherish is the best stone for you** – this is the essence of choosing power stones.
+A. **There is no single "absolute stone."** While several stones are mentioned as **corresponding to New Year's symbols**, such as **Clear Quartz, Citrine, Tiger's Eye, and Amethyst**, the right answer depends on **"your situation, wishes, and intuition." The stone you can truly cherish is the best stone for you** – this is the essence of choosing crystals.
 
 **Q5. "Is 2027 a good year or a bad year?"**
 
-A. **No year can be definitively labeled "good" or "bad" for everyone.** **[2027 Fortune and Good Luck Power Stones](/blog/lucky-stones-2027/)** organizes **general concepts based on traditional cultural thought** such as zodiac signs and Nine Star Ki astrology. However, this is **not a guarantee or prediction of individual fortune, but rather a reference for setting intentions and aligning with the year's symbolism.**
+A. **No year can be definitively labeled "good" or "bad" for everyone.** **[2027 Fortune and Good Luck Crystals](/blog/lucky-stones-2027/)** organizes **general concepts based on traditional cultural thought** such as zodiac signs and Nine Star Ki astrology. However, this is **not a guarantee or prediction of individual fortune, but rather a reference for setting intentions and aligning with the year's symbolism.**
 
 **Q6. How long after New Year's Day should I go for Hatsumode?**
 
@@ -325,13 +325,13 @@ A. **"Matsu no Uchi" (generally until January 7th, or January 15th in some regio
 
 A. **The "method that suits the stone" is the best.** **Clear Quartz, Selenite, and moonlight bathing** are versatile methods suitable for most stones. **Salt, running water, and sunlight** can **damage some stones**, so please **check the specific precautions for each stone beforehand.**
 
-→ Learn more: [The Complete Guide to Cleansing and Caring for Power Stones](/blog/powerstone-care-guide/)
+→ Learn more: [The Complete Guide to Cleansing and Caring for Crystals](/blog/powerstone-care-guide/)
 
-**Q8. Is it okay for children to have power stones?**
+**Q8. Is it okay for children to have crystals?**
 
 A. **It is perfectly fine to let them carry it as a "protective charm."** However, for **small children (especially infants)**, there is a **risk of accidental ingestion**, so it is safer to use **tumbled stones for observation under parental supervision** rather than bracelets. Stones with **"pure and gentle meanings,"** such as **Clear Quartz, Rose Quartz, and Moonstone**, are also cherished as New Year's gifts.
 
-**Q9. Can I get my power stones "purified" at a shrine or temple?**
+**Q9. Can I get my crystals "purified" at a shrine or temple?**
 
 A. **This varies depending on the shrine or temple.** Some **accept "purification of objects,"** while others **"do not include accessories."** It is best to **inquire directly with the specific shrine or temple beforehand** to confirm. As it is **not mandatory**, enjoying it with the mindset of **"if it brings me peace of mind"** is recommended.
 
@@ -339,9 +339,9 @@ A. **This varies depending on the shrine or temple.** Some **accept "purificatio
 
 The New Year has been cherished across cultures, not just in Japan, as an **"opportunity for self-reflection."** Hatsu-hinode (first sunrise), Hatsumode, Kagami Biraki (opening of the Kagami Mochi), and Setsubun – all are rituals of the heart that **"acknowledge the turn of the year and prepare for a new one."**
 
-Considering power stones **"at the New Year's milestone"** is also one way to enjoy this **long-standing traditional culture.** **Red Garnet, white Clear Quartz, golden Citrine, green Jade, and black Morion** – these **stones reflecting the symbolic colors of the New Year** gently support **a reset of your feelings.**
+Considering crystals **"at the New Year's milestone"** is also one way to enjoy this **long-standing traditional culture.** **Red Garnet, white Clear Quartz, golden Citrine, green Jade, and black Morion** – these **stones reflecting the symbolic colors of the New Year** gently support **a reset of your feelings.**
 
-However, as the operator, my most cherished stance is to **avoid definitive statements** such as **"this year will be good or bad"** or **"this will absolutely grant your wishes."** Instead of deciding **"this is what 2027 will be,"** choosing a **protective charm that gently supports your feeling of "this is how I want to spend 2027"** – that approach is the secret to a long and healthy relationship with power stones.
+However, as the operator, my most cherished stance is to **avoid definitive statements** such as **"this year will be good or bad"** or **"this will absolutely grant your wishes."** Instead of deciding **"this is what 2027 will be,"** choosing a **protective charm that gently supports your feeling of "this is how I want to spend 2027"** – that approach is the secret to a long and healthy relationship with crystals.
 
 May your new year be **a calm and warm one.**
 
@@ -353,20 +353,20 @@ You know, New Year's is a super important milestone for **"getting your feelings
 
 Sun-chan has a little request for you. Please do not let yourself be swayed by phrases like **"this will definitely make you happy"** or **"this year will absolutely be difficult"** 😊 **Fortune is not something that is set in stone; it is something you shape yourself**!🌟
 
-Gently holding onto a stone you encountered in the New Year **"as a protective charm"** – that approach is the secret to a long and healthy relationship with power stones!🎀
+Gently holding onto a stone you encountered in the New Year **"as a protective charm"** – that approach is the secret to a long and healthy relationship with crystals!🎀
 
 May your new year be **filled with light**!☀️🎍
 
 ## <span id="related"></span>Related Articles You Might Like
 
-- [2027 Fortune and Good Luck Power Stones](/blog/lucky-stones-2027/) — Annual fortune guide (updated yearly)
+- [2027 Fortune and Good Luck Crystals](/blog/lucky-stones-2027/) — Annual fortune guide (updated yearly)
 - [Comprehensive Guide to 12-Month Birthstones](/blog/birthstone-guide/) — Classic style chosen by birth month
-- [Complete Guide to Power Stones by Zodiac Sign (Eto)](/blog/eto-powerstones-guide/) — Explanation for all 12 Eto signs
-- [How to Choose Your First Power Stone](/blog/first-powerstone-guide/) — An entry point for choosing your first stone
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — Detailed selection based on 4 axes
-- [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — Classic combinations of 2 and 3 stones
-- [Guide to Power Stone Compatibility and Combinations](/blog/powerstone-compatibility/) — Understanding compatibility from 5 perspectives
-- [Complete Guide to Cleansing and Caring for Power Stones](/blog/powerstone-care-guide/) — New Year's Eve, New Year's Day, and Setsubun rituals
+- [Complete Guide to Crystals by Zodiac Sign (Eto)](/blog/eto-powerstones-guide/) — Explanation for all 12 Eto signs
+- [How to Choose Your First Crystal](/blog/first-powerstone-guide/) — An entry point for choosing your first stone
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — Detailed selection based on 4 axes
+- [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Classic combinations of 2 and 3 stones
+- [Guide to Crystal Compatibility and Combinations](/blog/powerstone-compatibility/) — Understanding compatibility from 5 perspectives
+- [Complete Guide to Cleansing and Caring for Crystals](/blog/powerstone-care-guide/) — New Year's Eve, New Year's Day, and Setsubun rituals
 - [Complete Guide to Basic Shrine Visits](/blog/shrine-visit-basics/) — Hatsumode etiquette and mindset
 - [Guide to Shrines for Matchmaking and Relationships](/blog/shrine-enmusubi-guide/) — For Hatsumode wishes related to love and marriage
 - [Guide to Shrines for Financial Luck](/blog/shrine-kinun-guide/) — For Hatsumode wishes related to business prosperity
@@ -374,16 +374,16 @@ May your new year be **filled with light**!☀️🎍
 - [Guide to Choosing and Displaying Daruma Dolls](/blog/daruma-guide/) — A 대표 of New Year's lucky charms
 - [Guide to Choosing and Displaying Kumade Rakes](/blog/kumade-guide/) — A lucky charm for business prosperity
 - [Guide to Choosing and Handling Omamori Charms](/blog/omamori-guide/) — How to engage with shrine amulets
-- [9 Popular Power Stones for Financial Luck](/blog/purpose-money-stones/) — Purpose-based Hub ①
-- [9 Popular Power Stones for Love Luck](/blog/purpose-love-stones/) — Purpose-based Hub ②
-- [9 Popular Power Stones for Career and Success Luck](/blog/purpose-work-stones/) — Purpose-based Hub ③
-- [9 Power Stones Cherished for Health Luck](/blog/purpose-health-stones/) — Purpose-based Hub ④
-- [9 Power Stones Cherished for Interpersonal and Relationship Luck](/blog/purpose-relation-stones/) — Purpose-based Hub ⑤
-- [9 Power Stones Cherished for Amulets and Warding off Evil](/blog/purpose-protection-stones/) — Purpose-based Hub ⑥
+- [9 Popular Crystals for Financial Luck](/blog/purpose-money-stones/) — Purpose-based Hub ①
+- [9 Popular Crystals for Love Luck](/blog/purpose-love-stones/) — Purpose-based Hub ②
+- [9 Popular Crystals for Career and Success Luck](/blog/purpose-work-stones/) — Purpose-based Hub ③
+- [9 Crystals Cherished for Health Luck](/blog/purpose-health-stones/) — Purpose-based Hub ④
+- [9 Crystals Cherished for Interpersonal and Relationship Luck](/blog/purpose-relation-stones/) — Purpose-based Hub ⑤
+- [9 Crystals Cherished for Amulets and Warding off Evil](/blog/purpose-protection-stones/) — Purpose-based Hub ⑥
 
 ## Summary
 
-- **New Year's Day is a milestone for "welcoming Toshigami-sama and setting intentions for the year"** — Power stones are small protective charms that best align with traditional decorations.
+- **New Year's Day is a milestone for "welcoming Toshigami-sama and setting intentions for the year"** — Crystals are small protective charms that best align with traditional decorations.
 - **Red (warding off evil), White (purity), Gold (abundance), Green (evergreen), and Black (protection)** are the 5 traditional colors of the New Year.
 - **How to engage with Hatsumode** is to enjoy it as a way of "setting your feelings" rather than as an imposition of belief.
 - Choose stones for your New Year's wishes in conjunction with the **6-part purpose-based series**.

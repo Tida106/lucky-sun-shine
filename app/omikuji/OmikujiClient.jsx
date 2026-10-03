@@ -35,7 +35,7 @@ const TEXT = {
     draw: 'Draw a fortune!',
     luckyStone: 'Lucky stone: ',
     again: 'Draw again',
-    articles: '💎 Explore Power Stones',
+    articles: '💎 Explore Crystals',
     articlesHref: '/en/',
     shareLead: 'Share your result and spread the good luck to your friends ☀️',
     tweet: (r) => `My fortune from Sun-chan: [${r.fortune}] ☀️ ${r.message} My lucky stone is ${r.stone}!`,

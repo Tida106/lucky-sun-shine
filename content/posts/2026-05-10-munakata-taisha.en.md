@@ -1,7 +1,7 @@
 ---
 title: "Munakata Taisha Shrine Pilgrimage Guide | The Ocean's Grand Guardian Enshrining the Three Munakata Goddesses and Okinoshima, a World Heritage 'Island Where Gods Dwell'"
 description: >-
-  A comprehensive guide to Munakata Taisha Shrine (Munakata City, Fukuoka Prefecture), covering its history, the Three Munakata Goddesses (Tagorihime-no-kami, Tagitsuhime-no-kami, and Ichikishimahime-no-kami), Hetsugu Shrine, Nakatsugu Shrine, Okitsugu Shrine, Okinoshima (the 'Island Where Gods Dwell'), its World Heritage status, national treasure artifacts, key pilgrimage points, access information, recommended power stones, nearby attractions, and FAQs.
+  A comprehensive guide to Munakata Taisha Shrine (Munakata City, Fukuoka Prefecture), covering its history, the Three Munakata Goddesses (Tagorihime-no-kami, Tagitsuhime-no-kami, and Ichikishimahime-no-kami), Hetsugu Shrine, Nakatsugu Shrine, Okitsugu Shrine, Okinoshima (the 'Island Where Gods Dwell'), its World Heritage status, national treasure artifacts, key pilgrimage points, access information, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
@@ -27,7 +27,7 @@ Munakata Taisha Shrine, located in the Munakata region of northern Fukuoka Prefe
 - [Shinpokan (The Shosoin of the Sea)](#houmotsukan)
 - [Key Points for Your Visit](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Spots You'll Want to Visit](#nearby)
 - [Recommended Seasons and Times](#season)
 - [Basic Pilgrimage Etiquette](#manner)
@@ -115,7 +115,7 @@ Car: Approximately 20 minutes from Kyushu Expressway's "**Koga Interchange**" or
 
 **Parking**: Free parking available at Hetsugu Shrine (approx. 800 spaces).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Munakata Taisha Shrine.
 

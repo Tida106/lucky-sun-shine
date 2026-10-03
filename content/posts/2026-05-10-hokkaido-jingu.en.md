@@ -1,6 +1,6 @@
 ---
 title: "Hokkaido Jingu Shrine Visiting Guide | Sapporo's Grand Guardian Shrine Carrying the Spirit of Frontier Development"
-description: "A comprehensive guide to Hokkaido Jingu Shrine (474 Miyagaoka, Chuo-ku, Sapporo, Hokkaido), covering its history, blessings, the Three Kami of Frontier Development, visiting tips, Maruyama Park, Hangan-sama mochi, cherry blossoms, recommended power stones, and nearby attractions. This is your essential guide to visiting Hokkaido's grand guardian shrine."
+description: "A comprehensive guide to Hokkaido Jingu Shrine (474 Miyagaoka, Chuo-ku, Sapporo, Hokkaido), covering its history, blessings, the Three Kami of Frontier Development, visiting tips, Maruyama Park, Hangan-sama mochi, cherry blossoms, recommended crystals, and nearby attractions. This is your essential guide to visiting Hokkaido's grand guardian shrine."
 date: "2026-05-10"
 updated: "2026-05-11"
 category: "powerspots"
@@ -20,7 +20,7 @@ Hokkaido Jingu Shrine was established by the Meiji government to oversee the dev
 - [Highlights](#highlight)
 - [Key Visiting Points](#point)
 - [Access](#access)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Nearby Must-Visit Spots](#nearby)
 - [Basic Visiting Etiquette](#manner)
 - [Frequently Asked Questions (FAQ)](#faq)
@@ -82,7 +82,7 @@ About a 15-minute walk from **Maruyama Koen Station** on the Tozai Subway Line. 
 
 **Parking**: Available (free, 240 spaces).
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 Here are some stones believed to resonate well with the sacred energy of Hokkaido Jingu Shrine when you bring them for your visit.
 
@@ -142,7 +142,7 @@ For me, Sun-chan, Hokkaido Jingu Shrine is a place for **"new beginnings."** If 
 - [Izumo Taisha Shrine Visiting Guide](/blog/izumo-taisha/) — The Grand Head Shrine of Okuninushi no Kami
 - [Meiji Jingu Shrine Visiting Guide](/blog/meiji-jingu/) — The Grand Guardian Shrine of the Kanto Region
 - [Citrine: Meanings and Effects](/blog/citrine/) — The Stone for Business Prosperity
-- [Comprehensive Power Stone Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Career Luck section
+- [Comprehensive Crystal Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Career Luck section
 
 ## Summary
 

@@ -6,7 +6,7 @@ category: powerstones
 tags:
   - birthstones
   - 12 months
-  - power stones
+  - crystals
 draft: false
 ---
 
@@ -244,8 +244,8 @@ Every year, Sun-chan makes a habit of buying a small tumbled stone for each fami
 
 ## Related Articles You Might Also Like
 
--   [Complete Guide to Recommended Power Stones by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/) — It's interesting to look at both monthly and zodiac-based recommendations!
--   [Complete Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Also learn how to choose stones based on their intended use.
+-   [Complete Guide to Recommended Crystals by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/) — It's interesting to look at both monthly and zodiac-based recommendations!
+-   [Complete Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Also learn how to choose stones based on their intended use.
 -   [Meaning and Effects of Rose Quartz](/blog/rose-quartz-meaning/) — Also appears as an alternative stone for October.
 -   [Meaning and Effects of Amethyst](/blog/amethyst/) — The star of February, the classic purple stone.
 -   [Meaning and Effects of Clear Quartz](/blog/clear-quartz/) — An alternative stone for April's birthstone, Diamond.

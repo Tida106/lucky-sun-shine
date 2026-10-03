@@ -1,5 +1,5 @@
 ---
-title: "Recommended Power Stones for those Born in the Year of the Dragon | Zodiac Sign and Stone Compatibility"
+title: "Recommended Crystals for those Born in the Year of the Dragon | Zodiac Sign and Stone Compatibility"
 description: "A comprehensive guide to the compatibility between the majestic personality of those born in the Year of the Dragon and lapis lazuli, known as the 'King's Stone'. This guide covers complementary stones that support career advancement and spirituality, how to utilize them during a birth year, and even pilgrimage sites related to dragon deity worship. It's a complete guide for choosing an amulet to support this once-in-12-year milestone."
 date: "2026-05-10"
 updated: "2026-05-23"
@@ -34,7 +34,7 @@ Among the twelve zodiac signs, the Dragon is associated with the element of "Ear
 
 Lapis lazuli has been treasured since the Mesopotamian civilization, approximately 6000 years ago, and was even inlaid into the eyes of Tutankhamun's golden mask, earning it the title of the "King's Stone." In ancient Egypt, it was called a "**Fragment of Heaven**" and is said to have been used by priests in rituals to gain wisdom.
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic in nature. They do not guarantee medical or scientific efficacy.
+> **Please Note**: The "effects" of crystals are cultural and symbolic in nature. They do not guarantee medical or scientific efficacy.
 
 The primary reason why lapis lazuli deeply resonates with those born in the Year of the Dragon is that it is a **"stone that simultaneously governs spirituality and governance."** Just as the Dragon is a spiritual creature that commands water and a symbol of the emperor, lapis lazuli has been used as a stone that connects the two aspects of "priest" and "king." This stone is said to most naturally support the balance of spirituality and leadership that Dragon-born individuals possess.
 
@@ -82,10 +82,10 @@ When I recommend lapis lazuli to those born in the Year of the Dragon, I often h
 
 ## Related Articles You Might Also Like
 
-- [Complete Guide to Zodiac Power Stones](/blog/eto-powerstones-guide/) — Comparison and quick reference for the twelve Chinese zodiac signs
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+- [Complete Guide to Zodiac Crystals](/blog/eto-powerstones-guide/) — Comparison and quick reference for the twelve Chinese zodiac signs
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 - [Meaning and Effects of Lapis Lazuli | King's Stone, Fragment of Heaven](/blog/lapis-lazuli/)
-- [Power Stone Guide by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/)
+- [Crystal Guide by 12 Zodiac Signs](/blog/zodiac-powerstones-guide/)
 - [Meaning and Effects of Tiger's Eye](/blog/tigers-eye/)
 
 ## Summary

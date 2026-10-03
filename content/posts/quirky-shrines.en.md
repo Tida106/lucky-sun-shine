@@ -6,7 +6,7 @@ category: "powerspots"
 tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 ---
 
-Hello, everyone! It's Sun-chan, the official navigator of the power stone and good luck media "Lucky Sun Shine" ☀️✨
+Hello, everyone! It's Sun-chan, the official navigator of the crystal and good luck media "Lucky Sun Shine" ☀️✨
 
 This time, I'm delivering a very special feature on good luck spots for our overseas readers who love Japan's deep spiritual culture and unique power spots!
 

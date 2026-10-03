@@ -1,15 +1,15 @@
 ---
-title: "How to Properly Dispose of Lucky Charms, Omamori, and Power Stones | A Complete Guide to Letting Go with Gratitude"
-description: "Resolve your worries about 'What if I'm punished for discarding it?'. This guide covers proper disposal methods for omamori, Daruma dolls, kumade rakes, Maneki-neko cats, and power stones by type, including when to let go, what to avoid, and the concept of welcoming new items after disposal."
+title: "How to Properly Dispose of Lucky Charms, Omamori, and Crystals | A Complete Guide to Letting Go with Gratitude"
+description: "Resolve your worries about 'What if I'm punished for discarding it?'. This guide covers proper disposal methods for omamori, Daruma dolls, kumade rakes, Maneki-neko cats, and crystals by type, including when to let go, what to avoid, and the concept of welcoming new items after disposal."
 date: "2026-06-26"
 category: "lucky-goods"
-tags: ["Power Stones", "Ritual Burning", "Lucky Charms", "Letting Go"]
+tags: ["Crystals", "Ritual Burning", "Lucky Charms", "Letting Go"]
 draft: false
 ---
 
 ## Introduction: Easing Worries About "Is it Okay to Dispose of Them? Will I Be Punished?"
 
-Do you have old omamori (amulets) tucked away in a drawer, lucky charms you bought with hopes but no longer use, or broken power stones?
+Do you have old omamori (amulets) tucked away in a drawer, lucky charms you bought with hopes but no longer use, or broken crystals?
 
 Many people find themselves unable to part with these items for a long time, worried that "I might be punished if I throw them away" or "I don't know the right way to dispose of them, so I've just left them."
 
@@ -33,7 +33,7 @@ Instead of thinking of it as "disposal," try to read through with the image of "
 | Kumade (lucky rake) and Hamaya (demon-breaking arrow) | **One year** (exchanged at the next Tori-no-ichi market or New Year's visit) |
 | Daruma doll | **One year** or **when your wish has come true** |
 | Maneki-neko (beckoning cat) and other figurines | **When broken or damaged** (no specific time limit) |
-| Power Stones | **When purification no longer restores them, when broken, or when your gratitude fades** |
+| Crystals | **When purification no longer restores them, when broken, or when your gratitude fades** |
 
 ### Other Signs It's Time to Let Go
 
@@ -106,13 +106,13 @@ You could also inquire at a shrine's Kofuda Nōsho to see if they can accept the
 
 ---
 
-### ⑤ Power Stones
+### ⑤ Crystals
 
-Power stones have a different origin than shrine omamori, so their disposal methods are considered more flexible.
+Crystals have a different origin than shrine omamori, so their disposal methods are considered more flexible.
 
 **First things to try: Purification**
 
-When you feel it might be time to let go, first try purifying your power stone following the [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/). It's believed that purification can sometimes restore your connection with the stone.
+When you feel it might be time to let go, first try purifying your crystal following the [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/). It's believed that purification can sometimes restore your connection with the stone.
 
 **If you still decide to let go:**
 
@@ -121,7 +121,7 @@ When you feel it might be time to let go, first try purifying your power stone f
 -   **Dispose with Gratitude**: Wrap it in white paper, sprinkle salt, express your thanks, and then place it in non-combustible waste (as stones do not burn).
 
 **If a stone breaks or a bracelet snaps:**
-→ [Meaning and What to Do When a Power Stone Breaks or Bracelet Snaps](/blog/powerstone-broken-meaning/) explains the appropriate actions in detail. It's not an ominous sign, so please read that first.
+→ [Meaning and What to Do When a Crystal Breaks or Bracelet Snaps](/blog/powerstone-broken-meaning/) explains the appropriate actions in detail. It's not an ominous sign, so please read that first.
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E6%99%B6%E3%81%95%E3%81%96%E3%82%8C%E7%9F%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">Search for Crystal Chips on Rakuten Ichiba</a> (PR) — For crystal chips used in purification
 
@@ -148,7 +148,7 @@ While there's no "absolute correct" way to dispose of items, from the perspectiv
 At the root of the lucky charm culture is the idea that **"by letting go, new blessings and connections can enter your life."**
 
 You return old omamori, so you can receive new ones with fresh wishes.
-You let go of power stones that have fulfilled their role with gratitude, so you can encounter the next stone that calls to you.
+You let go of crystals that have fulfilled their role with gratitude, so you can encounter the next stone that calls to you.
 You return the kumade you used for a year, so you can rake in even greater fortune with a new, larger kumade.
 
 **"Disposal" isn't an end, but the beginning of the next cycle.**
@@ -156,10 +156,10 @@ You return the kumade you used for a year, so you can rake in even greater fortu
 For reference when welcoming new lucky charms:
 
 - [Complete Guide to Choosing Lucky Items](/blog/lucky-items-guide/)
-- [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+- [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
 - [Guide to Omamori Types and How to Choose](/blog/omamori-guide/)
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">Search for Power Stones on Rakuten Ichiba</a> (PR) — For those wanting to welcome new power stones
+<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">Search for Crystals on Rakuten Ichiba</a> (PR) — For those wanting to welcome new crystals
 
 ---
 
@@ -177,9 +177,9 @@ A: Yes, generally it will be accepted. In Shinto, there's a belief that "gods do
 
 A: Culturally, it's considered "disrespectful," but scientifically, there's no punishment. What's most important is "whether you are letting go with a feeling of gratitude." If you absolutely cannot go to a shrine, disposing of it by wrapping it in white paper and expressing your thanks (at-home memorial) is perfectly sufficient.
 
-**Q: Is a broken power stone an ominous sign?**
+**Q: Is a broken crystal an ominous sign?**
 
-A: It is not considered an ominous sign. Stones often break due to physical impact, deterioration, or temperature changes. Please refer to [Meaning and What to Do When a Power Stone Breaks or Bracelet Snaps](/blog/powerstone-broken-meaning/) for more details.
+A: It is not considered an ominous sign. Stones often break due to physical impact, deterioration, or temperature changes. Please refer to [Meaning and What to Do When a Crystal Breaks or Bracelet Snaps](/blog/powerstone-broken-meaning/) for more details.
 
 **Q: Can I return multiple omamori together?**
 
@@ -198,7 +198,7 @@ A: Returning items to a shrine's Kofuda Nōsho is generally free (some people op
 -   Omamori and Ofuda can be returned via **Kofuda Nōsho, Dondo-yaki, or Otakiage services**.
 -   For Daruma dolls, **draw in both eyes before ritual burning**. For Kumade and Hamaya, **return them to the shrine where you received them** is the basic practice.
 -   Maneki-neko and figurines should be **purified with salt and thanked before disposal** (ceramic items go into non-combustible waste).
--   For power stones, **try purification first**. If you still let go, return them to the earth or consult a shrine.
+-   For crystals, **try purification first**. If you still let go, return them to the earth or consult a shrine.
 -   **Once you let go, you become ready to welcome new things.** View it positively as a cycle.
 
 ### A message from Sun-chan☀️
@@ -218,6 +218,6 @@ Today, why not say just one word to those items that have been sleeping in your 
 -   [Guide to Omamori Types and How to Choose](/blog/omamori-guide/)
 -   [Maneki-neko Selection Guide | Complete Guide to Colors, Paw Direction, and Placement](/blog/maneki-neko/)
 -   [Daruma Doll Selection Guide | Complete Guide to Colors and Eye-Drawing Rituals](/blog/daruma-guide/)
--   [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/)
--   [Meaning and What to Do When a Power Stone Breaks or Bracelet Snaps](/blog/powerstone-broken-meaning/)
--   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
+-   [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/)
+-   [Meaning and What to Do When a Crystal Breaks or Bracelet Snaps](/blog/powerstone-broken-meaning/)
+-   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)

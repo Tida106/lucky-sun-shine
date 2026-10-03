@@ -150,7 +150,7 @@ Collecting multiple good luck charms with **the same theme** can help them funct
 -   **South** — Fame and popularity (red or reddish items)
 -   **North** — Romance and health luck (white or pink items)
 
-→ For more details, refer to [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/).
+→ For more details, refer to [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/).
 
 ### Display Etiquette
 
@@ -215,9 +215,9 @@ A. **It's traditional to display it for about one year.** Rather than disposing 
 
 A. Yes. **Many Japanese households traditionally combine them.** The mixture of Feng Shui (Chinese origin), Shinto, and Buddhism is a characteristic feature of Japanese religious culture. It is recommended to choose items based on **the theme you wish to value.**
 
-**Q6. Are power stones also considered good luck charms?**
+**Q6. Are crystals also considered good luck charms?**
 
-A. Yes. **Bracelets, raw stones, and pendants** are all types of good luck charms. For more details, refer to [The Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/).
+A. Yes. **Bracelets, raw stones, and pendants** are all types of good luck charms. For more details, refer to [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/).
 
 ## <span id="related"></span>Related Articles You Might Like
 
@@ -228,11 +228,11 @@ A. Yes. **Bracelets, raw stones, and pendants** are all types of good luck charm
 -   [Guide to Kumade: Origins, Tori-no-ichi, Sizes, Display, and Disposal Methods](/blog/kumade-guide/) — Tori-no-ichi and the customs of Kumade
 -   [Disposal Methods for Omamori and Engimono: A Complete Guide to Proper Procedures, Burning Rituals, and Home Memorials](/blog/engimono-disposal/) — Procedures for burning rituals, Dondo-yaki, and home memorial services
 -   [How to Choose a Wallet for Money Luck](/blog/money-luck-wallet/) — Wallet materials, colors, and replacement timing
--   [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/) — Combining spatial energy and good fortune
+-   [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/) — Combining spatial energy and good fortune
 -   [A Complete Guide to Shrine Visit Basics](/blog/shrine-visit-basics/) — Before receiving an omamori
--   [The Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/) — Stones as a type of lucky charm
--   [Feng Shui for Entrances and Power Stone Placement](/blog/fengshui-entrance-stones/) — Where to display good luck charms
--   [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — For choosing stones based on your wishes
+-   [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — Stones as a type of lucky charm
+-   [Feng Shui for Entrances and Crystal Placement](/blog/fengshui-entrance-stones/) — Where to display good luck charms
+-   [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — For choosing stones based on your wishes
 
 ## The Editorial Team's View: The Idea That "Buying Brings Luck" Is Outdated
 

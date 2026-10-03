@@ -1,7 +1,7 @@
 ---
 title: "Protection and Warding Off Stones | Complete Guide to Meanings, Effects, and Combinations"
 description: >-
-  A comprehensive guide to power stones truly effective for protection and warding off evil. Covers the meanings and effects of Morion, Obsidian, Onyx, Hematite, Smoky Quartz, and more. Includes selection tips for specific situations like unlucky years, spiritual anxieties, and bad relationships, as well as combinations, how to use them in your entryway and car, and FAQs.
+  A comprehensive guide to crystals truly effective for protection and warding off evil. Covers the meanings and effects of Morion, Obsidian, Onyx, Hematite, Smoky Quartz, and more. Includes selection tips for specific situations like unlucky years, spiritual anxieties, and bad relationships, as well as combinations, how to use them in your entryway and car, and FAQs.
 date: '2026-05-10'
 updated: '2026-05-24'
 category: powerstones
@@ -14,15 +14,15 @@ draft: false
 
 ## Introduction
 
-"**Anxious about an unlucky year?**" "**Feeling down on your luck lately?**" "**Want to protect yourself from negative places or people?**" The theme of banishing evil and seeking protection has been one of the oldest prayers across cultures and throughout history. In this article, we've compiled a comprehensive guide to power stones traditionally associated with protection and warding off evil, **centering on Morion as a guardian stone**. It covers everything from how to choose stones for specific situations and effective combinations, to how to wear them and frequently asked questions. If you'd like an overview with a comparison chart, please also refer to our [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/#protection).
+"**Anxious about an unlucky year?**" "**Feeling down on your luck lately?**" "**Want to protect yourself from negative places or people?**" The theme of banishing evil and seeking protection has been one of the oldest prayers across cultures and throughout history. In this article, we've compiled a comprehensive guide to crystals traditionally associated with protection and warding off evil, **centering on Morion as a guardian stone**. It covers everything from how to choose stones for specific situations and effective combinations, to how to wear them and frequently asked questions. If you'd like an overview with a comparison chart, please also refer to our [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/#protection).
 
-## The Relationship Between Protection and Power Stones
+## The Relationship Between Protection and Crystals
 
 Many stones used for protection and warding off evil often come in **black, dark brown, or metallic hues**, and have traditionally served the role of **"absorbing and reflecting negative energies."** In ancient Rome, warriors embedded **Hematite** in their shields, in Tibet, **Black Quartz (Morion)** was used by high monks for their spiritual training, and in Japan, **black crystal spheres** have historically been used in shrine amulets.
 
-> **Note**: The effects of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Note**: The effects of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
-## Recommended Power Stones for Protection
+## Recommended Crystals for Protection
 
 Here are 5 representative stones that support protection and warding off evil, organized by their roles.
 
@@ -77,7 +77,7 @@ A more gentle **everyday guardian stone** than Morion. It balances **stress redu
 | Obsidian x Onyx | Releasing the past and cutting bad ties |
 | Morion x [Clear Quartz](/blog/clear-quartz/) | Amplification of purification |
 
-For the basics of combinations, refer to our [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/).
+For the basics of combinations, refer to our [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/).
 
 ## How to Wear and Incorporate Them
 
@@ -119,11 +119,11 @@ A. **Once every one to two weeks**, or sooner if something unpleasant has happen
 
 ## Related Articles You Might Also Like
 
--   [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison and quick reference for 10 categories
--   [Power Stones for Health Luck](/blog/health-luck-stones/) — Harmonize mind and body
--   [Power Stones for Interpersonal Luck](/blog/relation-luck-stones/) — Protection from difficult people
+-   [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Comparison and quick reference for 10 categories
+-   [Crystals for Health Luck](/blog/health-luck-stones/) — Harmonize mind and body
+-   [Crystals for Interpersonal Luck](/blog/relation-luck-stones/) — Protection from difficult people
 -   [How to Spend Your Unlucky Years](/blog/lucky-habits-guide/) — Habits for unlucky years
--   [Complete Guide to Power Stone Combinations](/blog/powerstone-combinations/) — Basics of combinations
+-   [Complete Guide to Crystal Combinations](/blog/powerstone-combinations/) — Basics of combinations
 
 ## Editorial Team's Perspective: Don't Be Swayed by the Catchphrase "Strongest Warding-Off Stone"
 

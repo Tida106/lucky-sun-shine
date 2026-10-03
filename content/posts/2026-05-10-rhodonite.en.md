@@ -38,7 +38,7 @@ In a spiritual context, the pink color symbolizes "love," while the black patche
 *   Wish to cultivate a broad and gentle love
 
 ## Effects and What It's Said to Do
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed.
 
 *   **Forgiveness and Acceptance**: Known as the "Stone of Forgiveness," it is believed to mend past relationships.
 *   **Brotherly and Human Love**: From the Russian tradition of the "Fledgling Stone," it's considered a stone that fosters broad love.
@@ -114,8 +114,8 @@ A. It's not considered a stone that amplifies anger, so there's no need to worry
 A. While lighter pink specimens might appear more feminine, dark rhodonite with strong black patterns suits a unisex style. As a "stone for cultivating broad love" and a "fledgling stone," it can also be worn by men who are just starting their careers.
 
 ## Related Articles You Might Want to Read
-*   [Complete Guide to Choosing Power Stones](/blog/how-to-choose-powerstones/)
-*   [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/)
+*   [Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/)
+*   [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/)
 *   [Rose Quartz Meaning, Stone Words, and Effects](/blog/rose-quartz-meaning/)
 *   [Rhodochrosite Meaning, Stone Words, and Effects](/blog/rhodochrosite/)
 *   [Obsidian Meaning, Stone Words, and Effects](/blog/obsidian/)
@@ -124,7 +124,7 @@ A. While lighter pink specimens might appear more feminine, dark rhodonite with 
 I feel that rhodonite isn't a "quick-fix stone" but rather one you spend a long time with. It has a way of letting you realize, "Ah, I was able to forgive that past time," not right after you buy it, but after you've shared your daily life with it for six months or a year. Perhaps precisely because its coloring isn't flashy, it's a stone that chooses its owner.
 
 ## Summary
-*   Rhodonite is a power stone symbolizing "Forgiveness, Brotherly Love, and Renewal."
+*   Rhodonite is a crystal symbolizing "Forgiveness, Brotherly Love, and Renewal."
 *   Forgiveness and Acceptance: Believed to heal past relationships.
 *   Brotherly and Human Love: Said to foster broad love.
 *   For purification, clear quartz tumbled stones and white sage are recommended. It's best to avoid prolonged direct sunlight.
