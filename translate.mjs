@@ -6,7 +6,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-3.8-flash" });
+const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts');
 
 const promptInstruction = `
@@ -25,10 +25,24 @@ const promptInstruction = `
 10. 見出し(##, ###)の構造はそのまま維持する
 11. frontmatterやMarkdown本文中で "&" という文字は絶対に単体で使わず、必ず "and" と書く
 12. リンクや画像パスがあればそのまま維持する(URLは翻訳しない)
-13. Markdownのコードブロック記号(\`\`\`)等で出力全体を囲まないこと。ファイルの中身のみをそのまま出力してください。
+13. Markdownのコードブロック記号(\`\`\`)等で出力全体やfrontmatterを囲まないこと。ファイルの中身のみをそのまま出力してください。
+14. 出力の1行目は必ず "---" で始め、frontmatterの区切り "---" は開始と終了の2つだけにすること。
 `;
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// Geminiの出力を整形・検証する。不正ならnullを返す
+function cleanOutput(text) {
+  let t = text.replace(/^\uFEFF/, '');
+  // コードフェンスを全部除去（```yaml / ```markdown / ``` 何でも）
+  t = t.replace(/^\s*```[a-zA-Z]*\s*$/gm, '').trim();
+  // 先頭の重複 --- を1つにまとめる
+  t = t.replace(/^(---\s*\r?\n)+/, '---\n');
+  // 検証：frontmatterにtitleとdateが必須
+  const fm = t.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (!fm || !/^title:/m.test(fm[1]) || !/^date:/m.test(fm[1])) return null;
+  return t + '\n';
+}
 
 async function main() {
   const files = fs.readdirSync(POSTS_DIR);
@@ -37,6 +51,7 @@ async function main() {
   let processedCount = 0;
   let skippedCount = 0;
   const createdFiles = [];
+  const failedFiles = [];
 
   for (const file of targetFiles) {
     const enFileName = file.replace(/\.md$/, '.en.md');
@@ -44,7 +59,6 @@ async function main() {
     const originalFilePath = path.join(POSTS_DIR, file);
 
     if (fs.existsSync(enFilePath)) {
-      console.log(`スキップ: ${enFileName} (既に存在します)`);
       skippedCount++;
       continue;
     }
@@ -52,34 +66,37 @@ async function main() {
     console.log(`翻訳中: ${file} ...`);
     try {
       const content = fs.readFileSync(originalFilePath, 'utf8');
-      const result = await model.generateContent(`${promptInstruction}\n\n---\n以下が翻訳対象のファイルです:\n\n${content}`);
-      let translatedText = result.response.text();
+      const result = await model.generateContent(`${promptInstruction}\n\n以下が翻訳対象のファイルです:\n\n${content}`);
+      const cleaned = cleanOutput(result.response.text());
 
-      translatedText = translatedText.replace(/^```markdown\n/, '').replace(/^```\n/, '').replace(/\n```$/, '').trim();
-
-      fs.writeFileSync(enFilePath, translatedText, 'utf8');
-      console.log(`  -> 成功: ${enFileName} を作成しました。`);
-      createdFiles.push(enFileName);
-      processedCount++;
-
-      // API制限回避のため4.5秒待機
-      await sleep(4500);
+      if (!cleaned) {
+        console.error(`  -> 不正な出力のため保存せずスキップ: ${file}`);
+        failedFiles.push(file);
+      } else {
+        fs.writeFileSync(enFilePath, cleaned, 'utf8');
+        console.log(`  -> 成功: ${enFileName}`);
+        createdFiles.push(enFileName);
+        processedCount++;
+      }
     } catch (error) {
-      console.error(`  -> エラー: ${file} の翻訳に失敗しました。`, error.message);
+      console.error(`  -> エラー: ${file}`, error.message);
+      failedFiles.push(file);
     }
+
+    // API制限回避のため4.5秒待機（失敗時も待つ）
+    await sleep(4500);
   }
 
   console.log('\n=== 完了レポート ===');
-  console.log(`作成したファイル数: ${processedCount}`);
-  console.log(`スキップしたファイル数: ${skippedCount}`);
+  console.log(`作成: ${processedCount} / スキップ(既存): ${skippedCount} / 失敗: ${failedFiles.length}`);
   if (createdFiles.length > 0) {
-    console.log('作成したファイル一覧:');
+    console.log('作成したファイル:');
     createdFiles.forEach(f => console.log(` - ${f}`));
+  }
+  if (failedFiles.length > 0) {
+    console.log('失敗したファイル（次回実行で再挑戦）:');
+    failedFiles.forEach(f => console.log(` - ${f}`));
   }
 }
 
 main();
-
-
-
-
