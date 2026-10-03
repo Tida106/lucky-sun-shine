@@ -60,7 +60,7 @@ function main() {
     const { data } = matter(raw);
     if (!data.redirect_to) continue;
 
-    const slug = data.slug || file.replace(/\.mdx?$/, '');
+    const slug = data.slug || file.replace(/\.mdx?$/, '').replace(/\.en$/, '');
     const dir  = path.join(OUT_BASE, slug);
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, 'index.html'), renderStub(data.redirect_to, data.title));

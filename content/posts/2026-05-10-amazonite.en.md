@@ -58,7 +58,7 @@ In ancient Egypt, Amazonite was used as **decorative plaques engraved with the "
 
 ## <span id="benefits"></span>Perceived Benefits
 
-> **Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Hope and Future-Oriented Mindset** — A symbol that inspires belief in a bright future
 - **Smoother Communication** — Corresponds to the 5th chakra, imbuing words with courage
@@ -112,7 +112,7 @@ A. Culturally, it has been spoken of since ancient times as a "**stone that best
 
 **Q5. Are there other stones for self-expression?**
 
-A. Aquamarine, Turquoise, Lapis Lazuli, and Sodalite are classic choices. For more details, please refer to the "Relationships" chapter in the [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/).
+A. Aquamarine, Turquoise, Lapis Lazuli, and Sodalite are classic choices. For more details, please refer to the "Relationships" chapter in the [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/).
 
 ## <span id="postscript"></span>Editor's Note
 
@@ -123,8 +123,8 @@ For me, Sun-chan, Amazonite is "**the stone for mornings when I lack motivation*
 - [Aquamarine Meaning and Effects](/blog/aquamarine/) — The communication pair
 - [Turquoise Meaning and Effects](/blog/turquoise/) — The freedom and adventure pair
 - [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — The self-love pair
-- [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Appears in the Relationships chapter
-- [Feng Shui and Power Stone Basics](/blog/fengshui-powerstone-basics/) — Combining with environmental energy
+- [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Appears in the Relationships chapter
+- [Feng Shui and Crystal Basics](/blog/fengshui-powerstone-basics/) — Combining with environmental energy
 
 ## Summary
 

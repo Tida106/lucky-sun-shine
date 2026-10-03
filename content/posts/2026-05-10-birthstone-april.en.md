@@ -34,7 +34,7 @@ April's main birthstone is **Diamond**, with **Quartz (Crystal)** traditionally 
 
 The stone lore for Diamond speaks of "**Eternal Bond, Unyielding Spirit, Purity, and Cleansing**." Its name comes from the Greek word "**adamas**," meaning "**unconquerable**," reflecting its incredible hardness (Mohs scale 10), which means it **cannot be shattered by anything**.
 
-> **Please Note**: The effects of power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Please Note**: The effects of crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
 In ancient India, it was believed that diamonds were born from "**tears of the gods**" or "**fallen lightning bolts**," making them amulets for warriors. During medieval Europe, they adorned **crowns and scepters**, and from modern times onward, they became the **go-to for engagement rings**, symbolizing "eternal love." On the other hand, its alternative, Quartz, is known as the "**Master Crystal**" or "**all-purpose stone**," celebrated for its purifying and amplifying properties. It shares a common symbolism with diamonds: **transparent purity**.
 
@@ -77,7 +77,7 @@ Here are the main benefits often attributed to Diamond and Quartz:
 | Salt | Excellent | Excellent |
 | Direct Sunlight | Excellent | Good |
 
-Both Diamond and Quartz are **super versatile**, with **very few restrictions on cleansing methods**. For more details, check out our [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/).
+Both Diamond and Quartz are **super versatile**, with **very few restrictions on cleansing methods**. For more details, check out our [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/).
 
 ## Also Recommended for Birthday Gifts
 

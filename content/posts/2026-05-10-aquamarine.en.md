@@ -59,7 +59,7 @@ Ancient Roman sailors, wishing for safe voyages and returns, offered aquamarine 
 
 ## <span id="benefits"></span>Reputed Benefits
 
-> **Please note**: The "benefits" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
+> **Please note**: The "benefits" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences may vary.
 
 - **Inner Peace and Healing** — Blue energy that calms emotional waves
 - **Enhanced Communication** — Corresponds to the 5th chakra, helping to convey true feelings
@@ -113,7 +113,7 @@ A. **Bloodstone (Heliotrope)** is also known as a traditional March birthstone. 
 
 **Q5. Are there other stones for marital bliss and finding a partner?**
 
-A. Rose Quartz, Rhodochrosite, and Pink Tourmaline are popular choices. For more details, please refer to the chapter on marital luck in our [Comprehensive Power Stone Guide by Purpose](/blog/luck-powerstones-complete-guide/).
+A. Rose Quartz, Rhodochrosite, and Pink Tourmaline are popular choices. For more details, please refer to the chapter on marital luck in our [Comprehensive Crystal Guide by Purpose](/blog/luck-powerstones-complete-guide/).
 
 ## <span id="postscript"></span>Editor's Postscript
 
@@ -125,7 +125,7 @@ For Sun-chan, aquamarine is "**the stone that lets you wash away emotions with w
 -   [Blue Topaz Meaning and Benefits](/blog/blue-topaz/) — A blue pair for communication
 -   [Moonstone Meaning and Benefits](/blog/moonstone/) — A pair of water and moon
 -   [Comprehensive Guide to 12-Month Birthstones](/blog/birthstone-guide/) — As a March birthstone
--   [Comprehensive Power Stone Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the chapter on marital luck
+-   [Comprehensive Crystal Guide by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the chapter on marital luck
 
 ## Summary
 

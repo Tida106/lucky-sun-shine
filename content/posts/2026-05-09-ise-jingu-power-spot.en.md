@@ -1,6 +1,6 @@
 ---
 title: "Ise Grand Shrine Pilgrimage Guide: Visiting Japan's Chief Guardian Deity and a Complete Guide to This Power Spot"
-description: "This comprehensive guide covers the history, blessings, official pilgrimage order (Geku to Naiku), nearby power spots, model itineraries, etiquette, and recommended power stones for Ise Grand Shrine, revered as 'Japan's Chief Guardian Deity.' It's an easy-to-understand, essential guide for first-time visitors."
+description: "This comprehensive guide covers the history, blessings, official pilgrimage order (Geku to Naiku), nearby power spots, model itineraries, etiquette, and recommended crystals for Ise Grand Shrine, revered as 'Japan's Chief Guardian Deity.' It's an easy-to-understand, essential guide for first-time visitors."
 date: "2026-05-09"
 updated: "2026-05-11"
 category: "powerspots"
@@ -11,7 +11,7 @@ draft: false
 
 ## Introduction
 
-Ise Grand Shrine (Ise Jingu) in Ise City, Mie Prefecture, is hailed as "Japan's Chief Guardian Deity" and attracts over 8 million visitors annually, making it one of Japan's foremost spiritual power spots. Its official name is simply "Jingu," and it encompasses a total of 125 shrines and facilities. A unique tradition, the **Shikinen Sengu**, has continued for over 1,300 years, involving the complete reconstruction of all shrine buildings every 20 years. This article provides a comprehensive overview on a single page, covering its history, pilgrimage order, model itineraries, surrounding spots, recommended power stones for your visit, and frequently asked questions.
+Ise Grand Shrine (Ise Jingu) in Ise City, Mie Prefecture, is hailed as "Japan's Chief Guardian Deity" and attracts over 8 million visitors annually, making it one of Japan's foremost spiritual power spots. Its official name is simply "Jingu," and it encompasses a total of 125 shrines and facilities. A unique tradition, the **Shikinen Sengu**, has continued for over 1,300 years, involving the complete reconstruction of all shrine buildings every 20 years. This article provides a comprehensive overview on a single page, covering its history, pilgrimage order, model itineraries, surrounding spots, recommended crystals for your visit, and frequently asked questions.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Ise Grand Shrine (Ise Jingu) in Ise City, Mie Prefecture, is hailed as "Japan's 
 - [Basic Pilgrimage Etiquette](#manner)
 - [Nearby Power Spots](#nearby)
 - [Model Itinerary](#course)
-- [Recommended Power Stones](#stones)
+- [Recommended Crystals](#stones)
 - [Frequently Asked Questions (FAQ)](#faq)
 - [Editor's Notes](#postscript)
 - [Related Articles You Might Also Like](#related)
@@ -112,7 +112,7 @@ An essential area to enjoy after your visit. Tea and mochi at **Akafuku Honten**
 | 15:30 | Sarutahiko Shrine |
 | 16:00 | Depart |
 
-## <span id="stones"></span>Recommended Power Stones
+## <span id="stones"></span>Recommended Crystals
 
 The sacred grounds of Ise Grand Shrine are filled with the pure energy of Amaterasu, the Sun Goddess. Here are some stones believed to resonate well with this energy.
 
@@ -191,7 +191,7 @@ And that's perfectly fine. Ise is a place to "reset your wishes." Until your fut
 - [Meaning and Effects of Clear Quartz](/blog/clear-quartz/) — As an amulet for visiting sacred grounds
 - [Meaning and Effects of Citrine](/blog/citrine/) — A stone for financial luck that resonates with the Sun Goddess
 - [Meaning and Effects of Rose Quartz](/blog/rose-quartz-meaning/) — An amulet of compassion and love
-- [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the chapter on good fortune and warding off evil
+- [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the chapter on good fortune and warding off evil
 
 ## Summary
 

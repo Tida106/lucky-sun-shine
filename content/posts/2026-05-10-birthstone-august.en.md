@@ -34,7 +34,7 @@ The main August birthstone is **Peridot**, with **Sardonyx** as a traditional al
 
 Peridot's healing properties include **"marital harmony, hope, warding off evil, and happiness."** In ancient Egypt, it was displayed in temples as the **"Jewel of the Sun,"** and there's even a theory that the emeralds beloved by **Cleopatra** were, in fact, peridot, showing how often the two were confused!
 
-> **Note**: The effects of power stones are cultural and symbolic. They are not medically or scientifically guaranteed.
+> **Note**: The effects of crystals are cultural and symbolic. They are not medically or scientifically guaranteed.
 
 Its ability to **shine brightly** even by candlelight earned it the name **"Evening Emerald" (Sun of the Night)**, and it has been treasured since ancient times as a **"stone for warding off evil,"** dispelling darkness. **Sardonyx**, with its red and white bands, symbolizes **"the bond of marriage,"** and **Spinel**, due to its long history of being confused with ruby, symbolizes **"resurrection and vitality."**
 
@@ -77,7 +77,7 @@ The main effects attributed to peridot and its fellow August birthstones are as 
 | Salt | △ | ○ | ○ |
 | Direct Sunlight | △ (Caution for discoloration) | ◎ | ◎ |
 
-Peridot has a **Mohs hardness of 6.5 to 7** and can be prone to cracking with sudden temperature changes or strong impacts. For more details, refer to the [Complete Guide to Power Stone Purification Methods](/blog/purification-complete-guide/).
+Peridot has a **Mohs hardness of 6.5 to 7** and can be prone to cracking with sudden temperature changes or strong impacts. For more details, refer to the [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/).
 
 ## Also Recommended as a Birthday Gift
 

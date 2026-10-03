@@ -244,7 +244,7 @@ A. **It's perfectly fine.** If you choose with a theme in mind, such as "this ye
 
 A. If you have a lifestyle where you **hardly use cash**, a mini wallet or card case is perfectly fine. The era is moving towards prioritizing **ease of use** over traditional money luck theories. However, it's a good idea to leave enough space for a small amount of cash and a lucky charm, so you won't be inconvenienced in a pinch.
 
-**Q5. Can I put a power stone in my wallet?**
+**Q5. Can I put a crystal in my wallet?**
 
 A. Yes. Many people place small pieces of **money luck stones (citrine, rutilated quartz, pyrite, and tiger's eye)** in their wallets. It's a common way to carry them as protective stones. For more details, you can refer to [The Meaning and Effects of Citrine](/blog/citrine/) and [The Meaning and Effects of Rutilated Quartz](/blog/rutilated-quartz/).
 
@@ -258,7 +258,7 @@ A. It means **the state where the portraits (faces of people) are aligned in the
 -   [The Meaning and Effects of Citrine](/blog/citrine/) — A representative money luck stone for business prosperity.
 -   [The Meaning and Effects of Rutilated Quartz](/blog/rutilated-quartz/) — The strongest money luck stone.
 -   [The Meaning and Effects of Pyrite (Fool's Gold)](/blog/pyrite/) — A symbol of money luck, often called fool's gold.
--   [Basics of Feng Shui and Power Stones](/blog/fengshui-powerstone-basics/) — Combining spatial energy and good fortune.
+-   [Basics of Feng Shui and Crystals](/blog/fengshui-powerstone-basics/) — Combining spatial energy and good fortune.
 
 ## <span id="team-view"></span>Editorial Team's View: Don't Be Swayed by "Money Luck Wallet Myths"
 

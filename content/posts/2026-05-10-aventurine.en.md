@@ -58,7 +58,7 @@ In ancient India, it was used in meditation as the "**stone that opens the heart
 
 ## <span id="benefits"></span>Purported Benefits
 
-> **Please Note**: The "effects" of power stones are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences of their effects may vary.
+> **Please Note**: The "effects" of crystals are cultural and symbolic in nature. They are not medically or scientifically guaranteed, and individual experiences of their effects may vary.
 
 - **Health and Well-being** — A symbol for balancing mind and body
 - **Stress Relief** — Bringing calm and tranquility
@@ -111,7 +111,7 @@ A. It has long been described as a "**symbol for balancing mind and body**," but
 
 **Q5. Are there other healing stones?**
 
-A. Rose Quartz, Amethyst, Prehnite, and Sugilite are some classic choices. For more details, please refer to the "Health and Healing" chapter of our [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/).
+A. Rose Quartz, Amethyst, Prehnite, and Sugilite are some classic choices. For more details, please refer to the "Health and Healing" chapter of our [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/).
 
 ## <span id="postscript"></span>Editor's Note
 
@@ -122,8 +122,8 @@ For me, as the site operator, Aventurine is like a "**guideline for days when I'
 - [Rose Quartz Meaning and Effects](/blog/rose-quartz-meaning/) — A healing pair
 - [Amethyst Meaning and Effects](/blog/amethyst/) — A pair for mental stability
 - [Prehnite Meaning and Effects](/blog/prehnite/) — A green pair for nature and healing
-- [Comprehensive Guide to Power Stones by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Health and Healing chapter
-- [Complete Guide to Power Stone Cleansing Methods](/blog/purification-complete-guide/) — Proper care for Aventurine
+- [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Health and Healing chapter
+- [Complete Guide to Crystal Cleansing Methods](/blog/purification-complete-guide/) — Proper care for Aventurine
 
 ## Summary
 
