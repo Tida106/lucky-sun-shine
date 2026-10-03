@@ -12,7 +12,11 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import TableOfContents from "@/components/TableOfContents";
 import ShareButtons from "@/components/ShareButtons";
 import ArticleCover from "@/components/ArticleCover";
+import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import { getRelatedPosts } from "@/lib/related";
+
+// 365日誕生日石の表だけ、石名リンクの左に丸いサムネイル画像を復元する対象。
+const STONE_THUMB_SLUGS = new Set(["birthday-stone-365"]);
 
 const LOCALE = "ja";
 
@@ -113,7 +117,11 @@ export default async function BlogPostPage({ params }) {
         )}
 
         <div className="prose-article">
-          <div dangerouslySetInnerHTML={{ __html: html }} />
+          {STONE_THUMB_SLUGS.has(post.slug) ? (
+            <StoneThumbEnhancer html={html} />
+          ) : (
+            <div dangerouslySetInnerHTML={{ __html: html }} />
+          )}
         </div>
 
         {/* ▼▼ パワースポット記事専用のCTA（sあり・なし両対応） ▼▼ */}
