@@ -65,7 +65,7 @@ export default async function BlogPostPage({ params }) {
   const post = getPostBySlug(slug, LOCALE);
   if (!post) notFound();
 
-  const html = await renderMarkdown(post.content);
+  const html = await renderMarkdown(post.content, LOCALE);
   const headings = extractHeadings(html);
   const cat = getCategory(post.category);
   const minutes = readingTimeMinutes(post.content, LOCALE);

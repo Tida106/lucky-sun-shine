@@ -199,7 +199,7 @@ export default function EnHomePage() {
               return (
                 <Link
                   key={c.slug}
-                  href={`/en/category/${c.slug}/`}
+                  href={`/category/${c.slug}/`}
                   className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/90 backdrop-blur-sm border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
                 >
                   <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600" />
@@ -366,7 +366,7 @@ export default function EnHomePage() {
             return (
               <Link
                 key={c.slug}
-                href={`/en/category/${c.slug}/`}
+                href={`/category/${c.slug}/`}
                 className={`group block rounded-2xl p-5 overflow-hidden border border-white/60 ${c.pastel.bg} shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out`}
               >
                 <CategoryIcon
@@ -660,7 +660,7 @@ export default function EnHomePage() {
           <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
         </div>
         <Link
-          href="/en/recommend-youtube/"
+          href="/recommend-youtube/"
           className="group block rounded-2xl overflow-hidden border border-amber-200 bg-gradient-to-br from-amber-50 via-rose-50 to-orange-50 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"
         >
           <div className="grid gap-6 md:grid-cols-[auto_minmax(0,1fr)] items-center p-6 md:p-8">

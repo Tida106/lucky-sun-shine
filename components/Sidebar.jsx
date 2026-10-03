@@ -21,13 +21,10 @@ function CardHeading({ children }) {
   );
 }
 
-function SeriesSection({ s, locale = 'ja' }) {
+function SeriesSection({ s, locale = 'ja', blogHref }) {
   const isEn = locale === 'en';
   const a = accentClasses(s.accent);
   const isOpen = DEFAULT_OPEN_SERIES.has(s.id);
-  
-  // 英語の場合はリンク先も /en/blog/... に切り替える
-  const blogPrefix = isEn ? '/en/blog/' : '/blog/';
 
   return (
     <details className={`group rounded-xl border border-amber-100 bg-white/80 ${a.bar} border-l-4`} open={isOpen}>
@@ -46,7 +43,7 @@ function SeriesSection({ s, locale = 'ja' }) {
       <div className="px-3 pb-3 pt-1">
         {s.hubSlug && (
           <Link
-            href={`${blogPrefix}${s.hubSlug}/`}
+            href={blogHref(s.hubSlug)}
             className={`block mb-2 px-3 py-1.5 rounded-lg text-xs font-bold ${a.chip} hover:opacity-90 transition-opacity`}
           >
             ☀️ {isEn ? 'View Full Guide' : (s.hubLabel || '総合ガイドを見る')} →
@@ -56,7 +53,7 @@ function SeriesSection({ s, locale = 'ja' }) {
           {s.items.map((it) => (
             <li key={it.slug}>
               <Link
-                href={`${blogPrefix}${it.slug}/`}
+                href={blogHref(it.slug)}
                 className={`block px-2 py-1 rounded text-xs text-ink-700 ${a.hover} transition-colors`}
               >
                 {it.label}
@@ -77,7 +74,7 @@ const categoryEnMap = {
   '運気アップ習慣': 'Good Luck Habits',
 };
 
-export default function Sidebar({ headings, locale = 'ja' }) {
+export default function Sidebar({ headings, locale = 'ja', enSlugs = [] }) {
   const isEn = locale === 'en';
 
   // UIテキストの英語/日本語 切り替え辞書
@@ -94,11 +91,15 @@ export default function Sidebar({ headings, locale = 'ja' }) {
     tags: isEn ? "View all tags →" : "タグ一覧から探す →",
   };
 
-  // リンク先URLのプレフィックス切り替え（英語サイト内でクリックしても日本語ページに戻されないための最重要設定）
-  const searchUrl = isEn ? '/en/search/' : '/search/';
-  const tagUrl = isEn ? '/en/tags/' : '/tags/';
-  const catPrefix = isEn ? '/en/category/' : '/category/';
-  const blogPrefix = isEn ? '/en/blog/' : '/blog/';
+  // /en/search/ /en/tags/ /en/category/ ページはまだ存在しないため、
+  // 英語ロケールでもこれらは日本語版へのリンクのままにする(新たな404を防ぐ)。
+  const searchUrl = '/search/';
+  const tagUrl = '/tags/';
+  const catPrefix = '/category/';
+
+  // /blog/[slug]/ は英語版記事が実在する時だけ /en/blog/[slug]/ に変換する。
+  const enSlugSet = new Set(enSlugs);
+  const blogHref = (slug) => (isEn && enSlugSet.has(slug) ? `/en/blog/${slug}/` : `/blog/${slug}/`);
 
   return (
     <aside className="space-y-6">
@@ -138,7 +139,7 @@ export default function Sidebar({ headings, locale = 'ja' }) {
                 </Link>
                 {c.pillarSlug && (
                   <Link
-                    href={`${blogPrefix}${c.pillarSlug}/`}
+                    href={blogHref(c.pillarSlug)}
                     className="mt-1 block pl-6 text-[11px] text-ink-700 hover:text-amber-700"
                   >
                     └ {isEn ? 'View Pillar Article' : c.pillarTitle} →
@@ -158,7 +159,7 @@ export default function Sidebar({ headings, locale = 'ja' }) {
         </p>
         <div className="space-y-2">
           {series.map((s) => (
-            <SeriesSection key={s.id} s={s} locale={locale} />
+            <SeriesSection key={s.id} s={s} locale={locale} blogHref={blogHref} />
           ))}
         </div>
         <p className="mt-3 text-[11px] text-ink-500 leading-relaxed">

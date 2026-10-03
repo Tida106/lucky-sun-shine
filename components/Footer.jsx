@@ -29,12 +29,15 @@ export default function Header() {
     : `/en${pathname === '/' ? '' : pathname}`;
 
   // 英語・日本語のテキストとURLの切り替え辞書
+  // /en/search/, /en/recommend-youtube/, /en/about-mascot/, /en/category/
+  // はまだ存在しないため、英語ロケールでも日本語版へのリンクのままにする
+  // (新たな404を防ぐ)。/en/omikuji/ は実在するのでそのまま。
   const t = {
     home: isEn ? '/en/' : '/',
-    search: isEn ? '/en/search/' : '/search/',
-    youtubeLink: isEn ? '/en/recommend-youtube/' : '/recommend-youtube/',
+    search: '/search/',
+    youtubeLink: '/recommend-youtube/',
     youtubeText: isEn ? 'Recommended YouTube' : 'おすすめYouTubeチャンネル',
-    mascotLink: isEn ? '/en/about-mascot/' : '/about-mascot/',
+    mascotLink: '/about-mascot/',
     mascotText: isEn ? 'Who is Sun-chan?' : '☀️太陽ちゃんって？',
     mascotTitle: isEn ? 'About our mascot Sun-chan' : 'Lucky Sun Shine の公式マスコット 太陽ちゃんを紹介',
     omikujiLink: isEn ? '/en/omikuji/' : '/omikuji/',
@@ -44,7 +47,7 @@ export default function Header() {
     logoAria: isEn ? 'To Lucky Sun Shine Top' : 'Lucky Sun Shine トップへ',
   };
 
-  const getCategoryUrl = (slug) => (isEn ? `/en/category/${slug}/` : `/category/${slug}/`);
+  const getCategoryUrl = (slug) => `/category/${slug}/`;
 
   return (
     <header className="sticky top-0 z-30 backdrop-blur bg-white/80 border-b border-amber-200">

@@ -17,9 +17,9 @@ export default function StoneThumbEnhancer({ html, className }) {
     if (!container) return;
     let cancelled = false;
 
-    const links = container.querySelectorAll('table a[href^="/blog/"]');
+    const links = container.querySelectorAll('table a[href^="/blog/"], table a[href^="/en/blog/"]');
     links.forEach((link) => {
-      const match = link.getAttribute('href').match(/^\/blog\/([a-z0-9-]+)\/?$/);
+      const match = link.getAttribute('href').match(/^\/(?:en\/)?blog\/([a-z0-9-]+)\/?$/);
       const slug = match?.[1];
       if (!slug) return;
       if (link.previousElementSibling?.classList?.contains('stone-thumb-icon')) return;
