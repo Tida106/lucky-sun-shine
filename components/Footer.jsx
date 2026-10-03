@@ -16,8 +16,10 @@ export default function Footer() {
   const isEn = pathname.startsWith('/en');
   const year = new Date().getFullYear();
 
-  // /en/about/, /en/privacy/, /en/tags/ 等はまだ存在しないため、英語ロケール
-  // でもリンク先は日本語版のまま(表示テキストだけ英語にする)。
+  // /en/about/, /en/tags/ 等はまだ存在しないため、英語ロケールでも
+  // リンク先は日本語版のまま(表示テキストだけ英語にする)。
+  // /en/credits/, /en/privacy/, /en/disclosure/ は英語版ページが
+  // 実在するため、英語ロケールではそちらにリンクする。
   const t = {
     messageLabel: isEn ? "A Message from Sun-chan" : '太陽ちゃんからのメッセージ',
     messageTitle: isEn ? 'Thanks for stopping by!' : '来てくれてありがとう！',
@@ -34,6 +36,7 @@ export default function Footer() {
     editorialPolicy: isEn ? 'Editorial Policy' : '記事作成方針',
     privacy: isEn ? 'Privacy Policy' : 'プライバシーポリシー',
     disclaimer: isEn ? 'Disclaimer' : '免責事項',
+    disclosure: 'Affiliate Disclosure',
     contact: isEn ? 'Contact' : 'お問い合わせ',
     credits: isEn ? 'Image Credits' : '画像クレジット',
     tags: isEn ? 'All Tags' : 'タグ一覧',
@@ -130,8 +133,11 @@ export default function Footer() {
             <li><Link href="/about-our-vision/" className="hover:text-amber-700">{t.vision}</Link></li>
             <li><Link href="/about-mascot/" className="hover:text-amber-700">{t.mascot}</Link></li>
             <li><Link href="/editorial-policy/" className="hover:text-amber-700">{t.editorialPolicy}</Link></li>
-            <li><Link href="/privacy/" className="hover:text-amber-700">{t.privacy}</Link></li>
+            <li><Link href={isEn ? '/en/privacy/' : '/privacy/'} className="hover:text-amber-700">{t.privacy}</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">{t.disclaimer}</Link></li>
+            {isEn && (
+              <li><Link href="/en/disclosure/" className="hover:text-amber-700">{t.disclosure}</Link></li>
+            )}
             <li><Link href="/contact/" className="hover:text-amber-700">{t.contact}</Link></li>
             <li><Link href={isEn ? '/en/credits/' : '/credits/'} className="hover:text-amber-700">{t.credits}</Link></li>
             <li><Link href="/recommend-youtube/" className="hover:text-amber-700">{t.youtube}</Link></li>
