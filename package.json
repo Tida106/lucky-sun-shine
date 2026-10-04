@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "prebuild": "node scripts/optimize-hero.js && node scripts/generate-redirects.js && node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/generate-ads-txt.js && node scripts/generate-search-index.js",
-    "build": "next build",
-    "build:fast": "next build",
+    "build": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next build",
+    "build:fast": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next build",
     "start": "next start",
     "lint": "next lint",
     "new:post": "node scripts/new-post.js",
@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
+    "cross-env": "^10.1.0",
     "postcss": "^8.4.0",
     "tailwindcss": "^3.4.0"
   }
