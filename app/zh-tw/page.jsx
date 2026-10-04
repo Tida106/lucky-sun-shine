@@ -57,6 +57,37 @@ export default function ZhTwTopPage() {
         </div>
       </section>
 
+      {/* LINE貼圖 導流橫幅（精簡版，置於Hero下方・文章列表上方） */}
+      <div className="max-w-5xl mx-auto px-4 mt-6">
+        <div className="rounded-2xl bg-gradient-to-r from-green-50 via-emerald-50 to-green-50 border border-green-200 px-4 py-3 shadow-sm flex flex-col sm:flex-row items-center gap-3 sm:gap-4">
+          <div className="flex items-center gap-3 w-full sm:w-auto sm:flex-1">
+            <picture>
+              <source srcSet="/images/mascot-sun-good.webp" type="image/webp" />
+              <img
+                src="/images/mascot-sun-good.png"
+                alt="太陽醬 LINE 貼圖"
+                width={40}
+                height={40}
+                loading="lazy"
+                decoding="async"
+                className="w-10 h-10 shrink-0 object-contain select-none"
+              />
+            </picture>
+            <p className="text-sm text-ink-700 leading-snug">
+              太陽醬的 LINE 貼圖上架囉！☀️ 每天傳給朋友，一起把好運傳出去✨
+            </p>
+          </div>
+          <a
+            href="https://store.line.me/stickershop/product/31602987/ja"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center w-full sm:w-auto shrink-0 bg-[#06C755] text-white text-sm font-bold px-5 py-2 rounded-full shadow-sm hover:bg-green-600 transition-colors whitespace-nowrap"
+          >
+            到 LINE STORE 看看
+          </a>
+        </div>
+      </div>
+
       {/* 記事一覧 */}
       <section className="mt-14">
         <div className="mb-6">
