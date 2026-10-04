@@ -197,7 +197,7 @@ export default function EnHomePage() {
             {categories.map((c) => {
               const catInfo = categoryEnMap[c.title] || { title: c.title };
               return (
-                <Link
+                <Link prefetch={false}
                   key={c.slug}
                   href={`/category/${c.slug}/`}
                   className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/90 backdrop-blur-sm border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
@@ -272,7 +272,7 @@ export default function EnHomePage() {
           </p>
         </div>
         <div className="grid gap-4 md:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-          <Link href="/en/blog/birthday-stone-365" className="group block rounded-2xl border-2 border-amber-400 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          <Link prefetch={false} href="/en/blog/birthday-stone-365" className="group block rounded-2xl border-2 border-amber-400 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="text-4xl mb-3 drop-shadow-sm">🥇</div>
             <div className="text-[11px] font-bold tracking-widest text-amber-700 mb-1">ABSOLUTE NUMBER 1!</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-amber-700 transition-colors">
@@ -283,7 +283,7 @@ export default function EnHomePage() {
             </p>
           </Link>
 
-          <Link href="/en/blog/bad-combination-stones" className="group block rounded-2xl border-2 border-slate-300 bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          <Link prefetch={false} href="/en/blog/bad-combination-stones" className="group block rounded-2xl border-2 border-slate-300 bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="text-4xl mb-3 drop-shadow-sm">🥈</div>
             <div className="text-[11px] font-bold tracking-widest text-slate-600 mb-1">TRENDING UP!</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-slate-700 transition-colors">
@@ -294,7 +294,7 @@ export default function EnHomePage() {
             </p>
           </Link>
 
-          <Link href="/en/blog/genkan-powerstone-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          <Link prefetch={false} href="/en/blog/genkan-powerstone-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="text-4xl mb-3 drop-shadow-sm">🥉</div>
             <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">RISING FAST!</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
@@ -305,7 +305,7 @@ export default function EnHomePage() {
             </p>
           </Link>
 
-          <Link href="/en/blog/fengshui-room-stones" className="group block rounded-2xl border-2 border-emerald-300 bg-gradient-to-br from-emerald-50 via-teal-50 to-emerald-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          <Link prefetch={false} href="/en/blog/fengshui-room-stones" className="group block rounded-2xl border-2 border-emerald-300 bg-gradient-to-br from-emerald-50 via-teal-50 to-emerald-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
             <div className="text-[11px] font-bold tracking-widest text-emerald-700 mb-1">STEADY POPULARITY</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
@@ -316,7 +316,7 @@ export default function EnHomePage() {
             </p>
           </Link>
 
-          <Link href="/en/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-sky-300 bg-gradient-to-br from-sky-50 via-blue-50 to-sky-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          <Link prefetch={false} href="/en/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-sky-300 bg-gradient-to-br from-sky-50 via-blue-50 to-sky-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
             <div className="text-[11px] font-bold tracking-widest text-sky-700 mb-1">PURIFICATION STAPLE</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-sky-700 transition-colors">
@@ -331,7 +331,7 @@ export default function EnHomePage() {
 
       {/* 🔮 Nine Star Ki Calculator entry point */}
       <div className="max-w-6xl mx-auto px-4 mt-2 mb-10 md:mb-14">
-        <Link
+        <Link prefetch={false}
           href="/en/kyusei/"
           className="group block rounded-2xl overflow-hidden border border-violet-200 bg-gradient-to-br from-violet-50 via-white to-amber-50 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"
         >
@@ -364,7 +364,7 @@ export default function EnHomePage() {
       {/* 365 Birthstones Banner */}
       <div className="max-w-6xl mx-auto px-4 mt-6 md:mt-8 mb-16 md:mb-20">
         <div className="rounded-2xl bg-gradient-to-r from-amber-300 via-orange-200 to-amber-300 p-1 shadow-sm hover:shadow-md transition-all">
-          <Link href="/en/blog/birthday-stone-365" className="block rounded-xl bg-white/80 px-4 py-10 md:py-12 text-center backdrop-blur-sm transition-colors hover:bg-white/95 sm:px-6">
+          <Link prefetch={false} href="/en/blog/birthday-stone-365" className="block rounded-xl bg-white/80 px-4 py-10 md:py-12 text-center backdrop-blur-sm transition-colors hover:bg-white/95 sm:px-6">
             <span className="inline-block rounded-full bg-orange-500 px-3 py-1 text-xs font-bold tracking-wider text-white mb-4">
               🔥 Trending Now! Most Read Article
             </span>
@@ -396,7 +396,7 @@ export default function EnHomePage() {
           {categories.map((c) => {
             const catInfo = categoryEnMap[c.title] || { title: c.title, tagline: c.tagline };
             return (
-              <Link
+              <Link prefetch={false}
                 key={c.slug}
                 href={`/category/${c.slug}/`}
                 className={`group block rounded-2xl p-5 overflow-hidden border border-white/60 ${c.pastel.bg} shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out`}
@@ -436,7 +436,7 @@ export default function EnHomePage() {
         </div>
         <div className="grid gap-4 md:gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {WORRY_PICKS.map((pick) => (
-            <Link
+            <Link prefetch={false}
               key={pick.slug}
               href={`/en/blog/${pick.slug}/`}
               className="group block rounded-2xl border border-amber-200 bg-white p-5 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 hover:border-amber-400 transition-all duration-300 ease-out"
@@ -474,7 +474,7 @@ export default function EnHomePage() {
         </div>
         <div className="grid gap-3 md:gap-4 grid-cols-2 sm:grid-cols-3 lg:grid-cols-6">
           {PURPOSE_PICKS.map((pick) => (
-            <Link
+            <Link prefetch={false}
               key={pick.slug}
               href={`/en/blog/${pick.slug}/`}
               className={`group block rounded-2xl border ${pick.border} bg-gradient-to-br ${pick.tone} p-4 md:p-5 text-center shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out`}
@@ -519,7 +519,7 @@ export default function EnHomePage() {
                 ))}
               </div>
               <div className="mt-8 text-center">
-                <Link
+                <Link prefetch={false}
                   href="/en/blog/"
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-amber-500 text-white font-bold text-sm shadow-[0_4px_14px_rgba(245,158,11,0.35)] hover:bg-amber-600 hover:shadow-[0_8px_22px_rgba(245,158,11,0.45)] transition-all"
                 >
@@ -552,7 +552,7 @@ export default function EnHomePage() {
         </div>
         <div className="grid gap-4 md:gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {FENGSHUI_PICKS.map((pick) => (
-            <Link
+            <Link prefetch={false}
               key={pick.slug}
               href={`/en/blog/${pick.slug}/`}
               className="group block rounded-2xl border border-emerald-200 bg-gradient-to-br from-emerald-50 via-amber-50 to-yellow-50 p-5 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 hover:border-emerald-400 transition-all duration-300 ease-out"
@@ -577,7 +577,7 @@ export default function EnHomePage() {
 
       {/* Seasonal Feature */}
       <ScrollReveal as="section" className="cv-section max-w-6xl mx-auto px-4 pb-16">
-        <Link
+        <Link prefetch={false}
           href="/en/blog/summer-stones/"
           className="group block rounded-2xl overflow-hidden border border-sky-200 bg-gradient-to-br from-sky-50 via-cyan-50 to-amber-50 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"
         >
@@ -624,7 +624,7 @@ export default function EnHomePage() {
         </div>
         <div className="grid gap-4 md:gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {GIFT_PICKS.map((pick) => (
-            <Link
+            <Link prefetch={false}
               key={pick.slug}
               href={`/en/blog/${pick.slug}/`}
               className="group block rounded-2xl border border-rose-200 bg-gradient-to-br from-rose-50 via-pink-50 to-amber-50 p-5 md:p-6 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 hover:border-rose-400 transition-all duration-300 ease-out"
@@ -691,7 +691,7 @@ export default function EnHomePage() {
           </h2>
           <span aria-hidden="true" className="heading-rule mt-3 ml-9" />
         </div>
-        <Link
+        <Link prefetch={false}
           href="/recommend-youtube/"
           className="group block rounded-2xl overflow-hidden border border-amber-200 bg-gradient-to-br from-amber-50 via-rose-50 to-orange-50 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"
         >

@@ -116,7 +116,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
   return (
     <header className="sticky top-0 z-30 backdrop-blur bg-white/80 border-b border-amber-200">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-        <Link href={t.home} className="group inline-flex items-center shrink-0" aria-label={t.logoAria}>
+        <Link prefetch={false} href={t.home} className="group inline-flex items-center shrink-0" aria-label={t.logoAria}>
           <Logo
             size={28}
             wordmarkClassName="text-base md:text-lg group-hover:text-amber-700 transition-colors"
@@ -128,20 +128,21 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <Link
               key={c.slug}
               href={getCategoryUrl(c.slug)}
+              prefetch={false}
               className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700 transition-colors whitespace-nowrap"
             >
               <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600" />
               {getCategoryTitle(c, locale)}
             </Link>
           ))}
-          <Link
+          <Link prefetch={false}
             href={t.youtubeLink}
             className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-red-50 border border-red-200 text-red-700 hover:bg-red-100 transition-colors whitespace-nowrap"
           >
             <YoutubeIcon className="w-4 h-4" />
             {t.youtubeText}
           </Link>
-          <Link
+          <Link prefetch={false}
             href={t.mascotLink}
             className="ml-2 lg:ml-4 inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap"
             title={t.mascotTitle}
@@ -149,7 +150,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <SunMascot size={24} className="shrink-0" alt="" />
             <span>{isEn && '☀️ '}{t.mascotText}</span>
           </Link>
-          <Link
+          <Link prefetch={false}
             href={t.omikujiLink}
             className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap font-bold"
             title={t.omikujiTitle}
@@ -158,7 +159,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <span>{t.omikujiText}</span>
           </Link>
           {!isZhTw && (
-            <Link
+            <Link prefetch={false}
               href={t.kyuseiLink}
               className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 hover:text-violet-900 transition-all whitespace-nowrap font-bold"
               title={t.kyuseiTitle}
@@ -171,7 +172,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
         <div className="flex items-center gap-2 shrink-0">
           <div className="inline-flex items-center rounded-full bg-sky-100 border border-sky-300 overflow-hidden mr-1 text-xs font-bold">
             {LANG_OPTIONS.map((opt) => (
-              <Link
+              <Link prefetch={false}
                 key={opt.locale}
                 href={langHref(pathname, locale, opt.locale, slugSets)}
                 className={`inline-flex items-center justify-center h-9 px-2.5 whitespace-nowrap transition-colors ${
@@ -186,7 +187,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
               </Link>
             ))}
           </div>
-          <Link
+          <Link prefetch={false}
             href={t.search}
             aria-label={t.searchTitle}
             className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-amber-200 hover:bg-amber-50 transition-colors text-[#C9A96E] hover:text-[#9C7A47]"
@@ -209,7 +210,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
       <nav className="md:hidden border-t border-amber-100 bg-white/90">
         <div className="max-w-6xl mx-auto px-2 py-2 flex overflow-x-auto gap-1 text-xs">
           {categories.map((c) => (
-            <Link
+            <Link prefetch={false}
               key={c.slug}
               href={getCategoryUrl(c.slug)}
               className="inline-flex items-center gap-1 whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-50 text-amber-900 hover:bg-amber-100"
@@ -218,14 +219,14 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
               {getCategoryTitle(c, locale)}
             </Link>
           ))}
-          <Link
+          <Link prefetch={false}
             href={t.youtubeLink}
             className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-red-50 border border-red-200 text-red-700 hover:bg-red-100"
           >
             <YoutubeIcon className="w-3.5 h-3.5" />
             {t.youtubeText}
           </Link>
-          <Link
+          <Link prefetch={false}
             href={t.mascotLink}
             className="ml-2 inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all"
             title={t.mascotTitle}
@@ -233,7 +234,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <SunMascot size={18} className="shrink-0" alt="" />
             <span>{isEn && '☀️ '}{t.mascotText}</span>
           </Link>
-          <Link
+          <Link prefetch={false}
             href={t.omikujiLink}
             className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all font-bold"
             title={t.omikujiTitle}
@@ -242,7 +243,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <span>{t.omikujiText}</span>
           </Link>
           {!isZhTw && (
-            <Link
+            <Link prefetch={false}
               href={t.kyuseiLink}
               className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 font-bold"
               title={t.kyuseiTitle}

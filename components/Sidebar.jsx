@@ -44,7 +44,7 @@ function SeriesSection({ s, locale = 'ja', blogHref }) {
       </summary>
       <div className="px-3 pb-3 pt-1">
         {s.hubSlug && (
-          <Link
+          <Link prefetch={false}
             href={blogHref(s.hubSlug)}
             className={`block mb-2 px-3 py-1.5 rounded-lg text-xs font-bold ${a.chip} hover:opacity-90 transition-opacity`}
           >
@@ -54,7 +54,7 @@ function SeriesSection({ s, locale = 'ja', blogHref }) {
         <ul className="space-y-0.5">
           {s.items.map((it) => (
             <li key={it.slug}>
-              <Link
+              <Link prefetch={false}
                 href={blogHref(it.slug)}
                 className={`block px-2 py-1 rounded text-xs text-ink-700 ${a.hover} transition-colors`}
               >
@@ -117,7 +117,7 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
 
       {/* 1. サイト内検索 */}
       <div className="rounded-2xl bg-white border border-amber-200 p-5">
-        <Link href={searchUrl} className="inline-flex items-center gap-2 text-sm font-bold text-ink-900 hover:text-amber-700">
+        <Link prefetch={false} href={searchUrl} className="inline-flex items-center gap-2 text-sm font-bold text-ink-900 hover:text-amber-700">
           <SearchIcon className="w-4 h-4 text-[#C9A96E]" />
           {t.search}
         </Link>
@@ -137,7 +137,7 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
                 key={c.slug}
                 className={`rounded-xl border border-amber-100 ${c.pastel.bg} px-3 py-2`}
               >
-                <Link
+                <Link prefetch={false}
                   href={`${catPrefix}${c.slug}/`}
                   className={`flex items-center gap-2 font-bold text-sm ${c.pastel.accent} ${c.pastel.accentHover}`}
                 >
@@ -145,7 +145,7 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
                   <span>{title}</span>
                 </Link>
                 {c.pillarSlug && (
-                  <Link
+                  <Link prefetch={false}
                     href={blogHref(c.pillarSlug)}
                     className="mt-1 block pl-6 text-[11px] text-ink-700 hover:text-amber-700"
                   >
@@ -170,7 +170,7 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
           ))}
         </div>
         <p className="mt-3 text-[11px] text-ink-500 leading-relaxed">
-          <Link href={tagUrl} className="underline hover:text-amber-700">{t.tags}</Link>
+          <Link prefetch={false} href={tagUrl} className="underline hover:text-amber-700">{t.tags}</Link>
         </p>
       </div>
 

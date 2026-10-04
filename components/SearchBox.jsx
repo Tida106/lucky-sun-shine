@@ -73,7 +73,7 @@ export default function SearchBox({ initialQuery = '', limit = 30, autofocus = f
           <ul className="divide-y divide-amber-100">
             {results.map((r) => (
               <li key={r.slug} className="py-3">
-                <Link href={`/blog/${r.slug}/`} className="block hover:bg-amber-50 rounded p-2 -mx-2">
+                <Link prefetch={false} href={`/blog/${r.slug}/`} className="block hover:bg-amber-50 rounded p-2 -mx-2">
                   <div className="text-xs text-amber-700 font-bold">
                     {r.category} · {new Date(r.date).toISOString().slice(0, 10)}
                   </div>

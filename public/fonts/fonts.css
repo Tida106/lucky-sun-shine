@@ -1,0 +1,36 @@
+/* Self-hosted subset of Noto Sans JP / Noto Serif JP (weights 400, 700).
+   Subset covers common Japanese usage (JIS-level kanji + kana + Latin +
+   punctuation, ~9600 glyphs) via fontTools, generated from the official
+   OFL-licensed Google Fonts sources. One file per weight (no unicode-range
+   splitting), so the browser issues a single request per weight instead of
+   the 40-80+ fragmented requests Google's own CSS2 API serves for
+   character-diverse Japanese pages. font-display: swap keeps the
+   system-font fallback (already set in critical CSS) visible until ready. */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/noto-sans-jp-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/noto-sans-jp-700.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/noto-serif-jp-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/noto-serif-jp-700.woff2') format('woff2');
+}

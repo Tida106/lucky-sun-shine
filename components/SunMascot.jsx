@@ -26,14 +26,21 @@ export default function SunMascot({
   // .png のときだけ同名 .webp を <source> として優先提示する。
   // WebP は alphaQuality 90 で書き出してあるため透過もそのまま機能する。
   // 未対応ブラウザ(Safari 13 以前など)は <img> の PNG にフォールバック。
+  //
+  // 元画像は320x320固定。Header の24px/18pxバッジ等、小さく表示する場所でも
+  // フル解像度(30〜45KB)をそのまま読み込んでいたため、80px以下の表示では
+  // scripts/optimize-mascot.js が書き出す160x160版(13〜16KB)に差し替える。
+  // 2倍密度ディスプレイでも80px表示まではこれで十分な解像感を保てる。
   const isPng = typeof src === 'string' && src.toLowerCase().endsWith('.png');
-  const webpSrc = isPng ? src.replace(/\.png$/i, '.webp') : null;
+  const useSmall = isPng && size <= 80;
+  const resolvedSrc = useSmall ? src.replace(/\.png$/i, '-160.png') : src;
+  const webpSrc = isPng ? resolvedSrc.replace(/\.png$/i, '.webp') : null;
 
   return (
     <picture>
       {webpSrc && <source srcSet={webpSrc} type="image/webp" />}
       <img
-        src={src}
+        src={resolvedSrc}
         alt={alt}
         width={size}
         height={size}

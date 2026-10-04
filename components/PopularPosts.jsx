@@ -44,7 +44,7 @@ export default function PopularPosts({ limit = 5, heading = '編集部おすす�
           
           return (
             <li key={post.slug}>
-              <Link href={`${blogPrefix}${post.slug}/`} className="flex gap-3 group">
+              <Link prefetch={false} href={`${blogPrefix}${post.slug}/`} className="flex gap-3 group">
                 <span
                   className={`flex-shrink-0 w-7 h-7 rounded-full ${
                     i === 0 ? 'bg-amber-500 text-white' :

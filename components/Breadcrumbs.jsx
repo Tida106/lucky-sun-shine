@@ -53,7 +53,7 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <nav aria-label={ariaLabel} className={`text-xs text-ink-500 ${className}`}>
-        <Link href={rootPath} className="hover:text-amber-700">{topText}</Link>
+        <Link prefetch={false} href={rootPath} className="hover:text-amber-700">{topText}</Link>
         {items.map((it, i) => {
           const isLast = i === items.length - 1;
           // 英語/繁体中文環境で中間のリンクがある場合はロケールprefixを付与
@@ -65,7 +65,7 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
               {isLast || !it.href ? (
                 <span className="text-ink-700">{it.name}</span>
               ) : (
-                <Link href={linkPath} className="hover:text-amber-700">
+                <Link prefetch={false} href={linkPath} className="hover:text-amber-700">
                   {it.name}
                 </Link>
               )}

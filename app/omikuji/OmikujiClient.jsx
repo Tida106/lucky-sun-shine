@@ -160,7 +160,7 @@ export default function OmikujiClient() {
               <span aria-hidden="true">🔄</span>
               {t.again}
             </button>
-            <Link
+            <Link prefetch={false}
               href={t.articlesHref}
               className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-full bg-white border border-amber-300 text-amber-800 hover:bg-amber-50 text-sm md:text-base font-bold transition-colors"
             >

@@ -15,7 +15,7 @@ export default function PostCard({ post, locale = 'ja' }) {
 
   return (
     <article className="card-elev group rounded-2xl bg-white border border-amber-100 hover:border-amber-300 overflow-hidden">
-      <Link href={postUrl} className="block">
+      <Link prefetch={false} href={postUrl} className="block">
         <div className="overflow-hidden">
           <div className="transition-transform duration-500 ease-out group-hover:scale-105">
             <ArticleCover post={post} variant="card" locale={locale} />

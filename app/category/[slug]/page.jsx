@@ -92,7 +92,7 @@ export default async function CategoryPage({ params }) {
       <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
         <section className="min-w-0">
           {cat.pillarSlug && (
-            <Link
+            <Link prefetch={false}
               href={`/blog/${cat.pillarSlug}/`}
               className={`mb-8 block group rounded-2xl border-2 ${cat.pastel.accentBorder} ${cat.pastel.bg} p-5 sm:p-6 hover:shadow-md transition-shadow`}
             >
@@ -135,7 +135,7 @@ export default async function CategoryPage({ params }) {
             <h3 className="text-sm font-bold mb-3 text-ink-700">他のカテゴリ</h3>
             <div className="flex flex-wrap gap-2">
               {categories.filter((c) => c.slug !== slug).map((c) => (
-                <Link
+                <Link prefetch={false}
                   key={c.slug}
                   href={`/category/${c.slug}/`}
                   className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border ${c.pastel.accentBorder} text-sm ${c.pastel.accent} ${c.pastel.accentHover} ${c.pastel.hoverBg} transition-colors`}

@@ -190,7 +190,7 @@ function ResultCard({ result, onReset }) {
           <p className="text-[11px] font-bold text-ink-500 tracking-widest">ラッキーストーン</p>
           <div className="mt-2 flex flex-wrap gap-2">
             {star.stones.map((s) => (
-              <Link
+              <Link prefetch={false}
                 key={s.slug}
                 href={`/blog/${s.slug}/`}
                 className="text-xs font-bold px-2.5 py-1 rounded-full bg-amber-500 text-white hover:bg-amber-600"
@@ -210,7 +210,7 @@ function ResultCard({ result, onReset }) {
             <p className="mt-1 text-[11px] text-ink-500 leading-relaxed">
               五黄殺・暗剣殺・歳破・本命殺・本命的殺を除いた、今年あなたと相性の良い方位だよ。
             </p>
-            <Link
+            <Link prefetch={false}
               href="/blog/fengshui-direction-stones/"
               className="mt-2 inline-flex items-center gap-1 text-xs font-bold text-amber-700 hover:underline"
             >

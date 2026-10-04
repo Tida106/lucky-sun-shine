@@ -81,7 +81,7 @@ export default function Footer() {
           <Logo size={32} wordmarkClassName="text-base" />
           <p className="mt-3 text-sm text-ink-700 leading-relaxed">{t.tagline}</p>
 
-          <Link
+          <Link prefetch={false}
             href="/recommend-youtube/"
             className="mt-5 inline-flex items-center gap-2 px-4 py-2 rounded-full bg-red-600 hover:bg-red-700 text-white text-sm font-bold shadow-sm transition-colors"
           >
@@ -107,14 +107,14 @@ export default function Footer() {
           <ul className="space-y-1 text-sm">
             {categories.map((c) => (
               <li key={c.slug}>
-                <Link href={`/category/${c.slug}/`} className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700">
+                <Link prefetch={false} href={`/category/${c.slug}/`} className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700">
                   <CategoryIcon slug={c.slug} className="w-3.5 h-3.5 text-amber-600" />
                   {getCategoryTitle(c, locale)}
                 </Link>
               </li>
             ))}
             <li>
-              <Link href="/recommend-youtube/" className="inline-flex items-center gap-1.5 hover:text-amber-700">
+              <Link prefetch={false} href="/recommend-youtube/" className="inline-flex items-center gap-1.5 hover:text-amber-700">
                 <YoutubeIcon className="w-3.5 h-3.5 text-red-600" />
                 {t.youtube}
               </Link>
@@ -135,20 +135,20 @@ export default function Footer() {
         <div>
           <h3 className="font-bold text-ink-900 mb-2">{t.siteInfoHeading}</h3>
           <ul className="space-y-1 text-sm">
-            <li><Link href="/about/" className="hover:text-amber-700">{t.about}</Link></li>
-            <li><Link href="/about-our-vision/" className="hover:text-amber-700">{t.vision}</Link></li>
-            <li><Link href={isZhTw ? '/zh-tw/about-mascot/' : '/about-mascot/'} className="hover:text-amber-700">{t.mascot}</Link></li>
-            <li><Link href="/editorial-policy/" className="hover:text-amber-700">{t.editorialPolicy}</Link></li>
-            <li><Link href={isEn ? '/en/privacy/' : '/privacy/'} className="hover:text-amber-700">{t.privacy}</Link></li>
-            <li><Link href="/disclaimer/" className="hover:text-amber-700">{t.disclaimer}</Link></li>
+            <li><Link prefetch={false} href="/about/" className="hover:text-amber-700">{t.about}</Link></li>
+            <li><Link prefetch={false} href="/about-our-vision/" className="hover:text-amber-700">{t.vision}</Link></li>
+            <li><Link prefetch={false} href={isZhTw ? '/zh-tw/about-mascot/' : '/about-mascot/'} className="hover:text-amber-700">{t.mascot}</Link></li>
+            <li><Link prefetch={false} href="/editorial-policy/" className="hover:text-amber-700">{t.editorialPolicy}</Link></li>
+            <li><Link prefetch={false} href={isEn ? '/en/privacy/' : '/privacy/'} className="hover:text-amber-700">{t.privacy}</Link></li>
+            <li><Link prefetch={false} href="/disclaimer/" className="hover:text-amber-700">{t.disclaimer}</Link></li>
             {!isZhTw && (
-              <li><Link href={isEn ? '/en/disclosure/' : '/disclosure/'} className="hover:text-amber-700">{t.disclosure}</Link></li>
+              <li><Link prefetch={false} href={isEn ? '/en/disclosure/' : '/disclosure/'} className="hover:text-amber-700">{t.disclosure}</Link></li>
             )}
-            <li><Link href="/contact/" className="hover:text-amber-700">{t.contact}</Link></li>
-            <li><Link href={isEn ? '/en/credits/' : '/credits/'} className="hover:text-amber-700">{t.credits}</Link></li>
-            <li><Link href="/recommend-youtube/" className="hover:text-amber-700">{t.youtube}</Link></li>
-            <li><Link href="/tags/" className="hover:text-amber-700">{t.tags}</Link></li>
-            <li><Link href="/search/" className="hover:text-amber-700">{t.search}</Link></li>
+            <li><Link prefetch={false} href="/contact/" className="hover:text-amber-700">{t.contact}</Link></li>
+            <li><Link prefetch={false} href={isEn ? '/en/credits/' : '/credits/'} className="hover:text-amber-700">{t.credits}</Link></li>
+            <li><Link prefetch={false} href="/recommend-youtube/" className="hover:text-amber-700">{t.youtube}</Link></li>
+            <li><Link prefetch={false} href="/tags/" className="hover:text-amber-700">{t.tags}</Link></li>
+            <li><Link prefetch={false} href="/search/" className="hover:text-amber-700">{t.search}</Link></li>
             <li><a href="/rss.xml" className="hover:text-amber-700">RSS</a></li>
           </ul>
         </div>

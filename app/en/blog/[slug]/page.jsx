@@ -151,13 +151,13 @@ export default async function BlogPostPage({ params }) {
 
         <nav className="mt-10 grid gap-3 sm:grid-cols-2">
           {prev && (
-            <Link href={`/en/blog/${prev.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 transition-colors">
+            <Link prefetch={false} href={`/en/blog/${prev.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 transition-colors">
               <div className="text-xs text-amber-700">Previous</div>
               <div className="mt-1 text-sm font-bold line-clamp-2">{prev.title}</div>
             </Link>
           )}
           {next && (
-            <Link href={`/en/blog/${next.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 text-right transition-colors">
+            <Link prefetch={false} href={`/en/blog/${next.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 text-right transition-colors">
               <div className="text-xs text-amber-700">Next</div>
               <div className="mt-1 text-sm font-bold line-clamp-2">{next.title}</div>
             </Link>

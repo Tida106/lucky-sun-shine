@@ -38,7 +38,7 @@ export default function ZhTwTopPage() {
           到 365 天誕生石、生肖守護石、水晶禁忌搭配與居家風水方位的開運指南，歡迎慢慢閱讀！
         </p>
         <div className="mt-6 flex flex-wrap justify-center gap-3">
-          <Link
+          <Link prefetch={false}
             href="/zh-tw/about-mascot/"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-100 border border-amber-300 text-amber-800 font-bold hover:bg-amber-200 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all"
           >
@@ -46,7 +46,7 @@ export default function ZhTwTopPage() {
             認識太陽醬，還有 LINE 貼圖！
             <span aria-hidden="true">→</span>
           </Link>
-          <Link
+          <Link prefetch={false}
             href="/zh-tw/omikuji/"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-500 text-white font-bold hover:bg-amber-600 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all"
           >
@@ -62,9 +62,9 @@ export default function ZhTwTopPage() {
         <div className="rounded-2xl bg-gradient-to-r from-green-50 via-emerald-50 to-green-50 border border-green-200 px-4 py-3 shadow-sm flex flex-col sm:flex-row items-center gap-3 sm:gap-4">
           <div className="flex items-center gap-3 w-full sm:w-auto sm:flex-1">
             <picture>
-              <source srcSet="/images/mascot-sun-good.webp" type="image/webp" />
+              <source srcSet="/images/mascot-sun-good-160.webp" type="image/webp" />
               <img
-                src="/images/mascot-sun-good.png"
+                src="/images/mascot-sun-good-160.png"
                 alt="太陽醬 LINE 貼圖"
                 width={40}
                 height={40}

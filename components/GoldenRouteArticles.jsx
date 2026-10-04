@@ -45,7 +45,7 @@ export default function GoldenRouteArticles() {
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {RECOMMENDED_POSTS.map((post) => (
-          <Link key={post.slug} href={`/blog/${post.slug}`} className="group block h-full">
+          <Link prefetch={false} key={post.slug} href={`/blog/${post.slug}`} className="group block h-full">
             <div className="h-full p-4 rounded-2xl bg-white/80 backdrop-blur-sm border border-white shadow-[0_2px_10px_rgba(0,0,0,0.02)] transition-all duration-300 hover:-translate-y-1 hover:shadow-md hover:bg-white">
               <div className="flex items-start gap-3 sm:gap-4">
                 {/* 左側の可愛いアイコンバッジ（先ほど直した安全なCategoryIconを使用！） */}

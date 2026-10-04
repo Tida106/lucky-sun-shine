@@ -26,7 +26,7 @@ export default function TagsIndexPage() {
       ) : (
         <div className="flex flex-wrap gap-2 justify-center">
           {tags.map((t) => (
-            <Link
+            <Link prefetch={false}
               key={t.name}
               href={`/tag/${encodeURIComponent(t.name)}/`}
               className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full bg-white border border-amber-200 hover:border-amber-400 hover:bg-amber-50 transition-colors"
