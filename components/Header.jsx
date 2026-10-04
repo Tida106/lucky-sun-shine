@@ -35,14 +35,17 @@ function langHref(pathname, currentLocale, targetLocale, slugSets) {
   // まず現在のパスから「中立なパス情報」を取り出す。
   let blogSlug = null;
   let isOmikuji = false;
+  let isKyusei = false;
   if (currentLocale === 'ja') {
     const m = pathname.match(/^\/blog\/([a-z0-9-]+)\/?$/i);
     if (m) blogSlug = m[1];
     isOmikuji = /^\/omikuji\/?$/.test(pathname);
+    isKyusei = /^\/kyusei\/?$/.test(pathname);
   } else {
     const m = pathname.match(new RegExp(`^/${currentLocale}/blog/([a-z0-9-]+)/?$`, 'i'));
     if (m) blogSlug = m[1];
     isOmikuji = new RegExp(`^/${currentLocale}/omikuji/?$`).test(pathname);
+    isKyusei = new RegExp(`^/${currentLocale}/kyusei/?$`).test(pathname);
   }
 
   const prefix = targetLocale === 'ja' ? '' : `/${targetLocale}`;
@@ -58,6 +61,10 @@ function langHref(pathname, currentLocale, targetLocale, slugSets) {
   }
   if (isOmikuji) {
     return `${prefix}/omikuji/`;
+  }
+  // /kyusei/ は ja・en のみ実在する(繁体中文は未対応のためトップにフォールバック)
+  if (isKyusei && (targetLocale === 'ja' || targetLocale === 'en')) {
+    return `${prefix}/kyusei/`;
   }
   return `${prefix}/`;
 }
@@ -90,6 +97,10 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
     omikujiLink: isZhTw ? '/zh-tw/omikuji/' : isEn ? '/en/omikuji/' : '/omikuji/',
     omikujiText: isZhTw ? '抽籤' : isEn ? 'Fortune' : 'おみくじ',
     omikujiTitle: isZhTw ? '抽太陽醬的運勢籤' : isEn ? 'Draw a fortune slip' : '太陽ちゃんのおみくじを引く',
+    // /kyusei/ は ja・en のみ実在する(繁体中文は未対応)
+    kyuseiLink: isEn ? '/en/kyusei/' : '/kyusei/',
+    kyuseiText: isEn ? 'Nine Star Ki' : '九星気学',
+    kyuseiTitle: isEn ? 'Find your main star from your birth date' : '生年月日から本命星をチェック',
     searchTitle: isZhTw ? '站內搜尋' : isEn ? 'Search' : 'サイト内検索',
     logoAria: isZhTw ? '回到 Lucky Sun Shine 首頁' : isEn ? 'To Lucky Sun Shine Top' : 'Lucky Sun Shine トップへ',
   };
@@ -105,7 +116,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
   return (
     <header className="sticky top-0 z-30 backdrop-blur bg-white/80 border-b border-amber-200">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-        <Link href={t.home} className="group inline-flex items-center" aria-label={t.logoAria}>
+        <Link href={t.home} className="group inline-flex items-center shrink-0" aria-label={t.logoAria}>
           <Logo
             size={28}
             wordmarkClassName="text-base md:text-lg group-hover:text-amber-700 transition-colors"
@@ -146,18 +157,18 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <span aria-hidden="true">🎋</span>
             <span>{t.omikujiText}</span>
           </Link>
-          {!isEn && !isZhTw && (
+          {!isZhTw && (
             <Link
-              href="/kyusei/"
+              href={t.kyuseiLink}
               className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 hover:text-violet-900 transition-all whitespace-nowrap font-bold"
-              title="生年月日から本命星をチェック"
+              title={t.kyuseiTitle}
             >
               <span aria-hidden="true">🔮</span>
-              <span>九星気学</span>
+              <span>{t.kyuseiText}</span>
             </Link>
           )}
         </nav>
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 shrink-0">
           <div className="inline-flex items-center rounded-full bg-sky-100 border border-sky-300 overflow-hidden mr-1 text-xs font-bold">
             {LANG_OPTIONS.map((opt) => (
               <Link
@@ -230,14 +241,14 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <span aria-hidden="true">🎋</span>
             <span>{t.omikujiText}</span>
           </Link>
-          {!isEn && !isZhTw && (
+          {!isZhTw && (
             <Link
-              href="/kyusei/"
+              href={t.kyuseiLink}
               className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 font-bold"
-              title="生年月日から本命星をチェック"
+              title={t.kyuseiTitle}
             >
               <span aria-hidden="true">🔮</span>
-              <span>九星気学</span>
+              <span>{t.kyuseiText}</span>
             </Link>
           )}
         </div>

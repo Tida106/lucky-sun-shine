@@ -71,6 +71,7 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/`, today, 'daily', '0.9'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/blog/`, today, 'daily', '0.8'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/omikuji/`, today, 'monthly', '0.6'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/en/kyusei/`, today, 'monthly', '0.8'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/credits/`, today, 'monthly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/privacy/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/disclosure/`, today, 'yearly', '0.3'));
