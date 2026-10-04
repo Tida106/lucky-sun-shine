@@ -13,6 +13,9 @@ const nextConfig = {
     NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://lucky-sun-shine.com',
   },
   trailingSlash: true,
+  experimental: {
+    cpus: 1,
+  },
 };
 
 module.exports = nextConfig;
