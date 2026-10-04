@@ -6,6 +6,13 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["Crystal", "Nara Prefecture", "World Heritage Site"]
 draft: false
+viatorSpots:
+  - name: "Kasuga Taisha"
+    query: "Kasuga Taisha Nara"
+  - name: "Todai-ji Temple"
+    query: "Todaiji Nara"
+  - name: "Nara Park"
+    query: "Nara Park"
 ---
 
 ## Introduction

@@ -7,6 +7,13 @@ category: "powerspots"
 tags: ["Ise Grand Shrine", "Mie Prefecture", "Shrine"]
 author: "Sun-chan"
 draft: false
+viatorSpots:
+  - name: "Ise Grand Shrine"
+    query: "Ise Jingu"
+  - name: "Sarutahiko Shrine"
+    query: "Sarutahiko Shrine Ise"
+  - name: "Futami Okitama Shrine"
+    query: "Futami Okitama Shrine Ise"
 ---
 
 ## Introduction

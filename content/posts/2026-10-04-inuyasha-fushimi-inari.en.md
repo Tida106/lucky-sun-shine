@@ -6,6 +6,13 @@ category: "powerspots"
 tags: ["Fushimi Inari Taisha", "Kuzunoha Inari Shrine", "Hozan-ji Temple", "Pilgrimage", "Ichirei Shikon"]
 slug: "inuyasha-fushimi-inari"
 draft: false
+viatorSpots:
+  - name: "Fushimi Inari Taisha"
+    query: "Fushimi Inari Kyoto"
+  - name: "Hozan-ji Temple"
+    query: "Mt Ikoma Nara"
+  - name: "Kuzunoha Inari Shrine"
+    query: "Osaka"
 ---
 
 Hello! It's Sun-chan from Lucky Sun Shine! ☀️

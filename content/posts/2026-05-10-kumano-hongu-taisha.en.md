@@ -6,6 +6,11 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["Goshuincho", "Wakayama Prefecture", "Kumano Kodo"]
 draft: false
+viatorSpots:
+  - name: "Kumano Hongu Taisha"
+    query: "Kumano Hongu Taisha"
+  - name: "Kumano Kodo"
+    query: "Kumano Kodo"
 ---
 
 ## Introduction

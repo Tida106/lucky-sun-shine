@@ -6,6 +6,9 @@ category: "powerspots"
 tags: ["Nikko Toshogu Shrine", "Sleeping Cat", "Three Wise Monkeys", "Pilgrimage", "Chinese Zodiac"]
 slug: "fruits-basket-nikko-toshogu"
 draft: false
+viatorSpots:
+  - name: "Nikko Toshogu Shrine"
+    query: "Nikko Toshogu Shrine"
 ---
 
 Hello! It's Sun-chan from Lucky Sun Shine! ☀️

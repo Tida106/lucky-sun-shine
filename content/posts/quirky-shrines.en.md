@@ -4,6 +4,11 @@ date: 2026-09-19
 description: "A special feature on exquisite good luck spots aimed at overseas readers who love Japan's deep spiritual culture and unique power spots!"
 category: "powerspots"
 tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
+viatorSpots:
+  - name: "Kanayama Shrine"
+    query: "Kawasaki"
+  - name: "Denden-gu"
+    query: "Kyoto"
 ---
 
 Hello, everyone! It's Sun-chan, the official navigator of the crystal and good luck media "Lucky Sun Shine" ☀️✨

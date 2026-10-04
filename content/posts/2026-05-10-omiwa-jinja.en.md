@@ -7,6 +7,9 @@ category: "powerspots"
 tags: ["Goshuincho", "Nara Prefecture", "Oldest in Japan"]
 author: "Sun-chan"
 draft: false
+viatorSpots:
+  - name: "Omiwa Shrine"
+    query: "Omiwa Shrine Nara"
 ---
 
 ## Introduction

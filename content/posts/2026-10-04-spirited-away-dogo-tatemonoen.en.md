@@ -6,6 +6,11 @@ category: "powerspots"
 tags: ["Dogo Onsen", "Edo-Tokyo Open Air Architectural Museum", "Pilgrimage", "Misogi", "Purification"]
 slug: "spirited-away-dogo-tatemonoen"
 draft: false
+viatorSpots:
+  - name: "Dogo Onsen Honkan"
+    query: "Dogo Onsen Matsuyama"
+  - name: "Edo-Tokyo Open Air Architectural Museum"
+    query: "Edo Tokyo Open Air Museum"
 ---
 
 Hello! It's Sun-chan from Lucky Sun Shine! ☀️

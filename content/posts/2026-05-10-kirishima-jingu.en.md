@@ -12,6 +12,9 @@ tags:
   - Volcano
 author: Sun-chan
 draft: false
+viatorSpots:
+  - name: "Kirishima Jingu"
+    query: "Kirishima Shrine Kagoshima"
 ---
 
 ## Introduction

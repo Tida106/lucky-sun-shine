@@ -10,6 +10,11 @@ tags:
   - Kanagawa Prefecture
   - Matchmaking
 draft: false
+viatorSpots:
+  - name: "Enoshima Shrine"
+    query: "Enoshima"
+  - name: "Hase-dera Temple"
+    query: "Hasedera Kamakura"
 ---
 
 ## Introduction

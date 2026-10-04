@@ -7,6 +7,13 @@ category: "powerspots"
 tags: ["Rose Quartz", "Love Fulfillment", "Shrine", "Comprehensive Guide"]
 draft: false
 author: "Sun-chan"
+viatorSpots:
+  - name: "Izumo Taisha"
+    query: "Izumo Taisha"
+  - name: "Meiji Jingu"
+    query: "Meiji Jingu Tokyo"
+  - name: "Itsukushima Shrine (Miyajima)"
+    query: "Miyajima Itsukushima Shrine"
 ---
 
 ## Introduction

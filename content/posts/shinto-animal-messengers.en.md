@@ -3,6 +3,13 @@ title: "[Good Luck] Meet Them at the Shrine! Receive Lucky Power from the Adorab
 date: "2026-09-18"
 category: "powerspots"
 excerpt: "Foxes, deer, doves, crows, and cows. We introduce the special good luck powers and healing secrets possessed by the cute animals (Shinshi) of the shrines!"
+viatorSpots:
+  - name: "Fushimi Inari Taisha"
+    query: "Fushimi Inari Kyoto"
+  - name: "Kasuga Taisha"
+    query: "Kasuga Taisha Nara"
+  - name: "Kumano Hongu Taisha"
+    query: "Kumano Hongu Taisha"
 ---
 
 Thank you so much for your hard work every day at your job and chores! ✨ Are you feeling "I'm a little tired lately..." or "I want to attract some new luck" ? 💙

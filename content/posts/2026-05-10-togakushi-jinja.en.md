@@ -10,6 +10,9 @@ tags:
   - Nagano Prefecture
   - Spirituality
 draft: false
+viatorSpots:
+  - name: "Togakushi Shrine"
+    query: "Togakushi Nagano"
 ---
 
 ## Introduction

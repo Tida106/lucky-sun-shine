@@ -6,6 +6,9 @@ category: "powerspots"
 tags: ["Hebikubo Shrine", "Shinagawa", "Money Luck", "White Snake", "Power Spots"]
 slug: "hebikubo-jinja"
 draft: false
+viatorSpots:
+  - name: "Hebikubo Shrine"
+    query: "Tokyo"
 ---
 
 Hello! It's Sun-chan from Lucky Sun Shine! ☀️

@@ -10,6 +10,13 @@ tags:
   - Etiquette
   - Comprehensive Guide
 draft: false
+viatorSpots:
+  - name: "Ise Jingu"
+    query: "Ise Jingu"
+  - name: "Meiji Jingu"
+    query: "Meiji Jingu Tokyo"
+  - name: "Izumo Taisha"
+    query: "Izumo Taisha"
 ---
 
 ## Introduction

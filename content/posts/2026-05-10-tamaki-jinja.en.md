@@ -10,6 +10,9 @@ tags:
   - Nara Prefecture
   - Kumano
 draft: false
+viatorSpots:
+  - name: "Tamaki Shrine"
+    query: "Kumano Kodo"
 ---
 
 ## Introduction

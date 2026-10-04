@@ -4,6 +4,9 @@ date: "2026-09-25"
 author: "Sun-chan"
 category: "powerspots"
 tags: ["Koami Shrine", "Money Luck", "Protection from Misfortune", "Tokyo"]
+viatorSpots:
+  - name: "Koami Shrine"
+    query: "Tokyo"
 ---
 Hi everyone! It's Sun-chan from Lucky Sun Shine!
 

@@ -6,6 +6,11 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["Goshuincho", "Hokkaido", "Good Fortune"]
 draft: false
+viatorSpots:
+  - name: "Hokkaido Jingu"
+    query: "Hokkaido Jingu Sapporo"
+  - name: "Maruyama Park"
+    query: "Maruyama Park Sapporo"
 ---
 
 ## Hello there!

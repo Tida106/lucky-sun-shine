@@ -10,6 +10,11 @@ tags:
   - Miyazaki Prefecture
   - Mythology
 draft: false
+viatorSpots:
+  - name: "Takachiho Gorge"
+    query: "Takachiho Gorge"
+  - name: "Amano Iwato Shrine"
+    query: "Amano Iwato Shrine"
 ---
 
 ## Introduction

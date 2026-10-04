@@ -15,6 +15,13 @@ tags:
   - General Guide
 author: Sun-chan
 draft: false
+viatorSpots:
+  - name: "Munakata Taisha"
+    query: "Munakata Taisha Fukuoka"
+  - name: "Aso Shrine"
+    query: "Aso Shrine Kumamoto"
+  - name: "Takachiho Gorge"
+    query: "Takachiho Gorge"
 ---
 
 ## Introduction

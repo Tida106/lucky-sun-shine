@@ -6,6 +6,9 @@ category: "powerspots"
 tags: ["Seimei Shrine", "Kyoto", "Protection and Purification", "Onmyodo", "Power Spots"]
 slug: "seimei-jinja"
 draft: false
+viatorSpots:
+  - name: "Seimei Shrine"
+    query: "Kyoto"
 ---
 
 Hello! It's Sun-chan from Lucky Sun Shine! ☀️

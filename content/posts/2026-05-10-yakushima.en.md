@@ -10,6 +10,11 @@ tags:
   - Kagoshima Prefecture
   - World Heritage Site
 draft: false
+viatorSpots:
+  - name: "Yakushima"
+    query: "Yakushima"
+  - name: "Shiratani Unsuikyo"
+    query: "Shiratani Unsuikyo Yakushima"
 ---
 
 ## Introduction

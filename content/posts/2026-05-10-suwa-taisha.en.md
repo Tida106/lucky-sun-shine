@@ -6,6 +6,11 @@ updated: "2026-05-23"
 category: "powerspots"
 tags: ["Hematite", "Nagano Prefecture", "Luck in Competitions"]
 draft: false
+viatorSpots:
+  - name: "Suwa Taisha"
+    query: "Suwa Taisha Nagano"
+  - name: "Lake Suwa"
+    query: "Lake Suwa"
 ---
 
 ## Introduction

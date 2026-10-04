@@ -7,6 +7,11 @@ category: "powerspots"
 tags: ["Crystal", "Tokyo", "Matchmaking"]
 draft: false
 author: "Sun-chan"
+viatorSpots:
+  - name: "Meiji Jingu"
+    query: "Meiji Jingu Tokyo"
+  - name: "Yoyogi Park"
+    query: "Yoyogi Park Tokyo"
 ---
 
 ## Introduction

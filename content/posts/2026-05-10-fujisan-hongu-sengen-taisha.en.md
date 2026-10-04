@@ -6,6 +6,11 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["crystal", "Shizuoka Prefecture", "Mount Fuji", "volcano"]
 draft: false
+viatorSpots:
+  - name: "Fujisan Hongu Sengen Taisha"
+    query: "Fujisan Sengen Taisha"
+  - name: "Shiraito Falls"
+    query: "Shiraito Falls"
 ---
 
 ## Introduction

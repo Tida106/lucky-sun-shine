@@ -3,6 +3,11 @@ title: "[Miracle Power Spots] The '150-Year Prayer' and 'Universal Light Network
 date: "2026-09-17"
 category: "powerspots"
 excerpt: "Meiji Jingu and Todaiji. These two universally known sacred sites in Japan are actually miraculous spaces created by the immense 'prayers' and 'love' of the people. We introduce their secrets."
+viatorSpots:
+  - name: "Meiji Jingu"
+    query: "Meiji Jingu Tokyo"
+  - name: "Todai-ji Temple"
+    query: "Todaiji Nara"
 ---
 
 Hello everyone! Welcome to "Lucky Sun Shine," the comprehensive media for crystals and good luck ☀️✨

@@ -3,6 +3,13 @@ title: "[Tokyo Power Spot Tour] Was All of Tokyo Actually a 'Barrier of Light'?!
 date: "2026-09-18"
 category: "powerspots"
 excerpt: "Kanda Myojin, Senso-ji, Meiji Jingu, and Gotokuji. This is a healing sanctuary guide to fully charge your heart and luck by touring the 'Network of Light' stretched across the great metropolis of Tokyo."
+viatorSpots:
+  - name: "Senso-ji Temple"
+    query: "Asakusa Tokyo"
+  - name: "Meiji Jingu"
+    query: "Meiji Jingu Tokyo"
+  - name: "Kanda Myojin Shrine"
+    query: "Kanda Myojin Tokyo"
 ---
 
 ## Introduction: The Great Metropolis of Tokyo is the Ultimate Healing Space Protected by an Invisible "Network of Light"! ✨

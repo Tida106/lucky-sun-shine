@@ -10,6 +10,11 @@ tags:
   - Kyoto Prefecture
   - Spirituality
 draft: false
+viatorSpots:
+  - name: "Kurama-dera Temple"
+    query: "Kurama Kyoto"
+  - name: "Kifune Shrine"
+    query: "Kibune Kyoto"
 ---
 
 ## Introduction

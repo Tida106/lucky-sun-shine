@@ -6,6 +6,11 @@ updated: "2026-05-23"
 category: "powerspots"
 tags: ["Goshuincho", "Saitama Prefecture", "Evil Warding"]
 draft: false
+viatorSpots:
+  - name: "Mitsumine Shrine"
+    query: "Mitsumine Shrine Chichibu"
+  - name: "Chichibu"
+    query: "Chichibu"
 ---
 
 ## Introduction

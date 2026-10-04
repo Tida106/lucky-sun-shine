@@ -7,6 +7,13 @@ category: "powerspots"
 tags: ["Goshuincho", "Business Prosperity", "Shrine", "Comprehensive Guide"]
 author: "Sun-chan"
 draft: false
+viatorSpots:
+  - name: "Fushimi Inari Taisha"
+    query: "Fushimi Inari Kyoto"
+  - name: "Itsukushima Shrine (Miyajima)"
+    query: "Miyajima Itsukushima Shrine"
+  - name: "Izumo Taisha"
+    query: "Izumo Taisha"
 ---
 
 ## Introduction

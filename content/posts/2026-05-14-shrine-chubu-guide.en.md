@@ -6,6 +6,13 @@ updated: "2026-05-14"
 category: "powerspots"
 tags: ["Goshuincho (Shrine Seal Book)", "Nagano", "Shizuoka", "Shrines", "Comprehensive Guide"]
 draft: false
+viatorSpots:
+  - name: "Suwa Taisha"
+    query: "Suwa Taisha Nagano"
+  - name: "Fujisan Hongu Sengen Taisha"
+    query: "Fujisan Sengen Taisha"
+  - name: "Togakushi Shrine"
+    query: "Togakushi Nagano"
 ---
 
 ## Introduction

@@ -6,6 +6,13 @@ category: "powerspots"
 tags: ["Kamado Shrine", "Senso-ji Temple", "Pilgrimage", "Matchmaking", "Protection and Purification"]
 slug: "kimetsu-kamado-sensoji"
 draft: false
+viatorSpots:
+  - name: "Kamado Shrine"
+    query: "Dazaifu"
+  - name: "Senso-ji Temple"
+    query: "Asakusa Tokyo"
+  - name: "Dazaifu Tenmangu Shrine"
+    query: "Dazaifu Tenmangu"
 ---
 
 Hello! It's Sun-chan from Lucky Sun Shine! ☀️

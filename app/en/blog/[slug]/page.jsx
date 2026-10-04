@@ -13,6 +13,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ShareButtons from "@/components/ShareButtons";
 import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
+import ViatorTours from "@/components/ViatorTours";
 import { getRelatedPosts } from "@/lib/related";
 
 // 365日誕生日石の表だけ、石名リンクの左に丸いサムネイル画像を復元する対象。
@@ -159,6 +160,8 @@ export default async function BlogPostPage({ params }) {
         <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="Sun-chan" className="mt-12">
           {`Thanks so much for reading!\nI hope this article brought a little sunshine to your day!\nSee you again soon!`}
         </BlogMascotBubble>
+
+        <ViatorTours spots={post.viatorSpots} slug={post.slug} />
 
         {alsoRead.length > 0 && (
           <section className="mt-12">

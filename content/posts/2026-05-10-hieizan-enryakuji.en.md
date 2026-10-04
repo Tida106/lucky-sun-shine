@@ -10,6 +10,9 @@ tags:
   - Shiga Prefecture
   - World Heritage
 draft: false
+viatorSpots:
+  - name: "Enryaku-ji Temple (Mt. Hiei)"
+    query: "Enryakuji Kyoto"
 ---
 
 ## Introduction

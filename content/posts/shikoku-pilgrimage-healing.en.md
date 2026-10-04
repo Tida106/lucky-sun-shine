@@ -3,6 +3,9 @@ title: "Reset Your Heart and Soul on a 1,200km Journey✨ The Magical Reason Why
 date: "2026-09-18"
 category: "powerspots"
 excerpt: "The Shikoku Pilgrimage is not a harsh ascetic training, but the ultimate healing journey where you cast off daily burdens and receive unconditional love. We introduce the magical reasons why it resets your heart and soul."
+viatorSpots:
+  - name: "Shikoku Pilgrimage"
+    query: "Shikoku Pilgrimage"
 ---
 
 Hello everyone! I am the exclusive writer for the good luck & crystal media "Lucky Sun Shine" ✨

@@ -6,6 +6,11 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["Rose Quartz", "Shimane Prefecture", "Fate-Forging"]
 draft: false
+viatorSpots:
+  - name: "Izumo Grand Shrine"
+    query: "Izumo Taisha"
+  - name: "Hinomisaki Shrine"
+    query: "Hinomisaki Shrine"
 ---
 
 ## Introduction

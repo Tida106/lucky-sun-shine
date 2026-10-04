@@ -10,6 +10,9 @@ tags:
   - Fukuoka Prefecture
   - World Heritage
 draft: false
+viatorSpots:
+  - name: "Munakata Taisha"
+    query: "Munakata Taisha Fukuoka"
 ---
 
 ## Introduction

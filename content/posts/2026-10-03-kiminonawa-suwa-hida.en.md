@@ -6,6 +6,13 @@ category: "powerspots"
 tags: ["Suwa Taisha Shrine", "Hida-Furukawa", "Pilgrimage", "Matchmaking", "Kumihimo"]
 slug: "kiminonawa-suwa-hida"
 draft: false
+viatorSpots:
+  - name: "Suwa Taisha"
+    query: "Suwa Taisha Nagano"
+  - name: "Lake Suwa"
+    query: "Lake Suwa"
+  - name: "Hida-Furukawa"
+    query: "Hida Furukawa"
 ---
 
 Hello! It's Sun-chan from Lucky Sun Shine! ☀️

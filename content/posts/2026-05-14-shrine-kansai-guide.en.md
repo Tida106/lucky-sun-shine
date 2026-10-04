@@ -16,6 +16,13 @@ tags:
   - Shrines
   - Comprehensive Guide
 draft: false
+viatorSpots:
+  - name: "Ise Grand Shrine"
+    query: "Ise Jingu"
+  - name: "Kasuga Taisha"
+    query: "Kasuga Taisha Nara"
+  - name: "Kumano Hongu Taisha"
+    query: "Kumano Hongu Taisha"
 ---
 
 ## Introduction

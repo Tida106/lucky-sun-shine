@@ -6,6 +6,13 @@ updated: "2026-05-14"
 category: "powerspots"
 tags: ["Goshuincho", "Tokyo", "Kanagawa", "Saitama", "Shrine", "Comprehensive Guide"]
 draft: false
+viatorSpots:
+  - name: "Meiji Jingu"
+    query: "Meiji Jingu Tokyo"
+  - name: "Enoshima Shrine"
+    query: "Enoshima"
+  - name: "Mitsumine Shrine"
+    query: "Mitsumine Shrine Chichibu"
 ---
 
 ## Introduction

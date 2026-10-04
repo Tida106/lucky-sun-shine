@@ -6,6 +6,9 @@ category: "powerspots"
 tags: ["Lucky Wallet", "Hiroo Inari Shrine", "Power Spots", "Yuichi Takahashi", "Ink Dragon Painting", "Charms"]
 slug: "hiroo-inari-shrine-powerspot"
 draft: false
+viatorSpots:
+  - name: "Hiroo Inari Shrine"
+    query: "Tokyo"
 ---
 
 Hello! It's **Sun-chan**, the exclusive writer for the crystal and good luck media "Lucky Sun Shine"! ☀️💛

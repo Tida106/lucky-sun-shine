@@ -6,6 +6,11 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["Aquamarine", "Hiroshima Prefecture", "Ocean"]
 draft: false
+viatorSpots:
+  - name: "Itsukushima Shrine (Miyajima)"
+    query: "Miyajima Itsukushima Shrine"
+  - name: "Daisho-in Temple"
+    query: "Daishoin Temple Miyajima"
 ---
 
 ## Introduction

@@ -11,6 +11,13 @@ tags:
   - Shrine
   - Comprehensive Guide
 draft: false
+viatorSpots:
+  - name: "Dazaifu Tenmangu Shrine"
+    query: "Dazaifu Tenmangu"
+  - name: "Kasuga Taisha"
+    query: "Kasuga Taisha Nara"
+  - name: "Togakushi Shrine"
+    query: "Togakushi Nagano"
 ---
 
 ## Introduction
