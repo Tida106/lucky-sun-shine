@@ -15,6 +15,7 @@ import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import ViatorTours from "@/components/ViatorTours";
 import { getRelatedPosts } from "@/lib/related";
+import { postHasAffiliateLinks } from "@/lib/affiliate";
 
 // 365日誕生日石の表だけ、石名リンクの左に丸いサムネイル画像を復元する対象。
 const STONE_THUMB_SLUGS = new Set(["birthday-stone-365"]);
@@ -85,6 +86,7 @@ export default async function BlogPostPage({ params }) {
   const alsoRead = getRelatedPosts(post, all, { limit: 4 });
 
   const catTitle = getCategoryTitle(cat, LOCALE) || post.category;
+  const hasAffiliate = postHasAffiliateLinks(post, LOCALE);
 
   const breadcrumbItems = [
     { name: catTitle },
@@ -108,6 +110,11 @@ export default async function BlogPostPage({ params }) {
           <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900">
             {post.title}
           </h1>
+          {hasAffiliate && (
+            <p className="mt-2 text-[11px] text-ink-500">
+              This article contains promotional content.
+            </p>
+          )}
           {post.description && (
             <p className="mt-4 text-ink-700 leading-relaxed">{post.description}</p>
           )}

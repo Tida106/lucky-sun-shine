@@ -10,6 +10,8 @@
 //     title="商品名"
 //     network="Amazon"   // or "楽天市場" / "Yahoo!ショッピング"
 //   />
+import { prLabel } from '@/lib/affiliate';
+
 export default function MoshimoLink({
   url,
   impression,
@@ -18,6 +20,7 @@ export default function MoshimoLink({
   image,
   description,
   network = 'もしも',
+  locale = 'ja',
   className = '',
 }) {
   if (!url) return null;
@@ -42,7 +45,7 @@ export default function MoshimoLink({
           <div className="min-w-0 flex-1">
             <div className="flex items-center gap-2 text-xs text-amber-700 font-bold">
               <span>{network}</span>
-              <span className="text-ink-500 font-normal">PR</span>
+              <span className="text-ink-500 font-normal">{prLabel(locale)}</span>
             </div>
             <h4 className="mt-1 font-bold text-ink-900 leading-snug group-hover:text-amber-700 line-clamp-2">
               {title}

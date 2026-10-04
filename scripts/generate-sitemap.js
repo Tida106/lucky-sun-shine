@@ -57,6 +57,7 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/editorial-policy/`, today, 'monthly', '0.5'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/privacy/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/disclaimer/`, today, 'yearly', '0.3'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/disclosure/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/contact/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/tags/`, today, 'weekly', '0.6'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/search/`, today, 'monthly', '0.4'));

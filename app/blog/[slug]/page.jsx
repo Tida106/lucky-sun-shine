@@ -14,6 +14,7 @@ import ShareButtons from "@/components/ShareButtons";
 import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import { getRelatedPosts } from "@/lib/related";
+import { postHasAffiliateLinks } from "@/lib/affiliate";
 
 // 365日誕生日石の表だけ、石名リンクの左に丸いサムネイル画像を復元する対象。
 const STONE_THUMB_SLUGS = new Set(["birthday-stone-365"]);
@@ -84,6 +85,7 @@ export default async function BlogPostPage({ params }) {
   const alsoRead = getRelatedPosts(post, all, { limit: 4 });
 
   const catTitle = getCategoryTitle(cat, LOCALE) || post.category;
+  const hasAffiliate = postHasAffiliateLinks(post, LOCALE);
 
   const breadcrumbItems = [
     { name: catTitle },
@@ -107,6 +109,11 @@ export default async function BlogPostPage({ params }) {
           <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900">
             {post.title}
           </h1>
+          {hasAffiliate && (
+            <p className="mt-2 text-[11px] text-ink-500">
+              この記事にはプロモーションが含まれています
+            </p>
+          )}
           {post.description && (
             <p className="mt-4 text-ink-700 leading-relaxed">{post.description}</p>
           )}
@@ -143,14 +150,17 @@ export default async function BlogPostPage({ params }) {
                 でも、もし人に相談してみたいなら、占いで専門家に聞いてみるのもいいかもね✨
               </p>
               
-              <div className="my-5">
-                <a 
-                  href="https://px.a8.net/svt/ejp?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI" 
+              <div className="my-5 flex flex-wrap items-center gap-2">
+                <a
+                  href="https://px.a8.net/svt/ejp?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI"
                   rel="nofollow"
                   className="inline-block bg-orange-400 text-white font-bold py-3 px-6 rounded-full hover:bg-orange-500 hover:shadow-md transition-all duration-300"
                 >
                   電話占いデスティニーで相談してみる
                 </a>
+                <span className="text-[10px] font-bold tracking-widest text-ink-500 bg-white border border-amber-200 rounded px-1.5 py-0.5">
+                  PR
+                </span>
                 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI" alt="" />
               </div>
 

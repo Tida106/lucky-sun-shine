@@ -5,6 +5,8 @@
 // `tag` defaults to NEXT_PUBLIC_AMAZON_TAG (e.g. "luckysunshine-22").
 // If neither prop nor env is set, the link drops the tag — links keep
 // working but without affiliate attribution.
+import { prLabel } from '@/lib/affiliate';
+
 export default function AmazonLink({
   asin,
   title,
@@ -12,6 +14,7 @@ export default function AmazonLink({
   image,
   description,
   tag = process.env.NEXT_PUBLIC_AMAZON_TAG,
+  locale = 'ja',
   className = '',
 }) {
   if (!asin) return null;
@@ -38,7 +41,7 @@ export default function AmazonLink({
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-2 text-xs text-amber-700 font-bold">
             <span>Amazon</span>
-            <span className="text-ink-500 font-normal">PR</span>
+            <span className="text-ink-500 font-normal">{prLabel(locale)}</span>
           </div>
           <h4 className="mt-1 font-bold text-ink-900 leading-snug group-hover:text-amber-700 line-clamp-2">
             {title}

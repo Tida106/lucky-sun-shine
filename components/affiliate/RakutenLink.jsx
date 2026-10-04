@@ -4,6 +4,8 @@
 //
 // `afb` defaults to NEXT_PUBLIC_RAKUTEN_AFB (アフィリエイトID, 例: "208f8a99")。
 // 楽天は商品URLに `?scid=af_<AFB>` を付与する形式で計測される。
+import { prLabel } from '@/lib/affiliate';
+
 function buildRakutenUrl(rawUrl, afb) {
   if (!rawUrl) return null;
   if (!afb) return rawUrl;
@@ -19,6 +21,7 @@ export default function RakutenLink({
   description,
   shopName,
   afb = process.env.NEXT_PUBLIC_RAKUTEN_AFB,
+  locale = 'ja',
   className = '',
 }) {
   const fullUrl = buildRakutenUrl(url, afb);
@@ -44,7 +47,7 @@ export default function RakutenLink({
           <div className="flex items-center gap-2 text-xs text-rose-700 font-bold">
             <span>楽天市場</span>
             {shopName && <span className="text-ink-500 font-normal">{shopName}</span>}
-            <span className="text-ink-500 font-normal">PR</span>
+            <span className="text-ink-500 font-normal">{prLabel(locale)}</span>
           </div>
           <h4 className="mt-1 font-bold text-ink-900 leading-snug group-hover:text-rose-700 line-clamp-2">
             {title}

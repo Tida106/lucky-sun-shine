@@ -1,6 +1,6 @@
 import RakutenLink from './RakutenLink';
 
-export default async function RakutenApi({ keyword }) {
+export default async function RakutenApi({ keyword, locale = 'ja' }) {
   const appId = "61035206-cd44-4f8d-949f-75033ef6c16d";
   const affId = "5738f936.e4c3f4e3.5738f937.de258ec8";
   const url = `https://app.rakuten.co.jp/services/api/IchibaItem/Search/20220601?format=json&keyword=${encodeURIComponent(keyword)}&applicationId=${appId}&affiliateId=${affId}&hits=1&imageFlag=1`;
@@ -19,6 +19,7 @@ export default async function RakutenApi({ keyword }) {
           image={item.mediumImageUrls[0]?.imageUrl}
           shopName={item.shopName}
           afb={affId}
+          locale={locale}
         />
       );
     }

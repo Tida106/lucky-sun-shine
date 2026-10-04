@@ -15,8 +15,11 @@ export default function ViatorTours({ spots, slug }) {
 
   return (
     <section className="mt-12 p-6 md:p-8 bg-amber-50 rounded-2xl border border-amber-100">
-      <h2 className="font-display text-lg md:text-xl font-bold text-ink-900 mb-4">
+      <h2 className="font-display text-lg md:text-xl font-bold text-ink-900 mb-4 flex items-center gap-2">
         Plan Your Visit
+        <span className="text-[10px] font-bold tracking-widest text-ink-500 bg-white border border-amber-200 rounded px-1.5 py-0.5">
+          Ad
+        </span>
       </h2>
       <div className="flex flex-col gap-3">
         {spots.slice(0, 3).map((spot) => (

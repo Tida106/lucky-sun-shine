@@ -42,7 +42,7 @@ export default function Footer() {
     editorialPolicy: isZhTw ? '編輯方針' : isEn ? 'Editorial Policy' : '記事作成方針',
     privacy: isZhTw ? '隱私權政策' : isEn ? 'Privacy Policy' : 'プライバシーポリシー',
     disclaimer: isZhTw ? '免責聲明' : isEn ? 'Disclaimer' : '免責事項',
-    disclosure: 'Affiliate Disclosure',
+    disclosure: isEn ? 'Affiliate Disclosure' : 'アフィリエイトプログラムに関する表示',
     contact: isZhTw ? '聯絡我們' : isEn ? 'Contact' : 'お問い合わせ',
     credits: isZhTw ? '圖片版權說明' : isEn ? 'Image Credits' : '画像クレジット',
     tags: isZhTw ? '全部標籤' : isEn ? 'All Tags' : 'タグ一覧',
@@ -141,8 +141,8 @@ export default function Footer() {
             <li><Link href="/editorial-policy/" className="hover:text-amber-700">{t.editorialPolicy}</Link></li>
             <li><Link href={isEn ? '/en/privacy/' : '/privacy/'} className="hover:text-amber-700">{t.privacy}</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">{t.disclaimer}</Link></li>
-            {isEn && (
-              <li><Link href="/en/disclosure/" className="hover:text-amber-700">{t.disclosure}</Link></li>
+            {!isZhTw && (
+              <li><Link href={isEn ? '/en/disclosure/' : '/disclosure/'} className="hover:text-amber-700">{t.disclosure}</Link></li>
             )}
             <li><Link href="/contact/" className="hover:text-amber-700">{t.contact}</Link></li>
             <li><Link href={isEn ? '/en/credits/' : '/credits/'} className="hover:text-amber-700">{t.credits}</Link></li>
