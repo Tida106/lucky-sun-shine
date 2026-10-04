@@ -186,7 +186,7 @@ draft: false
 ### 健康運・人間関係：状況に応じて
 
 - **健康運**（[ターコイズ](/blog/turquoise/)・[クリソプレース](/blog/chrysoprase/)等）：**癒しを受け取る左手**が一般的 → [健康運に効くパワーストーン完全ガイド](/blog/purpose-health-stones/)
-- **人間関係運**（[アクアマリン](/blog/aquamarine/)・[ブルーレースアゲート](/blog/blue-lace-agate/)等）：**自分から伝える右手**派と、**相手の気持ちを受け止める左手**派、両方あり → [人間関係に効くパワーストーン完全ガイド](/blog/purpose-relation-stones/)
+- **人間関係運**（[アクアマリン](/blog/aquamarine/)・ブルーレースアゲート等）：**自分から伝える右手**派と、**相手の気持ちを受け止める左手**派、両方あり → [人間関係に効くパワーストーン完全ガイド](/blog/purpose-relation-stones/)
 
 ### 目的別まとめ表
 

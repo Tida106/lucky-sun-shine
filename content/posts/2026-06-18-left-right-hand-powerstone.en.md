@@ -185,7 +185,7 @@ If you "**want to push yourself forward with strong protection**," wearing it on
 ### Health and Relationships: Depending on the Situation
 
 - **Health luck** ([Turquoise](/blog/turquoise/), [Chrysoprase](/blog/chrysoprase/), etc.): Generally, the **left hand for receiving healing** is common → [Complete Guide to Crystals for Health Luck](/blog/purpose-health-stones/)
-- **Relationship luck** ([Aquamarine](/blog/aquamarine/), [Blue Lace Agate](/blog/blue-lace-agate/), etc.): Both sides exist; some prefer the **right hand for communicating oneself**, while others prefer the **left hand for receiving others' feelings** → [Complete Guide to Crystals for Relationships](/blog/purpose-relation-stones/)
+- **Relationship luck** ([Aquamarine](/blog/aquamarine/), Blue Lace Agate, etc.): Both sides exist; some prefer the **right hand for communicating oneself**, while others prefer the **left hand for receiving others' feelings** → [Complete Guide to Crystals for Relationships](/blog/purpose-relation-stones/)
 
 ### Purpose-Based Summary Table
 

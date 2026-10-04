@@ -177,7 +177,7 @@ Metal (such as silver and copper) used for bracelet clasps and charms can **disc
 
 - [Lapis Lazuli](/blog/lapis-lazuli/) (contains pyrite)
 - [Pyrite](/blog/pyrite/)
-- [Marcasite](/blog/marcasite/)
+- Marcasite
 
 If this concerns you, measures such as **inserting clear quartz or cushion beads between the stone and metal components** or **polishing them regularly** can help.
 
@@ -377,9 +377,6 @@ You can try it out for free for the first 10 minutes right now, so if you're cur
 ## 🌟 Boost Your Luck Even Further! Recommended Related Articles
 
 After learning about stone compatibility, also check out the "optimal usage" and "maintenance" tailored to your current situation to further enhance your talisman's effects!
-
-*   **For those who have been unlucky recently or are worried about future luck...**
-    👉 [Crystals to Overcome Daisakkai｜How to Navigate Low Luck Periods with Guardian Stones](/blog/daisakkkai-powerstone-guide)
 
 *   **For those who don't want to give up on stones said to have bad compatibility...**
     (※ Often, wearing one and placing the other in a "space" can solve the issue!)

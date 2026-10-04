@@ -153,7 +153,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
               <Link
                 key={opt.locale}
                 href={langHref(pathname, locale, opt.locale, slugSets)}
-                className={`inline-flex items-center justify-center h-9 px-2.5 transition-colors ${
+                className={`inline-flex items-center justify-center h-9 px-2.5 whitespace-nowrap transition-colors ${
                   locale === opt.locale
                     ? 'bg-sky-300 text-sky-900'
                     : 'text-sky-700 hover:bg-sky-200'
