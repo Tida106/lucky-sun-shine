@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { mainCategories as categories } from '@/lib/categories';
+import { mainCategories as categories, getCategoryTitle } from '@/lib/categories';
 import CategoryIcon from './CategoryIcon';
 import Logo from './Logo';
 import SunMascot from './SunMascot';
@@ -10,60 +10,97 @@ import { SearchIcon, YoutubeIcon, InstagramIcon } from './icons/NavIcons';
 
 const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
 
-// カテゴリ名の英語変換用辞書
-const categoryEnMap = {
-  'パワーストーン': 'Crystals',
-  'パワースポット': 'Power Spots',
-  '開運グッズ': 'Lucky Items',
-  '運気アップ習慣': 'Good Luck Habits',
-};
-
-// 言語切り替えボタンの行き先。/en/ 配下は現状 "/", "/en/blog/[slug]/"
-// (翻訳がある記事のみ), "/en/omikuji/" しか実在しないため、それ以外の
-// パス(タグ・カテゴリ・検索・固定ページ等)では必ず実在するトップページに
-// フォールバックする。これを怠ると、全タグ/カテゴリページの切り替えボタンが
-// 存在しない /en/tag/xxx/ 等を指して404になる。
-function otherLangHref(pathname, isEn, enSlugSet) {
-  if (isEn) {
-    const blogMatch = pathname.match(/^\/en\/blog\/([a-z0-9-]+)\/?$/i);
-    if (blogMatch) return `/blog/${blogMatch[1]}/`;
-    if (/^\/en\/omikuji\/?$/.test(pathname)) return '/omikuji/';
-    return '/';
-  }
-  const blogMatch = pathname.match(/^\/blog\/([a-z0-9-]+)\/?$/i);
-  if (blogMatch && enSlugSet.has(blogMatch[1])) return `/en/blog/${blogMatch[1]}/`;
-  if (/^\/omikuji\/?$/.test(pathname)) return '/en/omikuji/';
-  return '/en/';
+// 現在のパスからロケールを判定する。
+function localeFromPathname(pathname) {
+  if (pathname.startsWith('/zh-tw')) return 'zh-tw';
+  if (pathname.startsWith('/en')) return 'en';
+  return 'ja';
 }
 
-export default function Header({ enSlugs = [] }) {
-  // 現在のURLを取得し、「/en」から始まっていれば英語モードと判定
-  const pathname = usePathname() || '';
-  const isEn = pathname.startsWith('/en');
-  const enSlugSet = new Set(enSlugs);
+// 言語切り替えボタンの行き先。各言語版は "/", "/{locale}/blog/[slug]/"
+// (翻訳がある記事のみ)、"/en/omikuji/" のように存在するページが限られる
+// ため、それ以外のパス(タグ・カテゴリ・検索・固定ページ等)では必ず
+// 実在するその言語のトップページにフォールバックする。これを怠ると、
+// 全タグ/カテゴリページの切り替えボタンが存在しないページを指して
+// 404になる。
+function langHref(pathname, currentLocale, targetLocale, slugSets) {
+  // 静的書き出しの404ページでは usePathname() が実URLではなく内部プレース
+  // ホルダー "/_not-found" を返すため、そのまま使うと存在しないパスへの
+  // リンクになってしまう。その場合は常にトップへのリンクとして扱う。
+  if (pathname.startsWith('/_not-found')) {
+    return targetLocale === 'ja' ? '/' : `/${targetLocale}/`;
+  }
+  if (currentLocale === targetLocale) return pathname;
 
-  // 英語・日本語のテキストとURLの切り替え辞書
+  // まず現在のパスから「中立なパス情報」を取り出す。
+  let blogSlug = null;
+  let isOmikuji = false;
+  if (currentLocale === 'ja') {
+    const m = pathname.match(/^\/blog\/([a-z0-9-]+)\/?$/i);
+    if (m) blogSlug = m[1];
+    isOmikuji = /^\/omikuji\/?$/.test(pathname);
+  } else {
+    const m = pathname.match(new RegExp(`^/${currentLocale}/blog/([a-z0-9-]+)/?$`, 'i'));
+    if (m) blogSlug = m[1];
+    isOmikuji = new RegExp(`^/${currentLocale}/omikuji/?$`).test(pathname);
+  }
+
+  const prefix = targetLocale === 'ja' ? '' : `/${targetLocale}`;
+
+  if (blogSlug) {
+    const targetSlugSet = targetLocale === 'ja' ? null : slugSets[targetLocale];
+    // ja は常に存在する(他言語版は必ず元のja記事を持つ)。他言語への切替は
+    // その言語版が実在する場合のみ。
+    if (targetLocale === 'ja' || targetSlugSet?.has(blogSlug)) {
+      return `${prefix}/blog/${blogSlug}/`;
+    }
+    return `${prefix}/`;
+  }
+  if (isOmikuji && (targetLocale === 'ja' || targetLocale === 'en')) {
+    return `${prefix}/omikuji/`;
+  }
+  return `${prefix}/`;
+}
+
+export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
+  const pathname = usePathname() || '';
+  const locale = localeFromPathname(pathname);
+  const isEn = locale === 'en';
+  const isZhTw = locale === 'zh-tw';
+  const slugSets = { en: new Set(enSlugs), 'zh-tw': new Set(zhTwSlugs) };
+
+  // 各言語のテキストとURLの切り替え辞書
   // /en/search/, /en/recommend-youtube/, /en/about-mascot/, /en/category/
-  // はまだ存在しないため、英語ロケールでも日本語版へのリンクのままにする
-  // (新たな404を防ぐ)。/en/omikuji/ は実在するのでそのまま。
+  // 等はまだ存在しないため、英語ロケールでも日本語版へのリンクのままに
+  // する(新たな404を防ぐ)。/en/omikuji/ は実在するのでそのまま。
+  // 繁体中文版は /zh-tw/about-mascot/ のみ独自に実在するため、その
+  // ページ内だけ専用リンクに切り替える。
   const t = {
-    home: isEn ? '/en/' : '/',
+    home: isZhTw ? '/zh-tw/' : isEn ? '/en/' : '/',
     search: '/search/',
     youtubeLink: '/recommend-youtube/',
-    youtubeText: isEn ? 'Recommended YouTube' : 'おすすめYouTubeチャンネル',
-    mascotLink: '/about-mascot/',
-    mascotText: isEn ? 'Who is Sun-chan?' : '☀️太陽ちゃんって？',
-    mascotTitle: isEn ? 'About our mascot Sun-chan' : 'Lucky Sun Shine の公式マスコット 太陽ちゃんを紹介',
-    omikujiLink: isEn ? '/en/omikuji/' : '/omikuji/',
-    omikujiText: isEn ? 'Fortune' : 'おみくじ',
-    omikujiTitle: isEn ? 'Draw a fortune slip' : '太陽ちゃんのおみくじを引く',
-    searchTitle: isEn ? 'Search' : 'サイト内検索',
-    logoAria: isEn ? 'To Lucky Sun Shine Top' : 'Lucky Sun Shine トップへ',
+    youtubeText: isZhTw ? '推薦 YouTube 頻道' : isEn ? 'Recommended YouTube' : 'おすすめYouTubeチャンネル',
+    mascotLink: isZhTw ? '/zh-tw/about-mascot/' : '/about-mascot/',
+    mascotText: isZhTw ? '☀️太陽醬是誰？' : isEn ? 'Who is Sun-chan?' : '☀️太陽ちゃんって？',
+    mascotTitle: isZhTw
+      ? 'Lucky Sun Shine 官方吉祥物「太陽醬」介紹'
+      : isEn
+        ? 'About our mascot Sun-chan'
+        : 'Lucky Sun Shine の公式マスコット 太陽ちゃんを紹介',
+    omikujiLink: isEn ? '/en/omikuji/' : isZhTw ? '/omikuji/' : '/omikuji/',
+    omikujiText: isZhTw ? '抽籤' : isEn ? 'Fortune' : 'おみくじ',
+    omikujiTitle: isZhTw ? '抽太陽醬的運勢籤' : isEn ? 'Draw a fortune slip' : '太陽ちゃんのおみくじを引く',
+    searchTitle: isZhTw ? '站內搜尋' : isEn ? 'Search' : 'サイト内検索',
+    logoAria: isZhTw ? '回到 Lucky Sun Shine 首頁' : isEn ? 'To Lucky Sun Shine Top' : 'Lucky Sun Shine トップへ',
   };
 
   const getCategoryUrl = (slug) => `/category/${slug}/`;
 
-  const langToggleLabel = isEn ? 'JP' : 'EN';
+  const LANG_OPTIONS = [
+    { locale: 'ja', label: 'JP' },
+    { locale: 'en', label: 'EN' },
+    { locale: 'zh-tw', label: '繁中' },
+  ];
 
   return (
     <header className="sticky top-0 z-30 backdrop-blur bg-white/80 border-b border-amber-200">
@@ -83,7 +120,7 @@ export default function Header({ enSlugs = [] }) {
               className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700 transition-colors whitespace-nowrap"
             >
               <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600" />
-              {isEn ? (categoryEnMap[c.title] || c.title) : c.title}
+              {getCategoryTitle(c, locale)}
             </Link>
           ))}
           <Link
@@ -111,13 +148,23 @@ export default function Header({ enSlugs = [] }) {
           </Link>
         </nav>
         <div className="flex items-center gap-2">
-          <Link
-            href={otherLangHref(pathname, isEn, enSlugSet)}
-            className="inline-flex items-center justify-center h-9 px-3 rounded-full bg-sky-100 border border-sky-300 hover:bg-sky-200 hover:shadow-[0_0_12px_rgba(56,189,248,0.5)] transition-all text-sky-700 text-xs font-bold mr-1"
-            title={isEn ? 'Switch to Japanese' : 'Switch to English'}
-          >
-            {langToggleLabel}
-          </Link>
+          <div className="inline-flex items-center rounded-full bg-sky-100 border border-sky-300 overflow-hidden mr-1 text-xs font-bold">
+            {LANG_OPTIONS.map((opt) => (
+              <Link
+                key={opt.locale}
+                href={langHref(pathname, locale, opt.locale, slugSets)}
+                className={`inline-flex items-center justify-center h-9 px-2.5 transition-colors ${
+                  locale === opt.locale
+                    ? 'bg-sky-300 text-sky-900'
+                    : 'text-sky-700 hover:bg-sky-200'
+                }`}
+                aria-current={locale === opt.locale ? 'true' : undefined}
+                title={`Switch to ${opt.label}`}
+              >
+                {opt.label}
+              </Link>
+            ))}
+          </div>
           <Link
             href={t.search}
             aria-label={t.searchTitle}
@@ -147,7 +194,7 @@ export default function Header({ enSlugs = [] }) {
               className="inline-flex items-center gap-1 whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-50 text-amber-900 hover:bg-amber-100"
             >
               <CategoryIcon slug={c.slug} className="w-3.5 h-3.5 text-amber-600" />
-              {isEn ? (categoryEnMap[c.title] || c.title) : c.title}
+              {getCategoryTitle(c, locale)}
             </Link>
           ))}
           <Link

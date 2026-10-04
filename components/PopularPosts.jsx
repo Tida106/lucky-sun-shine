@@ -11,13 +11,14 @@ import SunOrnament from './icons/SunOrnament';
 // label is what matters and is set in the default `heading` prop.
 export default function PopularPosts({ limit = 5, heading = '編集部おすすめ', locale = 'ja' }) {
   const isEn = locale === 'en';
-  
-  // 英語環境の場合は見出しを「Editor's Picks」に切り替える
-  const displayHeading = isEn && heading === '編集部おすすめ' 
-    ? "Editor's Picks" 
+  const isZhTw = locale === 'zh-tw';
+
+  // 英語・繁体中文環境の場合は見出しを切り替える
+  const displayHeading = heading === '編集部おすすめ'
+    ? (isZhTw ? '編輯部精選' : isEn ? "Editor's Picks" : heading)
     : heading;
 
-  // 英語のロケールを渡して記事を取得する（未翻訳の記事は自動で除外される）
+  // ロケールを渡して記事を取得する（未翻訳の記事は自動で除外される）
   const all = getAllPosts(locale);
   const bySlug = Object.fromEntries(all.map((p) => [p.slug, p]));
   const ranked = featuredSlugs
@@ -27,7 +28,7 @@ export default function PopularPosts({ limit = 5, heading = '編集部おすす�
 
   if (ranked.length === 0) return null;
 
-  const blogPrefix = isEn ? '/en/blog/' : '/blog/';
+  const blogPrefix = isZhTw ? '/zh-tw/blog/' : isEn ? '/en/blog/' : '/blog/';
 
   return (
     <aside className="card-elev rounded-2xl bg-white border border-amber-200 p-6">

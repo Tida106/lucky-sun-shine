@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "prebuild": "node scripts/optimize-hero.js && node scripts/generate-redirects.js && node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/generate-ads-txt.js && node scripts/generate-search-index.js",
-    "build": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next build",
-    "build:fast": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next build",
+    "build": "cross-env NODE_OPTIONS=--max-old-space-size=2048 next build",
+    "build:fast": "cross-env NODE_OPTIONS=--max-old-space-size=2048 next build",
     "start": "next start",
     "lint": "next lint",
     "new:post": "node scripts/new-post.js",

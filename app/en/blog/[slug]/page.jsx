@@ -37,6 +37,7 @@ export async function generateMetadata({ params }) {
   const post = getPostBySlug(slug, LOCALE);
   if (!post) return {};
   const description = normalizeDescription(post);
+  const hasZhTw = Boolean(getPostBySlug(slug, "zh-tw"));
   return {
     title: post.title,
     description,
@@ -46,6 +47,7 @@ export async function generateMetadata({ params }) {
       languages: {
         ja: `/blog/${post.slug}/`,
         en: `/en/blog/${post.slug}/`,
+        ...(hasZhTw ? { "zh-Hant-TW": `/zh-tw/blog/${post.slug}/` } : {}),
         "x-default": `/blog/${post.slug}/`,
       },
     },

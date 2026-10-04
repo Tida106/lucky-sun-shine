@@ -13,35 +13,41 @@ const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
 
 export default function Footer() {
   const pathname = usePathname() || '';
-  const isEn = pathname.startsWith('/en');
+  const isZhTw = pathname.startsWith('/zh-tw');
+  const isEn = !isZhTw && pathname.startsWith('/en');
+  const locale = isZhTw ? 'zh-tw' : isEn ? 'en' : 'ja';
   const year = new Date().getFullYear();
 
-  // /en/about/, /en/tags/ 等はまだ存在しないため、英語ロケールでも
-  // リンク先は日本語版のまま(表示テキストだけ英語にする)。
-  // /en/credits/, /en/privacy/, /en/disclosure/ は英語版ページが
-  // 実在するため、英語ロケールではそちらにリンクする。
+  // /en/about/, /en/tags/, /zh-tw/about/, /zh-tw/tags/ 等はまだ存在
+  // しないため、英語・繁体中文ロケールでもリンク先は日本語版のまま
+  // (表示テキストだけ翻訳する)。/en/credits/, /en/privacy/,
+  // /en/disclosure/ は英語版ページが実在するため、英語ロケールでは
+  // そちらにリンクする。/zh-tw/about-mascot/ は繁体中文版ページが
+  // 実在するため、繁体中文ロケールではそちらにリンクする。
   const t = {
-    messageLabel: isEn ? "A Message from Sun-chan" : '太陽ちゃんからのメッセージ',
-    messageTitle: isEn ? 'Thanks for stopping by!' : '来てくれてありがとう！',
-    messageBody: isEn
-      ? 'On good days and ordinary days alike, the sun is always watching over you. Lucky Sun Shine is here to gently nudge you forward.'
-      : 'うまくいかない日も、なんでもない日も、お日さまはちゃんとあなたを見てるよ。Lucky Sun Shine は、そんなあなたの背中をそっと押すための場所です。',
-    tagline: isEn ? 'Your guide to crystals, power spots, and good luck.' : site.tagline,
-    youtube: isEn ? 'Recommended YouTube' : 'おすすめYouTubeチャンネル',
-    categoriesHeading: isEn ? 'Categories' : 'カテゴリ',
-    siteInfoHeading: isEn ? 'Site Info' : 'サイト情報',
-    about: isEn ? 'About This Site' : 'このサイトについて',
-    vision: isEn ? 'Our Vision' : 'Lucky Sun Shineの想い',
-    mascot: isEn ? 'About Sun-chan' : '太陽ちゃんプロフィール',
-    editorialPolicy: isEn ? 'Editorial Policy' : '記事作成方針',
-    privacy: isEn ? 'Privacy Policy' : 'プライバシーポリシー',
-    disclaimer: isEn ? 'Disclaimer' : '免責事項',
+    messageLabel: isZhTw ? '太陽醬的話' : isEn ? 'A Message from Sun-chan' : '太陽ちゃんからのメッセージ',
+    messageTitle: isZhTw ? '謝謝你來訪！' : isEn ? 'Thanks for stopping by!' : '来てくれてありがとう！',
+    messageBody: isZhTw
+      ? '不管是順利的日子，還是平凡無奇的一天，太陽都一直守護著你。Lucky Sun Shine 想成為輕輕推你一把、陪你往前走的地方。'
+      : isEn
+        ? 'On good days and ordinary days alike, the sun is always watching over you. Lucky Sun Shine is here to gently nudge you forward.'
+        : 'うまくいかない日も、なんでもない日も、お日さまはちゃんとあなたを見てるよ。Lucky Sun Shine は、そんなあなたの背中をそっと押すための場所です。',
+    tagline: isZhTw ? '水晶、能量景點與開運的綜合指南。' : isEn ? 'Your guide to crystals, power spots, and good luck.' : site.tagline,
+    youtube: isZhTw ? '推薦 YouTube 頻道' : isEn ? 'Recommended YouTube' : 'おすすめYouTubeチャンネル',
+    categoriesHeading: isZhTw ? '分類' : isEn ? 'Categories' : 'カテゴリ',
+    siteInfoHeading: isZhTw ? '網站資訊' : isEn ? 'Site Info' : 'サイト情報',
+    about: isZhTw ? '關於本站' : isEn ? 'About This Site' : 'このサイトについて',
+    vision: isZhTw ? 'Lucky Sun Shine 的理念' : isEn ? 'Our Vision' : 'Lucky Sun Shineの想い',
+    mascot: isZhTw ? '太陽醬小檔案' : isEn ? 'About Sun-chan' : '太陽ちゃんプロフィール',
+    editorialPolicy: isZhTw ? '編輯方針' : isEn ? 'Editorial Policy' : '記事作成方針',
+    privacy: isZhTw ? '隱私權政策' : isEn ? 'Privacy Policy' : 'プライバシーポリシー',
+    disclaimer: isZhTw ? '免責聲明' : isEn ? 'Disclaimer' : '免責事項',
     disclosure: 'Affiliate Disclosure',
-    contact: isEn ? 'Contact' : 'お問い合わせ',
-    credits: isEn ? 'Image Credits' : '画像クレジット',
-    tags: isEn ? 'All Tags' : 'タグ一覧',
-    search: isEn ? 'Search' : 'サイト内検索',
-    rights: isEn ? 'All rights reserved.' : 'All rights reserved.',
+    contact: isZhTw ? '聯絡我們' : isEn ? 'Contact' : 'お問い合わせ',
+    credits: isZhTw ? '圖片版權說明' : isEn ? 'Image Credits' : '画像クレジット',
+    tags: isZhTw ? '全部標籤' : isEn ? 'All Tags' : 'タグ一覧',
+    search: isZhTw ? '站內搜尋' : isEn ? 'Search' : 'サイト内検索',
+    rights: 'All rights reserved.',
   };
 
   return (
@@ -53,7 +59,7 @@ export default function Footer() {
             <SunMascot
               size={84}
               className="shrink-0 md:!w-28 md:!h-28"
-              alt={isEn ? 'Sun-chan (hands together)' : '太陽ちゃん（合掌）'}
+              alt={isZhTw ? '太陽醬（雙手合十）' : isEn ? 'Sun-chan (hands together)' : '太陽ちゃん（合掌）'}
               src="/images/mascot-sun-thanks.png"
             />
             <div className="min-w-0">
@@ -103,7 +109,7 @@ export default function Footer() {
               <li key={c.slug}>
                 <Link href={`/category/${c.slug}/`} className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700">
                   <CategoryIcon slug={c.slug} className="w-3.5 h-3.5 text-amber-600" />
-                  {getCategoryTitle(c, isEn ? 'en' : 'ja')}
+                  {getCategoryTitle(c, locale)}
                 </Link>
               </li>
             ))}
@@ -131,7 +137,7 @@ export default function Footer() {
           <ul className="space-y-1 text-sm">
             <li><Link href="/about/" className="hover:text-amber-700">{t.about}</Link></li>
             <li><Link href="/about-our-vision/" className="hover:text-amber-700">{t.vision}</Link></li>
-            <li><Link href="/about-mascot/" className="hover:text-amber-700">{t.mascot}</Link></li>
+            <li><Link href={isZhTw ? '/zh-tw/about-mascot/' : '/about-mascot/'} className="hover:text-amber-700">{t.mascot}</Link></li>
             <li><Link href="/editorial-policy/" className="hover:text-amber-700">{t.editorialPolicy}</Link></li>
             <li><Link href={isEn ? '/en/privacy/' : '/privacy/'} className="hover:text-amber-700">{t.privacy}</Link></li>
             <li><Link href="/disclaimer/" className="hover:text-amber-700">{t.disclaimer}</Link></li>

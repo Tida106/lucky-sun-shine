@@ -16,9 +16,10 @@ import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import { getRelatedPosts } from "@/lib/related";
 
 // 365日誕生日石の表だけ、石名リンクの左に丸いサムネイル画像を復元する対象。
+// (日本語版・英語版と同じ対象スラッグ。石画像はslugベースで言語非依存。)
 const STONE_THUMB_SLUGS = new Set(["birthday-stone-365"]);
 
-const LOCALE = "ja";
+const LOCALE = "zh-tw";
 
 export function generateStaticParams() {
   return getAllPosts(LOCALE).map((p) => ({ slug: p.slug }));
@@ -36,17 +37,17 @@ export async function generateMetadata({ params }) {
   const post = getPostBySlug(slug, LOCALE);
   if (!post) return {};
   const description = normalizeDescription(post);
-  const hasZhTw = Boolean(getPostBySlug(slug, "zh-tw"));
+  const hasEn = Boolean(getPostBySlug(slug, "en"));
   return {
     title: post.title,
     description,
     keywords: post.tags?.length ? post.tags.join(", ") : undefined,
     alternates: {
-      canonical: `/blog/${post.slug}/`,
+      canonical: `/zh-tw/blog/${post.slug}/`,
       languages: {
         ja: `/blog/${post.slug}/`,
-        en: `/en/blog/${post.slug}/`,
-        ...(hasZhTw ? { "zh-Hant-TW": `/zh-tw/blog/${post.slug}/` } : {}),
+        ...(hasEn ? { en: `/en/blog/${post.slug}/` } : {}),
+        "zh-Hant-TW": `/zh-tw/blog/${post.slug}/`,
         "x-default": `/blog/${post.slug}/`,
       },
     },
@@ -54,7 +55,7 @@ export async function generateMetadata({ params }) {
       type: "article",
       title: post.title,
       description,
-      url: `${site.url}/blog/${post.slug}/`,
+      url: `${site.url}/zh-tw/blog/${post.slug}/`,
       siteName: site.name,
       images: [{ url: `${site.url}/og-image.jpg`, width: 1200, height: 630, alt: post.title }],
     },
@@ -63,7 +64,7 @@ export async function generateMetadata({ params }) {
 
 function formatDate(iso) {
   const d = new Date(iso);
-  return d.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" });
+  return d.toLocaleDateString("zh-TW", { year: "numeric", month: "long", day: "numeric" });
 }
 
 export default async function BlogPostPage({ params }) {
@@ -102,7 +103,7 @@ export default async function BlogPostPage({ params }) {
               {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
               {catTitle}
             </span>
-            <span className="text-ink-500">約 {minutes} 分で読めます</span>
+            <span className="text-ink-500">閱讀時間約 {minutes} 分鐘</span>
           </div>
           <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900">
             {post.title}
@@ -112,7 +113,7 @@ export default async function BlogPostPage({ params }) {
           )}
           <div className="mt-5 pt-4 border-t border-amber-100 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-ink-500">
             <span>
-              <span className="block text-[10px] tracking-widest text-amber-700 font-bold">公開日</span>
+              <span className="block text-[10px] tracking-widest text-amber-700 font-bold">發布日期</span>
               <time dateTime={post.date} className="font-bold text-ink-900">{formatDate(post.date)}</time>
             </span>
           </div>
@@ -130,41 +131,9 @@ export default async function BlogPostPage({ params }) {
           )}
         </div>
 
-        {/* ▼▼ パワースポット記事専用のCTA（sあり・なし両対応） ▼▼ */}
-        {(post.category === 'powerspots' || post.category === 'powerspot') && (
-          <div className="mt-12 mb-8 p-6 md:p-8 bg-amber-50 rounded-2xl border border-amber-100 flex flex-col sm:flex-row items-center sm:items-start gap-6 shadow-sm">
-            <div className="flex-shrink-0 w-24">
-              <img src="/images/mascot-sun.png" alt="太陽ちゃん" className="w-full h-auto drop-shadow-sm" />
-            </div>
-            <div className="flex-1 text-gray-800 leading-relaxed text-sm md:text-base text-center sm:text-left">
-              <p className="mb-4 font-bold">
-                自分と向き合う時間は本当に大切だよね🌻<br />
-                神様に相談しに行こうよ！<br />
-                でも、もし人に相談してみたいなら、占いで専門家に聞いてみるのもいいかもね✨
-              </p>
-              
-              <div className="my-5">
-                <a 
-                  href="https://px.a8.net/svt/ejp?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI" 
-                  rel="nofollow"
-                  className="inline-block bg-orange-400 text-white font-bold py-3 px-6 rounded-full hover:bg-orange-500 hover:shadow-md transition-all duration-300"
-                >
-                  電話占いデスティニーで相談してみる
-                </a>
-                <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI" alt="" />
-              </div>
-
-              <p className="text-sm font-bold text-orange-600 mt-2">
-                今なら無料登録で最大2,450円分のお試し鑑定サービス中!!💛
-              </p>
-            </div>
-          </div>
-        )}
-        {/* ▲▲ ここまで ▲▲ */}
-
         {post.tags?.length > 0 && (
           <div className="mt-10 pt-6 border-t border-amber-200">
-            <h3 className="text-sm font-bold text-ink-900 mb-2">タグ</h3>
+            <h3 className="text-sm font-bold text-ink-900 mb-2">標籤</h3>
             <div className="flex flex-wrap gap-2">
               {post.tags.map((t) => (
                 <span key={t} className="text-xs px-2.5 py-1 rounded bg-amber-50 text-amber-800">#{t}</span>
@@ -175,24 +144,23 @@ export default async function BlogPostPage({ params }) {
 
         <nav className="mt-10 grid gap-3 sm:grid-cols-2">
           {prev && (
-            <Link href={`/blog/${prev.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 transition-colors">
-              <div className="text-xs text-amber-700">前の記事</div>
+            <Link href={`/zh-tw/blog/${prev.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 transition-colors">
+              <div className="text-xs text-amber-700">上一篇</div>
               <div className="mt-1 text-sm font-bold line-clamp-2">{prev.title}</div>
             </Link>
           )}
           {next && (
-            <Link href={`/blog/${next.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 text-right transition-colors">
-              <div className="text-xs text-amber-700">次の記事</div>
+            <Link href={`/zh-tw/blog/${next.slug}/`} className="block p-4 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 text-right transition-colors">
+              <div className="text-xs text-amber-700">下一篇</div>
               <div className="mt-1 text-sm font-bold line-clamp-2">{next.title}</div>
             </Link>
           )}
         </nav>
 
-        <ShareButtons url={`${site.url}/blog/${post.slug}/`} title={post.title} image={`${site.url}/og-image.jpg`} className="mt-12" />
+        <ShareButtons url={`${site.url}/zh-tw/blog/${post.slug}/`} title={post.title} image={`${site.url}/og-image.jpg`} className="mt-12" />
 
-        {/* ▼通常の記事下固定メッセージ（パワーストーン購入誘導など） */}
-        <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
-          {`最後まで読んでくれてありがとう🌻\n天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨\nでも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦\n『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛`}
+        <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽醬" className="mt-12">
+          {`謝謝你讀到最後🌻\n和天然石的相遇都是一期一會。如果現在憑直覺「就是這個！」被某顆石頭吸引，那很可能就是現在的你所需要的命定之石✨\n不過色澤漂亮、讓人一見鍾情的石頭，常常很快就被其他人迎回家囉💦\n為了不讓自己後悔「早知道那時候就看一下了…」，記得先看看現在上架的款式吧！💛`}
         </BlogMascotBubble>
 
         {alsoRead.length > 0 && (
@@ -200,13 +168,13 @@ export default async function BlogPostPage({ params }) {
             <div className="mb-6">
               <h2 className="font-display text-xl md:text-2xl font-bold text-ink-900 flex items-center gap-3">
                 <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-500 shrink-0" />
-                <span>合わせて読みたい関連記事</span>
+                <span>你可能也喜歡</span>
               </h2>
               <span aria-hidden="true" className="heading-rule mt-3 ml-8" />
             </div>
             <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {alsoRead.map((r) => (
-                <PostCard key={r.slug} post={r} />
+                <PostCard key={r.slug} post={r} locale={LOCALE} />
               ))}
             </div>
           </section>
@@ -215,7 +183,7 @@ export default async function BlogPostPage({ params }) {
 
       <div className="hidden lg:block">
         <div className="sticky top-24">
-          <Sidebar headings={headings} locale={LOCALE} />
+          <Sidebar headings={headings} locale={LOCALE} zhTwSlugs={all.map((p) => p.slug)} />
         </div>
       </div>
     </div>

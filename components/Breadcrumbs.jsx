@@ -8,12 +8,14 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
   if (!items || items.length === 0) return null;
 
   const isEn = locale === 'en';
-  
-  // 英語/日本語のテキストとURL分岐
-  const rootName = isEn ? 'Home' : 'ホーム';
-  const rootPath = isEn ? '/en/' : '/';
-  const ariaLabel = isEn ? 'Breadcrumbs' : 'パンくずリスト';
-  const topText = isEn ? 'Home' : 'トップ';
+  const isZhTw = locale === 'zh-tw';
+  const localePrefix = isZhTw ? '/zh-tw' : isEn ? '/en' : '';
+
+  // 言語別のテキストとURL分岐
+  const rootName = isZhTw ? '首頁' : isEn ? 'Home' : 'ホーム';
+  const rootPath = isZhTw ? '/zh-tw/' : isEn ? '/en/' : '/';
+  const ariaLabel = isZhTw ? '麵包屑導覽' : isEn ? 'Breadcrumbs' : 'パンくずリスト';
+  const topText = isZhTw ? '首頁' : isEn ? 'Home' : 'トップ';
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -35,8 +37,8 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
         };
         // 末尾(現在地)は item を出さないのが推奨。中間ノードのみ URL を付ける。
         if (!isLast && it.href) {
-          // 英語環境で中間のリンクがある場合は /en/ を付与する考慮
-          const linkPath = isEn && !it.href.startsWith('/en/') ? `/en${it.href}` : it.href;
+          // 英語/繁体中文環境で中間のリンクがある場合はロケールprefixを付与
+          const linkPath = localePrefix && !it.href.startsWith(`${localePrefix}/`) ? `${localePrefix}${it.href}` : it.href;
           base.item = `${site.url}${linkPath}`;
         }
         return base;
@@ -54,8 +56,8 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
         <Link href={rootPath} className="hover:text-amber-700">{topText}</Link>
         {items.map((it, i) => {
           const isLast = i === items.length - 1;
-          // 英語環境で中間のリンクがある場合は /en/ を付与
-          const linkPath = isEn && it.href && !it.href.startsWith('/en/') ? `/en${it.href}` : it.href;
+          // 英語/繁体中文環境で中間のリンクがある場合はロケールprefixを付与
+          const linkPath = localePrefix && it.href && !it.href.startsWith(`${localePrefix}/`) ? `${localePrefix}${it.href}` : it.href;
 
           return (
             <span key={`${i}-${it.name}`}>

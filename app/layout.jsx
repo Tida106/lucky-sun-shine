@@ -80,9 +80,11 @@ const FONT_URL =
 const fontLoaderScript = `!function(){var l=document.createElement('link');l.rel='stylesheet';l.href='${FONT_URL}';document.head.appendChild(l)}()`;
 
 export default function RootLayout({ children }) {
-  // Header の言語切り替えボタンが「英語版が実在する記事」だけ
-  // /en/blog/[slug]/ に飛ばせるように、実在する英語スラッグ一覧を渡す。
+  // Header の言語切り替えボタンが「その言語版が実在する記事」だけ
+  // /en/blog/[slug]/ や /zh-tw/blog/[slug]/ に飛ばせるように、実在する
+  // スラッグ一覧を渡す。
   const enSlugs = getAllPosts('en').map((p) => p.slug);
+  const zhTwSlugs = getAllPosts('zh-tw').map((p) => p.slug);
   const orgSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -120,7 +122,7 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
         />
-        <Header enSlugs={enSlugs} />
+        <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} />
         <main className="flex-1">{children}</main>
         <Footer />
         <Analytics />

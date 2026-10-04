@@ -20,9 +20,15 @@ export default function TableOfContents({
   const [activeId, setActiveId] = useState(null);
   const lastSeenRef = useRef(null);
 
-  // 英語・日本語のテキスト切り替え辞書
+  // 言語別のテキスト切り替え辞書
   const isEn = locale === 'en';
-  const t = {
+  const isZhTw = locale === 'zh-tw';
+  const t = isZhTw ? {
+    inlineTitle: "目錄（點擊展開）",
+    navAria: "目錄",
+    stickyTitle: "本文目錄",
+    asideAria: "文章目錄",
+  } : {
     inlineTitle: isEn ? "Table of Contents (Tap to toggle)" : "目次（タップで開閉）",
     navAria: isEn ? "Table of Contents" : "目次",
     stickyTitle: isEn ? "Table of Contents" : "この記事の目次",

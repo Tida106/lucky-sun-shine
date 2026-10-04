@@ -19,8 +19,9 @@ function loadPosts() {
   if (!fs.existsSync(POSTS_DIR)) return [];
   const files = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith('.md') || f.endsWith('.mdx'));
   const enFiles = new Set(files.filter((f) => /\.en\.(md|mdx)$/.test(f)));
+  const zhTwFiles = new Set(files.filter((f) => /\.zh-tw\.(md|mdx)$/.test(f)));
   return files
-    .filter((f) => !/\.en\.(md|mdx)$/.test(f))
+    .filter((f) => !/\.en\.(md|mdx)$/.test(f) && !/\.zh-tw\.(md|mdx)$/.test(f))
     .map((f) => {
       const raw = fs.readFileSync(path.join(POSTS_DIR, f), 'utf8');
       const { data } = matter(raw);
@@ -29,7 +30,8 @@ function loadPosts() {
       const slug = data.slug || baseName;
       const date = data.date ? new Date(data.date).toISOString() : new Date().toISOString();
       const hasEn = enFiles.has(`${baseName}.en${ext}`);
-      return { slug, date, draft: Boolean(data.draft), hasEn };
+      const hasZhTw = zhTwFiles.has(`${baseName}.zh-tw${ext}`);
+      return { slug, date, draft: Boolean(data.draft), hasEn, hasZhTw };
     })
     .filter((p) => !p.draft);
 }
@@ -70,6 +72,10 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/privacy/`, today, 'yearly', '0.3'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/en/disclosure/`, today, 'yearly', '0.3'));
 
+  // 繁體中文版ルート — app/zh-tw/ 配下に実在するページのみ
+  entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/`, today, 'daily', '0.9'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/about-mascot/`, today, 'monthly', '0.5'));
+
   CATEGORY_SLUGS.forEach((s) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/category/${s}/`, today, 'weekly', '0.8'));
   });
@@ -81,6 +87,11 @@ function build() {
     // 載せて404を誘発しないようhasEnで絞る。
     if (p.hasEn) {
       entries.push(urlEntry(`${SITE_URL}${BASE}/en/blog/${p.slug}/`, p.date, 'monthly', '0.6'));
+    }
+    // .zh-tw.md 訳がある記事だけ /zh-tw/blog/ も生成される
+    // (app/zh-tw/blog/[slug]のgenerateStaticParamsと同じ条件)。
+    if (p.hasZhTw) {
+      entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/blog/${p.slug}/`, p.date, 'monthly', '0.6'));
     }
   });
 
