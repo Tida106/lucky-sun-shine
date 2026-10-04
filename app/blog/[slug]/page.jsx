@@ -13,6 +13,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ShareButtons from "@/components/ShareButtons";
 import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
+import PhoneFortuneCTA from "@/components/PhoneFortuneCTA";
 import { getRelatedPosts } from "@/lib/related";
 import { postHasAffiliateLinks } from "@/lib/affiliate";
 
@@ -139,36 +140,10 @@ export default async function BlogPostPage({ params }) {
 
         {/* ▼▼ パワースポット記事専用のCTA（sあり・なし両対応） ▼▼ */}
         {(post.category === 'powerspots' || post.category === 'powerspot') && (
-          <div className="mt-12 mb-8 p-6 md:p-8 bg-amber-50 rounded-2xl border border-amber-100 flex flex-col sm:flex-row items-center sm:items-start gap-6 shadow-sm">
-            <div className="flex-shrink-0 w-24">
-              <img src="/images/mascot-sun.png" alt="太陽ちゃん" className="w-full h-auto drop-shadow-sm" />
-            </div>
-            <div className="flex-1 text-gray-800 leading-relaxed text-sm md:text-base text-center sm:text-left">
-              <p className="mb-4 font-bold">
-                自分と向き合う時間は本当に大切だよね🌻<br />
-                神様に相談しに行こうよ！<br />
-                でも、もし人に相談してみたいなら、占いで専門家に聞いてみるのもいいかもね✨
-              </p>
-              
-              <div className="my-5 flex flex-wrap items-center gap-2">
-                <a
-                  href="https://px.a8.net/svt/ejp?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI"
-                  rel="nofollow"
-                  className="inline-block bg-orange-400 text-white font-bold py-3 px-6 rounded-full hover:bg-orange-500 hover:shadow-md transition-all duration-300"
-                >
-                  電話占いデスティニーで相談してみる
-                </a>
-                <span className="text-[10px] font-bold tracking-widest text-ink-500 bg-white border border-amber-200 rounded px-1.5 py-0.5">
-                  PR
-                </span>
-                <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI" alt="" />
-              </div>
-
-              <p className="text-sm font-bold text-orange-600 mt-2">
-                今なら無料登録で最大2,450円分のお試し鑑定サービス中!!💛
-              </p>
-            </div>
-          </div>
+          <PhoneFortuneCTA
+            className="mt-12 mb-8"
+            lead={'自分と向き合う時間は本当に大切だよね🌻\n神様に相談しに行こうよ！\nでも、もし人に相談してみたいなら、占いで専門家に聞いてみるのもいいかもね✨'}
+          />
         )}
         {/* ▲▲ ここまで ▲▲ */}
 

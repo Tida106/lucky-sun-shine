@@ -146,6 +146,16 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <span aria-hidden="true">🎋</span>
             <span>{t.omikujiText}</span>
           </Link>
+          {!isEn && !isZhTw && (
+            <Link
+              href="/kyusei/"
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 hover:text-violet-900 transition-all whitespace-nowrap font-bold"
+              title="生年月日から本命星をチェック"
+            >
+              <span aria-hidden="true">🔮</span>
+              <span>九星気学</span>
+            </Link>
+          )}
         </nav>
         <div className="flex items-center gap-2">
           <div className="inline-flex items-center rounded-full bg-sky-100 border border-sky-300 overflow-hidden mr-1 text-xs font-bold">
@@ -220,6 +230,16 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             <span aria-hidden="true">🎋</span>
             <span>{t.omikujiText}</span>
           </Link>
+          {!isEn && !isZhTw && (
+            <Link
+              href="/kyusei/"
+              className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 font-bold"
+              title="生年月日から本命星をチェック"
+            >
+              <span aria-hidden="true">🔮</span>
+              <span>九星気学</span>
+            </Link>
+          )}
         </div>
       </nav>
     </header>

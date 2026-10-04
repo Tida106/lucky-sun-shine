@@ -64,6 +64,7 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/blog/`, today, 'daily', '0.9'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/recommend-youtube/`, today, 'monthly', '0.6'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/omikuji/`, today, 'monthly', '0.7'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/kyusei/`, today, 'monthly', '0.8'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/credits/`, today, 'monthly', '0.3'));
 
   // 英語版ルート — app/en/ 配下に実在するページのみ
