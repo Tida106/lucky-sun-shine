@@ -76,6 +76,7 @@ function build() {
   // 繁體中文版ルート — app/zh-tw/ 配下に実在するページのみ
   entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/`, today, 'daily', '0.9'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/about-mascot/`, today, 'monthly', '0.5'));
+  entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/omikuji/`, today, 'monthly', '0.6'));
 
   CATEGORY_SLUGS.forEach((s) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/category/${s}/`, today, 'weekly', '0.8'));

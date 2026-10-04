@@ -37,14 +37,24 @@ export default function ZhTwTopPage() {
           這裡先為台灣的朋友準備了幾篇精選文章——從《鬼滅之刃》《你的名字》《神隱少女》《犬夜叉》等動漫背後的真實聖地，
           到 365 天誕生石、生肖守護石、水晶禁忌搭配與居家風水方位的開運指南，歡迎慢慢閱讀！
         </p>
-        <Link
-          href="/zh-tw/about-mascot/"
-          className="mt-6 inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-100 border border-amber-300 text-amber-800 font-bold hover:bg-amber-200 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all"
-        >
-          <span aria-hidden="true">☀️</span>
-          認識太陽醬，還有 LINE 貼圖！
-          <span aria-hidden="true">→</span>
-        </Link>
+        <div className="mt-6 flex flex-wrap justify-center gap-3">
+          <Link
+            href="/zh-tw/about-mascot/"
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-100 border border-amber-300 text-amber-800 font-bold hover:bg-amber-200 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all"
+          >
+            <span aria-hidden="true">☀️</span>
+            認識太陽醬，還有 LINE 貼圖！
+            <span aria-hidden="true">→</span>
+          </Link>
+          <Link
+            href="/zh-tw/omikuji/"
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-500 text-white font-bold hover:bg-amber-600 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all"
+          >
+            <span aria-hidden="true">🎋</span>
+            抽太陽醬的運勢籤
+            <span aria-hidden="true">→</span>
+          </Link>
+        </div>
       </section>
 
       {/* 記事一覧 */}

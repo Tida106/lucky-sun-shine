@@ -6,7 +6,15 @@ export const metadata = {
   title: '太陽ちゃんのおみくじ☀️｜Lucky Sun Shine',
   description:
     '太陽ちゃんが今日のあなたに、運勢とラッキーストーンをお届けします。何度引いてもOK、毎日の気分転換にどうぞ☀️',
-  alternates: { canonical: '/omikuji/' },
+  alternates: {
+    canonical: '/omikuji/',
+    languages: {
+      ja: '/omikuji/',
+      en: '/en/omikuji/',
+      'zh-Hant-TW': '/zh-tw/omikuji/',
+      'x-default': '/omikuji/',
+    },
+  },
   openGraph: {
     title: '太陽ちゃんのおみくじ☀️',
     description:

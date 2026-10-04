@@ -5,6 +5,7 @@ import { usePathname } from 'next/navigation';
 import SunMascot from '@/components/SunMascot';
 import resultsJa from '@/data/omikuji.json';
 import resultsEn from '@/data/omikuji.en.json';
+import resultsZhTw from '@/data/omikuji.zh-tw.json';
 
 const TEXT = {
   ja: {
@@ -43,13 +44,32 @@ const TEXT = {
     shareFb: 'Share on Facebook',
     back: 'Back to start',
   },
+  'zh-tw': {
+    shareBase: 'https://lucky-sun-shine.com/zh-tw/omikuji/',
+    title: '☀️ 太陽醬的抽籤 ☀️',
+    lead: '太陽醬要為今天的你,帶來運勢與幸運石唷💛',
+    altYay: '太陽醬(太好了！)',
+    alt: '太陽醬',
+    spinning: '轉轉轉…',
+    draw: '抽一張籤！',
+    luckyStone: '幸運石：',
+    again: '再抽一次',
+    articles: '💎 看看天然石文章',
+    articlesHref: '/zh-tw/',
+    shareLead: '分享結果,把好運也分享給朋友吧☀️',
+    tweet: (r) => `太陽醬的抽籤結果是【${r.fortune}】☀️ ${r.message} 幸運石是${r.stone}！`,
+    shareX: '分享到 X(Twitter)',
+    shareFb: '分享到 Facebook',
+    back: '回到最初畫面',
+  },
 };
 
 export default function OmikujiClient() {
   const pathname = usePathname() || '';
-  const isEn = pathname.startsWith('/en');
-  const t = isEn ? TEXT.en : TEXT.ja;
-  const results = isEn ? resultsEn : resultsJa;
+  const isZhTw = pathname.startsWith('/zh-tw');
+  const isEn = !isZhTw && pathname.startsWith('/en');
+  const t = isZhTw ? TEXT['zh-tw'] : isEn ? TEXT.en : TEXT.ja;
+  const results = isZhTw ? resultsZhTw : isEn ? resultsEn : resultsJa;
 
   const [result, setResult] = useState(null);
   const [spinning, setSpinning] = useState(false);

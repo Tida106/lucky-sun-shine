@@ -18,9 +18,9 @@ function localeFromPathname(pathname) {
 }
 
 // 言語切り替えボタンの行き先。各言語版は "/", "/{locale}/blog/[slug]/"
-// (翻訳がある記事のみ)、"/en/omikuji/" のように存在するページが限られる
-// ため、それ以外のパス(タグ・カテゴリ・検索・固定ページ等)では必ず
-// 実在するその言語のトップページにフォールバックする。これを怠ると、
+// (翻訳がある記事のみ)、"/{locale}/omikuji/" のように存在するページが
+// 限られるため、それ以外のパス(タグ・カテゴリ・検索・固定ページ等)では
+// 必ず実在するその言語のトップページにフォールバックする。これを怠ると、
 // 全タグ/カテゴリページの切り替えボタンが存在しないページを指して
 // 404になる。
 function langHref(pathname, currentLocale, targetLocale, slugSets) {
@@ -56,7 +56,7 @@ function langHref(pathname, currentLocale, targetLocale, slugSets) {
     }
     return `${prefix}/`;
   }
-  if (isOmikuji && (targetLocale === 'ja' || targetLocale === 'en')) {
+  if (isOmikuji) {
     return `${prefix}/omikuji/`;
   }
   return `${prefix}/`;
@@ -73,8 +73,8 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
   // /en/search/, /en/recommend-youtube/, /en/about-mascot/, /en/category/
   // 等はまだ存在しないため、英語ロケールでも日本語版へのリンクのままに
   // する(新たな404を防ぐ)。/en/omikuji/ は実在するのでそのまま。
-  // 繁体中文版は /zh-tw/about-mascot/ のみ独自に実在するため、その
-  // ページ内だけ専用リンクに切り替える。
+  // 繁体中文版は /zh-tw/about-mascot/ と /zh-tw/omikuji/ のみ独自に実在
+  // するため、そのページだけ専用リンクに切り替える。
   const t = {
     home: isZhTw ? '/zh-tw/' : isEn ? '/en/' : '/',
     search: '/search/',
@@ -87,7 +87,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
       : isEn
         ? 'About our mascot Sun-chan'
         : 'Lucky Sun Shine の公式マスコット 太陽ちゃんを紹介',
-    omikujiLink: isEn ? '/en/omikuji/' : isZhTw ? '/omikuji/' : '/omikuji/',
+    omikujiLink: isZhTw ? '/zh-tw/omikuji/' : isEn ? '/en/omikuji/' : '/omikuji/',
     omikujiText: isZhTw ? '抽籤' : isEn ? 'Fortune' : 'おみくじ',
     omikujiTitle: isZhTw ? '抽太陽醬的運勢籤' : isEn ? 'Draw a fortune slip' : '太陽ちゃんのおみくじを引く',
     searchTitle: isZhTw ? '站內搜尋' : isEn ? 'Search' : 'サイト内検索',
