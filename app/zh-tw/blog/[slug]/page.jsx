@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import TravelAffiliate from "@/components/TravelAffiliate";
 import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes, extractHeadings } from "@/lib/posts";
 import { getCategory, getCategoryTitle } from "@/lib/categories";
 import { site } from "@/lib/site";
@@ -169,6 +170,8 @@ export default async function BlogPostPage({ params }) {
         <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽醬" className="mt-12">
           {`謝謝你讀到最後🌻\n和天然石的相遇都是一期一會。如果現在憑直覺「就是這個！」被某顆石頭吸引，那很可能就是現在的你所需要的命定之石✨\n不過色澤漂亮、讓人一見鍾情的石頭，常常很快就被其他人迎回家囉💦\n為了不讓自己後悔「早知道那時候就看一下了…」，記得先看看現在上架的款式吧！💛`}
         </BlogMascotBubble>
+
+        <TravelAffiliate slug={post.slug} locale={LOCALE} />
 
         {alsoRead.length > 0 && (
           <section className="mt-12">

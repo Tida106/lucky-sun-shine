@@ -14,6 +14,7 @@ import ShareButtons from "@/components/ShareButtons";
 import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import ViatorTours from "@/components/ViatorTours";
+import TravelAffiliate from "@/components/TravelAffiliate";
 import { getRelatedPosts } from "@/lib/related";
 import { postHasAffiliateLinks } from "@/lib/affiliate";
 
@@ -171,6 +172,8 @@ export default async function BlogPostPage({ params }) {
         </BlogMascotBubble>
 
         <ViatorTours spots={post.viatorSpots} slug={post.slug} />
+
+        <TravelAffiliate slug={post.slug} locale={LOCALE} />
 
         {alsoRead.length > 0 && (
           <section className="mt-12">
