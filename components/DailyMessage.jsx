@@ -1,6 +1,5 @@
 'use client';
 import { useEffect, useState } from 'react';
-import { usePathname } from 'next/navigation';
 import SunMascot from './SunMascot';
 import messagesJa from '@/data/daily-messages.json';
 import messagesEn from '@/data/daily-messages.en.json';
@@ -9,9 +8,10 @@ import messagesEn from '@/data/daily-messages.en.json';
 // クライアント側で初回マウント時にランダムなメッセージを選ぶため
 // SSR 出力はプレースホルダー（不可視 nbsp）にして hydration mismatch を回避し、
 // 表示時に opacity の fade-in でふわっと出す。
-export default function DailyMessage() {
-  const pathname = usePathname() || '';
-  const isEn = pathname.startsWith('/en');
+// locale は呼び出し側(各localeのpage.jsx)が構造的に知っているため props で渡す。
+// 以前は usePathname で判定していたが、next/navigation への依存を一つ減らせる。
+export default function DailyMessage({ locale = 'ja' }) {
+  const isEn = locale === 'en';
   const messages = isEn ? messagesEn : messagesJa;
   const [message, setMessage] = useState(null);
 

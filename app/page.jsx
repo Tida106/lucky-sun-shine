@@ -227,7 +227,7 @@ export default function HomePage() {
       <SunDivider />
 
       {/* Daily message — 太陽ちゃんからの今日のひとこと */}
-      <DailyMessage />
+      <DailyMessage locale="ja" />
 
       {/* 🌟 1. LINEスタンプ告知 特大バナー（一番目立つ位置に配置） */}
       <div className="max-w-6xl mx-auto px-4 mt-16 md:mt-20 mb-10 md:mb-14">

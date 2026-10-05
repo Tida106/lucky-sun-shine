@@ -128,6 +128,10 @@ export default function RootLayout({ children }) {
             Webフォントは自己ホスト化したため fonts.googleapis.com 等への
             preconnect は不要。 */}
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+        {/* セクションのフェードイン (ScrollReveal) 用の共有IntersectionObserver。
+            defer によりパース中の描画はブロックせず、DOMContentLoaded 前後に
+            1回だけ実行される軽量スクリプト。 */}
+        <script defer src={`${BASE}/reveal.js`}></script>
         {/* JS 無効環境向けフォールバック: フォントだけは即時リンクで読む */}
         <noscript dangerouslySetInnerHTML={{ __html: `<link rel="stylesheet" href="${FONT_URL}">` }} />
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />

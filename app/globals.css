@@ -5,6 +5,27 @@
 /* Fonts are loaded via next/font/google in app/layout.jsx — exposed as
    the CSS variables --font-sans-jp / --font-serif-jp consumed below. */
 
+/* Scroll-reveal fade-in (see public/reveal.js + components/ScrollReveal.jsx).
+   Implemented as plain CSS + one shared IntersectionObserver instead of a
+   client component per section, so N reveal blocks on a page cost one
+   small cached script instead of N React hydration trees. */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(1rem);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+[data-reveal].is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
 :root {
   --color-bg: #FAF4E6;
   --color-fg: #1a1410;
