@@ -1,5 +1,5 @@
 {
-  "_note": "旅行アフィリエイト対応表。未対応の記事(togakushi-jinja, kirishima-jingu, aso-jinja, hieizan-enryakuji)は posts に追記すれば表示される。esimOnly の記事はeシムのみ表示。",
+  "_note": "旅行アフィリエイト対応表。対応表にない記事は posts に追記すれば表示される。esimOnly の記事はeシムのみ表示。",
   "links": {
     "dogo": "https://invl.me/clo2alp",
     "esim": "https://invl.me/clo2anq?url=https%3A%2F%2Fwww.kkday.com%2Fen-us%2Fproduct%2F121004-unlimited-data-esim-card-japan%2F",
@@ -21,6 +21,8 @@
     "izumo": "https://invl.me/clo2b71?url=https%3A%2F%2Fwww.kkday.com%2Fen-us%2Fcategory%2Fjp-izumo-izumo-grand-shrine%2Fsightseeing-tours%2Flist%2F",
     "chichibu": "https://invl.me/clo2b7g?url=https%3A%2F%2Fwww.kkday.com%2Fen-us%2Fcategory%2Fjp-chichibu%2Fexperiences%2Flist%2F",
     "enoshima": "https://invl.me/clo2b93?url=https%3A%2F%2Fwww.kkday.com%2Fen-us%2Fproduct%2F140045-kanagawa-cultural-tour-great-buddha-enoshima-enoden-japan%2F",
+    "aso": "https://invl.me/clo2f2d?url=https%3A%2F%2Fwww.kkday.com%2Fen-us%2Fproduct%2F150994-mt-aso-kamishiromi-kumanoza-shrine-kusasenri-kurokawa-hot-spring-fukuoka%2F",
+    "hiei": "https://invl.me/clo2f3y?url=https%3A%2F%2Fwww.kkday.com%2Fen-us%2Fproduct%2F701397%2F",
     "ouros": "https://www.awin1.com/cread.php?awinmid=123706&awinaffid=2869709&ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds"
   },
   "posts": {
@@ -58,7 +60,10 @@
     "izumo-taisha": ["izumo"],
     "mitsumine-jinja": ["chichibu"],
     "enoshima-jinja": ["enoshima"],
-    "suwa-taisha": ["suwa"]
+    "suwa-taisha": ["suwa"],
+    "aso-jinja": ["aso"],
+    "hieizan-enryakuji": ["hiei", "kyoto"],
+    "kirishima-jingu": ["takachiho"]
   },
   "esimOnly": [
     "shinto-energy-recharge",
@@ -69,7 +74,8 @@
     "shrine-visit-basics",
     "shrine-kinun-guide",
     "shrine-gakugyo-guide",
-    "shrine-enmusubi-guide"
+    "shrine-enmusubi-guide",
+    "togakushi-jinja"
   ],
   "ouros": ["diamond"]
 }
