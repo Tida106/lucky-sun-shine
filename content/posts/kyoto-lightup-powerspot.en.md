@@ -6,6 +6,13 @@ updated: "2026-10-07"
 category: "powerspots"
 excerpt: "Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in Monzeki and Kifune Shrine. A practical guide to Kyoto's 2026 night illumination: dates, hours, fees, access, and what each light is meant to express."
 tags: ["Kyoto", "Night Illumination", "Special Evening Opening", "Kiyomizu-dera", "Kodai-ji", "Entoku-in", "Shoren-in", "Kifune Shrine"]
+viatorSpots:
+  - name: "Kiyomizu-dera Temple"
+    query: "Kiyomizu-dera Kyoto"
+  - name: "Kodai-ji Temple"
+    query: "Kodaiji Kyoto"
+  - name: "Kifune Shrine"
+    query: "Kifune Shrine Kyoto"
 ---
 
 Hello! This is the Lucky Sun Shine editorial team ☀️
