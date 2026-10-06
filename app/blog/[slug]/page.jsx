@@ -14,6 +14,10 @@ import ShareButtons from "@/components/ShareButtons";
 import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import PhoneFortuneCTA from "@/components/PhoneFortuneCTA";
+import RelatedProducts from "@/components/RelatedProducts";
+import FaqSection from "@/components/FaqSection";
+import GoldenRouteArticles from "@/components/GoldenRouteArticles";
+import { getFaqForPost } from "@/lib/faq";
 import { getRelatedPosts } from "@/lib/related";
 import { postHasAffiliateLinks } from "@/lib/affiliate";
 
@@ -87,6 +91,9 @@ export default async function BlogPostPage({ params }) {
 
   const catTitle = getCategoryTitle(cat, LOCALE) || post.category;
   const hasAffiliate = postHasAffiliateLinks(post, LOCALE);
+  // 本文に独自のFAQ見出しがある記事では、汎用FAQ(lib/faq.js)を重ねて出さない。
+  const bodyHasFaq = /^#{2,3}\s.*(よくある質問|FAQ|Q&A)/m.test(post.content || "");
+  const faq = bodyHasFaq ? null : getFaqForPost(post);
 
   const breadcrumbItems = [
     { name: catTitle },
@@ -173,12 +180,18 @@ export default async function BlogPostPage({ params }) {
           )}
         </nav>
 
+        <FaqSection faq={faq} />
+
         <ShareButtons url={`${site.url}/blog/${post.slug}/`} title={post.title} image={`${site.url}/og-image.jpg`} className="mt-12" />
 
         {/* ▼通常の記事下固定メッセージ（パワーストーン購入誘導など） */}
         <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
           {`最後まで読んでくれてありがとう🌻\n天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨\nでも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦\n『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛`}
         </BlogMascotBubble>
+
+        <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
+
+        <GoldenRouteArticles />
 
         {alsoRead.length > 0 && (
           <section className="mt-12">
