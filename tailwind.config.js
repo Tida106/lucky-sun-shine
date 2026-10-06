@@ -52,9 +52,9 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans:    ['"Noto Sans JP"', 'system-ui', '-apple-system', '"Hiragino Kaku Gothic ProN"', 'Meiryo', 'sans-serif'],
-        serif:   ['"Noto Serif JP"', '"Hiragino Mincho ProN"', 'Georgia', 'serif'],
-        display: ['"Noto Serif JP"', '"Hiragino Mincho ProN"', 'Georgia', 'serif'],
+        sans:    ['"Noto Sans JP"', '"Noto Sans JP Fallback"', 'system-ui', '-apple-system', '"Hiragino Kaku Gothic ProN"', 'Meiryo', 'sans-serif'],
+        serif:   ['"Noto Serif JP"', '"Noto Serif JP Fallback"', '"Hiragino Mincho ProN"', 'Georgia', 'serif'],
+        display: ['"Noto Serif JP"', '"Noto Serif JP Fallback"', '"Hiragino Mincho ProN"', 'Georgia', 'serif'],
       },
       letterSpacing: {
         heading: '0.05em',

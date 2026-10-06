@@ -123,7 +123,10 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             className="transition-transform group-hover:[&_svg]:rotate-12 [&_svg]:transition-transform [&_svg]:duration-500"
           />
         </Link>
-        <nav className="hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 flex-wrap justify-end">
+        {/* 折り返し行数は後読みのWebフォント(fonts.css)の適用前後で変わるため、
+            最終的な高さを予約してヘッダー下の本文がずれない(CLS)ようにする。
+            値は各言語のフォント読み込み後の実測値(ja/en=3行, zh-tw=2行)。 */}
+        <nav className={`hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 flex-wrap justify-end ${isZhTw ? 'lg:min-h-[58px] xl:min-h-[68px]' : 'lg:min-h-[92px]'}`}>
           {categories.map((c) => (
             <Link
               key={c.slug}

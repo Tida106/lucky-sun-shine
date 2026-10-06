@@ -78,6 +78,19 @@ export const viewport = {
 // 見た目は変わらずフォントが後から swap されるだけ。
 const FONT_URL = `${BASE}/fonts/fonts.css`;
 
+// Webフォント(後読み)の適用前後で文字幅が変わり、ヘッダーのナビの折り返しや
+// 本文の改行が変わる(=CLS)のを防ぐため、端末内のフォント(Arial / Georgia)を
+// Noto の文字幅に合わせた代替フォントとして先に定義する(インラインCSSなので
+// 追加のリクエストは無い)。size-adjust は、実際の woff2 とArial/Georgiaで
+// 英文サンプルを描画して測った幅の比(Noto ÷ 代替)。日本語の字形は
+// どちらも全角1emで幅が揃うため、Latin 部分だけを補正している。
+// プリロードや fonts.css の後読みの設計は変えていない。
+const FALLBACK_FONT_FACES =
+  "@font-face{font-family:'Noto Sans JP Fallback';font-weight:400;src:local('Arial'),local('ArialMT');size-adjust:102.2%}" +
+  "@font-face{font-family:'Noto Sans JP Fallback';font-weight:700;src:local('Arial Bold'),local('Arial-BoldMT');size-adjust:101.06%}" +
+  "@font-face{font-family:'Noto Serif JP Fallback';font-weight:400;src:local('Georgia');size-adjust:109.22%}" +
+  "@font-face{font-family:'Noto Serif JP Fallback';font-weight:700;src:local('Georgia Bold'),local('Georgia-Bold');size-adjust:98.23%}";
+
 // Service Worker登録・Webフォント読み込み・AdSense審査用スクリプトを、
 // いずれも window の 'load' 後にまとめて実行する。レンダーをブロックしない
 // 点は変わらないが、初期ロード中の帯域・CPUをページ本体の描画に優先させる。
@@ -122,7 +135,7 @@ export default function RootLayout({ children }) {
       <head>
         {/* Critical CSS: 描画直前に必要な最小スタイルをインライン化。
             外部CSSに先行して確実に適用され、FCP/LCPを短縮する。 */}
-        <style dangerouslySetInnerHTML={{ __html: `*,*::before,*::after{box-sizing:border-box}body{background-color:#FAF4E6;color:#1a1410;margin:0;min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased;font-family:'Noto Sans JP',system-ui,-apple-system,'Hiragino Kaku Gothic ProN',Meiryo,sans-serif;line-height:1.8}.sunray-bg{background:radial-gradient(ellipse at 50% -10%,rgba(201,169,110,.35) 0%,transparent 55%),linear-gradient(180deg,#FAF4E6 0%,#fff 60%)}h1,h2,h3{font-family:'Noto Serif JP','Hiragino Mincho ProN',Georgia,serif;letter-spacing:.05em}` }} />
+        <style dangerouslySetInnerHTML={{ __html: `*,*::before,*::after{box-sizing:border-box}body{background-color:#FAF4E6;color:#1a1410;margin:0;min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased;font-family:'Noto Sans JP','Noto Sans JP Fallback',system-ui,-apple-system,'Hiragino Kaku Gothic ProN',Meiryo,sans-serif;line-height:1.8}.sunray-bg{background:radial-gradient(ellipse at 50% -10%,rgba(201,169,110,.35) 0%,transparent 55%),linear-gradient(180deg,#FAF4E6 0%,#fff 60%)}h1,h2,h3{font-family:'Noto Serif JP','Noto Serif JP Fallback','Hiragino Mincho ProN',Georgia,serif;letter-spacing:.05em}${FALLBACK_FONT_FACES}` }} />
         {/* AdSense: preconnect で事前接続だけ済ませておく。
             実際の読み込みは window の load 後 (deferredLoadScript) まで遅延。
             Webフォントは自己ホスト化したため fonts.googleapis.com 等への

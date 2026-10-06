@@ -39,7 +39,7 @@ html {
 body {
   background-color: var(--color-bg);
   color: var(--color-fg);
-  font-family: 'Noto Sans JP', system-ui, -apple-system, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+  font-family: 'Noto Sans JP', 'Noto Sans JP Fallback', system-ui, -apple-system, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
   line-height: 1.8;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -47,7 +47,7 @@ body {
 
 /* Editorial-feel headings — Noto Serif JP, slightly wider tracking. */
 h1, h2, h3 {
-  font-family: 'Noto Serif JP', 'Hiragino Mincho ProN', 'Hiragino Mincho Pro', 'Yu Mincho', Georgia, serif;
+  font-family: 'Noto Serif JP', 'Noto Serif JP Fallback', 'Hiragino Mincho ProN', 'Hiragino Mincho Pro', 'Yu Mincho', Georgia, serif;
   letter-spacing: 0.05em;
 }
 
@@ -179,7 +179,7 @@ select:focus-visible,
 
 /* Article prose styling — applied to the rendered Markdown body. */
 .prose-article {
-  font-family: 'Noto Serif JP', 'Hiragino Mincho ProN', 'Hiragino Mincho Pro', Georgia, serif;
+  font-family: 'Noto Serif JP', 'Noto Serif JP Fallback', 'Hiragino Mincho ProN', 'Hiragino Mincho Pro', Georgia, serif;
   line-height: 1.9;
   font-size: 1.0625rem;
   color: #2b2018;
@@ -188,7 +188,7 @@ select:focus-visible,
   margin-top: 1.25rem;
 }
 .prose-article h2 {
-  font-family: var(--font-serif-jp), 'Noto Serif JP', Georgia, serif;
+  font-family: var(--font-serif-jp), 'Noto Serif JP', 'Noto Serif JP Fallback', Georgia, serif;
   font-size: 1.6rem;
   font-weight: 700;
   letter-spacing: 0.05em;
@@ -199,7 +199,7 @@ select:focus-visible,
   color: #1a1410;
 }
 .prose-article h3 {
-  font-family: var(--font-serif-jp), 'Noto Serif JP', Georgia, serif;
+  font-family: var(--font-serif-jp), 'Noto Serif JP', 'Noto Serif JP Fallback', Georgia, serif;
   font-size: 1.3rem;
   font-weight: 600;
   letter-spacing: 0.05em;
