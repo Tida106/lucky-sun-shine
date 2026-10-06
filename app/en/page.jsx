@@ -261,31 +261,31 @@ export default function EnHomePage() {
       {/* Trending */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-8 md:py-12">
         <div className="flex justify-center mb-4">
-          <SunSpeechBubble>Here's what everyone is reading!🔥</SunSpeechBubble>
+          <SunSpeechBubble>Our go-to reads, picked for you!✨</SunSpeechBubble>
         </div>
         <div className="text-center mb-8">
           <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
-            🔥 This Week's Trending
+            ✨ Classic Favorites
           </h2>
           <p className="mt-3 text-sm md:text-base text-ink-700">
-            The top 5 most accessed articles on Lucky Sun Shine this week!
+            A handpicked selection of classic articles on Lucky Sun Shine!
           </p>
         </div>
         <div className="grid gap-4 md:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
           <Link prefetch={false} href="/en/blog/birthday-stone-365" className="group block rounded-2xl border-2 border-amber-400 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🥇</div>
-            <div className="text-[11px] font-bold tracking-widest text-amber-700 mb-1">ABSOLUTE NUMBER 1!</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
+            <div className="text-[11px] font-bold tracking-widest text-amber-700 mb-1">A CLASSIC TO START WITH</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-amber-700 transition-colors">
               365 Days of Birthstones
             </h3>
             <p className="mt-3 text-sm text-ink-700 leading-relaxed">
-              Our most popular guide! Find your birth date's guardian stone and invite good fortune.
+              Find your birth date's guardian stone and invite good fortune.
             </p>
           </Link>
 
           <Link prefetch={false} href="/en/blog/bad-combination-stones" className="group block rounded-2xl border-2 border-slate-300 bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🥈</div>
-            <div className="text-[11px] font-bold tracking-widest text-slate-600 mb-1">TRENDING UP!</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
+            <div className="text-[11px] font-bold tracking-widest text-slate-600 mb-1">GOOD TO KNOW</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-slate-700 transition-colors">
               Bad Stone Combinations?
             </h3>
@@ -295,8 +295,8 @@ export default function EnHomePage() {
           </Link>
 
           <Link prefetch={false} href="/en/blog/genkan-powerstone-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🥉</div>
-            <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">RISING FAST!</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
+            <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">FOR YOUR ENTRANCE</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
               Entrance Crystals Guide
             </h3>
@@ -306,8 +306,8 @@ export default function EnHomePage() {
           </Link>
 
           <Link prefetch={false} href="/en/blog/fengshui-room-stones" className="group block rounded-2xl border-2 border-emerald-300 bg-gradient-to-br from-emerald-50 via-teal-50 to-emerald-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
-            <div className="text-[11px] font-bold tracking-widest text-emerald-700 mb-1">STEADY POPULARITY</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
+            <div className="text-[11px] font-bold tracking-widest text-emerald-700 mb-1">FOR EVERY ROOM</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
               Feng Shui Stones by Room
             </h3>
@@ -317,7 +317,7 @@ export default function EnHomePage() {
           </Link>
 
           <Link prefetch={false} href="/en/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-sky-300 bg-gradient-to-br from-sky-50 via-blue-50 to-sky-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">🏅</div>
+            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
             <div className="text-[11px] font-bold tracking-widest text-sky-700 mb-1">PURIFICATION STAPLE</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-sky-700 transition-colors">
               Crushed Stones Guide
