@@ -2,6 +2,7 @@
 title: "パワーストーンはお風呂・温泉・海に持ち込める？水・熱・塩分への注意ガイド"
 description: "パワーストーンをつけたままお風呂・温泉・海・プールに入っても大丈夫？水・熱・塩分・塩素それぞれの影響と石別OK/NG早見表、外し忘れた時の対処法、ゴム劣化への注意まで徹底解説します。"
 date: "2026-07-01"
+updated: "2026-10-08"
 category: "powerstones"
 tags: ["水晶", "ブレスレット", "浄化方法", "入門"]
 slug: "powerstone-water-guide"
@@ -190,6 +191,8 @@ draft: false
 水や日光が使えない石でも、さざれ石の上に置くだけで浄化できます。保管場所にさざれ石を敷いておくと保管と浄化が同時にできて便利です。
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E6%99%B6%20%E3%81%95%E3%81%96%E3%82%8C%E7%9F%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場で水晶さざれ石を探す</a>
+
+> 🪨 **さざれ石の使い方を詳しく知りたい方へ**　選び方・置き方・お手入れまでまとめた[さざれ石の使い方完全ガイド](/blog/sazare-ishi-guide/)もあわせてどうぞ。
 
 ## よくある質問（FAQ）
 
