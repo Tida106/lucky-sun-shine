@@ -2,6 +2,7 @@
 title: "Are There Really Crystal Combinations You Shouldn't Wear?｜The Truth About So-Called 'Forbidden' Pairings"
 description: "You've searched because you're worried about 'bad compatibility' or 'energy repulsion' between stones. Rest assured, there are no scientifically proven 'absolutely forbidden' crystal combinations. This complete guide gently unpacks the truth behind three common 'NG theories,' explains physical compatibility you should genuinely consider, offers tips for choosing harmonious pairings, and includes an FAQ section."
 date: "2026-06-17"
+updated: "2026-10-08"
 category: "powerstones"
 tags: ["clear quartz", "combinations", "compatibility", "beginner's guide", "bracelets"]
 draft: false
@@ -338,14 +339,6 @@ So, the most important thing to believe in is **your own intuition**. If you loo
 Stones don't compete or quarrel, you know. They only wish for you to wear them comfortably and happily. Please value your own "**good feeling**" above all else! ☀️
 
 May your anxieties ease, and may you spend comfortable days with your favorite stones. May your day be filled with gentle light. ☀️
-
----
-
-### ☀️ Sun-chan's One-Point Advice
-"If your anxiety about stone compatibility is gone, but your worries about your future luck, love, and relationships still linger, don't hold it all in! It's also a great idea to consult a professional fortune teller for encouragement. 💛
-
-You can try it out for free for the first 10 minutes right now, so if you're curious, feel free to check it out!
-👉 [First 10 minutes free! Try fortune-telling with Phone Fortune Destiny✨](https://px.a8.net/svt/ejp?a8mat=4BCJJV+2W6VN6+1SZG+5ZEMQ)
 
 ---
 

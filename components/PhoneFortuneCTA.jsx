@@ -24,7 +24,8 @@ export default function PhoneFortuneCTA({
         <div className="my-5 flex flex-wrap items-center justify-center sm:justify-start gap-2">
           <a
             href={A8_LINK}
-            rel="nofollow"
+            target="_blank"
+            rel="sponsored noopener nofollow"
             className="inline-block bg-orange-400 text-white font-bold py-3 px-6 rounded-full hover:bg-orange-500 hover:shadow-md transition-all duration-300"
           >
             {buttonText}
