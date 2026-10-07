@@ -6,6 +6,9 @@ category: "powerspots"
 tags: ["Lucky Outings", "Kyoto", "Purification", "Citrine", "Goshuin"]
 slug: "fushimi-inari-goshuin-powerspot"
 draft: false
+viatorSpots:
+  - name: "Fushimi Inari Shrine"
+    query: "Fushimi Inari Shrine Kyoto"
 ---
 
 ## Welcome☀️ A Warm Hello from Sun-chan!
