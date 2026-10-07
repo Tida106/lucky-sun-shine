@@ -35,6 +35,7 @@ const COPY = {
       hiei: "Day trip to Mt. Hiei Enryaku-ji on KKday",
       esim: "Need data in Japan? Compare eSIM plans on KKday",
     },
+    simsima: "Japan eSIM (Simsima) — use code SACREDJAPAN for 5% off",
     ouros: "Looking for lab-grown diamond jewelry? Browse the collection at Ouros Jewels.",
   },
   "zh-tw": {
@@ -111,6 +112,14 @@ export default function TravelAffiliate({ slug, locale = "en" }) {
               </AffiliateLink>
             ))}
             <AffiliateLink href={travel.links.esim}>{copy.special.esim}</AffiliateLink>
+            {copy.simsima && (
+              // 英語版のみ。Awin の clickref を記事slugで分けて、記事別に計測できるようにする。
+              <AffiliateLink
+                href={travel.links.simsima.replace("clickref=luckysunshine", `clickref=luckysunshine-${slug}`)}
+              >
+                {copy.simsima}
+              </AffiliateLink>
+            )}
             <p className="text-xs text-ink-500 -mt-1">{copy.esimNote}</p>
           </div>
         </>
