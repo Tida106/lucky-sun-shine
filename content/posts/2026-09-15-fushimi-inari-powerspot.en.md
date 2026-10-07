@@ -2,7 +2,7 @@
 title: "[Kyoto Fushimi Inari] Goshuin Is Your Passport to Good Fortune✨ Explore the Sacred Mountain Hike and Recharge Positive Energy with Sun-chan☀️"
 description: "Feeling mentally drained or stuck in a rut? Discover Kyoto's iconic Fushimi Inari Taisha! From the true spiritual meaning of Goshuin seals to uplifting hiking trails through the Senbon Torii and Omokaru Stone, plus the sunny energy of Citrine gemstones."
 date: "2026-09-15T15:00:00+09:00"
-category: "shrine"
+category: "powerspots"
 tags: ["Lucky Outings", "Kyoto", "Purification", "Citrine", "Goshuin"]
 slug: "fushimi-inari-goshuin-powerspot"
 draft: false
