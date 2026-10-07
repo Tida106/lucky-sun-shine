@@ -83,6 +83,8 @@ The stone of "**Eternal Radiance**," boasting the highest hardness. Because of i
 
 It's a classic choice for engagement rings and also perfect as a gift for life's milestones.
 
+> 💎 **Looking at diamond jewelry?** Besides natural diamonds, some shops offer jewelry made with **lab-grown diamonds**. <a href="https://www.awin1.com/cread.php?awinmid=123706&amp;awinaffid=2869709&amp;ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds" rel="sponsored noopener nofollow" target="_blank">Looking for lab-grown diamond jewelry? Browse the collection at Ouros Jewels.</a> (Ad)
+
 → [Discover more about April's birthstone | A complete guide to Diamond and Crystal (Quartz)'s meaning, stone lore, effects, and how to choose them](/blog/birthstone-april/)
 
 ---

@@ -97,6 +97,8 @@ For birthday gifts for April babies, **Diamond** is a classic choice, but it can
 -   Morganite Ring: **15,000 to 80,000 yen**
 -   Diamond Ring: **50,000 yen to several million yen** (Varies by carat and grade)
 
+> 💎 **Looking at diamond jewelry?** Besides natural diamonds, some shops offer jewelry made with **lab-grown diamonds**. <a href="https://www.awin1.com/cread.php?awinmid=123706&amp;awinaffid=2869709&amp;ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds" rel="sponsored noopener nofollow" target="_blank">Looking for lab-grown diamond jewelry? Browse the collection at Ouros Jewels.</a> (Ad)
+
 ## Fun Facts and Origins
 
 -   **Etymology**: From the Greek word *adamas* (unconquerable).

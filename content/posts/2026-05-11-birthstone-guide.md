@@ -84,6 +84,8 @@ draft: false
 
 結婚指輪の定番でもあり、人生の節目の贈り物としても最適。
 
+> 💎 **ダイヤモンドのジュエリーをお探しの方へ**　天然ダイヤとは別に、人の手で育てた**ラボグロウンダイヤ**のジュエリーを扱うショップもあります。<a href="https://www.awin1.com/cread.php?awinmid=123706&amp;awinaffid=2869709&amp;ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds" rel="sponsored noopener nofollow" target="_blank">ラボグロウンダイヤのジュエリーを見る（Ouros Jewels）</a>（PR）
+
 → [4月の誕生石を詳しく見る｜ダイヤモンド・水晶（クリスタル）の意味・石言葉・効果と選び方の完全ガイド](/blog/birthstone-april/)
 
 ---
