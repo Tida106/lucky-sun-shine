@@ -88,8 +88,6 @@ draft: false
 
 「反発する」と感じる根拠が**自分の中にも見当たらない**なら、気にせず楽しんで大丈夫です。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%8B%E3%82%AD%E3%82%B9%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でオニキスを探す</a> ／ <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%84%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でローズクォーツを探す</a>
-
 ### ③強い石同士はぶつかる（ラピスラズリとモリオン等）
 
 **よく言われること**：「**力の強い石同士**を組み合わせると、エネルギーがぶつかり合って身につける人が疲れる」
@@ -108,8 +106,6 @@ draft: false
 - 主観的に**自分が違和感を覚える**なら、外して様子を見る――それで十分です
 
 「**強い石同士はぶつかる**」という説そのものは存在しますが、それも**絶対のルール**ではありません。気にしすぎて好きな石を楽しめなくなるほうが、よっぽど残念です。
-
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%94%E3%82%B9%E3%83%A9%E3%82%BA%E3%83%AA%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でラピスラズリを探す</a>
 
 ### 3つに共通すること
 
@@ -200,9 +196,9 @@ draft: false
 - 硬度差が大きい石の間に**水晶を1玉**挟むと物理的にもクッションに
 - 浄化と増幅の役を兼ねる**最も汎用的な選択肢**
 
-「**この組み合わせ大丈夫かな**」と心配なときは、**水晶を1個加える**だけで気持ちがすっきりします。
+「**この組み合わせ大丈夫かな**」と迷ったときは、**水晶を1個加えてみる**というやり方もあります。必須ではなく、すでに身につけている石をそのまま楽しんで問題ありません。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E6%99%B6%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場で水晶を探す</a>
+水晶を探す場合：<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E6%99%B6%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場で水晶を探す</a>（PR）
 
 ### ②目的を1つに絞る
 
@@ -252,7 +248,7 @@ draft: false
 | 人間関係のリセット | [ブラックトルマリン](/blog/black-tourmaline/) × [アメジスト](/blog/amethyst/) × [水晶](/blog/clear-quartz/) |
 | 自信を取り戻す | [カーネリアン](/blog/carnelian/) × [シトリン](/blog/citrine/) × [タイガーアイ](/blog/tigers-eye/) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でアメジストを探す</a> ／ <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%88%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でシトリンを探す</a> ／ <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%A2%E3%82%A4%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でタイガーアイを探す</a>
+石を探す場合：<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でアメジストを探す</a>（PR）／ <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%88%E3%83%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場でシトリンを探す</a>（PR）
 
 ### ステップ③つけてみて「しっくりくる」かを確かめる
 
@@ -352,7 +348,7 @@ A. **自分の心地よさ**を信じてあげてください。
 「石の相性の不安はスッキリしたけれど、自分のこれからの運勢や恋愛、人間関係の悩みがまだ消えない…」という時は、ひとりで抱え込まずにプロの占い師さんに相談して背中を押してもらうのもおすすめだよ💛
 
 今なら初回10分無料でお試しできるから、気になる人は気軽にチェックしてみてね！
-👉 [初回10分無料！電話占いデスティニーで占ってみる✨](https://px.a8.net/svt/ejp?a8mat=4BCJJV+2W6VN6+1SZG+5ZEMQ)
+👉 <a href="https://px.a8.net/svt/ejp?a8mat=4BCJJV+2W6VN6+1SZG+5ZEMQ" rel="sponsored noopener nofollow" target="_blank">初回10分無料！電話占いデスティニーで占ってみる✨</a>（PR）
 
 ---
 
