@@ -17,13 +17,14 @@ function localeFromPathname(pathname) {
   return 'ja';
 }
 
-// 言語切り替えボタンの行き先。各言語版は "/", "/{locale}/blog/[slug]/"
-// (翻訳がある記事のみ)、"/{locale}/omikuji/" のように存在するページが
-// 限られるため、それ以外のパス(タグ・カテゴリ・検索・固定ページ等)では
-// 必ず実在するその言語のトップページにフォールバックする。これを怠ると、
-// 全タグ/カテゴリページの切り替えボタンが存在しないページを指して
-// 404になる。
-function langHref(pathname, currentLocale, targetLocale, slugSets) {
+// 言語切り替えボタンの行き先。「今見ているページの別言語版」へ移動する
+// (/blog/xxx/ ⇔ /en/blog/xxx/ ⇔ /zh-tw/blog/xxx/、固定ページも同様)。
+// 各言語版は存在するページが限られるため、別言語版が実在しないとき
+// (タグ・カテゴリ・検索など)だけ、必ず実在するその言語のトップページに
+// フォールバックする。存在確認は、記事は翻訳記事の一覧、固定ページは
+// ビルド時に作った実在ページ一覧(lib/routes.js)で行う。これを怠ると、
+// 切り替えボタンが存在しないページを指して404になる。
+function langHref(pathname, currentLocale, targetLocale, slugSets, staticRoutes) {
   // 静的書き出しの404ページでは usePathname() が実URLではなく内部プレース
   // ホルダー "/_not-found" を返すため、そのまま使うと存在しないパスへの
   // リンクになってしまう。その場合は常にトップへのリンクとして扱う。
@@ -32,44 +33,34 @@ function langHref(pathname, currentLocale, targetLocale, slugSets) {
   }
   if (currentLocale === targetLocale) return pathname;
 
-  // まず現在のパスから「中立なパス情報」を取り出す。
-  let blogSlug = null;
-  let isOmikuji = false;
-  let isKyusei = false;
-  if (currentLocale === 'ja') {
-    const m = pathname.match(/^\/blog\/([a-z0-9-]+)\/?$/i);
-    if (m) blogSlug = m[1];
-    isOmikuji = /^\/omikuji\/?$/.test(pathname);
-    isKyusei = /^\/kyusei\/?$/.test(pathname);
-  } else {
-    const m = pathname.match(new RegExp(`^/${currentLocale}/blog/([a-z0-9-]+)/?$`, 'i'));
-    if (m) blogSlug = m[1];
-    isOmikuji = new RegExp(`^/${currentLocale}/omikuji/?$`).test(pathname);
-    isKyusei = new RegExp(`^/${currentLocale}/kyusei/?$`).test(pathname);
-  }
+  // 現在のパスから、言語プレフィックスを除いた「中立なパス」を取り出す
+  // (例: /en/blog/xxx/ → /blog/xxx/、/zh-tw/omikuji/ → /omikuji/)。
+  const withSlash = pathname.endsWith('/') ? pathname : `${pathname}/`;
+  const neutral =
+    currentLocale === 'ja' ? withSlash : withSlash.slice(`/${currentLocale}`.length) || '/';
 
   const prefix = targetLocale === 'ja' ? '' : `/${targetLocale}`;
+  const home = `${prefix}/`;
+  const target = `${prefix}${neutral}`;
 
-  if (blogSlug) {
+  // 記事: 別言語版が実在する場合のみそのページへ。
+  // ja は常に存在する(他言語版は必ず元のja記事を持つ)。
+  const blogMatch = neutral.match(/^\/blog\/([a-z0-9-]+)\/$/i);
+  if (blogMatch) {
+    const slug = blogMatch[1];
     const targetSlugSet = targetLocale === 'ja' ? null : slugSets[targetLocale];
-    // ja は常に存在する(他言語版は必ず元のja記事を持つ)。他言語への切替は
-    // その言語版が実在する場合のみ。
-    if (targetLocale === 'ja' || targetSlugSet?.has(blogSlug)) {
-      return `${prefix}/blog/${blogSlug}/`;
-    }
-    return `${prefix}/`;
+    return targetLocale === 'ja' || targetSlugSet?.has(slug) ? target : home;
   }
-  if (isOmikuji) {
-    return `${prefix}/omikuji/`;
-  }
-  // /kyusei/ は ja・en のみ実在する(繁体中文は未対応のためトップにフォールバック)
-  if (isKyusei && (targetLocale === 'ja' || targetLocale === 'en')) {
-    return `${prefix}/kyusei/`;
-  }
-  return `${prefix}/`;
+
+  // 固定ページ(プライバシー・おみくじ・九星気学・記事一覧など): ビルド時に
+  // 作った実在ページ一覧(staticRoutes)に別言語版があるときだけそのページへ。
+  if (staticRoutes.includes(target)) return target;
+
+  // 別言語版が無い(カテゴリ・タグ・検索など)場合のみ、その言語のホームへ。
+  return home;
 }
 
-export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
+export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = [] }) {
   const pathname = usePathname() || '';
   const locale = localeFromPathname(pathname);
   const isEn = locale === 'en';
@@ -177,7 +168,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [] }) {
             {LANG_OPTIONS.map((opt) => (
               <Link prefetch={false}
                 key={opt.locale}
-                href={langHref(pathname, locale, opt.locale, slugSets)}
+                href={langHref(pathname, locale, opt.locale, slugSets, staticRoutes)}
                 className={`inline-flex items-center justify-center h-9 px-2.5 whitespace-nowrap transition-colors ${
                   locale === opt.locale
                     ? 'bg-sky-300 text-sky-900'

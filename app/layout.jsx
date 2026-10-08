@@ -5,6 +5,7 @@ import Analytics from '@/components/Analytics';
 import AdSense from '@/components/AdSense';
 import { site } from '@/lib/site';
 import { getAllPosts } from '@/lib/posts';
+import { getStaticRoutes } from '@/lib/routes';
 
 // next/font/google は使わない。
 // 理由: 189KB×2 のレンダーブロッキングCSSファイルを生成し FCP/LCP を大幅に遅延させる。
@@ -118,6 +119,8 @@ export default function RootLayout({ children }) {
   // スラッグ一覧を渡す。
   const enSlugs = getAllPosts('en').map((p) => p.slug);
   const zhTwSlugs = getAllPosts('zh-tw').map((p) => p.slug);
+  // 固定ページ(プライバシー・おみくじ等)の別言語版が実在するかの判定用。
+  const staticRoutes = getStaticRoutes();
   const orgSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -156,7 +159,7 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
         />
-        <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} />
+        <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} staticRoutes={staticRoutes} />
         <main className="flex-1">{children}</main>
         <Footer />
         <Analytics />
