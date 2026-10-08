@@ -36,6 +36,21 @@ function loadPosts() {
     .filter((p) => !p.draft);
 }
 
+const MAIN_CATEGORY_SLUGS = ['powerstones', 'powerspots', 'lucky-goods', 'luck-habits'];
+
+// 翻訳記事(.en.md / .zh-tw.md)自身の category を見て、記事が1件以上あるメインカテゴリを返す。
+function localizedCategorySlugs(suffix) {
+  if (!fs.existsSync(POSTS_DIR)) return [];
+  const re = new RegExp(`\\.${suffix}\\.(md|mdx)$`);
+  const used = new Set();
+  for (const f of fs.readdirSync(POSTS_DIR).filter((f) => re.test(f))) {
+    const { data } = matter(fs.readFileSync(path.join(POSTS_DIR, f), 'utf8'));
+    if (data.draft) continue;
+    used.add(data.category || 'powerstones');
+  }
+  return MAIN_CATEGORY_SLUGS.filter((s) => used.has(s));
+}
+
 function urlEntry(loc, lastmod, changefreq = 'weekly', priority = '0.6') {
   return `  <url>
     <loc>${loc}</loc>
@@ -83,6 +98,15 @@ function build() {
 
   CATEGORY_SLUGS.forEach((s) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/category/${s}/`, today, 'weekly', '0.8'));
+  });
+
+  // 英語・繁體中文のカテゴリ一覧(/en/category/, /zh-tw/category/)は、その言語の
+  // 翻訳記事が1件以上あるメインカテゴリだけ生成される(lib/routes.js の
+  // getLocalizedCategorySlugs と同じ条件)。存在しないURLをsitemapに載せない。
+  [['en', 'en'], ['zh-tw', 'zh-tw']].forEach(([locale, suffix]) => {
+    localizedCategorySlugs(suffix).forEach((s) => {
+      entries.push(urlEntry(`${SITE_URL}${BASE}/${locale}/category/${s}/`, today, 'weekly', '0.7'));
+    });
   });
 
   posts.forEach((p) => {

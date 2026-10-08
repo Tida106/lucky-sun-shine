@@ -5,7 +5,7 @@ import Analytics from '@/components/Analytics';
 import AdSense from '@/components/AdSense';
 import { site } from '@/lib/site';
 import { getAllPosts } from '@/lib/posts';
-import { getStaticRoutes } from '@/lib/routes';
+import { getStaticRoutes, getLocalizedCategorySlugs } from '@/lib/routes';
 
 // next/font/google は使わない。
 // 理由: 189KB×2 のレンダーブロッキングCSSファイルを生成し FCP/LCP を大幅に遅延させる。
@@ -121,6 +121,12 @@ export default function RootLayout({ children }) {
   const zhTwSlugs = getAllPosts('zh-tw').map((p) => p.slug);
   // 固定ページ(プライバシー・おみくじ等)の別言語版が実在するかの判定用。
   const staticRoutes = getStaticRoutes();
+  // 英語・繁體中文のカテゴリ一覧ページが実在するカテゴリ(翻訳記事が1件以上あるもの)。
+  // ヘッダーのカテゴリメニューと言語切り替えの判定に使う。
+  const localizedCategories = {
+    en: getLocalizedCategorySlugs('en'),
+    'zh-tw': getLocalizedCategorySlugs('zh-tw'),
+  };
   const orgSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -159,7 +165,7 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
         />
-        <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} staticRoutes={staticRoutes} />
+        <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} staticRoutes={staticRoutes} localizedCategories={localizedCategories} />
         <main className="flex-1">{children}</main>
         <Footer />
         <Analytics />

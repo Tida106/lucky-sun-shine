@@ -24,7 +24,7 @@ function localeFromPathname(pathname) {
 // フォールバックする。存在確認は、記事は翻訳記事の一覧、固定ページは
 // ビルド時に作った実在ページ一覧(lib/routes.js)で行う。これを怠ると、
 // 切り替えボタンが存在しないページを指して404になる。
-function langHref(pathname, currentLocale, targetLocale, slugSets, staticRoutes) {
+function langHref(pathname, currentLocale, targetLocale, slugSets, staticRoutes, localizedCategories) {
   // 静的書き出しの404ページでは usePathname() が実URLではなく内部プレース
   // ホルダー "/_not-found" を返すため、そのまま使うと存在しないパスへの
   // リンクになってしまう。その場合は常にトップへのリンクとして扱う。
@@ -52,6 +52,14 @@ function langHref(pathname, currentLocale, targetLocale, slugSets, staticRoutes)
     return targetLocale === 'ja' || targetSlugSet?.has(slug) ? target : home;
   }
 
+  // カテゴリ一覧: 日本語版は全カテゴリ実在。英語・繁體中文版は、その言語の翻訳記事が
+  // 1件以上あるカテゴリだけ実在する(ページ生成と同じ一覧で判定)。
+  const catMatch = neutral.match(/^\/category\/([a-z0-9-]+)\/$/i);
+  if (catMatch) {
+    const exists = targetLocale === 'ja' || localizedCategories[targetLocale]?.includes(catMatch[1]);
+    return exists ? target : home;
+  }
+
   // 固定ページ(プライバシー・おみくじ・九星気学・記事一覧など): ビルド時に
   // 作った実在ページ一覧(staticRoutes)に別言語版があるときだけそのページへ。
   if (staticRoutes.includes(target)) return target;
@@ -60,7 +68,12 @@ function langHref(pathname, currentLocale, targetLocale, slugSets, staticRoutes)
   return home;
 }
 
-export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = [] }) {
+export default function Header({
+  enSlugs = [],
+  zhTwSlugs = [],
+  staticRoutes = [],
+  localizedCategories = { en: [], 'zh-tw': [] },
+}) {
   const pathname = usePathname() || '';
   const locale = localeFromPathname(pathname);
   const isEn = locale === 'en';
@@ -68,17 +81,16 @@ export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = []
   const slugSets = { en: new Set(enSlugs), 'zh-tw': new Set(zhTwSlugs) };
 
   // 各言語のテキストとURLの切り替え辞書
-  // /en/search/, /en/recommend-youtube/, /en/about-mascot/, /en/category/
-  // 等はまだ存在しないため、英語ロケールでも日本語版へのリンクのままに
-  // する(新たな404を防ぐ)。/en/omikuji/ は実在するのでそのまま。
-  // 繁体中文版は /zh-tw/about-mascot/ と /zh-tw/omikuji/ のみ独自に実在
-  // するため、そのページだけ専用リンクに切り替える。
+  // /en/search/ はまだ存在しないため、英語ロケールでも日本語版へのリンクのままにする
+  // (新たな404を防ぐ)。YouTube紹介・マスコット紹介は言語別のURLを作り、そのページが
+  // 実在しない言語ではメニューごと非表示にする(下の showYoutube / showMascot)。
+  // /en/omikuji/ /en/kyusei/ /zh-tw/omikuji/ /zh-tw/about-mascot/ は実在する。
   const t = {
     home: isZhTw ? '/zh-tw/' : isEn ? '/en/' : '/',
     search: '/search/',
-    youtubeLink: '/recommend-youtube/',
+    youtubeLink: `${isZhTw ? '/zh-tw' : isEn ? '/en' : ''}/recommend-youtube/`,
     youtubeText: isZhTw ? '推薦 YouTube 頻道' : isEn ? 'Recommended YouTube' : 'おすすめYouTubeチャンネル',
-    mascotLink: isZhTw ? '/zh-tw/about-mascot/' : '/about-mascot/',
+    mascotLink: `${isZhTw ? '/zh-tw' : isEn ? '/en' : ''}/about-mascot/`,
     mascotText: isZhTw ? '☀️太陽醬是誰？' : isEn ? 'Who is Sun-chan?' : '☀️太陽ちゃんって？',
     mascotTitle: isZhTw
       ? 'Lucky Sun Shine 官方吉祥物「太陽醬」介紹'
@@ -96,7 +108,16 @@ export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = []
     logoAria: isZhTw ? '回到 Lucky Sun Shine 首頁' : isEn ? 'To Lucky Sun Shine Top' : 'Lucky Sun Shine トップへ',
   };
 
-  const getCategoryUrl = (slug) => `/category/${slug}/`;
+  // カテゴリメニュー: 日本語は全カテゴリ。英語・繁體中文は、その言語のカテゴリ一覧ページが
+  // 実在する(翻訳記事が1件以上ある)カテゴリだけ表示し、言語別のURLにリンクする。
+  const localePrefix = isZhTw ? '/zh-tw' : isEn ? '/en' : '';
+  const visibleCategories =
+    locale === 'ja' ? categories : categories.filter((c) => (localizedCategories[locale] || []).includes(c.slug));
+  const getCategoryUrl = (slug) => `${localePrefix}/category/${slug}/`;
+  // YouTube紹介・マスコット紹介は、その言語版のページが実在するときだけ表示する
+  // (実在ページ一覧 staticRoutes で判定。無い言語では非表示にして、日本語ページへ飛ばさない)。
+  const showYoutube = staticRoutes.includes(t.youtubeLink);
+  const showMascot = staticRoutes.includes(t.mascotLink);
 
   const LANG_OPTIONS = [
     { locale: 'ja', label: 'JP' },
@@ -116,9 +137,10 @@ export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = []
         </Link>
         {/* 折り返し行数は後読みのWebフォント(fonts.css)の適用前後で変わるため、
             最終的な高さを予約してヘッダー下の本文がずれない(CLS)ようにする。
-            値は各言語のフォント読み込み後の実測値(ja/en=3行, zh-tw=2行)。 */}
-        <nav className={`hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 flex-wrap justify-end ${isZhTw ? 'lg:min-h-[58px] xl:min-h-[68px]' : 'lg:min-h-[92px]'}`}>
-          {categories.map((c) => (
+            値は各言語のフォント読み込み後の実測値(ja=3行、en・zh-tw はメニュー項目が
+            少ないため画面幅で1〜2行)。メニューの項目数を変えたら測り直すこと。 */}
+        <nav className={`hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 flex-wrap justify-end ${isZhTw ? 'lg:min-h-[68px] xl:min-h-[34px]' : isEn ? 'lg:min-h-[54px] xl:min-h-[64px]' : 'lg:min-h-[92px]'}`}>
+          {visibleCategories.map((c) => (
             <Link
               key={c.slug}
               href={getCategoryUrl(c.slug)}
@@ -129,21 +151,25 @@ export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = []
               {getCategoryTitle(c, locale)}
             </Link>
           ))}
-          <Link prefetch={false}
-            href={t.youtubeLink}
-            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-red-50 border border-red-200 text-red-700 hover:bg-red-100 transition-colors whitespace-nowrap"
-          >
-            <YoutubeIcon className="w-4 h-4" />
-            {t.youtubeText}
-          </Link>
-          <Link prefetch={false}
-            href={t.mascotLink}
-            className="ml-2 lg:ml-4 inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap"
-            title={t.mascotTitle}
-          >
-            <SunMascot size={24} className="shrink-0" alt="" />
-            <span>{isEn && '☀️ '}{t.mascotText}</span>
-          </Link>
+          {showYoutube && (
+            <Link prefetch={false}
+              href={t.youtubeLink}
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-red-50 border border-red-200 text-red-700 hover:bg-red-100 transition-colors whitespace-nowrap"
+            >
+              <YoutubeIcon className="w-4 h-4" />
+              {t.youtubeText}
+            </Link>
+          )}
+          {showMascot && (
+            <Link prefetch={false}
+              href={t.mascotLink}
+              className="ml-2 lg:ml-4 inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap"
+              title={t.mascotTitle}
+            >
+              <SunMascot size={24} className="shrink-0" alt="" />
+              <span>{isEn && '☀️ '}{t.mascotText}</span>
+            </Link>
+          )}
           <Link prefetch={false}
             href={t.omikujiLink}
             className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap font-bold"
@@ -168,7 +194,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = []
             {LANG_OPTIONS.map((opt) => (
               <Link prefetch={false}
                 key={opt.locale}
-                href={langHref(pathname, locale, opt.locale, slugSets, staticRoutes)}
+                href={langHref(pathname, locale, opt.locale, slugSets, staticRoutes, localizedCategories)}
                 className={`inline-flex items-center justify-center h-9 px-2.5 whitespace-nowrap transition-colors ${
                   locale === opt.locale
                     ? 'bg-sky-300 text-sky-900'
@@ -203,7 +229,7 @@ export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = []
       </div>
       <nav className="md:hidden border-t border-amber-100 bg-white/90">
         <div className="max-w-6xl mx-auto px-2 py-2 flex overflow-x-auto gap-1 text-xs">
-          {categories.map((c) => (
+          {visibleCategories.map((c) => (
             <Link prefetch={false}
               key={c.slug}
               href={getCategoryUrl(c.slug)}
@@ -213,21 +239,25 @@ export default function Header({ enSlugs = [], zhTwSlugs = [], staticRoutes = []
               {getCategoryTitle(c, locale)}
             </Link>
           ))}
-          <Link prefetch={false}
-            href={t.youtubeLink}
-            className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-red-50 border border-red-200 text-red-700 hover:bg-red-100"
-          >
-            <YoutubeIcon className="w-3.5 h-3.5" />
-            {t.youtubeText}
-          </Link>
-          <Link prefetch={false}
-            href={t.mascotLink}
-            className="ml-2 inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all"
-            title={t.mascotTitle}
-          >
-            <SunMascot size={18} className="shrink-0" alt="" />
-            <span>{isEn && '☀️ '}{t.mascotText}</span>
-          </Link>
+          {showYoutube && (
+            <Link prefetch={false}
+              href={t.youtubeLink}
+              className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-red-50 border border-red-200 text-red-700 hover:bg-red-100"
+            >
+              <YoutubeIcon className="w-3.5 h-3.5" />
+              {t.youtubeText}
+            </Link>
+          )}
+          {showMascot && (
+            <Link prefetch={false}
+              href={t.mascotLink}
+              className="ml-2 inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-rose-50 border border-amber-300 text-amber-800 hover:bg-rose-100 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all"
+              title={t.mascotTitle}
+            >
+              <SunMascot size={18} className="shrink-0" alt="" />
+              <span>{isEn && '☀️ '}{t.mascotText}</span>
+            </Link>
+          )}
           <Link prefetch={false}
             href={t.omikujiLink}
             className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all font-bold"
