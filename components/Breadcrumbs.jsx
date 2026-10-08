@@ -27,8 +27,11 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
         name: rootName,
         item: `${site.url}${rootPath}`,
       },
-      ...items.map((it, i) => {
-        const isLast = i === items.length - 1;
+      // BreadcrumbList は、最後(現在地)以外の項目に item(URL)が必須。URLのない中間項目
+      // (カテゴリページが無い記事のカテゴリ名など)は、画面のパンくずには残すが、
+      // 構造化データからは除く(Search Console の「無効なアイテム」を防ぐ)。
+      ...items.filter((it, i) => i === items.length - 1 || it.href).map((it, i, arr) => {
+        const isLast = i === arr.length - 1;
 
         const base = {
           '@type': 'ListItem',

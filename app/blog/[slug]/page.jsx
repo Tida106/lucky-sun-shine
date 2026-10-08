@@ -96,7 +96,8 @@ export default async function BlogPostPage({ params }) {
   const faq = bodyHasFaq ? null : getFaqForPost(post);
 
   const breadcrumbItems = [
-    { name: catTitle },
+    // カテゴリ一覧ページが実在するカテゴリだけURLを付ける(BreadcrumbList の中間項目はURL必須)。
+    { name: catTitle, href: cat ? `/category/${cat.slug}/` : undefined },
     { name: post.title },
   ];
 
