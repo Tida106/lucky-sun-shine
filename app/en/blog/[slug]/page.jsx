@@ -15,6 +15,7 @@ import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import ViatorTours from "@/components/ViatorTours";
 import TravelAffiliate from "@/components/TravelAffiliate";
+import { getLocalizedCategorySlugs } from "@/lib/routes";
 import { getRelatedPosts } from "@/lib/related";
 import { postHasAffiliateLinks } from "@/lib/affiliate";
 
@@ -87,10 +88,14 @@ export default async function BlogPostPage({ params }) {
   const alsoRead = getRelatedPosts(post, all, { limit: 4 });
 
   const catTitle = getCategoryTitle(cat, LOCALE) || post.category;
+  // その言語のカテゴリ一覧ページが実在する(翻訳記事が1件以上ある)カテゴリだけリンクする。
+  const hasCatPage = getLocalizedCategorySlugs(LOCALE).includes(post.category);
+  const catHref = hasCatPage ? `/${LOCALE}/category/${post.category}/` : null;
+  const catChipClass = `inline-flex items-center gap-1 px-2 py-0.5 rounded-full font-medium ${cat?.pastel ? `${cat.pastel.accentBg}${cat.pastel.accent}` : "bg-amber-100 text-amber-700"}`;
   const hasAffiliate = postHasAffiliateLinks(post, LOCALE);
 
   const breadcrumbItems = [
-    { name: catTitle },
+    { name: catTitle, href: hasCatPage ? `/category/${post.category}/` : undefined },
     { name: post.title },
   ];
 
@@ -102,10 +107,17 @@ export default async function BlogPostPage({ params }) {
 
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-2 text-xs">
-            <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full font-medium ${cat?.pastel ? `${cat.pastel.accentBg}${cat.pastel.accent}` : "bg-amber-100 text-amber-700"}`}>
-              {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
-              {catTitle}
-            </span>
+            {catHref ? (
+              <Link prefetch={false} href={catHref} className={`${catChipClass} hover:opacity-80 transition-opacity`}>
+                {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
+                {catTitle}
+              </Link>
+            ) : (
+              <span className={catChipClass}>
+                {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
+                {catTitle}
+              </span>
+            )}
             <span className="text-ink-500">About {minutes} min read</span>
           </div>
           <h1 className="mt-4 font-display text-3xl md:text-4xl font-extrabold leading-tight text-ink-900">

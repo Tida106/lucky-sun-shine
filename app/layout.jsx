@@ -167,7 +167,7 @@ export default function RootLayout({ children }) {
         />
         <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} staticRoutes={staticRoutes} localizedCategories={localizedCategories} />
         <main className="flex-1">{children}</main>
-        <Footer />
+        <Footer localizedCategories={localizedCategories} />
         <Analytics />
         <AdSense />
         <script dangerouslySetInnerHTML={{ __html: deferredLoadScript }} />

@@ -11,11 +11,16 @@ import { site } from '@/lib/site';
 
 const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
 
-export default function Footer() {
+export default function Footer({ localizedCategories = { en: [], 'zh-tw': [] } }) {
   const pathname = usePathname() || '';
   const isZhTw = pathname.startsWith('/zh-tw');
   const isEn = !isZhTw && pathname.startsWith('/en');
   const locale = isZhTw ? 'zh-tw' : isEn ? 'en' : 'ja';
+  // カテゴリ一覧は言語別ページがある。英語・繁體中文は、その言語の翻訳記事が1件以上ある
+  // (=ページが実在する)カテゴリだけ表示し、言語別URLにリンクする(ヘッダーと同じ一覧)。
+  const categoryPrefix = isZhTw ? '/zh-tw' : isEn ? '/en' : '';
+  const visibleCategories =
+    locale === 'ja' ? categories : categories.filter((c) => (localizedCategories[locale] || []).includes(c.slug));
   const year = new Date().getFullYear();
 
   // /en/about/, /en/tags/, /zh-tw/about/, /zh-tw/tags/ 等はまだ存在
@@ -105,9 +110,9 @@ export default function Footer() {
         <div>
           <h3 className="font-bold text-ink-900 mb-2">{t.categoriesHeading}</h3>
           <ul className="space-y-1 text-sm">
-            {categories.map((c) => (
+            {visibleCategories.map((c) => (
               <li key={c.slug}>
-                <Link prefetch={false} href={`/category/${c.slug}/`} className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700">
+                <Link prefetch={false} href={`${categoryPrefix}/category/${c.slug}/`} className="link-underline inline-flex items-center gap-1.5 hover:text-amber-700">
                   <CategoryIcon slug={c.slug} className="w-3.5 h-3.5 text-amber-600" />
                   {getCategoryTitle(c, locale)}
                 </Link>

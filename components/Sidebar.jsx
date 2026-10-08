@@ -3,6 +3,7 @@ import PopularPosts from './PopularPosts';
 import TableOfContents from './TableOfContents';
 import { SearchIcon } from './icons/NavIcons';
 import { mainCategories, getCategoryTitle } from '@/lib/categories';
+import { getLocalizedCategorySlugs } from '@/lib/routes';
 import { series, accentClasses } from '@/lib/series';
 import CategoryIcon from './CategoryIcon';
 import SunOrnament from './icons/SunOrnament';
@@ -93,11 +94,17 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
     tags: isEn ? "View all tags →" : "タグ一覧から探す →",
   };
 
-  // /en/search/ /en/tags/ /en/category/ (zh-twも同様)ページはまだ存在しないため、
+  // /en/search/ /en/tags/ (zh-twも同様)ページはまだ存在しないため、
   // どのロケールでもこれらは日本語版へのリンクのままにする(新たな404を防ぐ)。
   const searchUrl = '/search/';
   const tagUrl = '/tags/';
-  const catPrefix = '/category/';
+  // カテゴリ一覧は言語別ページがある。英語・繁體中文は、その言語の翻訳記事が
+  // 1件以上あるカテゴリ(=ページが実在するカテゴリ)だけ表示し、言語別URLにリンクする。
+  const catPrefix = isZhTw ? '/zh-tw/category/' : isEn ? '/en/category/' : '/category/';
+  const localizedCats = locale === 'ja' ? null : new Set(getLocalizedCategorySlugs(locale));
+  const visibleCategories = localizedCats
+    ? mainCategories.filter((c) => localizedCats.has(c.slug))
+    : mainCategories;
 
   // /blog/[slug]/ はその言語版記事が実在する時だけ /en/blog/[slug]/ 等に変換する。
   const enSlugSet = new Set(enSlugs);
@@ -130,7 +137,7 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
       <div className="rounded-2xl bg-white border border-amber-200 p-5">
         <CardHeading>{t.categories}</CardHeading>
         <ul className="space-y-2">
-          {mainCategories.map((c) => {
+          {visibleCategories.map((c) => {
             const title = getCategoryTitle(c, locale);
             return (
               <li
