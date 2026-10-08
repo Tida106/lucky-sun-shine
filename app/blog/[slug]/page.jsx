@@ -17,7 +17,7 @@ import PhoneFortuneCTA from "@/components/PhoneFortuneCTA";
 import RelatedProducts from "@/components/RelatedProducts";
 import FaqSection from "@/components/FaqSection";
 import GoldenRouteArticles from "@/components/GoldenRouteArticles";
-import { getFaqForPost } from "@/lib/faq";
+import { getFaqForPost, faqJsonLd } from "@/lib/faq";
 import { getRelatedPosts } from "@/lib/related";
 import { postHasAffiliateLinks } from "@/lib/affiliate";
 
@@ -100,9 +100,47 @@ export default async function BlogPostPage({ params }) {
     { name: post.title },
   ];
 
+  // 更新日: 公開日と日付が異なるときだけ表示する(frontmatter の updated)。
+  const showUpdated = Boolean(post.updated) && post.updated.slice(0, 10) !== post.date.slice(0, 10);
+
+  // 構造化データ: Article(BlogPosting)は全記事。FAQPage は frontmatter に faq を
+  // 明示した記事だけ(本文のFAQ見出しの有無とは独立。本文FAQとの二重表示はしない)。
+  const articleUrl = `${site.url}/blog/${post.slug}/`;
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.description,
+    keywords: post.tags?.length ? post.tags.join(", ") : undefined,
+    url: articleUrl,
+    image: { "@type": "ImageObject", url: `${site.url}/og-image.jpg`, width: 1200, height: 630 },
+    datePublished: post.date,
+    dateModified: post.updated || post.date,
+    inLanguage: site.language,
+    author: { "@type": "Organization", name: post.author || site.publisherName, url: site.url },
+    publisher: {
+      "@type": "Organization",
+      name: site.name,
+      url: site.url,
+      logo: { "@type": "ImageObject", url: `${site.url}/apple-touch-icon.svg` },
+    },
+    mainEntityOfPage: { "@type": "WebPage", "@id": articleUrl },
+  };
+  const explicitFaq = Array.isArray(post.faq) && post.faq.length > 0 ? getFaqForPost(post) : null;
+
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10">
       <article className="min-w-0">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        />
+        {explicitFaq && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(explicitFaq)) }}
+          />
+        )}
         <Breadcrumbs items={breadcrumbItems} className="mb-6" locale={LOCALE} />
         <ArticleCover post={post} variant="hero" locale={LOCALE} className="mb-8" />
 
@@ -130,6 +168,12 @@ export default async function BlogPostPage({ params }) {
               <span className="block text-[10px] tracking-widest text-amber-700 font-bold">公開日</span>
               <time dateTime={post.date} className="font-bold text-ink-900">{formatDate(post.date)}</time>
             </span>
+            {showUpdated && (
+              <span>
+                <span className="block text-[10px] tracking-widest text-amber-700 font-bold">更新日</span>
+                <time dateTime={post.updated} className="font-bold text-ink-900">{formatDate(post.updated)}</time>
+              </span>
+            )}
           </div>
         </header>
 
