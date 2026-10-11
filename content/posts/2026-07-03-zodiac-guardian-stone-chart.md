@@ -250,6 +250,7 @@ draft: false
 
 - [12星座×パワーストーン完全ガイド｜エレメント別の相性と選び方](/blog/zodiac-powerstones-guide/)
 - [12ヶ月の誕生石総合ガイド](/blog/birthstone-guide/)
+- [365日の誕生石一覧](/blog/birthday-stone-365/) — 誕生日の日付から石を探したい方に
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/)
 - [パワーストーン入門｜初心者が最初に知っておきたい全知識](/blog/powerstone-beginner-guide/)
 - [パワーストーンの選び方完全ガイド](/blog/how-to-choose-powerstones/)
