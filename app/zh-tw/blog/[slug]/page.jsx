@@ -41,6 +41,7 @@ export async function generateMetadata({ params }) {
   if (!post) return {};
   const description = normalizeDescription(post);
   const hasEn = Boolean(getPostBySlug(slug, "en"));
+  const hasTh = Boolean(getPostBySlug(slug, "th"));
   return {
     title: post.title,
     description,
@@ -51,6 +52,7 @@ export async function generateMetadata({ params }) {
         ja: `/blog/${post.slug}/`,
         ...(hasEn ? { en: `/en/blog/${post.slug}/` } : {}),
         "zh-Hant-TW": `/zh-tw/blog/${post.slug}/`,
+        ...(hasTh ? { th: `/th/blog/${post.slug}/` } : {}),
         "x-default": `/blog/${post.slug}/`,
       },
     },

@@ -9,13 +9,14 @@ export default function Breadcrumbs({ items, className = '', locale = 'ja' }) {
 
   const isEn = locale === 'en';
   const isZhTw = locale === 'zh-tw';
-  const localePrefix = isZhTw ? '/zh-tw' : isEn ? '/en' : '';
+  const isTh = locale === 'th';
+  const localePrefix = isTh ? '/th' : isZhTw ? '/zh-tw' : isEn ? '/en' : '';
 
   // 言語別のテキストとURL分岐
-  const rootName = isZhTw ? '首頁' : isEn ? 'Home' : 'ホーム';
-  const rootPath = isZhTw ? '/zh-tw/' : isEn ? '/en/' : '/';
-  const ariaLabel = isZhTw ? '麵包屑導覽' : isEn ? 'Breadcrumbs' : 'パンくずリスト';
-  const topText = isZhTw ? '首頁' : isEn ? 'Home' : 'トップ';
+  const rootName = isTh ? 'หน้าแรก' : isZhTw ? '首頁' : isEn ? 'Home' : 'ホーム';
+  const rootPath = isTh ? '/th/' : isZhTw ? '/zh-tw/' : isEn ? '/en/' : '/';
+  const ariaLabel = isTh ? 'เส้นทางนำทาง' : isZhTw ? '麵包屑導覽' : isEn ? 'Breadcrumbs' : 'パンくずリスト';
+  const topText = isTh ? 'หน้าแรก' : isZhTw ? '首頁' : isEn ? 'Home' : 'トップ';
 
   const jsonLd = {
     '@context': 'https://schema.org',

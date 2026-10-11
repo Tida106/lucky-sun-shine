@@ -13,11 +13,23 @@ import { SearchIcon } from '@/components/icons/NavIcons';
 // カテゴリページのみを使うので、静的な初期HTML自体はそのまま有効)。
 export default function NotFound() {
   const pathname = usePathname() || '';
+  const isTh = pathname === '/th' || pathname.startsWith('/th/');
   const isZhTw = pathname.startsWith('/zh-tw');
-  const isEn = !isZhTw && pathname.startsWith('/en');
-  const locale = isZhTw ? 'zh-tw' : isEn ? 'en' : 'ja';
+  const isEn = !isZhTw && !isTh && pathname.startsWith('/en');
+  const locale = isTh ? 'th' : isZhTw ? 'zh-tw' : isEn ? 'en' : 'ja';
 
-  const t = isZhTw
+  const t = isTh
+    ? {
+        title: 'ไม่พบหน้านี้',
+        body: 'URL อาจมีการเปลี่ยนแปลง หรือหน้านี้อาจถูกลบไปแล้ว',
+        body2: 'กรุณาเลือกอ่านบทความจากหน้าแรก หรือจากหมวดหมู่ด้านล่าง',
+        home: '/th/',
+        homeLabel: 'กลับหน้าแรก',
+        search: '/search/',
+        searchLabel: 'ค้นหาในเว็บไซต์',
+        categoryHeading: 'เลือกดูตามหมวดหมู่',
+      }
+    : isZhTw
     ? {
         title: '找不到這個頁面',
         body: '網址可能已變更或該頁面已被刪除。',

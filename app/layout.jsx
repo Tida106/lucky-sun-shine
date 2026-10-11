@@ -119,6 +119,7 @@ export default function RootLayout({ children }) {
   // スラッグ一覧を渡す。
   const enSlugs = getAllPosts('en').map((p) => p.slug);
   const zhTwSlugs = getAllPosts('zh-tw').map((p) => p.slug);
+  const thSlugs = getAllPosts('th').map((p) => p.slug);
   // 固定ページ(プライバシー・おみくじ等)の別言語版が実在するかの判定用。
   const staticRoutes = getStaticRoutes();
   // 英語・繁體中文のカテゴリ一覧ページが実在するカテゴリ(翻訳記事が1件以上あるもの)。
@@ -126,6 +127,7 @@ export default function RootLayout({ children }) {
   const localizedCategories = {
     en: getLocalizedCategorySlugs('en'),
     'zh-tw': getLocalizedCategorySlugs('zh-tw'),
+    th: getLocalizedCategorySlugs('th'),
   };
   const orgSchema = {
     '@context': 'https://schema.org',
@@ -165,7 +167,7 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
         />
-        <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} staticRoutes={staticRoutes} localizedCategories={localizedCategories} />
+        <Header enSlugs={enSlugs} zhTwSlugs={zhTwSlugs} thSlugs={thSlugs} staticRoutes={staticRoutes} localizedCategories={localizedCategories} />
         <main className="flex-1">{children}</main>
         <Footer localizedCategories={localizedCategories} />
         <Analytics />

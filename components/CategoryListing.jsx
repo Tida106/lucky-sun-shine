@@ -36,6 +36,17 @@ const UI = {
     pillarLabel: '從這裡開始 — 完整指南',
     pillarText: '整理了此分類的整體概念與基礎知識。初次閱讀的朋友請從這裡開始 →',
   },
+  th: {
+    prefix: '/th',
+    inLanguage: 'th',
+    metaTitle: (t) => `บทความหมวด${t}`,
+    intro: (t) => `รวมบทความหมวด「${t}」ของ ${site.name} เรียงจากใหม่ไปเก่า`,
+    listHeading: 'รายการบทความ',
+    count: (n) => `${n} บทความ`,
+    other: 'หมวดหมู่อื่น',
+    pillarLabel: 'เริ่มต้นที่นี่ — คู่มือฉบับเต็ม',
+    pillarText: 'สรุปภาพรวมและความรู้พื้นฐานของหมวดนี้ ถ้าเพิ่งเริ่มอ่าน เริ่มที่นี่ได้เลย →',
+  },
 };
 
 export function localizedCategoryParams(locale) {
@@ -108,7 +119,7 @@ export default function CategoryListing({ slug, locale }) {
   };
 
   return (
-    <>
+    <div lang={locale === 'th' ? 'th' : undefined}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
@@ -185,10 +196,11 @@ export default function CategoryListing({ slug, locale }) {
               locale={locale}
               enSlugs={locale === 'en' ? allSlugs : []}
               zhTwSlugs={locale === 'zh-tw' ? allSlugs : []}
+              thSlugs={locale === 'th' ? allSlugs : []}
             />
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }

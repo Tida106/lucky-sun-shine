@@ -27,7 +27,7 @@ function SeriesSection({ s, locale = 'ja', blogHref }) {
   const isZhTw = locale === 'zh-tw';
   const a = accentClasses(s.accent);
   const isOpen = DEFAULT_OPEN_SERIES.has(s.id);
-  const hubLabel = isZhTw ? '查看完整指南' : isEn ? 'View Full Guide' : (s.hubLabel || '総合ガイドを見る');
+  const hubLabel = locale === 'th' ? 'ดูคู่มือฉบับเต็ม' : isZhTw ? '查看完整指南' : isEn ? 'View Full Guide' : (s.hubLabel || '総合ガイドを見る');
 
   return (
     <details className={`group rounded-xl border border-amber-100 bg-white/80 ${a.bar} border-l-4`} open={isOpen}>
@@ -69,12 +69,20 @@ function SeriesSection({ s, locale = 'ja', blogHref }) {
   );
 }
 
-export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlugs = [] }) {
+export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlugs = [], thSlugs = [] }) {
   const isEn = locale === 'en';
   const isZhTw = locale === 'zh-tw';
+  const isTh = locale === 'th';
 
   // UIテキストの言語別切り替え辞書
-  const t = isZhTw ? {
+  const t = isTh ? {
+    search: "ค้นหาในเว็บไซต์",
+    searchDesc: "ค้นหาจากชื่อหิน ดวงชะตา ชื่อสถานที่ ฯลฯ (หน้าค้นหาเป็นภาษาญี่ปุ่น)",
+    categories: "เลือกดูตามหมวดหมู่",
+    hubs: "เลือกดูตามหัวข้อ",
+    hubsDesc: "รวมบทความตามหัวข้อ เช่น ราศี หินประจำเดือนเกิด ปีนักษัตร ฮวงจุ้ย และศาลเจ้า (ชื่อหัวข้อเป็นภาษาญี่ปุ่น)",
+    tags: "ดูแท็กทั้งหมด →",
+  } : isZhTw ? {
     search: "站內搜尋",
     searchDesc: "可依水晶名稱、運勢、地名等進行搜尋。",
     categories: "依分類瀏覽",
@@ -100,7 +108,7 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
   const tagUrl = '/tags/';
   // カテゴリ一覧は言語別ページがある。英語・繁體中文は、その言語の翻訳記事が
   // 1件以上あるカテゴリ(=ページが実在するカテゴリ)だけ表示し、言語別URLにリンクする。
-  const catPrefix = isZhTw ? '/zh-tw/category/' : isEn ? '/en/category/' : '/category/';
+  const catPrefix = isTh ? '/th/category/' : isZhTw ? '/zh-tw/category/' : isEn ? '/en/category/' : '/category/';
   const localizedCats = locale === 'ja' ? null : new Set(getLocalizedCategorySlugs(locale));
   const visibleCategories = localizedCats
     ? mainCategories.filter((c) => localizedCats.has(c.slug))
@@ -109,7 +117,9 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
   // /blog/[slug]/ はその言語版記事が実在する時だけ /en/blog/[slug]/ 等に変換する。
   const enSlugSet = new Set(enSlugs);
   const zhTwSlugSet = new Set(zhTwSlugs);
+  const thSlugSet = new Set(thSlugs);
   const blogHref = (slug) => {
+    if (isTh && thSlugSet.has(slug)) return `/th/blog/${slug}/`;
     if (isZhTw && zhTwSlugSet.has(slug)) return `/zh-tw/blog/${slug}/`;
     if (isEn && enSlugSet.has(slug)) return `/en/blog/${slug}/`;
     return `/blog/${slug}/`;
@@ -156,7 +166,7 @@ export default function Sidebar({ headings, locale = 'ja', enSlugs = [], zhTwSlu
                     href={blogHref(c.pillarSlug)}
                     className="mt-1 block pl-6 text-[11px] text-ink-700 hover:text-amber-700"
                   >
-                    └ {isZhTw ? '查看完整指南' : isEn ? 'View Pillar Article' : c.pillarTitle} →
+                    └ {isTh ? 'ดูคู่มือฉบับเต็ม' : isZhTw ? '查看完整指南' : isEn ? 'View Pillar Article' : c.pillarTitle} →
                   </Link>
                 )}
               </li>

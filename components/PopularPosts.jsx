@@ -12,10 +12,11 @@ import SunOrnament from './icons/SunOrnament';
 export default function PopularPosts({ limit = 5, heading = '編集部おすすめ', locale = 'ja' }) {
   const isEn = locale === 'en';
   const isZhTw = locale === 'zh-tw';
+  const isTh = locale === 'th';
 
   // 英語・繁体中文環境の場合は見出しを切り替える
   const displayHeading = heading === '編集部おすすめ'
-    ? (isZhTw ? '編輯部精選' : isEn ? "Editor's Picks" : heading)
+    ? (isTh ? 'บทความแนะนำจากกองบรรณาธิการ' : isZhTw ? '編輯部精選' : isEn ? "Editor's Picks" : heading)
     : heading;
 
   // ロケールを渡して記事を取得する（未翻訳の記事は自動で除外される）
@@ -28,7 +29,7 @@ export default function PopularPosts({ limit = 5, heading = '編集部おすす�
 
   if (ranked.length === 0) return null;
 
-  const blogPrefix = isZhTw ? '/zh-tw/blog/' : isEn ? '/en/blog/' : '/blog/';
+  const blogPrefix = isTh ? '/th/blog/' : isZhTw ? '/zh-tw/blog/' : isEn ? '/en/blog/' : '/blog/';
 
   return (
     <aside className="card-elev rounded-2xl bg-white border border-amber-200 p-6">

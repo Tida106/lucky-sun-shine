@@ -9,7 +9,7 @@ function formatDate(iso) {
 
 export default function PostCard({ post, locale = 'ja' }) {
   const cat = getCategory(post.category);
-  const prefix = locale === 'zh-tw' ? '/zh-tw' : locale === 'en' ? '/en' : '';
+  const prefix = locale === 'th' ? '/th' : locale === 'zh-tw' ? '/zh-tw' : locale === 'en' ? '/en' : '';
   const postUrl = `${prefix}/blog/${post.slug}/`;
   const catName = getCategoryTitle(cat, locale) || post.category;
 

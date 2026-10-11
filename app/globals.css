@@ -289,3 +289,33 @@ select:focus-visible,
     radial-gradient(ellipse at 50% -10%, rgba(201, 169, 110, 0.35) 0%, transparent 55%),
     linear-gradient(180deg, #FAF4E6 0%, #ffffff 60%);
 }
+
+/* Thai (/th/ pages, lang="th").
+   Noto Sans/Serif JP have no Thai glyphs, so Thai text would fall back to whatever
+   the OS picks. Put the self-hosted Noto Sans Thai subset (public/fonts, loaded only
+   when Thai characters appear because of unicode-range) first, then common OS Thai
+   fonts. Thai has no word spaces: the browser's dictionary line breaking is used
+   (word-break:normal) and long strings such as URLs may still wrap anywhere.
+   Letter-spacing is reset because tracking on Thai breaks the placement of vowel and
+   tone marks, and headings get a taller line-height so stacked marks are not clipped. */
+[lang="th"],
+[lang="th"] h1,
+[lang="th"] h2,
+[lang="th"] h3,
+[lang="th"] h4,
+[lang="th"] .font-display {
+  font-family: 'Noto Sans Thai', 'Leelawadee UI', 'Thonburi', 'Tahoma', 'Noto Sans JP', 'Noto Sans JP Fallback', system-ui, sans-serif;
+  letter-spacing: normal;
+  word-break: normal;
+  overflow-wrap: break-word;
+  line-break: auto;
+}
+[lang="th"] h1,
+[lang="th"] h2,
+[lang="th"] h3,
+[lang="th"] h4 {
+  line-height: 1.5;
+}
+[lang="th"] .prose-article {
+  line-height: 2;
+}

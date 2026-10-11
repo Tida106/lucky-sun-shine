@@ -22,7 +22,7 @@ function stripMarkdown(s) {
 }
 
 const files = fs.existsSync(POSTS_DIR)
-  ? fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith('.md') || f.endsWith('.mdx'))
+  ? fs.readdirSync(POSTS_DIR).filter((f) => (f.endsWith('.md') || f.endsWith('.mdx')) && !/\.th\.(md|mdx)$/.test(f))
   : [];
 
 const index = files

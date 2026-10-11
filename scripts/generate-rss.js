@@ -25,6 +25,8 @@ function loadPosts() {
   if (!fs.existsSync(POSTS_DIR)) return [];
   return fs.readdirSync(POSTS_DIR)
     .filter((f) => f.endsWith('.md') || f.endsWith('.mdx'))
+    // タイ語訳(.th.md)は日本語RSSに含めない(リンクは /blog/ 固定のため)。
+    .filter((f) => !/\.th\.(md|mdx)$/.test(f))
     .map((f) => {
       const raw = fs.readFileSync(path.join(POSTS_DIR, f), 'utf8');
       const { data } = matter(raw);

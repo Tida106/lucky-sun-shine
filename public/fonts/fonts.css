@@ -34,3 +34,21 @@
   font-display: swap;
   src: url('/fonts/noto-serif-jp-700.woff2') format('woff2');
 }
+/* Thai subset (Noto Sans Thai, SIL OFL 1.1; @fontsource/noto-sans-thai 5.1.0 "thai" subset).
+   unicode-range limits the download to pages that actually contain Thai characters. */
+@font-face {
+  font-family: 'Noto Sans Thai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/noto-sans-thai-400.woff2') format('woff2');
+  unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+@font-face {
+  font-family: 'Noto Sans Thai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/noto-sans-thai-700.woff2') format('woff2');
+  unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}

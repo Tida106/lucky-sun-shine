@@ -13,6 +13,7 @@ const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
 // 現在のパスからロケールを判定する。
 function localeFromPathname(pathname) {
   if (pathname.startsWith('/zh-tw')) return 'zh-tw';
+  if (pathname === '/th' || pathname.startsWith('/th/')) return 'th';
   if (pathname.startsWith('/en')) return 'en';
   return 'ja';
 }
@@ -71,21 +72,23 @@ function langHref(pathname, currentLocale, targetLocale, slugSets, staticRoutes,
 export default function Header({
   enSlugs = [],
   zhTwSlugs = [],
+  thSlugs = [],
   staticRoutes = [],
-  localizedCategories = { en: [], 'zh-tw': [] },
+  localizedCategories = { en: [], 'zh-tw': [], th: [] },
 }) {
   const pathname = usePathname() || '';
   const locale = localeFromPathname(pathname);
   const isEn = locale === 'en';
   const isZhTw = locale === 'zh-tw';
-  const slugSets = { en: new Set(enSlugs), 'zh-tw': new Set(zhTwSlugs) };
+  const isTh = locale === 'th';
+  const slugSets = { en: new Set(enSlugs), 'zh-tw': new Set(zhTwSlugs), th: new Set(thSlugs) };
 
   // 各言語のテキストとURLの切り替え辞書
   // /en/search/ はまだ存在しないため、英語ロケールでも日本語版へのリンクのままにする
   // (新たな404を防ぐ)。YouTube紹介・マスコット紹介は言語別のURLを作り、そのページが
   // 実在しない言語ではメニューごと非表示にする(下の showYoutube / showMascot)。
   // /en/omikuji/ /en/kyusei/ /zh-tw/omikuji/ /zh-tw/about-mascot/ は実在する。
-  const t = {
+  const t0 = {
     home: isZhTw ? '/zh-tw/' : isEn ? '/en/' : '/',
     search: '/search/',
     youtubeLink: `${isZhTw ? '/zh-tw' : isEn ? '/en' : ''}/recommend-youtube/`,
@@ -107,10 +110,23 @@ export default function Header({
     searchTitle: isZhTw ? '站內搜尋' : isEn ? 'Search' : 'サイト内検索',
     logoAria: isZhTw ? '回到 Lucky Sun Shine 首頁' : isEn ? 'To Lucky Sun Shine Top' : 'Lucky Sun Shine トップへ',
   };
+  // タイ語版(パイロット): おみくじ・九星気学・YouTube/マスコット紹介のタイ語ページは
+  // まだ無いため、ホーム・検索・ロゴのテキストだけを差し替える(メニュー項目は下で非表示)。
+  const t = isTh
+    ? {
+        ...t0,
+        home: '/th/',
+        // /th/recommend-youtube/ と /th/about-mascot/ は存在しないため、下の showYoutube / showMascot が false になり非表示になる
+        youtubeLink: '/th/recommend-youtube/',
+        mascotLink: '/th/about-mascot/',
+        searchTitle: 'ค้นหาในเว็บไซต์',
+        logoAria: 'กลับไปหน้าแรกของ Lucky Sun Shine',
+      }
+    : t0;
 
   // カテゴリメニュー: 日本語は全カテゴリ。英語・繁體中文は、その言語のカテゴリ一覧ページが
   // 実在する(翻訳記事が1件以上ある)カテゴリだけ表示し、言語別のURLにリンクする。
-  const localePrefix = isZhTw ? '/zh-tw' : isEn ? '/en' : '';
+  const localePrefix = isTh ? '/th' : isZhTw ? '/zh-tw' : isEn ? '/en' : '';
   const visibleCategories =
     locale === 'ja' ? categories : categories.filter((c) => (localizedCategories[locale] || []).includes(c.slug));
   const getCategoryUrl = (slug) => `${localePrefix}/category/${slug}/`;
@@ -123,10 +139,11 @@ export default function Header({
     { locale: 'ja', label: 'JP' },
     { locale: 'en', label: 'EN' },
     { locale: 'zh-tw', label: '繁中' },
+    { locale: 'th', label: 'ไทย' },
   ];
 
   return (
-    <header className="sticky top-0 z-30 backdrop-blur bg-white/80 border-b border-amber-200">
+    <header lang={isTh ? 'th' : undefined} className="sticky top-0 z-30 backdrop-blur bg-white/80 border-b border-amber-200">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
         <Link prefetch={false} href={t.home} className="group inline-flex items-center shrink-0" aria-label={t.logoAria}>
           <Logo
@@ -139,7 +156,7 @@ export default function Header({
             最終的な高さを予約してヘッダー下の本文がずれない(CLS)ようにする。
             値は各言語のフォント読み込み後の実測値(ja=3行、en・zh-tw はメニュー項目が
             少ないため画面幅で1〜2行)。メニューの項目数を変えたら測り直すこと。 */}
-        <nav className={`hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 flex-wrap justify-end ${isZhTw ? 'lg:min-h-[68px] xl:min-h-[34px]' : isEn ? 'lg:min-h-[54px] xl:min-h-[64px]' : 'lg:min-h-[92px]'}`}>
+        <nav className={`hidden md:flex items-center gap-x-5 gap-y-1 text-sm font-medium text-ink-700 flex-wrap justify-end ${isTh ? 'lg:min-h-[34px]' : isZhTw ? 'lg:min-h-[68px] xl:min-h-[34px]' : isEn ? 'lg:min-h-[54px] xl:min-h-[64px]' : 'lg:min-h-[92px]'}`}>
           {visibleCategories.map((c) => (
             <Link
               key={c.slug}
@@ -170,15 +187,15 @@ export default function Header({
               <span>{isEn && '☀️ '}{t.mascotText}</span>
             </Link>
           )}
-          <Link prefetch={false}
+          {!isTh && (<Link prefetch={false}
             href={t.omikujiLink}
             className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:text-amber-900 hover:shadow-[0_0_14px_rgba(245,158,11,0.45)] transition-all whitespace-nowrap font-bold"
             title={t.omikujiTitle}
           >
             <span aria-hidden="true">🎋</span>
             <span>{t.omikujiText}</span>
-          </Link>
-          {!isZhTw && (
+          </Link>)}
+          {!isZhTw && !isTh && (
             <Link prefetch={false}
               href={t.kyuseiLink}
               className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 hover:text-violet-900 transition-all whitespace-nowrap font-bold"
@@ -258,15 +275,15 @@ export default function Header({
               <span>{isEn && '☀️ '}{t.mascotText}</span>
             </Link>
           )}
-          <Link prefetch={false}
+          {!isTh && (<Link prefetch={false}
             href={t.omikujiLink}
             className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-amber-100 border border-amber-300 text-amber-800 hover:bg-amber-200 hover:shadow-[0_0_10px_rgba(245,158,11,0.4)] transition-all font-bold"
             title={t.omikujiTitle}
           >
             <span aria-hidden="true">🎋</span>
             <span>{t.omikujiText}</span>
-          </Link>
-          {!isZhTw && (
+          </Link>)}
+          {!isZhTw && !isTh && (
             <Link prefetch={false}
               href={t.kyuseiLink}
               className="inline-flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 rounded-full bg-violet-100 border border-violet-300 text-violet-800 hover:bg-violet-200 font-bold"

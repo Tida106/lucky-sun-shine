@@ -11,14 +11,15 @@ import { site } from '@/lib/site';
 
 const INSTAGRAM_URL = 'https://www.instagram.com/lucky.sun.shine/';
 
-export default function Footer({ localizedCategories = { en: [], 'zh-tw': [] } }) {
+export default function Footer({ localizedCategories = { en: [], 'zh-tw': [], th: [] } }) {
   const pathname = usePathname() || '';
+  const isTh = pathname === '/th' || pathname.startsWith('/th/');
   const isZhTw = pathname.startsWith('/zh-tw');
-  const isEn = !isZhTw && pathname.startsWith('/en');
-  const locale = isZhTw ? 'zh-tw' : isEn ? 'en' : 'ja';
+  const isEn = !isZhTw && !isTh && pathname.startsWith('/en');
+  const locale = isTh ? 'th' : isZhTw ? 'zh-tw' : isEn ? 'en' : 'ja';
   // カテゴリ一覧は言語別ページがある。英語・繁體中文は、その言語の翻訳記事が1件以上ある
   // (=ページが実在する)カテゴリだけ表示し、言語別URLにリンクする(ヘッダーと同じ一覧)。
-  const categoryPrefix = isZhTw ? '/zh-tw' : isEn ? '/en' : '';
+  const categoryPrefix = isTh ? '/th' : isZhTw ? '/zh-tw' : isEn ? '/en' : '';
   const visibleCategories =
     locale === 'ja' ? categories : categories.filter((c) => (localizedCategories[locale] || []).includes(c.slug));
   const year = new Date().getFullYear();
@@ -29,7 +30,7 @@ export default function Footer({ localizedCategories = { en: [], 'zh-tw': [] } }
   // /en/disclosure/ は英語版ページが実在するため、英語ロケールでは
   // そちらにリンクする。/zh-tw/about-mascot/ は繁体中文版ページが
   // 実在するため、繁体中文ロケールではそちらにリンクする。
-  const t = {
+  const t0 = {
     messageLabel: isZhTw ? '太陽醬的話' : isEn ? 'A Message from Sun-chan' : '太陽ちゃんからのメッセージ',
     messageTitle: isZhTw ? '謝謝你來訪！' : isEn ? 'Thanks for stopping by!' : '来てくれてありがとう！',
     messageBody: isZhTw
@@ -54,9 +55,34 @@ export default function Footer({ localizedCategories = { en: [], 'zh-tw': [] } }
     search: isZhTw ? '站內搜尋' : isEn ? 'Search' : 'サイト内検索',
     rights: 'All rights reserved.',
   };
+  // タイ語版(パイロット): フッターの見出し・メッセージをタイ語にする。
+  // リンク先(サイト情報など)はタイ語ページがまだ無いため日本語版のまま。
+  const t = isTh
+    ? {
+        ...t0,
+        messageLabel: 'ข้อความจากซันจัง',
+        messageTitle: 'ขอบคุณที่แวะมานะ!',
+        messageBody:
+          'ไม่ว่าจะเป็นวันที่ทุกอย่างราบรื่น หรือวันธรรมดาๆ ดวงอาทิตย์ก็คอยมองดูคุณอยู่เสมอ Lucky Sun Shine อยากเป็นพื้นที่ที่ช่วยดันหลังคุณเบาๆ ให้ก้าวไปข้างหน้า',
+        tagline: 'คู่มือเรื่องคริสตัล สถานที่พลังงานดี และการเสริมดวงชะตา',
+        youtube: 'ช่อง YouTube แนะนำ',
+        categoriesHeading: 'หมวดหมู่',
+        siteInfoHeading: 'ข้อมูลเว็บไซต์',
+        about: 'เกี่ยวกับเว็บไซต์นี้ (ภาษาญี่ปุ่น)',
+        vision: 'แนวคิดของ Lucky Sun Shine (ภาษาญี่ปุ่น)',
+        mascot: 'ทำความรู้จักซันจัง (ภาษาญี่ปุ่น)',
+        editorialPolicy: 'นโยบายการเขียนบทความ (ภาษาญี่ปุ่น)',
+        privacy: 'นโยบายความเป็นส่วนตัว (ภาษาญี่ปุ่น)',
+        disclaimer: 'ข้อความปฏิเสธความรับผิดชอบ (ภาษาญี่ปุ่น)',
+        contact: 'ติดต่อเรา (ภาษาญี่ปุ่น)',
+        credits: 'เครดิตรูปภาพ (ภาษาญี่ปุ่น)',
+        tags: 'แท็กทั้งหมด (ภาษาญี่ปุ่น)',
+        search: 'ค้นหาในเว็บไซต์ (ภาษาญี่ปุ่น)',
+      }
+    : t0;
 
   return (
-    <footer className="border-t border-amber-200 bg-gradient-to-b from-amber-50 to-amber-100 mt-16">
+    <footer lang={isTh ? 'th' : undefined} className="border-t border-amber-200 bg-gradient-to-b from-amber-50 to-amber-100 mt-16">
       {/* 太陽ちゃんからのメッセージ — フッター上部の親しみゾーン */}
       <div className="max-w-5xl mx-auto px-4 pt-10">
         <div className="relative rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50 via-white to-rose-50 px-5 py-6 md:px-8 md:py-7 shadow-[0_4px_20px_rgba(0,0,0,0.04)]">
@@ -64,7 +90,7 @@ export default function Footer({ localizedCategories = { en: [], 'zh-tw': [] } }
             <SunMascot
               size={84}
               className="shrink-0 md:!w-28 md:!h-28"
-              alt={isZhTw ? '太陽醬（雙手合十）' : isEn ? 'Sun-chan (hands together)' : '太陽ちゃん（合掌）'}
+              alt={isTh ? 'ซันจัง (พนมมือ)' : isZhTw ? '太陽醬（雙手合十）' : isEn ? 'Sun-chan (hands together)' : '太陽ちゃん（合掌）'}
               src="/images/mascot-sun-thanks.png"
             />
             <div className="min-w-0">
@@ -146,7 +172,7 @@ export default function Footer({ localizedCategories = { en: [], 'zh-tw': [] } }
             <li><Link prefetch={false} href="/editorial-policy/" className="hover:text-amber-700">{t.editorialPolicy}</Link></li>
             <li><Link prefetch={false} href={isEn ? '/en/privacy/' : '/privacy/'} className="hover:text-amber-700">{t.privacy}</Link></li>
             <li><Link prefetch={false} href="/disclaimer/" className="hover:text-amber-700">{t.disclaimer}</Link></li>
-            {!isZhTw && (
+            {!isZhTw && !isTh && (
               <li><Link prefetch={false} href={isEn ? '/en/disclosure/' : '/disclosure/'} className="hover:text-amber-700">{t.disclosure}</Link></li>
             )}
             <li><Link prefetch={false} href="/contact/" className="hover:text-amber-700">{t.contact}</Link></li>

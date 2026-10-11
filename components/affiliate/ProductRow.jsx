@@ -9,6 +9,7 @@ const NOTE_TEXT = {
   ja: '※ 価格・在庫は変動します。リンク先の最新情報をご確認ください。',
   en: '※ Prices and stock are subject to change. Please check the latest information on the linked page.',
   'zh-tw': '※ 價格與庫存可能變動,請以連結頁面的最新資訊為準。',
+  th: '※ ราคาและสต็อกอาจเปลี่ยนแปลง โปรดตรวจสอบข้อมูลล่าสุดจากหน้าลิงก์',
 };
 
 export default function ProductRow({ heading, amazon, rakuten, moshimo, locale = 'ja' }) {

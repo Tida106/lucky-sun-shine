@@ -23,7 +23,12 @@ export default function TableOfContents({
   // 言語別のテキスト切り替え辞書
   const isEn = locale === 'en';
   const isZhTw = locale === 'zh-tw';
-  const t = isZhTw ? {
+  const t = locale === 'th' ? {
+    inlineTitle: "สารบัญ (แตะเพื่อเปิด/ปิด)",
+    navAria: "สารบัญ",
+    stickyTitle: "สารบัญของบทความนี้",
+    asideAria: "สารบัญบทความ",
+  } : isZhTw ? {
     inlineTitle: "目錄（點擊展開）",
     navAria: "目錄",
     stickyTitle: "本文目錄",

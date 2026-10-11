@@ -20,8 +20,9 @@ function loadPosts() {
   const files = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith('.md') || f.endsWith('.mdx'));
   const enFiles = new Set(files.filter((f) => /\.en\.(md|mdx)$/.test(f)));
   const zhTwFiles = new Set(files.filter((f) => /\.zh-tw\.(md|mdx)$/.test(f)));
+  const thFiles = new Set(files.filter((f) => /\.th\.(md|mdx)$/.test(f)));
   return files
-    .filter((f) => !/\.en\.(md|mdx)$/.test(f) && !/\.zh-tw\.(md|mdx)$/.test(f))
+    .filter((f) => !/\.(en|zh-tw|th)\.(md|mdx)$/.test(f))
     .map((f) => {
       const raw = fs.readFileSync(path.join(POSTS_DIR, f), 'utf8');
       const { data } = matter(raw);
@@ -31,14 +32,15 @@ function loadPosts() {
       const date = data.date ? new Date(data.date).toISOString() : new Date().toISOString();
       const hasEn = enFiles.has(`${baseName}.en${ext}`);
       const hasZhTw = zhTwFiles.has(`${baseName}.zh-tw${ext}`);
-      return { slug, date, draft: Boolean(data.draft), hasEn, hasZhTw };
+      const hasTh = thFiles.has(`${baseName}.th${ext}`);
+      return { slug, date, draft: Boolean(data.draft), hasEn, hasZhTw, hasTh };
     })
     .filter((p) => !p.draft);
 }
 
 const MAIN_CATEGORY_SLUGS = ['powerstones', 'powerspots', 'lucky-goods', 'luck-habits'];
 
-// 翻訳記事(.en.md / .zh-tw.md)自身の category を見て、記事が1件以上あるメインカテゴリを返す。
+// 翻訳記事(.en.md / .zh-tw.md / .th.md)自身の category を見て、記事が1件以上あるメインカテゴリを返す。
 function localizedCategorySlugs(suffix) {
   if (!fs.existsSync(POSTS_DIR)) return [];
   const re = new RegExp(`\\.${suffix}\\.(md|mdx)$`);
@@ -96,6 +98,9 @@ function build() {
   entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/about-mascot/`, today, 'monthly', '0.5'));
   entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/omikuji/`, today, 'monthly', '0.6'));
 
+  // タイ語版ルート — app/th/ 配下に実在するページのみ(パイロット: トップ・記事・カテゴリ)
+  entries.push(urlEntry(`${SITE_URL}${BASE}/th/`, today, 'daily', '0.9'));
+
   CATEGORY_SLUGS.forEach((s) => {
     entries.push(urlEntry(`${SITE_URL}${BASE}/category/${s}/`, today, 'weekly', '0.8'));
   });
@@ -103,7 +108,7 @@ function build() {
   // 英語・繁體中文のカテゴリ一覧(/en/category/, /zh-tw/category/)は、その言語の
   // 翻訳記事が1件以上あるメインカテゴリだけ生成される(lib/routes.js の
   // getLocalizedCategorySlugs と同じ条件)。存在しないURLをsitemapに載せない。
-  [['en', 'en'], ['zh-tw', 'zh-tw']].forEach(([locale, suffix]) => {
+  [['en', 'en'], ['zh-tw', 'zh-tw'], ['th', 'th']].forEach(([locale, suffix]) => {
     localizedCategorySlugs(suffix).forEach((s) => {
       entries.push(urlEntry(`${SITE_URL}${BASE}/${locale}/category/${s}/`, today, 'weekly', '0.7'));
     });
@@ -121,6 +126,10 @@ function build() {
     // (app/zh-tw/blog/[slug]のgenerateStaticParamsと同じ条件)。
     if (p.hasZhTw) {
       entries.push(urlEntry(`${SITE_URL}${BASE}/zh-tw/blog/${p.slug}/`, p.date, 'monthly', '0.6'));
+    }
+    // .th.md 訳がある記事だけ /th/blog/ も生成される(app/th/blog/[slug]と同じ条件)。
+    if (p.hasTh) {
+      entries.push(urlEntry(`${SITE_URL}${BASE}/th/blog/${p.slug}/`, p.date, 'monthly', '0.6'));
     }
   });
 
