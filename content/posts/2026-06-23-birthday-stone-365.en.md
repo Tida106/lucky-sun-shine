@@ -1,6 +1,6 @@
 ---
-title: "The 365 Daily Birthstones | Your Guardian Stone by Birthday (Monthly Quick Reference Chart)"
-description: "Discover your unique guardian stone for every day of the year! This guide features a monthly quick reference chart of all 365 daily birthstones, from January 1st to December 31st. Find your stone's name and its special meaning, perfect for personal discovery or selecting a meaningful birthday gift for someone special."
+title: "365 Daily Birthstones List | Your Birthday Stone & Meaning for Every Date"
+description: "Find your birthday stone for every day of the year. A monthly quick-reference chart of all 365 daily birthstones, with each stone's name and meaning."
 date: "2026-06-23"
 category: "powerstones"
 tags: ["daily birthstones", "birthstones", "365 days", "guardian stones", "gifts"]

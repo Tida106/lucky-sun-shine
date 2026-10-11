@@ -1,6 +1,6 @@
 ---
-title: "Are There Really Crystal Combinations You Shouldn't Wear?｜The Truth About So-Called 'Forbidden' Pairings"
-description: "You've searched because you're worried about 'bad compatibility' or 'energy repulsion' between stones. Rest assured, there are no scientifically proven 'absolutely forbidden' crystal combinations. This complete guide gently unpacks the truth behind three common 'NG theories,' explains physical compatibility you should genuinely consider, offers tips for choosing harmonious pairings, and includes an FAQ section."
+title: "Crystals You Shouldn't Wear Together? The Truth About Bad Combinations"
+description: "No bad crystal combination has been scientifically confirmed. See the 3 common 'NG' theories, the physical differences that matter, and how to choose."
 date: "2026-06-17"
 updated: "2026-10-08"
 category: "powerstones"
