@@ -149,6 +149,7 @@ A. 通常の御朱印に **八咫烏の朱印** が押されます。本宮大�
 - [オブシディアンの意味と効果](/blog/obsidian/) — 蘇りと真実の石
 - [チャロアイトの意味と効果](/blog/charoite/) — 人生の変容の石
 - [目的別パワーストーン総合ガイド](/blog/luck-powerstones-complete-guide/) — 厄除け・再生の章に登場
+- [四国遍路が心を整える旅と言われる理由](/blog/shikoku-pilgrimage-healing/) — 全行程約1200kmの魅力
 
 ## まとめ
 

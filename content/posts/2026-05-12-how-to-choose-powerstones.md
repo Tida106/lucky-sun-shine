@@ -189,6 +189,9 @@ A. **ムーンストーン・ローズクォーツ・アメジスト** などは
 - [風水とパワーストーンの基本](/blog/fengshui-powerstone-basics/) — 場のエネルギーと石の組み合わせ
 - [初心者のためのパワーストーン入門](/blog/powerstone-beginner-guide/) — もう一歩深く知りたい方へ
 - [偽物・人工石の見分け方](/blog/spot-fake-stones/) — 賢く購入するために
+- [チャクラとパワーストーンの関係](/blog/chakra-powerstone-guide/) — 7つのチャクラに対応する石の考え方
+- [女性向けパワーストーンの選び方](/blog/womens-powerstone-guide/) — おしゃれに身につけるコツ
+- [大人の男性に似合うパワーストーンの選び方](/blog/mens-powerstone-guide/) — ビジネスシーンでも浮かない石選び
 
 ## 編集チームの見解：4つの軸のうち、最初に頼ってほしい1つ
 

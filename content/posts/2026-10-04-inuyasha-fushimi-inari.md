@@ -83,3 +83,4 @@ draft: false
 - [【聖地巡礼×開運】『鬼滅の刃』ゆかりの地を巡る！太宰府・竈門神社＆浅草寺に秘められた「鬼門封じと厄除け」の真実](/blog/kimetsu-kamado-sensoji/)
 - [【聖地巡礼×開運】『君の名は。』ゆかりの地を巡る！諏訪湖・諏訪大社＆飛騨古川に息づく「ムスビ」と太古の自然信仰](/blog/kiminonawa-suwa-hida/)
 - [【聖地巡礼×開運】『千と千尋の神隠し』ゆかりの地へ！道後温泉本館＆江戸東京たてもの園に秘められた「神々の禊（みそぎ）」と浄化パワー](/blog/spirited-away-dogo-tatemonoen/)
+- [『フルーツバスケット』と日光東照宮](/blog/fruits-basket-nikko-toshogu/) — 聖地巡礼×開運シリーズ

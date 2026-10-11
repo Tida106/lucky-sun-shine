@@ -197,6 +197,7 @@ A. はい。鳥居をくぐる前に手のひらで握る、参拝後に神札�
 - [関東のパワースポット神社まとめ](/blog/shrine-kanto-guide/) — 東京近郊の名社
 - [中部のパワースポット神社まとめ](/blog/shrine-chubu-guide/) — 信州・東海の名社
 - [九州のパワースポット神社まとめ](/blog/shrine-kyushu-guide/) — 九州の名社
+- [京都の夜間特別拝観・ライトアップ5選](/blog/kyoto-lightup-powerspot/) — 夜の京都を静かに楽しむ
 
 ## まとめ
 

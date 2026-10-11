@@ -87,3 +87,4 @@ draft: false
 - [【聖地巡礼×開運】『君の名は。』ゆかりの地を巡る！諏訪湖・諏訪大社＆飛騨古川に息づく「ムスビ」と太古の自然信仰](/blog/kiminonawa-suwa-hida/)
 - [パワーストーンの浄化方法完全ガイド｜10種類の方法と石別の向き不向き](/blog/purification-complete-guide/)
 - [厄除け・魔除けのパワーストーン｜意味・効果・組み合わせ完全ガイド](/blog/protection-luck-stones/)
+- [『フルーツバスケット』と日光東照宮](/blog/fruits-basket-nikko-toshogu/) — 聖地巡礼×開運シリーズ

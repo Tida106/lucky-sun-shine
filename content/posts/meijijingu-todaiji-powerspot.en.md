@@ -1,5 +1,6 @@
 ---
 title: "[Miracle Power Spots] The '150-Year Prayer' and 'Universal Light Network' Hidden in Meiji Jingu and Todaiji ✨ A Journey for Ultimate Healing to Fulfill Your Heart and Luck ☀️"
+description: "The history of prayer behind Meiji Jingu and Todaiji, two of Japan's best-known power spots, plus tips for a calm and mindful visit."
 date: "2026-09-17"
 category: "powerspots"
 excerpt: "Meiji Jingu and Todaiji. These two universally known sacred sites in Japan are actually miraculous spaces created by the immense 'prayers' and 'love' of the people. We introduce their secrets."

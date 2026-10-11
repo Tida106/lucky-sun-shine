@@ -1,5 +1,6 @@
 ---
 title: "Reset Your Heart and Soul on a 1,200km Journey✨ The Magical Reason Why the Shikoku Pilgrimage is Called the 'Ultimate Healing & Detox'☀️"
+description: "Why the 1,200 km Shikoku Pilgrimage draws attention at home and abroad as a journey for resetting the mind, and what makes it special."
 date: "2026-09-18"
 category: "powerspots"
 excerpt: "The Shikoku Pilgrimage is not a harsh ascetic training, but the ultimate healing journey where you cast off daily burdens and receive unconditional love. We introduce the magical reasons why it resets your heart and soul."

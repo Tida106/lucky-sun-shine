@@ -79,3 +79,4 @@ draft: false
 - [縁結び・恋愛成就のおすすめ神社まとめ｜ご利益・参拝方法・全国の名社ガイド](/blog/shrine-enmusubi-guide/)
 - [厄除け・魔除けのパワーストーン｜意味・効果・組み合わせ完全ガイド](/blog/protection-luck-stones/)
 - [【広尾】廣尾稲荷神社で「奇跡のサバイバルパワー」と「魔法の墨龍」を手に入れよう](/blog/hiroo-inari-shrine-powerspot/)
+- [『フルーツバスケット』と日光東照宮](/blog/fruits-basket-nikko-toshogu/) — 聖地巡礼×開運シリーズ

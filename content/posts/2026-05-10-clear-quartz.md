@@ -208,6 +208,7 @@ A. 「役目を終えた」「身代わりになってくれた」と捉える�
 - [目的別パワーストーン総合ガイド](/blog/luck-powerstones-complete-guide/) — 全10ジャンルに登場する万能石
 - [12星座別おすすめパワーストーン総合ガイド](/blog/zodiac-powerstones-guide/) — 全星座の「相性のよい石」として頻出
 - [12ヶ月の誕生石総合ガイド](/blog/birthstone-guide/) — 4月の代替誕生石としても
+- [水晶の種類と意味・選び方ガイド](/blog/quartz-types-guide/) — クォーツの種類を一覧で解説
 
 ## まとめ
 

@@ -1,5 +1,6 @@
 ---
 title: "[Tokyo Power Spot Tour] Was All of Tokyo Actually a 'Barrier of Light'?! A Healing Sanctuary Guide to Reset Daily Fatigue and Attract Maximum Luck ☀️✨"
+description: "Explore Tokyo through its Edo-era layout of shrines and temples, seen as a 'barrier of light,' with tips for a calming sacred-site tour."
 date: "2026-09-18"
 category: "powerspots"
 excerpt: "Kanda Myojin, Senso-ji, Meiji Jingu, and Gotokuji. This is a healing sanctuary guide to fully charge your heart and luck by touring the 'Network of Light' stretched across the great metropolis of Tokyo."

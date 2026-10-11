@@ -1,7 +1,8 @@
 ---
 title: "【Instant Good Luck Boost ☀️】You Don't 'Buy' an Omamori? The Sacred Presence in Your Palm and Secret Rules to Bring Peace to Your Heart ✨"
+description: "Why an omamori is traditionally 'received' rather than 'bought,' and the basic etiquette for treating it with care."
 date: "2026-09-17"
-category: "goods"
+category: "lucky-goods"
 excerpt: "An omamori is not something you 'buy,' but something you 'receive.' Discover the secret spiritual rules that bring peace to your mind, from why you must never open the pouch to the true meaning of the year-end Otakiage ritual."
 ---
 

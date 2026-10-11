@@ -160,6 +160,8 @@ A. はい。**シトリン** や **ルチルクォーツ** など金運石を持
 - [金運が上がる財布の選び方](/blog/money-luck-wallet/) — 財布そのものの選び方
 - [目的別パワーストーン総合ガイド](/blog/luck-powerstones-complete-guide/) — 10ジャンルの比較
 - [パワーストーンと風水の基本](/blog/fengshui-powerstone-basics/) — 石と空間の整え方
+- [小網神社の強運・銭洗いの話](/blog/koami-shrine/) — 日本橋の強運厄除けの神社
+- [蛇窪神社の見どころとご利益](/blog/hebikubo-jinja/) — 白蛇と龍神で知られる品川の神社
 
 ## まとめ
 

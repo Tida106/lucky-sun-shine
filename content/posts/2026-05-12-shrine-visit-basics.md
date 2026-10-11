@@ -254,6 +254,11 @@ A. はい。**石を神域のエネルギーで「浄化」する** という意
 - [熊野本宮大社の参拝ガイド](/blog/kumano-hongu-taisha/) — 蘇りの聖地
 - [大神神社の参拝ガイド](/blog/omiwa-jinja/) — 日本最古級の社
 - [パワーストーンの選び方 完全ガイド](/blog/how-to-choose-powerstones/) — 参拝のお守りに
+- [神道の癒やしパワーとエネルギー充電術](/blog/shinto-energy-recharge/) — 神社で心を整えるヒント
+- [神社で出会える「神使」たち](/blog/shinto-animal-messengers/) — 神様のメッセンジャーの意味と由来
+- [お守りは「買う」ものじゃない？](/blog/omamori-secret-rules/) — 授かり方と扱い方の基本ルール
+- [四国遍路が心を整える旅と言われる理由](/blog/shikoku-pilgrimage-healing/) — 全行程約1200kmの魅力
+- [海外からも注目される日本の「奇妙でクール」な神社](/blog/quirky-shrines/) — ユニークな神社文化を楽しむ視点
 
 ## 編集チームの見解：「マナー警察」になってしまわないために
 

@@ -90,3 +90,4 @@ draft: false
 - [鞍馬寺の参拝ガイド｜尊天信仰と牛若丸ゆかりの京都屈指のパワースポット](/blog/kurama-dera/)
 - [厄除け・魔除けのパワーストーン｜意味・効果・組み合わせ完全ガイド](/blog/protection-luck-stones/)
 - [関西のパワースポット神社まとめ｜ご利益・アクセス・モデルコース完全ガイド](/blog/shrine-kansai-guide/)
+- [京都の夜間特別拝観・ライトアップ5選](/blog/kyoto-lightup-powerspot/) — 夜の京都を静かに楽しむ

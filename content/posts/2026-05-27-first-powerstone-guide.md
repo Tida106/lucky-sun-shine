@@ -273,6 +273,9 @@ A. **全く変ではありません**。**タイガーアイ・オニキス・�
 - [健康運に親しまれてきたパワーストーン9選](/blog/purpose-health-stones/) — 目的別ハブ④
 - [対人運・人間関係に親しまれてきたパワーストーン9選](/blog/purpose-relation-stones/) — 目的別ハブ⑤
 - [厄除け・魔除けに親しまれてきたパワーストーン9選](/blog/purpose-protection-stones/) — 目的別ハブ⑥
+- [水晶の種類と意味・選び方ガイド](/blog/quartz-types-guide/) — クォーツの種類を一覧で解説
+- [パワーストーンは水・お風呂・温泉に持ち込める？](/blog/powerstone-water-guide/) — 水・熱・塩分への注意点
+- [パワーストーンの「好転反応」は本当？](/blog/kouten-hannou-truth/) — 体調不良との向き合い方
 
 ## まとめ
 

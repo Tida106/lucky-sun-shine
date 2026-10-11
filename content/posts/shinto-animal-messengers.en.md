@@ -1,5 +1,6 @@
 ---
 title: "[Good Luck] Meet Them at the Shrine! Receive Lucky Power from the Adorable Divine Messengers, 'Shinshi' ☀️✨"
+description: "Meet the animal messengers of the gods, 'shinshi,' found at shrines. Learn their meanings and origins to enjoy your next visit even more."
 date: "2026-09-18"
 category: "powerspots"
 excerpt: "Foxes, deer, doves, crows, and cows. We introduce the special good luck powers and healing secrets possessed by the cute animals (Shinshi) of the shrines!"

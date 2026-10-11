@@ -181,6 +181,8 @@ A. 北参道入口に駐車場（有料）があります。ただし周辺道�
 - [ローズクォーツの意味と効果](/blog/rose-quartz-meaning/) — 縁結びのお守り
 - [ムーンストーンの意味と効果](/blog/moonstone/) — 夫婦円満の石
 - [目的別パワーストーン総合ガイド](/blog/luck-powerstones-complete-guide/) — 縁結び・恋愛運の章に登場
+- [明治神宮と東大寺に込められた祈り](/blog/meijijingu-todaiji-powerspot/) — 二つのパワースポットを巡る
+- [東京パワースポット巡り](/blog/tokyo-powerspot-network/) — 東京全体を「光の結界」として楽しむ視点
 
 ## まとめ
 

@@ -318,6 +318,8 @@ A. 「ブレスレットという形態の中で何にするか」を迷って�
 - [パワーストーンの組み合わせ完全ガイド](/blog/powerstone-combinations/) — 2石・3石の設計
 - [パワーストーンの正しい身につけ方](/blog/how-to-wear-powerstones/) — 左右・形態別の身につけ方
 - [パワーストーンの浄化方法完全ガイド](/blog/purification-complete-guide/) — 10種類の浄化方法
+- [大人の男性に似合うパワーストーンの選び方](/blog/mens-powerstone-guide/) — ビジネスシーンでも浮かない石選び
+- [女性向けパワーストーンの選び方](/blog/womens-powerstone-guide/) — おしゃれに身につけるコツ
 
 ---
 
