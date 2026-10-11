@@ -98,7 +98,7 @@ draft: false
 - モルガナイトリング：**15,000〜80,000円**
 - ダイヤモンドリング：**50,000〜数百万円**（カラット・グレードで変動）
 
-> 💎 **ダイヤモンドのジュエリーをお探しの方へ**　天然ダイヤとは別に、人の手で育てた**ラボグロウンダイヤ**のジュエリーを扱うショップもあります。<a href="https://www.awin1.com/cread.php?awinmid=123706&amp;awinaffid=2869709&amp;ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds" rel="sponsored noopener nofollow" target="_blank">ラボグロウンダイヤのジュエリーを見る（Ouros Jewels）</a>（PR）
+> 💎 **ダイヤモンドのジュエリーをお探しの方へ**　天然ダイヤとは別に、人の手で育てた**ラボグロウンダイヤ**のジュエリーを扱うショップもあります。<a href="https://www.awin1.com/cread.php?awinmid=123706&amp;awinaffid=2869709&amp;ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds" rel="sponsored noopener nofollow" target="_blank">ラボグロウンダイヤのジュエリーを見る（Ouros Jewels）</a>（PR・海外ショップのため、価格は米ドル表示です）
 
 ## 豆知識・由来
 

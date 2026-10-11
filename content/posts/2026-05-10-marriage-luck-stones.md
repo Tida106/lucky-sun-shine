@@ -88,7 +88,7 @@ draft: false
 - **記念日のジュエリー**：周年ごとに1石ずつ増やす習慣
 - **家のリビングに置く**：家族全員の調和に
 
-> 💎 **ダイヤモンドの指輪やジュエリーも検討中の方へ**　天然ダイヤとは別に、人の手で育てた**ラボグロウンダイヤ**のジュエリーを扱うショップもあります。<a href="https://www.awin1.com/cread.php?awinmid=123706&amp;awinaffid=2869709&amp;ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds" rel="sponsored noopener nofollow" target="_blank">ラボグロウンダイヤのジュエリーを見る（Ouros Jewels）</a>（PR）
+> 💎 **ダイヤモンドの指輪やジュエリーも検討中の方へ**　天然ダイヤとは別に、人の手で育てた**ラボグロウンダイヤ**のジュエリーを扱うショップもあります。<a href="https://www.awin1.com/cread.php?awinmid=123706&amp;awinaffid=2869709&amp;ued=https%3A%2F%2Fwww.ourosjewels.com%2Fcollections%2Flab-grown-diamonds" rel="sponsored noopener nofollow" target="_blank">ラボグロウンダイヤのジュエリーを見る（Ouros Jewels）</a>（PR・海外ショップのため、価格は米ドル表示です）
 
 ## 開運アクション
 
