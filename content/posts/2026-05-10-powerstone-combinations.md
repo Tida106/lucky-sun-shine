@@ -39,7 +39,7 @@ draft: false
 
 ### 金運アップ
 
-- **[シトリン](/blog/citrine/) × [ルチルクォーツ](/blog/rutilated-quartz/)**：金運最強の王道コンビ
+- **[シトリン](/blog/citrine/) × [ルチルクォーツ](/blog/rutilated-quartz/)**：金運王道コンビ
 - **[タイガーアイ](/blog/tigers-eye/) × [シトリン](/blog/citrine/)**：決断と豊かさ
 - **[パイライト](/blog/pyrite/) × [シトリン](/blog/citrine/)**：邪気払いと金運
 
@@ -51,7 +51,7 @@ draft: false
 
 ### 守護・厄除け
 
-- **[モリオン](/blog/morion/) × [オブシディアン](/blog/obsidian/)**：最強クラスの邪気払い
+- **[モリオン](/blog/morion/) × [オブシディアン](/blog/obsidian/)**：屈指の邪気払い
 - **[オニキス](/blog/onyx/) × [ヘマタイト](/blog/hematite/)**：意志力とグラウンディング
 - **[水晶](/blog/clear-quartz/) × [スモーキークォーツ](/blog/smoky-quartz/)**：穏やかな日常守護
 
@@ -69,7 +69,7 @@ draft: false
 
 ### 直感・霊性
 
-- **[アメジスト](/blog/amethyst/) × [ラブラドライト](/blog/labradorite/)**：精神性と霊性の最強コンビ
+- **[アメジスト](/blog/amethyst/) × [ラブラドライト](/blog/labradorite/)**：精神性と霊性の定番コンビ
 - **[ムーンストーン](/blog/moonstone/) × [ラブラドライト](/blog/labradorite/)**：女性性と直感の覚醒
 - **[チャロアイト](/blog/charoite/) × [アメジスト](/blog/amethyst/)**：変容と精神性
 

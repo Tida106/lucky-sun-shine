@@ -64,7 +64,7 @@ draft: false
 
 **モリオン（黒水晶）**
 
-チベットやモンゴルで高僧の魔除けの石として大切にされてきたと伝わる漆黒の水晶。**「最強の魔除け石」**と称される長い歴史を持ち、節目の年や引っ越し直後の玄関のお守りに選ばれることが多い石です。
+チベットやモンゴルで高僧の魔除けの石として大切にされてきたと伝わる漆黒の水晶。**「定番の魔除け石」**と称される長い歴史を持ち、節目の年や引っ越し直後の玄関のお守りに選ばれることが多い石です。
 
 → [モリオンの意味・石言葉・効果](/blog/morion/)
 <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A2%E3%83%AA%E3%82%AA%E3%83%B3%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でモリオンを探す</a>
@@ -324,7 +324,7 @@ A. 「**身代わりに割れてくれた**」と前向きに受け止める伝�
 - [パワーストーンのお手入れガイド](/blog/powerstone-care-guide/) — 長く使うために
 - [水晶（クリスタル）の意味と効果](/blog/clear-quartz/) — 玄関の基本石
 - [ブラックトルマリンの意味と効果](/blog/black-tourmaline/) — 現代の魔除け定番
-- [モリオンの意味と効果](/blog/morion/) — 最強の魔除け石
+- [モリオンの意味と効果](/blog/morion/) — 定番の魔除け石
 - [シトリンの意味と効果](/blog/citrine/) — 金運の太陽石
 - [ローズクォーツの意味と効果](/blog/rose-quartz-meaning/) — 愛と調和の石
 - [セレナイトの意味と効果](/blog/selenite/) — 浄化の白い石

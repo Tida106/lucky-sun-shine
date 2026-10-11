@@ -73,7 +73,7 @@ draft: false
 - **適した人**：悪夢が多い、霊的に敏感
 
 <RelatedProducts 
-  heading="最強の邪気払い！寝室の結界を作るモリオン" 
+  heading="定番の邪気払い！寝室の結界を作るモリオン" 
   keywords="モリオン 黒水晶 原石" 
 />
 
