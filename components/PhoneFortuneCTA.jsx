@@ -7,7 +7,7 @@ const A8_IMPRESSION = 'https://www14.a8.net/0.gif?a8mat=4BCJJV+2W6VN6+1SZG+5ZMCI
 export default function PhoneFortuneCTA({
   lead,
   buttonText = '電話占いデスティニーで相談してみる',
-  note = '今なら無料登録で最大2,450円分のお試し鑑定サービス中!!💛',
+  note = '今なら無料登録で、お試し鑑定を体験できます💛(特典の内容は公式サイトでご確認ください)',
   className = '',
 }) {
   return (
