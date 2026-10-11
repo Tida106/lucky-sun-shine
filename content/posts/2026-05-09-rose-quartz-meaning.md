@@ -125,6 +125,8 @@ draft: false
 
 近年は人工的に色を強くした「ストロベリークォーツ」風のものも流通していますが、ストロベリークォーツは別鉱物（赤鉄鉱を内包する水晶）です。混同しないよう注意。
 
+> 🛒 **ローズクォーツのアイテムを探してみたい方へ**　<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%84%20%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でローズクォーツのブレスレットを探す</a>
+
 ## <span id="faq"></span>よくある質問（FAQ）
 
 **Q1. ローズクォーツは何年くらい持ち歩けば良いですか？**

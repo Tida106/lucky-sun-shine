@@ -140,6 +140,8 @@ draft: false
 - **泡の有無** — ガラスは内部に丸い泡が見えることがある（天然水晶のクラックは平面状）
 - 鑑別書付き・信頼できる専門店での購入が安心
 
+> 🛒 **水晶のアイテムを探してみたい方へ**　<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E6%99%B6%20%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場で水晶のブレスレットを探す</a>
+
 ## <span id="faq"></span>よくある質問（FAQ）
 
 **Q1. 水晶は浄化が必要ですか？**

@@ -137,6 +137,8 @@ draft: false
 - パイライトのキラキラがない場合は **ソーダライト** など別鉱物の可能性
 - 鑑別書付き・信頼できる専門店での購入が安心
 
+> 🛒 **ラピスラズリのアイテムを探してみたい方へ**　<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%94%E3%82%B9%E3%83%A9%E3%82%BA%E3%83%AA%20%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でラピスラズリのブレスレットを探す</a>
+
 ## <span id="faq"></span>よくある質問（FAQ）
 
 **Q1. ラピスラズリと青のソーダライトは何が違いますか？**

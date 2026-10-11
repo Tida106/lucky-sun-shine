@@ -115,6 +115,8 @@ draft: false
 - 樹脂の中に金線を入れた「人工ルチル」が安価で出回ることがある。光の角度で針の見え方が変わるかが見極めポイント。
 - ルチルクォーツ（針水晶）は人気の高い石ほど偽物が出回りやすい。鑑別書つき・信頼できる専門店での購入が安心。
 
+> 🛒 **ルチルクォーツのアイテムを探してみたい方へ**　<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AB%E3%83%81%E3%83%AB%E3%82%AF%E3%82%A9%E3%83%BC%E3%83%84%20%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でルチルクォーツのブレスレットを探す</a>
+
 ## よくある質問（FAQ）
 
 **Q. ルチルクォーツとタイチンルチルの違いは？**

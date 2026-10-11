@@ -93,6 +93,8 @@ draft: false
 - **流水も短時間ならOK**
 - **長時間の直射日光は避ける** — 退色のもと
 
+> 🛒 **タイガーアイのアイテムを探してみたい方へ**　<a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%A2%E3%82%A4%20%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AC%E3%83%83%E3%83%88%2F&link_type=text" rel="sponsored noopener" target="_blank">楽天市場でタイガーアイのブレスレットを探す</a>
+
 ## <span id="faq"></span>よくある質問（FAQ）
 
 **Q1. レッドタイガーアイ・ホークスアイは何が違いますか？**
