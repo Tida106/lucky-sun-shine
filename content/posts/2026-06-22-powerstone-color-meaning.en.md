@@ -1,5 +1,5 @@
 ---
-title: "The Meaning of Crystal Colors | Your Complete 8-Color Guide to Recommended Stones"
+title: "The Meaning of Crystal Colors"
 description: "Explore the traditional meanings associated with each color—pink, blue, green, yellow, purple, white, black, and red—and discover recommended stones for each. This comprehensive guide provides a quick reference chart of colors and purposes, allowing you to choose crystals based on your favorite hue or specific intentions."
 date: "2026-06-22"
 category: "powerstones"

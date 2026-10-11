@@ -1,5 +1,5 @@
 ---
-title: "Hieizan Enryakuji Temple: A Sacred Guide to the Mother Mountain of Japanese Buddhism, Founded by Saicho and Head Temple of Tendai Buddhism"
+title: "Hieizan Enryakuji Temple"
 description: >-
   A comprehensive guide to Hieizan Enryakuji Temple (Otsu City, Shiga Prefecture), covering its history, founder Saicho, Tendai Buddhism, the Three Pagodas (Todo, Saito, and Yokawa), the Eternal Flame of Konpon Chudo, the Sennichi Kaihogyo ascetic practice, key visiting points, access information, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'

@@ -1,5 +1,5 @@
 ---
-title: "Itsukushima Shrine Pilgrimage Guide | Complete Guide to Miyajima's Floating World Heritage Power Spot"
+title: "Itsukushima Shrine Pilgrimage Guide"
 description: "A comprehensive guide to Itsukushima Shrine (Miyajima-cho, Hatsukaichi City, Hiroshima Prefecture), covering its history, blessings, key pilgrimage points according to tidal changes, the Great Torii Gate, Mount Misen, recommended crystals, and nearby attractions. This is your essential guide to visiting the World Heritage shrine built by Taira no Kiyomori."
 date: "2026-05-10"
 updated: "2026-05-11"

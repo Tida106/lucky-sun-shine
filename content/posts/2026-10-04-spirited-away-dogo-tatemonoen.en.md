@@ -1,5 +1,5 @@
 ---
-title: "Pilgrimage and Good Luck: Exploring the Sites Connected to Spirited Away! The 'Misogi' Purification of the Gods and Cleansing Power Behind Dogo Onsen Honkan and the Edo-Tokyo Open Air Architectural Museum"
+title: "Pilgrimage and Good Luck"
 description: "Dogo Onsen Honkan and the Edo-Tokyo Open Air Architectural Museum are said to be among the inspirations for Spirited Away. Sun-chan explains the reverence for the gods and the purification ritual of Misogi behind these two sacred, cleansing power spots."
 date: "2026-10-04"
 category: "powerspots"

@@ -1,5 +1,5 @@
 ---
-title: "8 Crystals for Your Entrance: Feng Shui Placement Tips to Harmonize the 'Gateway of Ki' and a Directional Guide"
+title: "8 Crystals for Your Entrance"
 description: "The entrance is the 'gateway of Ki' where all energy enters your home."
 date: '2026-05-10'
 updated: '2026-05-23'

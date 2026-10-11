@@ -1,5 +1,5 @@
 ---
-title: "Lepidolite: Meaning, Stone Language, and Effects | The Lithium-Bearing 'Purple Mica for Mental Stability'"
+title: "Lepidolite: Meaning, Stone Language, and Effects"
 description: >-
   A comprehensive guide to Lepidolite, covering the origins of its stone meanings ('mental stability, transition support, hope'), its characteristics as a lithium-bearing mica group mineral, its reputed effects, compatible stones, care instructions, and frequently asked questions.
 date: '2026-05-26'

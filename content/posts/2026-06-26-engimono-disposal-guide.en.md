@@ -1,5 +1,5 @@
 ---
-title: "How to Properly Dispose of Lucky Charms, Omamori, and Crystals | A Complete Guide to Letting Go with Gratitude"
+title: "How to Properly Dispose of Lucky Charms, Omamori, and Crystals"
 description: "Resolve your worries about 'What if I'm punished for discarding it?'. This guide covers proper disposal methods for omamori, Daruma dolls, kumade rakes, Maneki-neko cats, and crystals by type, including when to let go, what to avoid, and the concept of welcoming new items after disposal."
 date: "2026-06-26"
 category: "lucky-goods"

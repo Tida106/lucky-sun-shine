@@ -1,5 +1,5 @@
 ---
-title: "Winter Crystals: A Seasonal Guide to Lucky Gems | Choosing Stones that Embrace Clear Stillness and Snowy Landscapes"
+title: "Winter Crystals: A Seasonal Guide to Lucky Gems"
 description: "A seasonal hub article organizing crystals traditionally cherished in winter."
 date: '2026-05-27'
 category: powerstones

@@ -1,5 +1,5 @@
 ---
-title: "October Birthstones | Opal, Tourmaline, and Rose Quartz: A Complete Guide to Their Meanings, Symbolic Properties, Effects, and How to Choose"
+title: "October Birthstones"
 description: >-
   A comprehensive guide to October's birthstones: Opal, Tourmaline, and Rose Quartz. We cover their symbolic meanings like 'hope, innocence, and good fortune' inherent in their rainbow play-of-color, their role as symbols of art and creativity, how to wear and care for them, tips for choosing birthday gifts, fascinating trivia, and FAQs.
 date: '2026-05-10'

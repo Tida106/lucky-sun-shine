@@ -1,5 +1,5 @@
 ---
-title: "April Birthstones: A Complete Guide to Diamond and Quartz (Crystal) - Meanings, Stone Lore, Benefits, and How to Choose"
+title: "April Birthstones: A Complete Guide to Diamond and Quartz (Crystal)"
 description: >-
   A comprehensive guide to April's birthstone, Diamond, and its alternative, Quartz (Crystal). Explore their meanings, "Unyielding Spirit, Purity, and Eternal Bond" lore, symbolism of the hardest gem, wearing tips, care, choosing for birthday gifts or engagement rings, fun facts, and FAQs.
 date: '2026-05-10'

@@ -1,5 +1,5 @@
 ---
-title: "Enoshima Shrine Visit Guide | Shonan's Maritime Sacred Site Honoring Japan's Three Great Benzaiten and Munakata Three Goddesses"
+title: "Enoshima Shrine Visit Guide"
 description: >-
   A comprehensive guide to Enoshima Shrine (Enoshima Island, Fujisawa City, Kanagawa Prefecture), covering its history, the Munakata Three Goddesses (Tagorihime-no-Mikoto, Ichikishimahime-no-Mikoto, Tagitsuhime-no-Mikoto), Hetsunomiya, Nakatsunomiya, Okutsunomiya, Japan's Three Great Benzaiten, key visiting points, access, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'

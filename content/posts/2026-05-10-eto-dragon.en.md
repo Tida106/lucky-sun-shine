@@ -1,5 +1,5 @@
 ---
-title: "Recommended Crystals for those Born in the Year of the Dragon | Zodiac Sign and Stone Compatibility"
+title: "Recommended Crystals for those Born in the Year of the Dragon"
 description: "A comprehensive guide to the compatibility between the majestic personality of those born in the Year of the Dragon and lapis lazuli, known as the 'King's Stone'. This guide covers complementary stones that support career advancement and spirituality, how to utilize them during a birth year, and even pilgrimage sites related to dragon deity worship. It's a complete guide for choosing an amulet to support this once-in-12-year milestone."
 date: "2026-05-10"
 updated: "2026-05-23"

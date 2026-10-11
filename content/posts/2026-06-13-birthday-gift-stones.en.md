@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Gifting Crystals for Birthdays | Birth Month Chart, How to Choose for Each Recipient, Form, Budget, and Etiquette"
+title: "The Complete Guide to Gifting Crystals for Birthdays"
 description: "A comprehensive guide to choosing crystals as birthday gifts. Includes a birthstone chart by birth month, considerations for different recipients (partners, friends, parents, children), a guide to forms and budgets, and gifting etiquette, all specifically for birthdays."
 date: "2026-06-13"
 category: "powerstones"

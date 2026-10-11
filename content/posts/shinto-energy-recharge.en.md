@@ -1,5 +1,5 @@
 ---
-title: "Boost Your Luck at Shrines! ✨ Discover Shinto's Gentle Healing Power: Gods are Super Fresh, Kind, and Ready to Recharge Your Energy ☀️"
+title: "Boost Your Luck at Shrines! ✨ Discover Shinto's Gentle Healing Power"
 description: "Gentle tips based on Shinto thinking for calming your mind and recharging your spirits during a shrine visit."
 date: "2026-09-18"
 category: "powerspots"

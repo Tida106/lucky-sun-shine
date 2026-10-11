@@ -1,5 +1,5 @@
 ---
-title: "Togakushi Shrine Pilgrimage Guide | Exploring Shinshu's Five Shrines, Famed for the Ama-no-Iwato Myth and Cedar Avenue"
+title: "Togakushi Shrine Pilgrimage Guide"
 description: >-
   A comprehensive guide to Togakushi Shrine (located in Togakushi, Nagano City, Nagano Prefecture, consisting of five shrines), covering its history, the Ama-no-Iwato myth, Okusha, Chusha, Hokosha, Kuzuryu-sha, Hinomikosha, the iconic cedar avenue, key pilgrimage points, access, recommended crystals, nearby attractions, and frequently asked questions.
 date: '2026-05-10'

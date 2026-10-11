@@ -1,5 +1,5 @@
 ---
-title: "Yakushima Pilgrimage Guide: A World Natural Heritage Site of Ocean Alps, Featuring Jomon Sugi and Shiratani Unsuikyo"
+title: "Yakushima Pilgrimage Guide"
 description: >-
   A comprehensive guide to Yakushima Island (Yakushima Town, Kumage District, Kagoshima Prefecture), covering its geology, World Natural Heritage status, Jomon Sugi, Shiratani Unsuikyo, Yaku Shrine, Mount Miyanoura, the 'Princess Mononoke' inspiration, Yakusugi Land, pilgrimage tips, access, recommended crystals, and FAQs.
 date: '2026-05-10'

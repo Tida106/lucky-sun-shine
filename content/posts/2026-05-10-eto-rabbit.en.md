@@ -1,5 +1,5 @@
 ---
-title: "Recommended Crystals for Those Born in the Year of the Rabbit | Zodiac and Stone Compatibility"
+title: "Recommended Crystals for Those Born in the Year of the Rabbit"
 description: "Discover the perfect crystal for those born in the Year of the Rabbit! This guide explores the gentle, optimistic nature of Rabbit-born individuals and their deep connection to rose quartz, often associated with the moon. Learn about stones that enhance love and harmony, how to make the most of your lucky zodiac year, and even sacred sites linked to moon worship. It's your complete guide to choosing a powerful amulet for this once-in-12-year milestone!"
 date: "2026-05-10"
 updated: "2026-05-23"

@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to 12-Month Birthstones | Your Monthly Stone, Meaning, Compatibility, and How to Wear Them"
+title: "Complete Guide to 12-Month Birthstones"
 description: "A comprehensive, one-page guide to birthstones from January to December, including their meanings, stone lore, compatible stones, and how to wear them."
 date: '2026-05-11'
 category: powerstones

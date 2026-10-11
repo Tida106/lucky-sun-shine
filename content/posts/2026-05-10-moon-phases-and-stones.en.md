@@ -1,5 +1,5 @@
 ---
-title: "Moon Phases and Crystals: A Complete Guide to Wishing, Cleansing, and Charging with the New Moon, First Quarter, Full Moon, and Last Quarter"
+title: "Moon Phases and Crystals"
 description: "A comprehensive guide on how to work with crystals according to the moon's phases."
 date: '2026-05-10'
 updated: '2026-05-23'

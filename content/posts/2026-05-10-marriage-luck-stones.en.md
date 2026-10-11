@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Marriage Luck: Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Marriage Luck"
 description: >-
   A comprehensive guide to crystals for those seeking to enhance their marriage luck. We delve into the meanings and effects of Morganite, Aquamarine, Peridot, Rose Quartz, Jade, and more. Learn how to choose stones for each stage—from dating and proposals to married life—plus ideal combinations, how to pair them with wedding rings, and a full FAQ.
 date: '2026-05-10'

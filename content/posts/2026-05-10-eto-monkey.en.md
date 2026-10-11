@@ -1,5 +1,5 @@
 ---
-title: "Recommended Crystals for the Year of the Monkey | Zodiac Animal and Stone Compatibility"
+title: "Recommended Crystals for the Year of the Monkey"
 description: "Discover the perfect crystals for those born in the Year of the Monkey! This guide explores the compatibility between their clever and sociable nature and Citrine, a stone of business prosperity. Learn about supporting stones for focus and networking, special uses for 'Eto-year' individuals, and sacred sites tied to Sannō Gongen worship. A complete guide to selecting charms that enhance the intellect and resourcefulness of this zodiac sign."
 date: "2026-05-10"
 updated: "2026-05-23"

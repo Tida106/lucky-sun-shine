@@ -1,5 +1,5 @@
 ---
-title: "Black Tourmaline: Meaning, Stone Properties, and Effects | The Classic Guardian Stone for Protection and EMF Shielding - 'Schorl'"
+title: "Black Tourmaline: Meaning, Stone Properties, and Effects"
 description: >-
   A comprehensive guide to Black Tourmaline (Schorl), the classic stone for protection and EMF shielding. Discover the origins of its properties like 'strong protection, purification, and grounding,' its place within the Tourmaline group, widely believed effects, compatible stones, care instructions, and FAQs.
 date: '2026-05-26'

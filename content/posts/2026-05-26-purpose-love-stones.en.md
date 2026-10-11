@@ -1,5 +1,5 @@
 ---
-title: Top 9 Popular Crystals for Boosting Love Luck | Classic Meanings, Stone Lore, Effects, and How to Choose
+title: "Top 9 Popular Crystals for Boosting Love Luck"
 description: Discover the top 9 classic crystals for enhancing your love life. This article serves as a hub, introducing you to each stone and linking to individual pages for detailed explanations.
 date: '2026-05-26'
 category: powerstones

@@ -1,5 +1,5 @@
 ---
-title: "Zodiac Stones and Crystals for Aquarius | Personality, Fortune, and an Amethyst-Centered Selection Guide"
+title: "Zodiac Stones and Crystals for Aquarius"
 description: >-
   This comprehensive guide explores recommended crystals that support the personality and fortune of Aquarius (Jan 20 - Feb 18). We cover everything from the guardian stone Amethyst to complementary stones like Aquamarine, Labradorite, and Fluorite, along with lucky colors, fortune-boosting actions, wearing tips, and FAQs.
 date: '2026-05-10'

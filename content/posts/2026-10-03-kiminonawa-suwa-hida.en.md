@@ -1,5 +1,5 @@
 ---
-title: "Pilgrimage and Good Luck: Exploring the Sites Connected to Your Name. | The 'Musubi' and Ancient Nature Worship Living On at Lake Suwa, Suwa Taisha Shrine, and Hida-Furukawa"
+title: "Pilgrimage and Good Luck: Exploring the Sites Connected to Your Name."
 description: "Lake Suwa, Suwa Taisha Shrine, and Hida-Furukawa are said to be among the inspirations behind Your Name. Sun-chan explains the view at Kataware-doki, the teaching of Musubi, the kumihimo braiding craft, and the good luck rooted in these sacred sites."
 date: "2026-10-03"
 category: "powerspots"

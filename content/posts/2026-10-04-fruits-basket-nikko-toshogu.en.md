@@ -1,5 +1,5 @@
 ---
-title: "Pilgrimage and Good Luck: Unlocking Nikko Toshogu Shrine Through Fruits Basket! The Healing Power Behind the 'Sleeping Cat's' Reversal and the Eight-Panel Story of the 'Three Wise Monkeys' ☀️"
+title: "Pilgrimage and Good Luck"
 description: "Nikko Toshogu Shrine echoes the Chinese zodiac myth at the heart of Fruits Basket. Sun-chan explains the healing power found in the story of the Sleeping Cat and the eight life-stage carvings of the Three Wise Monkeys at the Sacred Stable."
 date: "2026-10-04"
 category: "powerspots"

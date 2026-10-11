@@ -1,5 +1,5 @@
 ---
-title: "Libra's Zodiac and Crystals: Personality, Fortune, and a Rose Quartz-Focused Selection Guide"
+title: "Libra's Zodiac and Crystals"
 description: >-
   A comprehensive guide to recommended crystals that support the personality
   and fortune of Libra (Sep 23 - Oct 23). Centered around the guardian stone

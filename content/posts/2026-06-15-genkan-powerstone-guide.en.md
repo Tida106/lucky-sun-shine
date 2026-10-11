@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to Crystals for Your Entranceway: How to Choose, Place, and Care for Them by Purpose"
+title: "Complete Guide to Crystals for Your Entranceway"
 description: "The entranceway is considered the 'gateway of energy' for your home. This comprehensive guide focuses specifically on entranceway crystals, covering recommended stones for specific purposes (protection, wealth, relationships, and purification), placement tips, precautions, and care. Also includes hints for combining them with Feng Shui principles."
 date: "2026-06-15"
 category: "powerstones"

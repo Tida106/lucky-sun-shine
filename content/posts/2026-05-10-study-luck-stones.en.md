@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Study Luck: A Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Study Luck"
 description: >-
   A comprehensive guide to crystals for enhancing study luck. Covers the meanings and effects of Fluorite, Sodalite, Apatite, Lapis Lazuli, Garnet, and more, along with how to choose and combine them for different scenarios like exams, certifications, and language learning, plus tips for integrating them into your study space, and FAQs.
 date: '2026-05-10'

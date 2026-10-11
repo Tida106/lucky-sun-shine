@@ -1,5 +1,5 @@
 ---
-title: Crystals for Fertility and Safe Childbirth | Complete Guide to Meanings, Effects, and Combinations
+title: "Crystals for Fertility and Safe Childbirth"
 description: >-
   A comprehensive guide to crystals for those wishing for fertility and a safe childbirth. Covers the meanings and effects of Moonstone, Unakite, Chrysocolla, Rose Quartz, Malachite, and more, along with how to choose and combine them during fertility treatment, pregnancy, and postpartum, how to wear them around the abdomen, and FAQs.
 date: '2026-05-10'

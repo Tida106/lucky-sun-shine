@@ -1,5 +1,5 @@
 ---
-title: "When Your Crystal Breaks or Bracelet Snaps: Meaning, Solutions, and Why It's Not a Bad Omen"
+title: "When Your Crystal Breaks or Bracelet Snaps"
 description: "Did your stone break or your bracelet string snap? If you're searching with anxiety, this complete guide is for you. We gently cover physical causes, spiritual interpretations, four solutions (repair, cleanse, give thanks, or get a new one), knowledge about fragile stones, prevention tips, and FAQs. The bottom line: it's not an ominous sign."
 date: "2026-06-16"
 category: "powerstones"

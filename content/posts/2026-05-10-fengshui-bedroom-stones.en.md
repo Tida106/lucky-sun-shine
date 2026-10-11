@@ -1,5 +1,5 @@
 ---
-title: "7 Crystals for Your Bedroom: Feng Shui and Placement Guide for Better Sleep, Love Luck, and Nightmare Protection"
+title: "7 Crystals for Your Bedroom"
 description: "Your bedroom, where you spend a third of your day, is a charging station for your luck and energy."
 date: '2026-05-10'
 updated: '2026-05-23'

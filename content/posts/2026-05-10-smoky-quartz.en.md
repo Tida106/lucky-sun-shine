@@ -1,5 +1,5 @@
 ---
-title: "Smoky Quartz (Smoked Crystal): Meaning, Properties, and Effects | The Grounding Stone Supporting Your Connection to Reality"
+title: "Smoky Quartz (Smoked Crystal): Meaning, Properties, and Effects"
 description: "A comprehensive guide to Smoky Quartz (Smoked Crystal), covering its meaning, properties like 'warding off negativity, healing, and adapting to reality,' its effects, who it's recommended for, compatible stones, and purification methods."
 date: '2026-05-10'
 updated: '2026-05-23'

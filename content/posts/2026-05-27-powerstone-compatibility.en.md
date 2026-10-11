@@ -1,5 +1,5 @@
 ---
-title: "Crystal Compatibility and Combination Guide | How to Choose, What to Avoid, and Purpose-Specific Recipes"
+title: "Crystal Compatibility and Combination Guide"
 description: >-
   This How-To hub article explains crystal 'compatibility' from five perspectives: purpose, color, Five Elements, chakras, and hardness differences. It serves as an entry point for combinations, linking to individual stone pages.
 date: '2026-05-27'

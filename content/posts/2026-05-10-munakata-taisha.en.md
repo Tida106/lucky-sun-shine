@@ -1,5 +1,5 @@
 ---
-title: "Munakata Taisha Shrine Pilgrimage Guide | The Ocean's Grand Guardian Enshrining the Three Munakata Goddesses and Okinoshima, a World Heritage 'Island Where Gods Dwell'"
+title: "Munakata Taisha Shrine Pilgrimage Guide"
 description: >-
   A comprehensive guide to Munakata Taisha Shrine (Munakata City, Fukuoka Prefecture), covering its history, the Three Munakata Goddesses (Tagorihime-no-kami, Tagitsuhime-no-kami, and Ichikishimahime-no-kami), Hetsugu Shrine, Nakatsugu Shrine, Okitsugu Shrine, Okinoshima (the 'Island Where Gods Dwell'), its World Heritage status, national treasure artifacts, key pilgrimage points, access information, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'

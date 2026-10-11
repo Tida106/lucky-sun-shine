@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Your First Crystal: 4 Paths to Welcoming Your Initial Gem"
+title: "How to Choose Your First Crystal"
 description: >-
   An introductory guide for crystal beginners on choosing their "first one." This site-wide navigator helps you smoothly reach hub articles and individual stone pages from four routes: birthstone, purpose, intuition, and price.
 date: '2026-05-27'

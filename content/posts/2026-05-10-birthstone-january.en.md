@@ -1,5 +1,5 @@
 ---
-title: "January's Birthstone: A Complete Guide to Garnet's Meaning, Lore, Effects, and How to Choose"
+title: "January's Birthstone"
 description: "A comprehensive guide to Garnet, January's birthstone. Explore its deep red brilliance, gemstone lore ('fruition, victory, and passion'), its purported ability to turn effort into success, how to wear and care for it, tips for choosing a birthday gift, fun facts, and FAQs. An essential guide for January-born individuals seeking a protective charm."
 date: "2026-05-10"
 updated: "2026-05-24"

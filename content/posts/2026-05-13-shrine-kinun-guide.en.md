@@ -1,5 +1,5 @@
 ---
-title: "Top Shrines for Financial Luck and Business Prosperity | Benefits, Visiting Methods, and a Guide to Famous Shrines Across Japan"
+title: "Top Shrines for Financial Luck and Business Prosperity"
 description: "Discover a curated selection of Japan's most renowned shrines for financial luck and business prosperity. This page offers a comparative guide to major shrines like Enoshima Shrine, Itsukushima Shrine, Munakata Taisha, Kasuga Taisha, Omiwa Shrine, and Izumo Taisha, detailing their enshrined deities, origins of financial blessings, highlights, and visiting tips. An essential resource for those seeking business success, wealth, and accumulation of assets."
 date: "2026-05-13"
 updated: "2026-05-13"

@@ -1,5 +1,5 @@
 ---
-title: "9 Popular Crystals for Protection and Warding Off Evil | Meanings, Stone Lore, and How to Choose Your Talisman"
+title: "9 Popular Crystals for Protection and Warding Off Evil"
 description: >-
   A comprehensive introduction to 9 popular crystals traditionally cherished as talismans for protection, warding off evil, and purification. This article serves as a hub and gateway to individual pages detailing each stone for protection and spiritual cleansing.
 date: '2026-05-26'

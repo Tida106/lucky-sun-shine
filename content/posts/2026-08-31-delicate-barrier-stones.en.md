@@ -1,5 +1,5 @@
 ---
-title: "For Sensitive Souls: 3 Gentle Crystals to Protect You from Crowd Fatigue (If You Dislike Black Stones)"
+title: "For Sensitive Souls"
 description: "Do you feel utterly drained after being in crowds? Do you dislike protective stones because they are black and heavy? This is for sensitive souls like you! We introduce barrier stones like Oise-ishi, Prehnite, and Amber, which are light in appearance and gently protect you."
 date: "2026-08-31"
 category: "powerstones"

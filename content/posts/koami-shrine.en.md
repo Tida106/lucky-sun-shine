@@ -1,5 +1,5 @@
 ﻿---
-title: "A Hidden Oasis Between Skyscrapers: The Miraculous Survival and Money-Washing Secrets of Koami Shrine"
+title: "A Hidden Oasis Between Skyscrapers"
 description: "Koami Shrine in Tokyo's Nihonbashi, known for 'strong luck and protection.' Learn its history and the traditions of washing money."
 date: "2026-09-25"
 author: "Sun-chan"

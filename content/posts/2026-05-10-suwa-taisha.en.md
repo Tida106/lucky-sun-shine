@@ -1,5 +1,5 @@
 ---
-title: "A Comprehensive Guide to Suwa Grand Shrine: Visiting Four Shrines and the Onbashira Festival, Shinano Province's Ichinomiya"
+title: "A Comprehensive Guide to Suwa Grand Shrine"
 description: "Discover Suwa Grand Shrine, comprising four distinct shrines: Kamisha Honmiya, Kamisha Maemiya, Shimosha Akimiya, and Shimosha Harumiya. This definitive guide covers its rich history, the deities Take Minakata no Kami and Yasaka Tome no Kami, the famous Onbashira Festival, the traditional Four Shrines Pilgrimage, divine blessings, access information, recommended crystals, nearby attractions, and frequently asked questions. Everything you need to explore one of Japan's oldest shrines and Shinano Province's Ichinomiya!"
 date: "2026-05-10"
 updated: "2026-05-23"

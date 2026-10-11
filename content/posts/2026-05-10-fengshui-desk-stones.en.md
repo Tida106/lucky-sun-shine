@@ -1,5 +1,5 @@
 ---
-title: "7 Crystals for Your Home Office and Desk | A Quick Guide to Feng Shui Placement for Focus, Career Success, and Improved Relationships"
+title: "7 Crystals for Your Home Office and Desk"
 description: "A comprehensive guide to desk feng shui for the remote work era."
 date: '2026-05-10'
 updated: '2026-05-23'

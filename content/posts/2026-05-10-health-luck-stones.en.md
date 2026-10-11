@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Boosting Health and Well-being | Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Boosting Health and Well-being"
 description: "A comprehensive guide to crystals for enhancing health and well-being. Covers the meanings and effects of Aventurine, Amethyst, Larimar, Jade, Clear Quartz, how to choose stones for specific mind and body concerns, combinations, ways to incorporate them into your bedroom and bathroom, and FAQs. An essential resource for balancing your mind and body."
 date: "2026-05-10"
 updated: "2026-05-24"

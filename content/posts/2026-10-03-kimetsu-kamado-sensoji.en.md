@@ -1,5 +1,5 @@
 ---
-title: "Pilgrimage and Good Luck: Exploring the Sites Connected to Demon Slayer! The Truth Behind 'Sealing the Demon Gate and Warding Off Evil' at Kamado Shrine in Dazaifu and Senso-ji Temple"
+title: "Pilgrimage and Good Luck"
 description: "Kamado Shrine in Dazaifu and Senso-ji Temple in Tokyo are both known as pilgrimage sites for Demon Slayer fans. Sun-chan explains the good luck origins behind these two sacred sites, from sealing the demon gate and matchmaking to the guardian Wind and Thunder Gods."
 date: "2026-10-03"
 category: "powerspots"

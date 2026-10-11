@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Shrine Visits: Etiquette, Manners, and Recommended Shrines for Every Wish"
+title: "The Complete Guide to Shrine Visits"
 description: "A complete guide covering the correct etiquette for visiting shrines (temizu, two bows, two claps, one bow), essential items, dress code, basics of Goshuin and Omamori, and recommended shrines for specific wishes."
 date: '2026-05-12'
 updated: '2026-05-12'

@@ -1,5 +1,5 @@
 ---
-title: "Chubu Region Power Spot Shrines Guide: Blessings, Access, and Model Itineraries"
+title: "Chubu Region Power Spot Shrines Guide"
 description: "Discover the best power spot shrines in Japan's Chubu region. This guide compares the deities, blessings, highlights, access, and visiting tips for major shrines like Suwa Taisha, Togakushi Shrine (Nagano), and Fujisan Hongu Sengen Taisha (Shizuoka) all on one page. Your essential companion for a weekend trip to Nagano and Tokai's renowned shrines."
 date: "2026-05-14"
 updated: "2026-05-14"

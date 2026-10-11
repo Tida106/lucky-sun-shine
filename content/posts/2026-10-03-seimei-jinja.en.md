@@ -1,5 +1,5 @@
 ---
-title: "Seimei Shrine (Seimei Jinja) in Kyoto: Highlights and Blessings | The Ultimate Protection Power Spot of the Five-Pointed Star and Yin-Yang Five Elements"
+title: "Seimei Shrine (Seimei Jinja) in Kyoto: Highlights and Blessings"
 description: "Seimei Shrine in Kyoto enshrines the legendary onmyoji Abe no Seimei and is considered one of Japan's most powerful spots for warding off bad luck. Sun-chan explains its five-pointed star barrier, Seimei Well, and other highlights and blessings."
 date: "2026-10-03"
 category: "powerspots"

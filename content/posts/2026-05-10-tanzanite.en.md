@@ -1,5 +1,5 @@
 ---
-title: "Tanzanite: Meaning, Symbolism, and Effects | The 'New Time Stone' of the 20th Century"
+title: "Tanzanite: Meaning, Symbolism, and Effects"
 description: "A comprehensive guide to Tanzanite: its meaning, spiritual symbolism ('transformation, spirituality, new life'), effects, who it's recommended for, compatible stones, purification methods, and FAQs."
 date: '2026-05-10'
 updated: '2026-05-23'

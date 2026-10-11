@@ -1,5 +1,5 @@
 ---
-title: "Carnelian Meaning, Stone Properties, and Benefits | Napoleon's Scarlet Stone of Action and Achievement"
+title: "Carnelian Meaning, Stone Properties, and Benefits"
 description: "A comprehensive guide to Carnelian, covering its meaning, history, legends of action, victory, and achievement, harmonious combinations, mineral data, and frequently asked questions. This definitive guide will help you incorporate this scarlet stone, loved across ages from ancient Egyptian royal tombs to Napoleon's battlefields, into your daily life."
 date: "2026-05-10"
 updated: "2026-05-11"

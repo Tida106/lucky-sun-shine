@@ -1,5 +1,5 @@
 ---
-title: "Complete Feng Shui Guide: Crystal Placement by Room – A Quick Chart for 7 Spaces and Their Best Crystals"
+title: "Complete Feng Shui Guide: Crystal Placement by Room"
 description: "This complete guide, from a Feng Shui perspective, explains the optimal crystals and their placement for each of the 7 spaces in your home: entrance, living room, bedroom, home office, kitchen, bathroom, and children's room. It covers everything from combining stones with directions to important purification tips."
 date: "2026-06-10"
 category: "powerstones"

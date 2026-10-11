@@ -1,5 +1,5 @@
 ---
-title: "How to Dispose of Omamori (Charms) and Engimono (Lucky Charms) | A Complete Guide to Proper Procedures, Otakiage, and Dondo-yaki"
+title: "How to Dispose of Omamori (Charms) and Engimono (Lucky Charms)"
 description: "A comprehensive guide to disposing of old omamori (charms), ofuda (talismans), and other engimono (lucky charms). This practical resource covers shrine collection boxes, Dondo-yaki fire festivals, Otakiage (burning ritual) services, at-home purification methods (salt and white paper), what not to do, ideal timing, how to handle charms received from distant shrines, and answers to common questions."
 date: "2026-05-25"
 updated: "2026-05-25"

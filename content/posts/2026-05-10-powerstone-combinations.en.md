@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to Crystal Combinations | How to Combine 2 or 3 Stones for Synergy"
+title: "Complete Guide to Crystal Combinations"
 description: "Crystals are believed to unleash their true potential when combined in multiples rather than worn individually. This beginner's guide provides a complete explanation of ideal combinations for synergy, styles to avoid, harmony with colors and chakras, and precautions regarding hardness differences, all categorized by purpose."
 date: "2026-05-10"
 updated: "2026-05-23"

@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Career Success: A Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Career Success"
 description: >-
   A comprehensive guide to crystals for boosting your career success. This article thoroughly explains the meanings and effects of stones like Tiger's Eye, Citrine, Lapis Lazuli, Fluorite, and Onyx. Learn how to choose stones for different situations, create effective combinations, incorporate them into desk work, presentations, and interviews, and find answers to common questions.
 date: '2026-05-10'

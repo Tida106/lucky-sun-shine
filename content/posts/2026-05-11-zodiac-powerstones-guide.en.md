@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Zodiac Gemstones and Crystals for All 12 Signs | How to Choose Your Compatible Guardian Stone"
+title: "The Complete Guide to Zodiac Gemstones and Crystals for All 12 Signs"
 description: "This is a comprehensive guide on a single page, detailing the 'Main Stone,' 'Compatible Stones,' and 'Usage Tips' for each of the 12 zodiac signs. It's a permanent preservation edition, complete with classifications by fire, earth, air, and water elements, combinations of zodiac personality traits and guardian stones, connections with birth months, and a quick reference chart useful for gift selection."
 date: "2026-05-11"
 category: "powerstones"

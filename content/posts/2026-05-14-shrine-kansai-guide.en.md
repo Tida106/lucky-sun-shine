@@ -1,5 +1,5 @@
 ---
-title: "Kansai Power Spot Shrines Guide: Benefits, Access, and Model Itineraries"
+title: "Kansai Power Spot Shrines Guide"
 description: >-
   Discover the best power spot shrines in Kansai and Kinki regions. This guide compares seven prominent shrines: Ise Grand Shrine (Mie), Kasuga Taisha, Omiwa Shrine, Tamaki Shrine (Nara), Kurama-dera (Kyoto), Kumano Hongu Taisha (Wakayama), and Enryaku-ji on Mount Hiei (Shiga), detailing their enshrined deities, benefits, highlights, and access.
 date: '2026-05-14'

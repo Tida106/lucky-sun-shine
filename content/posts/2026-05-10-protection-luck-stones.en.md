@@ -1,5 +1,5 @@
 ---
-title: "Protection and Warding Off Stones | Complete Guide to Meanings, Effects, and Combinations"
+title: "Protection and Warding Off Stones"
 description: >-
   A comprehensive guide to crystals truly effective for protection and warding off evil. Covers the meanings and effects of Morion, Obsidian, Onyx, Hematite, Smoky Quartz, and more. Includes selection tips for specific situations like unlucky years, spiritual anxieties, and bad relationships, as well as combinations, how to use them in your entryway and car, and FAQs.
 date: '2026-05-10'

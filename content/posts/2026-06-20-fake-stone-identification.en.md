@@ -1,5 +1,5 @@
 ---
-title: "How to Spot Fake Crystals and Choose Authentic Ones | Understanding Imitations, Treated, and Synthetic Stones, and What to Do"
+title: "How to Spot Fake Crystals and Choose Authentic Ones"
 description: "Feeling anxious, wondering if your stone is real? This complete guide from Sun-chan gently explains the four types: glass imitations, dyed and treated stones, synthetic stones, and misnamed stones. Learn simple identification tips (weight, temperature, bubbles, color inconsistencies, and price), reliable methods like gemological reports, how to choose trusted sellers, and what to do if you find out your stone isn't authentic."
 date: "2026-06-20"
 category: "powerstones"

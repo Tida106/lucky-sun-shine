@@ -1,5 +1,5 @@
 ---
-title: "November Birthstones: Topaz and Citrine – Complete Guide to Their Meaning, Symbolism, Effects, and How to Choose"
+title: "November Birthstones: Topaz and Citrine"
 description: "A comprehensive guide to November's birthstones: Topaz and its parallel, Citrine. Discover their golden symbolism of 'friendship, hope, and success,' the traditions of prosperity, how to wear and care for them, tips for choosing birthday gifts, interesting facts, and FAQs. An essential resource for anyone born in November seeking a lifelong lucky charm."
 date: "2026-05-10"
 updated: "2026-05-24"

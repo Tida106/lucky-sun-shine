@@ -1,5 +1,5 @@
 ---
-title: "How to Choose a Maneki Neko: A Complete Guide to Colors, Paw Positions, Sizes, and Placement"
+title: "How to Choose a Maneki Neko"
 description: "This comprehensive guide fully explains the meaning and selection of Maneki Neko. It covers the differences between raised right and left paws, the benefits of various colors (white, calico, gold, black, pink, and more), sizes and origins, estimated prices, how to choose where to buy them (such as Amazon and Rakuten), care and disposal etiquette, and even frequently asked questions."
 date: "2026-05-25"
 updated: "2026-05-25"

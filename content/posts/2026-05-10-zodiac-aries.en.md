@@ -1,5 +1,5 @@
 ---
-title: "Aries Zodiac and Crystals: Personality, Luck, and a Carnelian-Focused Guide"
+title: "Aries Zodiac and Crystals"
 description: >-
   Discover recommended crystals to support the personality and luck of Aries (March 21 - April 19). This guide thoroughly covers guardian stone Carnelian, compatible stones like Garnet, Hematite, and Citrine, lucky colors, auspicious actions, how to wear them, and FAQs.
 date: '2026-05-10'

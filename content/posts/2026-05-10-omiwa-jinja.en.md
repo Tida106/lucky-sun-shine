@@ -1,5 +1,5 @@
 ---
-title: "Omiwa Shrine Worship Guide: One of Japan's Oldest Shrines, with Mount Miwa as its Sacred Body"
+title: "Omiwa Shrine Worship Guide"
 description: "This comprehensive guide covers the history, divine blessings, Mount Miwa faith, key worship points, Sai Shrine, the Medicinal Well, sacred mountain ascent (Tohhai), recommended crystals, and surrounding attractions of Omiwa Shrine (1422 Miwa, Sakurai City, Nara Prefecture). It's an essential resource for visiting a sacred site that continues to preserve one of Japan's oldest forms of primitive worship."
 date: "2026-05-10"
 updated: "2026-05-11"

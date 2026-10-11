@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to Crystals for Love Matchmaking and Attracting Encounters | Meanings and Uses of 6 Stones"
+title: "Complete Guide to Crystals for Love Matchmaking and Attracting Encounters"
 description: "A comprehensive explanation of 6 popular crystals cherished for good encounters and love matchmaking. This guide covers the meaning of each stone like Rose Quartz, Moonstone, and Labradorite, how to wear them, combining them with matchmaking shrines, and FAQs."
 date: "2026-07-04"
 category: "powerstones"

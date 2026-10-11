@@ -1,5 +1,5 @@
 ---
-title: "Sagittarius Zodiac Stones: Personality, Fortune, and a Turquoise-Focused Selection Guide"
+title: "Sagittarius Zodiac Stones"
 description: >-
   A comprehensive guide to crystals that support the personality and fortune of Sagittarius (November 23 - December 21). Focusing on turquoise as the guardian stone, this guide covers compatible stones like Lapis Lazuli, Citrine, and Sugilite, as well as lucky colors, auspicious actions, how to wear them, and FAQs.
 date: '2026-05-10'

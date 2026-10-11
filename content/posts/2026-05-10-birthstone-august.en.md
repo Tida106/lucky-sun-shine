@@ -1,5 +1,5 @@
 ---
-title: "August Birthstones | Peridot, Spinel, and Sardonyx: Complete Guide to Meanings, Healing Properties, Effects, and How to Choose"
+title: "August Birthstones"
 description: >-
   A comprehensive guide to August birthstones: Peridot, Spinel, and Sardonyx. Explore the meanings, healing properties (marital harmony, hope, and warding off evil), and effects of peridot, known as 'the evening emerald.' Learn how to wear and care for these stones, choose the perfect birthday gift, and discover fascinating facts and FAQs.
 date: '2026-05-10'

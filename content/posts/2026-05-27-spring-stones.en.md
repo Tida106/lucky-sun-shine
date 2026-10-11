@@ -1,5 +1,5 @@
 ---
-title: "Spring Crystals and Seasonal Lucky Gems Guide | Choosing Stones That Harmonize with Cherry Blossoms, Fresh Greenery, and Budding Colors"
+title: "Spring Crystals and Seasonal Lucky Gems Guide"
 description: "An organized seasonal hub article on crystals traditionally cherished in spring."
 date: '2026-05-27'
 category: powerstones

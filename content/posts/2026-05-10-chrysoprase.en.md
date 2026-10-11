@@ -1,5 +1,5 @@
 ---
-title: "Chrysoprase Meaning, Stone Properties, and Effects | The 'Stone of Growth' Sprouting Apple Green"
+title: "Chrysoprase Meaning, Stone Properties, and Effects"
 description: "A comprehensive guide to Chrysoprase (meaning, stone properties like 'Hope, New Love, and Growth,' and effects). Discover who it's for, compatible stones, and purification methods. Everything you need to know about this 'Stone of Growth' that sprouts apple green is right here."
 date: "2026-05-10"
 updated: "2026-05-23"

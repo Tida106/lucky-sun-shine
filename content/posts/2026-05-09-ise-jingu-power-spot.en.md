@@ -1,5 +1,5 @@
 ---
-title: "Ise Grand Shrine Pilgrimage Guide: Visiting Japan's Chief Guardian Deity and a Complete Guide to This Power Spot"
+title: "Ise Grand Shrine Pilgrimage Guide"
 description: "This comprehensive guide covers the history, blessings, official pilgrimage order (Geku to Naiku), nearby power spots, model itineraries, etiquette, and recommended crystals for Ise Grand Shrine, revered as 'Japan's Chief Guardian Deity.' It's an easy-to-understand, essential guide for first-time visitors."
 date: "2026-05-09"
 updated: "2026-05-11"

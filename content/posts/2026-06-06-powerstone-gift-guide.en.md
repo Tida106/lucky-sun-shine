@@ -1,5 +1,5 @@
 ---
-title: "Giving a Crystal as a Gift to Someone | Scene-Specific Gift Guide, Etiquette, and Budget Tips"
+title: "Giving a Crystal as a Gift to Someone"
 description: "This comprehensive guide covers how to choose and give crystals as gifts for various occasions: birthdays, romantic partners, new beginnings, baby showers, retirement, and Christmas. It provides tips on prioritizing the recipient's preferences, gift-giving etiquette, how the recipient can enjoy their stone, budget guidelines, what to do if the stone doesn't quite fit, and a FAQ, all presented in a neutral tone."
 date: "2026-06-06"
 category: "powerstones"

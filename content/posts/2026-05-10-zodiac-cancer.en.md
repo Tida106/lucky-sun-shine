@@ -1,5 +1,5 @@
 ---
-title: "Cancer Zodiac Stones and Crystals: Personality, Fortune, and a Moonstone-Centric Selection Guide"
+title: "Cancer Zodiac Stones and Crystals"
 description: >-
   A comprehensive guide to recommended crystals for Cancer (June 22 - July 22), supporting their personality and fortune. We cover guardian stone Moonstone, complementary stones like Rose Quartz, Pearl, and Kunzite, lucky colors, auspicious actions, how to wear them, and a detailed FAQ.
 date: '2026-05-10'

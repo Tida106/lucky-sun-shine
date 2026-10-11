@@ -1,5 +1,5 @@
 ---
-title: "Izumo Grand Shrine: A Complete Guide to Shimane's Sacred Site for Fate-Forging, Worship Etiquette, and Compatible Crystals"
+title: "Izumo Grand Shrine"
 description: "A comprehensive guide to Izumo Grand Shrine, covering its history, blessings, unique worship etiquette (two bows, four claps, one bow), highlights, access, worship during Kamiari-zuki, compatible crystals, and FAQs. This is your definitive resource to perfectly prepare for a visit to Japan's oldest sacred site for forging connections."
 date: "2026-05-10"
 updated: "2026-05-11"

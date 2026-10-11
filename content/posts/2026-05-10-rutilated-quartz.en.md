@@ -1,5 +1,5 @@
 ---
-title: "Rutilated Quartz (Needle Quartz): Meaning, Powers, and Effects | The 'Ultimate Prosperity Stone' with Golden Needles"
+title: "Rutilated Quartz (Needle Quartz): Meaning, Powers, and Effects"
 description: "Explore the comprehensive guide to Rutilated Quartz (Needle Quartz), covering its meaning, powers 'prosperity, success, good fortune,' effects, who it's for, compatible stones, and purification methods. Discover the foundations and practical applications of the 'Ultimate Prosperity Stone,' famed for its golden needles, all on this single page."
 date: "2026-05-10"
 updated: "2026-05-23"

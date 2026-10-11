@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Money Luck: A Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Money Luck"
 description: >-
   A comprehensive guide to crystals for those seeking to enhance their financial fortune. Covers the meanings and effects of stones like Citrine, Rutilated Quartz, Tiger's Eye, Pyrite, and Jade, as well as selection methods for different types, ideal combinations, ways to incorporate them into your wallet and desk, and a comprehensive FAQ.
 date: '2026-05-10'

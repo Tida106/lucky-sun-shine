@@ -1,5 +1,5 @@
 ---
-title: "[2026] Kyoto Night Illumination & Special Evening Openings: Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in, Kifune Shrine"
+title: "Kyoto Night Illumination & Special Evening Openings"
 description: "Kyoto night illumination 2026: dates, hours, fees and access for Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in and Kifune Shrine, plus what each light means."
 date: "2026-09-17"
 updated: "2026-10-07"

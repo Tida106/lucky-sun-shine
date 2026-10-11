@@ -1,5 +1,5 @@
 ---
-title: "Fujisan Hongu Sengen Taisha Shrine Pilgrimage Guide | Head Shrine of All Sengen Shrines, with Mount Fuji as its Sacred Deity"
+title: "Fujisan Hongu Sengen Taisha Shrine Pilgrimage Guide"
 description: "A comprehensive guide to Fujisan Hongu Sengen Taisha Shrine (1-1 Miyamae-cho, Fujinomiya City, Shizuoka Prefecture), covering its history, benefits, the legend of Konohanasakuyahime no Mikoto, Wakutama Pond, the Okumiya (Inner Shrine) at the summit, key points for worship, recommended crystals, and nearby attractions. This is your essential resource for visiting the heart of Mount Fuji's World Heritage worship."
 date: "2026-05-10"
 updated: "2026-05-11"

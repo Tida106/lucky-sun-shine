@@ -1,5 +1,5 @@
 ---
-title: "Rose Quartz Meaning, Benefits, and Symbolism | Complete Guide to Attracting Love and Cleansing"
+title: "Rose Quartz Meaning, Benefits, and Symbolism"
 description: "A comprehensive guide to rose quartz, exploring its crystal meaning, traditional benefits, practical ways to attract love, ideal pairings, mineral properties, and FAQs."
 date: '2026-05-09'
 updated: '2026-05-11'

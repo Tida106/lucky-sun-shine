@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Choosing Your Crystal: Find Your Perfect Match by Intuition, Birthstone, or Concern"
+title: "The Complete Guide to Choosing Your Crystal"
 description: "Discover how to find your true crystal among hundreds of varieties. This guide explores four approaches: intuition, birthstone, specific concerns, and color."
 date: "2026-05-10"
 category: "powerstones"

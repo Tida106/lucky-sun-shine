@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Career Change Luck | Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Career Change Luck"
 description: >-
   A comprehensive guide to crystals for boosting your career change luck. We cover the meanings and effects of stones like Tiger's Eye, Iolite, Carnelian, Lapis Lazuli, and Prehnite, plus how to choose them for different scenarios like job hunting, interviews, or starting your own business, along with combinations, tips for interviews and resumes, and FAQs.
 date: '2026-05-10'

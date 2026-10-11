@@ -1,5 +1,5 @@
 ---
-title: "Lemurian Quartz Meaning, Stone Language, and Effects | The 'Crystal of Lemuria' Carrying Ancient Memories"
+title: "Lemurian Quartz Meaning, Stone Language, and Effects"
 description: >-
   A comprehensive explanation of Lemurian Quartz, including the origin of its stone language ("Ancient Memory, Spiritual Awakening, Transmission of Love"), its characteristics as a special Brazilian crystal, the barcode-like striations on its crystal faces, its reputed effects, compatible stones, care methods, and frequently asked questions.
 date: '2026-05-26'

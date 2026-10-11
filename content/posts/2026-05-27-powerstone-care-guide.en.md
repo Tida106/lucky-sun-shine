@@ -1,5 +1,5 @@
 ---
-title: "Crystal Cleansing and Care Complete Guide | Method-Specific Steps and Stone-by-Stone Suitability Chart"
+title: "Crystal Cleansing and Care Complete Guide"
 description: >-
   A How-To hub article organizing crystal care into three stages: "daily cleaning, cleansing, and storage." This guide serves as an entry point for care, linking to individual pages for each stone.
 date: '2026-05-27'

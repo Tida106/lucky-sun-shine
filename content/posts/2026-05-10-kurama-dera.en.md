@@ -1,5 +1,5 @@
 ---
-title: "Kurama-dera Temple Visiting Guide | Sonten Faith and Kyoto's Most Powerful Spiritual Spot Associated with Ushiwakamaru"
+title: "Kurama-dera Temple Visiting Guide"
 description: >-
   A comprehensive guide to Kurama-dera Temple (Sakyo-ku, Kyoto Prefecture), covering its history, Sonten (Senju Kannon, Bishamonten, and Goho Maoson) faith, the Kongo-sho in front of the main hall, the Tree Root Path, Okunoin Maoden, the legend of Ushiwakamaru (Minamoto no Yoshitsune), the traverse route to Kifune Shrine, key visiting points, access, recommended crystals, and FAQs.
 date: '2026-05-10'

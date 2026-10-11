@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to Kyushu's Power Spot Shrines and Sacred Sites | Blessings, Access, and Model Itineraries"
+title: "Complete Guide to Kyushu's Power Spot Shrines and Sacred Sites"
 description: >-
   A curated introduction to Kyushu's top power spot shrines and sacred sites. This page compares the enshrined deities, blessings, highlights, access, and visiting tips for five major locations: Munakata Taisha (Fukuoka), Aso Shrine (Kumamoto), Kirishima Jingu (Kagoshima), Takachiho Gorge (Miyazaki), and Yakushima (Kagoshima).
 date: '2026-05-14'

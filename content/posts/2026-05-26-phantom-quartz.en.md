@@ -1,5 +1,5 @@
 ---
-title: "Phantom Quartz: Meaning, Gemstone Language, and Effects – The 'Mountain-Included Quartz' Symbolizing Growth and Breakthroughs"
+title: "Phantom Quartz: Meaning, Gemstone Language, and Effects"
 description: >-
   A comprehensive guide to Phantom Quartz (Mountain-Included Quartz), covering the origin of its gemstone language—'growth, progress, and breakthrough'—the mineralogical mechanism behind the mountain-shaped shadows within its crystals, its purported effects, compatible stones, care instructions, and frequently asked questions.
 date: '2026-05-26'

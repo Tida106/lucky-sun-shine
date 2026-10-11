@@ -1,5 +1,5 @@
 ---
-title: "Meiji Jingu Shrine Visitor's Guide | Tokyo's Largest Power Spot with 700,000 m² of Sacred Forest"
+title: "Meiji Jingu Shrine Visitor's Guide"
 description: "A comprehensive guide to Meiji Jingu Shrine (1-1 Yoyogi Kamizono-cho, Shibuya-ku, Tokyo), covering its history, blessings and benefits, key visiting points, Kiyomasa's Well, Meoto-Kusu (Married Couple Camphor Trees), New Year's visit crowd information, recommended crystals, and nearby spots. This is your definitive guide to fully experience the sacred forest just a minute's walk from Harajuku Station."
 date: "2026-05-10"
 updated: "2026-05-11"

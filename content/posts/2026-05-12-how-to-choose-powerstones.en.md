@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to Choosing Crystals: Find Your Perfect Stone by Purpose, Birthstone, Color, and Intuition"
+title: "Complete Guide to Choosing Crystals"
 description: "A complete guide to finding the one crystal that truly resonates with you, from hundreds of varieties available."
 date: '2026-05-12'
 updated: '2026-05-12'

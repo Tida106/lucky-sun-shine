@@ -1,5 +1,5 @@
 ---
-title: "7 Morning Habits to Boost Your Luck: A Complete Guide to a 15-Minute Good Fortune Routine You Can Start Today"
+title: "7 Morning Habits to Boost Your Luck"
 description: "Discover 7 simple morning habits to align your luck in just 15 minutes. Covering window opening, morning sunlight, warm water, entryway cleaning, smiling, gratitude, and lucky colors, this definitive guide provides scientific backing, practical tips for consistency, FAQs, and real examples to transform your day and life starting today."
 date: "2026-05-09"
 updated: "2026-05-23"

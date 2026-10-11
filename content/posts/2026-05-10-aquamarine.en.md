@@ -1,5 +1,5 @@
 ---
-title: "Aquamarine: Meaning, Lore, and Benefits | The Blue Stone of Peace and Marriage, Guarded by the Sea Goddess"
+title: "Aquamarine: Meaning, Lore, and Benefits"
 description: "Explore aquamarine's lore, history, and legends of marital bliss, communication, and safe voyages. This comprehensive guide covers compatible combinations, mineral data, and FAQs. Your definitive resource for incorporating this March birthstone and sea-blue gem into your life."
 date: "2026-05-10"
 updated: "2026-05-11"

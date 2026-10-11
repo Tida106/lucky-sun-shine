@@ -1,5 +1,5 @@
 ---
-title: "May Birthstones: The Complete Guide to Emerald and Jade – Meanings, Properties, Effects, and How to Choose"
+title: "May Birthstones: The Complete Guide to Emerald and Jade"
 description: >-
   A comprehensive guide to May's birthstones, Emerald and Jade. Explore the meanings and properties like 'good fortune, love, and eternal youth' embedded in these green gems, their symbolism as one of the world's Big Four gemstones, how to wear and care for them, tips for choosing a birthday gift, fun facts, and FAQs.
 date: '2026-05-10'

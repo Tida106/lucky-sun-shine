@@ -1,5 +1,5 @@
 ---
-title: "Meaning, Stone Properties, and Effects of Labradorite | The 'Stone of Spirituality and Intuition' Cradling the Aurora"
+title: "Meaning, Stone Properties, and Effects of Labradorite"
 description: "A comprehensive guide to Labradorite, covering its meaning, stone properties of 'Intuition, Spirituality, and Protection,' effects, who it's recommended for, compatible stones, and purification methods. Everything you need to know about the 'Stone of Spirituality and Intuition' that cradles the aurora, all on one page."
 date: "2026-05-10"
 updated: "2026-05-23"

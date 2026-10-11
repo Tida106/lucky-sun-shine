@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to Zodiac Crystals | Meanings, Compatibility, and Lucky Stones for Each Chinese Zodiac Sign"
+title: "Complete Guide to Zodiac Crystals"
 description: "Compare the personality, fortune, and most compatible crystals for each of the twelve Chinese zodiac signs (Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Sheep, Monkey, Rooster, Dog, and Boar) on a single page."
 date: '2026-05-11'
 updated: '2026-05-24'

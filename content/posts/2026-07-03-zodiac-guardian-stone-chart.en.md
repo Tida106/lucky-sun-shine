@@ -1,5 +1,5 @@
 ---
-title: "Zodiac Guardian Stones and Birthstones Chart | Find Your Sign's Protective Stone"
+title: "Zodiac Guardian Stones and Birthstones Chart"
 description: "An at-a-glance chart for guardian stones and complementary stones for all 12 zodiac signs, from Aries to Pisces. This comprehensive guide covers the differences between guardian stones and birthstones, their origins, and if anyone can use them."
 date: "2026-07-03"
 category: "powerstones"

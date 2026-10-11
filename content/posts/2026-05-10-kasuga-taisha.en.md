@@ -1,5 +1,5 @@
 ---
-title: "Kasuga Taisha Shrine Visiting Guide | A Fujiwara Clan Shrine in Nara Lit by 3,000 Lanterns"
+title: "Kasuga Taisha Shrine Visiting Guide"
 description: "A comprehensive guide to Kasuga Taisha Shrine (160 Kasuganocho, Nara City, Nara Prefecture), covering its history, blessings, visiting tips, Meoto Daikokusha Shrine, Mantoro Lantern Festival, sacred deer, recommended crystals, and nearby attractions. This is your essential guide for visiting a World Heritage site and a cultural asset of ancient Nara."
 date: "2026-05-10"
 updated: "2026-05-11"

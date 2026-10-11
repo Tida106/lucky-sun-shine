@@ -1,5 +1,5 @@
 ---
-title: "New Year and Hatsumode Crystal Guide | Choosing Stones Cherished for New Year's Wishes"
+title: "New Year and Hatsumode Crystal Guide"
 description: "An evergreen guide to crystals cherished for New Year's Day, Hatsumode (first shrine visit of the year), and other new year milestones."
 date: '2026-05-27'
 category: powerstones

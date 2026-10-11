@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Improving Relationships: A Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Improving Relationships"
 description: >-
   A comprehensive guide to crystals for enhancing relationships. It thoroughly explains the meanings and effects of Aquamarine, Rose Quartz, Amazonite, Sodalite, Agate, and other stones. The guide covers how to choose and combine them for various situations (work, family, friends), how to incorporate them into communication, and includes a detailed FAQ.
 date: '2026-05-10'

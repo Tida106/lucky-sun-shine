@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Lucky Habits: Cultivating Good Fortune Daily, Seasonally, and with Feng Shui and Kotodama"
+title: "The Ultimate Guide to Lucky Habits"
 description: "This comprehensive guide covers everything from daily morning and evening lucky routines and seasonal fortune-boosting actions, to Feng Shui living, the principles of Kotodama, and the Law of Attraction."
 date: '2026-05-12'
 updated: '2026-05-12'

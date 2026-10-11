@@ -1,5 +1,5 @@
 ---
-title: "February Birthstone | Complete Guide to Amethyst Meaning, Benefits, and How to Choose"
+title: "February Birthstone"
 description: "Discover everything about Amethyst, the February birthstone. Explore its meanings of true love, sincerity, and peace of mind, tips for stress relief and intuition, styling advice, care guides, gift ideas, and FAQs."
 date: '2026-05-10'
 updated: '2026-05-24'

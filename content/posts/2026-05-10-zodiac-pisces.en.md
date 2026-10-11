@@ -1,5 +1,5 @@
 ---
-title: "Pisces Birthstone and Crystal Guide: Personality, Fortune, and How to Choose Aquamarine and More"
+title: "Pisces Birthstone and Crystal Guide"
 description: >-
   A comprehensive guide to recommended crystals that support the personality and fortune of Pisces (February 19th - March 20th). This article covers everything from their guardian stone, Aquamarine, to compatible stones like Moonstone, Amethyst, and Labradorite, along with lucky colors, fortune-boosting actions, how to wear them, and FAQs.
 date: '2026-05-10'

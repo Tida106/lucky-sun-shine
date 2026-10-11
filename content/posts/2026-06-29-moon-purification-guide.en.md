@@ -1,5 +1,5 @@
 ---
-title: "Full Moon and New Moon Crystal Cleansing Guide: How to Reset Your Stones with Lunar Power"
+title: "Full Moon and New Moon Crystal Cleansing Guide"
 description: "A comprehensive guide to cleansing your crystals with moonlight during the full moon and new moon. Covers steps, timing, what to do on cloudy days, which stones are safe for moonlight cleansing (and important distinctions from sun cleansing), combining with crystal chips, and how to find monthly full and new moon dates."
 date: "2026-06-29"
 category: "powerstones"

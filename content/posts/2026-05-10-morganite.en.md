@@ -1,5 +1,5 @@
 ---
-title: "Morganite Meaning, Stone Lore, and Benefits: The Sister Stone to Aquamarine, Symbolizing Love and Marriage"
+title: "Morganite Meaning, Stone Lore, and Benefits"
 description: "Explore the comprehensive guide to Morganite (Morganite), including its meaning, stone lore ('Gentleness, Marriage, Fulfillment of Love') and effects, who it's recommended for, compatible stones, and purification methods. Discover the basics and practical uses of this 'stone of love and marriage,' a sister stone to Aquamarine, all on one page."
 date: "2026-05-10"
 updated: "2026-05-23"

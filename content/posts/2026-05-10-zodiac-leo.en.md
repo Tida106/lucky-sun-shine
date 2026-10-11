@@ -1,5 +1,5 @@
 ---
-title: "Leo Zodiac and Crystals: Personality, Fortune, and a Guide Focused on Tiger's Eye"
+title: "Leo Zodiac and Crystals"
 description: >-
   A comprehensive guide to recommended crystals that support the personality and luck of Leos (July 23 – August 22). This article covers everything from their guardian stone, Tiger's Eye, to compatible stones like Citrine, Sunstone, and Ruby, along with lucky colors, good luck actions, how to wear them, and FAQs.
 date: '2026-05-10'

@@ -1,5 +1,5 @@
 ---
-title: "Turquoise: Meaning, Stone Properties, and Effects – The 'Sky Stone' for Travel and the Sky"
+title: "Turquoise: Meaning, Stone Properties, and Effects"
 description: "A comprehensive guide to turquoise, covering its stone properties, history, legends related to travel protection, friendship, and purification, compatible combinations, mineral data, and frequently asked questions. This is an essential guide to incorporating the blue-green stone, beloved worldwide from ancient Egypt to Native Americans, into your life."
 date: "2026-05-10"
 updated: "2026-05-11"

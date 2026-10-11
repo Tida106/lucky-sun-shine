@@ -1,5 +1,5 @@
 ---
-title: "Imperial Topaz: Meaning, Symbolism, and Effects | The 'Stone of Success and Dignity' Beloved by Russian Emperors"
+title: "Imperial Topaz: Meaning, Symbolism, and Effects"
 description: "Explore the comprehensive guide to Imperial Topaz, covering its meaning, symbolism ('Emperor's Radiance, Success, Confidence'), effects, recommendations, compatible stones, and purification methods. This single page provides all the essential knowledge and practical insights into the 'Stone of Success and Dignity' cherished by Russian Emperors."
 date: "2026-05-10"
 updated: "2026-05-23"

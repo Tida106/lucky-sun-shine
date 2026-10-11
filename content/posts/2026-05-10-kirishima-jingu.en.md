@@ -1,5 +1,5 @@
 ---
-title: "Kirishima Jingu Pilgrimage Guide | Southern Kyushu's Vermilion Shrine Dedicated to Ninigi-no-Mikoto, the Protagonist of the Tenson Korin Myth"
+title: "Kirishima Jingu Pilgrimage Guide"
 description: >-
   A comprehensive guide to Kirishima Jingu (Kirishima City, Kagoshima Prefecture), covering its history, Ninigi-no-Mikoto, the Tenson Korin myth, the vermilion National Treasure shrine, Sakamoto Ryoma's honeymoon, Mt. Takachiho trailhead, key visiting points, access, recommended crystals, nearby attractions, and FAQs.
 date: '2026-05-10'

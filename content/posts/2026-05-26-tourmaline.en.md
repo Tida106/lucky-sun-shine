@@ -1,5 +1,5 @@
 ---
-title: "Tourmaline Meaning, Lore, and Benefits | The 100-Color 'Electric Stone' - An October Birthstone Guide"
+title: "Tourmaline Meaning, Lore, and Benefits"
 description: >-
   A comprehensive guide to Tourmaline, the October birthstone, covering the origins of its meanings 'Patience, Hope, and Generosity', its mineral properties as an 'electric stone', the significance of its various colors like black, pink, and watermelon, its attributed benefits, compatible stones, care instructions, and FAQs.
 date: '2026-05-26'

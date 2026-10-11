@@ -1,5 +1,5 @@
 ---
-title: "Tamaki Shrine Pilgrimage Guide | Kumano Sanzan's Inner Sanctuary, a 1,076m Sacred Site 'Only the Called Can Reach'"
+title: "Tamaki Shrine Pilgrimage Guide"
 description: >-
   A comprehensive guide to Tamaki Shrine (Totsukawa Village, Nara Prefecture), delving into its history, the deity Kuninotokotachi-no-Mikoto, its revered status as the inner sanctuary of Kumano Sanzan, the majestic 3,000-year-old Jindai Sugi cedar, the ancient Iwakura of Tamaishi-sha, the intriguing legend of 'the Called Shrine,' essential pilgrimage points, access information, recommended crystals, nearby attractions, and a detailed FAQ section.
 date: '2026-05-10'

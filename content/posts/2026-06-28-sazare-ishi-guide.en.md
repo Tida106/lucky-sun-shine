@@ -1,5 +1,5 @@
 ---
-title: "A Complete Guide to Sazare-ishi: Uses, Lifespan, Replacement, and Disposal"
+title: "A Complete Guide to Sazare-ishi"
 description: "Discover everything about Sazare-ishi! This comprehensive guide covers their uses (purification, decor, and amulets), recommendations for different types like clear quartz and amethyst, understanding their lifespan and when to replace them, and proper disposal methods for old stones. Perfect for beginners!"
 date: "2026-06-28"
 category: "powerstones"

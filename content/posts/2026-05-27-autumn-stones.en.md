@@ -1,5 +1,5 @@
 ---
-title: "Autumn Crystals and Seasonal Lucky Stone Guide | Choosing Stones to Embrace the Colors of Foliage and Harvest"
+title: "Autumn Crystals and Seasonal Lucky Stone Guide"
 description: "A hub article organizing crystals traditionally cherished in autumn."
 date: '2026-05-27'
 category: powerstones

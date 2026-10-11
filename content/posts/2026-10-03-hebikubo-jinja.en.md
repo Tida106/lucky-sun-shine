@@ -1,5 +1,5 @@
 ---
-title: "Tokyo's Most Powerful Money Luck Shrine: Hebikubo Shrine | The Secret of 'Rebirth and Success' Granted by the White Snake and Dragon God"
+title: "Tokyo's Most Powerful Money Luck Shrine: Hebikubo Shrine"
 description: "Hebikubo Shrine in Shinagawa, Tokyo, is home to a White Snake deity that sheds its skin and is reborn, and a Dragon God that ascends to the heavens. Sun-chan explains its highlights, including the snake-petting stone and the money-washing ritual, and its blessings for wealth and career success."
 date: "2026-10-03"
 category: "powerspots"

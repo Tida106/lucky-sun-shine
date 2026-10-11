@@ -1,5 +1,5 @@
 ---
-title: "Mitsumine Shrine Visitor's Guide | Chichibu's Premier Power Spot, Known for 'Oin-sama' Wolf Worship and Its Unique Triple Torii Gate"
+title: "Mitsumine Shrine Visitor's Guide"
 description: "A comprehensive guide to Mitsumine Shrine (Chichibu City, Saitama Prefecture), covering its history, Izanagi-no-Mikoto and Izanami-no-Mikoto, 'Oin-sama' (sacred wolf) worship, the triple torii gate, Kimamori amulets, the inner shrine (Okumiya), visiting tips, access, recommended crystals, nearby spots, and FAQs. Your essential companion for visiting this sacred site at an altitude of 1,100 meters."
 date: "2026-05-10"
 updated: "2026-05-23"

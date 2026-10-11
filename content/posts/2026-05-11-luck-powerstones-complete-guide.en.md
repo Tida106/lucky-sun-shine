@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Crystal Guide by Purpose: Guardian Stones for Love, Wealth, Career, Health, and 10 Categories"
+title: "The Ultimate Crystal Guide by Purpose"
 description: "Discover crystals traditionally associated with 10 key areas: love, wealth, career, health, relationships, marriage, studies, fertility, protection, and career changes, all in one comprehensive guide."
 date: '2026-05-11'
 category: powerstones

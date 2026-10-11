@@ -1,5 +1,5 @@
 ---
-title: "Alexandrite: Meanings, Properties, and Effects | June's Birthstone and the 'Emperor's Stone' with Day-to-Night Color Change"
+title: "Alexandrite: Meanings, Properties, and Effects"
 description: >-
   A comprehensive guide to Alexandrite, June's birthstone, covering the origins of its gemstone meanings 'Hidden Passion, Transformation, Premonition,' its characteristics as a chrysoberyl mineral, the reason for its day-to-night color change (green to red), its purported effects, complementary stones, care methods, and frequently asked questions.
 date: '2026-05-26'

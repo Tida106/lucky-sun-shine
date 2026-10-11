@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Crystal Cleansing: 10 Methods and Stone-Specific Suitability"
+title: "The Complete Guide to Crystal Cleansing"
 description: "This complete guide explains all 10 crystal cleansing methods, including step-by-step instructions for methods like clear quartz chips, white sage, and moonlight bathing. It also includes a quick reference chart for stones sensitive to water, salt, or direct sunlight, cleansing frequency, and actions to avoid. Read this, and you'll never be confused about cleansing again."
 date: "2026-05-10"
 updated: "2026-05-23"

@@ -1,5 +1,5 @@
 ---
-title: "Seraphinite: Meaning, Stone Lore, and Effects | The 'High-Vibration Healing Stone' with Angelic Feathers"
+title: "Seraphinite: Meaning, Stone Lore, and Effects"
 description: "A comprehensive guide to Seraphinite, covering its meaning, stone lore ('Angels, High-Vibration Healing, Spirituality'), effects, who it's recommended for, compatible stones, and purification methods. Discover the fundamentals and practical uses of this 'High-Vibration Healing Stone' that carries angelic feathers, all on this single page."
 date: "2026-05-10"
 updated: "2026-05-23"

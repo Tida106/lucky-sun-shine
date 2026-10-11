@@ -1,5 +1,5 @@
 ---
-title: "Recommended Crystals for Rooster-Born Individuals | Chinese Zodiac and Stone Compatibility"
+title: "Recommended Crystals for Rooster-Born Individuals"
 description: "Discover the compatibility between the meticulous and far-sighted personality of those born in the Year of the Rooster and Sodalite, known as the stone of logic. This complete guide to choosing an amulet for this zodiac sign, which symbolizes the power of 'taking in' fortune, covers supportive stones for business prosperity, the culture of Tori-no-Ichi (Rooster Market), and how to make the most of your zodiac year."
 date: "2026-05-10"
 updated: "2026-05-23"

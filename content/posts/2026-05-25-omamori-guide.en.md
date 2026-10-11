@@ -1,5 +1,5 @@
 ---
-title: "A Complete Guide to Omamori: Types, How to Choose, Carrying Multiple, and Proper Disposal"
+title: "A Complete Guide to Omamori"
 description: "A comprehensive guide to Omamori (Japanese amulets and charms), covering their types and how to choose them. This practical guide details Omamori for various blessings (good fortune, warding off evil, matchmaking, wealth, academic success, health, and traffic safety), popular shrine-specific Omamori, rules for carrying multiple charms, typical offering fees, proper handling, the one-year return ritual, and common FAQs."
 date: "2026-05-25"
 updated: "2026-05-25"

@@ -1,5 +1,5 @@
 ---
-title: "Rhodochrosite (Inca Rose): Meaning, Stone Powers, and Effects | The Legendary Inca Stone Bringing a 'Rose-Colored Life'"
+title: "Rhodochrosite (Inca Rose): Meaning, Stone Powers, and Effects"
 description: >-
   Explore the comprehensive meaning, stone powers ('Passionate Love, Soulmate, Rose-Colored Life'), and effects of Rhodochrosite (Inca Rose). Discover who it's for, compatible stones, and proper purification methods.
 date: '2026-05-10'

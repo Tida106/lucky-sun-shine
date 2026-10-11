@@ -1,5 +1,5 @@
 ---
-title: "Top 9 Popular Crystals for Financial Luck: Meanings, Properties, Effects, and Selection Guide"
+title: "Top 9 Popular Crystals for Financial Luck"
 description: "Discover 9 classic crystals revered for attracting financial luck. This hub article serves as your gateway to the world of prosperity stones, with links to detailed guides for each."
 date: '2026-05-26'
 category: powerstones

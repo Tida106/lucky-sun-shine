@@ -1,5 +1,5 @@
 ---
-title: "Takachiho Gorge Pilgrimage Guide | The Mythical Land of Tenson Kōrin, Famous for its Columnar Joints and Manai Falls"
+title: "Takachiho Gorge Pilgrimage Guide"
 description: >-
   A comprehensive guide to Takachiho Gorge (Takachiho Town, Nishiusuki District, Miyazaki Prefecture), covering its geology, the Tenson Kōrin myth, Manai Falls, rental boats, Takachiho Shrine, Yokagura (night rituals), Amano Iwato Shrine, Amanoyasukawara, key visiting points, access, recommended crystals, nearby spots, and FAQs.
 date: '2026-05-10'

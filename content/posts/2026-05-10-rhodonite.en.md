@@ -1,5 +1,5 @@
 ---
-title: "Rhodonite: Meaning, Stone Words, and Effects | The 'Stone of Forgiveness' for Renewing Wounded Love"
+title: "Rhodonite: Meaning, Stone Words, and Effects"
 description: "A comprehensive guide to Rhodonite's meaning, stone words ('Forgiveness,' 'Brotherly Love,' and 'Renewal'), effects, recommendations, compatible stones, and purification methods. This one-page resource covers the basics and practical uses of the 'Stone of Forgiveness' that renews wounded love."
 date: "2026-05-10"
 updated: "2026-05-23"

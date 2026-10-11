@@ -1,5 +1,5 @@
 ---
-title: "Pietersite Meaning, Stone Properties, and Effects | The 'Tempest Stone' for Navigating Change"
+title: "Pietersite Meaning, Stone Properties, and Effects"
 description: >-
   A comprehensive guide to Pietersite, covering its stone properties 'adaptability to change, calmness in the storm, and awakening intuition,' its unique characteristics as a stone containing fibrous amphibole, how its chatoyancy (cat's eye effect) manifests, its purported effects, compatible stones, care methods, and frequently asked questions.
 date: '2026-05-26'

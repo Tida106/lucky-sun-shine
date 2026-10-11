@@ -1,5 +1,5 @@
 ---
-title: "Crystals for Love Luck | Complete Guide to Meanings, Effects, and Combinations"
+title: "Crystals for Love Luck"
 description: >-
   A comprehensive guide to crystals for enhancing love luck. Covers the meanings and effects of Rose Quartz, Rhodochrosite, Moonstone, Kunzite, Garnet, and more, along with phase-specific selections, combinations, how to wear them, and a full FAQ.
 date: '2026-05-10'

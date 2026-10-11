@@ -1,5 +1,5 @@
 ---
-title: "Wallet Colors and Crystal Combinations for Boosting Financial Luck | Color Compatibility Guide, Lifespan, and Replacement Timing"
+title: "Wallet Colors and Crystal Combinations for Boosting Financial Luck"
 description: "Yellow, brown, green, black, pink—this complete guide explains the Feng Shui meanings of each wallet color, their compatible crystals, and covers everything from wallet lifespan (approx. 3 years is a guide) and replacement signs to choosing stones for your wallet, preventing scratches, and purification tips. It's your ultimate guide to wallet and stone combinations!"
 date: "2026-06-11"
 category: "powerstones"

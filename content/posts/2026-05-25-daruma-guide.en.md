@@ -1,5 +1,5 @@
 ---
-title: "How to Choose a Daruma Doll: A Complete Guide to Colors, Origins, Eye-Painting Rituals, and Where to Buy"
+title: "How to Choose a Daruma Doll"
 description: "A complete guide to the meaning and selection of Daruma dolls. This practical guide covers benefits by color (red, white, gold, black, pink, and more), characteristics by origin (Takasaki, Matsukawa, Goshiki, Shirakawa, and more), size, eye-painting rituals for making wishes, market prices, where to buy, how to display, and Daruma doll memorial services."
 date: "2026-05-25"
 updated: "2026-05-25"

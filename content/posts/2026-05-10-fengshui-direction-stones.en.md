@@ -1,5 +1,5 @@
 ---
-title: "Feng Shui Directional Crystals: A Quick Guide to Eight Directions, Five Elements, and Wish-Specific Placement"
+title: "Feng Shui Directional Crystals"
 description: >-
   Explore the ultimate quick reference for optimal crystal placement according to Feng Shui's Eight Directions (North, Northeast, East, Southeast, South, Southwest, West, Northwest). From North for career and South for reputation, to Southeast for wealth and East for health – this guide helps you find the perfect stone based on your desired direction and wish.
 date: '2026-05-10'

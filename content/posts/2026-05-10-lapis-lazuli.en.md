@@ -1,5 +1,5 @@
 ---
-title: "Lapis Lazuli: Meaning, Lore, and Effects | The 'Sky-Embodying Stone' Loved Since Ancient Egypt"
+title: "Lapis Lazuli: Meaning, Lore, and Effects"
 description: "A comprehensive guide to Lapis Lazuli's lore, history, traditional effects, how to use it at life's turning points, suitable combinations, mineralogical characteristics, and frequently asked questions. This is your definitive guide to incorporating the world's oldest crystal, cherished even by Tutankhamun, into your daily life."
 date: "2026-05-10"
 updated: "2026-05-11"

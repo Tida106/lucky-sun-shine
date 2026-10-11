@@ -1,5 +1,5 @@
 ---
-title: "9 Crystals Cherished for Health and Well-being: Meanings as Talismans, Stone Properties, and How to Choose"
+title: "9 Crystals Cherished for Health and Well-being"
 description: >-
   An introduction to 9 types of crystals cherished since ancient times as talismans for mental and physical well-being. This hub article focuses on how to enjoy them as protective charms, not as substitutes for medical treatment.
 date: '2026-05-26'

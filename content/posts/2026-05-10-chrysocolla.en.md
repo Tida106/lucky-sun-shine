@@ -1,5 +1,5 @@
 ---
-title: "Chrysocolla: Meaning, Properties, and Benefits | The Feminine Stone Symbolizing 'Mother Earth'"
+title: "Chrysocolla: Meaning, Properties, and Benefits"
 description: "Explore Chrysocolla's meaning, properties like 'femininity, Mother Earth, and communication,' along with its benefits, ideal users, compatible stones, and purification methods. This page provides a complete guide to Chrysocolla, the feminine stone symbolizing 'Mother Earth.'"
 date: "2026-05-10"
 updated: "2026-05-23"

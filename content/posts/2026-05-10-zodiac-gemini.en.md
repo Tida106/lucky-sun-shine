@@ -1,5 +1,5 @@
 ---
-title: "Gemini Zodiac Gemstones and Crystals: Personality, Fortune, and a Guide Centered on Citrine"
+title: "Gemini Zodiac Gemstones and Crystals"
 description: >-
   This comprehensive guide delves into recommended crystals that support the personality and fortune of Geminis (May 21 – June 21). It covers everything, from the guardian stone Citrine to complementary stones like Aquamarine, Agate, and Tiger's Eye, lucky colors, good luck actions, how to wear them, and frequently asked questions.
 date: '2026-05-10'

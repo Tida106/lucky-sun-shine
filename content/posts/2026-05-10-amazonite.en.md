@@ -1,5 +1,5 @@
 ---
-title: "Amazonite Meaning, Gemstone Lore, and Effects | The 'Stone of Hope and Courage' Bearing the Legend of Amazonian Warrior Women"
+title: "Amazonite Meaning, Gemstone Lore, and Effects"
 description: "A comprehensive guide to Amazonite's gemstone lore, history, legends of hope, courage, and self-expression, complementary combinations, mineral data, and frequently asked questions. This is your definitive resource for incorporating the blue-green stone, named after the Amazonian warrior women, into your life."
 date: "2026-05-10"
 updated: "2026-05-11"

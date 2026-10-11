@@ -1,5 +1,5 @@
 ---
-title: "Bloodstone Meaning, Symbolism, and Benefits | March Birthstone: 'Sun's Blood' Bestowing Courage and Decisiveness"
+title: "Bloodstone Meaning, Symbolism, and Benefits"
 description: >-
   A comprehensive guide to Bloodstone, the March birthstone, covering the origins of its meanings like 'courage, devotion, and decisiveness,' its characteristics as a chalcedony variety known as Heliotrope, its reputed benefits, complementary stones, care instructions, and FAQs.
 date: '2026-05-26'

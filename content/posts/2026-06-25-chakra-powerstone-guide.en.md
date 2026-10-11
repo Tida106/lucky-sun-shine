@@ -1,5 +1,5 @@
 ---
-title: "The Connection Between Chakras and Crystals: A Guide to Stones for All 7 Chakras"
+title: "The Connection Between Chakras and Crystals"
 description: "An easy-to-understand guide for beginners, explaining the 7 chakras originating from traditional Indian thought and the crystals associated with each chakra. Includes a quick reference chart by color, tips on choosing stones, and how to use them in meditation."
 date: "2026-06-25"
 category: "powerstones"

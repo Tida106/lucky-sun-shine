@@ -1,5 +1,5 @@
 ---
-title: "Malachite: Its Meaning, Gemstone Language, and Effects | The 'Danger-Detecting Amulet Stone' with All-Seeing Eyes"
+title: "Malachite: Its Meaning, Gemstone Language, and Effects"
 description: "This comprehensive guide delves into malachite's gemstone language, history, and legends surrounding its abilities for danger detection, healing, and maternal love. You'll find information on compatible pairings, mineral data, and frequently asked questions. It's your definitive resource for incorporating this deep green stone, cherished as a protective amulet for children from ancient Egypt to medieval Russia, into your daily life."
 date: "2026-05-10"
 updated: "2026-05-11"

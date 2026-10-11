@@ -1,5 +1,5 @@
 ---
-title: "Summer Crystal Guide: Seasonal Lucky Stones and How to Choose Gems Embracing Coolness and Solar Power"
+title: "Summer Crystal Guide"
 description: "A seasonal hub article organizing crystals traditionally cherished in summer."
 date: '2026-05-27'
 category: powerstones

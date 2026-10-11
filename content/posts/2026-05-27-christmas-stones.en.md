@@ -1,5 +1,5 @@
 ---
-title: "Christmas Crystal Gift Guide: Choosing Stones for Loved Ones, Family, and Friends"
+title: "Christmas Crystal Gift Guide"
 description: "A guide to popular crystals for Christmas gifts, organized by recipient (partners, family, and friends)."
 date: '2026-05-27'
 category: powerstones

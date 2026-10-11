@@ -1,5 +1,5 @@
 ---
-title: "Kanto's Power Spot Shrines: A Complete Guide to Benefits, Access, and Model Itineraries"
+title: "Kanto's Power Spot Shrines"
 description: "Discover carefully selected power spot shrines in the Kanto region. This guide compares the enshrined deities, benefits, highlights, access, and visiting tips for major shrines like Meiji Jingu (Tokyo), Enoshima Shrine (Kanagawa), and Mitsumine Shrine (Saitama) all on one page. Your essential guide for day trips and weekend tours of Kanto's renowned shrines."
 date: "2026-05-14"
 updated: "2026-05-14"

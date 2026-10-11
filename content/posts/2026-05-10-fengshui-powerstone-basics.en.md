@@ -1,5 +1,5 @@
 ---
-title: "Feng Shui and Crystals: A Beginner's Guide to Arranging Stones for Harmonious Energy Flow"
+title: "Feng Shui and Crystals"
 description: "A complete beginner's guide to combining Feng Shui and crystals to harmonize the energy ('Ki') in your home or office."
 date: '2026-05-10'
 updated: '2026-05-23'

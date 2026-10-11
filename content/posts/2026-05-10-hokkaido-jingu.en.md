@@ -1,5 +1,5 @@
 ---
-title: "Hokkaido Jingu Shrine Visiting Guide | Sapporo's Grand Guardian Shrine Carrying the Spirit of Frontier Development"
+title: "Hokkaido Jingu Shrine Visiting Guide"
 description: "A comprehensive guide to Hokkaido Jingu Shrine (474 Miyagaoka, Chuo-ku, Sapporo, Hokkaido), covering its history, blessings, the Three Kami of Frontier Development, visiting tips, Maruyama Park, Hangan-sama mochi, cherry blossoms, recommended crystals, and nearby attractions. This is your essential guide to visiting Hokkaido's grand guardian shrine."
 date: "2026-05-10"
 updated: "2026-05-11"

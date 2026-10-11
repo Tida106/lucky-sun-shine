@@ -1,5 +1,5 @@
 ---
-title: "Top Shrines for Love and Relationships: A Guide to Blessings, Worship, and Famous Sites Nationwide"
+title: "Top Shrines for Love and Relationships"
 description: "Discover a curated selection of famous shrines across Japan known for matchmaking and relationship success. This guide compares the enshrined deities, origins of their love blessings, highlights, and worship tips for major shrines like Izumo Taisha, Meiji Jingu, Enoshima Jinja, Aso Jinja, and Omiwa Jinja, all on one page. An essential resource for anyone wishing for good relationships, romantic success, or marital harmony."
 date: "2026-05-13"
 updated: "2026-05-13"

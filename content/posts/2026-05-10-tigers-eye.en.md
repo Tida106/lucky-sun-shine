@@ -1,5 +1,5 @@
 ---
-title: "Tiger's Eye: Meaning, Stone Lore, and Effects | The 'Stone of Decision and Financial Fortune' that Sees Through with the Tiger's Eye"
+title: "Tiger's Eye: Meaning, Stone Lore, and Effects"
 description: "A comprehensive guide to Tiger's Eye, covering its stone lore, history, traditional effects, methods for boosting career and financial luck, compatible pairings, mineral data, and frequently asked questions. This is an essential guide for incorporating this beloved classic stone, cherished by everyone from ancient Roman soldiers to modern business professionals, into your daily life."
 date: "2026-05-10"
 updated: "2026-05-11"

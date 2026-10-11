@@ -1,5 +1,5 @@
 ---
-title: "Scorpio Zodiac Stones and Crystals | A Guide to Personality, Fortune, and Obsidian-Centric Choices"
+title: "Scorpio Zodiac Stones and Crystals"
 description: >-
   A comprehensive guide to recommended crystals that support the personality and fortune of Scorpios (Oct 24 - Nov 22). Centering on their guardian stone Obsidian, this guide covers compatible stones like Charoite, Garnet, and Labradorite, along with lucky colors, fortune-boosting actions, how to wear them, and FAQs.
 date: '2026-05-10'

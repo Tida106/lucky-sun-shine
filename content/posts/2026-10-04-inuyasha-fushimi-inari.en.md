@@ -1,5 +1,5 @@
 ---
-title: "Pilgrimage and Good Luck: Tracing the Sites Connected to Inuyasha | The Soul-Purifying Power Taught by Fushimi Inari's Sacred Jewel and Shinto's 'Ichirei Shikon'"
+title: "Pilgrimage and Good Luck: Tracing the Sites Connected to Inuyasha"
 description: "The Shikon Jewel and the priestess's warding arrows in Inuyasha echo Fushimi Inari's sacred jewel and Shinto's view of the soul, Ichirei Shikon. Sun-chan explains the good-luck hints found in these legends, together with Kuzunoha Inari and Hozan-ji."
 date: "2026-10-04"
 category: "powerspots"

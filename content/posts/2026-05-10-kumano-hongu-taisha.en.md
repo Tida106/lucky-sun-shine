@@ -1,5 +1,5 @@
 ---
-title: "Kumano Hongu Taisha Shrine Pilgrimage Guide: Your Complete Guide to the Sacred Land of Rebirth at the End of the Kumano Kodo"
+title: "Kumano Hongu Taisha Shrine Pilgrimage Guide"
 description: "This comprehensive guide covers everything about Kumano Hongu Taisha Shrine (Hongu, Tanabe City, Wakayama Prefecture), including its history, blessings, key pilgrimage points, the Otorii Gate at Oyunohara, the Yatagarasu legend, the Kumano Kodo, recommended crystals, and nearby attractions. It is an essential resource for visiting the core of the 'Sacred Sites and Pilgrimage Routes in the Kii Mountain Range' World Heritage site."
 date: "2026-05-10"
 updated: "2026-05-11"

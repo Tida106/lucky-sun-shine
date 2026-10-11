@@ -1,5 +1,5 @@
 ---
-title: "Complete Guide to Quartz Types and Meanings: How to Choose Your Crystal - All Varieties Explained"
+title: "Complete Guide to Quartz Types and Meanings"
 description: "A comprehensive guide to 10 types of quartz: Clear Quartz, Rose Quartz, Amethyst, Smoky Quartz, Citrine, Rutilated Quartz, Phantom Quartz, Lemurian Quartz, Aventurine, and Milky Quartz. Includes quick reference charts for choosing by purpose and color, purification methods, and how to spot fakes. This is your definitive guide to the entire quartz family."
 date: "2026-07-01"
 category: "powerstones"

@@ -1,5 +1,5 @@
 ---
-title: "Moonstone Meaning, Stone Properties, and Effects: The 'Stone of Intuition and New Beginnings' Protected by the Lunar Goddess"
+title: "Moonstone Meaning, Stone Properties, and Effects"
 description: "A comprehensive guide to moonstone's properties, history, lore surrounding femininity, intuition, and new moons, ideal pairings, mineral data, and FAQs. This is your go-to resource for incorporating this milky white stone, revered as the embodiment of the moon from ancient India to Rome, into your life."
 date: "2026-05-10"
 updated: "2026-05-11"

@@ -1,5 +1,5 @@
 ---
-title: "Aventurine: Meaning, Stone Lore, and Effects | The 'Indian Jade' Infused with Forest-like Healing"
+title: "Aventurine: Meaning, Stone Lore, and Effects"
 description: "A comprehensive guide to Aventurine's stone lore and history, including traditions related to mind-body healing, stress relief, and gentle prosperity. Also covers harmonious combinations, mineral data, and frequently asked questions. This is an essential guide for incorporating this green stone, loved from ancient India to modern yoga practitioners, into your life."
 date: "2026-05-10"
 updated: "2026-05-11"

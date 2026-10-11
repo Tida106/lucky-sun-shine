@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Lucky Charms: Wallets, Omamori, Engimono, Maneki-Neko, and Daruma Dolls"
+title: "The Ultimate Guide to Lucky Charms"
 description: "A comprehensive guide covering the types and selection of good luck charms. It explains the features of wallets, omamori, engimono, maneki-neko, daruma dolls, Shichifukujin (Seven Lucky Gods), and kumade (rake talismans), how to choose them based on your purpose, their display and usage, disposal rituals, the editorial team's recommended order, and answers to frequently asked questions. This is a must-have resource for incorporating good fortune into your daily life."
 date: "2026-05-12"
 updated: "2026-05-12"

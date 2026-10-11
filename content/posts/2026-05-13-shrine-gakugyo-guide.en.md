@@ -1,5 +1,5 @@
 ---
-title: "Top Shrines for Academic Success and Exam Victory: Guide to Blessings, Visiting Methods, and Famous Sites Nationwide"
+title: "Top Shrines for Academic Success and Exam Victory"
 description: >-
   Explore a curated selection of Japan's most renowned shrines for academic achievement and exam success. This one-page guide compares the enshrined deities, origins, highlights, and visiting tips for famous sites, including the 'Tenjin Big Three' (Dazaifu Tenmangu, Kitano Tenmangu, and Yushima Tenmangu), along with Kasuga Taisha, Togakushi Shrine, and Hieizan Enryakuji, known for their gods of wisdom.
 date: '2026-05-13'

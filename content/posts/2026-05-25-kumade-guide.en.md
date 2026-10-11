@@ -1,5 +1,5 @@
 ---
-title: "How to Choose a Kumade: A Complete Guide to Its Origins, Tori-no-ichi Market, Sizes, Decoration, and Disposal"
+title: "How to Choose a Kumade"
 description: "This comprehensive guide explains the meaning and selection of Kumade (decorative rakes). It covers everything from the origins of the Tori-no-ichi market, typical sizes and prices, the custom of buying a larger one each year, buying etiquette (haggling, gratuities, hand-clapping rituals), how and where to display it, disposal methods, and frequently asked questions."
 date: "2026-05-25"
 updated: "2026-05-25"

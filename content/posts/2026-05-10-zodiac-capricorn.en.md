@@ -1,5 +1,5 @@
 ---
-title: "Capricorn Zodiac and Crystals: Personality, Fortune, and a Garnet-Focused Selection Guide"
+title: "Capricorn Zodiac and Crystals"
 description: >-
   Explore recommended crystals that empower the personality and fortune of Capricorn (December 22nd - January 19th). This comprehensive guide covers the guardian stone Garnet, compatible stones like Onyx, Smoky Quartz, and Hematite, lucky colors, auspicious actions, how to wear your stones, and FAQs.
 date: '2026-05-10'

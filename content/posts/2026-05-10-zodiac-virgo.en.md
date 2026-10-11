@@ -1,5 +1,5 @@
 ---
-title: "Virgo's Zodiac Stones and Crystals: Personality, Fortune, and an Amethyst-Focused Selection Guide"
+title: "Virgo's Zodiac Stones and Crystals"
 description: "A comprehensive guide to recommended crystals for the Virgo zodiac sign (August 23 - September 22), designed to support their personality and fortune. This article covers everything from the guardian stone Amethyst to compatible stones like Carnelian, Peridot, and Sapphire, along with lucky colors, prosperity-boosting actions, how to wear your stones, and FAQs."
 date: '2026-05-10'
 updated: '2026-05-24'
