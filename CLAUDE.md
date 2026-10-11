@@ -77,6 +77,7 @@ draft: false                    # 公開時は false（または削除）
 - 効果・効能を断定しない（「〜と言われています」「〜とされる」等）。薬機法・景品表示法に触れる表現は避ける。
 - アフィリエイトリンクを置く場合は `<a href="..." rel="sponsored noopener" target="_blank">` を使う。
 - 作業後は必ず `git push` する。GitHub Actions が静的ビルドして Pages にデプロイする。
+- **作業を始める前に、必ず最初に `git pull --rebase origin main` で最新を取り込む。** 外出先のクラウド版 Claude Code(ブラウザ/スマホ)からも同じリポジトリが更新されるため、取り込まずに作業すると変更がぶつかる。
 
 ## ローカル開発
 ```bash
