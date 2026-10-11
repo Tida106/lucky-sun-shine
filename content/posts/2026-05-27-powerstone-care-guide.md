@@ -377,7 +377,7 @@ A. **パワーストーン専門店・ヒーリングショップ** が信頼で
 - [対人運・人間関係に親しまれてきたパワーストーン9選](/blog/purpose-relation-stones/) — 目的別ハブ記事⑤
 - [厄除け・魔除けに親しまれてきたパワーストーン9選](/blog/purpose-protection-stones/) — 目的別ハブ記事⑥
 - [パワーストーンは水・お風呂・温泉に持ち込める？](/blog/powerstone-water-guide/) — 水・熱・塩分への注意点
-- [縁起物・お守り・パワーストーンの処分方法](/blog/engimono-disposal-guide/) — 感謝して手放す手順
+- [縁起物・お守り・パワーストーンの処分方法](/blog/engimono-disposal/) — 感謝して手放す手順
 
 ## まとめ
 

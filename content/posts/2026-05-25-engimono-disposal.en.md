@@ -155,6 +155,24 @@ In Shinto, the fundamental concept is that **"the eight million gods do not cont
 
 Omamori received from temples (Buddhism) should **preferably be returned to a temple** as the original practice. Many shrines' Kofuda Osamesho will accept them, but it's **best to confirm in advance**.
 
+## Letting Go of Crystals and Gemstones
+
+Crystals have a different origin from shrine charms, so approaches to parting with them are more flexible.
+
+**Try cleansing first.** When you feel like letting a stone go, try the methods in the [Complete Guide to Crystal Purification Methods](/blog/purification-complete-guide/) first. Some people feel their bond with the stone return afterwards.
+
+**If you still want to let it go:**
+
+- **Return it to the earth**: bury it shallowly in garden soil or a potted plant, a gentle, nature-friendly way many people choose.
+- **Ask a shrine or temple**: some accept stones if you inquire in advance.
+- **Thank it, then dispose**: wrap it in white paper, sprinkle a pinch of salt, say thanks, and put it in non-burnable waste (stones do not burn).
+
+If a stone cracked or a bracelet snapped, you may also find [what it means and what to do](/blog/powerstone-broken-meaning/) helpful.
+
+## After Letting Go: A Cycle of New Connections
+
+Engimono culture holds that releasing the old makes room for the new: returning an old charm lets you receive a new one, and thanking a stone that has served you lets you meet the next. Disposal is seen not as an ending but as the start of a new cycle.
+
 ## Quick Reference Table for Disposal by Type
 
 | Engimono | First Choice | Second Choice | Last Resort |

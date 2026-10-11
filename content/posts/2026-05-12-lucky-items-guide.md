@@ -235,7 +235,6 @@ A. はい。**ブレスレット・原石・ペンダント** はすべて開運
 - [玄関の風水と開運ストーン配置](/blog/fengshui-entrance-stones/) — 開運グッズの飾る場所
 - [目的別パワーストーン総合ガイド](/blog/luck-powerstones-complete-guide/) — 願い別の石の参考に
 - [お守りは「買う」ものじゃない？](/blog/omamori-secret-rules/) — 授かり方と扱い方の基本ルール
-- [縁起物・お守り・パワーストーンの処分方法](/blog/engimono-disposal-guide/) — 感謝して手放す手順
 
 ## 編集チームの見解：「買えば運気が上がる」はもう古い
 
