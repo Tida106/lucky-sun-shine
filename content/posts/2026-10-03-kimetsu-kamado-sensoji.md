@@ -53,6 +53,11 @@ draft: false
 
 続いてご紹介するのは、山深い自然から一転、炭治郎が大都会のめまぐるしい発展に衝撃を受けた東京・浅草です。当時の最先端都市であった浅草には、千数百年にわたり人々を厄難から護り続けてきた都内最古の聖地があります。
 
+<figure class="photo">
+<img src="/images/posts/sensoji-honden-night-1200.webp" srcset="/images/posts/sensoji-honden-night-640.webp 640w, /images/posts/sensoji-honden-night-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夜のライトアップに浮かび上がる浅草寺の本堂">
+<figcaption>夜の浅草寺・本堂（東京都台東区）。写真：<a href="https://www.flickr.com/photos/22539273@N00/9821746636" rel="noopener" target="_blank">Guilhem Vellut</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 浅草寺・雷門（風神・雷神の守護結界）
 * **【特徴】：** 重さ約700キロもの大赤提灯が掲げられた、浅草の顔として世界中に知られる大門です。
 * **【深い背景・由来】：** 推古天皇36年（628年）、隅田川で漁をしていた兄弟の網にかかった黄金の観音像（聖観音菩薩）をお祀りしたのが浅草寺の始まりです。表参道を守る雷門（正式名称：風雷神門）の左右には、恐ろしい形相で仏法を守護する「風神」と「雷神」が対峙しています。風水害や火災、邪悪な魔物の侵入を防ぐ強力な結界を形成しています。
