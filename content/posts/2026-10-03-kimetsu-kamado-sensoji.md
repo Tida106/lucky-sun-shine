@@ -24,6 +24,11 @@ draft: false
 
 福岡県太宰府市に鎮座する「宝満宮 竈門神社」は、霊峰・宝満山（標高829m）の麓に位置し、1350年以上の歴史を誇る由緒正しき古社です。作品との縁が話題になり、ファンの聖地として国内外から多くの参拝者が訪れるこの場所には、驚くほど強力な浄化と再生のパワーが宿っています。
 
+<figure class="photo">
+<img src="/images/posts/kamado-jinja-honden-1200.webp" srcset="/images/posts/kamado-jinja-honden-640.webp 640w, /images/posts/kamado-jinja-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="紅葉に囲まれた竈門神社（福岡県太宰府市）の拝殿">
+<figcaption>竈門神社の拝殿（福岡県太宰府市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 宝満宮 竈門神社（鬼門封じと玉依姫命）
 * **【特徴】：** 春は桜、秋は紅葉の名所としても名高く、宝満山の麓（下宮）と山頂（上宮）に神域が広がる清らかな神社です。
 * **【深い背景・由来】：** 天武天皇の時代（7世紀後半）、大宰府政庁が開設された際、大陸からの脅威や災厄が侵入しやすい不吉な方角「鬼門（北東）」を封じる国家鎮護の社として創建されました。御祭神にお祀りされているのは「玉依姫命（タマヨリヒメノミコト）」。古くから魂と魂を引き合わせる「縁結びの神様」として篤く崇敬されており、男女の良縁はもちろん、家族、友人、仕事のパートナーなど、人生を好転させるあらゆる良縁を結び、悪運や方角の災いを祓う「方除け・厄除け」の絶大な神徳を持ちます。
