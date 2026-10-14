@@ -26,6 +26,11 @@ draft: false
 
 物語の舞台「油屋」の構造や神聖な空気感のモデルの一つと言われるのが、四国・愛媛県松山市にある「道後温泉本館」。日本三古湯の一つに数えられ、3000年以上の歴史を誇る奇跡の名湯です。約5年半に及ぶ大修理を終え、2024年7月に全館営業再開を果たしたばかりの大注目パワースポットでもあります！
 
+<figure class="photo">
+<img src="/images/posts/dogo-honkan-dusk-1200.webp" srcset="/images/posts/dogo-honkan-dusk-640.webp 640w, /images/posts/dogo-honkan-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="夕暮れの空に明かりが灯る道後温泉本館と人力車">
+<figcaption>夕暮れの道後温泉本館（愛媛県松山市）。写真：<a href="http://www.japanexperterna.se" target="_blank">Japanexperterna</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 道後温泉本館（三層楼の木造迷宮と振鷺閣）
 * **【特徴】：** 明治27年（1894年）に建てられた、城郭を思わせる複雑に入り組んだ木造三階建ての壮麗な建築（国指定重要文化財）。最上階には赤いギヤマン（ステンドグラス）が輝く太鼓楼「振鷺閣（しんろかく）」がそびえます。
 * **【深い背景・由来】：** 名棟梁・坂本又八郎が手掛けた本館は、あえて左右非対称に増改築を重ねたような迷宮構造を持ち、千尋が迷い込んだ油屋の重厚で目まぐるしい縦の空間美を思わせます。屋上の振鷺閣に吊るされた「刻太鼓（ときだいこ）」は、現在も朝6時・正午・夕方6時の1日3回打ち鳴らされ、山あいの温泉街に重低音を響かせます。この太鼓の音は、作中で夕暮れ時に神々の世界の幕開けを告げる鐘の音を思わせます。
@@ -39,6 +44,11 @@ draft: false
 * **【公式案内】：** [道後温泉本館（見学のご案内）](https://dogo.jp/)
 
 ### 「玉の石」と神道における「禊（みそぎ）」の奇跡
+
+<figure class="photo">
+<img src="/images/posts/dogo-kaminoyu-bath-1200.webp" srcset="/images/posts/dogo-kaminoyu-bath-640.webp 640w, /images/posts/dogo-kaminoyu-bath-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="青い陶板画と石の湯釜が見える道後温泉本館「神の湯」の浴室">
+<figcaption>道後温泉本館「神の湯」の浴室。写真：松山市役所（<a href="https://www.city.matsuyama.ehime.jp/shisei/opendata/metadata/dogoonsenhonkan.html" rel="noopener" target="_blank">松山市オープンデータ</a>）／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 * **【特徴】：** 本館の北側に祀られている、神様の足跡が残ると伝えられる巨石「玉の石」と、白鷺（しらさぎ）の伝説。
 * **【深い背景・由来】：** 『伊予国風土記』逸文によれば、国土造りの神・大国主命（オオクニヌシ）と少彦名命（スクナビコナ）が道後を訪れた際、病に倒れた少彦名命を道後の湯に浸したところ、たちまち元気を取り戻して石の上で力強く踊り出したと伝えられています。神道において、神々も人間と同じように環境の汚れや疲労（穢れ＝気枯れ）を受けます。温泉に浸かってそれを洗い流す行為は、生命力を蘇らせる「禊（みそぎ）」そのもの。作中で千尋が泥まみれの「オクサレ様」を洗い清め、清らかな名のある川の神へと蘇らせた名シーンは、神様の穢れを湯で清めるという点で、道後の湯治神話にも通じます。
 * **【太陽ちゃんのイチオシ解説】：** 温泉はお湯という形をした大地の生命エネルギー！道後のお湯に肩まで浸かると、日頃のストレスやネガティブな疲れがフワーッと溶け出して、心の中に眠る本来の元気（元の気）が満タンにチャージされますよ☀️
