@@ -24,6 +24,11 @@ draft: false
 
 物語の象徴である「骨喰いの井戸」や、霊力を秘めた宝玉。その視覚的・民俗学的なルーツは、関西の歴史ある稲荷信仰の聖地に色濃く残されています。
 
+<figure class="photo">
+<img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奥へ続く2本の朱色の千本鳥居の参道">
+<figcaption>伏見稲荷大社の千本鳥居（京都市伏見区）。写真：<a href="https://commons.wikimedia.org/wiki/User:Basile_Morin" rel="noopener" target="_blank">Basile Morin</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 伏見稲荷大社（千本鳥居と白狐がくわえる「宝珠」）
 * **【特徴】：** 和銅4年（711年）創建、全国に3万社以上ある稲荷神社の総本宮。幾重にも連なる朱色の「千本鳥居」と、神仏のお使いである無数の「白狐（びゃっこ）」が鎮座します。
 * **【深い背景・由来】：** 神道において、鳥居は「日常の俗世」と「神聖な神域（異界）」を隔てる境界線です。千本鳥居が作り出す朱色のトンネルをくぐる感覚は、現代と戦国時代を行き来する「骨喰いの井戸」の空間移動を思わせます！さらに注目したいのが、境内の白狐たちが口にくわえている玉**「宝珠（如意宝珠）」**です。あらゆる願いを叶え、魔を退ける神聖な霊力を宿すこの宝珠は、作中で絶大な力を秘めた「四魂の玉」を思わせる存在です。
@@ -51,6 +56,11 @@ draft: false
   * **幸魂（さきみたま）**：慈愛・育成・人を幸福にする温かい愛
   これら4つがバランスよく調和している時、人の魂は美しく輝きます。しかし邪心や恐怖、強い欲望に支配されると、魂は「穢れ（けがれ）」によって黒く濁り、破壊の衝動（暴走した荒魂）に飲み込まれてしまいます。作中でも荒魂・和魂・奇魂・幸魂の玉が登場しますが、「四魂の玉」が持つ者の心次第で光り輝きもすれば、禍々しく黒変もするという設定は、この神道の霊魂観を色濃く反映したものと言えそうです。
 * **【太陽ちゃんのイチオシ解説】：** 私たちの日常もまったく同じ！勇気（荒魂）だけでなく、思いやり（和魂）や愛（幸魂）、正しい知恵（奇魂）が揃ってこそ、本当の幸運が巡ってきます。「最近イライラするな」「人に優しくできていないな」と感じたら、神社で心をお清めして、4つの魂のバランスをまあるく整えてあげましょうね☀️
+
+<figure class="photo">
+<img src="/images/posts/fushimi-torii-tunnel-1200.webp" srcset="/images/posts/fushimi-torii-tunnel-640.webp 640w, /images/posts/fushimi-torii-tunnel-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="848" loading="lazy" decoding="async" alt="朱色の鳥居が連なり、石畳の道が奥へ曲がっていくトンネル">
+<figcaption>伏見稲荷大社の鳥居のトンネル（京都市伏見区）。写真：<a href="https://commons.wikimedia.org/wiki/User:Marco_Almbauer" rel="noopener" target="_blank">Marco Almbauer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ### 御神木（ごしんぼく）の注連縄結界 ＆ 梓弓（あずさゆみ）の破魔力
 * **【特徴】：** 犬夜叉が50年もの間封印されていた、注連縄（しめなわ）が巻かれた巨木「時代樹」と、巫女・桔梗やかごめが放つ破魔矢。
