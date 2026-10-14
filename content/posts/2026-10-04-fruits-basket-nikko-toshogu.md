@@ -44,6 +44,11 @@ draft: false
 
 東照宮の中でも一際多くの人が集まる「神厩舎（しんきゅうしゃ）」。ご神馬をお世話するこの建物には、世界的に有名な「三猿」のレリーフが彫られています。でも実は、あの三猿は**「人の一生を描いた全8枚の連作ストーリーの、たった一部分」**に過ぎないことをご存知でしたか？
 
+<figure class="photo">
+<img src="/images/posts/nikko-three-monkeys-1200.webp" srcset="/images/posts/nikko-three-monkeys-640.webp 640w, /images/posts/nikko-three-monkeys-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="463" loading="lazy" decoding="async" alt="見ざる・言わざる・聞かざるの三猿の彩色彫刻">
+<figcaption>日光東照宮・神厩舎の「三猿」の彫刻（栃木県日光市）。写真：<a href="https://www.flickr.com/photos/rayinmanila/42687150801/" rel="noopener" target="_blank">Ray in Manila</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 神厩舎と「三猿」8枚のライフサイクル・レリーフ
 * **【特徴】：** 豪華絢爛な東照宮の中で唯一、素木（白木）の温もりを残した建物。長押（なげし）を取り囲むように、猿を擬人化して「人の一生の成長と心の旅路」を描いた8面の彫刻が連なっています。
 * **【深い背景・由来】：** 古くから「猿は馬の病気を治し、守護する」という信仰から厩舎に彫られました。8面の物語は、まさに『フルーツバスケット』で登場人物たちがトラウマや悩みを乗り越えていく心の成長プロセスそのものです。
@@ -57,6 +62,11 @@ draft: false
   * **第8面【新しい命】**：お腹に子を宿した母猿。そして物語は再び第1面の母子の愛へと優しく循環していく。
 * **【太陽ちゃんのイチオシ解説】：** 「辛い時は誰かに背中を支えてもらっていい」「人生の荒波は一人で抱え込まず、大切な人と手を取り合えば乗り越えられる」…そんな優しいエールが木彫りから伝わってきて、胸がじーんと熱くなります。第5面の「友がそっと寄り添う姿」は、まるで透ちゃんが傷ついたみんなを包み込む優しさそのもの！人間関係に疲れた心を芯からほぐしてくれる最高の開運セラピースポットです☀️
 * **【参考案内】：** [日光旅ナビ（日光東照宮 神厩舎・三猿）](https://www.nikko-kankou.org/)
+
+<figure class="photo">
+<img src="/images/posts/nikko-yomeimon-1200.webp" srcset="/images/posts/nikko-yomeimon-640.webp 640w, /images/posts/nikko-yomeimon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="青空の下にそびえる金と白の装飾が美しい陽明門">
+<figcaption>日光東照宮の陽明門（栃木県日光市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Jpatokal" rel="noopener" target="_blank">Jpatokal</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ### 陽明門（ようめいもん）と北辰（北極星）の宇宙結界
 * **【特徴】：** 日暮れまで眺めても見飽きないことから「日暮の門」と呼ばれる国宝。500体以上の霊獣や聖人、悪夢を食べる「獏（ばく）」や平和の使者「麒麟（きりん）」が隙間なく彫り込まれています。
