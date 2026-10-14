@@ -31,6 +31,11 @@ Sun-chan will clearly introduce you to hints for making your soul shine and brin
 
 The Bone-Eater's Well, a symbol of the story, and the jewel holding mysterious power within it—their visual and folkloric roots remain deeply present at Kansai's historic sacred sites of Inari worship.
 
+<figure class="photo">
+<img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Two paths of vermilion Senbon Torii stretching into the distance">
+<figcaption>Senbon Torii at Fushimi Inari Taisha (Fushimi, Kyoto). Photo: <a href="https://commons.wikimedia.org/wiki/User:Basile_Morin" rel="noopener" target="_blank">Basile Morin</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 ### Fushimi Inari Taisha (The Thousand Torii Gates and the Sacred Jewel in the White Fox's Mouth)
 * **【Features】:** Founded in 711 AD, this is the head shrine of over 30,000 Inari shrines nationwide. It features the layered vermilion "Senbon Torii" (thousand torii gates) and countless "byakko" (white foxes), the messengers of the gods, enshrined throughout the grounds.
 * **【Deep Background and Origins】:** In Shinto, a torii gate marks the boundary between "the ordinary secular world" and "the sacred divine realm" (the otherworld). The sensation of passing through the vermilion tunnel formed by the Senbon Torii calls to mind the spatial travel of the **Bone-Eater's Well**, which carries characters back and forth between the present day and the Sengoku period! What's also worth noting is the jewel held in the mouths of the white foxes on the grounds: the **Nyoi Hoju (Wish-Granting Sacred Jewel)**. This sacred jewel, said to grant any wish and ward off evil, calls to mind the immensely powerful **Shikon Jewel** that appears in the story.
@@ -59,6 +64,11 @@ The Shikon Jewel holds the most important key in the story. The mechanics of thi
 
   When these four are in beautiful harmony and balance, a person's soul shines brightly. But when overtaken by malice, fear, or powerful desire, the soul becomes clouded black with "kegare" (impurity), and gets swallowed up by a destructive impulse (an Aramitama run wild). In the story, jewels of the Aramitama, Nigimitama, Kushimitama, and Sakimitama all appear, and the setting in which the Shikon Jewel can shine brightly or turn ominously black depending on the heart of its holder seems to strongly reflect this very Shinto view of the soul.
 * **【Sun-chan's Top Pick Explanation】:** It's exactly the same in our everyday lives! Real good fortune only comes around when courage (Aramitama) is joined by compassion (Nigimitama), love (Sakimitama), and sound wisdom (Kushimitama). If you've been feeling irritable lately, or feel like you haven't been kind to others, purify your heart at a shrine and gently bring the balance of your four souls back into harmony ☀️
+
+<figure class="photo">
+<img src="/images/posts/fushimi-torii-tunnel-1200.webp" srcset="/images/posts/fushimi-torii-tunnel-640.webp 640w, /images/posts/fushimi-torii-tunnel-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="848" loading="lazy" decoding="async" alt="A tunnel of vermilion torii with a stone path curving ahead">
+<figcaption>A tunnel of torii gates at Fushimi Inari Taisha (Fushimi, Kyoto). Photo: <a href="https://commons.wikimedia.org/wiki/User:Marco_Almbauer" rel="noopener" target="_blank">Marco Almbauer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
 
 ### The Shimenawa Barrier on the Sacred Tree, and the Warding Power of the Azusa Bow
 * **【Features】:** The giant tree wrapped in a sacred shimenawa rope—the "Goshinboku of the Ages"—where Inuyasha was sealed for 50 years, and the warding arrows fired by the priestesses Kikyo and Kagome.

@@ -31,6 +31,11 @@ Sun-chan will cheerfully and clearly give you the full rundown on why these plac
 
 Homangu Kamado Shrine, enshrined in Dazaifu City, Fukuoka Prefecture, sits at the foot of the sacred Mt. Homan (829 meters), and is a venerable old shrine with a history of over 1,350 years. This site, which draws many visitors from Japan and abroad as a pilgrimage spot for fans after its connection to the story became a popular topic, holds astonishingly powerful energy for purification and renewal.
 
+<figure class="photo">
+<img src="/images/posts/kamado-jinja-honden-1200.webp" srcset="/images/posts/kamado-jinja-honden-640.webp 640w, /images/posts/kamado-jinja-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The worship hall of Kamado Shrine surrounded by autumn leaves">
+<figcaption>The worship hall of Kamado Shrine (Dazaifu, Fukuoka). Photo: <a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 ### Homangu Kamado Shrine (Sealing the Demon Gate and Tamayori-hime-no-Mikoto)
 * **【Features】:** Famous as a scenic spot for cherry blossoms in spring and autumn leaves in fall, this is a pure, sacred shrine spread across both the foot of Mt. Homan (the lower shrine) and its summit (the upper shrine).
 * **【Deep Background and Origins】:** The shrine was founded during the reign of Emperor Tenmu (the latter half of the 7th century), when the Dazaifu government office was established, as a shrine for national protection, sealing off the "Kimon" (demon gate, the northeast direction)—an ominous direction through which threats and disasters from the continent could easily invade. The enshrined deity is **Tamayori-hime-no-Mikoto**. She has long been deeply revered as a "deity of matchmaking" who draws souls together, and is believed to hold tremendous divine power not only for romantic bonds between men and women, but for tying all kinds of good connections that improve your life—family, friends, business partners—as well as for "warding off bad directions and misfortune" by dispelling bad luck and directional disasters.
@@ -54,6 +59,11 @@ Homangu Kamado Shrine, enshrined in Dazaifu City, Fukuoka Prefecture, sits at th
 ## 🏮 [Asakusa, Tokyo] The Light and Shadow of the Taisho Romance Era! Senso-ji Temple's Protective Barrier and Night Visits
 
 Next up, in complete contrast to the deep mountain nature of Dazaifu, is Asakusa, Tokyo, the dizzyingly fast-developing big city that shocked Tanjiro. Asakusa, the cutting-edge city of its time, is home to Tokyo's oldest sacred site, which has protected people from misfortune for well over a thousand years.
+
+<figure class="photo">
+<img src="/images/posts/sensoji-honden-night-1200.webp" srcset="/images/posts/sensoji-honden-night-640.webp 640w, /images/posts/sensoji-honden-night-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Senso-ji's main hall glowing in the night illumination">
+<figcaption>The main hall of Senso-ji at night (Taito, Tokyo). Photo: <a href="https://www.flickr.com/photos/22539273@N00/9821746636" rel="noopener" target="_blank">Guilhem Vellut</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
 
 ### Senso-ji Temple's Kaminarimon Gate (The Guardian Barrier of the Wind and Thunder Gods)
 * **【Features】:** The great gate known worldwide as the face of Asakusa, hung with a giant red lantern weighing about 700 kilograms.

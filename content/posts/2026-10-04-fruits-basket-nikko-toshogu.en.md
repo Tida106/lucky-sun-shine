@@ -47,6 +47,11 @@ And yet, at Nikko Toshogu Shrine, which enshrines Tokugawa Ieyasu, this very str
 
 The "Shinkyusha" (Sacred Stable) draws an especially large crowd among all the buildings at Toshogu Shrine. This building, where the shrine's sacred horse was cared for, is carved with the world-famous "Three Wise Monkeys" relief. But did you know that those three monkeys are actually just one part of a full eight-panel series depicting the course of a human life?
 
+<figure class="photo">
+<img src="/images/posts/nikko-three-monkeys-1200.webp" srcset="/images/posts/nikko-three-monkeys-640.webp 640w, /images/posts/nikko-three-monkeys-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="463" loading="lazy" decoding="async" alt="Colorfully painted carving of the three wise monkeys: see no evil, hear no evil, speak no evil">
+<figcaption>The Three Wise Monkeys carving on the sacred stable at Nikko Toshogu (Nikko, Tochigi). Photo: <a href="https://www.flickr.com/photos/rayinmanila/42687150801/" rel="noopener" target="_blank">Ray in Manila</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
 ### The Sacred Stable and the Eight-Panel "Three Wise Monkeys" Life-Cycle Reliefs
 * **【Features】:** The only building at the otherwise lavishly decorated Toshogu Shrine left in the warm, natural tone of unpainted wood. Wrapped around its lintel are eight connected carvings, personifying monkeys to depict "the growth and spiritual journey of a human life."
 * **【Deep Background and Origins】:** These carvings were placed at the stable from the old belief that "monkeys heal and protect horses from illness." The eight-panel story closely mirrors the emotional growth process the characters in Fruits Basket go through as they overcome their trauma and worries.
@@ -60,6 +65,11 @@ The "Shinkyusha" (Sacred Stable) draws an especially large crowd among all the b
   * **Panel 8 [New Life]:** A mother monkey, now pregnant. And the story gently circles back around to the mother's love of Panel 1.
 * **【Sun-chan's Top Pick Explanation】:** "It's okay to let someone support your back when things are hard." "You don't have to carry life's rough waves alone—you can get through them hand in hand with someone important to you." Gentle messages like these come through from the wood carvings, and it makes my heart well up. The "friend quietly standing beside" in Panel 5 feels just like Tohru's warmth, wrapping around everyone who's been hurt! This is the ultimate good-luck therapy spot, loosening up a heart worn down by relationships, right down to its core ☀️
 * **【Reference Info】:** [Nikko Tabi Navi (Nikko Toshogu Shrine, Sacred Stable and Three Wise Monkeys)](https://www.nikko-kankou.org/)
+
+<figure class="photo">
+<img src="/images/posts/nikko-yomeimon-1200.webp" srcset="/images/posts/nikko-yomeimon-640.webp 640w, /images/posts/nikko-yomeimon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="Yomeimon Gate with its gold and white decoration towering under a blue sky">
+<figcaption>Yomeimon Gate at Nikko Toshogu (Nikko, Tochigi). Photo: <a href="https://commons.wikimedia.org/wiki/User:Jpatokal" rel="noopener" target="_blank">Jpatokal</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
 
 ### Yomeimon Gate and the Cosmic Barrier of the North Star
 * **【Features】:** A National Treasure nicknamed the "Twilight Gate" (Higurashi no Mon) because you never tire of looking at it, even until dusk. Over 500 sacred beasts and sages are carved into it without a single gap, including the "baku" who devours nightmares, and the "kirin," a messenger of peace.

@@ -26,6 +26,11 @@ draft: false
 
 相傳作為故事舞台「油屋」結構與神聖氛圍原型之一的，就是位於四國愛媛縣松山市的「道後溫泉本館」。這裡被列為日本三大古湯之一，擁有超過3000年歷史，是一座奇蹟般的名湯。歷經約5年半的大規模整修，於2024年7月全館重新開業，是目前備受矚目的能量景點！
 
+<figure class="photo">
+<img src="/images/posts/dogo-honkan-dusk-1200.webp" srcset="/images/posts/dogo-honkan-dusk-640.webp 640w, /images/posts/dogo-honkan-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="黃昏天空下亮起燈火的道後溫泉本館與人力車">
+<figcaption>黃昏時分的道後溫泉本館（愛媛縣松山市）。照片：<a href="http://www.japanexperterna.se" target="_blank">Japanexperterna</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### 道後溫泉本館（三層木造迷宮與振鷺閣）
 * **【特色】：** 建於明治27年（1894年），宛如城郭般錯綜複雜的三層木造壯麗建築（國家指定重要文化財）。最上層聳立著鑲嵌紅色玻璃彩窗、閃閃發光的太鼓樓「振鷺閣」。
 * **【深層背景・由來】：** 由名匠坂本又八郎打造的本館，擁有彷彿刻意左右不對稱增建而成的迷宮構造，讓人聯想到千尋誤闖的油屋那厚重而令人目不暇給的垂直空間美感。屋頂振鷺閣上懸掛的「刻太鼓」，至今每天早上6點、中午、傍晚6點仍會敲響三次，低沉的鼓聲迴盪在山間的溫泉街上。這鼓聲，讓人聯想到作品中黃昏時分宣告眾神世界揭幕的鐘聲。
@@ -39,6 +44,12 @@ draft: false
 * **【官方資訊】：** [道後溫泉本館（參觀資訊）](https://dogo.jp/)
 
 ### 「玉之石」與神道中「禊」的奇蹟
+
+<figure class="photo">
+<img src="/images/posts/dogo-kaminoyu-bath-1200.webp" srcset="/images/posts/dogo-kaminoyu-bath-640.webp 640w, /images/posts/dogo-kaminoyu-bath-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="可見藍色陶板畫與石造湯釜的道後溫泉本館「神之湯」浴場">
+<figcaption>道後溫泉本館「神之湯」的浴場。照片：松山市政府（<a href="https://www.city.matsuyama.ehime.jp/shisei/opendata/metadata/dogoonsenhonkan.html" rel="noopener" target="_blank">松山市開放資料</a>）／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 * **【特色】：** 供奉於本館北側、相傳留有神明足跡的巨石「玉之石」，以及白鷺的傳說。
 * **【深層背景・由來】：** 根據《伊予國風土記》逸文記載，開創國土之神大國主命與少彥名命造訪道後時，將病倒的少彦名命浸入道後溫泉的湯水中，少彥名命立刻恢復精神，並在石頭上奮力起舞。在神道信仰中，神明也和人類一樣，會沾染環境的污濁與疲勞（穢＝氣枯）。浸泡溫泉將其洗淨的行為，正是讓生命力重新甦醒的「禊」。作品中千尋為滿身泥濘的「腐爛神」清洗潔淨，使其重新化身為清澈的河神，這一幕名場面，就其「以湯水洗淨神明污穢」這一點而言，也與道後的湯治神話有所相通。
 * **【太陽醬的私房解說】：** 溫泉就是以熱水形式呈現的大地生命能量！將肩膀浸入道後的湯水中，日常的壓力與負面疲憊會輕輕融化消散，沉睡在內心深處的原本活力（元氣）也會被完全充滿☀️

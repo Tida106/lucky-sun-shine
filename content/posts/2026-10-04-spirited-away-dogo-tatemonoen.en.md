@@ -31,6 +31,11 @@ Why do the gods come here to take a bath? And what wonderful purifying, luck-boo
 
 **Dogo Onsen Honkan**, in Matsuyama City, Ehime Prefecture on the island of Shikoku, is said to be among the inspirations for the structure and sacred atmosphere of Aburaya, the story's central setting. Counted among Japan's three oldest hot springs, it's a miraculous, legendary bath with a history of over 3,000 years. It's also a hugely popular power spot right now, having just reopened in full in July 2024 after about five and a half years of major restoration work!
 
+<figure class="photo">
+<img src="/images/posts/dogo-honkan-dusk-1200.webp" srcset="/images/posts/dogo-honkan-dusk-640.webp 640w, /images/posts/dogo-honkan-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Dogo Onsen Honkan lit up in the dusk sky, with a rickshaw">
+<figcaption>Dogo Onsen Honkan at dusk (Matsuyama, Ehime). Photo: <a href="http://www.japanexperterna.se" target="_blank">Japanexperterna</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 ### Dogo Onsen Honkan (The Three-Story Wooden Maze and the Shinrokaku Tower)
 * **【Features】:** A magnificent, castle-like three-story wooden building built in 1894 (designated an Important Cultural Property of Japan), with its complex, intricately interlocking structure. At the very top rises the drum tower "Shinrokaku," glittering with red giyaman (stained glass).
 * **【Deep Background and Origins】:** Built by the master carpenter Matahachiro Sakamoto, the Honkan has a maze-like structure, as if deliberately rebuilt and extended asymmetrically over and over, calling to mind the dense, dizzying vertical beauty of Aburaya, where Chihiro gets lost. The "Tokidaiko" (time-telling drum) hung in the rooftop Shinrokaku is still struck three times a day—at 6 AM, noon, and 6 PM—its deep tone echoing through the mountain hot spring town. This sound of the drum calls to mind the bell that, in the film, announces the opening of the world of the gods at dusk.
@@ -44,6 +49,12 @@ Why do the gods come here to take a bath? And what wonderful purifying, luck-boo
 * **【Official Info】:** [Dogo Onsen Honkan (Visitor Information)](https://dogo.jp/)
 
 ### The "Tama no Ishi" Stone and the Miracle of Shinto's Misogi
+
+<figure class="photo">
+<img src="/images/posts/dogo-kaminoyu-bath-1200.webp" srcset="/images/posts/dogo-kaminoyu-bath-640.webp 640w, /images/posts/dogo-kaminoyu-bath-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The Kami-no-yu bath at Dogo Onsen Honkan, with a blue ceramic mural and a stone basin">
+<figcaption>The Kami-no-yu bath at Dogo Onsen Honkan. Photo: Matsuyama City Hall (<a href="https://www.city.matsuyama.ehime.jp/shisei/opendata/metadata/dogoonsenhonkan.html" rel="noopener" target="_blank">Matsuyama City Open Data</a>) / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
 * **【Features】:** A great stone enshrined on the north side of the Honkan, said to still bear the footprints of the gods, known as "Tama no Ishi" (Jewel Stone), along with the legend of the white heron.
 * **【Deep Background and Origins】:** According to a surviving fragment of the Fudoki of Iyo Province, when the land-creating deities Okuninushi and Sukunabikona visited Dogo, Sukunabikona had fallen ill. When he was placed in the hot waters of Dogo, he immediately recovered his strength and danced powerfully atop a stone. In Shinto, deities, just like humans, can accumulate the stains and fatigue of their environment (kegare, or "withered spirit"). Soaking in a hot spring to wash this away is itself a form of **Misogi**—a Shinto ritual of purification through water, used to restore vitality. In the film, the famous scene where Chihiro washes and purifies the mud-covered Okusare-sama, reviving him into the pure, named spirit of a river, connects in spirit with this very legend of healing waters at Dogo, in the way it depicts cleansing a deity's impurities through hot water.
 * **【Sun-chan's Top Pick Explanation】:** A hot spring is the life energy of the earth itself, taking the form of water! When you soak up to your shoulders in Dogo's waters, your everyday stress and negative fatigue melt away softly, and the original vitality (genki, your "source energy") sleeping within your heart gets fully recharged ☀️

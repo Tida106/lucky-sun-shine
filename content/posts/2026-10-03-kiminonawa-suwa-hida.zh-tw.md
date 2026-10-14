@@ -30,11 +30,21 @@ draft: false
 * **【太陽醬的私房解說】：** 黃昏時分從立石公園望出去的景色，簡直就是電影畫面本身！凝視著從橙色漸漸轉為靛藍的天空，日常的煩惱與雜念會悄悄消散，對重要之人的感謝之情也會自然湧現。這裡是太陽醬最推薦給想在人生轉折點重整心情的你的黃昏景點☀️
 * **【官方資訊】：** [諏訪觀光協會 官方網站（立石公園）](https://www.suwakanko.jp/)
 
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-640.webp 640w, /images/posts/suwa-kamisha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="金色裝飾閃耀的諏訪大社上社本宮拜殿與石板廣場">
+<figcaption>諏訪大社上社本宮的拜殿（長野縣諏訪市）。照片：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### 信濃國一之宮 諏訪大社
 * **【特色】：** 隔著諏訪湖，南側是「上社（本宮・前宮）」，北側是「下社（春宮・秋宮）」，共兩社四宮，是全日本一萬多座諏訪神社的總本社。
 * **【深層背景・由來】：** 雖是日本最古老的神社之一，但最大的特徵是**「上社本宮、下社春宮、下社秋宮這三座神社都沒有正殿（供奉神明的建築）」**。不拜人工社殿，而是直接參拜神體山「守屋山」或境內的「巨木（御神木）」本身，傳承著繩文時代延續至今的原始自然崇拜（泛靈信仰）形式。
 * **【太陽醬的私房解說】：** 這是感受神明不寄宿於建築、而是寄宿於山、風與巨木本身的神道純粹力量！四座宮各自擁有不同的個性與清新氣場，若花時間走完「四社巡禮」，大地的能量會充滿全身，帶來強而有力的接地感（確立自我軸心）☀️
 * **【官方資訊】：** [信濃國一之宮 諏訪大社 官方網站](https://suwataisha.or.jp/)
+
+<figure class="photo">
+<img src="/images/posts/suwa-harumiya-kaguraden-1200.webp" srcset="/images/posts/suwa-harumiya-kaguraden-640.webp 640w, /images/posts/suwa-harumiya-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="788" loading="lazy" decoding="async" alt="掛著巨大注連繩的諏訪大社下社春宮神樂殿">
+<figcaption>諏訪大社下社春宮的神樂殿（長野縣下諏訪町）。照片：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ### 御柱祭與四角結界
 * **【特色】：** 每六年一次、在虎年與猴年舉行的日本三大奇祭之一。將16根從山上砍伐、樹齡超過150年的巨木（冷杉）完全以人力拖曳，豎立在各宮境內的四個角落。

@@ -24,6 +24,11 @@ draft: false
 
 座落於福岡縣太宰府市的「寶滿宮 竈門神社」，位於靈峰寶滿山（海拔829公尺）山麓，擁有超過1350年歷史的古老神社。這裡因為與作品的緣分成為話題，成為粉絲心中的聖地，吸引國內外許多參拜者前來，蘊藏著驚人的淨化與重生力量。
 
+<figure class="photo">
+<img src="/images/posts/kamado-jinja-honden-1200.webp" srcset="/images/posts/kamado-jinja-honden-640.webp 640w, /images/posts/kamado-jinja-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="被紅葉環繞的竈門神社拜殿">
+<figcaption>竈門神社的拜殿（福岡縣太宰府市）。照片：<a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### 寶滿宮竈門神社（鎮鬼門與玉依姫命）
 * **【特色】：** 春天賞櫻、秋天賞楓的知名景點，神域範圍涵蓋寶滿山山麓（下宮）與山頂（上宮），是一座清淨莊嚴的神社。
 * **【深層背景・由來】：** 天武天皇時代（7世紀後半），大宰府政廳設置之際，為了鎮守容易遭受大陸威脅與災厄入侵的不祥方位「鬼門（東北方）」，而建立了這座國家鎮護之社。主祭神為「玉依姫命」。自古以來被尊崇為牽起靈魂與靈魂的「結緣之神」，不僅是男女良緣，舉凡家人、朋友、工作夥伴等能讓人生好轉的各種良緣，都能在此締結，同時也擁有祓除厄運與方位災禍的「方位除厄」強大神德。
@@ -47,6 +52,11 @@ draft: false
 ## 🏮 【東京・淺草】大正浪漫的光與影！「淺草寺」的除厄結界與夜間參拜
 
 接下來要介紹的，是一轉山林自然景致、讓炭治郎對大都市飛速發展感到震撼的東京淺草。這座當年最先進的城市，擁有守護人們遠離厄難長達千餘年的東京都內最古老聖地。
+
+<figure class="photo">
+<img src="/images/posts/sensoji-honden-night-1200.webp" srcset="/images/posts/sensoji-honden-night-640.webp 640w, /images/posts/sensoji-honden-night-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="在夜間點燈中浮現的淺草寺本堂">
+<figcaption>夜晚的淺草寺本堂（東京都台東區）。照片：<a href="https://www.flickr.com/photos/22539273@N00/9821746636" rel="noopener" target="_blank">Guilhem Vellut</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh_TW" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ### 淺草寺・雷門（風神・雷神的守護結界）
 * **【特色】：** 懸掛著重達約700公斤巨大紅燈籠、作為淺草代表聞名世界的大門。

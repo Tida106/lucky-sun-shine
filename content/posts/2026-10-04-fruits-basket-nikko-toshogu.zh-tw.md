@@ -44,6 +44,11 @@ draft: false
 
 東照宮之中，有一處特別聚集了許多人氣的「神廄舍」。這座負責照料神馬的建築上，雕刻著舉世聞名的「三猿」浮雕。但你知道嗎，那組三猿其實只是**「描繪人的一生、全8面連作故事中的其中一部分」**而已！
 
+<figure class="photo">
+<img src="/images/posts/nikko-three-monkeys-1200.webp" srcset="/images/posts/nikko-three-monkeys-640.webp 640w, /images/posts/nikko-three-monkeys-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="463" loading="lazy" decoding="async" alt="「非禮勿視、非禮勿言、非禮勿聽」的三猿彩繪雕刻">
+<figcaption>日光東照宮神廄舍的「三猿」雕刻（栃木縣日光市）。照片：<a href="https://www.flickr.com/photos/rayinmanila/42687150801/" rel="noopener" target="_blank">Ray in Manila</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh_TW" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### 神廄舍與「三猿」8面生命週期浮雕
 * **【特色】：** 在絢爛豪華的東照宮之中，唯一保留原木溫潤質感的建築。沿著長押環繞一圈，連成一系列將猿猴擬人化、描繪「人一生的成長與心靈旅程」的8面雕刻。
 * **【深層背景・由來】：** 自古以來，就有「猿猴能治癒並守護馬的疾病」的信仰，因此才雕刻在馬廄上。這8面故事，正是《水果籃子》裡登場人物們克服創傷與煩惱、逐漸邁向心靈成長的過程本身。
@@ -57,6 +62,11 @@ draft: false
   * **第8面【新生命】**：腹中懷著孩子的母猿。故事就這樣溫柔地再度循環回到第1面的母子之愛。
 * **【太陽醬的私房解說】：** 「難過的時候，讓別人支撐你一下也沒關係」「人生的風浪不需要一個人扛，和重要的人攜手就能跨越」……這些溫柔的鼓勵從木雕中靜靜傳遞過來，讓人心頭一陣溫熱。第5面「友伴輕輕靠近扶持」的畫面，簡直就像透溫柔包容每一個受傷的人那樣！這裡堪稱是能從心底撫慰人際關係疲憊的最佳開運療癒景點☀️
 * **【參考資訊】：** [日光觀光導覽網（日光東照宮 神廄舍・三猿）](https://www.nikko-kankou.org/)
+
+<figure class="photo">
+<img src="/images/posts/nikko-yomeimon-1200.webp" srcset="/images/posts/nikko-yomeimon-640.webp 640w, /images/posts/nikko-yomeimon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="矗立在藍天下、金白裝飾華麗的陽明門">
+<figcaption>日光東照宮的陽明門（栃木縣日光市）。照片：<a href="https://commons.wikimedia.org/wiki/User:Jpatokal" rel="noopener" target="_blank">Jpatokal</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ### 陽明門與北辰（北極星）的宇宙結界
 * **【特色】：** 因為「看到日暮都不會看膩」而被稱為「日暮之門」的國寶。超過500尊靈獸與聖人、能吞食惡夢的「貘」、傳遞和平的使者「麒麟」，密密麻麻地雕刻在其中。

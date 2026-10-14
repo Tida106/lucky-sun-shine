@@ -43,12 +43,22 @@ draft: false
 ### ③ 先準備好 100 日圓硬幣的貼心小細節
 請領御朱印時所奉上的金額，在神社稱為「初穗料（はつほりょう）」，在寺院稱為「納經料（のうきょうりょう）」。行情大約是每份 300 日圓〜500 日圓。因為這不是一般買賣，事先把幾枚 100 日圓硬幣放進專用的零錢包準備好，到授與所就能從容應對，十分得體☀️！
 
+<figure class="photo">
+<img src="/images/posts/fushimi-torii-tunnel-1200.webp" srcset="/images/posts/fushimi-torii-tunnel-640.webp 640w, /images/posts/fushimi-torii-tunnel-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="848" loading="lazy" decoding="async" alt="朱紅鳥居連綿、石板路向前彎曲的隧道">
+<figcaption>伏見稻荷大社的鳥居隧道（京都市伏見區）。照片：<a href="https://commons.wikimedia.org/wiki/User:Marco_Almbauer" rel="noopener" target="_blank">Marco Almbauer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 3. 伏見稻荷大社「御山巡禮」補充能量！適合女子旅的推薦路線
 
 接下來，要出發前往於和銅 4 年（711 年）創建、全國約 3 萬座稻荷神社的總本宮——**伏見稻荷大社**，展開開運健行！海拔 233 公尺的稻荷山整座都是聖域，據說光是走在山裡，就能感受到從身體內側湧出的活力，是很棒的能量景點！
 
 ### ❶ 旅程從宏偉的本殿開始！
 在位於山腳的本殿，祈求生意興隆與生活富足之後，先到授與所請領第一枚御朱印。師傅在眼前氣勢十足地寫下「伏見稻荷大社」的墨書，光是看著就覺得充滿力量！（初穗料：300 日圓〜500 日圓／直接書寫）
+
+<figure class="photo">
+<img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="向深處延伸的兩條朱紅色千本鳥居參道">
+<figcaption>伏見稻荷大社的千本鳥居（京都市伏見區）。照片：<a href="https://commons.wikimedia.org/wiki/User:Basile_Morin" rel="noopener" target="_blank">Basile Morin</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ### ❷ 壯觀的朱紅色！穿過「千本鳥居」
 往本殿深處走去，眼前出現的是約 1 萬座朱紅色鳥居連綿而成的「千本鳥居」隧道！朱紅色自古以來被認為象徵生命力與陽氣。走在光線灑入的鳥居隧道裡，彷彿自己的能量被重新賦予，讓人感到清爽☀️！

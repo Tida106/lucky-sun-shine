@@ -24,6 +24,11 @@ draft: false
 
 故事的象徵「骨喰之井」，以及蘊藏靈力的寶玉。它們在視覺與民俗學上的根源，深深殘留在關西歷史悠久的稻荷信仰聖地之中。
 
+<figure class="photo">
+<img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="向深處延伸的兩條朱紅色千本鳥居參道">
+<figcaption>伏見稻荷大社的千本鳥居（京都市伏見區）。照片：<a href="https://commons.wikimedia.org/wiki/User:Basile_Morin" rel="noopener" target="_blank">Basile Morin</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### 伏見稻荷大社（千本鳥居與白狐口中的「寶珠」）
 * **【特色】：** 創建於和銅4年（711年），是全日本三萬多座稻荷神社的總本宮。層層相連的朱紅色「千本鳥居」，以及無數身為神明使者的「白狐」鎮守於此。
 * **【深層背景・由來】：** 在神道中，鳥居是劃分「日常俗世」與「神聖神域（異界）」的界線。穿過千本鳥居形成的朱紅隧道的感覺，讓人聯想到故事中往來於現代與戰國時代的「骨喰之井」空間移動！更值得注意的是，境內白狐口中所含的寶玉**「寶珠（如意寶珠）」**。這顆能實現各種願望、驅退邪魔、蘊藏神聖靈力的寶珠，正讓人聯想到作品中蘊藏強大力量的「四魂之玉」。
@@ -52,6 +57,11 @@ draft: false
 
   當這四者達到完美平衡與和諧時，人的靈魂便會美麗地發光。但若被邪念、恐懼或強烈欲望所支配，靈魂就會因「穢」而染黑混濁，被失控的破壞衝動（暴走的荒魂）吞噬。作品中也出現了荒魂、和魂、奇魂、幸魂的玉，而「四魂之玉」會依據持有者的心境發光，或是變得邪惡黑化的設定，似乎正濃厚反映了這套神道靈魂觀。
 * **【太陽醬的私房解說】：** 我們的日常生活也完全一樣！唯有勇氣（荒魂）之外，再加上體貼（和魂）、愛（幸魂）、正確的智慧（奇魂）齊備，真正的好運才會到來。如果你覺得「最近容易煩躁」「沒辦法溫柔對待別人」，不妨到神社淨化心靈，把四個魂魄的平衡重新調整回來吧☀️
+
+<figure class="photo">
+<img src="/images/posts/fushimi-torii-tunnel-1200.webp" srcset="/images/posts/fushimi-torii-tunnel-640.webp 640w, /images/posts/fushimi-torii-tunnel-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="848" loading="lazy" decoding="async" alt="朱紅鳥居連綿、石板路向前彎曲的隧道">
+<figcaption>伏見稻荷大社的鳥居隧道（京都市伏見區）。照片：<a href="https://commons.wikimedia.org/wiki/User:Marco_Almbauer" rel="noopener" target="_blank">Marco Almbauer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ### 御神木的注連繩結界 ＆ 梓弓的破魔之力
 * **【特色】：** 犬夜叉被封印長達50年、纏繞著注連繩的巨木「時代樹」，以及巫女桔梗與戈薇所射出的破魔矢。

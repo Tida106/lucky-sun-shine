@@ -37,11 +37,21 @@ Itomori Lake, the beautiful caldera lake that's a symbol of the film, has as one
 * **【Sun-chan's Top Pick Explanation】:** The view from Tateishi Park at dusk truly looks just like a scene from the movie! As you gaze at the sky shifting from orange to indigo, your everyday worries and distractions melt away, and a natural feeling of gratitude toward the people who matter to you wells up. This is the twilight spot Sun-chan most recommends for anyone wanting to reset their heart during a turning point in life ☀️
 * **【Official Info】:** [Suwa Tourism Association Official Website (Tateishi Park)](https://www.suwakanko.jp/)
 
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-640.webp 640w, /images/posts/suwa-kamisha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="The worship hall of Suwa Taisha Kamisha Honmiya with golden ornaments and a stone-paved precinct">
+<figcaption>The worship hall of Suwa Taisha Kamisha Honmiya (Suwa, Nagano). Photo: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 ### Suwa Taisha Shrine (Suwa-taisha), the First Shrine of Shinano Province
 * **【Features】:** Suwa Taisha is the head shrine of over 10,000 Suwa shrines nationwide, made up of two shrine complexes and four sanctuaries: the "Upper Shrine" (Honmiya and Maemiya) to the south of Lake Suwa, and the "Lower Shrine" (Harumiya and Akimiya) to the north.
 * **【Deep Background and Origins】:** This is one of Japan's oldest shrines, but its biggest distinguishing feature is that **none of its three main sanctuaries—Kamisha Honmiya, Shimosha Harumiya, and Shimosha Akimiya—has a honden (the building that normally houses the deity)**. Rather than worshipping at a man-made shrine building, visitors worship directly at Mt. Moriya, the sacred mountain itself, or at the giant sacred trees within the grounds, carrying on a form of primal nature worship (animism) that has continued since the Jomon period.
 * **【Sun-chan's Top Pick Explanation】:** This is the pure power of Shinto in its original form: feeling that the deities dwell not in buildings, but in the mountains, the wind, and the great trees themselves! Each of the four sanctuaries has its own distinct character and refreshing energy, so if you take your time visiting all four in the "Shisha-meguri" pilgrimage, the earth's energy will fill your whole body, granting you powerful grounding (establishing your own sense of self) ☀️
 * **【Official Info】:** [Suwa Taisha Shrine Official Website](https://suwataisha.or.jp/)
+
+<figure class="photo">
+<img src="/images/posts/suwa-harumiya-kaguraden-1200.webp" srcset="/images/posts/suwa-harumiya-kaguraden-640.webp 640w, /images/posts/suwa-harumiya-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="788" loading="lazy" decoding="async" alt="The kagura hall of Suwa Taisha Shimosha Harumiya with a large shimenawa rope">
+<figcaption>The kagura hall of Suwa Taisha Shimosha Harumiya (Shimosuwa, Nagano). Photo: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
 
 ### The Onbashira Festival and the Barrier at the Four Corners
 * **【Features】:** One of Japan's three great unusual festivals, held once every six years, in the years of the Tiger and the Monkey. Sixteen giant fir logs, over 150 years old and cut from the mountains, are hauled entirely by human power and erected at the four corners of each shrine's grounds.

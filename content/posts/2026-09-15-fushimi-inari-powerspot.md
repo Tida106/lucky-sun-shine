@@ -42,12 +42,22 @@ draft: false
 ### ③ 100円玉を準備しておくスマートな気配り
 御朱印をいただく際にお納めするお金は、神社では「初穂料（はつほりょう）」、寺院では「納経料（のうきょうりょう）」と呼ばれます。相場は1体につき300円〜500円ほど。大きな売買ではないため、あらかじめ100円玉をいくつか専用の小銭入れに入れて準備しておくと、授与所でとってもスマートに対応できて運気もアップしちゃうよ☀️！
 
+<figure class="photo">
+<img src="/images/posts/fushimi-torii-tunnel-1200.webp" srcset="/images/posts/fushimi-torii-tunnel-640.webp 640w, /images/posts/fushimi-torii-tunnel-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="848" loading="lazy" decoding="async" alt="朱色の鳥居が連なり、石畳の道が奥へ曲がっていくトンネル">
+<figcaption>伏見稲荷大社の鳥居のトンネル（京都市伏見区）。写真：<a href="https://commons.wikimedia.org/wiki/User:Marco_Almbauer" rel="noopener" target="_blank">Marco Almbauer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 3. 伏見稲荷大社「お山巡り」でパワーチャージ！女子旅おすすめルート
 
 ここからは、和銅4年（711年）に創建された全国約3万社ある稲荷神社の総本宮、**伏見稲荷大社**での開運ハイキングに出発しよう！標高233メートルの稲荷山全体が聖域になっていて、歩くだけで身体の中から元気が湧いてくる最高のパワースポットなんだ！
 
 ### ❶ 旅のスタートは巨大な本殿から！
 山の麓に位置する本殿で、商売繁昌や生活の豊かさを祈願したら、まずは授与所で最初の御朱印をいただきましょう。職人さんが目の前で力強く書き上げてくれる「伏見稲荷大社」の墨書きは、見ているだけでパワーをもらえます！（初穂料：300円〜500円／直書き）
+
+<figure class="photo">
+<img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奥へ続く2本の朱色の千本鳥居の参道">
+<figcaption>伏見稲荷大社の千本鳥居（京都市伏見区）。写真：<a href="https://commons.wikimedia.org/wiki/User:Basile_Morin" rel="noopener" target="_blank">Basile Morin</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ### ❷ 圧巻の朱色！「千本鳥居」をくぐる
 本殿の奥へ進むと、目の前に広がるのが約1万基もの朱色の鳥居が連なる**「千本鳥居」**のトンネル！朱色は古来より生命力と陽の気を象徴する特別なカラー。光が差し込む鳥居のトンネルを歩いていると、まるで自分のエネルギーが新しく生まれ変わっていくような爽快感が味わえるよ☀️！

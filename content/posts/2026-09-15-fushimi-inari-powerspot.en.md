@@ -45,12 +45,22 @@ Since a Goshuin represents proof of your worship and respect, **the golden rule 
 ### 3. A Thoughtful Tip: Prepare 100-Yen Coins in Advance
 The offering paid when receiving a Goshuin is called *hatsuho-ryo* at shrines and *nokyo-ryo* at temples, typically ranging between 300 and 500 yen per seal. Because this is a sacred offering rather than a standard retail purchase, keeping several 100-yen coins ready in a dedicated coin pouch makes your exchange seamless, thoughtful, and full of positive karma☀️!
 
+<figure class="photo">
+<img src="/images/posts/fushimi-torii-tunnel-1200.webp" srcset="/images/posts/fushimi-torii-tunnel-640.webp 640w, /images/posts/fushimi-torii-tunnel-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="848" loading="lazy" decoding="async" alt="A tunnel of vermilion torii with a stone path curving ahead">
+<figcaption>A tunnel of torii gates at Fushimi Inari Taisha (Fushimi, Kyoto). Photo: <a href="https://commons.wikimedia.org/wiki/User:Marco_Almbauer" rel="noopener" target="_blank">Marco Almbauer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 ## 3. Recharge with the "Oyama-meguri" Mountain Hike at Fushimi Inari Taisha! Recommended Lucky Route
 
 Now, let us embark on our lucky hiking route at **Fushimi Inari Taisha**, founded in the year 711 and standing proudly as the grand head shrine among roughly 30,000 Inari shrines throughout Japan! The entire 233-meter Mount Inari is sacred ground, making it an incredible power spot where merely taking steps charges you with vibrant vitality from within!
 
 ### 1. Start Your Journey at the Grand Main Shrine (Honden)!
 Located at the base of the sacred mountain, offer your prayers at the Main Sanctuary for prosperity, abundance, and smooth everyday living. Afterwards, visit the reception counter for your first Goshuin. Watching the calligrapher gracefully ink "Fushimi Inari Taisha" right before your eyes provides an instant boost of courage and energy! (Offering: 300 to 500 yen / Hand-inked directly into your book)
+
+<figure class="photo">
+<img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Two paths of vermilion Senbon Torii stretching into the distance">
+<figcaption>Senbon Torii at Fushimi Inari Taisha (Fushimi, Kyoto). Photo: <a href="https://commons.wikimedia.org/wiki/User:Basile_Morin" rel="noopener" target="_blank">Basile Morin</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
 
 ### 2. Step into a Sea of Vermilion: Walking Through the Senbon Torii
 Moving behind the Main Sanctuary brings you to the world-famous tunnel of roughly 10,000 vermilion torii gates, the **Senbon Torii**! Since ancient times, vermilion has symbolized vibrant life force and radiant yang (sun) energy. Walking through this sunlit archway of red gates feels remarkably refreshing, as if your inner spirit is being gently renewed☀️!
