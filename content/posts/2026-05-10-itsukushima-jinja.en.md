@@ -63,6 +63,11 @@ After Taira no Kiyomori was appointed governor of Aki Province in 1146, he under
 
 The main deities are the **Munakata Three Goddesses**, goddesses of maritime protection and safe journeys. In mythology, they are said to be **three sisters born from the pledge (Ukei) between Amaterasu Omikami and Susanoo-no-Mikoto**, and they transmit the "Munakata faith" along with Munakata Taisha Shrine in Fukuoka.
 
+<figure class="photo">
+<img src="/images/posts/itsukushima-otorii-1200.webp" srcset="/images/posts/itsukushima-otorii-640.webp 640w, /images/posts/itsukushima-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="The great torii gate of Itsukushima Shrine standing in the sea against blue sky and mountains">
+<figcaption>The Great Torii of Itsukushima Shrine (Hatsukaichi, Hiroshima). Photo: <a href="https://commons.wikimedia.org/wiki/User:JordyMeow" rel="noopener" target="_blank">JordyMeow</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 ## <span id="highlight"></span>Highlights and Must-Sees
 
 -   **Great Torii Gate floating on the sea** (16.6m tall; current gate rebuilt in 1875, major renovations completed in 2022)
@@ -71,6 +76,11 @@ The main deities are the **Munakata Three Goddesses**, goddesses of maritime pro
 -   **Noh Stage** (Important Cultural Property, Japan's only Noh stage built over the sea)
 -   **Sori-bashi Bridge (Curved Bridge)**
 -   **Mount Misen** (the highest peak on the island, accessible by ropeway)
+
+<figure class="photo">
+<img src="/images/posts/itsukushima-shaden-komainu-1200.webp" srcset="/images/posts/itsukushima-shaden-komainu-640.webp 640w, /images/posts/itsukushima-shaden-komainu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Vermilion shrine buildings and a bronze komainu with forested hills behind">
+<figcaption>Shrine buildings and a bronze komainu guardian at Itsukushima Shrine. Photo: <a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
 
 ## <span id="tide"></span>Tides and Visiting Tips
 

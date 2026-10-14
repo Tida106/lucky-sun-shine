@@ -59,6 +59,11 @@ draft: false
 
 主祭神は **宗像三女神** で、海上守護・道中安全の女神。神話では **天照大御神と素戔嗚尊の誓約（うけい）で生まれた三姉妹** とされ、福岡の宗像大社と共に「宗像信仰」を伝えます。
 
+<figure class="photo">
+<img src="/images/posts/itsukushima-otorii-1200.webp" srcset="/images/posts/itsukushima-otorii-640.webp 640w, /images/posts/itsukushima-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="青空と山を背景に海に立つ厳島神社の大鳥居">
+<figcaption>厳島神社の大鳥居（広島県廿日市市）。写真：<a href="https://commons.wikimedia.org/wiki/User:JordyMeow" rel="noopener" target="_blank">JordyMeow</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## <span id="highlight"></span>見どころ
 
 - **海上の大鳥居**（高さ16.6m、現在の鳥居は1875年再建、2022年大改修完了）
@@ -67,6 +72,11 @@ draft: false
 - **能舞台**（重要文化財、海上の能舞台は日本唯一）
 - **反橋（そりばし）**
 - **弥山**（島の最高峰、ロープウェイあり）
+
+<figure class="photo">
+<img src="/images/posts/itsukushima-shaden-komainu-1200.webp" srcset="/images/posts/itsukushima-shaden-komainu-640.webp 640w, /images/posts/itsukushima-shaden-komainu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="朱色の社殿と青銅の狛犬、背後に紅葉の山">
+<figcaption>厳島神社の社殿と狛犬。写真：<a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="tide"></span>潮汐と参拝のポイント
 

@@ -59,6 +59,11 @@ draft: false
 
 主祭神是**宗像三女神**，為守護海上與旅途平安的女神。神話中她們被視為**天照大御神與素戔嗚尊透過「誓約」所誕生的三姊妹**，與福岡的宗像大社共同傳承著「宗像信仰」。
 
+<figure class="photo">
+<img src="/images/posts/itsukushima-otorii-1200.webp" srcset="/images/posts/itsukushima-otorii-640.webp 640w, /images/posts/itsukushima-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="青空與群山襯托下矗立海中的嚴島神社大鳥居">
+<figcaption>嚴島神社的大鳥居（廣島縣廿日市市）。照片：<a href="https://commons.wikimedia.org/wiki/User:JordyMeow" rel="noopener" target="_blank">JordyMeow</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## <span id="highlight"></span>參拜亮點
 
 - **海上大鳥居**（高16.6公尺，現今的鳥居為1875年重建，2022年完成大規模修復）
@@ -67,6 +72,11 @@ draft: false
 - **能舞台**（重要文化財，是日本唯一的海上能舞台）
 - **反橋**
 - **彌山**（島上最高峰，設有空中纜車）
+
+<figure class="photo">
+<img src="/images/posts/itsukushima-shaden-komainu-1200.webp" srcset="/images/posts/itsukushima-shaden-komainu-640.webp 640w, /images/posts/itsukushima-shaden-komainu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="朱紅色社殿與青銅狛犬，背後是紅葉山林">
+<figcaption>嚴島神社的社殿與青銅狛犬。照片：<a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="tide"></span>潮汐與參拜重點
 

@@ -58,6 +58,11 @@ draft: false
 
 เทพประธานคือ **สามเทพีมุนากาตะ** เทพีผู้คุ้มครองทางทะเลและการเดินทางปลอดภัย ตามเทพปกรณัมเล่าว่าเป็น **พี่น้องสามองค์ที่ถือกำเนิดจากคำสัตย์สาบาน (อุเกะอิ) ระหว่างเทพีอามาเทราสึโอมิคามิกับซูซาโนโอะ โนะ มิโคโตะ** และมีความเชื่อ “มุนากาตะ” ที่สืบต่อกันมาร่วมกับศาลเจ้ามุนากาตะ ไทฉะ ในจังหวัดฟุกุโอกะ
 
+<figure class="photo">
+<img src="/images/posts/itsukushima-otorii-1200.webp" srcset="/images/posts/itsukushima-otorii-640.webp 640w, /images/posts/itsukushima-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="ประตูโทริใหญ่ของศาลเจ้าอิสึคุชิมะที่ตั้งตระหง่านในทะเล มีท้องฟ้าสีครามและภูเขาเป็นฉากหลัง">
+<figcaption>ประตูโทริใหญ่ของศาลเจ้าอิสึคุชิมะ (เมืองฮัตสึไกจิ จังหวัดฮิโรชิมะ). ภาพ: <a href="https://commons.wikimedia.org/wiki/User:JordyMeow" rel="noopener" target="_blank">JordyMeow</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาดภาพ)</figcaption>
+</figure>
+
 ## <span id="highlight"></span>จุดเด่นที่ไม่ควรพลาด
 
 -   **โทริอิใหญ่ที่ตั้งอยู่กลางทะเล** (สูง 16.6 เมตร ต้นปัจจุบันสร้างใหม่ในปี ค.ศ. 1875 และงานบูรณะครั้งใหญ่แล้วเสร็จในปี ค.ศ. 2022)
@@ -66,6 +71,11 @@ draft: false
 -   **เวทีโนห์** (ทรัพย์สินทางวัฒนธรรมสำคัญ และเป็นเวทีโนห์เพียงแห่งเดียวของญี่ปุ่นที่สร้างเหนือทะเล)
 -   **สะพานโซริบาชิ (สะพานโค้ง)**
 -   **ภูเขามิเซ็น** (ยอดเขาที่สูงที่สุดบนเกาะ ขึ้นได้โดยกระเช้าลอยฟ้า)
+
+<figure class="photo">
+<img src="/images/posts/itsukushima-shaden-komainu-1200.webp" srcset="/images/posts/itsukushima-shaden-komainu-640.webp 640w, /images/posts/itsukushima-shaden-komainu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="อาคารศาลเจ้าสีแดงชาดและโคมาอินุสัมฤทธิ์ มีภูเขาเขียวขจีอยู่ด้านหลัง">
+<figcaption>อาคารศาลเจ้าและโคมาอินุสัมฤทธิ์ที่ศาลเจ้าอิสึคุชิมะ. ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาดภาพ)</figcaption>
+</figure>
 
 ## <span id="tide"></span>น้ำขึ้นน้ำลงและเคล็ดลับการเยี่ยมชม
 
