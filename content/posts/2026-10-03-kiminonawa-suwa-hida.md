@@ -30,11 +30,21 @@ draft: false
 * **【太陽ちゃんのイチオシ解説】：** 夕暮れ時の立石公園からの景色は、まさに映画のスクリーンそのもの！オレンジから藍色へと移ろう空を見つめていると、日頃の悩みや雑念がスーッと消えて、大切な人への感謝の気持ちが自然と湧き上がってきます。人生の転換期に心をリセットしたい方に、一番おすすめしたいトワイライトスポットです☀️
 * **【公式案内】：** [諏訪観光協会 公式サイト（立石公園）](https://www.suwakanko.jp/)
 
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-640.webp 640w, /images/posts/suwa-kamisha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="金色の装飾が輝く諏訪大社上社本宮の拝殿と石畳の境内">
+<figcaption>諏訪大社上社本宮の拝殿（長野県諏訪市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 信濃國一之宮 諏訪大社（すわたいしゃ）
 * **【特徴】：** 諏訪湖を挟んで南側に「上社（本宮・前宮）」、北側に「下社（春宮・秋宮）」の二社四宮が鎮座する、全国に1万社以上ある諏訪神社の総本社です。
 * **【深い背景・由来】：** 日本最古級の神社の一つですが、最大の特徴は**「上社本宮・下社春宮・下社秋宮の3つの神社に本殿（神様を祀る建物）が存在しない」**こと。人工の社殿ではなく、神体山である「守屋山」や境内の「巨木（御神木）」そのものを御神体として直接拝む、縄文時代から続く原初の自然崇拝（アニミズム）の形式を現在に伝えています。
 * **【太陽ちゃんのイチオシ解説】：** 建物ではなく、山や風、大木そのものに神様が宿っていると感じる神道本来のピュアなパワー！四宮それぞれに異なる個性と清々しい気があるので、時間をかけて巡る「四社巡り」を行うと、大地のエネルギーが全身に満ちて力強いグラウンディング（自分軸の確立）が叶いますよ☀️
 * **【公式案内】：** [信濃國一之宮 諏訪大社 公式サイト](https://suwataisha.or.jp/)
+
+<figure class="photo">
+<img src="/images/posts/suwa-harumiya-kaguraden-1200.webp" srcset="/images/posts/suwa-harumiya-kaguraden-640.webp 640w, /images/posts/suwa-harumiya-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="788" loading="lazy" decoding="async" alt="大きなしめ縄が掛かる諏訪大社下社春宮の神楽殿">
+<figcaption>諏訪大社下社春宮の神楽殿（長野県下諏訪町）。写真：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ### 御柱祭（おんばしらさい）と四隅の結界
 * **【特徴】：** 寅年と申年の6年に一度開催される、日本三大奇祭の一つ。山から切り出した樹齢150年以上の巨木（モミの大木）16本を、人力だけで各宮の境内四隅に曳き建てます。
