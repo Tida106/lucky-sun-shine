@@ -23,6 +23,11 @@ This guide covers five places: Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in Mon
 
 > **Please note:** For some places, the 2026 autumn dates are not yet on the official website. In those cases we say "not yet announced" and give past years as a rough guide, always with the year. Please check each official website before you go.
 
+<figure class="photo">
+<img src="/images/posts/kiyomizu-pagoda-illumination-1200.webp" srcset="/images/posts/kiyomizu-pagoda-illumination-640.webp 640w, /images/posts/kiyomizu-pagoda-illumination-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The illuminated three-storied pagoda of Kiyomizu-dera against the night sky, surrounded by autumn leaves">
+<figcaption>The illuminated three-storied pagoda of Kiyomizu-dera among autumn leaves. Photo: <a href="https://commons.wikimedia.org/wiki/User:Martin_Falbisoner" rel="noopener" target="_blank">Martin Falbisoner</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (cropped and resized)</figcaption>
+</figure>
+
 ## Quick comparison of the five places (2026)
 
 | Place | 2026 dates | Hours | Fee | Area |
@@ -34,6 +39,11 @@ This guide covers five places: Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in Mon
 | Kifune Shrine | Autumn illumination dates for 2026 not yet announced | Main shrine open 6:00 am – 8:00 pm (May 1 – Nov 30) | Free to visit | Sakyo-ku, Kyoto |
 
 *Entries marked "2025" are results from 2025 and may differ in 2026.*
+
+<figure class="photo">
+<img src="/images/posts/kiyomizu-stage-illumination-1200.webp" srcset="/images/posts/kiyomizu-stage-illumination-640.webp 640w, /images/posts/kiyomizu-stage-illumination-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The illuminated stage of Kiyomizu-dera and autumn leaves, with a blue beam of light across the night sky">
+<figcaption>Kiyomizu-dera's stage and the night view of Kyoto. Photo: Haibo Lu / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
 
 ## 1. Kiyomizu-dera: a single beam of blue light said to represent Kannon's compassion 💙
 

@@ -18,6 +18,11 @@ SNSには綺麗な写真がたくさん並びますが、実は「映える」�
 
 > **ご注意**　2026年秋の日程が公式サイトにまだ載っていないスポットもあります。その場合は「未発表」と書き、例年の目安は「2025年は〜」と年を明記しています。お出かけ前に、必ず各公式サイトで最新情報をご確認くださいね。
 
+<figure class="photo">
+<img src="/images/posts/kiyomizu-pagoda-illumination-1200.webp" srcset="/images/posts/kiyomizu-pagoda-illumination-640.webp 640w, /images/posts/kiyomizu-pagoda-illumination-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夜空に浮かぶ、ライトアップされた清水寺の三重塔と紅葉">
+<figcaption>紅葉に包まれてライトアップされた清水寺の三重塔。写真：<a href="https://commons.wikimedia.org/wiki/User:Martin_Falbisoner" rel="noopener" target="_blank">Martin Falbisoner</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（トリミング・サイズ変更あり）</figcaption>
+</figure>
+
 ## 5スポットの早見表（2026年版）
 
 | スポット | 2026年の日程 | 時間 | 料金 | エリア |
@@ -29,6 +34,11 @@ SNSには綺麗な写真がたくさん並びますが、実は「映える」�
 | 貴船神社 | 紅葉ライトアップの2026年日程は未発表 | 本宮の参拝時間は6:00〜20:00（5/1〜11/30） | 参拝無料 | 京都市左京区 |
 
 ※「2025年」と書かれているものは、昨年の実績です。2026年の内容とは異なる場合があります。
+
+<figure class="photo">
+<img src="/images/posts/kiyomizu-stage-illumination-1200.webp" srcset="/images/posts/kiyomizu-stage-illumination-640.webp 640w, /images/posts/kiyomizu-stage-illumination-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="青い光の筋が夜空に伸びる、ライトアップされた清水寺の舞台と紅葉">
+<figcaption>夜の清水寺の舞台と京都の夜景。写真：Haibo Lu / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## 1. 清水寺：観音様の慈悲を表す「青い一筋の光」💙
 

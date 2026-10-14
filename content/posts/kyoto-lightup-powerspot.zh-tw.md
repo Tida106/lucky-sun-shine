@@ -19,6 +19,11 @@ draft: false
 
 > **請注意**　部分景點的 2026 年秋季日程，官方網站尚未公布。這種情況我們會寫「尚未公布」，並以「2025 年為…」的方式標明年份，作為往年的參考。出發前請務必確認各官方網站的最新資訊。
 
+<figure class="photo">
+<img src="/images/posts/kiyomizu-pagoda-illumination-1200.webp" srcset="/images/posts/kiyomizu-pagoda-illumination-640.webp 640w, /images/posts/kiyomizu-pagoda-illumination-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夜空下點燈中的清水寺三重塔與紅葉">
+<figcaption>被紅葉環繞、點燈中的清水寺三重塔。照片：<a href="https://commons.wikimedia.org/wiki/User:Martin_Falbisoner" rel="noopener" target="_blank">Martin Falbisoner</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已裁切並調整尺寸）</figcaption>
+</figure>
+
 ## 五個景點一覽表（2026 年版）
 
 | 景點 | 2026 年日程 | 時間 | 費用 | 地區 |
@@ -30,6 +35,11 @@ draft: false
 | 貴船神社 | 2026 年紅葉點燈日程尚未公布 | 本宮參拜時間為 6:00〜20:00（5/1〜11/30） | 參拜免費 | 京都市左京區 |
 
 ※ 標示「2025 年」的內容是去年的實績，2026 年可能有所不同。
+
+<figure class="photo">
+<img src="/images/posts/kiyomizu-stage-illumination-1200.webp" srcset="/images/posts/kiyomizu-stage-illumination-640.webp 640w, /images/posts/kiyomizu-stage-illumination-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="夜空中延伸著藍色光束，點燈中的清水寺舞台與紅葉">
+<figcaption>夜晚的清水寺舞台與京都夜景。照片：Haibo Lu / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## 1. 清水寺：象徵觀音慈悲的「一道青色光束」💙
 
