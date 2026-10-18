@@ -2,7 +2,7 @@
 title: "Kyoto Night Illumination & Special Evening Openings"
 description: "Kyoto night illumination 2026: dates, hours, fees and access for Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in and Kifune Shrine, plus what each light means."
 date: "2026-09-17"
-updated: "2026-10-07"
+updated: "2026-10-18"
 category: "powerspots"
 excerpt: "Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in Monzeki and Kifune Shrine. A practical guide to Kyoto's 2026 night illumination: dates, hours, fees, access, and what each light is meant to express."
 tags: ["Kyoto", "Night Illumination", "Special Evening Opening", "Kiyomizu-dera", "Kodai-ji", "Entoku-in", "Shoren-in", "Kifune Shrine"]
@@ -21,7 +21,7 @@ On long autumn nights, temples and shrines across Kyoto hold "special evening op
 
 This guide covers five places: Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in Monzeki and Kifune Shrine. We kept our "meaning of the light" angle, and added what you actually need to plan a visit: **dates, hours, fees and access.**
 
-> **Please note:** For some places, the 2026 autumn dates are not yet on the official website. In those cases we say "not yet announced" and give past years as a rough guide, always with the year. Please check each official website before you go.
+> **Please note:** Dates are as of October 18, 2026. Where we could not confirm a date on the official website, we say where it was listed. Past years are given as a rough guide, always with the year. Please check each official website before you go.
 
 <figure class="photo">
 <img src="/images/posts/kiyomizu-pagoda-illumination-1200.webp" srcset="/images/posts/kiyomizu-pagoda-illumination-640.webp 640w, /images/posts/kiyomizu-pagoda-illumination-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The illuminated three-storied pagoda of Kiyomizu-dera against the night sky, surrounded by autumn leaves">
@@ -32,11 +32,11 @@ This guide covers five places: Kiyomizu-dera, Kodai-ji, Entoku-in, Shoren-in Mon
 
 | Place | 2026 dates | Hours | Fee | Area |
 |---|---|---|---|---|
-| Kiyomizu-dera | Autumn dates not yet announced (spring 2026: Mar 27 – Apr 5) | Autumn 2025: 5:30 pm – 9:00 pm (admission ends 9:00 pm) | Spring 2026: 500 JPY adults, 200 JPY elementary and junior high students | Higashiyama-ku, Kyoto |
+| Kiyomizu-dera | Nov 21 (Sat) – Nov 30 (Mon) | 5:30 pm – 9:00 pm (admission ends 9:00 pm) | 500 JPY adults, 200 JPY elementary and junior high students | Higashiyama-ku, Kyoto |
 | Kodai-ji | Oct 23 – Dec 13, 2026 (per the official website) | 9:00 am – 9:30 pm last admission (gates close 10:00 pm); lights on at 5:00 pm | 800 JPY adults, 400 JPY junior high and high school students (same day and night) | Higashiyama-ku, Kyoto |
-| Entoku-in | Autumn 2026 not confirmed (autumn 2025: Oct 24 – Dec 14) | Autumn 2025: 10:00 am – 9:30 pm (admission ends 9:30 pm); lights on at 5:00 pm | Combined Kodai-ji + Entoku-in ticket: 1,200 JPY adults (travel-agency listing; please confirm officially) | Higashiyama-ku, Kyoto |
-| Shoren-in Monzeki | Autumn dates not yet announced (autumn 2025: Nov 7 – Dec 7) | Autumn 2025: 6:00 pm – 10:00 pm (last admission 9:30 pm) | Autumn 2025: 1,000 JPY (travel information site) | Higashiyama-ku, Kyoto |
-| Kifune Shrine | Autumn illumination dates for 2026 not yet announced | Main shrine open 6:00 am – 8:00 pm (May 1 – Nov 30) | Free to visit | Sakyo-ku, Kyoto |
+| Entoku-in | Oct 23 (Fri) – Dec 13 (Sun) *listed on a travel information site; please confirm officially | Lights on at 5:00 pm (autumn 2025: until 9:30 pm, admission ends) | Combined Kodai-ji + Entoku-in ticket: 1,200 JPY adults (travel-agency listing; please confirm officially) | Higashiyama-ku, Kyoto |
+| Shoren-in Monzeki | Nov 6 (Fri) – Dec 6 (Sun) *some sites list a Nov 7 start | 6:00 pm – 10:00 pm (last admission 9:30 pm) | 1,500 JPY | Higashiyama-ku, Kyoto |
+| Kifune Shrine | Autumn illumination: Nov 7 – 24 listed on a travel information site (please confirm officially) | Main shrine open 6:00 am – 8:00 pm (May 1 – Nov 30) | Free to visit | Sakyo-ku, Kyoto |
 
 *Entries marked "2025" are results from 2025 and may differ in 2026.*
 
@@ -56,9 +56,9 @@ In our editorial view, this is the place for **days when you have been pushing y
 
 ### Basic information (Kiyomizu-dera)
 
-- **2026 dates:** Spring: Mar 27 – Apr 5, 2026 (6:00 pm – 9:00 pm, admission ends 9:00 pm). **As of October 7, 2026, the general autumn dates are not yet on the official website.** The autumn evening openings are usually timed to the peak autumn colors (late November to early December).
-- **Past results (autumn 2025):** Nov 22 – Dec 7, 2025, 5:30 pm – 9:00 pm (admission ends 9:00 pm). No reservation was required in 2025.
-- **Fee:** Spring 2026: 500 JPY for adults, 200 JPY for elementary and junior high students. Please check the autumn fee when the dates are announced.
+- **2026 autumn dates:** **Nov 21 (Sat) – Nov 30 (Mon), 2026**, 5:30 pm – 9:00 pm (admission ends 9:00 pm) (per the Kyoto City official tourism site). As in other years, it is timed to the autumn colors.
+- **Past results (autumn 2025):** Nov 22 – Dec 7, 2025, 5:30 pm – 9:00 pm (admission ends 9:00 pm). No reservation was required in 2025. Please check the official website to see whether a reservation is needed in 2026.
+- **Fee:** 500 JPY for adults, 200 JPY for elementary and junior high students.
 - **Address:** 1-294 Kiyomizu, Higashiyama-ku, Kyoto
 - **Access:** Please check the official website.
 - **Official websites:** [Kiyomizu-dera official (English)](https://www.kiyomizudera.or.jp/en/ "newtab") / [Events (Japanese)](https://www.kiyomizudera.or.jp/event/ "newtab") / [News (Japanese)](https://www.kiyomizudera.or.jp/news "newtab")
@@ -90,7 +90,7 @@ Because it is so close to Kodai-ji, it works well as the final stop on a night w
 
 ### Basic information (Entoku-in)
 
-- **2026 dates:** Not confirmed. It is expected to run at about the same time as Kodai-ji, but please check the official website.
+- **2026 autumn dates:** **Oct 23 (Fri) – Dec 13 (Sun), 2026** (listed on a travel information site; please confirm with the official website). This is the same period as Kodai-ji.
 - **Past results (autumn 2025):** Oct 24 – Dec 14, 2025, 10:00 am – 9:30 pm (admission ends 9:30 pm), lights on at 5:00 pm.
 - **Fee:** A combined ticket for the two temples (Kodai-ji and Entoku-in) is listed at **1,200 JPY for adults** (a 2026 travel-agency listing; we recommend confirming with the temples).
 - **Access:** Right next to Kodai-ji.
@@ -110,7 +110,8 @@ In our editorial view, this is a place **for people who would rather soak in the
 
 ### Basic information (Shoren-in Monzeki)
 
-- **2026 dates:** The summer special opening runs Jul 17 – Aug 23, 2026 (except Aug 13–16), 7:00 pm – 9:30 pm (admission ends 9:00 pm), 1,500 JPY for adults and 1,000 JPY for elementary students (official). **As of October 7, 2026, the autumn dates are not yet announced.**
+- **2026 autumn dates:** **Nov 6 (Fri) – Dec 6 (Sun), 2026**, 6:00 pm – 10:00 pm (last admission 9:30 pm), 1,500 JPY (listed by JR Central's "Sou da, Kyoto, Ikou." campaign). Some information sites give Nov 7 as the start, so please check the [official website](https://www.shorenin.com/night/ "newtab") before you go.
+- **For reference (summer 2026):** Jul 17 – Aug 23, 2026 (except Aug 13–16), 7:00 pm – 9:30 pm (admission ends 9:00 pm), 1,500 JPY for adults and 1,000 JPY for elementary students (official).
 - **Past results (autumn 2025):** Nov 7 – Dec 7, 2025, the first time in five years (official announcement). Hours were 6:00 pm – 10:00 pm (last admission 9:30 pm), and the fee was 1,000 JPY (travel information site).
 - **Access and reservations:** Please check the official website.
 - **Address:** Awataguchi Sanjobo-cho, Higashiyama-ku, Kyoto
@@ -120,14 +121,14 @@ In our editorial view, this is a place **for people who would rather soak in the
 
 Last is Kifune Shrine, in the mountains of Kyoto. It is **the head shrine of water deities**, and is also known for blessings related to relationships and love (*en-musubi*).
 
-In some years, the area has been lit as "Kifune Maple Lantern Illumination" (京の奥座敷・貴船もみじ灯篭), covering the area around Kifune Shrine and the roughly 250 m "maple tunnel" of the Eizan Electric Railway. This is based on past events, and **we have not confirmed whether it will be held in 2026.**
+In some years, the area has been lit as "Kifune Maple Lantern Illumination" (京の奥座敷・貴船もみじ灯篭), covering the area around Kifune Shrine and the roughly 250 m "maple tunnel" of the Eizan Electric Railway. This is based on past events. A travel information site lists 2026 dates, but **we have not been able to confirm them on the official website.**
 
 In our editorial view, this is a good fit **when you want to regain some energy** in the quiet of the mountains, away from the city.
 
 ### Basic information (Kifune Shrine)
 
 - **Main shrine hours:** 6:00 am – 8:00 pm (May 1 – Nov 30), open every day, free to visit (official).
-- **Autumn illumination:** In 2025: Nov 7 – 24, from sunset to about 8:30 pm (travel information site). The best colors are usually early to late November. **The 2026 dates are not yet announced.**
+- **Autumn illumination:** A travel information site lists **Nov 7 – 24, 2026** (other details not confirmed). In 2025: Nov 7 – 24, from sunset to about 8:30 pm (travel information site). The best colors are usually early to late November. **We could not confirm this on the official website, so please check [news](https://kifunejinja.jp/news "newtab") before you go.**
 - **Access (official):** About a 30-minute walk (2 km) from Kibuneguchi Station on the Eizan Electric Railway. Or change at Kibuneguchi to the Kyoto Bus (No. 33), get off at "Kifune", and walk about 5 minutes.
 - **Parking:** Limited (a travel information site lists 18 spaces). Expect heavy crowds in the autumn-color season.
 - **Address:** 180 Kuramakifune-cho, Sakyo-ku, Kyoto
@@ -138,7 +139,7 @@ In our editorial view, this is a good fit **when you want to regain some energy*
 We do not recommend trying all five places in one night, because they lie in different directions. We suggest splitting them like this:
 
 - **Night 1 (southern Higashiyama): Kiyomizu-dera → Kodai-ji → Entoku-in**
-  These three are in the same part of Higashiyama, so you can link them in one evening. Kodai-ji's lights come on at 5:00 pm, so starting early is one option. However, Kiyomizu-dera's autumn dates have not been announced, so **please check whether the dates overlap on the official websites before you plan.**
+  These three are in the same part of Higashiyama, so you can link them in one evening. Kodai-ji's lights come on at 5:00 pm, so starting early is one option. However, Kiyomizu-dera's autumn opening is only Nov 21 – 30, so **if you want to link all three in one evening, plan within those dates** (Kodai-ji and Entoku-in run Oct 23 – Dec 13).
 - **Another night (northern Higashiyama): Shoren-in Monzeki**
   Shoren-in Monzeki is in northern Higashiyama. Since it is a place to take in the light slowly, we suggest keeping this night for Shoren-in alone.
 - **Another day: Kifune Shrine**
@@ -190,9 +191,9 @@ Whether an event is held or changed is announced on each official website, so pl
 
 According to the official information: about a 30-minute walk (2 km) from Kibuneguchi Station on the Eizan Electric Railway. Or change at Kibuneguchi to the Kyoto Bus (No. 33), get off at "Kifune", and walk about 5 minutes. Parking is limited, so public transport is the safer choice in the autumn-color season.
 
-### Q6. When will the 2026 dates be confirmed?
+### Q6. Where can I check the 2026 autumn dates?
 
-You will need to wait for each temple or shrine's announcement. Check [events](https://www.kiyomizudera.or.jp/event/ "newtab") and [news](https://www.kiyomizudera.or.jp/news "newtab") for Kiyomizu-dera, the [evening opening page](https://www.shorenin.com/night/ "newtab") for Shoren-in Monzeki, and [news](https://kifunejinja.jp/news "newtab") for Kifune Shrine before you go (all in Japanese).
+The 2026 autumn dates are out for Kiyomizu-dera (Nov 21 – 30), Kodai-ji (Oct 23 – Dec 13) and Shoren-in Monzeki (Nov 6 – Dec 6). For Entoku-in and Kifune Shrine, the dates come from travel information sites, so please confirm them officially. Dates can change, so check [events](https://www.kiyomizudera.or.jp/event/ "newtab") and [news](https://www.kiyomizudera.or.jp/news "newtab") for Kiyomizu-dera, the [evening opening page](https://www.shorenin.com/night/ "newtab") for Shoren-in Monzeki, and [news](https://kifunejinja.jp/news "newtab") for Kifune Shrine before you go (all in Japanese).
 
 ---
 
@@ -212,4 +213,4 @@ Sun-chan is cheering for a warm little light to turn on in your heart!
 - [Kurama-dera Temple Visiting Guide](/en/blog/kurama-dera/)
 - [Seimei Shrine (Seimei Jinja) in Kyoto: Highlights and Blessings](/en/blog/seimei-jinja/)
 
-Information last checked: October 7, 2026.
+Information last checked: October 18, 2026.
