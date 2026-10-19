@@ -13,6 +13,11 @@ draft: false
 
 三重県伊勢市の **伊勢神宮（いせじんぐう）** は、「**日本の総氏神**」と称される、年間800万人以上が参拝する日本最高峰のパワースポット。正式名称は **「神宮」** で、125の宮社の総称です。20年に一度の **式年遷宮** によって社殿を新しく造り替える独自の伝統が、1300年以上続いています。本記事では **歴史・参拝順序・モデルコース・周辺スポット・参拝のお守りに向くパワーストーン・FAQ** を1ページにまとめます。
 
+<figure class="photo">
+<img src="/images/posts/ise-jingu-geku-torii-1200.webp" srcset="/images/posts/ise-jingu-geku-torii-640.webp 640w, /images/posts/ise-jingu-geku-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="伊勢神宮外宮の正宮前にそびえる茅葺き屋根の鳥居と板垣">
+<figcaption>伊勢神宮・外宮の鳥居。写真：MaedaAkihiko／<a href="https://commons.wikimedia.org/wiki/File:Ise-Shrine_Geku-Gate.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、パブリックドメイン（リサイズ）</figcaption>
+</figure>
+
 ## 目次
 
 - [基本情報・神社データ](#basic)
@@ -74,6 +79,11 @@ draft: false
 - **宇治橋** を渡る瞬間が日常から神域への境界
 - **五十鈴川の御手洗場** で心身を清める伝統
 - 参道は右側通行（外宮は左側通行）
+
+<figure class="photo">
+<img src="/images/posts/ise-jingu-ujibashi-1200.webp" srcset="/images/posts/ise-jingu-ujibashi-640.webp 640w, /images/posts/ise-jingu-ujibashi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="912" loading="lazy" decoding="async" alt="内宮の入口に立つ鳥居と、その先に続く宇治橋。参拝者が橋を渡っている様子">
+<figcaption>内宮の入口、宇治橋の鳥居。写真：Zairon／<a href="https://commons.wikimedia.org/wiki/File:Ise_Ise-jingu_Ujibashi_Bridge.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（リサイズ）</figcaption>
+</figure>
 
 ## <span id="manner"></span>参拝マナーの基本
 

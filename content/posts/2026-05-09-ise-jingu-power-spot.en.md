@@ -20,6 +20,11 @@ viatorSpots:
 
 Ise Grand Shrine (Ise Jingu) in Ise City, Mie Prefecture, is hailed as "Japan's Chief Guardian Deity" and attracts over 8 million visitors annually, making it one of Japan's foremost spiritual power spots. Its official name is simply "Jingu," and it encompasses a total of 125 shrines and facilities. A unique tradition, the **Shikinen Sengu**, has continued for over 1,300 years, involving the complete reconstruction of all shrine buildings every 20 years. This article provides a comprehensive overview on a single page, covering its history, pilgrimage order, model itineraries, surrounding spots, recommended crystals for your visit, and frequently asked questions.
 
+<figure class="photo">
+<img src="/images/posts/ise-jingu-geku-torii-1200.webp" srcset="/images/posts/ise-jingu-geku-torii-640.webp 640w, /images/posts/ise-jingu-geku-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The thatched-roof torii gate in front of the main sanctuary at Geku, the Outer Shrine of Ise Jingu">
+<figcaption>The torii gate at Geku, the Outer Shrine of Ise Jingu. Photo: MaedaAkihiko / <a href="https://commons.wikimedia.org/wiki/File:Ise-Shrine_Geku-Gate.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>, Public Domain (resized)</figcaption>
+</figure>
+
 ## Table of Contents
 
 - [Basic Information and Shrine Data](#basic)
@@ -81,6 +86,11 @@ Following the tradition of "**Geku Sentsai**" (visiting Geku first), you should 
 - Crossing **Ujibashi Bridge** marks the transition from daily life to the sacred realm
 - The tradition of purifying one's mind and body at the **Mitarashiba of the Isuzu River**
 - The approach path is right-hand traffic (Geku is left-hand traffic)
+
+<figure class="photo">
+<img src="/images/posts/ise-jingu-ujibashi-1200.webp" srcset="/images/posts/ise-jingu-ujibashi-640.webp 640w, /images/posts/ise-jingu-ujibashi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="912" loading="lazy" decoding="async" alt="The torii gate at the entrance to Naiku, with Ujibashi Bridge and visitors crossing it in the background">
+<figcaption>The torii gate at the entrance to Naiku, with Ujibashi Bridge beyond. Photo: Zairon / <a href="https://commons.wikimedia.org/wiki/File:Ise_Ise-jingu_Ujibashi_Bridge.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
 
 ## <span id="manner"></span>Basic Pilgrimage Etiquette
 

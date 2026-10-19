@@ -14,6 +14,11 @@ draft: false
 
 ศาลเจ้าอิเสะจิงงู (อิเสะ จิงงู) ในเมืองอิเสะ จังหวัดมิเอะ ได้รับการเคารพในฐานะ “ศาลเจ้าของชาวญี่ปุ่นทั้งประเทศ” มีผู้มาเยือนกว่า 8 ล้านคนต่อปี จึงเป็นหนึ่งในพาวเวอร์สปอตที่มีชื่อเสียงของญี่ปุ่น ชื่อทางการคือ “จิงงู” เพียงคำเดียว ประกอบด้วยศาลเจ้าและสถานที่เกี่ยวข้องรวม 125 แห่ง และมีธรรมเนียมเฉพาะตัวคือ **ชิกิเน็น เซ็งงู** ที่สืบต่อมากว่า 1,300 ปี คือการสร้างอาคารศาลเจ้าทั้งหมดขึ้นใหม่ทุก 20 ปี บทความนี้รวบรวมประวัติ ลำดับการไหว้ ตัวอย่างแผนเที่ยว สถานที่รอบๆ หินที่แนะนำสำหรับพกไปในวันที่ไปไหว้ และคำถามที่พบบ่อย ไว้ในหน้าเดียว
 
+<figure class="photo">
+<img src="/images/posts/ise-jingu-geku-torii-1200.webp" srcset="/images/posts/ise-jingu-geku-torii-640.webp 640w, /images/posts/ise-jingu-geku-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="โทริอิหลังคามุงจากที่หน้าโชกุ (อาคารหลัก) ของเกะคุ ศาลเจ้าชั้นนอกของอิเสะจิงงู">
+<figcaption>โทริอิของเกะคุ ศาลเจ้าชั้นนอกของอิเสะจิงงู ภาพถ่าย: MaedaAkihiko / <a href="https://commons.wikimedia.org/wiki/File:Ise-Shrine_Geku-Gate.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> สาธารณสมบัติ (ปรับขนาด)</figcaption>
+</figure>
+
 ## สารบัญ
 
 - [ข้อมูลพื้นฐานของศาลเจ้า](#basic)
@@ -75,6 +80,11 @@ draft: false
 - การข้าม **สะพานอูจิบาชิ** เปรียบเหมือนการก้าวจากโลกประจำวันเข้าสู่โลกศักดิ์สิทธิ์
 - มีธรรมเนียมชำระล้างกายและใจที่ **มิตาราชิบะริมแม่น้ำอิสึซุ**
 - ทางเดินเข้าศาลให้เดินชิดด้านขวา (ที่เกะคุให้เดินชิดด้านซ้าย)
+
+<figure class="photo">
+<img src="/images/posts/ise-jingu-ujibashi-1200.webp" srcset="/images/posts/ise-jingu-ujibashi-640.webp 640w, /images/posts/ise-jingu-ujibashi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="912" loading="lazy" decoding="async" alt="โทริอิทางเข้าไนคุ มองเห็นสะพานอูจิบาชิและผู้มาไหว้กำลังเดินข้ามสะพานอยู่ด้านหลัง">
+<figcaption>โทริอิทางเข้าไนคุ มองเห็นสะพานอูจิบาชิด้านหลัง ภาพถ่าย: Zairon / <a href="https://commons.wikimedia.org/wiki/File:Ise_Ise-jingu_Ujibashi_Bridge.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## <span id="manner"></span>มารยาทพื้นฐานในการไหว้
 
