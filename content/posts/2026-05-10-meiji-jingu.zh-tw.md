@@ -2,7 +2,7 @@
 title: "明治神宮參拜指南｜70萬平方公尺鎮守之森的東京最大能量景點"
 description: "全面解析明治神宮（東京都澀谷區代代木神園町1-1）的歷史・御利益・參拜重點・清正井・夫婦楠・新年參拜人潮資訊・推薦水晶能量石・周邊景點。這是完整攻略原宿車站步行1分鐘可達鎮守之森的珍藏版指南。"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-10-19"
 category: "powerspots"
 tags: ["水晶", "東京", "結緣"]
 slug: "meiji-jingu"
@@ -12,6 +12,11 @@ draft: false
 ## 前言
 
 明治神宮擁有**約70萬平方公尺的鎮守之森**，就坐落在東京・原宿的正旁邊，是首都最大的能量景點。1920年（大正9年）創建時種下的**約10萬株樹木**，雖然是人工林，歷經百年後已形成如原生林般深邃的綠意。**新年參拜人數高居全日本數一數二**（每年超過300萬人次），更是吸引世界各地音樂家與國賓造訪的東京象徵。本文將**歷史・參拜重點・常見問題・編輯後記**整理於這一頁之中。
+
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-torii-1200.webp" srcset="/images/posts/meiji-jingu-torii-640.webp 640w, /images/posts/meiji-jingu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮入口的大型木造鳥居，後方是綠意盎然的參道">
+<figcaption>明治神宮入口的鳥居。照片：Harajuku（英文維基百科）／<a href="https://commons.wikimedia.org/wiki/File:Meiji-jingu_torii.JPG" rel="noopener" target="_blank">Wikimedia Commons</a>，公有領域（調整尺寸）</figcaption>
+</figure>
 
 ## 目錄
 
@@ -68,6 +73,11 @@ draft: false
 - **寶物殿** — 收藏明治天皇曾使用的御用車等文物
 - **明治神宮御苑** — 隔雲亭・南池・菖蒲花田
 - **武道場・至誠館**
+
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-kiyomasa-well-1200.webp" srcset="/images/posts/meiji-jingu-kiyomasa-well-640.webp 640w, /images/posts/meiji-jingu-kiyomasa-well-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮御苑的清正井，被蕨類與岩石環繞的圓形水井，可見清澈的湧泉與圓石">
+<figcaption>明治神宮御苑的清正井（きよまさのいど）。照片：Criteriaire／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+</figure>
 
 ## <span id="point"></span>參拜重點
 

@@ -2,7 +2,7 @@
 title: "明治神宮の参拝ガイド｜70万㎡の鎮守の杜が広がる東京の最大パワースポット"
 description: "明治神宮（東京都渋谷区代々木神園町1-1）の歴史・ご利益・参拝のポイント・清正井・夫婦楠・初詣の混雑情報・おすすめのパワーストーン・周辺スポットまでを総合的に解説。原宿駅徒歩1分の鎮守の杜を完全攻略するための保存版です。"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-10-19"
 category: "powerspots"
 tags: ["水晶", "東京都", "縁結び"]
 slug: "meiji-jingu"
@@ -12,6 +12,11 @@ draft: false
 ## はじめに
 
 明治神宮は東京・原宿の真横に広がる **約70万平方メートルの鎮守の杜** を擁する、首都最大のパワースポット。1920年（大正9年）の創建時に植えられた **約10万本の樹木** は人工林にもかかわらず、100年を経て原生林のような深い緑を形成。**初詣の参拝者数は日本一クラス（毎年300万人以上）** であり、世界中のミュージシャンや国賓も訪れる東京の象徴です。本記事では **歴史・参拝のポイント・FAQ・編集後記** を1ページにまとめます。
+
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-torii-1200.webp" srcset="/images/posts/meiji-jingu-torii-640.webp 640w, /images/posts/meiji-jingu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮の入口に立つ大きな木造の鳥居と、その先に続く緑の参道">
+<figcaption>明治神宮の入口に立つ鳥居。写真：Harajuku（英語版ウィキペディア）／<a href="https://commons.wikimedia.org/wiki/File:Meiji-jingu_torii.JPG" rel="noopener" target="_blank">Wikimedia Commons</a>、パブリックドメイン（リサイズ）</figcaption>
+</figure>
 
 ## 目次
 
@@ -68,6 +73,11 @@ draft: false
 - **宝物殿** — 明治天皇御使用の御料車など
 - **明治神宮御苑** — 隔雲亭・南池・花菖蒲田
 - **武道場・至誠館**
+
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-kiyomasa-well-1200.webp" srcset="/images/posts/meiji-jingu-kiyomasa-well-640.webp 640w, /images/posts/meiji-jingu-kiyomasa-well-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮御苑の清正井。シダと岩に囲まれた丸い井戸に、澄んだ湧水と丸い石が見える">
+<figcaption>明治神宮御苑の清正井（きよまさのいど）。写真：Criteriaire／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
 
 ## <span id="point"></span>参拝のポイント
 

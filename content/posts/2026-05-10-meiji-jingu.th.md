@@ -17,6 +17,11 @@ draft: false
 
 บทความนี้สรุป **ประวัติ จุดเด่น วิธีไหว้ และเวลาที่เหมาะจะไป** ไว้ในหน้าเดียว
 
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-torii-1200.webp" srcset="/images/posts/meiji-jingu-torii-640.webp 640w, /images/posts/meiji-jingu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ประตูโทริอิไม้ขนาดใหญ่ที่ทางเข้าศาลเจ้าเมจิ และทางเดินในป่าเขียวที่ทอดยาวออกไป">
+<figcaption>ประตูโทริอิที่ทางเข้าศาลเจ้าเมจิ ภาพ: Harajuku (Wikipedia ภาษาอังกฤษ) / <a href="https://commons.wikimedia.org/wiki/File:Meiji-jingu_torii.JPG" rel="noopener" target="_blank">Wikimedia Commons</a>, สาธารณสมบัติ (ปรับขนาด)</figcaption>
+</figure>
+
 ## ข้อมูลพื้นฐานของศาลเจ้า
 
 | หัวข้อ | รายละเอียด |
@@ -61,6 +66,11 @@ draft: false
 - **หอสมบัติ (宝物殿)** จัดแสดงของที่จักรพรรดิเมจิทรงใช้ เช่น รถพระที่นั่ง
 - **สวนเมจิ จิงงู เกียวเอน (御苑)** มีศาลาพัก สระน้ำด้านใต้ และทุ่งดอกอายริส
 - **ลานฝึกศิลปะการต่อสู้ ชิเซกัง**
+
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-kiyomasa-well-1200.webp" srcset="/images/posts/meiji-jingu-kiyomasa-well-640.webp 640w, /images/posts/meiji-jingu-kiyomasa-well-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="บ่อน้ำคิโยมาซะในสวนเมจิ จิงงู เกียวเอน เป็นบ่อกลมที่เห็นน้ำพุใสและก้อนหิน ล้อมรอบด้วยเฟิร์นและก้อนหิน">
+<figcaption>บ่อน้ำคิโยมาซะ (清正井) ในสวนเมจิ จิงงู เกียวเอน ภาพ: Criteriaire / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## เคล็ดลับการไหว้
 

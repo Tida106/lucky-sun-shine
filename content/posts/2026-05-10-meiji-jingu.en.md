@@ -2,7 +2,7 @@
 title: "Meiji Jingu Shrine Visitor's Guide"
 description: "A comprehensive guide to Meiji Jingu Shrine (1-1 Yoyogi Kamizono-cho, Shibuya-ku, Tokyo), covering its history, blessings and benefits, key visiting points, Kiyomasa's Well, Meoto-Kusu (Married Couple Camphor Trees), New Year's visit crowd information, recommended crystals, and nearby spots. This is your definitive guide to fully experience the sacred forest just a minute's walk from Harajuku Station."
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-10-19"
 category: "powerspots"
 tags: ["Crystal", "Tokyo", "Matchmaking"]
 draft: false
@@ -17,6 +17,11 @@ viatorSpots:
 ## Introduction
 
 Meiji Jingu Shrine, located right next to Harajuku in Tokyo, is the capital's largest power spot, boasting **approximately 700,000 square meters of sacred forest**. The **about 100,000 trees** planted at its creation in 1920 (Taisho 9) have, despite being an artificial forest, formed a deep, primeval-like green over 100 years. It ranks among **Japan's top shrines for New Year's visitors (over 3 million annually)** and is a symbol of Tokyo, visited by musicians and heads of state from around the world. This article brings together its **history, key visiting points, FAQs, and an editor's note** all on one page.
+
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-torii-1200.webp" srcset="/images/posts/meiji-jingu-torii-640.webp 640w, /images/posts/meiji-jingu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A large wooden torii gate at the entrance to Meiji Jingu, with a green forest path beyond">
+<figcaption>A torii at the entrance to Meiji Jingu. Photo: Harajuku (English Wikipedia) / <a href="https://commons.wikimedia.org/wiki/File:Meiji-jingu_torii.JPG" rel="noopener" target="_blank">Wikimedia Commons</a>, public domain (resized)</figcaption>
+</figure>
 
 ## Table of Contents
 
@@ -73,6 +78,11 @@ Emperor Meiji and Empress Shoken are regarded as an **ideal example of a married
 - **Treasure Museum** — featuring Emperor Meiji's imperial carriage and other artifacts
 - **Meiji Jingu Gyoen Garden** — including Kakun-tei Teahouse, South Pond, and an Iris Garden
 - **Martial Arts Dojo (Shiseikan)**
+
+<figure class="photo">
+<img src="/images/posts/meiji-jingu-kiyomasa-well-1200.webp" srcset="/images/posts/meiji-jingu-kiyomasa-well-640.webp 640w, /images/posts/meiji-jingu-kiyomasa-well-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Kiyomasa's Well in the Meiji Jingu Inner Garden, a round well of clear spring water and pebbles surrounded by ferns and rocks">
+<figcaption>Kiyomasa's Well (Kiyomasa-no-ido) in the Meiji Jingu Inner Garden. Photo: Criteriaire / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
 
 ## <span id="point"></span>Key Visiting Points
 
