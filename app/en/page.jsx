@@ -272,8 +272,9 @@ export default function EnHomePage() {
           </p>
         </div>
         <div className="grid gap-4 md:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+          {/* 🥇 #1 */}
           <Link prefetch={false} href="/en/blog/birthday-stone-365" className="group block rounded-2xl border-2 border-amber-400 bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
+            <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🥇</span><span className="text-sm font-extrabold text-amber-700">#1</span></div>
             <div className="text-[11px] font-bold tracking-widest text-amber-700 mb-1">A CLASSIC TO START WITH</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-amber-700 transition-colors">
               365 Days of Birthstones
@@ -283,8 +284,21 @@ export default function EnHomePage() {
             </p>
           </Link>
 
+          {/* 🥈 #2 */}
+          <Link prefetch={false} href="/en/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-sky-300 bg-gradient-to-br from-sky-50 via-blue-50 to-sky-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🥈</span><span className="text-sm font-extrabold text-slate-600">#2</span></div>
+            <div className="text-[11px] font-bold tracking-widest text-sky-700 mb-1">PURIFICATION STAPLE</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-sky-700 transition-colors">
+              Crushed Stones Guide
+            </h3>
+            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+              From purification to interior design. The essential item to extend your stone's life.
+            </p>
+          </Link>
+
+          {/* 🥉 #3 */}
           <Link prefetch={false} href="/en/blog/bad-combination-stones" className="group block rounded-2xl border-2 border-slate-300 bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
+            <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🥉</span><span className="text-sm font-extrabold text-orange-700">#3</span></div>
             <div className="text-[11px] font-bold tracking-widest text-slate-600 mb-1">GOOD TO KNOW</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-slate-700 transition-colors">
               Bad Stone Combinations?
@@ -294,19 +308,9 @@ export default function EnHomePage() {
             </p>
           </Link>
 
-          <Link prefetch={false} href="/en/blog/genkan-powerstone-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
-            <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">FOR YOUR ENTRANCE</div>
-            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
-              Entrance Crystals Guide
-            </h3>
-            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
-              Invite good energy and block the bad. How to choose and place stones at your entrance.
-            </p>
-          </Link>
-
+          {/* 🏅 #4 */}
           <Link prefetch={false} href="/en/blog/fengshui-room-stones" className="group block rounded-2xl border-2 border-emerald-300 bg-gradient-to-br from-emerald-50 via-teal-50 to-emerald-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
+            <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🏅</span><span className="text-sm font-extrabold text-emerald-700">#4</span></div>
             <div className="text-[11px] font-bold tracking-widest text-emerald-700 mb-1">FOR EVERY ROOM</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
               Feng Shui Stones by Room
@@ -316,14 +320,15 @@ export default function EnHomePage() {
             </p>
           </Link>
 
-          <Link prefetch={false} href="/en/blog/sazare-ishi-guide" className="group block rounded-2xl border-2 border-sky-300 bg-gradient-to-br from-sky-50 via-blue-50 to-sky-100 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="text-4xl mb-3 drop-shadow-sm">✨</div>
-            <div className="text-[11px] font-bold tracking-widest text-sky-700 mb-1">PURIFICATION STAPLE</div>
-            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-sky-700 transition-colors">
-              Crushed Stones Guide
+          {/* 🏅 #5 */}
+          <Link prefetch={false} href="/en/blog/genkan-powerstone-guide" className="group block rounded-2xl border-2 border-orange-300 bg-gradient-to-br from-orange-50 via-amber-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🏅</span><span className="text-sm font-extrabold text-sky-700">#5</span></div>
+            <div className="text-[11px] font-bold tracking-widest text-orange-700 mb-1">FOR YOUR ENTRANCE</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-orange-700 transition-colors">
+              Entrance Crystals Guide
             </h3>
             <p className="mt-3 text-sm text-ink-700 leading-relaxed">
-              From purification to interior design. The essential item to extend your stone's life.
+              Invite good energy and block the bad. How to choose and place stones at your entrance.
             </p>
           </Link>
         </div>
