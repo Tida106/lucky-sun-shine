@@ -13,6 +13,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ShareButtons from "@/components/ShareButtons";
 import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
+import TravelAffiliate from "@/components/TravelAffiliate";
 import { getRelatedPosts } from "@/lib/related";
 import { postHasAffiliateLinks } from "@/lib/affiliate";
 import { getLocalizedCategorySlugs } from "@/lib/routes";
@@ -212,6 +213,8 @@ export default async function BlogPostPage({ params }) {
           {`ขอบคุณที่อ่านจนจบนะ🌻
 ไม่ว่าวันนี้จะเป็นวันแบบไหน ขอให้มีแสงแดดอ่อนๆ ส่องถึงใจคุณสักนิดนะ ☀️✨`}
         </BlogMascotBubble>
+
+        <TravelAffiliate slug={post.slug} locale={LOCALE} />
 
         {alsoRead.length > 0 && (
           <section className="mt-12">
