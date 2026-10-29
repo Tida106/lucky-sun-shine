@@ -56,7 +56,16 @@ draft: true
 
 **おすすめの時期**：梅の季節（2〜3月）は境内の梅と一緒に。受験シーズンは合格祈願の参拝客でにぎわいます。
 
-<!-- PHOTO: umegae-mochi（焼きたてのアップ）／ dazaifu-sando（参道の様子） -->
+<figure class="photo">
+<img src="/images/posts/umegaemochi-matcha-1200.webp" srcset="/images/posts/umegaemochi-matcha-640.webp 640w, /images/posts/umegaemochi-matcha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="黒い漆のお盆にのった梅ヶ枝餅と抹茶">
+<figcaption>梅ヶ枝餅と抹茶。写真：<a href="https://commons.wikimedia.org/wiki/User:KCyamazaki" rel="noopener" target="_blank">KCyamazaki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/umegaemochi-sando-876.webp" srcset="/images/posts/umegaemochi-sando-640.webp 640w, /images/posts/umegaemochi-sando-876.webp 876w" sizes="(min-width: 768px) 720px, 100vw" width="876" height="657" loading="lazy" decoding="async" alt="太宰府天満宮の参道で手に持った焼きたての梅ヶ枝餅">
+<figcaption>参道で食べ歩く焼きたての梅ヶ枝餅（太宰府）。写真：<a href="https://commons.wikimedia.org/wiki/User:Kyoww" rel="noopener" target="_blank">Kyoww</a> / Wikimedia Commons, パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
 
 ## <span id="aburi"></span>2. あぶり餅（今宮神社・京都）
 
@@ -68,7 +77,12 @@ draft: true
 
 **おすすめの楽しみ方**：お店の縁台に座って、あぶりたてをお茶と一緒に。静かな京都の時間が流れます。
 
-<!-- PHOTO: aburi-mochi / imamiya-jinja -->
+<figure class="photo">
+<img src="/images/posts/aburimochi-ichiwa-1200.webp" srcset="/images/posts/aburimochi-ichiwa-640.webp 640w, /images/posts/aburimochi-ichiwa-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="白味噌だれをかけた、竹串に刺したあぶり餅">
+<figcaption>今宮神社そばの老舗「一和」のあぶり餅（京都市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Hisagi" rel="noopener" target="_blank">Hisagi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<!-- PHOTO: imamiya-jinja（神社・参道） -->
 
 ## <span id="akafuku"></span>3. 赤福（伊勢神宮）
 
