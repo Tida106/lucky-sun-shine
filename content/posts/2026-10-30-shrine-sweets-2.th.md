@@ -161,6 +161,11 @@ draft: false
 
 ศาลเจ้าโคโตะฮิระ ที่เรียกกันว่า “โคนปิระซัง” ขึ้นชื่อเรื่องบันไดหินยาว บนถนนทางขึ้นมีร้าน **“คิวมัน ฮนโป อิชิดันยะ”**
 
+<figure class="photo">
+<img src="/images/posts/kotohira-gu-1200.webp" srcset="/images/posts/kotohira-gu-640.webp 640w, /images/posts/kotohira-gu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="อาคารศาลเจ้าหลักของศาลเจ้าโคโตะฮิระท่ามกลางต้นไม้เขียวขจี และผู้มาไหว้ที่เดินผ่าน">
+<figcaption>ศาลมิโฮซึฮิเมะที่ศาลเจ้าหลักของศาลเจ้าโคโตะฮิระ (เมืองโคโตะฮิระ จังหวัดคางาวะ) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาดภาพ)</figcaption>
+</figure>
+
 **ที่มา:** ร้านเดิมเป็นโรงแรมแบบเก่าสำหรับผู้มาไหว้โคนปิระ เล่ากันว่าสาวใช้ทำการรมยาอ่อนๆ ให้แขกหนุ่มรูปงามคนหนึ่ง จนเป็นที่เล่าลือว่าเป็น **“การรมยาหวานที่ได้ผลดี”** ต่อมาเมื่อเปลี่ยนจากโรงแรมเป็นร้านขนม จึงตั้งชื่อมันจูรูปกองยาโมกุสะว่า **“คิวมัน”**
 
 <figure class="photo">

@@ -164,6 +164,11 @@ draft: false
 
 「こんぴらさん」の名で親しまれる金刀比羅宮は、長い石段で有名です。その参道にあるのが **「灸まん本舗 石段や」** です。
 
+<figure class="photo">
+<img src="/images/posts/kotohira-gu-1200.webp" srcset="/images/posts/kotohira-gu-640.webp 640w, /images/posts/kotohira-gu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="緑に囲まれた金刀比羅宮本宮の社殿と、歩く参拝者たち">
+<figcaption>金刀比羅宮本宮の三穂津姫社（香川県琴平町）。写真：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 **由来**：お店はもともと、こんぴら参りの人が泊まる旅籠でした。ある男前のお客に女中さんが柔らかいお灸を添えたところ、**「よく効く甘いお灸」** と評判になり、のちに旅籠から和菓子屋に変わる際、もぐさ（お灸）を盛った形をかたどった饅頭を **「灸まん」** と名付けたと伝わります。
 
 <figure class="photo">

@@ -160,6 +160,11 @@ Kibitsu Shrine in Okayama is said to be the setting of **the tale of subduing th
 
 Kotohira-gu, lovingly called "Konpira-san," is famous for its long flight of stone steps. On the approach stands **Kyu-man Honpo Ishidan-ya**.
 
+<figure class="photo">
+<img src="/images/posts/kotohira-gu-1200.webp" srcset="/images/posts/kotohira-gu-640.webp 640w, /images/posts/kotohira-gu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Kotohira-gu's main shrine area surrounded by green forest, with visitors walking by">
+<figcaption>Mihotsuhime Shrine at the main shrine of Kotohira-gu (Kotohira, Kagawa). Photo: <a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 **The story:** The shop began as an inn for pilgrims to Konpira. As the story goes, a maid placed gentle moxa on a handsome guest and it became known as **"a sweet moxa that really works."** When the inn became a confectioner, it named its manju, shaped like a small mound of moxa, **"kyu-man."**
 
 <figure class="photo">
