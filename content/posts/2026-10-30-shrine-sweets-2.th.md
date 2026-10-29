@@ -163,6 +163,11 @@ draft: false
 
 **ที่มา:** ร้านเดิมเป็นโรงแรมแบบเก่าสำหรับผู้มาไหว้โคนปิระ เล่ากันว่าสาวใช้ทำการรมยาอ่อนๆ ให้แขกหนุ่มรูปงามคนหนึ่ง จนเป็นที่เล่าลือว่าเป็น **“การรมยาหวานที่ได้ผลดี”** ต่อมาเมื่อเปลี่ยนจากโรงแรมเป็นร้านขนม จึงตั้งชื่อมันจูรูปกองยาโมกุสะว่า **“คิวมัน”**
 
+<figure class="photo">
+<img src="/images/posts/kyuman-1200.webp" srcset="/images/posts/kyuman-640.webp 640w, /images/posts/kyuman-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="คิวมันทรงกรวยมนที่ทำเป็นรูปกองยาโมกุสะ">
+<figcaption>คิวมัน (จังหวัดคางาวะ) ภาพ: <a href="https://ja.wikipedia.org/wiki/User:Bakkai" rel="noopener" target="_blank">Bakkai at Japanese Wikipedia</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาดภาพ)</figcaption>
+</figure>
+
 **รสชาติ:** มันจูไส้ถั่วไข่แดงคุณภาพดี หวานน้อย มีชื่อเสียงว่า **ช่วยให้หายเหนื่อยจากการเดินขึ้นบันได** และนั่งพักในร้านได้
 
 **หมายเหตุ:** บันไดไปยังศาลเจ้าหลักมี 785 ขั้น กินก่อนขึ้นหรือเป็นรางวัลหลังลงมาก็ได้

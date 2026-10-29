@@ -162,6 +162,11 @@ Kotohira-gu, lovingly called "Konpira-san," is famous for its long flight of sto
 
 **The story:** The shop began as an inn for pilgrims to Konpira. As the story goes, a maid placed gentle moxa on a handsome guest and it became known as **"a sweet moxa that really works."** When the inn became a confectioner, it named its manju, shaped like a small mound of moxa, **"kyu-man."**
 
+<figure class="photo">
+<img src="/images/posts/kyuman-1200.webp" srcset="/images/posts/kyuman-640.webp 640w, /images/posts/kyuman-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A rounded cone-shaped kyu-man, modeled on a mound of moxa">
+<figcaption>Kyu-man (Kagawa). Photo: <a href="https://ja.wikipedia.org/wiki/User:Bakkai" rel="noopener" target="_blank">Bakkai at Japanese Wikipedia</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 **How it tastes:** A lightly sweet manju made with fine egg-yolk bean paste. It has a reputation for **easing the fatigue of the climb**, and you can rest inside the shop.
 
 **A note:** It is 785 steps to the main shrine. Eat one before you climb or as a reward afterward.

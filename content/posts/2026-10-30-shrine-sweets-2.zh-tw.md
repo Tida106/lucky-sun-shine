@@ -162,6 +162,11 @@ draft: false
 
 **由來**：這家店原本是供參拜者投宿的旅籠。傳說女侍為一位俊俏的客人貼上柔軟的艾灸，竟成為**「很有效的甜灸」**而廣為流傳；後來旅籠改為和菓子店時，便把形似堆起艾草的饅頭取名為**「灸まん」**。
 
+<figure class="photo">
+<img src="/images/posts/kyuman-1200.webp" srcset="/images/posts/kyuman-640.webp 640w, /images/posts/kyuman-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="模仿堆起艾草形狀的圓錐形灸饅頭">
+<figcaption>灸饅頭（香川縣）。照片：<a href="https://ja.wikipedia.org/wiki/User:Bakkai" rel="noopener" target="_blank">Bakkai at Japanese Wikipedia</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 **品嚐方式**：使用上等黃身餡、甜味清淡的饅頭。據說能**消除爬階梯的疲勞**，店內也能坐下來休息。
 
 **小提醒**：到本宮共有 785 級石階。可以在爬之前先墊墊肚子，也可以當作爬完之後的獎勵。

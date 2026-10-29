@@ -166,6 +166,11 @@ draft: false
 
 **由来**：お店はもともと、こんぴら参りの人が泊まる旅籠でした。ある男前のお客に女中さんが柔らかいお灸を添えたところ、**「よく効く甘いお灸」** と評判になり、のちに旅籠から和菓子屋に変わる際、もぐさ（お灸）を盛った形をかたどった饅頭を **「灸まん」** と名付けたと伝わります。
 
+<figure class="photo">
+<img src="/images/posts/kyuman-1200.webp" srcset="/images/posts/kyuman-640.webp 640w, /images/posts/kyuman-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="もぐさを盛った形をかたどった、丸みのある円すい形の灸まん">
+<figcaption>灸まん（香川県）。写真：<a href="https://ja.wikipedia.org/wiki/User:Bakkai" rel="noopener" target="_blank">Bakkai at Japanese Wikipedia</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 **味わい方**：上質な黄味あんを使った、甘さ控えめの饅頭。**階段を上った疲れがとれる** と評判で、店内でひと休みもできます。
 
 **ひとこと**：本宮までの石段は785段。のぼる前の腹ごしらえにも、のぼったあとのご褒美にもなります。
