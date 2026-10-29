@@ -57,6 +57,11 @@ draft: true
 **おすすめの時期**：梅の季節（2〜3月）は境内の梅と一緒に。受験シーズンは合格祈願の参拝客でにぎわいます。
 
 <figure class="photo">
+<img src="/images/posts/dazaifu-romon-1200.webp" srcset="/images/posts/dazaifu-romon-640.webp 640w, /images/posts/dazaifu-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="朱塗りの楼門と石灯籠が並ぶ太宰府天満宮の境内">
+<figcaption>太宰府天満宮の楼門（福岡県太宰府市）。写真：<a href="https://commons.wikimedia.org/wiki/User:STA3816" rel="noopener" target="_blank">STA3816</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
 <img src="/images/posts/umegaemochi-matcha-1200.webp" srcset="/images/posts/umegaemochi-matcha-640.webp 640w, /images/posts/umegaemochi-matcha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="黒い漆のお盆にのった梅ヶ枝餅と抹茶">
 <figcaption>梅ヶ枝餅と抹茶。写真：<a href="https://commons.wikimedia.org/wiki/User:KCyamazaki" rel="noopener" target="_blank">KCyamazaki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
 </figure>
