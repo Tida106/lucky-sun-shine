@@ -87,7 +87,11 @@ draft: true
 <figcaption>今宮神社そばの老舗「一和」のあぶり餅（京都市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Hisagi" rel="noopener" target="_blank">Hisagi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
 </figure>
 
-<!-- PHOTO: imamiya-jinja（神社・参道） -->
+<figure class="photo">
+<img src="/images/posts/imamiya-jinja-1200.webp" srcset="/images/posts/imamiya-jinja-640.webp 640w, /images/posts/imamiya-jinja-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="白い砂利の境内と黒い屋根の社殿が並ぶ今宮神社">
+<figcaption>今宮神社の境内（京都市北区）。写真：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 
 ## <span id="akafuku"></span>3. 赤福（伊勢神宮）
 
