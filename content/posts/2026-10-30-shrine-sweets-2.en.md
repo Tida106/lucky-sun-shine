@@ -1,6 +1,6 @@
 ---
 title: "8 More Temple-Gate Sweets to Eat After Your Prayer (Part 2): A Guide to Japan's Shrine and Temple Treats"
-description: "Hato sablé at Tsurugaoka Hachimangu, kaminari okoshi at Senso-ji, tengu-yaki on Mount Takao, mitarashi dango at Shimogamo, kiyome mochi at Atsuta Jingu, itokiri mochi at Taga Taisha, kibi dango at Kibitsu Shrine and kyu-man at Kotohira-gu. Stories, wishes and flavors for each."
+description: "Hato sablé at Tsurugaoka Hachimangu, ningyo-yaki at Senso-ji, tengu-yaki on Mount Takao, mitarashi dango at Shimogamo, kiyome mochi at Atsuta Jingu, itokiri mochi at Taga Taisha, kibi dango at Kibitsu Shrine and kyu-man at Kotohira-gu. Stories, wishes and flavors for each."
 date: "2026-10-30"
 updated: "2026-10-30"
 category: "powerspots"
@@ -11,7 +11,7 @@ draft: false
 
 ## Introduction
 
-In [Part 1](/blog/shrine-sweets/) we paired five shrines with the sweets to eat after praying. Part 2 adds **eight more temple-gate treats from across Japan**, from the pigeon-shaped biscuits of Kamakura and the crunchy okoshi of Asakusa to a tengu-faced cake on Mount Takao and the blue-and-red striped mochi of Taga. Each one is tied to a deity, a legend, or a wish.
+In [Part 1](/blog/shrine-sweets/) we paired five shrines with the sweets to eat after praying. Part 2 adds **eight more temple-gate treats from across Japan**, from the pigeon-shaped biscuits of Kamakura and the ningyo-yaki of Asakusa to a tengu-faced cake on Mount Takao and the blue-and-red striped mochi of Taga. Each one is tied to a deity, a legend, or a wish.
 
 Many of these are easy to bring home, so they also make good souvenirs for visitors from abroad.
 
@@ -19,7 +19,7 @@ Many of these are easy to bring home, so they also make good souvenirs for visit
 
 - [The 8 Sweets at a Glance](#list)
 - [1. Hato Sablé (Tsurugaoka Hachimangu, Kamakura)](#hato)
-- [2. Kaminari Okoshi (Senso-ji, Tokyo)](#okoshi)
+- [2. Ningyo-yaki (Senso-ji, Tokyo)](#ningyo)
 - [3. Tengu-yaki (Takao-san Yakuo-in, Tokyo)](#tengu)
 - [4. Mitarashi Dango (Shimogamo Shrine, Kyoto)](#mitarashi)
 - [5. Kiyome Mochi (Atsuta Jingu, Nagoya)](#kiyome)
@@ -35,7 +35,7 @@ Many of these are easy to bring home, so they also make good souvenirs for visit
 | Sweet | Shrine or temple | Wish it is paired with |
 |---|---|---|
 | **Hato Sablé** | Tsurugaoka Hachimangu (Kanagawa) | Victory, good luck |
-| **Kaminari Okoshi** | Senso-ji (Tokyo) | Family fortune, success ("raising" luck) |
+| **Ningyo-yaki** | Senso-ji (Tokyo) | Household safety, good luck (Kannon) |
 | **Tengu-yaki** | Takao-san Yakuo-in (Tokyo) | Warding off evil |
 | **Mitarashi Dango** | Shimogamo Shrine (Kyoto) | Warding off misfortune, good health |
 | **Kiyome Mochi** | Atsuta Jingu (Aichi) | Purification, a thriving household business |
@@ -60,20 +60,20 @@ Tsurugaoka Hachimangu is Kamakura's best-known shrine, and many visitors leave w
 
 **A note:** Hachiman is widely regarded as a deity of victory, so it is a fitting treat to bring back before an important exam or match.
 
-## <span id="okoshi"></span>2. Kaminari Okoshi (Senso-ji, Tokyo)
+## <span id="ningyo"></span>2. Ningyo-yaki (Senso-ji, Tokyo)
 
-Senso-ji in Asakusa enshrines Kannon, the bodhisattva of compassion. Right next to its Kaminari-mon ("Thunder Gate") stands Tokiwado, a long-established okoshi shop.
+Senso-ji in Asakusa enshrines Kannon, the bodhisattva of compassion. Shops on and around the grounds sell freshly baked ningyo-yaki, a staple souvenir for visitors.
 
-**The story:** The name comes from the **Kaminari-mon**. A rice-based sweet called "okoshi" appears in a book from about a thousand years ago, and the Edo-period *Sensoji-shi* records that kaminari okoshi was already being sold in Asakusa in **1795**. Tokiwado is said to have been founded in 1816.
-
-**Why it is lucky:** "Okoshi" can also mean "to raise," so the sweet carries the wish to **"raise your house and raise your name."** It became a popular souvenir for pilgrims to Kannon.
+**The story:** Ningyo-yaki is said to have originated in Ningyocho in Tokyo's Nihonbashi district. As the name ("doll cake") suggests, it is baked in the shapes of faces, bodies and animals. The long-established Asakusa shop Kimuraya Ningyoyaki Honpo is described as dating back to the early Meiji era.
 
 <figure class="photo">
 <img src="/images/posts/kaminari-ningyoyaki-1200.webp" srcset="/images/posts/kaminari-ningyoyaki-640.webp 640w, /images/posts/kaminari-ningyoyaki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="Assorted ningyo-yaki cakes in various shapes, with a ruler beneath">
-<figcaption>Ningyo-yaki from Tokiwado, another classic Asakusa souvenir sold alongside kaminari okoshi. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E6%AF%92%E5%B3%B6%E3%81%BF%E3%82%8B%E3%81%8F" rel="noopener" target="_blank">毒島みるく</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+<figcaption>Ningyo-yaki from the long-established Tokiwado (Asakusa, Tokyo). Photo: <a href="https://commons.wikimedia.org/wiki/User:%E6%AF%92%E5%B3%B6%E3%81%BF%E3%82%8B%E3%81%8F" rel="noopener" target="_blank">毒島みるく</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
 </figure>
 
-**How it tastes:** A simple, crunchy block of puffed rice mixed with peanuts and other ingredients. The photo shows **ningyo-yaki** from the same shop, so try both and compare.
+**How it tastes:** A simple cake with sweet bean filling, baked in a mold. At Kimuraya the molds are a pigeon, a lantern, the thunder god and a five-story pagoda, and watching them baked at the shopfront is part of the fun. The photo shows ningyo-yaki from the long-established Tokiwado.
+
+**A note:** With so many cute shapes, it is a perfect keepsake of your visit.
 
 ## <span id="tengu"></span>3. Tengu-yaki (Takao-san Yakuo-in, Tokyo)
 
@@ -200,7 +200,7 @@ A. It is reported to be sold at Takaosan Sumika, next to Takaosan Station on the
 
 **Q4. Which ones make good souvenirs?**
 
-A. Hato sablé, kaminari okoshi and kibi dango are known for keeping well, but it varies by product and shop, so **please check the date when you buy**.
+A. Hato sablé and kibi dango are known for keeping well, but it varies by product and shop, so **please check the date when you buy**.
 
 ## <span id="related"></span>Related Articles You Might Enjoy
 
@@ -210,7 +210,7 @@ A. Hato sablé, kaminari okoshi and kibi dango are known for keeping well, but i
 ## Summary
 
 - **Hato sablé** is Kamakura's classic souvenir, named for the pigeons tied to Hachiman
-- **Kaminari okoshi** carries the lucky meaning of "raising your house and name"
+- **Ningyo-yaki** is a staple Senso-ji souvenir said to have started in Ningyocho
 - **Tengu-yaki** is a one-place treat shaped like Mount Takao's tengu
 - **Mitarashi dango** is a protective dumpling said to trace back to Shimogamo's Mitarashi Festival
 - **Kiyome mochi** is named after Atsuta Jingu's "purification tea house"

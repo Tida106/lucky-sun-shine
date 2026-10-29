@@ -181,7 +181,7 @@ A. They are spread from Kyushu to Kyoto, Mie, Hiroshima and Shimane, so we sugge
 - [Itsukushima Shrine Pilgrimage Guide](/blog/itsukushima-jinja/) — Walk Miyajima, home of momiji manju
 - [Izumo Taisha Shrine Pilgrimage Guide](/blog/izumo-taisha/) — Zenzai and Japan's home of matchmaking
 - [Complete Guide to Shrine Visits](/blog/shrine-visit-basics/) — Etiquette, manners and wish-by-wish tips
-- [Temple-Gate Sweets, Part 2](/blog/shrine-sweets-2/) — Hato sablé, kaminari okoshi, tengu-yaki and five more
+- [Temple-Gate Sweets, Part 2](/blog/shrine-sweets-2/) — Hato sablé, ningyo-yaki, tengu-yaki and five more
 
 ## Summary
 
