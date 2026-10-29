@@ -165,6 +165,11 @@ draft: false
 
 **ที่มา:** คิบิดังโงะเดิมเป็นดังโงะที่ทำจากแป้งลูกเดือยพันธุ์คิบิ ช่วงสมัยเอโดะถึงเมจิ กลายเป็นเกี้ยวฮิที่ทำจากข้าวเหนียวและปรุงกลิ่นด้วยแป้งคิบิ ซึ่งแทบเหมือนวิธีปัจจุบัน และด้วยที่เก็บได้นาน จึงเป็นที่นิยมเป็นเสบียงเดินทางและของฝาก
 
+<figure class="photo">
+<img src="/images/posts/kibi-dango-1280.webp" srcset="/images/posts/kibi-dango-640.webp 640w, /images/posts/kibi-dango-1280.webp 1280w" sizes="(min-width: 768px) 720px, 100vw" width="1280" height="960" loading="lazy" decoding="async" alt="คิบิดังโงะสีขาว 3 ลูกบนจานลายคราม">
+<figcaption>คิบิดังโงะ (จังหวัดโอคายามะ) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Setouchi" rel="noopener" target="_blank">Setouchi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาดภาพ)</figcaption>
+</figure>
+
 **รสชาติ:** นุ่มและหวานอ่อนๆ มีรุ่นที่ใช้ลูกพีชขาวหรือองุ่นมัสแคตซึ่งเป็นของดีประจำโอคายามะด้วย
 
 ## <span id="kyuman"></span>8. คิวมัน (ศาลเจ้าโคโตะฮิระ คางาวะ)

@@ -164,6 +164,11 @@ Kibitsu Shrine in Okayama is said to be the setting of **the tale of subduing th
 
 **The story:** Kibi dango began as dumplings made from millet flour. By the Edo and Meiji periods, a soft gyuhi made from glutinous rice, flavored with millet flour, had become almost the same recipe as today's, and its long shelf life made it popular as a travel companion and souvenir.
 
+<figure class="photo">
+<img src="/images/posts/kibi-dango-1280.webp" srcset="/images/posts/kibi-dango-640.webp 640w, /images/posts/kibi-dango-1280.webp 1280w" sizes="(min-width: 768px) 720px, 100vw" width="1280" height="960" loading="lazy" decoding="async" alt="Three white kibi dango on a blue-and-white patterned dish">
+<figcaption>Kibi dango (Okayama). Photo: <a href="https://commons.wikimedia.org/wiki/User:Setouchi" rel="noopener" target="_blank">Setouchi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 **How it tastes:** Soft and gently sweet. You can also find Okayama-style versions made with white peach or muscat grapes.
 
 ## <span id="kyuman"></span>8. Kyu-man (Kotohira-gu, Kagawa)

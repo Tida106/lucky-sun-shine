@@ -168,6 +168,11 @@ draft: false
 
 **由来**：きびだんごは、もともと黍（きび）の粉で作る団子でした。江戸〜明治にかけて、もち米で作る求肥に黍粉で風味を付ける、今とほぼ同じ製法になり、日持ちすることから旅のお供やお土産として人気になりました。
 
+<figure class="photo">
+<img src="/images/posts/kibi-dango-1280.webp" srcset="/images/posts/kibi-dango-640.webp 640w, /images/posts/kibi-dango-1280.webp 1280w" sizes="(min-width: 768px) 720px, 100vw" width="1280" height="960" loading="lazy" decoding="async" alt="青い染付のお皿にのった、白い吉備団子3つ">
+<figcaption>吉備団子（岡山県）。写真：<a href="https://commons.wikimedia.org/wiki/User:Setouchi" rel="noopener" target="_blank">Setouchi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 **味わい方**：やわらかく、やさしい甘さ。白桃やマスカットなど、岡山ならではの味のきびだんごもあります。
 
 ## <span id="kyuman"></span>8. 灸まん（金刀比羅宮・香川）

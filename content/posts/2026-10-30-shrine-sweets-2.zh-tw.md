@@ -164,6 +164,11 @@ draft: false
 
 **由來**：吉備糰子原本是用黍（きび）粉做成的糰子。江戶到明治時期，演變成以糯米做成求肥、再以黍粉添味的做法，與現在幾乎相同，因為耐放，成為旅途良伴與伴手禮而受到歡迎。
 
+<figure class="photo">
+<img src="/images/posts/kibi-dango-1280.webp" srcset="/images/posts/kibi-dango-640.webp 640w, /images/posts/kibi-dango-1280.webp 1280w" sizes="(min-width: 768px) 720px, 100vw" width="1280" height="960" loading="lazy" decoding="async" alt="青花瓷盤上的三顆白色吉備糰子">
+<figcaption>吉備糰子（岡山縣）。照片：<a href="https://commons.wikimedia.org/wiki/User:Setouchi" rel="noopener" target="_blank">Setouchi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 **品嚐方式**：口感柔軟、甜味溫和。也有使用白桃或麝香葡萄等岡山特產的口味。
 
 ## <span id="kyuman"></span>8. 灸饅頭（金刀比羅宮・香川）
