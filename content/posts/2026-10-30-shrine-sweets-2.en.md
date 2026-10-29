@@ -79,6 +79,11 @@ Senso-ji in Asakusa enshrines Kannon, the bodhisattva of compassion. Shops on an
 
 Mount Takao is a sacred mountain near Tokyo. At Yakuo-in, the attendants of the deity Iizuna Gongen are said to be **tengu**, long-nosed or crow-faced mountain spirits, and a crow tengu statue stands in front of the temple's main shrine.
 
+<figure class="photo">
+<img src="/images/posts/yakuoin-takao-1200.webp" srcset="/images/posts/yakuoin-takao-640.webp 640w, /images/posts/yakuoin-takao-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A hall at Takao-san Yakuo-in hung with red banners, with visitors climbing the steps">
+<figcaption>Takao-san Yakuo-in (Hachioji, Tokyo). Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%8F%E3%82%8D%E3%81%B5%E3%81%AD" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
 **What is it?** A grilled cake pressed in a tengu-face mold, a bit like taiyaki. The crisp outside and chewy inside hold sweet **black soybean paste** made with Hokkaido beans. It is reported to be sold basically only at **Takaosan Sumika**, next to Takaosan Station on the cable car.
 
 <figure class="photo">
@@ -131,6 +136,11 @@ Atsuta Jingu enshrines the sacred sword Kusanagi, one of Japan's Three Sacred Tr
 ## <span id="itokiri"></span>6. Itokiri Mochi (Taga Taisha, Shiga)
 
 Taga Taisha, lovingly called **"Otaga-san"** by locals, is revered for long life, matchmaking and warding off misfortune. Confectioners around the shrine sell its signature itokiri mochi.
+
+<figure class="photo">
+<img src="/images/posts/taga-taisha-1200.webp" srcset="/images/posts/taga-taisha-640.webp 640w, /images/posts/taga-taisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The main buildings of Taga Taisha, framed by pines and cedars">
+<figcaption>The shrine buildings of Taga Taisha (Taga, Shiga). Photo: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
 
 **What makes it special:** Small, springy mochi filled with smooth red bean paste of moderate sweetness. **Thin blue and pink (red) lines** make it charming, and it is introduced as being rooted in a technique of cutting mochi with thread.
 

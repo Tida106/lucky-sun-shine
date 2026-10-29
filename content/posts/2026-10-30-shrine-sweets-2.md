@@ -83,6 +83,11 @@ draft: false
 
 東京の霊山・高尾山は、**薬王院に祀られる飯縄大権現の眷属（お使い）が天狗** とされる山。薬王院の御本社前には烏天狗の像も立っています。
 
+<figure class="photo">
+<img src="/images/posts/yakuoin-takao-1200.webp" srcset="/images/posts/yakuoin-takao-640.webp 640w, /images/posts/yakuoin-takao-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="飯縄大権現の赤いのぼりが並ぶ、高尾山薬王院の堂宇と参拝者">
+<figcaption>高尾山薬王院（東京都八王子市）。写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%8F%E3%82%8D%E3%81%B5%E3%81%AD" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 **どんなお菓子？**：天狗の顔の鉄板で焼いた、たい焼きのようなお菓子。外はサクサク、中はもちもちの生地に、北海道産の黒豆を使った **黒豆あん** が入っています。基本的に、**ケーブルカー高尾山駅そばの「高尾山スミカ」** でしか買えないと紹介されています。
 
 <figure class="photo">
@@ -135,6 +140,11 @@ draft: false
 ## <span id="itokiri"></span>6. 糸切餅（多賀大社・滋賀）
 
 地元で **「お多賀さん」** と親しまれる多賀大社は、延命長寿・縁結び・厄除けの神さまとして信仰を集めています。周辺の和菓子店では、名物の糸切餅が並びます。
+
+<figure class="photo">
+<img src="/images/posts/taga-taisha-1200.webp" srcset="/images/posts/taga-taisha-640.webp 640w, /images/posts/taga-taisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="松と杉に囲まれた多賀大社の社殿">
+<figcaption>多賀大社の社殿（滋賀県多賀町）。写真：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 **特徴**：小さくて弾力のあるお餅に、ほどよい甘さのこしあんが入っています。**水色とピンク（赤）のラインがかわいらしく**、お土産にもぴったり。糸で切る餅の製法がルーツと紹介されています。
 

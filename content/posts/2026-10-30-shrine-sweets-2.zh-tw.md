@@ -79,6 +79,11 @@ draft: false
 
 東京的靈山高尾山，據說在藥王院供奉的飯縄大權現，其眷屬（使者）就是**天狗**，藥王院的御本社前也立著烏天狗像。
 
+<figure class="photo">
+<img src="/images/posts/yakuoin-takao-1200.webp" srcset="/images/posts/yakuoin-takao-640.webp 640w, /images/posts/yakuoin-takao-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="掛著紅色布幡、參拜者正登上階梯的高尾山藥王院殿堂">
+<figcaption>高尾山藥王院（東京都八王子市）。照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%8F%E3%82%8D%E3%81%B5%E3%81%AD" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 **是什麼點心？**：用天狗臉造型的鐵板烤成，有點像鯛魚燒。外皮酥脆、內裡軟糯，包著使用北海道產黑豆製成的**黑豆餡**。據介紹基本上只有**纜車高尾山站旁的「高尾山 SUMIKA」**有販售。
 
 <figure class="photo">
@@ -131,6 +136,11 @@ draft: false
 ## <span id="itokiri"></span>6. 絲切餅（多賀大社・滋賀）
 
 當地人親切稱為**「お多賀さん」**的多賀大社，以延年益壽、結緣、消災解厄的神明受到信仰。神社周邊的和菓子店都有販售名物絲切餅。
+
+<figure class="photo">
+<img src="/images/posts/taga-taisha-1200.webp" srcset="/images/posts/taga-taisha-640.webp 640w, /images/posts/taga-taisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="被松樹與杉樹環繞的多賀大社社殿">
+<figcaption>多賀大社的社殿（滋賀縣多賀町）。照片：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
 
 **特色**：小巧又有彈性的麻糬中，包著甜度適中的紅豆沙。**淺藍與粉紅（紅色）的線條**非常可愛，很適合當伴手禮；據介紹其源自以線切割麻糬的製法。
 

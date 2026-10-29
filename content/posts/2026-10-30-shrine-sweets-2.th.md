@@ -80,6 +80,11 @@ draft: false
 
 เขาทาคาโอะเป็นภูเขาศักดิ์สิทธิ์ใกล้โตเกียว เล่ากันว่าผู้รับใช้ของเทพอีซึนะ กงเง็น ที่ประดิษฐานในวัดยาคุโอ-อินคือ **เท็งงุ** (ปีศาจภูเขาจมูกยาวหรือหน้านก) และมีรูปปั้นเท็งงุหน้าอีกาตั้งอยู่หน้าศาลหลักของวัด
 
+<figure class="photo">
+<img src="/images/posts/yakuoin-takao-1200.webp" srcset="/images/posts/yakuoin-takao-640.webp 640w, /images/posts/yakuoin-takao-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="อาคารของวัดยาคุโอ-อิน เขาทาคาโอะ ที่แขวนธงสีแดง และผู้มาไหว้ที่กำลังเดินขึ้นบันได">
+<figcaption>วัดยาคุโอ-อิน เขาทาคาโอะ (เมืองฮาจิโอจิ โตเกียว) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%8F%E3%82%8D%E3%81%B5%E3%81%AD" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาดภาพ)</figcaption>
+</figure>
+
 **ขนมอะไร?** ขนมย่างจากพิมพ์รูปหน้าเท็งงุ คล้ายไทยากิ แป้งกรอบนอกเหนียวนุ่มใน ใส่ **ไส้ถั่วดำ** จากถั่วดำฮอกไกโด มีรายงานว่าโดยหลักแล้วขายเฉพาะที่ **“ทาคาโอซัง สุมิกะ” ข้างสถานีทาคาโอซังของกระเช้าไฟฟ้า**
 
 <figure class="photo">
@@ -132,6 +137,11 @@ draft: false
 ## <span id="itokiri"></span>6. อิโตะกิริโมจิ (ทากะ ไทฉะ ชิงะ)
 
 ทากะ ไทฉะ ที่คนท้องถิ่นเรียกอย่างรักใคร่ว่า **“โอทากะซัง”** เป็นที่เคารพในฐานะเทพแห่งอายุยืน เนื้อคู่ และปัดเป่าโชคร้าย ร้านขนมญี่ปุ่นรอบศาลเจ้ามีอิโตะกิริโมจิขึ้นชื่อขาย
+
+<figure class="photo">
+<img src="/images/posts/taga-taisha-1200.webp" srcset="/images/posts/taga-taisha-640.webp 640w, /images/posts/taga-taisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="อาคารศาลเจ้าทากะ ไทฉะ ท่ามกลางต้นสนและต้นซีดาร์">
+<figcaption>อาคารศาลเจ้าทากะ ไทฉะ (เมืองทากะ จังหวัดชิงะ) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาดภาพ)</figcaption>
+</figure>
 
 **จุดเด่น:** โมจิชิ้นเล็กหนึบนุ่ม ไส้ถั่วแดงบดเนียนหวานกำลังดี **เส้นสีฟ้าและสีชมพู (แดง) บางๆ น่ารัก** เหมาะเป็นของฝาก และมีการแนะนำว่ามีรากฐานมาจากวิธีตัดโมจิด้วยเส้นด้าย
 
