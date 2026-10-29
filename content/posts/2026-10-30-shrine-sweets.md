@@ -103,7 +103,16 @@ draft: true
 
 **ちょっと特別な楽しみ**：毎月1日の朝には、**朔日餅（ついたちもち）** と呼ばれる月替わりの限定餅が出ます。朔日参りとあわせて訪れる人も多く、早朝から行列ができることもあります。
 
-<!-- PHOTO: akafuku / okage-yokocho -->
+<figure class="photo">
+<img src="/images/posts/akafuku-tea-1200.webp" srcset="/images/posts/akafuku-tea-640.webp 640w, /images/posts/akafuku-tea-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="お茶と一緒にお盆にのった赤福">
+<figcaption>赤福（三重県伊勢市）。写真：<a href="https://www.flickr.com/photos/76758469@N00/" rel="noopener" target="_blank">Yuya Tamai</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/okage-yokocho-1200.webp" srcset="/images/posts/okage-yokocho-640.webp 640w, /images/posts/okage-yokocho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="江戸時代風の木造家屋が並び、参拝客でにぎわうおかげ横丁">
+<figcaption>伊勢神宮・内宮前のおかげ横丁（三重県伊勢市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Kanchi1979" rel="noopener" target="_blank">Kanchi1979</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 
 ## <span id="momiji"></span>4. もみじ饅頭（厳島神社・宮島）
 
@@ -115,7 +124,21 @@ draft: true
 
 **おすすめの楽しみ方**：潮の満ち引きで表情が変わる大鳥居を眺めながら、焼きたてをひとくち。紅葉の時期は、名前にぴったりの景色が広がります。
 
-<!-- PHOTO: momiji-manju / miyajima-omotesando -->
+<figure class="photo">
+<img src="/images/posts/momiji-manju-cut-1200.webp" srcset="/images/posts/momiji-manju-cut-640.webp 640w, /images/posts/momiji-manju-cut-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="断面からこしあんが見えるもみじ饅頭">
+<figcaption>もみじ饅頭の断面。写真：<a href="https://commons.wikimedia.org/wiki/User:Ocdp" rel="noopener" target="_blank">Ocdp</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/momiji-manju-plate-1200.webp" srcset="/images/posts/momiji-manju-plate-640.webp 640w, /images/posts/momiji-manju-plate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1138" loading="lazy" decoding="async" alt="黒いお皿にのった3つのもみじ饅頭">
+<figcaption>もみじの葉の形のお菓子。写真：<a href="https://commons.wikimedia.org/wiki/User:%E6%AF%92%E5%B3%B6%E3%81%BF%E3%82%8B%E3%81%8F" rel="noopener" target="_blank">毒島みるく</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/miyajima-omotesando-1200.webp" srcset="/images/posts/miyajima-omotesando-640.webp 640w, /images/posts/miyajima-omotesando-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="白い日よけ布が張られた宮島の表参道商店街">
+<figcaption>宮島の表参道商店街（広島県廿日市市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Malaiya" rel="noopener" target="_blank">Malaiya</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 
 ## <span id="zenzai"></span>5. 出雲ぜんざい（出雲大社）
 
