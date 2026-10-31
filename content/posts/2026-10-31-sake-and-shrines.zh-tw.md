@@ -80,6 +80,15 @@ draft: false
 
 第一次參拜神社的朋友，也可以參考[神社參拜基本須知](/zh-tw/blog/shrine-visit-basics/)。
 
+## 在家也能享受日本酒
+
+<p><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:#fde68a;font-weight:bold;font-size:0.8em">PR</span> 本文含有廣告（聯盟行銷連結）。身為亞馬遜聯盟成員，符合資格的購買會讓我們獲得佣金。</p>
+
+- <a href="https://www.amazon.com/s?k=sake+set+tokkuri+ochoko&tag=luckysunshine06-20" rel="sponsored noopener nofollow" target="_blank">在 Amazon 搜尋日本酒酒器組（德利與豬口杯）</a>（在家也能感受儀式感）
+- <a href="https://www.amazon.com/s?k=japanese+sake+cups+masu&tag=luckysunshine06-20" rel="sponsored noopener nofollow" target="_blank">在 Amazon 搜尋酒杯與木製枡</a>（乾杯時使用，就像鏡開的場合）
+
+此處為酒器，不含酒類。請遵守當地酒類法規，飲酒後請勿開車。
+
 ## 總結
 
 - 御神酒是獻給神明的供品，據說飲用有分享神明力量的涵義。

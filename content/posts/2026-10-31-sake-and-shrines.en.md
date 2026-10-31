@@ -81,6 +81,15 @@ Fushimi has long been famous as a sake district. It lies in the same ward of Kyo
 
 New to shrine etiquette? See our [shrine visit basics](/en/blog/shrine-visit-basics/).
 
+## Enjoy sake at home
+
+<p><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:#fde68a;font-weight:bold;font-size:0.8em">PR</span> This article contains affiliate links. As an Amazon Associate I earn from qualifying purchases.</p>
+
+- <a href="https://www.amazon.com/s?k=sake+set+tokkuri+ochoko&tag=luckysunshine06-20" rel="sponsored noopener nofollow" target="_blank">Browse Japanese sake sets (tokkuri and ochoko) on Amazon</a> (a simple way to bring the ritual feel home)
+- <a href="https://www.amazon.com/s?k=japanese+sake+cups+masu&tag=luckysunshine06-20" rel="sponsored noopener nofollow" target="_blank">Browse sake cups and wooden masu on Amazon</a> (for sharing a toast, as in a kagami-biraki)
+
+Sake sets here are drinkware only. Please follow local alcohol laws and never drink and drive.
+
 ## Summary
 
 - Omiki is an offering to the gods, and drinking it afterwards is said to share their power.
