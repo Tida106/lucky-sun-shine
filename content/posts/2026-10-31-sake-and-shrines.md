@@ -53,9 +53,19 @@ draft: false
 
 お祝いの席で、酒樽のふたを木槌で割る**「鏡開き」**。ふたを「鏡」に見立て、「開く」という言葉が縁起がよいとされることから、新年や祝いごとの場で行われるようになったといわれています。神社の奉納樽や、祭りでふるまわれる樽酒を見かけたら、ぜひ注目してみてください。
 
+<figure class="photo">
+<img src="/images/posts/sake-kagami-biraki-1200.webp" srcset="/images/posts/sake-kagami-biraki-640.webp 640w, /images/posts/sake-kagami-biraki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="960" loading="lazy" decoding="async" alt="酒樽のふたを木槌で割る鏡開きの様子">
+<figcaption>新年の行事で行われた鏡開き（長崎県佐世保市、2026年1月）。写真：U.S. Navy photo by Mass Communication Specialist 2nd Class Sophia H. Bumps／Wikimedia Commons（パブリックドメイン）</figcaption>
+</figure>
+
 ## 参拝のあとに楽しむ日本酒｜京都・伏見へ
 
 京都の伏見は、古くから酒どころとして知られています。伏見稲荷大社と同じ京都市伏見区にあり、電車で行き来できます。[伏見稲荷大社の参拝ガイド](/blog/fushimi-inari-goshuin-powerspot/)でお参りしたあと、酒蔵の街並みを歩くのもおすすめです。
+
+<figure class="photo">
+<img src="/images/posts/sake-fushimi-canal-1200.webp" srcset="/images/posts/sake-fushimi-canal-640.webp 640w, /images/posts/sake-fushimi-canal-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="799" loading="lazy" decoding="async" alt="酒蔵の白壁と蔵が並ぶ、柳が茂る伏見の水辺">
+<figcaption>伏見の宇治川派流と酒蔵（京都市伏見区）。写真：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 - 蔵元を訪ねる場合は、見学や試飲に予約が必要なことがあります。公式サイトで確認しましょう。
 - 日本では、飲酒は20歳になってからです。運転する方は飲まないでください。

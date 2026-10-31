@@ -51,9 +51,19 @@ draft: false
 
 慶祝場合中，用木槌敲開酒桶蓋的**「鏡開（鏡開き）」**。據說是因為將桶蓋比喻為「鏡」，而「開」這個字有吉祥的涵義，才成為新年或慶典的儀式。在神社看到奉納酒桶，或祭典上供應的桶裝酒時，不妨多留意一下。
 
+<figure class="photo">
+<img src="/images/posts/sake-kagami-biraki-1200.webp" srcset="/images/posts/sake-kagami-biraki-640.webp 640w, /images/posts/sake-kagami-biraki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="960" loading="lazy" decoding="async" alt="眾人以木槌敲開酒桶蓋的鏡開儀式">
+<figcaption>新年活動中舉行的鏡開（長崎縣佐世保市，2026年1月）。攝影：U.S. Navy photo by Mass Communication Specialist 2nd Class Sophia H. Bumps／Wikimedia Commons（公有領域）</figcaption>
+</figure>
+
 ## 參拜之後｜京都伏見
 
 京都伏見自古以來就是知名的酒鄉。與伏見稻荷大社同位於京都市伏見區，可搭電車前往。在[伏見稻荷大社參拜指南](/zh-tw/blog/fushimi-inari-goshuin-powerspot/)中參拜完畢後，到酒藏街道散步也很不錯。
+
+<figure class="photo">
+<img src="/images/posts/sake-fushimi-canal-1200.webp" srcset="/images/posts/sake-fushimi-canal-640.webp 640w, /images/posts/sake-fushimi-canal-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="799" loading="lazy" decoding="async" alt="柳樹繁茂的伏見水邊，與白牆酒藏並列的景色">
+<figcaption>伏見的宇治川派流與酒藏（京都市伏見區）。攝影：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 - 拜訪酒藏時，參觀與試飲可能需要預約，請先確認官方網站。
 - 日本的法定飲酒年齡為20歲。開車的人請不要飲酒。

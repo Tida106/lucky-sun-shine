@@ -52,9 +52,19 @@ For the places said to inspire the film, see our [Your Name pilgrimage guide to 
 
 At celebrations, the lid of a sake barrel is broken open with a mallet in a ceremony called **kagami-biraki**. The lid is likened to a mirror, and "opening" is considered auspicious, which is said to be how the custom came about. If you see donated barrels at a shrine, or barrel sake served at a festival, take a closer look.
 
+<figure class="photo">
+<img src="/images/posts/sake-kagami-biraki-1200.webp" srcset="/images/posts/sake-kagami-biraki-640.webp 640w, /images/posts/sake-kagami-biraki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="960" loading="lazy" decoding="async" alt="People breaking open a sake barrel lid with wooden mallets in a kagami-biraki ceremony">
+<figcaption>A kagami-biraki at a New Year event in Sasebo, Nagasaki (January 2026). Photo: U.S. Navy photo by Mass Communication Specialist 2nd Class Sophia H. Bumps/Wikimedia Commons (public domain)</figcaption>
+</figure>
+
 ## After your visit: Fushimi, Kyoto
 
 Fushimi has long been famous as a sake district. It lies in the same ward of Kyoto as Fushimi Inari Taisha and is reachable by train. After your visit described in the [Fushimi Inari guide](/en/blog/fushimi-inari-goshuin-powerspot/), a walk through the brewery streets makes a nice finish.
+
+<figure class="photo">
+<img src="/images/posts/sake-fushimi-canal-1200.webp" srcset="/images/posts/sake-fushimi-canal-640.webp 640w, /images/posts/sake-fushimi-canal-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="799" loading="lazy" decoding="async" alt="Sake brewery storehouses with white walls behind willow trees along a Fushimi waterway">
+<figcaption>The Ujigawa-haryu waterway and sake breweries in Fushimi, Kyoto. Photo: <a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
 
 - Breweries may require reservations for tours and tastings, so check their official websites.
 - The legal drinking age in Japan is 20. Please do not drink and drive.
