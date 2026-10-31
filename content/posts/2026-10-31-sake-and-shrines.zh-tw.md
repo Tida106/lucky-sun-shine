@@ -16,7 +16,17 @@ draft: false
 
 供奉給神明的酒稱為**「御神酒（おみき）」**。自古以來，稻米是獻給神明的重要供品，用稻米釀成的酒也被視為特別的存在。
 
+<figure class="photo">
+<img src="/images/posts/sake-omiki-sanbo-1200.webp" srcset="/images/posts/sake-omiki-sanbo-640.webp 640w, /images/posts/sake-omiki-sanbo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1192" loading="lazy" decoding="async" alt="供奉在三方上的一對白色瓶子裡的神酒">
+<figcaption>放在三方上供奉的神酒。</figcaption>
+</figure>
+
 供奉之後，神職與參拜者一同飲用的儀式稱為**「直會（なおらい）」**。據說與神明享用相同的食物，有分享神明力量的涵義。神社婚禮上的三三九度，也是藉由交杯酒結緣的儀式之一。
+
+<figure class="photo">
+<img src="/images/posts/sake-katori-offering-1200.webp" srcset="/images/posts/sake-katori-offering-640.webp 640w, /images/posts/sake-katori-offering-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1309" loading="lazy" decoding="async" alt="榊樹、酒、米、年糕、蔬菜、魚與水果擺放在三方上供奉的樣子">
+<figcaption>香取神宮插秧祭典中的供品（千葉縣香取市）。攝影：<a href="https://commons.wikimedia.org/wiki/User:Katorisi" rel="noopener" target="_blank">katorisi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸並裁切）</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/sake-meiji-barrels-1200.webp" srcset="/images/posts/sake-meiji-barrels-640.webp 640w, /images/posts/sake-meiji-barrels-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮奉納的稻草包裹酒桶整齊排列的樣子">

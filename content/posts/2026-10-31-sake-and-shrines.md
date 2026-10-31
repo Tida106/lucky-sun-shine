@@ -16,7 +16,17 @@ draft: false
 
 神様にお供えするお酒を**「お神酒（おみき）」**といいます。古くから、米は神様への大切な捧げものであり、その米から造るお酒は特別なものと考えられてきました。
 
+<figure class="photo">
+<img src="/images/posts/sake-omiki-sanbo-1200.webp" srcset="/images/posts/sake-omiki-sanbo-640.webp 640w, /images/posts/sake-omiki-sanbo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1192" loading="lazy" decoding="async" alt="三方の上に供えられた、白い瓶子（へいし）に入った神酒">
+<figcaption>三方に載せて供えられた神酒。</figcaption>
+</figure>
+
 お供えしたあと、そのお酒を神職や参列者がいただく儀式を**「直会（なおらい）」**といいます。神様と同じものをいただくことで、神様の力を分けていただく意味があるとされています。
+
+<figure class="photo">
+<img src="/images/posts/sake-katori-offering-1200.webp" srcset="/images/posts/sake-katori-offering-640.webp 640w, /images/posts/sake-katori-offering-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1309" loading="lazy" decoding="async" alt="榊、酒、米、餅、野菜、魚、果物が三方に載せて供えられた様子">
+<figcaption>香取神宮の御田植祭での供物（千葉県香取市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Katorisi" rel="noopener" target="_blank">katorisi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更・切り抜きあり）</figcaption>
+</figure>
 
 神社の結婚式で行われる三三九度も、お酒を酌み交わして縁を結ぶ儀式のひとつです。
 

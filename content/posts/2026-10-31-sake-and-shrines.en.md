@@ -17,7 +17,17 @@ At Japanese shrines you will often see rows of sake barrels or bottles of sake p
 
 Sake offered to the gods is called **"omiki"**. Rice has long been treated as a precious offering, and the sake made from it was considered special.
 
+<figure class="photo">
+<img src="/images/posts/sake-omiki-sanbo-1200.webp" srcset="/images/posts/sake-omiki-sanbo-640.webp 640w, /images/posts/sake-omiki-sanbo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1192" loading="lazy" decoding="async" alt="A pair of white ceramic sake bottles offered on a wooden stand (sanpo)">
+<figcaption>Sake offered to the gods on a wooden stand (sanpo).</figcaption>
+</figure>
+
 After the offering, priests and participants drink the sake in a ritual called **"naorai."** Sharing the same food and drink as the gods is said to mean receiving a share of their power. The sansankudo exchange of sake cups at a Shinto wedding is another ritual in which sake binds people together.
+
+<figure class="photo">
+<img src="/images/posts/sake-katori-offering-1200.webp" srcset="/images/posts/sake-katori-offering-640.webp 640w, /images/posts/sake-katori-offering-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1309" loading="lazy" decoding="async" alt="Offerings of sakaki, sake, rice, rice cakes, vegetables, fish and fruit on wooden stands">
+<figcaption>Offerings at the rice-planting festival of Katori Jingu, Katori, Chiba. Photo: <a href="https://commons.wikimedia.org/wiki/User:Katorisi" rel="noopener" target="_blank">katorisi</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized and cropped)</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/sake-meiji-barrels-1200.webp" srcset="/images/posts/sake-meiji-barrels-640.webp 640w, /images/posts/sake-meiji-barrels-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Rows of straw-wrapped sake barrels offered at Meiji Shrine">
