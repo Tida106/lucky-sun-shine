@@ -20,6 +20,11 @@ draft: false
 
 神社の結婚式で行われる三三九度も、お酒を酌み交わして縁を結ぶ儀式のひとつです。
 
+<figure class="photo">
+<img src="/images/posts/sake-meiji-barrels-1200.webp" srcset="/images/posts/sake-meiji-barrels-640.webp 640w, /images/posts/sake-meiji-barrels-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮に奉納された、藁で包まれた酒樽（薦被り）がずらりと並ぶ様子">
+<figcaption>明治神宮に奉納された酒樽（東京都渋谷区）。写真：<a href="https://commons.wikimedia.org/wiki/User:Grendelkhan" rel="noopener" target="_blank">Grendelkhan</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 酒造りの神様を祀る神社
 
 日本には、酒造りの神様として信仰される神社がいくつもあります。
@@ -27,6 +32,16 @@ draft: false
 - **大神神社（奈良）**: 大物主大神を祀り、酒造の神としても信仰されてきました。酒屋の軒先に吊るす杉玉（酒林）は、大神神社の神木である杉に由来するとされています。詳しくは[三輪神社（大神神社）の参拝ガイド](/blog/omiwa-jinja/)をご覧ください。
 - **松尾大社（京都）**: 「醸造の祖神」として知られ、全国の酒造関係者から信仰を集めるとされています。
 - **梅宮大社（京都）**: 酒造の神様を祀る神社として知られています。
+
+<figure class="photo">
+<img src="/images/posts/sake-sakabayashi-sign-1200.webp" srcset="/images/posts/sake-sakabayashi-sign-640.webp 640w, /images/posts/sake-sakabayashi-sign-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="酒林（杉玉）と、その由来を書いた案内板">
+<figcaption>酒林（杉玉）の案内板。酒造りの神様とされる三輪神社の神木にちなむ、と書かれています（熊本県山鹿市の酒蔵）。写真：<a href="https://commons.wikimedia.org/wiki/User:Makoragi" rel="noopener" target="_blank">Makoragi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/sake-sugidama-uda-1200.webp" srcset="/images/posts/sake-sugidama-uda-640.webp 640w, /images/posts/sake-sugidama-uda-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奈良県宇陀市の酒蔵の軒先に吊るされた杉玉">
+<figcaption>酒蔵の軒先に吊るされた杉玉（奈良県宇陀市）。写真：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## 口噛み酒と「君の名は。」
 

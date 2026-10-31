@@ -18,6 +18,11 @@ draft: false
 
 供奉之後，神職與參拜者一同飲用的儀式稱為**「直會（なおらい）」**。據說與神明享用相同的食物，有分享神明力量的涵義。神社婚禮上的三三九度，也是藉由交杯酒結緣的儀式之一。
 
+<figure class="photo">
+<img src="/images/posts/sake-meiji-barrels-1200.webp" srcset="/images/posts/sake-meiji-barrels-640.webp 640w, /images/posts/sake-meiji-barrels-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮奉納的稻草包裹酒桶整齊排列的樣子">
+<figcaption>明治神宮奉納的酒桶（東京都澀谷區）。攝影：<a href="https://commons.wikimedia.org/wiki/User:Grendelkhan" rel="noopener" target="_blank">Grendelkhan</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 供奉酒造之神的神社
 
 日本有幾間被視為酒造之神而受到信仰的神社：
@@ -25,6 +30,16 @@ draft: false
 - **大神神社（奈良）**：供奉大物主大神，也被視為酒造之神。酒坊屋簷下懸掛的杉玉（酒林），相傳源自大神神社的神木杉樹。詳見[三輪神社（大神神社）參拜指南](/zh-tw/blog/omiwa-jinja/)。
 - **松尾大社（京都）**：以「釀造始祖神」聞名，據說受到全國酒造相關人士的信仰。
 - **梅宮大社（京都）**：以供奉酒造之神的神社而聞名。
+
+<figure class="photo">
+<img src="/images/posts/sake-sakabayashi-sign-1200.webp" srcset="/images/posts/sake-sakabayashi-sign-640.webp 640w, /images/posts/sake-sakabayashi-sign-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="酒林（杉玉）與說明其由來的告示牌">
+<figcaption>酒林（杉玉）與說明牌，上面提到與酒造之神三輪神社的神木有關（熊本縣山鹿市的酒藏）。攝影：<a href="https://commons.wikimedia.org/wiki/User:Makoragi" rel="noopener" target="_blank">Makoragi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/sake-sugidama-uda-1200.webp" srcset="/images/posts/sake-sugidama-uda-640.webp 640w, /images/posts/sake-sugidama-uda-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="懸掛在奈良縣宇陀市酒藏屋簷下的杉玉">
+<figcaption>懸掛在酒藏屋簷下的杉玉（奈良縣宇陀市）。攝影：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## 口嚼酒與《你的名字。》
 
