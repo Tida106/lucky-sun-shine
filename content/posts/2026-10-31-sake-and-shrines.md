@@ -82,6 +82,15 @@ draft: false
 
 初めて神社を訪れる方は、[神社参拝の基本マナー](/blog/shrine-visit-basics/)も参考にしてみてください。
 
+## 自宅でも日本酒を楽しむなら
+
+<p><span style="display:inline-block;padding:1px 6px;border-radius:4px;background:#fde68a;font-weight:bold;font-size:0.8em">PR</span> この記事には広告（アフィリエイトリンク）が含まれます。</p>
+
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%2597%25A5%25E6%259C%25AC%25E9%2585%2592%2520%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場で「日本酒 飲み比べセット」を探す</a>（まずは少しずついろいろな味を試したい方に）
+- <a href="https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%2597%25A5%25E6%259C%25AC%25E9%2585%2592%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E7%25B4%2594%25E7%25B1%25B3%2F&link_type=text" rel="sponsored noopener nofollow" target="_blank">楽天市場で「日本酒 ギフト 純米」を探す</a>（贈りものや、お祝いの席に）
+
+お酒は20歳になってから。飲んだあとは、車の運転をしないでください。
+
 ## まとめ
 
 - お神酒は、神様への捧げものであり、いただくことで力を分けてもらう意味があるとされています。
