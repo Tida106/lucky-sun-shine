@@ -54,7 +54,17 @@ The shrine is also described as having been used as a talisman against arrows an
 
 ## Charm rings and omamori
 
-The **protective charm ring** inscribed with the Samuhara characters is widely known. These charms are not given out at the Okayama Inner Shrine and are said to be available only at the **Osaka shrine**. Procedures and quantities can change, so check the official website before you go.
+The **protective charm ring (Gojinkanmamori)** inscribed with the Samuhara characters is widely known. It is not given out at the Okayama Inner Shrine; you **apply for it at the Osaka shrine**. The official website explains the process as follows (as of late November 2025):
+
+- **By application**: it is not something you buy on the spot. You submit an application form and wait while it is made.
+- **In person**: applications are taken at the shrine office on weekdays, 9:00-15:30 (not on weekends or national holidays).
+- **If you cannot visit**: you can apply by sending a handwritten letter by post.
+- **Eligibility**: only people with an address in Japan, one ring per person.
+- **Offering**: 10,000 yen or more for the ring, and 5,000 yen or more for the silver pendant types (the pendant fees are due to be revised from the end of August 2026).
+- **Unavailable periods**: Dec 30-Jan 6, Feb 1-5, Apr 21-24 and Oct 21-24 (busy festival periods).
+- **Status**: as of late November 2025, the page says applications were temporarily suspended.
+
+The shrine describes the charm as a proof of divine protection, not a commemorative item. A pendant type made of the same material is available for people who cannot wear a ring, for example because of a metal allergy. Please always check the latest status on the [official website](https://samuhara.or.jp/en/).
 
 For choosing and displaying omamori in general, see our [omamori guide](/en/blog/omamori-guide/).
 
@@ -85,7 +95,7 @@ Hours may change, so check with the Tsuyama tourist association before going.
 
 - Samuhara Shrine worships the three creator deities as "Samuhara Okami" and is known as a shrine of protection.
 - There is a shrine in Osaka and its roots, the Inner Shrine in Okayama.
-- The charm ring is said to be given out at the Osaka shrine.
+- The charm ring is by application at the Osaka shrine; check the official website for the current status.
 - Check hours and conditions on the official website before visiting.
 
 Sources: [Samuhara Shrine official website](https://samuhara.or.jp/en/), [Okayama Kanko Web (Inner Shrine)](https://www.okayama-kanko.jp/spot/10590)
