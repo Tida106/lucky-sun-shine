@@ -21,8 +21,19 @@ It is a ring-shaped charm modeled on **futaba-aoi (double hollyhock)**, the shri
 - **Offering**: 3,000 yen (this can change)
 - **Size**: basically size 9 (Japanese sizing). It is an open-ring type, so it is said to be adjustable to a degree
 - **Material**: described as brass with a coating
+- **Design**: two double-hollyhock leaves and a small stone set inside a circle (the photo shows pink gold)
 
 An omamori is something you keep on you. Even in ring form, treat it with care as a charm offered by the shrine rather than as simple jewelry.
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-a-1000.webp" srcset="/images/posts/shimo-ring-a-640.webp 640w, /images/posts/shimo-ring-a-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="Pink gold ring with double-hollyhock leaves and a stone inside a circle, front view">
+<figcaption>"Ai no Wa Mamori" with double-hollyhock leaves and a stone inside a circle (pink gold). Photo: Lucky Sun Shine</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-b-1000.webp" srcset="/images/posts/shimo-ring-b-640.webp 640w, /images/posts/shimo-ring-b-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="The ring seen from an angle">
+<figcaption>The ring from an angle. Photo: Lucky Sun Shine</figcaption>
+</figure>
 
 ## Where can you get it?
 

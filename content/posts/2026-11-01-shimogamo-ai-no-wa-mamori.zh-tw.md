@@ -20,8 +20,19 @@ draft: false
 - **初穗料**：3,000日圓（可能調整）
 - **尺寸**：基本為9號（日本戒圍），屬於開口式戒指，據說可在一定程度內調整
 - **材質**：據介紹為黃銅加上表面塗層
+- **設計**：以兩片雙葉葵的葉子與圓環中的一顆小石頭構成（照片為粉金色）
 
 御守是隨身攜帶之物。即使是戒指的形狀，也請視為神社授與的御守好好珍惜，而不只是飾品。
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-a-1000.webp" srcset="/images/posts/shimo-ring-a-640.webp 640w, /images/posts/shimo-ring-a-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="裝飾雙葉葵葉片與圓環內小石頭的粉金色戒指（正面）">
+<figcaption>裝飾雙葉葵葉片與圓環內小石頭的「相の環守」（粉金色）。攝影：Lucky Sun Shine</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-b-1000.webp" srcset="/images/posts/shimo-ring-b-640.webp 640w, /images/posts/shimo-ring-b-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="從斜角拍攝的戒指">
+<figcaption>從斜角拍攝的戒指。攝影：Lucky Sun Shine</figcaption>
+</figure>
 
 ## 在哪裡可以請到？
 

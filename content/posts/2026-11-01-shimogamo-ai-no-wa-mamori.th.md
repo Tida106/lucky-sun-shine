@@ -20,8 +20,19 @@ draft: false
 - **ราคาถวาย**: 3,000 เยน (อาจเปลี่ยนแปลงได้)
 - **ไซส์**: พื้นฐานเบอร์ 9 (ไซส์ญี่ปุ่น) เป็นแหวนแบบปลายเปิด จึงกล่าวกันว่าปรับได้ในระดับหนึ่ง
 - **วัสดุ**: มีผู้แนะนำว่าเป็นทองเหลืองเคลือบผิว
+- **ดีไซน์**: มีใบอาโออิสองใบและหินเม็ดเล็กในวงกลม (ในภาพเป็นสีพิงก์โกลด์)
 
 เครื่องรางเป็นของที่พกติดตัว แม้จะเป็นรูปแหวน ก็ควรดูแลอย่างดีในฐานะเครื่องรางที่ศาลเจ้ามอบให้ ไม่ใช่เพียงเครื่องประดับค่ะ
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-a-1000.webp" srcset="/images/posts/shimo-ring-a-640.webp 640w, /images/posts/shimo-ring-a-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="แหวนพิงก์โกลด์ประดับใบอาโออิและหินในวงกลม มองจากด้านหน้า">
+<figcaption>「ไอโนะวะมาโมริ」ประดับใบอาโออิและหินในวงกลม (พิงก์โกลด์) ภาพ: Lucky Sun Shine</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-b-1000.webp" srcset="/images/posts/shimo-ring-b-640.webp 640w, /images/posts/shimo-ring-b-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="แหวนเมื่อมองจากมุมเฉียง">
+<figcaption>แหวนเมื่อมองจากมุมเฉียง ภาพ: Lucky Sun Shine</figcaption>
+</figure>
 
 ## รับได้ที่ไหน?
 

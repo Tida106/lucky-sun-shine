@@ -20,8 +20,19 @@ draft: false
 - **初穂料**: 3,000円（変更されることがあります）
 - **サイズ**: 9号が基本で、輪に隙間のあるオープンリング型のため、ある程度広げて調整できるとされています
 - **素材**: 真鍮にコーティングを施したもの、と紹介されています
+- **デザイン**: 二葉葵の葉を2枚あしらい、円の中に小さな石が入ったデザインです（写真はピンクゴールド）
 
 お守りは「身につけて持ち歩くもの」です。指輪の形をしていても、装身具というより神様のご縁を結ぶ授与品として、大切に扱いましょう。
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-a-1000.webp" srcset="/images/posts/shimo-ring-a-640.webp 640w, /images/posts/shimo-ring-a-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="二葉葵の葉と、円の中の石があしらわれたピンクゴールドの指輪（正面）">
+<figcaption>二葉葵の葉と円の中の石があしらわれた「相の環守」（ピンクゴールド）。写真：Lucky Sun Shine</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-ring-b-1000.webp" srcset="/images/posts/shimo-ring-b-640.webp 640w, /images/posts/shimo-ring-b-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="1000" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="指輪を斜めから見たところ">
+<figcaption>斜めから見た「相の環守」。写真：Lucky Sun Shine</figcaption>
+</figure>
 
 ## どこで授かれる？
 
