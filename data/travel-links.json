@@ -65,7 +65,8 @@
     "aso-jinja": ["aso"],
     "hieizan-enryakuji": ["hiei", "kyoto"],
     "kirishima-jingu": ["takachiho"],
-    "sake-and-shrines": ["kyoto", "nara"]
+    "sake-and-shrines": ["kyoto", "nara"],
+    "shimogamo-ai-no-wa-mamori": ["kyoto"]
   },
   "esimOnly": [
     "shinto-energy-recharge",
