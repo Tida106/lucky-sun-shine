@@ -38,6 +38,12 @@ Enoshima Shrine is an ancient shrine that considers the entire **Enoshima Island
 - [Editor's Note](#postscript)
 - [Related Articles You Might Like](#related)
 
+<figure class="photo">
+<img src="/images/posts/eno-torii-900.webp" srcset="/images/posts/eno-torii-480.webp 480w, /images/posts/eno-torii-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" style="max-width:420px;width:100%;height:auto" alt="The torii gate and stairs of Enoshima Shrine">
+<figcaption>The torii gate and stairs of Enoshima Shrine. Photo: <a href="https://commons.wikimedia.org/wiki/User:Guilhem_Vellut" rel="noopener" target="_blank">Guilhem Vellut</a>/Flickr, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="basic"></span>Basic Information and Shrine Data
 
 | Item | Details |
@@ -85,6 +91,17 @@ Enoshima Shrine is one of **Japan's Three Great Benzaiten**, alongside **Itsukus
 
 You can pay an admission fee to worship them, and pilgrims aspiring to artistic pursuits visit continuously.
 
+<figure class="photo">
+<img src="/images/posts/eno-hetsu-1200.webp" srcset="/images/posts/eno-hetsu-640.webp 640w, /images/posts/eno-hetsu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Hetsunomiya, the first of the three shrines">
+<figcaption>Hetsunomiya. Photo: <a href="https://commons.wikimedia.org/wiki/User:Daderot" rel="noopener" target="_blank">Daderot</a>/Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/eno-naka-1200.webp" srcset="/images/posts/eno-naka-640.webp 640w, /images/posts/eno-naka-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The vermilion Nakatsunomiya">
+<figcaption>Nakatsunomiya. Photo: <a href="https://commons.wikimedia.org/wiki/User:Daderot" rel="noopener" target="_blank">Daderot</a>/Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="point"></span>Key Visiting Points
 
 -   The traditional order of worship is **Hetsunomiya → Nakatsunomiya → Okutsunomiya**.
@@ -92,6 +109,17 @@ You can pay an admission fee to worship them, and pilgrims aspiring to artistic 
 -   Look up at the ceiling painting of the **"Eight-Direction Staring Turtle"** in Okutsunomiya.
 -   Experience the legend of the Five-Headed Dragon at **Ryūgū (Wadatsumi-no-Miya)**, a tale passed down on Enoshima.
 -   Consider using the **Enoshima Escar (paid)** as there are many stairs.
+
+<figure class="photo">
+<img src="/images/posts/eno-ema-1200.webp" srcset="/images/posts/eno-ema-640.webp 640w, /images/posts/eno-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The "Musubi no Ki" tree and pink ema wishing plaques">
+<figcaption>The "Musubi no Ki" and ema plaques. Photo: <a href="https://www.flickr.com/people/65947222@N00/" rel="noopener" target="_blank">Wei-Te Wong</a>/Flickr, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/eno-zuishin-1200.webp" srcset="/images/posts/eno-zuishin-640.webp 640w, /images/posts/eno-zuishin-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Zuishinmon gate of Enoshima Shrine">
+<figcaption>Zuishinmon gate. Photo: <a href="https://web.archive.org/web/20161024093952/http://www.panoramio.com/photo/71994673" rel="noopener" target="_blank">AMANO Jun-ichi</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 
 ## <span id="access"></span>Access
 

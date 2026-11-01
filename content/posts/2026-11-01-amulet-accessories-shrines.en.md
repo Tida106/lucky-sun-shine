@@ -40,6 +40,12 @@ One thing to know first: **popular ones can be application-only or sell out**. P
 - [Official site](https://www.shimogamo-jinja.or.jp/) / [Full visit guide](/en/blog/shimogamo-ai-no-wa-mamori/)
 
 **3. Enoshima Shrine (Kanagawa) - Yubiwa Mamori**
+
+<figure class="photo">
+<img src="/images/posts/eno-torii-900.webp" srcset="/images/posts/eno-torii-480.webp 480w, /images/posts/eno-torii-900.webp 900w" sizes="(min-width: 768px) 420px, 100vw" width="900" height="1200" loading="lazy" decoding="async" style="max-width:420px;width:100%;height:auto" alt="The torii gate and stairs of Enoshima Shrine">
+<figcaption>The torii gate and stairs of Enoshima Shrine. Photo: <a href="https://commons.wikimedia.org/wiki/User:Guilhem_Vellut" rel="noopener" target="_blank">Guilhem Vellut</a>/Flickr, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
 - A ring based on the snake, the deity's messenger, with the shrine name engraved on the back according to introductions. Introduced as 700 yen.
 - [Official site](https://enoshimajinja.or.jp/)
 

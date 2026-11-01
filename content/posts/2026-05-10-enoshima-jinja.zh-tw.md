@@ -34,6 +34,12 @@ draft: false
 - [編輯後記](#postscript)
 - [一起來看看這些相關文章](#related)
 
+<figure class="photo">
+<img src="/images/posts/eno-torii-900.webp" srcset="/images/posts/eno-torii-480.webp 480w, /images/posts/eno-torii-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" style="max-width:420px;width:100%;height:auto" alt="江島神社的鳥居與石階">
+<figcaption>江島神社的鳥居與石階。攝影：<a href="https://commons.wikimedia.org/wiki/User:Guilhem_Vellut" rel="noopener" target="_blank">Guilhem Vellut</a>／Flickr・Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
 ## <span id="basic"></span>基本資訊・神社資料
 
 | 項目 | 內容 |
@@ -81,6 +87,17 @@ draft: false
 
 只要支付拝觀費即可入內參拜，吸引許多立志精進才藝的人絡繹不絕地前來參拜。
 
+<figure class="photo">
+<img src="/images/posts/eno-hetsu-1200.webp" srcset="/images/posts/eno-hetsu-640.webp 640w, /images/posts/eno-hetsu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="邊津宮的社殿">
+<figcaption>邊津宮。攝影：<a href="https://commons.wikimedia.org/wiki/User:Daderot" rel="noopener" target="_blank">Daderot</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/eno-naka-1200.webp" srcset="/images/posts/eno-naka-640.webp 640w, /images/posts/eno-naka-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="朱紅色的中津宮">
+<figcaption>中津宮。攝影：<a href="https://commons.wikimedia.org/wiki/User:Daderot" rel="noopener" target="_blank">Daderot</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
 ## <span id="point"></span>參拜重點
 
 - 傳統上依**邊津宮→中津宮→奧津宮**的順序參拜
@@ -88,6 +105,17 @@ draft: false
 - 別忘了抬頭看看奧津宮**「八方注視的烏龜」**天花板畫
 - 在**龍宮（海神宮）**感受江之島流傳的五頭龍傳說
 - 島內階梯眾多，也可以考慮使用**江之島電扶梯（需付費）**
+
+<figure class="photo">
+<img src="/images/posts/eno-ema-1200.webp" srcset="/images/posts/eno-ema-640.webp 640w, /images/posts/eno-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="「結緣之樹」與寫著心願的粉紅繪馬">
+<figcaption>「結緣之樹」與繪馬。攝影：<a href="https://www.flickr.com/people/65947222@N00/" rel="noopener" target="_blank">Wei-Te Wong</a>／Flickr・Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/eno-zuishin-1200.webp" srcset="/images/posts/eno-zuishin-640.webp 640w, /images/posts/eno-zuishin-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="江島神社的瑞心門">
+<figcaption>瑞心門。攝影：<a href="https://web.archive.org/web/20161024093952/http://www.panoramio.com/photo/71994673" rel="noopener" target="_blank">AMANO Jun-ichi</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 
 ## <span id="access"></span>交通方式
 

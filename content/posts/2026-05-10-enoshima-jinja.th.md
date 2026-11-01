@@ -13,6 +13,12 @@ draft: false
 
 ศาลเจ้าเอโนชิมะเป็นศาลเจ้าเก่าแก่ที่ถือเอาทั้งเกาะ **เอโนะชิมะ** ซึ่งลอยอยู่ในทะเลโชนันเป็นเขตศักดิ์สิทธิ์ทั้งเกาะ ภายในเกาะมี 3 ศาล คือ **เฮตสึกุ นากัตสึกุ และโอคุสึกุ** บูชา **เทพธิดาทั้งสามแห่งมุนะกะตะ** เป็นที่ศรัทธามาแต่โบราณในนาม **“เอโนชิมะเบ็นไซเท็น”** และถูกจัดเป็นหนึ่งใน **“3 สุดยอดเทพีเบ็นไซเท็นของญี่ปุ่น”** เทียบเท่ากับมิยาจิมะแห่งอากิและชิคุบุชิมะแห่งโอมิ เป็นเขตศักดิ์สิทธิ์กลางทะเล
 
+<figure class="photo">
+<img src="/images/posts/eno-torii-900.webp" srcset="/images/posts/eno-torii-480.webp 480w, /images/posts/eno-torii-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" style="max-width:420px;width:100%;height:auto" alt="โทริอิและบันไดหินของศาลเจ้าเอโนชิมะ">
+<figcaption>โทริอิและบันไดหินของศาลเจ้าเอโนชิมะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Guilhem_Vellut" rel="noopener" target="_blank">Guilhem Vellut</a>/Flickr, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ## ข้อมูลพื้นฐาน
 
 | หัวข้อ | รายละเอียด |
@@ -56,6 +62,17 @@ draft: false
 
 สามารถเข้าชมได้โดยเสียค่าเข้าชม มีผู้มาสักการะที่ปรารถนาความสำเร็จด้านศิลปะไม่ขาดสาย
 
+<figure class="photo">
+<img src="/images/posts/eno-hetsu-1200.webp" srcset="/images/posts/eno-hetsu-640.webp 640w, /images/posts/eno-hetsu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ศาลเฮตสึโนะมิยะ หนึ่งในสามศาล">
+<figcaption>ศาลเฮตสึโนะมิยะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Daderot" rel="noopener" target="_blank">Daderot</a>/Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/eno-naka-1200.webp" srcset="/images/posts/eno-naka-640.webp 640w, /images/posts/eno-naka-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ศาลนากาสึโนะมิยะสีแดงชาด">
+<figcaption>ศาลนากาสึโนะมิยะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Daderot" rel="noopener" target="_blank">Daderot</a>/Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ## จุดสำคัญในการไหว้
 
 - การไหว้ตามลำดับ **เฮตสึกุ→นากัตสึกุ→โอคุสึกุ** เป็นแบบแผนดั้งเดิม
@@ -63,6 +80,17 @@ draft: false
 - แหงนมองภาพเพดาน **“เต่าแปดทิศ”** ที่โอคุสึกุ
 - สัมผัสตำนานมังกรห้าหัวแห่งเอโนะชิมะที่ **วังมังกร**
 - มีบันไดจำนวนมาก ควรพิจารณาใช้ **เอสคาร์แห่งเอโนะชิมะ (เสียค่าบริการ)**
+
+<figure class="photo">
+<img src="/images/posts/eno-ema-1200.webp" srcset="/images/posts/eno-ema-640.webp 640w, /images/posts/eno-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ต้นไม้ "มุสุบิโนะคิ" และเอมะสีชมพูที่เขียนคำอธิษฐาน">
+<figcaption>ต้นมุสุบิโนะคิและเอมะ ภาพ: <a href="https://www.flickr.com/people/65947222@N00/" rel="noopener" target="_blank">Wei-Te Wong</a>/Flickr, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/eno-zuishin-1200.webp" srcset="/images/posts/eno-zuishin-640.webp 640w, /images/posts/eno-zuishin-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="ประตูซุยชินมอนของศาลเจ้าเอโนชิมะ">
+<figcaption>ประตูซุยชินมอน ภาพ: <a href="https://web.archive.org/web/20161024093952/http://www.panoramio.com/photo/71994673" rel="noopener" target="_blank">AMANO Jun-ichi</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 
 ## การเดินทาง
 

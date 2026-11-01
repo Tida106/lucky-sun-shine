@@ -39,6 +39,12 @@ draft: false
 - [官方網站](https://www.shimogamo-jinja.or.jp/)／[詳細參拜指南](/zh-tw/blog/shimogamo-ai-no-wa-mamori/)
 
 **3. 江島神社（神奈川）｜戒指守**
+
+<figure class="photo">
+<img src="/images/posts/eno-torii-900.webp" srcset="/images/posts/eno-torii-480.webp 480w, /images/posts/eno-torii-900.webp 900w" sizes="(min-width: 768px) 420px, 100vw" width="900" height="1200" loading="lazy" decoding="async" style="max-width:420px;width:100%;height:auto" alt="江島神社的鳥居與石階">
+<figcaption>江島神社的鳥居與石階。攝影：<a href="https://commons.wikimedia.org/wiki/User:Guilhem_Vellut" rel="noopener" target="_blank">Guilhem Vellut</a>／Flickr・Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 - 以神明使者「蛇」為造型的戒指，據介紹背面刻有神社名稱。初穗料為700日圓。
 - [官方網站](https://enoshimajinja.or.jp/)
 

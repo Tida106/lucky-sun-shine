@@ -39,6 +39,12 @@ draft: false
 - [เว็บไซต์ทางการ](https://www.shimogamo-jinja.or.jp/) / [คู่มือไหว้ฉบับเต็ม](/th/blog/shimogamo-ai-no-wa-mamori/)
 
 **3. ศาลเจ้าเอโนชิมะ (คานากาวะ) | ยูบิวะมาโมริ**
+
+<figure class="photo">
+<img src="/images/posts/eno-torii-900.webp" srcset="/images/posts/eno-torii-480.webp 480w, /images/posts/eno-torii-900.webp 900w" sizes="(min-width: 768px) 420px, 100vw" width="900" height="1200" loading="lazy" decoding="async" style="max-width:420px;width:100%;height:auto" alt="โทริอิและบันไดหินของศาลเจ้าเอโนชิมะ">
+<figcaption>โทริอิและบันไดหินของศาลเจ้าเอโนชิมะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Guilhem_Vellut" rel="noopener" target="_blank">Guilhem Vellut</a>/Flickr, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 - แหวนที่ออกแบบจากงู ผู้ส่งสารของเทพ ตามที่มีผู้แนะนำว่าด้านหลังสลักชื่อศาลเจ้า ราคา 700 เยน
 - [เว็บไซต์ทางการ](https://enoshimajinja.or.jp/)
 
