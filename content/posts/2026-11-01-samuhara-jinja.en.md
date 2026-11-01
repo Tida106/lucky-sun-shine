@@ -78,6 +78,7 @@ For choosing and displaying omamori in general, see our [omamori guide](/en/blog
 - Follow the rules posted on site.
 - For basic etiquette, see our [shrine visit basics](/en/blog/shrine-visit-basics/).
 - If you enshrine talismans at home, see our [kamidana guide](/en/blog/kamidana-guide/).
+- For other shrines with wearable charms, see [shrines with jewelry-style charms](/en/blog/amulet-accessories-shrines/).
 
 ## The Inner Shrine in Okayama (Kamo, Tsuyama)
 

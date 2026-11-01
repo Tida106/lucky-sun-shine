@@ -98,6 +98,7 @@ draft: false
 <img src="/images/posts/shimo-pano-1200.webp" srcset="/images/posts/shimo-pano-640.webp 640w, /images/posts/shimo-pano-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="357" loading="lazy" decoding="async" alt="下鴨神社の境内のパノラマ">
 <figcaption>下鴨神社の境内。写真：<a href="https://web.archive.org/web/20161120102650/http://www.panoramio.com/photo/28763598" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
 </figure>
+- アクセサリー型のお守りがある神社は、[アクセサリー型お守りの神社10選](/blog/amulet-accessories-shrines/)にまとめています。
 
 ## アクセス
 

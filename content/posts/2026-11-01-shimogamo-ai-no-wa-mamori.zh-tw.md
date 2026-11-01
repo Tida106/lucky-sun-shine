@@ -98,6 +98,7 @@ draft: false
 <img src="/images/posts/shimo-pano-1200.webp" srcset="/images/posts/shimo-pano-640.webp 640w, /images/posts/shimo-pano-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="357" loading="lazy" decoding="async" alt="下鴨神社境內全景">
 <figcaption>下鴨神社境內全景。攝影：<a href="https://web.archive.org/web/20161120102650/http://www.panoramio.com/photo/28763598" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
 </figure>
+- 其他有飾品型御守的神社，請見[飾品型御守神社10選](/zh-tw/blog/amulet-accessories-shrines/)。
 
 ## 交通方式
 

@@ -77,6 +77,7 @@ draft: false
 - 請遵守現場的告示與規定。
 - 基本禮儀請參考[神社參拜基本須知](/zh-tw/blog/shrine-visit-basics/)。
 - 想在家中供奉神札的朋友，請見[神棚的歷史與神札供奉方式](/zh-tw/blog/kamidana-guide/)。
+- 其他有飾品型御守的神社，請見[飾品型御守神社10選](/zh-tw/blog/amulet-accessories-shrines/)。
 
 ## 岡山的奧宮（津山市加茂町）
 
