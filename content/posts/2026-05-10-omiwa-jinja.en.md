@@ -165,6 +165,7 @@ For me, Sun-chan, Omiwa Shrine is **"the shrine where you know the deity's addre
 - [Izumo Taisha Grand Shrine Worship Guide](/blog/izumo-taisha/) — The Bond Between Omononushi and Okuninushi
 - [The Meaning and Effects of Jade](/blog/jade/) — An Ancient Japanese Artifact
 - [Comprehensive Guide to Crystals by Purpose](/blog/luck-powerstones-complete-guide/) — Featured in the Health and Matchmaking Chapter
+- [Sake and Shinto Shrines](/en/blog/sake-and-shrines/) — Omiki, sakabayashi and kagami-biraki
 
 ## Summary
 

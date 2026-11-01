@@ -260,6 +260,9 @@ A. Yes. Many people bring them with the intention of "**purifying**" **their sto
 -   [Kumano Hongu Taisha Shrine Visit Guide](/blog/kumano-hongu-taisha/) — The Sacred Site of Rebirth
 -   [Omiwa Jinja Shrine Visit Guide](/blog/omiwa-jinja/) — One of Japan's Oldest Shrines
 -   [The Complete Guide to Choosing Crystals](/blog/how-to-choose-powerstones/) — For Charms on Your Visit
+-   [Kamidana Guide: History and How to Enshrine Talismans](/en/blog/kamidana-guide/) — Enshrining the deities at home
+-   [Sake and Shinto Shrines](/en/blog/sake-and-shrines/) — Omiki, sakabayashi and kagami-biraki
+-   [Samuhara Shrine Visit Guide](/en/blog/samuhara-jinja/) — The "protection" shrine and its charm rings
 
 ## Editorial Team's View: Avoiding Becoming "Etiquette Police"
 

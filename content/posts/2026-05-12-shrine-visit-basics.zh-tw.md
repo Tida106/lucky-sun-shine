@@ -254,6 +254,9 @@ A. 可以。許多人會帶著「**藉神域能量為石頭淨化**」的心情�
 - [熊野本宮大社參拜指南](/blog/kumano-hongu-taisha/) — 重生的聖地
 - [大神神社參拜指南](/blog/omiwa-jinja/) — 日本最古老等級的神社
 - [水晶能量石選購方法完全指南](/blog/how-to-choose-powerstones/) — 適合作為參拜的隨身御守
+- [神棚的歷史與神札供奉方式](/zh-tw/blog/kamidana-guide/) — 在家供奉神明的基本
+- [日本酒與神社的深厚淵源](/zh-tw/blog/sake-and-shrines/) — 神酒、酒林與開鏡的意義
+- [サムハラ神社參拜指南](/zh-tw/blog/samuhara-jinja/) — 「護身」之神與護身戒指
 
 ## 編輯團隊的看法：別讓自己變成「禮儀糾察隊」
 
