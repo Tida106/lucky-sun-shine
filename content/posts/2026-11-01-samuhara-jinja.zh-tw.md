@@ -57,6 +57,11 @@ draft: false
 
 御守的選擇與擺放，請見[御守完全指南](/en/blog/omamori-guide/)（英文）。
 
+<figure class="photo">
+<img src="/images/posts/samuhara-ring-1000.webp" srcset="/images/posts/samuhara-ring-640.webp 640w, /images/posts/samuhara-ring-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="922" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="サムハラ神社的御神環守（護身戒指）與木盒">
+<figcaption>サムハラ神社的御神環守（護身戒指）。攝影：<a href="https://commons.wikimedia.org/wiki/User:Hanabishi" rel="noopener" target="_blank">Hanabishi</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 參拜前須知
 
 - 請遵守現場的告示與規定。

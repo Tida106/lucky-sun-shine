@@ -59,6 +59,11 @@ draft: false
 
 お守り全般の選び方や置き方は、[お守りの完全ガイド](/blog/omamori-guide/)もどうぞ。
 
+<figure class="photo">
+<img src="/images/posts/samuhara-ring-1000.webp" srcset="/images/posts/samuhara-ring-640.webp 640w, /images/posts/samuhara-ring-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="922" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="サムハラ神社のお守り指輪（御神環守）と桐箱">
+<figcaption>サムハラ神社の御神環守（お守り指輪）。写真：<a href="https://commons.wikimedia.org/wiki/User:Hanabishi" rel="noopener" target="_blank">Hanabishi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 参拝前に知っておきたいこと
 
 - 神社の敷地や参拝のルールは、現地の掲示に従いましょう。

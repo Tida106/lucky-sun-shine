@@ -57,6 +57,11 @@ draft: false
 
 เรื่องการเลือกและตั้งเครื่องรางโอมาโมริโดยทั่วไป ดู [คู่มือโอมาโมริ](/en/blog/omamori-guide/) (ภาษาอังกฤษ) ค่ะ
 
+<figure class="photo">
+<img src="/images/posts/samuhara-ring-1000.webp" srcset="/images/posts/samuhara-ring-640.webp 640w, /images/posts/samuhara-ring-1000.webp 1000w" sizes="(min-width: 768px) 560px, 100vw" width="1000" height="922" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="แหวนเครื่องรางของศาลเจ้าซามุฮาระและกล่องไม้">
+<figcaption>แหวนเครื่องราง (โกจินคันมาโมริ) ของศาลเจ้าซามุฮาระ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Hanabishi" rel="noopener" target="_blank">Hanabishi</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## ก่อนไปไหว้
 
 - ปฏิบัติตามกฎที่ติดประกาศในพื้นที่
