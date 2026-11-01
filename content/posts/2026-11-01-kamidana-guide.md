@@ -16,6 +16,11 @@ draft: false
 
 神道では、神様は「いつもそこにいる」というより、お祀りするときにお迎えするもの、と考えられています。そのため、古代の日本には神棚はなかったとみられています。
 
+<figure class="photo">
+<img src="/images/posts/kami-katori-1200.webp" srcset="/images/posts/kami-katori-640.webp 640w, /images/posts/kami-katori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="お正月の飾りをつけた家庭の神棚">
+<figcaption>お正月の飾りをつけた家庭の神棚（千葉県香取市）。写真：<a href="https://commons.wikimedia.org/wiki/User:Katorisi" rel="noopener" target="_blank">katorisi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 神棚の歴史
 
 - 鎌倉〜室町時代のころ、伊勢神宮の神職（御師）が、神札（お札）を各地に配って歩いたとされています。
@@ -36,6 +41,11 @@ draft: false
 
 初めて神棚を祀るときは、氏神様（地元の神社）に相談して、神棚をお清めする「新宅祭（神棚祓）」をお願いするとよい、とされています。
 
+<figure class="photo">
+<img src="/images/posts/kami-dojo-900.webp" srcset="/images/posts/kami-dojo-640.webp 640w, /images/posts/kami-dojo-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="360" loading="lazy" decoding="async" alt="道場の壁の高い位置に祀られた神棚と日の丸">
+<figcaption>道場の壁の高い位置に祀られた神棚。写真：<a href="https://www.flickr.com/photos/135210468@N03/54164376017" rel="noopener" target="_blank">H yamaguchi</a>／Wikimedia Commons（Flickr）、<a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a>（切り抜き・サイズ変更あり）</figcaption>
+</figure>
+
 ## お札の祀り方
 
 神棚には、主に次の3種類のお札を祀ります。
@@ -50,6 +60,11 @@ draft: false
 - **扉が1つの場合**: 手前から、神宮大麻、氏神様、崇敬神社の順に重ねます。
 
 神社によって、お札の置き方の考え方が異なることもあります。迷ったら、氏神様の神社に聞いてみてください。
+
+<figure class="photo">
+<img src="/images/posts/kami-ofuda-900.webp" srcset="/images/posts/kami-ofuda-480.webp 480w, /images/posts/kami-ofuda-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="3枚のお札が並んだ様子（左から伏見稲荷大社、神宮大麻、八坂神社）" style="display:block;max-width:420px;margin:0 auto">
+<figcaption>左から伏見稲荷大社、神宮大麻（天照皇大神宮）、八坂神社のお札。写真：<a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## お供えの基本
 
@@ -68,6 +83,11 @@ draft: false
 ## 神棚が置けない家では
 
 壁に取り付ける、コンパクトでモダンな神棚もあります。置き場所が限られる場合は、高い位置の棚に白い紙を敷き、お札を立てる方法もあります。お守りの置き方は、[お守りの完全ガイド](/blog/omamori-guide/)をご覧ください。
+
+<figure class="photo">
+<img src="/images/posts/kami-shop-1200.webp" srcset="/images/posts/kami-shop-640.webp 640w, /images/posts/kami-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="神棚と、白い器などの神具が並ぶ店頭の展示">
+<figcaption>神棚と神具の展示（店頭）。写真：<a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## 年末の神棚掃除と、お札の納め方
 

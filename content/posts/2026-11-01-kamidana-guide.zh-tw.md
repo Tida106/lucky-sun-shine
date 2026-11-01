@@ -16,6 +16,11 @@ draft: false
 
 在神道中，神明並不是「一直待在那裡」，而是在供奉的時候被迎請而來。因此，一般認為古代日本並沒有神棚。
 
+<figure class="photo">
+<img src="/images/posts/kami-katori-1200.webp" srcset="/images/posts/kami-katori-640.webp 640w, /images/posts/kami-katori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="裝飾著新年飾品的家庭神棚">
+<figcaption>裝飾著新年飾品的家庭神棚（千葉縣香取市）。攝影：<a href="https://commons.wikimedia.org/wiki/User:Katorisi" rel="noopener" target="_blank">katorisi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 神棚的歷史
 
 - 鎌倉至室町時代前後，據說伊勢神宮的神職人員（御師）會到各地分發神札。
@@ -36,6 +41,11 @@ draft: false
 
 第一次供奉神棚時，據說可以請氏神（當地神社）舉行神棚的淨化儀式。
 
+<figure class="photo">
+<img src="/images/posts/kami-dojo-900.webp" srcset="/images/posts/kami-dojo-640.webp 640w, /images/posts/kami-dojo-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="360" loading="lazy" decoding="async" alt="供奉在道場牆壁高處的神棚與日本國旗">
+<figcaption>供奉在道場牆壁高處的神棚。攝影：<a href="https://www.flickr.com/photos/135210468@N03/54164376017" rel="noopener" target="_blank">H yamaguchi</a>／Wikimedia Commons（Flickr）、<a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a>（已裁切並調整尺寸）</figcaption>
+</figure>
+
 ## 神札的供奉方式
 
 神棚主要供奉以下三種神札：
@@ -50,6 +60,11 @@ draft: false
 - **一扇門**：由前往後依序疊放神宮大麻、氏神、崇敬神社
 
 各神社的想法也可能不同，不確定時，請向氏神神社詢問。
+
+<figure class="photo">
+<img src="/images/posts/kami-ofuda-900.webp" srcset="/images/posts/kami-ofuda-480.webp 480w, /images/posts/kami-ofuda-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="並排的三張神札（由左至右為伏見稻荷大社、神宮大麻、八坂神社）" style="display:block;max-width:420px;margin:0 auto">
+<figcaption>由左至右為伏見稻荷大社、神宮大麻（天照皇大神宮）、八坂神社的神札。攝影：<a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## 供品的基本
 
@@ -68,6 +83,11 @@ draft: false
 ## 家中沒有空間放神棚時
 
 也有可掛在牆上、小巧現代的神棚。空間有限時，也可在高處的架子鋪上白紙，把神札立在上面。護身符的擺放方式，請見[御守完全指南](/en/blog/omamori-guide/)（英文）。
+
+<figure class="photo">
+<img src="/images/posts/kami-shop-1200.webp" srcset="/images/posts/kami-shop-640.webp 640w, /images/posts/kami-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="店內展示的神棚與白色神具">
+<figcaption>神棚與神具的店內展示。攝影：<a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## 年末的神棚清掃與舊神札的處理
 

@@ -17,6 +17,11 @@ Have you ever wondered how to enshrine a kamidana properly? A kamidana is a smal
 
 In Shinto, the kami are not thought of as always being in one place; they are welcomed when they are enshrined. For that reason, it is believed that ancient Japan had no kamidana.
 
+<figure class="photo">
+<img src="/images/posts/kami-katori-1200.webp" srcset="/images/posts/kami-katori-640.webp 640w, /images/posts/kami-katori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A household kamidana decorated for New Year">
+<figcaption>A household kamidana decorated for New Year (Katori, Chiba). Photo: <a href="https://commons.wikimedia.org/wiki/User:Katorisi" rel="noopener" target="_blank">katorisi</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 ## History
 
 - Around the Kamakura to Muromachi periods, priests of the Ise Shrines (called *oshi*) are said to have traveled the country distributing shrine talismans.
@@ -37,6 +42,11 @@ Generally, the following are considered good:
 
 When enshrining one for the first time, it is said to be good to ask your local shrine (ujigami) to perform a purification ceremony.
 
+<figure class="photo">
+<img src="/images/posts/kami-dojo-900.webp" srcset="/images/posts/kami-dojo-640.webp 640w, /images/posts/kami-dojo-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="360" loading="lazy" decoding="async" alt="A kamidana enshrined high on a dojo wall beside a Japanese flag">
+<figcaption>A kamidana high on a dojo wall. Photo: <a href="https://www.flickr.com/photos/135210468@N03/54164376017" rel="noopener" target="_blank">H yamaguchi</a>/Wikimedia Commons (Flickr), <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (cropped and resized)</figcaption>
+</figure>
+
 ## How to enshrine the talismans (ofuda)
 
 A kamidana usually holds three kinds of ofuda:
@@ -51,6 +61,11 @@ The arrangement depends on the shrine's doors:
 - **One door**: stack them front to back in this order: Jingu Taima, ujigami, favorite shrine
 
 Customs can differ by shrine, so if you are unsure, ask your local shrine.
+
+<figure class="photo">
+<img src="/images/posts/kami-ofuda-900.webp" srcset="/images/posts/kami-ofuda-480.webp 480w, /images/posts/kami-ofuda-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="Three ofuda side by side: Fushimi Inari Taisha, Jingu Taima and Yasaka Shrine" style="display:block;max-width:420px;margin:0 auto">
+<figcaption>Three ofuda: Fushimi Inari Taisha, Jingu Taima (Amaterasu Kotai Jingu) and Yasaka Shrine, from left. Photo: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
 
 ## Basic offerings
 
@@ -69,6 +84,11 @@ As at a shrine, **two bows, two claps, one bow** is the general form. After chan
 ## If you have no space for one
 
 There are compact, modern wall-mounted kamidana. Some people also lay white paper on a high shelf and stand the ofuda on it. For where to place omamori, see our [omamori guide](/en/blog/omamori-guide/).
+
+<figure class="photo">
+<img src="/images/posts/kami-shop-1200.webp" srcset="/images/posts/kami-shop-640.webp 640w, /images/posts/kami-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A shop display of a small kamidana and white ceramic ritual items">
+<figcaption>A shop display of a kamidana and ritual items. Photo: <a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
 
 ## Year-end cleaning and returning old ofuda
 

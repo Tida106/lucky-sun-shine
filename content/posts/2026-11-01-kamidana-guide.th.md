@@ -16,6 +16,11 @@ draft: false
 
 ในศาสนาชินโต เทพเจ้าไม่ได้ "อยู่ที่นั่นตลอดเวลา" แต่จะได้รับเชิญมาเมื่อมีการบูชา ดังนั้นจึงเชื่อกันว่าญี่ปุ่นสมัยโบราณไม่มีคามิดานะค่ะ
 
+<figure class="photo">
+<img src="/images/posts/kami-katori-1200.webp" srcset="/images/posts/kami-katori-640.webp 640w, /images/posts/kami-katori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="คามิดานะในบ้านที่ประดับตกแต่งสำหรับปีใหม่">
+<figcaption>คามิดานะในบ้านที่ประดับสำหรับปีใหม่ (เมืองคาโทริ จังหวัดชิบะ). ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Katorisi" rel="noopener" target="_blank">katorisi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## ประวัติ
 
 - ราวสมัยคามากุระถึงมุโรมาจิ ว่ากันว่านักบวชของศาลเจ้าอิเสะ (เรียกว่า โอชิ) เดินทางไปแจกเครื่องรางศักดิ์สิทธิ์ตามที่ต่าง ๆ
@@ -36,6 +41,11 @@ draft: false
 
 เมื่อตั้งครั้งแรก ว่ากันว่าควรขอให้ศาลเจ้าท้องถิ่น (อุจิงามิ) ทำพิธีชำระล้างให้ค่ะ
 
+<figure class="photo">
+<img src="/images/posts/kami-dojo-900.webp" srcset="/images/posts/kami-dojo-640.webp 640w, /images/posts/kami-dojo-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="360" loading="lazy" decoding="async" alt="คามิดานะที่ตั้งไว้ในที่สูงบนผนังห้องโดโจ ข้างธงชาติญี่ปุ่น">
+<figcaption>คามิดานะที่ตั้งไว้ในที่สูงบนผนังโดโจ. ภาพ: <a href="https://www.flickr.com/photos/135210468@N03/54164376017" rel="noopener" target="_blank">H yamaguchi</a> / Wikimedia Commons (Flickr), <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (ครอบตัดและปรับขนาด)</figcaption>
+</figure>
+
 ## วิธีบูชาโอฟุดะ
 
 ในคามิดานะมักบูชาโอฟุดะ 3 ประเภท:
@@ -50,6 +60,11 @@ draft: false
 - **หนึ่งบานประตู**: เรียงซ้อนจากด้านหน้าไปด้านหลัง ตามลำดับ จิงงูไทมะ อุจิงามิ ศาลเจ้าที่ศรัทธา
 
 ธรรมเนียมอาจต่างกันไปตามศาลเจ้า หากไม่แน่ใจ ลองสอบถามศาลเจ้าในท้องถิ่นดูนะคะ
+
+<figure class="photo">
+<img src="/images/posts/kami-ofuda-900.webp" srcset="/images/posts/kami-ofuda-480.webp 480w, /images/posts/kami-ofuda-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="โอฟุดะสามใบเรียงกัน (จากซ้าย ศาลเจ้าฟุชิมิอินาริ จิงงูไทมะ และศาลเจ้ายาซากะ)" style="display:block;max-width:420px;margin:0 auto">
+<figcaption>จากซ้าย โอฟุดะของศาลเจ้าฟุชิมิอินาริ จิงงูไทมะ (อามาเทราสึ โคไทจิงงู) และศาลเจ้ายาซากะ. ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## ของถวายเบื้องต้น
 
@@ -68,6 +83,11 @@ draft: false
 ## บ้านที่ไม่มีที่ตั้งคามิดานะ
 
 มีคามิดานะแบบติดผนังที่เล็กและทันสมัย บางคนก็ปูกระดาษขาวบนชั้นที่สูงแล้วตั้งโอฟุดะไว้ สำหรับตำแหน่งวางเครื่องรางโอมาโมริ ดู [คู่มือโอมาโมริ](/en/blog/omamori-guide/) (ภาษาอังกฤษ) ค่ะ
+
+<figure class="photo">
+<img src="/images/posts/kami-shop-1200.webp" srcset="/images/posts/kami-shop-640.webp 640w, /images/posts/kami-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="การจัดแสดงคามิดานะและอุปกรณ์สีขาวในร้านค้า">
+<figcaption>การจัดแสดงคามิดานะและอุปกรณ์บูชาในร้านค้า. ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## ทำความสะอาดปลายปี และการส่งคืนโอฟุดะเก่า
 
