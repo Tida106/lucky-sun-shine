@@ -20,9 +20,19 @@ The shrine is in Nishi Ward, Osaka. Its roots lie in the **Inner Shrine (Oku-no-
 - **Address**: 2-5-6 Itachibori, Nishi-ku, Osaka 550-0012
 - **Phone**: +81-6-6538-2251 (check hours and offerings on the official website or by phone)
 
+<figure class="photo">
+<img src="/images/posts/samuhara-gate-1200.webp" srcset="/images/posts/samuhara-gate-640.webp 640w, /images/posts/samuhara-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Entrance of Samuhara Shrine in Itachibori, Osaka, with rows of white votive lanterns around the torii">
+<figcaption>The entrance of Samuhara Shrine in Itachibori, Nishi Ward, Osaka. Photo: <a href="https://commons.wikimedia.org/wiki/User:Iflwlou" rel="noopener" target="_blank">Iflwlou</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 ## The deity: Samuhara Okami
 
 Samuhara Shrine enshrines the **three creator deities**: Ame-no-Minakanushi, Takamimusubi and Kamimusubi. Together they are called "Samuhara Okami." The blessings said to be associated with them include protection, health, longevity and family prosperity.
+
+<figure class="photo">
+<img src="/images/posts/samuhara-board-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="Notice board at the shrine">
+<figcaption>A notice board on the shrine grounds (Itachibori, Osaka). Photo: <a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (taken in 2006)</figcaption>
+</figure>
 
 ## History
 
@@ -36,6 +46,11 @@ According to the shrine's official website:
 - In 2005 the Okayama Inner Shrine, damaged by a typhoon, was moved to its present site.
 
 The shrine is also described as having been used as a talisman against arrows and bullets in the Edo period, and as a charm for soldiers' good fortune in wartime.
+
+<figure class="photo">
+<img src="/images/posts/samuhara-hall-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="The main hall">
+<figcaption>The main hall (Itachibori, Osaka). Photo: <a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (taken in 2006)</figcaption>
+</figure>
 
 ## Charm rings and omamori
 

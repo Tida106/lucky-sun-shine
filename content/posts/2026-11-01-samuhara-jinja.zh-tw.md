@@ -19,9 +19,19 @@ draft: false
 - **地址**：〒550-0012 大阪市西區立賣堀2-5-6
 - **電話**：+81-6-6538-2251（參拜時間與授與品細節，請向官網或電話確認）
 
+<figure class="photo">
+<img src="/images/posts/samuhara-gate-1200.webp" srcset="/images/posts/samuhara-gate-640.webp 640w, /images/posts/samuhara-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="大阪立賣堀的サムハラ神社入口，鳥居周圍掛滿白色奉納燈籠">
+<figcaption>大阪市西區立賣堀的サムハラ神社入口。攝影：<a href="https://commons.wikimedia.org/wiki/User:Iflwlou" rel="noopener" target="_blank">Iflwlou</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 祭神「サムハラ大神」
 
 供奉**造化三神**：天之御中主大神、高皇產靈大神、神皇產靈大神。這三位神明的總稱即為「サムハラ大神」。據說具有守護己身、無病無傷、延年益壽、家運興隆等神德。
+
+<figure class="photo">
+<img src="/images/posts/samuhara-board-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="境內的告示牌">
+<figcaption>境內的告示牌（大阪市西區立賣堀）。攝影：<a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（2006年拍攝）</figcaption>
+</figure>
 
 ## 由來與歷史
 
@@ -35,6 +45,11 @@ draft: false
 - 2005年，將受颱風損壞的岡山奧宮，遷至現址。
 
 神社也被介紹為江戶時代用來避開箭矢與子彈的護符，戰時則是祈求士兵武運長久的護身符。
+
+<figure class="photo">
+<img src="/images/posts/samuhara-hall-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="社殿">
+<figcaption>社殿（大阪市西區立賣堀）。攝影：<a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（2006年拍攝）</figcaption>
+</figure>
 
 ## 護身戒指與御守
 

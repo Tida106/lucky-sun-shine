@@ -19,11 +19,21 @@ draft: false
 - **所在地**: 〒550-0012 大阪市西区立売堀2-5-6
 - **電話**: 06-6538-2251（参拝時間や授与の詳細は、公式サイトか電話で確認してください）
 
+<figure class="photo">
+<img src="/images/posts/samuhara-gate-1200.webp" srcset="/images/posts/samuhara-gate-640.webp 640w, /images/posts/samuhara-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="立売堀のサムハラ神社の入口。鳥居の周りに白い奉納提灯が並ぶ">
+<figcaption>大阪市西区立売堀のサムハラ神社の入口。写真：<a href="https://commons.wikimedia.org/wiki/User:Iflwlou" rel="noopener" target="_blank">Iflwlou</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 御祭神「サムハラ大神」
 
 サムハラ神社では、天之御中主大神（あめのみなかぬしのおおかみ）・高皇産霊大神（たかみむすびのおおかみ）・神皇産霊大神（かみむすびのおおかみ）の**造化三神**を祀っています。この三柱の総称が「サムハラ大神」とされています。
 
 身を守ること、無傷無病、延命長寿、家運隆盛などの御神徳があるとされています。
+
+<figure class="photo">
+<img src="/images/posts/samuhara-board-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="境内の掲示板">
+<figcaption>境内の掲示板（大阪市西区立売堀）。写真：<a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（2006年撮影）</figcaption>
+</figure>
 
 ## 由来と歴史
 
@@ -37,6 +47,11 @@ draft: false
 - 2005年に、台風で傷んだ岡山の奥の宮を、現在の場所に移しました。
 
 江戸時代には矢や弾丸を避ける護符として、戦時中には兵士の武運長久を祈る守りとして用いられた歴史がある、と紹介されています。
+
+<figure class="photo">
+<img src="/images/posts/samuhara-hall-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="社殿">
+<figcaption>社殿（大阪市西区立売堀）。写真：<a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（2006年撮影）</figcaption>
+</figure>
 
 ## お守り指輪とお守り
 

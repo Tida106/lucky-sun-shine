@@ -19,9 +19,19 @@ draft: false
 - **ที่อยู่**: 2-5-6 อิตาจิโบริ เขตนิชิ โอซาก้า 550-0012
 - **โทรศัพท์**: +81-6-6538-2251 (ตรวจสอบเวลาและรายละเอียดการรับเครื่องรางกับเว็บไซต์ทางการหรือทางโทรศัพท์)
 
+<figure class="photo">
+<img src="/images/posts/samuhara-gate-1200.webp" srcset="/images/posts/samuhara-gate-640.webp 640w, /images/posts/samuhara-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ทางเข้าศาลเจ้าซามุฮาระที่อิตาจิโบริ โอซาก้า มีโคมไฟถวายสีขาวเรียงรอบโทริอิ">
+<figcaption>ทางเข้าศาลเจ้าซามุฮาระ ย่านอิตาจิโบริ เขตนิชิ นครโอซาก้า ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Iflwlou" rel="noopener" target="_blank">Iflwlou</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## เทพที่ประดิษฐาน「ซามุฮาระโอคามิ」
 
 ประดิษฐาน **เทพสร้างสรรค์สามองค์** ได้แก่ อาเมะโนะมินากะนูชิ ทากามิมุสุบิ และคามิมุสุบิ ที่เรียกรวมกันว่า「ซามุฮาระโอคามิ」 ว่ากันว่ามีพระคุณเกี่ยวกับการปกป้องตัว สุขภาพ อายุยืน และความเจริญของครอบครัว
+
+<figure class="photo">
+<img src="/images/posts/samuhara-board-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="ป้ายประกาศในบริเวณศาลเจ้า">
+<figcaption>ป้ายประกาศในบริเวณศาลเจ้า (อิตาจิโบริ โอซาก้า) ภาพ: <a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ถ่ายเมื่อปี 2006)</figcaption>
+</figure>
 
 ## ประวัติ
 
@@ -35,6 +45,11 @@ draft: false
 - ปี 2005 ย้ายศาลเจ้าชั้นในที่โอคายามะซึ่งเสียหายจากพายุไต้ฝุ่นมายังที่ตั้งปัจจุบัน
 
 ศาลเจ้ายังถูกแนะนำว่าเคยใช้เป็นเครื่องรางป้องกันลูกธนูและกระสุนในสมัยเอโดะ และเป็นเครื่องรางให้ทหารโชคดีในยามสงครามค่ะ
+
+<figure class="photo">
+<img src="/images/posts/samuhara-hall-480.webp" width="480" height="320" loading="lazy" decoding="async" style="max-width:480px;width:100%;height:auto" alt="อาคารหลักของศาลเจ้า">
+<figcaption>อาคารหลักของศาลเจ้า (อิตาจิโบริ โอซาก้า) ภาพ: <a href="https://ja.wikipedia.org/wiki/User:%E7%91%9E%E9%9B%B2" rel="noopener" target="_blank">瑞雲</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ถ่ายเมื่อปี 2006)</figcaption>
+</figure>
 
 ## แหวนเครื่องรางและโอมาโมริ
 
