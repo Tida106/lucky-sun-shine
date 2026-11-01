@@ -56,6 +56,12 @@ One thing to know first: **popular ones can be application-only or sell out**. P
 ## Necklace and pendant charms
 
 **5. Izumo Taisha (Shimane) - Koen Necklace**
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="900" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="The Kaguraden's grand shimenawa at Izumo Taisha">
+<figcaption>The grand shimenawa at Izumo Taisha's Kaguraden. Photo: <a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 - A necklace featuring the shrine crest, from the shrine famous for matchmaking. The official charm list also includes other matchmaking items such as straps.
 - [Official site](https://izumooyashiro.or.jp/)
 
@@ -74,6 +80,12 @@ One thing to know first: **popular ones can be application-only or sell out**. P
 ## Bracelet charms
 
 **9. Omiwa Shrine (Nara) - Magatama wristband charms**
+
+<figure class="photo">
+<img src="/images/posts/miwa-haiden-1200.webp" srcset="/images/posts/miwa-haiden-640.webp 640w, /images/posts/miwa-haiden-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="800" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="The worship hall of Omiwa Shrine">
+<figcaption>The worship hall of Omiwa Shrine. Photo: <a href="https://commons.wikimedia.org/wiki/User:KishujiRapid" rel="noopener" target="_blank">KishujiRapid</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 - Wristband charms shaped like magatama beads linked to Mount Miwa, in two types. They are offered at the shrine and said to be available by post. Buying to resell is prohibited.
 - [Official site](https://oomiwa.or.jp/) / [Visit guide](/en/blog/omiwa-jinja/)
 

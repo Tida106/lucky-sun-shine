@@ -34,6 +34,12 @@ This article provides a comprehensive guide to **its founding history, worship e
 - [Editor's Note](#postscript)
 - [Related Articles You Might Also Like](#related)
 
+<figure class="photo">
+<img src="/images/posts/izu-pine-1200.webp" srcset="/images/posts/izu-pine-640.webp 640w, /images/posts/izu-pine-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1012" loading="lazy" decoding="async" alt="Grounds of Izumo Taisha with pine trees">
+<figcaption>The grounds of Izumo Taisha. Photo: <a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="basic"></span>Basic Information
 
 | Item | Content |
@@ -73,9 +79,31 @@ The current Main Hall, rebuilt in 1744, is a prime example of the **Taisha-zukur
 
 Measuring **13.6 meters** long and weighing **5.2 tons**, the Kaguraden's grand Shimenawa (sacred straw rope) is one of the largest in Japan and a prominent symbol of Izumo Grand Shrine. Many visitors take photos here. Throwing coins into the shimenawa is considered bad manners and is prohibited.
 
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The Kaguraden's grand shimenawa in winter">
+<figcaption>The Kaguraden's grand shimenawa. Photo: <a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-b-1200.webp" srcset="/images/posts/izu-kagura-b-640.webp 640w, /images/posts/izu-kagura-b-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A visitor looking up at the grand shimenawa">
+<figcaption>The Kaguraden shimenawa. Photo: <a href="https://commons.wikimedia.org/wiki/User:Big_Ben_in_Japan" rel="noopener" target="_blank">Big Ben in Japan</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized)</figcaption>
+</figure>
+
+
 ### Seidamari Grand Torii Gate
 
 This large wooden torii gate marks the starting point of the approach to the shrine. It is traditional to bow once before passing through the gate.
+
+<figure class="photo">
+<img src="/images/posts/izu-seidamari-1200.webp" srcset="/images/posts/izu-seidamari-640.webp 640w, /images/posts/izu-seidamari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="The Seidamari grand torii and the Izumo Taisha stone pillar">
+<figcaption>The Seidamari grand torii and stone pillar. Photo: <a href="https://web.archive.org/web/20161025185352/http://www.panoramio.com/photo/75925144" rel="noopener" target="_blank">iloverjoa</a>/Panoramio, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-bridge-1400.webp" srcset="/images/posts/izu-bridge-700.webp 700w, /images/posts/izu-bridge-1400.webp 1400w" sizes="(min-width: 768px) 720px, 100vw" width="1400" height="282" loading="lazy" decoding="async" alt="The bridge on the approach lined with pines">
+<figcaption>The bridge on the approach. Photo: <a href="https://web.archive.org/web/20161025035852/http://www.panoramio.com/photo/71973309" rel="noopener" target="_blank">z tanuki</a>/Panoramio, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 
 ### Musubi-no-Goshinzō (Deity of Connections Statue)
 

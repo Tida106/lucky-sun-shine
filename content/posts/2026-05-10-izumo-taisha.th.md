@@ -15,6 +15,12 @@ draft: false
 
 บทความนี้สรุป **ประวัติศาสตร์ มารยาทการไหว้ ช่วงเวลาที่ดีที่สุด สถานที่ใกล้เคียงที่ควรแวะ หินมงคลที่เข้ากัน และคำถามที่พบบ่อย** ไว้ในหน้าเดียว
 
+<figure class="photo">
+<img src="/images/posts/izu-pine-1200.webp" srcset="/images/posts/izu-pine-640.webp 640w, /images/posts/izu-pine-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1012" loading="lazy" decoding="async" alt="บริเวณศาลเจ้าอิซุโมะไทฉะที่มีต้นสน">
+<figcaption>บริเวณศาลเจ้าอิซุโมะไทฉะ. ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ## ข้อมูลพื้นฐาน
 
 | หัวข้อ | รายละเอียด |
@@ -51,9 +57,31 @@ draft: false
 
 เชือกฟางศักดิ์สิทธิ์ยาว 13.6 เมตร หนัก 5.2 ตัน ใหญ่ที่สุดแห่งหนึ่งในญี่ปุ่น เป็นสัญลักษณ์ของศาลเจ้าที่นักท่องเที่ยวนิยมถ่ายรูป (ห้ามโยนเหรียญใส่เชือกฟาง ถือเป็นมารยาทที่ไม่ดี)
 
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="เชือกฟางขนาดยักษ์ที่คางุระเด็นในฤดูหนาว">
+<figcaption>เชือกฟางขนาดยักษ์ที่คางุระเด็น. ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-b-1200.webp" srcset="/images/posts/izu-kagura-b-640.webp 640w, /images/posts/izu-kagura-b-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ผู้มาไหว้เงยหน้ามองเชือกฟางขนาดยักษ์">
+<figcaption>เชือกฟางที่คางุระเด็น. ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Big_Ben_in_Japan" rel="noopener" target="_blank">Big Ben in Japan</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ### โทริอิใหญ่ที่เซดามาริ
 
 โทริอิไม้ขนาดใหญ่ตรงจุดเริ่มต้นทางเดิน ตามธรรมเนียมควรค้อมคำนับก่อนเดินลอดผ่าน
+
+<figure class="photo">
+<img src="/images/posts/izu-seidamari-1200.webp" srcset="/images/posts/izu-seidamari-640.webp 640w, /images/posts/izu-seidamari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="เสาหินและโทริอิใหญ่ที่เซดามาริ">
+<figcaption>โทริอิใหญ่ที่เซดามาริและเสาหิน. ภาพ: <a href="https://web.archive.org/web/20161025185352/http://www.panoramio.com/photo/75925144" rel="noopener" target="_blank">iloverjoa</a>/Panoramio, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-bridge-1400.webp" srcset="/images/posts/izu-bridge-700.webp 700w, /images/posts/izu-bridge-1400.webp 1400w" sizes="(min-width: 768px) 720px, 100vw" width="1400" height="282" loading="lazy" decoding="async" alt="สะพานบนทางเดินเข้าศาลเจ้า">
+<figcaption>สะพานบนทางเข้าศาลเจ้า. ภาพ: <a href="https://web.archive.org/web/20161025035852/http://www.panoramio.com/photo/71973309" rel="noopener" target="_blank">z tanuki</a>/Panoramio, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 
 ### ศาลเจ้าโซกะ
 

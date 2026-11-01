@@ -30,6 +30,12 @@ draft: false
 - [編集後記](#postscript)
 - [合わせて読みたい関連記事](#related)
 
+<figure class="photo">
+<img src="/images/posts/izu-pine-1200.webp" srcset="/images/posts/izu-pine-640.webp 640w, /images/posts/izu-pine-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1012" loading="lazy" decoding="async" alt="松並木の出雲大社の境内">
+<figcaption>出雲大社の境内。写真：<a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
 ## <span id="basic"></span>基本情報
 
 | 項目 | 内容 |
@@ -69,9 +75,31 @@ draft: false
 
 長さ **13.6m**、重さ **5.2t** ――日本最大級の注連縄が架かる神楽殿は、出雲大社のシンボル的存在。多くの参拝客がここで写真を撮ります。注連縄に賽銭を投げ込むのはマナー違反として禁止されています。
 
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="冬の神楽殿の大注連縄">
+<figcaption>神楽殿の大注連縄。写真：<a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-b-1200.webp" srcset="/images/posts/izu-kagura-b-640.webp 640w, /images/posts/izu-kagura-b-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="神楽殿の大注連縄を見上げる参拝者">
+<figcaption>神楽殿の大注連縄。写真：<a href="https://commons.wikimedia.org/wiki/User:Big_Ben_in_Japan" rel="noopener" target="_blank">Big Ben in Japan</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
 ### 勢溜（せいだまり）の大鳥居
 
 参道のスタート地点にある木製大鳥居。鳥居をくぐる前に一礼する作法が伝統的。
+
+<figure class="photo">
+<img src="/images/posts/izu-seidamari-1200.webp" srcset="/images/posts/izu-seidamari-640.webp 640w, /images/posts/izu-seidamari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="「出雲大社」の石柱と勢溜の大鳥居">
+<figcaption>勢溜の大鳥居と「出雲大社」の石柱。写真：<a href="https://web.archive.org/web/20161025185352/http://www.panoramio.com/photo/75925144" rel="noopener" target="_blank">iloverjoa</a>／Panoramio・Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-bridge-1400.webp" srcset="/images/posts/izu-bridge-700.webp 700w, /images/posts/izu-bridge-1400.webp 1400w" sizes="(min-width: 768px) 720px, 100vw" width="1400" height="282" loading="lazy" decoding="async" alt="参道の橋と松並木">
+<figcaption>参道の橋と松並木。写真：<a href="https://web.archive.org/web/20161025035852/http://www.panoramio.com/photo/71973309" rel="noopener" target="_blank">z tanuki</a>／Panoramio・Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 
 ### ムスビの御神像
 

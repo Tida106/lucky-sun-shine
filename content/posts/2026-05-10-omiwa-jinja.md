@@ -30,6 +30,12 @@ draft: false
 - [編集後記](#postscript)
 - [合わせて読みたい関連記事](#related)
 
+<figure class="photo">
+<img src="/images/posts/miwa-haiden-1200.webp" srcset="/images/posts/miwa-haiden-640.webp 640w, /images/posts/miwa-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="大神神社の拝殿">
+<figcaption>大神神社の拝殿。写真：<a href="https://commons.wikimedia.org/wiki/User:KishujiRapid" rel="noopener" target="_blank">KishujiRapid</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
 ## <span id="basic"></span>基本情報・神社データ
 
 | 項目 | 内容 |
@@ -75,6 +81,17 @@ draft: false
 - **なで兎** — 病気平癒のお守り
 - **狭井神社（薬井戸）** — 万病に効くとされる御神水
 
+<figure class="photo">
+<img src="/images/posts/miwa-torii-1106.webp" srcset="/images/posts/miwa-torii-640.webp 640w, /images/posts/miwa-torii-1106.webp 1106w" sizes="(min-width: 768px) 720px, 100vw" width="1106" height="900" loading="lazy" decoding="async" alt="大神神社の二の鳥居">
+<figcaption>大神神社の二の鳥居。写真：<a href="https://web.archive.org/web/20161023171648/http://www.panoramio.com/photo/61889699" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/miwa-pano3-1200.webp" srcset="/images/posts/miwa-pano3-640.webp 640w, /images/posts/miwa-pano3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="403" loading="lazy" decoding="async" alt="大神神社の拝殿前の境内">
+<figcaption>拝殿前の境内（パノラマ）。写真：<a href="https://web.archive.org/web/20161023171648/http://www.panoramio.com/photo/61889699" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
 ## <span id="climb"></span>三輪山登拝の方法
 
 三輪山は **狭井神社で受付** の上、登拝可能（神事のため一般登山ではない）。
@@ -85,6 +102,12 @@ draft: false
 - **所要時間**：往復2〜3時間
 - **写真・飲食・私語は禁止** — あくまで参拝
 - **三輪山自体は禁忌の地**、一般の登山扱いではない
+
+<figure class="photo">
+<img src="/images/posts/miwa-nitorii-1200.webp" srcset="/images/posts/miwa-nitorii-640.webp 640w, /images/posts/miwa-nitorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="大神神社の石柱と二の鳥居">
+<figcaption>大神神社の石柱と二の鳥居。写真：<a href="https://commons.wikimedia.org/wiki/User:Ocdp" rel="noopener" target="_blank">Ocdp</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 
 ## <span id="point"></span>参拝のポイント
 

@@ -55,6 +55,12 @@ draft: false
 ## เครื่องรางแบบสร้อยคอและจี้
 
 **5. อิซูโมะไทฉะ (ชิมาเนะ) | สร้อยคอโคเอน**
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="900" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="เชือกฟางขนาดยักษ์ที่คางุระเด็นของอิซูโมะไทฉะ">
+<figcaption>เชือกฟางขนาดยักษ์ที่คางุระเด็นของอิซูโมะไทฉะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 - สร้อยคอที่ออกแบบจากตราประจำศาลเจ้า จากศาลเจ้าที่มีชื่อเรื่องความรัก ในรายการเครื่องรางทางการยังมีสายห้อยและของด้านความรักอื่น ๆ
 - [เว็บไซต์ทางการ](https://izumooyashiro.or.jp/)
 
@@ -73,6 +79,12 @@ draft: false
 ## เครื่องรางแบบกำไล
 
 **9. ศาลเจ้าโอมิวะ (นารา) | กำไลมากาทามะ**
+
+<figure class="photo">
+<img src="/images/posts/miwa-haiden-1200.webp" srcset="/images/posts/miwa-haiden-640.webp 640w, /images/posts/miwa-haiden-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="800" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="หอไหว้ของศาลเจ้าโอมิวะ">
+<figcaption>หอไหว้ของศาลเจ้าโอมิวะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:KishujiRapid" rel="noopener" target="_blank">KishujiRapid</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 - กำไลเครื่องรางรูปมากาทามะที่เกี่ยวข้องกับภูเขามิวะ มี 2 แบบ รับได้ที่จุดรับ และกล่าวกันว่าสมัครทางไปรษณีย์ได้ ห้ามซื้อเพื่อนำไปขายต่อ
 - [เว็บไซต์ทางการ](https://oomiwa.or.jp/) / [คู่มือไหว้ (อังกฤษ)](/en/blog/omiwa-jinja/)
 

@@ -55,6 +55,12 @@ draft: false
 ## ネックレス・ペンダントのお守り
 
 **5. 出雲大社（島根）｜幸縁ネックレス**
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="900" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="神楽殿の大注連縄">
+<figcaption>出雲大社の神楽殿の大注連縄。写真：<a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 - 縁結びで知られる出雲大社の、神紋をデザインしたネックレスです。公式の授与品一覧には、ほかにストラップなどの縁結びの授与品も載っています。
 - [公式サイト](https://izumooyashiro.or.jp/)
 
@@ -73,6 +79,12 @@ draft: false
 ## ブレスレットのお守り
 
 **9. 大神神社（奈良）｜子持勾玉腕輪守・福寿勾玉腕輪守**
+
+<figure class="photo">
+<img src="/images/posts/miwa-haiden-1200.webp" srcset="/images/posts/miwa-haiden-640.webp 640w, /images/posts/miwa-haiden-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="800" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="大神神社の拝殿">
+<figcaption>大神神社の拝殿。写真：<a href="https://commons.wikimedia.org/wiki/User:KishujiRapid" rel="noopener" target="_blank">KishujiRapid</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 - 三輪山にちなむ勾玉の形をした腕輪のお守りで、2種類あると紹介されています。授与所で授かるほか、郵送で申し込めるとされています。転売目的の購入は禁止されています。
 - [公式サイト](https://oomiwa.or.jp/)／[参拝ガイド](/blog/omiwa-jinja/)
 

@@ -33,6 +33,12 @@ Omiwa Shrine (pronounced O-miwa Jinja) is one of Japan's oldest shrines, unique 
 - [Editor's Note](#postscript)
 - [Related Articles You Might Enjoy](#related)
 
+<figure class="photo">
+<img src="/images/posts/miwa-haiden-1200.webp" srcset="/images/posts/miwa-haiden-640.webp 640w, /images/posts/miwa-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The worship hall of Omiwa Shrine">
+<figcaption>The worship hall of Omiwa Shrine. Photo: <a href="https://commons.wikimedia.org/wiki/User:KishujiRapid" rel="noopener" target="_blank">KishujiRapid</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="basic"></span>Basic Information and Shrine Data
 
 | Item | Content |
@@ -78,6 +84,17 @@ Omiwa Shrine, often referred to as **"the shrine of shrines"** or **"Japan's old
 - **Nade Usagi (Petting Rabbit)** — A charm for recovery from illness.
 - **Sai Shrine (Medicinal Well)** — Sacred water believed to be effective against all ailments.
 
+<figure class="photo">
+<img src="/images/posts/miwa-torii-1106.webp" srcset="/images/posts/miwa-torii-640.webp 640w, /images/posts/miwa-torii-1106.webp 1106w" sizes="(min-width: 768px) 720px, 100vw" width="1106" height="900" loading="lazy" decoding="async" alt="The second torii of Omiwa Shrine">
+<figcaption>The second torii of Omiwa Shrine. Photo: <a href="https://web.archive.org/web/20161023171648/http://www.panoramio.com/photo/61889699" rel="noopener" target="_blank">z tanuki</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/miwa-pano3-1200.webp" srcset="/images/posts/miwa-pano3-640.webp 640w, /images/posts/miwa-pano3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="403" loading="lazy" decoding="async" alt="The grounds in front of the worship hall of Omiwa Shrine">
+<figcaption>The grounds in front of the worship hall (panorama). Photo: <a href="https://web.archive.org/web/20161023171648/http://www.panoramio.com/photo/61889699" rel="noopener" target="_blank">z tanuki</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="climb"></span>How to Ascend Mount Miwa (Tohhai)
 
 Mount Miwa is accessible for **Tohhai (sacred mountain ascent)** after registering **at Sai Shrine** (it is a religious ritual, not general mountaineering).
@@ -88,6 +105,12 @@ Mount Miwa is accessible for **Tohhai (sacred mountain ascent)** after registeri
 - **Time Required**: 2 to 3 hours round trip.
 - **Photography, eating, drinking, and private conversation are prohibited** — This is strictly for worship.
 - **Mount Miwa itself is a forbidden area**, not treated as a general hiking trail.
+
+<figure class="photo">
+<img src="/images/posts/miwa-nitorii-1200.webp" srcset="/images/posts/miwa-nitorii-640.webp 640w, /images/posts/miwa-nitorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="The stone pillar and second torii of Omiwa Shrine">
+<figcaption>The stone pillar and second torii. Photo: <a href="https://commons.wikimedia.org/wiki/User:Ocdp" rel="noopener" target="_blank">Ocdp</a>/Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 
 ## <span id="point"></span>Key Tips for Your Visit
 

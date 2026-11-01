@@ -30,6 +30,12 @@ draft: false
 - [編輯後記](#postscript)
 - [一起來看看這些相關文章](#related)
 
+<figure class="photo">
+<img src="/images/posts/izu-pine-1200.webp" srcset="/images/posts/izu-pine-640.webp 640w, /images/posts/izu-pine-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1012" loading="lazy" decoding="async" alt="種有松樹的出雲大社境內">
+<figcaption>出雲大社境內。攝影：<a href="https://commons.wikimedia.org/wiki/User:Nesnad" rel="noopener" target="_blank">Nesnad</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
 ## <span id="basic"></span>基本資訊
 
 | 項目 | 內容 |
@@ -69,9 +75,31 @@ draft: false
 
 長度**13.6公尺**、重量**5.2噸**——懸掛在神樂殿上的日本最大級注連繩，是出雲大社的象徵性存在。許多參拜者會在此拍照。將香油錢投入注連繩中是違反禮儀的行為，目前已被禁止。
 
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="冬天的神樂殿大注連繩">
+<figcaption>神樂殿的大注連繩。攝影：<a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-b-1200.webp" srcset="/images/posts/izu-kagura-b-640.webp 640w, /images/posts/izu-kagura-b-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="抬頭望向大注連繩的參拜者">
+<figcaption>神樂殿的大注連繩。攝影：<a href="https://commons.wikimedia.org/wiki/User:Big_Ben_in_Japan" rel="noopener" target="_blank">Big Ben in Japan</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
 ### 勢溜（せいだまり）的大鳥居
 
 位於參道起點的木製大鳥居。穿過鳥居前先一鞠躬，是傳統的禮儀作法。
+
+<figure class="photo">
+<img src="/images/posts/izu-seidamari-1200.webp" srcset="/images/posts/izu-seidamari-640.webp 640w, /images/posts/izu-seidamari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="「出雲大社」石柱與勢溜的大鳥居">
+<figcaption>勢溜的大鳥居與石柱。攝影：<a href="https://web.archive.org/web/20161025185352/http://www.panoramio.com/photo/75925144" rel="noopener" target="_blank">iloverjoa</a>／Panoramio・Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/izu-bridge-1400.webp" srcset="/images/posts/izu-bridge-700.webp 700w, /images/posts/izu-bridge-1400.webp 1400w" sizes="(min-width: 768px) 720px, 100vw" width="1400" height="282" loading="lazy" decoding="async" alt="參道上的橋與松樹林蔭">
+<figcaption>參道上的橋。攝影：<a href="https://web.archive.org/web/20161025035852/http://www.panoramio.com/photo/71973309" rel="noopener" target="_blank">z tanuki</a>／Panoramio・Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 
 ### 結緣御神像
 

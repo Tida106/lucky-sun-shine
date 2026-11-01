@@ -55,6 +55,12 @@ draft: false
 ## 項鍊・墜飾御守
 
 **5. 出雲大社（島根）｜幸緣項鍊**
+
+<figure class="photo">
+<img src="/images/posts/izu-kagura-a-1200.webp" srcset="/images/posts/izu-kagura-a-640.webp 640w, /images/posts/izu-kagura-a-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="900" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="出雲大社神樂殿的大注連繩">
+<figcaption>出雲大社神樂殿的大注連繩。攝影：<a href="https://commons.wikimedia.org/wiki/User:Naokijp" rel="noopener" target="_blank">Naokijp</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 - 以神紋為設計的項鍊，來自以結緣聞名的出雲大社。官方授與品一覽中也列有吊飾等其他結緣授與品。
 - [官方網站](https://izumooyashiro.or.jp/)
 
@@ -73,6 +79,12 @@ draft: false
 ## 手環御守
 
 **9. 大神神社（奈良）｜腕輪守**
+
+<figure class="photo">
+<img src="/images/posts/miwa-haiden-1200.webp" srcset="/images/posts/miwa-haiden-640.webp 640w, /images/posts/miwa-haiden-1200.webp 1200w" sizes="(min-width: 768px) 560px, 100vw" width="1200" height="800" loading="lazy" decoding="async" style="max-width:560px;width:100%;height:auto" alt="大神神社的拜殿">
+<figcaption>大神神社的拜殿。攝影：<a href="https://commons.wikimedia.org/wiki/User:KishujiRapid" rel="noopener" target="_blank">KishujiRapid</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 - 以與三輪山相關的勾玉為造型的手環御守，據介紹有2種。可在授與所請領，也據說可郵寄申請。禁止以轉售為目的購買。
 - [官方網站](https://oomiwa.or.jp/)／[參拜指南（英文）](/en/blog/omiwa-jinja/)
 
