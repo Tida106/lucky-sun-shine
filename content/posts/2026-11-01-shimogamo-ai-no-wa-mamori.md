@@ -48,6 +48,11 @@ draft: false
 
 縁結びは、恋愛だけではなく、人や仕事、場所とのご縁を指すとされています。
 
+<figure class="photo">
+<img src="/images/posts/shimo-aioi-1200.webp" srcset="/images/posts/shimo-aioi-640.webp 640w, /images/posts/shimo-aioi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="縁結びの社・相生社の鳥居と社殿">
+<figcaption>縁結びの社・相生社。写真：<a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 下鴨神社とは
 
 正式名称は**賀茂御祖神社（かもみおやじんじゃ）**で、上賀茂神社（賀茂別雷神社）とともに山城国一之宮とされ、ユネスコの世界遺産にも登録されています（1994年）。
@@ -59,6 +64,16 @@ draft: false
 
 上賀茂神社と名前が似ていますが、相の環守は**下鴨神社**のお守りです。お間違えのないようにしてください。
 
+<figure class="photo">
+<img src="/images/posts/shimo-romon-1200.webp" srcset="/images/posts/shimo-romon-640.webp 640w, /images/posts/shimo-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夏越神事の茅の輪と提灯が飾られた下鴨神社の楼門">
+<figcaption>下鴨神社の楼門（夏越神事の時期）。写真：<a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-forest-1024.webp" srcset="/images/posts/shimo-forest-640.webp 640w, /images/posts/shimo-forest-1024.webp 1024w" sizes="(min-width: 768px) 720px, 100vw" width="1024" height="768" loading="lazy" decoding="async" alt="木々に囲まれた糺の森の参道">
+<figcaption>糺の森の参道。写真：<a href="https://ja.wikipedia.org/wiki/User:Mochi" rel="noopener" target="_blank">Mochi</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 参拝前に知っておきたいこと
 
 - 授与の有無や初穂料、受付時間は、事前に下鴨神社の公式サイトやSNSで確認してから出かけましょう。
@@ -67,6 +82,11 @@ draft: false
 - 古いお守りは、感謝をこめて神社に納めます（古札納所）。
 - お守りの選び方や置き方は、[お守りの完全ガイド](/blog/omamori-guide/)、基本の作法は[神社参拝の基本マナー](/blog/shrine-visit-basics/)もどうぞ。
 - 「身を守る」お守り指輪で知られる神社には、[サムハラ神社](/blog/samuhara-jinja/)もあります。
+
+<figure class="photo">
+<img src="/images/posts/shimo-pano-1200.webp" srcset="/images/posts/shimo-pano-640.webp 640w, /images/posts/shimo-pano-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="357" loading="lazy" decoding="async" alt="下鴨神社の境内のパノラマ">
+<figcaption>下鴨神社の境内。写真：<a href="https://web.archive.org/web/20161120102650/http://www.panoramio.com/photo/28763598" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## アクセス
 

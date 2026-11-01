@@ -49,6 +49,11 @@ The routine is introduced roughly as follows. The office staff can explain the d
 
 "En" (connection) is said to cover not only romance but also ties with people, work and places.
 
+<figure class="photo">
+<img src="/images/posts/shimo-aioi-1200.webp" srcset="/images/posts/shimo-aioi-640.webp 640w, /images/posts/shimo-aioi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The torii and small shrine of Aioi-sha, the matchmaking shrine">
+<figcaption>Aioi-sha, the matchmaking shrine. Photo: <a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 ## About Shimogamo Shrine
 
 Its formal name is **Kamomioya Shrine**. Together with Kamigamo Shrine it is the ichinomiya of Yamashiro Province, and it is a UNESCO World Heritage Site (1994).
@@ -60,6 +65,16 @@ Its formal name is **Kamomioya Shrine**. Together with Kamigamo Shrine it is the
 
 The name is similar to Kamigamo Shrine, but Ai no Wa Mamori is offered at **Shimogamo Shrine**.
 
+<figure class="photo">
+<img src="/images/posts/shimo-romon-1200.webp" srcset="/images/posts/shimo-romon-640.webp 640w, /images/posts/shimo-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The Romon gate of Shimogamo Shrine decorated with lanterns and a chinowa grass ring for the Nagoshi ritual">
+<figcaption>The Romon gate of Shimogamo Shrine during the Nagoshi ritual season. Photo: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-forest-1024.webp" srcset="/images/posts/shimo-forest-640.webp 640w, /images/posts/shimo-forest-1024.webp 1024w" sizes="(min-width: 768px) 720px, 100vw" width="1024" height="768" loading="lazy" decoding="async" alt="The approach through Tadasu no Mori forest">
+<figcaption>The approach through Tadasu no Mori. Photo: <a href="https://ja.wikipedia.org/wiki/User:Mochi" rel="noopener" target="_blank">Mochi</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 ## Before you visit
 
 - Check the official site or social media for availability, price and hours before you go.
@@ -68,6 +83,11 @@ The name is similar to Kamigamo Shrine, but Ai no Wa Mamori is offered at **Shim
 - Old charms are returned to the shrine with thanks.
 - For general omamori tips, see our [omamori guide](/en/blog/omamori-guide/); for etiquette, [shrine visit basics](/en/blog/shrine-visit-basics/).
 - Another shrine known for protective charm rings is [Samuhara Shrine](/en/blog/samuhara-jinja/).
+
+<figure class="photo">
+<img src="/images/posts/shimo-pano-1200.webp" srcset="/images/posts/shimo-pano-640.webp 640w, /images/posts/shimo-pano-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="357" loading="lazy" decoding="async" alt="Panorama of the Shimogamo Shrine precinct">
+<figcaption>A panorama of the precinct. Photo: <a href="https://web.archive.org/web/20161120102650/http://www.panoramio.com/photo/28763598" rel="noopener" target="_blank">z tanuki</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
 
 ## Access
 

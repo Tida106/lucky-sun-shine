@@ -48,6 +48,11 @@ draft: false
 
 「緣」據說不只指戀愛，也包含與人、工作、地方之間的緣分。
 
+<figure class="photo">
+<img src="/images/posts/shimo-aioi-1200.webp" srcset="/images/posts/shimo-aioi-640.webp 640w, /images/posts/shimo-aioi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="結緣社相生社的鳥居與社殿">
+<figcaption>結緣社相生社。攝影：<a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 關於下鴨神社
 
 正式名稱為**賀茂御祖神社**，與上賀茂神社同為山城國一之宮，並於1994年登錄為聯合國教科文組織世界遺產。
@@ -59,6 +64,16 @@ draft: false
 
 名稱與上賀茂神社相近，但「相の環守」是**下鴨神社**的御守，請不要弄錯。
 
+<figure class="photo">
+<img src="/images/posts/shimo-romon-1200.webp" srcset="/images/posts/shimo-romon-640.webp 640w, /images/posts/shimo-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="掛滿燈籠並設有茅之輪的下鴨神社樓門（夏越神事時期）">
+<figcaption>下鴨神社的樓門（夏越神事時期）。攝影：<a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-forest-1024.webp" srcset="/images/posts/shimo-forest-640.webp 640w, /images/posts/shimo-forest-1024.webp 1024w" sizes="(min-width: 768px) 720px, 100vw" width="1024" height="768" loading="lazy" decoding="async" alt="被樹木環繞的糺之森參道">
+<figcaption>糺之森的參道。攝影：<a href="https://ja.wikipedia.org/wiki/User:Mochi" rel="noopener" target="_blank">Mochi</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 參拜前須知
 
 - 出發前請先在官方網站或社群確認是否有授與、初穗料與受理時間。
@@ -67,6 +82,11 @@ draft: false
 - 舊御守請懷著感謝之心，奉還給神社。
 - 御守的挑選與擺放方式請見[御守完整指南（英文）](/en/blog/omamori-guide/)，基本禮儀請見[神社參拜基本禮儀](/zh-tw/blog/shrine-visit-basics/)。
 - 以護身戒指聞名的神社，還有[サムハラ神社](/zh-tw/blog/samuhara-jinja/)。
+
+<figure class="photo">
+<img src="/images/posts/shimo-pano-1200.webp" srcset="/images/posts/shimo-pano-640.webp 640w, /images/posts/shimo-pano-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="357" loading="lazy" decoding="async" alt="下鴨神社境內全景">
+<figcaption>下鴨神社境內全景。攝影：<a href="https://web.archive.org/web/20161120102650/http://www.panoramio.com/photo/28763598" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## 交通方式
 

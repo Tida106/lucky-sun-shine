@@ -48,6 +48,11 @@ draft: false
 
 「เอ็น (ความผูกพัน)」กล่าวกันว่าไม่ได้หมายถึงความรักอย่างเดียว แต่รวมถึงความผูกพันกับผู้คน งาน และสถานที่ค่ะ
 
+<figure class="photo">
+<img src="/images/posts/shimo-aioi-1200.webp" srcset="/images/posts/shimo-aioi-640.webp 640w, /images/posts/shimo-aioi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิและศาลเล็กของศาลไอโออิ ศาลด้านความรัก">
+<figcaption>ศาลไอโออิ ศาลด้านความรัก ภาพ: <a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## เกี่ยวกับศาลเจ้าชิโมกาโมะ
 
 ชื่อทางการคือ **คาโมมิโอยะ (賀茂御祖神社)** เป็นอิจิโนมิยะของแคว้นยามาชิโระร่วมกับศาลเจ้าคามิกาโมะ และขึ้นทะเบียนเป็นมรดกโลกของยูเนสโกเมื่อปี 1994
@@ -59,6 +64,16 @@ draft: false
 
 ชื่อคล้ายศาลเจ้าคามิกาโมะ แต่ไอโนะวะมาโมริเป็นของ **ศาลเจ้าชิโมกาโมะ** นะคะ
 
+<figure class="photo">
+<img src="/images/posts/shimo-romon-1200.webp" srcset="/images/posts/shimo-romon-640.webp 640w, /images/posts/shimo-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ประตูโรมอนของศาลเจ้าชิโมกาโมะ ประดับโคมไฟและห่วงหญ้าช่วงพิธีนาโกชิ">
+<figcaption>ประตูโรมอนของศาลเจ้าชิโมกาโมะ (ช่วงพิธีนาโกชิ) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shimo-forest-1024.webp" srcset="/images/posts/shimo-forest-640.webp 640w, /images/posts/shimo-forest-1024.webp 1024w" sizes="(min-width: 768px) 720px, 100vw" width="1024" height="768" loading="lazy" decoding="async" alt="ทางเดินในป่าทาดาสุที่ร่มรื่นด้วยต้นไม้">
+<figcaption>ทางเดินในป่าทาดาสุ ภาพ: <a href="https://ja.wikipedia.org/wiki/User:Mochi" rel="noopener" target="_blank">Mochi</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## ก่อนไปไหว้
 
 - ก่อนไป ตรวจสอบว่ามีให้รับหรือไม่ ราคา และเวลา จากเว็บไซต์หรือโซเชียลทางการ
@@ -67,6 +82,11 @@ draft: false
 - เครื่องรางเก่าให้นำไปคืนศาลเจ้าด้วยความขอบคุณ
 - วิธีเลือกเครื่องรางทั่วไป ดู [คู่มือโอมาโมริฉบับสมบูรณ์ (อังกฤษ)](/en/blog/omamori-guide/) และมารยาทพื้นฐาน ดู [มารยาทพื้นฐานในการไหว้ศาลเจ้า (อังกฤษ)](/en/blog/shrine-visit-basics/)
 - ศาลเจ้าที่มีชื่อเรื่องแหวนคุ้มครองตัวอีกแห่ง คือ [ศาลเจ้าซามุฮาระ](/th/blog/samuhara-jinja/)
+
+<figure class="photo">
+<img src="/images/posts/shimo-pano-1200.webp" srcset="/images/posts/shimo-pano-640.webp 640w, /images/posts/shimo-pano-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="357" loading="lazy" decoding="async" alt="ภาพพาโนรามาของบริเวณศาลเจ้าชิโมกาโมะ">
+<figcaption>ภาพพาโนรามาบริเวณศาลเจ้า ภาพ: <a href="https://web.archive.org/web/20161120102650/http://www.panoramio.com/photo/28763598" rel="noopener" target="_blank">z tanuki</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## การเดินทาง
 
