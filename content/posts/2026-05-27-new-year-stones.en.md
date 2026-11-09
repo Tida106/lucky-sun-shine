@@ -251,7 +251,7 @@ The New Year is also **a crucial final push for students taking exams.** Stones 
 
 Fortune guides that delve into **the zodiac sign, Nine Star Ki astrology, and overall themes of a specific year** are presented separately as **topical articles that change annually.**
 
-→ **[2027 Fortune and Good Luck Crystals](/blog/lucky-stones-2027/)** ―― Themes for the Year of the Sheep and the Year with Seven Red Gold Stars in the Center
+→ **[2027 Fortune and Good Luck Crystals](/blog/lucky-stones-2027/)** ―― Themes for the Year of the Sheep and the Year with the Ninth Purple Fire Star in the Center
 
 Each year's guide focuses on **"the symbolism of that year,"** so if you want to know **"what exactly is the theme for this year?"** please refer to the annual guide above.
 
