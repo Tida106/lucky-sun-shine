@@ -25,6 +25,7 @@ draft: false
 
 
 
+
 ## 目次
 
 - [基本情報・神社データ](#basic)
@@ -59,6 +60,7 @@ draft: false
 <img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="木立に囲まれた参道に立つ大きな朱色の鳥居">
 <figcaption>杉木立の参道に立つ、大きな朱の鳥居。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
 </figure>
+
 
 
 
@@ -117,6 +119,7 @@ draft: false
 
 
 
+
 ## <span id="ryoma"></span>坂本龍馬とお龍の新婚旅行
 
 **1866年（慶応2年）**、寺田屋事件で負傷した坂本龍馬は、新妻 **お龍** とともに薩摩で湯治を兼ねた療養旅行を行いました。これが **「日本初の新婚旅行」** と語り継がれる旅で、二人は霧島連山に登り、**霧島神宮にも参拝** したと伝わります。
@@ -171,6 +174,12 @@ draft: false
 <figcaption>龍の口から水が注がれる、手水舎の手水鉢。 写真：Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（リサイズ）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-pavilion-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-pavilion-640.webp 640w, /images/posts/kirishima-jingu-temizuya-pavilion-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="杉木立の中に建つ、朱塗りの柱と緑青の屋根を持つ霧島神宮の手水舎">
+<figcaption>夕日を受けて朱色に輝く、霧島神宮の手水舎。 写真：MaedaAkihiko／<a href="https://commons.wikimedia.org/w/index.php?search=MaedaAkihiko%20Kirishima&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 
 
 ## <span id="access"></span>アクセス
@@ -195,6 +204,7 @@ draft: false
 <img src="/images/posts/kirishima-jingu-station-gate-1200.webp" srcset="/images/posts/kirishima-jingu-station-gate-640.webp 640w, /images/posts/kirishima-jingu-station-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="木組みの梁がのぞく、霧島神宮駅の改札口とその先の通路">
 <figcaption>木の梁が印象的な、霧島神宮駅の改札口（2024年撮影）。 写真：Sanjo／<a href="https://commons.wikimedia.org/w/index.php?search=Sanjo%20Kirishima-jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
 </figure>
+
 
 
 

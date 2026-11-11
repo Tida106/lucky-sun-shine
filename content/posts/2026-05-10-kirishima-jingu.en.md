@@ -28,6 +28,7 @@ Kirishima Jingu is a venerable shrine that stands at the foot of the sacred **Ki
 
 
 
+
 ## Table of Contents
 
 - [Basic Information and Shrine Data](#basic)
@@ -62,6 +63,7 @@ Kirishima Jingu is a venerable shrine that stands at the foot of the sacred **Ki
 <img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Large vermilion torii gate on a tree-lined approach path">
 <figcaption>A large vermilion torii standing on the approach lined with tall trees. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
 </figure>
+
 
 
 
@@ -120,6 +122,7 @@ Especially noteworthy are the **flower and bird paintings on the coffered ceilin
 
 
 
+
 ## <span id="ryoma"></span>Sakamoto Ryoma and Oryo's Honeymoon
 
 In **1866 (Keiō 2)**, Sakamoto Ryoma, who was injured in the Teradaya Incident, embarked on a recuperative journey in Satsuma with his new wife, **Oryo**, also taking advantage of the hot springs. This journey is remembered as **"Japan's first honeymoon,"** and it's said that the couple climbed the Kirishima Mountain Range and **also visited Kirishima Jingu**.
@@ -174,6 +177,12 @@ The anecdote of them pulling out the Ama-no-Sakaboko on Mount Takachiho's summit
 <figcaption>The purification basin of the water pavilion, with a carved dragon. Photo: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-pavilion-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-pavilion-640.webp 640w, /images/posts/kirishima-jingu-temizuya-pavilion-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Red-pillared water pavilion with a green-patina roof among cedar trees at Kirishima Jingu">
+<figcaption>The water pavilion of Kirishima Jingu glowing vermilion in the evening light. Photo: MaedaAkihiko／<a href="https://commons.wikimedia.org/w/index.php?search=MaedaAkihiko%20Kirishima&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 
 
 ## <span id="access"></span>Access
@@ -198,6 +207,7 @@ Car: Approximately 30 minutes from Kyushu Expressway **"Mizobe-Kagoshima Airport
 <img src="/images/posts/kirishima-jingu-station-gate-1200.webp" srcset="/images/posts/kirishima-jingu-station-gate-640.webp 640w, /images/posts/kirishima-jingu-station-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Wood-beamed ticket gate area of Kirishima-jingu Station with a covered passage beyond">
 <figcaption>The ticket gate at Kirishima-jingu Station (photographed in 2024). Photo: Sanjo／<a href="https://commons.wikimedia.org/w/index.php?search=Sanjo%20Kirishima-jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
 </figure>
+
 
 
 

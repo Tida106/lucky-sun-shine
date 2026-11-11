@@ -21,6 +21,7 @@ draft: false
 
 
 
+
 ## สารบัญ
 
 - ข้อมูลพื้นฐานของศาลเจ้า
@@ -55,6 +56,7 @@ draft: false
 <img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิสีแดงขนาดใหญ่บนทางเดินสู่ศาลเจ้าที่มีต้นไม้สองข้าง">
 <figcaption>โทริอิสีแดงชาดขนาดใหญ่บนทางเดินที่ล้อมด้วยต้นไม้สูง ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
 </figure>
+
 
 
 
@@ -113,6 +115,7 @@ draft: false
 
 
 
+
 ## ฮันนีมูนของซากาโมโตะ เรียวมะและโอเรียว
 
 ในปี **1866 (เคโอที่ 2)** ซากาโมโตะ เรียวมะที่ได้รับบาดเจ็บจากเหตุการณ์เทราดายะ ได้เดินทางไปพักรักษาตัวที่ซัตสึมะพร้อมกับภรรยาใหม่ **โอเรียว** ซึ่งเป็นการเดินทางที่เล่าต่อกันมาว่าเป็น **"ฮันนีมูนครั้งแรกของญี่ปุ่น"** ทั้งสองปีนเทือกเขาคิริชิมะ และเล่ากันว่าได้ **ไหว้ที่ศาลเจ้าคิริชิมะด้วย**
@@ -167,6 +170,12 @@ draft: false
 <figcaption>อ่างล้างมือของศาลาน้ำที่มีรูปปั้นมังกร ภาพ: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-pavilion-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-pavilion-640.webp 640w, /images/posts/kirishima-jingu-temizuya-pavilion-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ศาลาน้ำเสาสีแดงและหลังคาสีเขียวทองแดงท่ามกลางต้นซีดาร์ของศาลเจ้าคิริชิมะ">
+<figcaption>ศาลาน้ำของศาลเจ้าคิริชิมะที่สะท้อนแสงยามเย็นเป็นสีแดงชาด ภาพ: MaedaAkihiko／<a href="https://commons.wikimedia.org/w/index.php?search=MaedaAkihiko%20Kirishima&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 
 
 ## การเดินทาง
@@ -191,6 +200,7 @@ draft: false
 <img src="/images/posts/kirishima-jingu-station-gate-1200.webp" srcset="/images/posts/kirishima-jingu-station-gate-640.webp 640w, /images/posts/kirishima-jingu-station-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="บริเวณประตูตรวจตั๋วที่เห็นโครงไม้ของสถานีคิริชิมะจิงกู และทางเดินด้านหลัง">
 <figcaption>ประตูตรวจตั๋วของสถานีคิริชิมะจิงกู (ถ่ายเมื่อ ค.ศ. 2024) ภาพ: Sanjo／<a href="https://commons.wikimedia.org/w/index.php?search=Sanjo%20Kirishima-jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
 </figure>
+
 
 
 
