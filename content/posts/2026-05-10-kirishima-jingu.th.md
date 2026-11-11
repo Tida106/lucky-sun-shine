@@ -20,6 +20,7 @@ draft: false
 </figure>
 
 
+
 ## สารบัญ
 
 - ข้อมูลพื้นฐานของศาลเจ้า
@@ -54,6 +55,7 @@ draft: false
 <img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิสีแดงขนาดใหญ่บนทางเดินสู่ศาลเจ้าที่มีต้นไม้สองข้าง">
 <figcaption>โทริอิสีแดงชาดขนาดใหญ่บนทางเดินที่ล้อมด้วยต้นไม้สูง ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
 </figure>
+
 
 
 ## ประวัติและที่มา
@@ -104,6 +106,12 @@ draft: false
 <figcaption>ด้านหน้าศาลเจ้าที่ปลายทางเดินปูหิน ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-haiden-wide-1200.webp" srcset="/images/posts/kirishima-jingu-haiden-wide-640.webp 640w, /images/posts/kirishima-jingu-haiden-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาไหว้สีแดงชาดและอาคารสองข้างของศาลเจ้าคิริชิมะ เมื่อมองผ่านบันไดหิน">
+<figcaption>ศาลาไหว้และอาคารสองข้างที่อยู่เลยบันไดหินขึ้นไป ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 
 ## ฮันนีมูนของซากาโมโตะ เรียวมะและโอเรียว
 
@@ -144,6 +152,22 @@ draft: false
 <figcaption>โทริอิสีแดงชาดและโคมไฟที่ทางเข้าบริเวณศาลเจ้า ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-stairs-torii-1200.webp" srcset="/images/posts/kirishima-jingu-stairs-torii-640.webp 640w, /images/posts/kirishima-jingu-stairs-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิสีแดงชาดและโคมไฟสองข้างบนบันไดหินกว้าง">
+<figcaption>โทริอิสีแดงชาดและโคมไฟสองดวงบนบันไดหิน ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-goshinboku-1200.webp" srcset="/images/posts/kirishima-jingu-goshinboku-640.webp 640w, /images/posts/kirishima-jingu-goshinboku-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="ต้นซีดาร์ศักดิ์สิทธิ์ของศาลเจ้าคิริชิมะที่พันด้วยเชือกชิเมนาวะและกระดาษชิเดะ">
+<figcaption>ต้นไม้ศักดิ์สิทธิ์ในบริเวณศาลเจ้าที่พันด้วยเชือกชิเมนาวะ ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-dragon-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-dragon-640.webp 640w, /images/posts/kirishima-jingu-temizuya-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="อ่างหินล้างมือที่มีรูปปั้นมังกรท่ามกลางเสาสีแดงของศาลเจ้าคิริชิมะ">
+<figcaption>อ่างล้างมือของศาลาน้ำที่มีรูปปั้นมังกร ภาพ: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 
 ## การเดินทาง
 
@@ -157,6 +181,17 @@ draft: false
 <img src="/images/posts/kirishima-express-1200.webp" srcset="/images/posts/kirishima-express-640.webp 640w, /images/posts/kirishima-express-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="รถไฟด่วนสีเขียวของ JR คิวชูที่มีข้อความ KIRISHIMA EXPRESS จอดที่ชานชาลา">
 <figcaption>รถด่วนพิเศษ "คิริชิมะ" ที่จอดสถานีคิริชิมะจิงกู (ถ่ายเมื่อ ค.ศ. 2007) ภาพ: Tokkyu Nichirin／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima%20Jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด)</figcaption>
 </figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-station-1200.webp" srcset="/images/posts/kirishima-jingu-station-640.webp 640w" sizes="(min-width: 768px) 720px, 100vw" width="640" height="480" loading="lazy" decoding="async" alt="ทางเข้าสถานีคิริชิมะจิงกูที่มีโทริอิเล็กและโคมกระดาษ">
+<figcaption>อาคารสถานี JR คิริชิมะจิงกู (ถ่ายเมื่อ ค.ศ. 2005) ภาพ: Ribbon／<a href="https://commons.wikimedia.org/w/index.php?search=Ribbon%20Kirishimajingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-station-gate-1200.webp" srcset="/images/posts/kirishima-jingu-station-gate-640.webp 640w, /images/posts/kirishima-jingu-station-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="บริเวณประตูตรวจตั๋วที่เห็นโครงไม้ของสถานีคิริชิมะจิงกู และทางเดินด้านหลัง">
+<figcaption>ประตูตรวจตั๋วของสถานีคิริชิมะจิงกู (ถ่ายเมื่อ ค.ศ. 2024) ภาพ: Sanjo／<a href="https://commons.wikimedia.org/w/index.php?search=Sanjo%20Kirishima-jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 
 
 ## หินที่แนะนำ

@@ -24,6 +24,7 @@ draft: false
 </figure>
 
 
+
 ## 目錄
 
 - [基本資訊・神社資料](#basic)
@@ -58,6 +59,7 @@ draft: false
 <img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="林木環繞的參道上矗立著巨大的朱紅色鳥居">
 <figcaption>矗立在杉林參道上的巨大朱紅鳥居。 攝影：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
 </figure>
+
 
 
 ## <span id="history"></span>歷史與由來
@@ -108,6 +110,12 @@ draft: false
 <figcaption>石板參道盡頭的社殿正面。 攝影：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-haiden-wide-1200.webp" srcset="/images/posts/kirishima-jingu-haiden-wide-640.webp 640w, /images/posts/kirishima-jingu-haiden-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石階前方，朱紅拜殿與左右建築並列的霧島神宮境內">
+<figcaption>石階前方的拜殿與兩側社殿。 攝影：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
+
 
 ## <span id="ryoma"></span>坂本龍馬與龍的新婚旅行
 
@@ -148,6 +156,22 @@ draft: false
 <figcaption>境內入口的朱紅鳥居與燈籠。 攝影：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-stairs-torii-1200.webp" srcset="/images/posts/kirishima-jingu-stairs-torii-640.webp 640w, /images/posts/kirishima-jingu-stairs-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="寬闊石階上方的朱紅鳥居與兩側的燈籠">
+<figcaption>石階上方的朱紅鳥居與兩座燈籠。 攝影：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-goshinboku-1200.webp" srcset="/images/posts/kirishima-jingu-goshinboku-640.webp 640w, /images/posts/kirishima-jingu-goshinboku-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="纏繞注連繩與紙垂、高聳入天的霧島神宮神木杉樹">
+<figcaption>纏著注連繩的境內神木。 攝影：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-dragon-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-dragon-640.webp 640w, /images/posts/kirishima-jingu-temizuya-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="朱紅柱子之間、設有龍像的霧島神宮手水缽">
+<figcaption>手水舍的手水缽，上有龍的雕像。 攝影：Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
+
 
 ## <span id="access"></span>交通方式
 
@@ -161,6 +185,17 @@ draft: false
 <img src="/images/posts/kirishima-express-1200.webp" srcset="/images/posts/kirishima-express-640.webp 640w, /images/posts/kirishima-express-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="車身為綠色、標有 KIRISHIMA EXPRESS 的 JR 九州特急列車">
 <figcaption>停靠在霧島神宮站的特急「Kirishima」（2007年拍攝）。 攝影：特急にちりん／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima%20Jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 3.0</a>（調整尺寸）</figcaption>
 </figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-station-1200.webp" srcset="/images/posts/kirishima-jingu-station-640.webp 640w" sizes="(min-width: 768px) 720px, 100vw" width="640" height="480" loading="lazy" decoding="async" alt="以朱紅色為基調、設有鳥居的霧島神宮站站舍入口">
+<figcaption>JR霧島神宮站站舍（2005年拍攝）。 攝影：Ribbon／<a href="https://commons.wikimedia.org/w/index.php?search=Ribbon%20Kirishimajingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 3.0</a>（調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-station-gate-1200.webp" srcset="/images/posts/kirishima-jingu-station-gate-640.webp 640w, /images/posts/kirishima-jingu-station-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="可見木造樑架的霧島神宮站剪票口與後方通道">
+<figcaption>木樑造型醒目的霧島神宮站剪票口（2024年拍攝）。 攝影：Sanjo／<a href="https://commons.wikimedia.org/w/index.php?search=Sanjo%20Kirishima-jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
 
 
 ## <span id="stones"></span>推薦的能量石

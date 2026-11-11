@@ -27,6 +27,7 @@ Kirishima Jingu is a venerable shrine that stands at the foot of the sacred **Ki
 </figure>
 
 
+
 ## Table of Contents
 
 - [Basic Information and Shrine Data](#basic)
@@ -61,6 +62,7 @@ Kirishima Jingu is a venerable shrine that stands at the foot of the sacred **Ki
 <img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Large vermilion torii gate on a tree-lined approach path">
 <figcaption>A large vermilion torii standing on the approach lined with tall trees. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
 </figure>
+
 
 
 ## <span id="history"></span>History and Origins
@@ -111,6 +113,12 @@ Especially noteworthy are the **flower and bird paintings on the coffered ceilin
 <figcaption>The front of the shrine at the end of the paved approach. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-haiden-wide-1200.webp" srcset="/images/posts/kirishima-jingu-haiden-wide-640.webp 640w, /images/posts/kirishima-jingu-haiden-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Kirishima Jingu worship hall and flanking red buildings seen beyond the stone steps">
+<figcaption>The worship hall and the buildings on either side, beyond the stone steps. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 
 ## <span id="ryoma"></span>Sakamoto Ryoma and Oryo's Honeymoon
 
@@ -151,6 +159,22 @@ The anecdote of them pulling out the Ama-no-Sakaboko on Mount Takachiho's summit
 <figcaption>A vermilion torii and lanterns at the entrance to the grounds. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-stairs-torii-1200.webp" srcset="/images/posts/kirishima-jingu-stairs-torii-640.webp 640w, /images/posts/kirishima-jingu-stairs-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Vermilion torii with a lantern on each side at the top of a wide flight of stone steps">
+<figcaption>A vermilion torii and two lanterns at the top of the stone steps. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-goshinboku-1200.webp" srcset="/images/posts/kirishima-jingu-goshinboku-640.webp 640w, /images/posts/kirishima-jingu-goshinboku-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="Towering sacred cedar of Kirishima Jingu wrapped with a shimenawa rope and paper streamers">
+<figcaption>The sacred tree of the grounds, wrapped with a shimenawa rope. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-dragon-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-dragon-640.webp 640w, /images/posts/kirishima-jingu-temizuya-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone purification basin with a dragon sculpture, framed by red pillars at Kirishima Jingu">
+<figcaption>The purification basin of the water pavilion, with a carved dragon. Photo: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+
 
 ## <span id="access"></span>Access
 
@@ -164,6 +188,17 @@ Car: Approximately 30 minutes from Kyushu Expressway **"Mizobe-Kagoshima Airport
 <img src="/images/posts/kirishima-express-1200.webp" srcset="/images/posts/kirishima-express-640.webp 640w, /images/posts/kirishima-express-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Green JR Kyushu limited express train marked KIRISHIMA EXPRESS at a station platform">
 <figcaption>The limited express "Kirishima" at Kirishima Jingu Station (photographed in 2007). Photo: Tokkyu Nichirin／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima%20Jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
 </figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-station-1200.webp" srcset="/images/posts/kirishima-jingu-station-640.webp 640w" sizes="(min-width: 768px) 720px, 100vw" width="640" height="480" loading="lazy" decoding="async" alt="Entrance of Kirishima-jingu Station with a small torii and paper lanterns">
+<figcaption>The entrance of JR Kirishima-jingu Station (photographed in 2005). Photo: Ribbon／<a href="https://commons.wikimedia.org/w/index.php?search=Ribbon%20Kirishimajingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-station-gate-1200.webp" srcset="/images/posts/kirishima-jingu-station-gate-640.webp 640w, /images/posts/kirishima-jingu-station-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Wood-beamed ticket gate area of Kirishima-jingu Station with a covered passage beyond">
+<figcaption>The ticket gate at Kirishima-jingu Station (photographed in 2024). Photo: Sanjo／<a href="https://commons.wikimedia.org/w/index.php?search=Sanjo%20Kirishima-jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 
 
 ## <span id="stones"></span>Recommended Crystals
