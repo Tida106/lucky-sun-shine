@@ -15,6 +15,13 @@ tags: ["金運錢包", "金運", "強運除厄", "東京"]
 
 敷地面積竟然只有大約20坪（換算成房間的話，大概是66平方公尺左右）！就這樣小小地夾在大樓與大樓之間，但只要一踏進去，就會被一種彷彿時間靜止般、不可思議的溫暖與靜謐所包圍。
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-dusk-1200.webp" srcset="/images/posts/koami-shrine-dusk-640.webp 640w, /images/posts/koami-shrine-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1365" loading="lazy" decoding="async" alt="黃昏時的小網神社。掛著注連繩的石造鳥居位於亮燈的燈籠與白色旗幟之間，後方可見社殿">
+<figcaption>黃昏時燈籠亮起的鳥居與社殿。 攝影：Beryllium Transistor／<a href="https://commons.wikimedia.org/wiki/File:Koami_jinja.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
+這就是夾在大樓之間的小小境內正面的模樣。石造鳥居上掛著粗粗的注連繩，兩側立著寫有「弁財天」「福祿壽」等字樣的白色旗幟，並排著燈籠。黃昏時燈籠亮起，整個空間瀰漫著讓人安心的氛圍，完全不像身處鬧區之中☀️
+
 為什麼在這麼現代化的大都會正中央，會留下如此溫暖又充滿歷史的聖域呢？其實，這裡擁有**「無論遇到多大的危機都能奇蹟般存活下來的史實」**，是日本數一數二的能量景點喲！
 
 這次就讓太陽醬用簡單易懂的方式，把它背後的深厚秘密與看點介紹給大家吧☀️✨
@@ -29,6 +36,13 @@ tags: ["金運錢包", "金運", "強運除厄", "東京"]
 * **為什麼會有這樣的力量呢？（深層背景）：** 神社的起源可追溯至約1000年前的平安時代，1466年當地爆發瘟疫時，供奉網師翁（稻荷大神）後，疫情竟迅速平息下來。自古以來，這裡便寄託著「想保護當地居民遠離災禍」的深切祈願，正因為經歷了無數次震災與戰爭的重大考驗，依然用確切的力量守護著人們與社殿，才讓它至今仍受到如此深厚的信賴✨
 * **太陽醬的強力推薦：** 太陽醬要全力推薦給「正面臨人生重大難關的人」，以及「因為本命年或環境變化而感到不安的人」喲☀️！無論吹起多猛烈的暴風雨，這裡都會用溫柔溫暖的光芒守護著你，賜予你勇敢向前邁進的力量💛
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-front-1200.webp" srcset="/images/posts/koami-shrine-front-640.webp 640w, /images/posts/koami-shrine-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="白色旗幟與燈籠之間的石造鳥居，後方是屋頂層層重疊、裝飾著金色飾品的社殿">
+<figcaption>層層重疊的屋頂上，金色飾品閃閃發亮。 攝影：Ken Marshall／<a href="https://commons.wikimedia.org/wiki/File:Koami_Shrine_Nihonbashi-Koamich%C5%8D_Tokyo_-_Feb_10_2026.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
+從鳥居正前方抬頭望去，層層疊疊的屋頂尖端有金色的飾品閃閃發光，雖然是小小的社殿，卻非常有存在感✨ 鳥居中央掛著青綠色的匾額，前方排著參拜的隊伍，可以感受到這座神社深受許多人喜愛。
+
 ## ② 連證券業人士也會造訪！？「銭洗弁天」與資本主義的融合
 
 ### 【東京銭洗弁天與銭洗之井】〜懷著感謝之心淨化金錢，讓豐盛循環的綠洲〜
@@ -36,12 +50,26 @@ tags: ["金運錢包", "金運", "強運除厄", "東京"]
 * **為什麼會有這樣的力量呢？（深層背景）：** 這裡供奉著市杵島比賣神（いちきしまひめのかみ＝弁財天様）。清洗金錢這個行為，並不只是單純為了讓錢變多，而是蘊含著「將在世間流轉時沾染上的日常執著與疲憊能量，用清澈的水洗去，恢復成原本純粹豐盛的能量」這樣溫暖的感謝與思想喲✨ 鄰近的日本金融街（日本橋兜町）的證券公司員工、商務人士、經營者們，也常常會在午休時間前來參拜，整頓自己的心情，懷著感謝之心讓金錢循環流動。
 * **太陽醬的強力推薦：** 當然很適合「想提升金運！」的人，也很適合「想更積極地面對每天工作的人」或「想對來到自己身邊的錢表達感謝的人」💛 溫柔地清洗金錢的同時，連心情也會跟著被洗淨，變得清爽舒暢喲☀️✨
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-shop-1200.webp" srcset="/images/posts/koami-shrine-shop-640.webp 640w, /images/posts/koami-shrine-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="寫著「小網神社」的大看板與張貼著御守介紹的授與所窗口，右後方可見鳥居">
+<figcaption>掛著「強運厄除之神・東京銭洗弁天之社」看板的授與所。 攝影：経済特区／<a href="https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E7%B6%B2%E7%A5%9E%E7%A4%BE20250429_02.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0 1.0</a>（調整尺寸）</figcaption>
+</figure>
+
+臨街的授與所看板上寫著「強運厄除之神・東京銭洗弁天之社」。窗口貼滿了御守等的介紹，前面聚集了不少參拜的人。右後方可以看見鳥居，日本橋的街景與神社並肩而立，是這裡獨有的風景💛
+
 ## ③ 看了就被療癒！可愛的「蠶繭籤」與精緻的雕刻
 
 ### 【蠶繭籤＆升龍・降龍的宮雕】〜職人的溫度，以及細細長長結緣的緣分〜
 * **有什麼特別之處？：** 境內有一種可愛的御神籤，叫做**「蠶繭籤」**，是把籤文可愛地捲成一團，放進真正的蠶繭裡。有白色、粉紅色、黃色等溫柔的色調，外觀也非常可愛！另外，抬頭看看社殿，會發現昭和4年由名匠打造的「升龍」與「降龍」精美木雕，美得令人屏息喲。
 * **為什麼會有這樣的力量呢？（深層背景）：** 蠶繭籤所使用的繭，是由一根美麗的蠶絲所構成。這裡蘊含著「希望與神明之間的美好緣分，能像蠶絲一樣，細細長長地延續下去」這樣溫柔細膈的心願喲。此外，即使在有限的土地上，這裡依然珍惜地保留著對神明的感謝之心與日本傳統工藝，才能將這樣美麗的雕刻與罕見的五角形神樂殿，流傳至今。
 * **太陽醬的強力推薦：** 「想結下溫暖良緣的人」或「想從忙碌的日常中暫時逃離、好好療癒一下的人」都超喜歡這個喲☀️！拿在手中的那一瞬間，自然的恩惠與職人的溫度便會傳達過來，讓心也跟著暖呼呼起來，一起來感受看看吧💛✨
+
+<figure class="photo">
+<img src="/images/posts/koami-shrine-queue-1080.webp" srcset="/images/posts/koami-shrine-queue-640.webp 640w, /images/posts/koami-shrine-queue-1080.webp 1080w" sizes="(min-width: 768px) 720px, 100vw" width="1080" height="1440" loading="lazy" decoding="async" alt="日本國旗與白色燈籠旁的石造鳥居前，聚集著參拜的人">
+<figcaption>日本國旗飄揚、排著參拜隊伍的鳥居前。 攝影：経済特区／<a href="https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E7%B6%B2%E7%A5%9E%E7%A4%BE20250429_01.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0 1.0</a>（調整尺寸）</figcaption>
+</figure>
+
+就像這張照片一樣，參拜人潮多的時段，鳥居前也可能大排長龍。馬路上放有三角錐與告示牌，寫著「請勿在馬路上拍照」（道路での写真撮影ご遠慮ください）。拍照時請遵守指示、留意周圍的人，讓大家都能安心參拜⛩️
 
 ## 總結（結語）
 小網神社，是一座坐落在大都會正中央，卻緊緊凝聚著「跨越了無數困難的堅強」與「溫柔整頓造訪者的心與金錢」的最棒綠洲喲☀️✨

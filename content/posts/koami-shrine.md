@@ -15,6 +15,13 @@ tags: ["金運財布", "金運", "強運厄除け", "東京"]
 
 なんと敷地面積はたったの約20坪（お部屋で言うと約66平方メートルほど）！ビルとビルの谷間にちょこんと挟まれるように鎮座しているんだけど、一歩足を踏み入れると、まるで時が止まったかのような不思議なぬくもりと静けさに包まれるんだよ。
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-dusk-1200.webp" srcset="/images/posts/koami-shrine-dusk-640.webp 640w, /images/posts/koami-shrine-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1365" loading="lazy" decoding="async" alt="夕暮れの小網神社。灯りのともる提灯と白い幟の間に、注連縄の掛かった石の鳥居と社殿が見える">
+<figcaption>夕暮れに灯りがともる、小網神社の鳥居と社殿。 写真：Beryllium Transistor／<a href="https://commons.wikimedia.org/wiki/File:Koami_jinja.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+ビルに挟まれた小さな境内の正面は、こんな雰囲気だよ。石の鳥居には太い注連縄が掛かり、両脇には「弁財天」「福禄寿」などの文字が入った白い幟と、提灯が並んでいます。夕暮れどきには提灯に灯りがともって、街なかとは思えないほっとする空気になるんだね☀️
+
 近代的な大都会の真ん中に、なぜこんなにも温かくて歴史ある聖域が残っているんだろう？実はここ、**「どんな大ピンチも跳ね返してきた奇跡のサバイバル史実」**を持つ、日本屈指のパワースポットなんだよ！
 
 今回は太陽ちゃんが、その深い秘密と見どころを分かりやすくみんなに届けるね☀️✨
@@ -29,6 +36,13 @@ tags: ["金運財布", "金運", "強運厄除け", "東京"]
 * **なぜ生まれたの？（深い背景）：** 神社の始まりは今から約1000年前の平安時代にさかのぼり、1466年に地域で疫病が流行した際、網師の翁（稲荷大神様）を祀ったことで悪疫がたちまち鎮まったという歴史があります。昔から「地域の人々を災いから守りたい」という深い祈りが込められており、幾度もの震災や戦争という大きな試練の中でも、確かなパワーで人々や社殿を守り抜いてきた歴史があるからこそ、いまも強い信頼を集めているんだね✨
 * **太陽ちゃんのイチオシ解説：** 「人生の大きな壁にぶつかっている人」や「厄年・環境の変化で不安を抱えている人」に太陽ちゃんが全力でオススメするよ☀️！どんな激しい嵐が吹き荒れても、優しく温かい光であなたを守り抜き、前を向く勇気を授けてくれる頼もしい守護パワーだよ💛
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-front-1200.webp" srcset="/images/posts/koami-shrine-front-640.webp 640w, /images/posts/koami-shrine-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="白い幟と提灯に挟まれた石の鳥居と、金色の飾りがついた重なる屋根の社殿">
+<figcaption>金色の飾りが光る重なる屋根と、注連縄の掛かる鳥居。 写真：Ken Marshall／<a href="https://commons.wikimedia.org/wiki/File:Koami_Shrine_Nihonbashi-Koamich%C5%8D_Tokyo_-_Feb_10_2026.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+鳥居の正面から見上げると、幾重にも重なる屋根の先で金色の飾りがきらりと光っていて、小さな社殿なのにとても存在感があるんだよ✨ 鳥居の中央には青緑色の額が掲げられています。手前には参拝の列ができていて、この神社が多くの人に親しまれていることが伝わってきますね。
+
 ## ② 証券マンも通う！？「銭洗い弁天」と資本主義の融合
 
 ### 【東京銭洗い弁天と銭洗いの井】〜感謝を込めてお金を清め、豊かさを巡らせるオアシス〜
@@ -36,12 +50,26 @@ tags: ["金運財布", "金運", "強運厄除け", "東京"]
 * **なぜ生まれたの？（深い背景）：** ここには市杵島比賣神（いちきしまひめのかみ＝弁財天様）が祀られています。お金を洗う行為は、単にお金を増やすためだけではなく、「世の中を巡るうちについた日々の執着や疲れたエネルギーを清らかな水で流し、本来の純粋な豊かさのエネルギーに戻す」という温かい感謝と思想が込められているんだよ✨ 隣接する日本の金融街（日本橋兜町）で働く証券会社の方やビジネスマン、経営者の方々も、日々の仕事の中で心を整え、感謝の気持ちでお金を循環させるために、お昼休みなどに参拝に訪れているんだね。
 * **太陽ちゃんのイチオシ解説：** 「金運をアップさせたい！」という人はもちろん、「毎日のお仕事をもっと前向きにがんばりたい人」や「自分の元に来てくれたお金に感謝したい人」にぴったり💛 お金を優しく洗い清めると、心までスッキリ洗われて清々しい気持ちになれるよ☀️✨
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-shop-1200.webp" srcset="/images/posts/koami-shrine-shop-640.webp 640w, /images/posts/koami-shrine-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="「小網神社」の大きな看板と、お守りの案内が並ぶ授与所の窓口。右奥に鳥居が見える">
+<figcaption>「強運厄除の神・東京銭洗い弁天の社」と書かれた看板の授与所。 写真：経済特区／<a href="https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E7%B6%B2%E7%A5%9E%E7%A4%BE20250429_02.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0 1.0</a>（リサイズ）</figcaption>
+</figure>
+
+道に面した授与所の看板には、「強運厄除の神・東京銭洗い弁天の社」と書かれています。窓口にはお守りなどの案内がずらりと並んでいて、前には参拝の人たちが集まっていました。右奥には鳥居がのぞいて、日本橋の街なみと神社が隣り合う、この場所ならではの風景だね💛
+
 ## ③ 見て癒やされる！可愛い「まゆ玉みくじ」と繊細な彫刻
 
 ### 【まゆ玉みくじ＆昇り龍・降り龍の宮彫り】〜職人さんのぬくもりと、細く長く結ばれる神様とのご縁〜
 * **どんな特徴？：** 境内には、本物の蚕（かいこ）の繭（まゆ）の中に可愛らしく丸められたおみくじが入っている**「まゆ玉みくじ」**があります。白やピンク、黄色といった優しい色合いがあって、見た目もとってもキュート！また、社殿を見上げると、昭和4年に名工によって作られた「昇り龍」や「降り龍」の見事な木彫り彫刻が施されていて、息をのむ美しさなんだよ。
 * **なぜ生まれたの？（深い背景）：** まゆ玉みくじに使われている繭は、一本の綺麗な絹糸でできています。「神様との素敵なご縁が、絹糸のように細く長く結ばれますように」という優しく繊細な願いが込められているんだよ。また、限られた敷地の中でも神様への感謝と日本の伝統技術を大切に残してきたからこそ、このような美しい彫刻や五角形の神楽殿といった珍しい建築美が今に伝えられているんだね。
 * **太陽ちゃんのイチオシ解説：** 「温かい良縁を結びたい人」や「忙しい日常から離れてほっと癒やされたい人」に大人気だよ☀️！手にとった瞬間に自然の恵みと職人さんのぬくもりが伝わってきて、心がぽかぽか温まるのを感じてみてね💛✨
+
+<figure class="photo">
+<img src="/images/posts/koami-shrine-queue-1080.webp" srcset="/images/posts/koami-shrine-queue-640.webp 640w, /images/posts/koami-shrine-queue-1080.webp 1080w" sizes="(min-width: 768px) 720px, 100vw" width="1080" height="1440" loading="lazy" decoding="async" alt="日の丸の旗と白い提灯のある石の鳥居の前に、参拝の人が集まっている様子">
+<figcaption>日の丸の旗が揺れる、参拝の列ができた鳥居の前。 写真：経済特区／<a href="https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E7%B6%B2%E7%A5%9E%E7%A4%BE20250429_01.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0 1.0</a>（リサイズ）</figcaption>
+</figure>
+
+この写真のように、参拝の人が集まる時間帯は鳥居の前に列ができることもあるよ。道路にはコーンと案内板が置かれていて、「道路での写真撮影ご遠慮ください」と書かれています。撮影するときは案内に従って、周りの方にも気を配りながら、気持ちよく参拝しようね⛩️
 
 ## まとめ（おわりに）
 小網神社は、大都会の真ん中にありながら、どんな困難も乗り越えてきた「力強さ」と、訪れる人の心とお金を優しく整えてくれる「優しさ」がぎゅっと詰まった、最高のオアシスなんだよ☀️✨
