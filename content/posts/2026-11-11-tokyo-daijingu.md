@@ -22,6 +22,12 @@ draft: false
 
 この記事では、**由緒・ご祭神・神前結婚式の始まり・縁結びの授与品・参拝のコツ・アクセス** をまとめます。
 
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-torii-1200.webp" srcset="/images/posts/tokyo-daijingu-torii-640.webp 640w, /images/posts/tokyo-daijingu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="石段の上に、鳥居と社号標「東京大神宮」が立つ入口の様子">
+<figcaption>参道の入口に立つ、社号標と鳥居。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 ## 目次
 
 - [基本情報](#basic)
@@ -61,11 +67,33 @@ draft: false
 
 造化の三神は、万物を生み出し「結び」を司る神さまとされ、このことから **縁結びのご利益がある** と言われています。東京五社の一つでもあります。
 
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-front-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-front-640.webp 640w, /images/posts/tokyo-daijingu-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="799" loading="lazy" decoding="async" alt="紫色の幕に白い菊の紋が付いた、東京大神宮の拝殿正面">
+<figcaption>紫の幕に菊の紋が並ぶ、拝殿の正面。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-roof-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-roof-640.webp 640w, /images/posts/tokyo-daijingu-haiden-roof-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="青空にのびる、金の飾りがついた拝殿の屋根と千木">
+<figcaption>金色の鰹木が並ぶ、拝殿の屋根。 写真：Daderot／<a href="https://commons.wikimedia.org/w/index.php?search=Daderot%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-crowd-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-crowd-640.webp 640w, /images/posts/tokyo-daijingu-haiden-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="社殿の前に参拝者が並ぶ、にぎやかな東京大神宮">
+<figcaption>参拝者が列をつくる、休日の拝殿。 写真：Miyuki Meinaka／<a href="https://commons.wikimedia.org/w/index.php?search=Miyuki%20Meinaka%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 ## <span id="wedding"></span>日本で最初の神前結婚式
 
 **1900年（明治33年）**、皇太子さま（のちの大正天皇）の御婚儀が宮中の賢所で行われました。これを記念して、翌 **1901年** に一般向けの神前結婚式が始まったと伝えられています。この神社が **「神前結婚式を日本で最初に行った神社」** と言われるのはこのためです。
 
 現在も神前結婚式が行われており、巫女による舞も奉納されています。
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-inside-1200.webp" srcset="/images/posts/tokyo-daijingu-inside-640.webp 640w, /images/posts/tokyo-daijingu-inside-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="ガラス戸の向こうに、灯りがともる社殿の内部と祭壇が見える様子">
+<figcaption>神前結婚式などが行われる、社殿の内部。 写真：Nesnad／<a href="https://commons.wikimedia.org/w/index.php?search=Nesnad%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
 
 ## <span id="amulet"></span>お守り・おみくじ・御朱印
 
@@ -77,12 +105,49 @@ draft: false
 
 授与品の種類や初穂料は変わることがあるため、当日に授与所でご確認ください。
 
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-ema-1200.webp" srcset="/images/posts/tokyo-daijingu-ema-640.webp 640w, /images/posts/tokyo-daijingu-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="拝殿の脇で、かわいらしい絵馬が掛けられた絵馬掛けと授与所">
+<figcaption>願いごとを書いた絵馬が並ぶ境内。 写真：Higa4／<a href="https://commons.wikimedia.org/w/index.php?search=Higa4%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 ## <span id="point"></span>参拝のポイント
 
 1. **平日の午前中がおすすめ**: 土日祝日は混雑しやすく、境内に列ができる日もあります。
 2. **手水舎で清めてから拝殿へ**: 作法は [神社参拝の基本](/blog/shrine-visit-basics/) をご覧ください。
 3. **伊勢神宮と同じご祭神に手を合わせる**: 遠方の伊勢まで行けないときの参拝先として親しまれてきました。
 4. **願いごとは具体的に、感謝とともに**: 神社は願いをかなえる場所というより、ご挨拶と感謝を伝える場所とされています。
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-temizuya-1200.webp" srcset="/images/posts/tokyo-daijingu-temizuya-640.webp 640w, /images/posts/tokyo-daijingu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="木の柱と瓦屋根を持つ手水舎と、奥に見える龍の像">
+<figcaption>参拝の前に手を清める、手水舎。 写真：Daderot／<a href="https://commons.wikimedia.org/w/index.php?search=Daderot%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-temizuya-closeup-1200.webp" srcset="/images/posts/tokyo-daijingu-temizuya-closeup-640.webp 640w, /images/posts/tokyo-daijingu-temizuya-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="柄杓の代わりに、竹の樋から流れる水で手を清める東京大神宮の手水">
+<figcaption>龍の像のある手水鉢。 写真：しんぎんぐきゃっと／<a href="https://commons.wikimedia.org/w/index.php?search=%E3%81%97%E3%82%93%E3%81%8E%E3%82%93%E3%81%90%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-shinmon-1200.webp" srcset="/images/posts/tokyo-daijingu-shinmon-640.webp 640w, /images/posts/tokyo-daijingu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="石段の上に建つ朱色の柱の門と、そこから見える紫の幕">
+<figcaption>石段の上にある、拝殿へ続く門。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-gate-view-1200.webp" srcset="/images/posts/tokyo-daijingu-gate-view-640.webp 640w, /images/posts/tokyo-daijingu-gate-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="門の内側から、玉砂利の庭と石畳の参道、その先の拝殿を望む景色">
+<figcaption>門をくぐると、石畳の参道の先に拝殿が見えます。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-approach-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-approach-640.webp 640w, /images/posts/tokyo-daijingu-haiden-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="玉砂利の庭の中の石畳を進むと、灯籠に挟まれた拝殿に着く">
+<figcaption>石畳の先に、紫の幕の拝殿。 写真：Miyuki Meinaka／<a href="https://commons.wikimedia.org/w/index.php?search=Miyuki%20Meinaka%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-higa-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-higa-640.webp 640w, /images/posts/tokyo-daijingu-haiden-higa-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="紫の幕の前で、賽銭箱に向かって参拝する人々">
+<figcaption>拝殿の前で手を合わせる人々。 写真：Higa4／<a href="https://commons.wikimedia.org/w/index.php?search=Higa4%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（リサイズ）</figcaption>
+</figure>
+
 
 ## <span id="access"></span>アクセス
 

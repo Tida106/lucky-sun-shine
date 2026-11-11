@@ -21,6 +21,12 @@ Tokyo Daijingu is a shrine about a five-minute walk from Iidabashi Station. It w
 
 This guide covers **its history, deities, the beginning of Shinto weddings, matchmaking charms, visiting tips and access**.
 
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-torii-1200.webp" srcset="/images/posts/tokyo-daijingu-torii-640.webp 640w, /images/posts/tokyo-daijingu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Torii gate and a stone marker reading Tokyo Daijingu at the top of the entrance steps">
+<figcaption>The torii and the stone marker at the entrance. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## Table of Contents
 
 - [Basic Information](#basic)
@@ -60,11 +66,33 @@ The enshrined deities are the same as those of the Ise Shrine: **Amaterasu-Sumeo
 
 The Three Deities of Creation are said to oversee the creation of all things and "musubi" (binding together), which is why the shrine is believed to bring blessings for good relationships. It is also one of the "Five Shrines of Tokyo".
 
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-front-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-front-640.webp 640w, /images/posts/tokyo-daijingu-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="799" loading="lazy" decoding="async" alt="Front of the Tokyo Daijingu worship hall with purple curtains and white chrysanthemum crests">
+<figcaption>The front of the worship hall, with purple curtains bearing chrysanthemum crests. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-roof-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-roof-640.webp 640w, /images/posts/tokyo-daijingu-haiden-roof-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Worship hall roof with gilded billets and crossed finials against a blue sky">
+<figcaption>The roof of the worship hall, lined with gilded billets. Photo: Daderot／<a href="https://commons.wikimedia.org/w/index.php?search=Daderot%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-crowd-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-crowd-640.webp 640w, /images/posts/tokyo-daijingu-haiden-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Busy Tokyo Daijingu with visitors queuing in front of the hall and its dark green roofs">
+<figcaption>Visitors lining up in front of the worship hall. Photo: Miyuki Meinaka／<a href="https://commons.wikimedia.org/w/index.php?search=Miyuki%20Meinaka%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="wedding"></span>Japan's First Shinto Wedding
 
 In **1900 (Meiji 33)**, the wedding of the Crown Prince (later Emperor Taisho) was held in the Kashikodokoro sanctuary in the Imperial Palace. In commemoration, Shinto weddings for the general public are said to have begun in **1901**. This is why the shrine is known as **the first shrine in Japan to hold Shinto weddings**.
 
 Shinto weddings are still held here today, with dances performed by shrine maidens.
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-inside-1200.webp" srcset="/images/posts/tokyo-daijingu-inside-640.webp 640w, /images/posts/tokyo-daijingu-inside-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="Lit interior of the shrine hall seen through the glass doors, with the altar in the back">
+<figcaption>The interior of the hall, where Shinto weddings and rituals are held. Photo: Nesnad／<a href="https://commons.wikimedia.org/w/index.php?search=Nesnad%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 
 ## <span id="amulet"></span>Charms, Fortunes and Goshuin
 
@@ -76,12 +104,49 @@ Many visitors come to pray for good relationships, and the shrine's offerings re
 
 Offerings and prices may change, so please check at the shrine office on the day.
 
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-ema-1200.webp" srcset="/images/posts/tokyo-daijingu-ema-640.webp 640w, /images/posts/tokyo-daijingu-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Rack of colorful ema plaques beside the hall, with the amulet stand on the right">
+<figcaption>Ema wishing plaques hanging beside the worship hall. Photo: Higa4／<a href="https://commons.wikimedia.org/w/index.php?search=Higa4%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="point"></span>Visiting Tips
 
 1. **Visit on a weekday morning.** Weekends and holidays tend to be crowded, and queues can form in the precinct.
 2. **Purify at the water pavilion before the main hall.** See our [shrine etiquette guide](/en/blog/shrine-visit-basics/).
 3. **Pray to the same deities as at Ise.** The shrine has long been a place for those who cannot travel to Ise.
 4. **Offer thanks along with your wish.** A shrine is considered a place to greet the deities and express gratitude.
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-temizuya-1200.webp" srcset="/images/posts/tokyo-daijingu-temizuya-640.webp 640w, /images/posts/tokyo-daijingu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Wooden water pavilion with a tiled roof and a dragon sculpture at the back">
+<figcaption>The water pavilion where visitors purify their hands before worship. Photo: Daderot／<a href="https://commons.wikimedia.org/w/index.php?search=Daderot%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-temizuya-closeup-1200.webp" srcset="/images/posts/tokyo-daijingu-temizuya-closeup-640.webp 640w, /images/posts/tokyo-daijingu-temizuya-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Purification basin where water runs down bamboo channels instead of ladles, with a dragon behind">
+<figcaption>The purification basin, with a dragon at the back. Photo: しんぎんぐきゃっと／<a href="https://commons.wikimedia.org/w/index.php?search=%E3%81%97%E3%82%93%E3%81%8E%E3%82%93%E3%81%90%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-shinmon-1200.webp" srcset="/images/posts/tokyo-daijingu-shinmon-640.webp 640w, /images/posts/tokyo-daijingu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="Gate with vermilion pillars at the top of the steps, with the purple curtain visible beyond">
+<figcaption>The gate at the top of the stone steps, leading to the worship hall. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-gate-view-1200.webp" srcset="/images/posts/tokyo-daijingu-gate-view-640.webp 640w, /images/posts/tokyo-daijingu-gate-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="View from inside the gate across a gravel garden and stone path to the hall">
+<figcaption>Through the gate, the worship hall at the end of the paved path. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/w/index.php?search=%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-approach-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-approach-640.webp 640w, /images/posts/tokyo-daijingu-haiden-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone path across a pebble garden leading to the hall, flanked by lanterns">
+<figcaption>The worship hall at the end of the stone path. Photo: Miyuki Meinaka／<a href="https://commons.wikimedia.org/w/index.php?search=Miyuki%20Meinaka%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tokyo-daijingu-haiden-higa-1200.webp" srcset="/images/posts/tokyo-daijingu-haiden-higa-640.webp 640w, /images/posts/tokyo-daijingu-haiden-higa-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Visitors praying at the offering boxes in front of the purple curtain">
+<figcaption>Visitors praying in front of the worship hall. Photo: Higa4／<a href="https://commons.wikimedia.org/w/index.php?search=Higa4%20%E6%9D%B1%E4%BA%AC%E5%A4%A7%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
 
 ## <span id="access"></span>Access
 
