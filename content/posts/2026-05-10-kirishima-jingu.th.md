@@ -14,6 +14,12 @@ draft: false
 
 ศาลเจ้าคิริชิมะ (霧島神宮) เป็นศาลเจ้าเก่าแก่ตัวแทนของคิวชูตอนใต้ ตั้งอยู่เชิง **เทือกเขาคิริชิมะ** ภูเขาศักดิ์สิทธิ์ ประดิษฐาน **นินิงิ โนะ มิโคโตะ** (瓊瓊杵尊) ผู้เป็นตัวเอกแห่งตำนาน **เทพลงมาจุติ (เท็นซง โคริน)** และเป็นที่เคารพจากระยะไกลสำหรับ **ภูเขาทากาจิโฮะ** อันเป็นฉากของตำนาน ศาลเจ้าแห่งนี้ยังเป็นที่รู้จักในฐานะสถานที่ที่ซากาโมโตะ เรียวมะ กับภรรยาโอเรียว มาเยือนใน **ฮันนีมูนครั้งแรกของญี่ปุ่น** และ **อาคารสีแดงชาดได้รับการขึ้นทะเบียนเป็นสมบัติของชาติในปี 2022** เป็นเขตศักดิ์สิทธิ์ขนาดใหญ่ที่มองเห็นเทือกเขาคิริชิมะและภูเขาไฟซากุระจิมะ บทความนี้รวบรวม **ประวัติ ตำนานเทพลงมาจุติ ซากาโมโตะ เรียวมะ คำถามที่พบบ่อย และบันทึกท้ายเล่ม** ไว้ในหน้าเดียว
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-lanterns-1200.webp" srcset="/images/posts/kirishima-jingu-lanterns-640.webp 640w, /images/posts/kirishima-jingu-lanterns-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="อาคารศาลเจ้าคิริชิมะสีแดงชาดที่มีโคมหินและป่าไม้สีเขียวล้อมรอบ">
+<figcaption>ศาลหลักสีแดงชาดของศาลเจ้าคิริชิมะที่เห็นผ่านโคมหินสองข้าง ภาพ: MaedaAkihiko／<a href="https://commons.wikimedia.org/w/index.php?search=MaedaAkihiko%20Kirishima&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ## สารบัญ
 
 - ข้อมูลพื้นฐานของศาลเจ้า
@@ -44,6 +50,12 @@ draft: false
 | สมบัติของชาติ | ศาลาหลัก ศาลาเฮเด็น และศาลาไหว้ (ปี 2022) |
 | เว็บไซต์ทางการ | https://kirishimajingu.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิสีแดงขนาดใหญ่บนทางเดินสู่ศาลเจ้าที่มีต้นไม้สองข้าง">
+<figcaption>โทริอิสีแดงชาดขนาดใหญ่บนทางเดินที่ล้อมด้วยต้นไม้สูง ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ## ประวัติและที่มา
 
 ตามบันทึกของศาลเจ้า ศาลเจ้าคิริชิมะก่อตั้งในรัชสมัย **จักรพรรดิคิมเมย์ (ศตวรรษที่ 6)** ในตอนแรกประดิษฐานอยู่ระหว่าง **ภูเขาทากาจิโฮะ** กับ **ภูเขาฮิสึเนะ** ในเทือกเขาคิริชิมะ แต่ต้องย้ายที่ประดิษฐานหลายครั้งเพราะความเสียหายจากการปะทุของภูเขาไฟ และเชื่อกันว่ามาตั้งอยู่ที่ปัจจุบันในช่วง **ศตวรรษที่ 15**
@@ -72,6 +84,27 @@ draft: false
 
 โดยเฉพาะ **ภาพนกและดอกไม้บนเพดานตารางภายใน** และ **ลายแกะสลักมังกรบนเสา** นั้นงดงามยิ่ง จัดเป็นสถาปัตยกรรมศาลเจ้าสมัยใหม่ตอนต้นที่เป็นตัวแทนของคิวชู สภาพการอนุรักษ์อาคารทั้งหลังที่ดีก็เป็นจุดที่ได้รับการประเมินสูงในการขึ้นทะเบียนเป็นสมบัติของชาติด้วย
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-haiden-1200.webp" srcset="/images/posts/kirishima-jingu-haiden-640.webp 640w, /images/posts/kirishima-jingu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ด้านหน้าศาลาไหว้ของศาลเจ้าคิริชิมะ เสาสีแดง ตราสีทอง และงานแกะสลักหลากสี">
+<figcaption>ศาลาไหว้ที่มีตราสีทองและงานแกะสลักหลากสี ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-carving-1200.webp" srcset="/images/posts/kirishima-jingu-carving-640.webp 640w, /images/posts/kirishima-jingu-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="งานแกะสลักดอกโบตั๋น ต้นสน และสิงโตใต้ชายคาศาลา">
+<figcaption>งานแกะสลักสีสันสดใสรูปดอกไม้ นก และสิงโตใต้ชายคา ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-sculpture-1200.webp" srcset="/images/posts/kirishima-jingu-sculpture-640.webp 640w, /images/posts/kirishima-jingu-sculpture-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="790" loading="lazy" decoding="async" alt="งานแกะสลักสิงโตและช้างทาสีที่มุมคานของศาลเจ้า">
+<figcaption>งานแกะสลักสิงโตและช้างประดับมุมอาคาร ภาพ: 663highland／<a href="https://commons.wikimedia.org/w/index.php?search=663highland%20Kirishima-jingu&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-approach-1200.webp" srcset="/images/posts/kirishima-jingu-approach-640.webp 640w, /images/posts/kirishima-jingu-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="อาคารศาลเจ้าคิริชิมะที่ปลายทางเดินปูหิน มีศาลเล็กอยู่สองข้าง">
+<figcaption>ด้านหน้าศาลเจ้าที่ปลายทางเดินปูหิน ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ## ฮันนีมูนของซากาโมโตะ เรียวมะและโอเรียว
 
 ในปี **1866 (เคโอที่ 2)** ซากาโมโตะ เรียวมะที่ได้รับบาดเจ็บจากเหตุการณ์เทราดายะ ได้เดินทางไปพักรักษาตัวที่ซัตสึมะพร้อมกับภรรยาใหม่ **โอเรียว** ซึ่งเป็นการเดินทางที่เล่าต่อกันมาว่าเป็น **"ฮันนีมูนครั้งแรกของญี่ปุ่น"** ทั้งสองปีนเทือกเขาคิริชิมะ และเล่ากันว่าได้ **ไหว้ที่ศาลเจ้าคิริชิมะด้วย**
@@ -86,6 +119,32 @@ draft: false
 - วางแผนพักค้างคืนคู่กับ **ออนเซ็นคิริชิมะ**
 - เดินตามเส้นทางที่เกี่ยวข้องกับ **ซากาโมโตะ เรียวมะและโอเรียว**
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-640.webp 640w, /images/posts/kirishima-jingu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ผู้มาไหว้ล้างมือที่ศาลาน้ำเสาสีแดงของศาลเจ้าคิริชิมะ">
+<figcaption>ศาลาน้ำสำหรับล้างมือก่อนไหว้ ภาพ: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-front-crowd-1200.webp" srcset="/images/posts/kirishima-jingu-front-crowd-640.webp 640w, /images/posts/kirishima-jingu-front-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ผู้มาไหว้เดินขึ้นบันไดไปยังศาลาไหว้ของศาลเจ้าคิริชิมะ">
+<figcaption>ผู้มาไหว้ที่คึกคักหน้าศาลาไหว้ ภาพ: 663highland／<a href="https://commons.wikimedia.org/w/index.php?search=663highland%20Kirishima-jingu&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-courtyard-1200.webp" srcset="/images/posts/kirishima-jingu-courtyard-640.webp 640w, /images/posts/kirishima-jingu-courtyard-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ลานกรวดของศาลเจ้าคิริชิมะที่มีระเบียงและอาคารสีแดงเรียงกัน">
+<figcaption>บริเวณศาลเจ้าที่มีระเบียงและอาคารสีแดงเรียงต่อกัน ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-kagura-den-1200.webp" srcset="/images/posts/kirishima-jingu-kagura-den-640.webp 640w, /images/posts/kirishima-jingu-kagura-den-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาคางุระและที่รับพิธีขอพรของศาลเจ้าคิริชิมะ หลังคาขนาดใหญ่">
+<figcaption>ศาลาคางุระที่รับคำขอพรและพิธีกรรม ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-torii-gate-1200.webp" srcset="/images/posts/kirishima-jingu-torii-gate-640.webp 640w, /images/posts/kirishima-jingu-torii-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิสีแดงที่มีโคมไฟสีแดงสองข้างและทางเดินสู่ศาลเจ้าคิริชิมะ">
+<figcaption>โทริอิสีแดงชาดและโคมไฟที่ทางเข้าบริเวณศาลเจ้า ภาพ: ฮิโรยูกิ ยาโนะ／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ## การเดินทาง
 
 รถไฟ: ลง **สถานีคิริชิมะจิงงู** สาย JR นิจิโง แล้วนั่งรถบัสอิวาซากิประมาณ 10 นาที ลงที่ป้าย "คิริชิมะจิงงู"
@@ -93,6 +152,12 @@ draft: false
 รถยนต์: ประมาณ 30 นาทีจากทางด่วนคิวชู ด่านมิโซเบะ-คาโกชิมะแอร์พอร์ต หรือประมาณ 60 นาทีจากทางด่วนฮิงาชิคิวชู ด่านมิยาโกโนโจ
 
 **ที่จอดรถ**: มีที่จอดรถในบริเวณศาลเจ้า (ฟรี ประมาณ 500 คัน)
+
+<figure class="photo">
+<img src="/images/posts/kirishima-express-1200.webp" srcset="/images/posts/kirishima-express-640.webp 640w, /images/posts/kirishima-express-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="รถไฟด่วนสีเขียวของ JR คิวชูที่มีข้อความ KIRISHIMA EXPRESS จอดที่ชานชาลา">
+<figcaption>รถด่วนพิเศษ "คิริชิมะ" ที่จอดสถานีคิริชิมะจิงกู (ถ่ายเมื่อ ค.ศ. 2007) ภาพ: Tokkyu Nichirin／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima%20Jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 
 ## หินที่แนะนำ
 

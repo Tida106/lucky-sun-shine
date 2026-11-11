@@ -21,6 +21,12 @@ viatorSpots:
 
 Kirishima Jingu is a venerable shrine that stands at the foot of the sacred **Kirishima Mountain Range**, representing Southern Kyushu. It enshrines **Ninigi-no-Mikoto**, the main character of the **Tenson Korin (Descent of the Heavenly Grandson)** myth, and serves as a distant worship site for **Mount Takachiho**, the mythical stage itself. It's also famous as the destination for **Sakamoto Ryoma and Oryo's first honeymoon in Japan**, and its **vermilion-lacquered main hall was designated a National Treasure in 2022**. It's a sacred precinct with a grand scale, offering views of the Kirishima Mountain Range and Sakurajima. In this article, I'll put together the shrine's **history, the Tenson Korin myth, Sakamoto Ryoma's story, FAQs, and an editor's note** all on one page.
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-lanterns-1200.webp" srcset="/images/posts/kirishima-jingu-lanterns-640.webp 640w, /images/posts/kirishima-jingu-lanterns-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Vermilion-lacquered buildings of Kirishima Jingu framed by stone lanterns and green forest">
+<figcaption>The vermilion shrine buildings of Kirishima Jingu seen between stone lanterns. Photo: MaedaAkihiko／<a href="https://commons.wikimedia.org/w/index.php?search=MaedaAkihiko%20Kirishima&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## Table of Contents
 
 - [Basic Information and Shrine Data](#basic)
@@ -51,6 +57,12 @@ Kirishima Jingu is a venerable shrine that stands at the foot of the sacred **Ki
 | National Treasure Designation | Main Hall, Heiden (Offering Hall), and Haiden (Worship Hall) (2022) |
 | Official Website | https://kirishimajingu.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Large vermilion torii gate on a tree-lined approach path">
+<figcaption>A large vermilion torii standing on the approach lined with tall trees. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="history"></span>History and Origins
 
 According to shrine tradition, Kirishima Jingu was founded during **Emperor Kinmei's reign (6th century)**. Initially, it was enshrined between **Mount Takachiho** and **Mount Hinotsunemine** in the Kirishima Mountain Range. However, due to repeated damage from volcanic eruptions, it was relocated multiple times, finally settling in its current location in the **15th century**.
@@ -79,6 +91,27 @@ The **Main Hall, Heiden, and Haiden** of Kirishima Jingu were **designated Natio
 
 Especially noteworthy are the **flower and bird paintings on the coffered ceiling** and the **dragon carvings on the pillars** inside, making it a representative example of early modern shrine architecture in Kyushu. The excellent state of preservation of the entire building was also a key factor in its National Treasure designation.
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-haiden-1200.webp" srcset="/images/posts/kirishima-jingu-haiden-640.webp 640w, /images/posts/kirishima-jingu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Front of Kirishima Jingu worship hall with red pillars, a golden crest and colorful carvings">
+<figcaption>The worship hall, with its gilded crest and richly colored carvings. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-carving-1200.webp" srcset="/images/posts/kirishima-jingu-carving-640.webp 640w, /images/posts/kirishima-jingu-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Colorful carvings of peonies, pine and guardian lions under the eaves of the hall">
+<figcaption>Colorful carvings of flowers, birds and guardian lions under the eaves. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-sculpture-1200.webp" srcset="/images/posts/kirishima-jingu-sculpture-640.webp 640w, /images/posts/kirishima-jingu-sculpture-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="790" loading="lazy" decoding="async" alt="Painted lion and elephant carvings at a corner of the shrine beams">
+<figcaption>A carved lion and elephant decorating a corner of the hall. Photo: 663highland／<a href="https://commons.wikimedia.org/w/index.php?search=663highland%20Kirishima-jingu&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-approach-1200.webp" srcset="/images/posts/kirishima-jingu-approach-640.webp 640w, /images/posts/kirishima-jingu-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Kirishima Jingu main buildings at the end of a stone-paved path, with small shrines on both sides">
+<figcaption>The front of the shrine at the end of the paved approach. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="ryoma"></span>Sakamoto Ryoma and Oryo's Honeymoon
 
 In **1866 (Keiō 2)**, Sakamoto Ryoma, who was injured in the Teradaya Incident, embarked on a recuperative journey in Satsuma with his new wife, **Oryo**, also taking advantage of the hot springs. This journey is remembered as **"Japan's first honeymoon,"** and it's said that the couple climbed the Kirishima Mountain Range and **also visited Kirishima Jingu**.
@@ -93,6 +126,32 @@ The anecdote of them pulling out the Ama-no-Sakaboko on Mount Takachiho's summit
 -   Plan an overnight stay, combining it with **Kirishima Onsen (hot springs)**.
 -   Explore routes connected to **Sakamoto Ryoma and Oryo**.
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-640.webp 640w, /images/posts/kirishima-jingu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Visitors rinsing their hands at the red-pillared water pavilion of Kirishima Jingu">
+<figcaption>The water pavilion, where visitors purify their hands before worship. Photo: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-front-crowd-1200.webp" srcset="/images/posts/kirishima-jingu-front-crowd-640.webp 640w, /images/posts/kirishima-jingu-front-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Visitors climbing the steps toward the worship hall at Kirishima Jingu">
+<figcaption>Visitors gathering in front of the worship hall. Photo: 663highland／<a href="https://commons.wikimedia.org/w/index.php?search=663highland%20Kirishima-jingu&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-courtyard-1200.webp" srcset="/images/posts/kirishima-jingu-courtyard-640.webp 640w, /images/posts/kirishima-jingu-courtyard-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Gravel courtyard with red-lacquered corridors and buildings of Kirishima Jingu">
+<figcaption>The precinct, where red-lacquered corridors and halls line up. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-kagura-den-1200.webp" srcset="/images/posts/kirishima-jingu-kagura-den-640.webp 640w, /images/posts/kirishima-jingu-kagura-den-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Kagura hall and prayer reception building of Kirishima Jingu with large sweeping roofs">
+<figcaption>The kagura hall, where prayer requests are received. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-torii-gate-1200.webp" srcset="/images/posts/kirishima-jingu-torii-gate-640.webp 640w, /images/posts/kirishima-jingu-torii-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Vermilion torii flanked by red lanterns, with the approach leading to the shrine">
+<figcaption>A vermilion torii and lanterns at the entrance to the grounds. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+
 ## <span id="access"></span>Access
 
 Train: From JR Nippō Main Line **"Kirishima Jingu Station,"** take the Iwasaki Bus for about 10 minutes and alight at "Kirishima Jingu."
@@ -100,6 +159,12 @@ Train: From JR Nippō Main Line **"Kirishima Jingu Station,"** take the Iwasaki 
 Car: Approximately 30 minutes from Kyushu Expressway **"Mizobe-Kagoshima Airport IC,"** or about 60 minutes from Higashi Kyushu Expressway "Miyakonojo IC."
 
 **Parking**: Available within the shrine grounds (free, approx. 500 spaces).
+
+<figure class="photo">
+<img src="/images/posts/kirishima-express-1200.webp" srcset="/images/posts/kirishima-express-640.webp 640w, /images/posts/kirishima-express-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Green JR Kyushu limited express train marked KIRISHIMA EXPRESS at a station platform">
+<figcaption>The limited express "Kirishima" at Kirishima Jingu Station (photographed in 2007). Photo: Tokkyu Nichirin／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima%20Jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized)</figcaption>
+</figure>
+
 
 ## <span id="stones"></span>Recommended Crystals
 

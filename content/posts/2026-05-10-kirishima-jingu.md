@@ -18,6 +18,12 @@ draft: false
 
 霧島神宮は、霊峰 **霧島連山** の麓に鎮座する南九州を代表する古社。**天孫降臨** 神話の主役 **瓊瓊杵尊（ににぎのみこと）** をお祀りし、神話の舞台 **高千穂峰** の遥拝所として位置付けられています。坂本龍馬とお龍が **日本初の新婚旅行** で訪れたことでも知られ、**朱塗りの社殿は2022年に国宝指定**。霧島連山と桜島を望むスケール感のある神域です。本記事では **歴史・天孫降臨神話・坂本龍馬・FAQ・編集後記** を1ページにまとめます。
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-lanterns-1200.webp" srcset="/images/posts/kirishima-jingu-lanterns-640.webp 640w, /images/posts/kirishima-jingu-lanterns-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="石灯籠の間から望む、朱塗りの霧島神宮の社殿と背後の杉木立">
+<figcaption>石灯籠の向こうに朱塗りの社殿が並ぶ、霧島神宮の正面。 写真：MaedaAkihiko／<a href="https://commons.wikimedia.org/w/index.php?search=MaedaAkihiko%20Kirishima&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 ## 目次
 
 - [基本情報・神社データ](#basic)
@@ -48,6 +54,12 @@ draft: false
 | 国宝指定 | 本殿・幣殿・拝殿（2022年） |
 | 公式サイト | https://kirishimajingu.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-great-torii-1200.webp" srcset="/images/posts/kirishima-jingu-great-torii-640.webp 640w, /images/posts/kirishima-jingu-great-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="木立に囲まれた参道に立つ大きな朱色の鳥居">
+<figcaption>杉木立の参道に立つ、大きな朱の鳥居。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 ## <span id="history"></span>歴史と由緒
 
 霧島神宮の創建は、社伝によれば **欽明天皇の御代（6世紀）**。当初は霧島連山の **高千穂峰** と **火常峰** の間に祀られていましたが、噴火被害で何度も遷座を繰り返し、現在の地に落ち着いたのは **15世紀** とされます。
@@ -76,6 +88,27 @@ draft: false
 
 特に内部の **格天井の花鳥画** や **柱の龍の彫刻** は見事で、九州を代表する近世社殿建築です。建物全体の保存状態の良さも国宝指定の評価ポイントとなりました。
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-haiden-1200.webp" srcset="/images/posts/kirishima-jingu-haiden-640.webp 640w, /images/posts/kirishima-jingu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="朱塗りの柱と金色の紋、彩色の彫刻が目を引く霧島神宮の拝殿正面">
+<figcaption>金色の菊の紋が輝く拝殿。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-carving-1200.webp" srcset="/images/posts/kirishima-jingu-carving-640.webp 640w, /images/posts/kirishima-jingu-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="拝殿の軒下に並ぶ、牡丹や松、獅子などの極彩色の彫刻">
+<figcaption>拝殿の軒下を彩る、極彩色の花鳥と唐獅子の彫刻。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-sculpture-1200.webp" srcset="/images/posts/kirishima-jingu-sculpture-640.webp 640w, /images/posts/kirishima-jingu-sculpture-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="790" loading="lazy" decoding="async" alt="社殿の梁の隅に取り付けられた、獅子と象の彩色彫刻">
+<figcaption>社殿の隅を飾る、獅子と象の彫刻。 写真：663highland／<a href="https://commons.wikimedia.org/w/index.php?search=663highland%20Kirishima-jingu&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-approach-1200.webp" srcset="/images/posts/kirishima-jingu-approach-640.webp 640w, /images/posts/kirishima-jingu-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石畳の参道の先に建つ、両脇に社を従えた霧島神宮の社殿">
+<figcaption>石畳の参道の先に見える、社殿の正面。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 ## <span id="ryoma"></span>坂本龍馬とお龍の新婚旅行
 
 **1866年（慶応2年）**、寺田屋事件で負傷した坂本龍馬は、新妻 **お龍** とともに薩摩で湯治を兼ねた療養旅行を行いました。これが **「日本初の新婚旅行」** と語り継がれる旅で、二人は霧島連山に登り、**霧島神宮にも参拝** したと伝わります。
@@ -90,6 +123,32 @@ draft: false
 - **霧島温泉** とセットで一泊プランに
 - **坂本龍馬・お龍ゆかり** のルートを巡る
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-temizuya-1200.webp" srcset="/images/posts/kirishima-jingu-temizuya-640.webp 640w, /images/posts/kirishima-jingu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="朱色の柱と屋根を持つ霧島神宮の手水舎で、参拝者が手を清めている様子">
+<figcaption>参拝前に心身を清める手水舎。 写真：Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima-jingu%20temizuya&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-front-crowd-1200.webp" srcset="/images/posts/kirishima-jingu-front-crowd-640.webp 640w, /images/posts/kirishima-jingu-front-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="参拝者が石段を上がって拝殿へ向かう、霧島神宮の境内">
+<figcaption>参拝者でにぎわう、拝殿の前。 写真：663highland／<a href="https://commons.wikimedia.org/w/index.php?search=663highland%20Kirishima-jingu&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-courtyard-1200.webp" srcset="/images/posts/kirishima-jingu-courtyard-640.webp 640w, /images/posts/kirishima-jingu-courtyard-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="砂利敷きの境内に、朱塗りの回廊と社殿が連なる様子">
+<figcaption>朱塗りの回廊や建物が連なる境内。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-kagura-den-1200.webp" srcset="/images/posts/kirishima-jingu-kagura-den-640.webp 640w, /images/posts/kirishima-jingu-kagura-den-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="入母屋造の大きな屋根を持つ、霧島神宮の神楽殿・祈願受付">
+<figcaption>御祈祷の受付がある神楽殿。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-torii-gate-1200.webp" srcset="/images/posts/kirishima-jingu-torii-gate-640.webp 640w, /images/posts/kirishima-jingu-torii-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="両脇に朱塗りの灯籠が立つ、霧島神宮の鳥居と参道">
+<figcaption>境内入口に立つ、朱の鳥居と灯籠。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+
 ## <span id="access"></span>アクセス
 
 電車：JR日豊本線「**霧島神宮駅**」からいわさきバスで約10分「霧島神宮」下車。
@@ -97,6 +156,12 @@ draft: false
 車：九州自動車道「**溝辺鹿児島空港IC**」から約30分、東九州自動車道「都城IC」から約60分。
 
 **駐車場**：神社境内駐車場あり（無料・約500台）。
+
+<figure class="photo">
+<img src="/images/posts/kirishima-express-1200.webp" srcset="/images/posts/kirishima-express-640.webp 640w, /images/posts/kirishima-express-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="緑色の車体に「KIRISHIMA EXPRESS」と書かれた、JR九州の特急列車">
+<figcaption>霧島神宮駅に停車する、特急「きりしま」（2007年撮影）。 写真：特急にちりん／<a href="https://commons.wikimedia.org/w/index.php?search=Kirishima%20Jingu%20Station&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（リサイズ）</figcaption>
+</figure>
+
 
 ## <span id="stones"></span>おすすめのパワーストーン
 
