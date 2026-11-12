@@ -55,6 +55,13 @@ Take off your shoes, step up into the worship hall (*you can enter by offering a
 This dragon was painted by the legendary artist **Yuichi Takahashi**, who would later be called the "Father of Western Painting in Japan" for his realistic oil paintings like "Salmon." When he painted this in 1847, he was still just 20 years old, leaving behind a signature (rakkan) named "Ransen," showing he had mastered the traditional ink painting techniques of the Kano school.
 
 <figure class="photo">
+<img src="/images/posts/hiroo-sumiryu-640.webp" srcset="/images/posts/hiroo-sumiryu-640.webp 640w, /images/posts/hiroo-sumiryu-1063.webp 1063w" sizes="(min-width: 768px) 720px, 100vw" width="1063" height="829" loading="lazy" decoding="async" alt="The full ink dragon painted on the ceiling boards of the worship hall, with the artist&#x27;s signature visible at the left">
+<figcaption>The full ink dragon painting on the worship hall ceiling, by Takahashi Yuichi. Painting: Takahashi Yuichi／Image: <a href="https://commons.wikimedia.org/wiki/User:Maculosae_tegmine_lyncis" rel="noopener" target="_blank">Wikimedia Commons</a> (public domain)</figcaption>
+</figure>
+
+Here is the whole ink dragon painting. Using the wood grain of the boards, the dragon's eyes, scales and coiling body are drawn in shades of ink 🐉 You can also see the artist's signature at the left.
+
+<figure class="photo">
 <img src="/images/posts/hiroo-ceiling-640.webp" srcset="/images/posts/hiroo-ceiling-640.webp 640w, /images/posts/hiroo-ceiling-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="An ink painting of a dragon covering the ceiling of the worship hall, with clouds and the dragon&#x27;s body swirling across old wood grain">
 <figcaption>The ink dragon painting on the ceiling of the worship hall. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
 </figure>

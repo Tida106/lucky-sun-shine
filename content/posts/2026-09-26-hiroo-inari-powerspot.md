@@ -52,6 +52,13 @@ draft: false
 この龍を描いたのは、のちに『鮭』などのリアルな油絵で「日本の洋画の父」と呼ばれることになる伝説の画家・**高橋由一（たかはし ゆいち）**さま。この絵を描いた弘化4年（1847年）当時、彼はまだ20歳という若さで、伝統的な水墨画（狩野派）の技術を極めた「藍川（らんせん）」という落款を残しているんだよ。
 
 <figure class="photo">
+<img src="/images/posts/hiroo-sumiryu-640.webp" srcset="/images/posts/hiroo-sumiryu-640.webp 640w, /images/posts/hiroo-sumiryu-1063.webp 1063w" sizes="(min-width: 768px) 720px, 100vw" width="1063" height="829" loading="lazy" decoding="async" alt="拝殿の天井板に墨で描かれた龍の全体図。左側に落款の文字が見える">
+<figcaption>高橋由一が描いた拝殿天井の墨龍図（全体）。 作：高橋由一／画像：<a href="https://commons.wikimedia.org/wiki/User:Maculosae_tegmine_lyncis" rel="noopener" target="_blank">Wikimedia Commons</a>（パブリックドメイン）</figcaption>
+</figure>
+
+こちらが墨龍図の全体像です。板の木目を生かして、龍の眼や鱗、うねる体が墨の濃淡で描かれています🐉 左側には、由一が残した落款の文字も見えるよ。
+
+<figure class="photo">
 <img src="/images/posts/hiroo-ceiling-640.webp" srcset="/images/posts/hiroo-ceiling-640.webp 640w, /images/posts/hiroo-ceiling-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="拝殿の天井いっぱいに墨で描かれた龍の絵。古い板の木目の上に、雲と龍の体が渦巻いている">
 <figcaption>拝殿の天井に描かれた墨龍図。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
 </figure>
