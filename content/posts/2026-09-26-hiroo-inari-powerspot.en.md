@@ -29,21 +29,50 @@ But if you unravel its history, this area in the early Edo period was a vast wil
 When you pass through the magnificent stone torii gate built in 1940, everyone is bound to be surprised by the contrast between the surrounding sophisticated luxury apartments and the warm wooden shrine building!
 This place, where the global energy of a modern city mixes with the indigenous sacred energy continuing from the Edo period, is the ultimate healing space that will completely purify your daily stress and negative vibes just by stepping inside! ☀️
 
+<figure class="photo">
+<img src="/images/posts/hiroo-torii-640.webp" srcset="/images/posts/hiroo-torii-640.webp 640w, /images/posts/hiroo-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="A stone torii facing a street lined with buildings, with a stone pillar reading &quot;Hiroo Shrine&quot; at the right and a stone lantern and donor-name board at the left">
+<figcaption>The stone torii of Hiroo Inari Shrine, facing the street. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+Beyond the stone torii standing by the road, the approach to the grounds continues. At the right is a stone pillar carved "廣尾神社" (Hiroo Shrine), and at the left a large stone lantern, with ginkgo and maple trees all around. You can see how naturally the shrine blends in right beside the buildings ☀️
+
 ### ☀️ Sun-chan's Good Luck Photo Advice
 From the entrance of the shrine grounds, try taking a picture that captures the sturdy stone torii gate, the giant joyato (stone lantern), and the modern luxury apartments in the background all together! You'll get an Instagrammable & lucky photo packed tight with the mysterious "contrast power" of history and modernity! ✨
 
 ## Highlight 2: An Absolute Must-See! The "Magical Ink Dragon" Lurking on the Ceiling of the Worship Hall 🐉✨
+
+<figure class="photo">
+<img src="/images/posts/hiroo-shrine-640.webp" srcset="/images/posts/hiroo-shrine-640.webp 640w, /images/posts/hiroo-shrine-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="The worship hall with a blue-green roof surrounded by trees, and the purification fountain in the left foreground, with stone lanterns along both sides of the approach">
+<figcaption>The worship hall and purification fountain among the trees. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+Beyond the approach you can see the worship hall, with the purification fountain at the front left. Big trees surround the blue-green roof, and it's easy to forget you're in the middle of a big city 🌳 Cleanse your hands and mouth at the fountain before praying.
+
 
 When you visit Hiroo Inari Shrine, one thing you absolutely cannot pass by is the ceiling painting inside the haiden (worship hall)!
 Take off your shoes, step up into the worship hall (*you can enter by offering a donation/saisen while the shrine office is open between 9 AM and 5 PM), and casually look up at the ceiling... There, glaring down at you, is the overwhelmingly powerful **"Bokuryuzu" (Ink Dragon Painting)**, painted across a massive 350cm x 440cm board!
 
 This dragon was painted by the legendary artist **Yuichi Takahashi**, who would later be called the "Father of Western Painting in Japan" for his realistic oil paintings like "Salmon." When he painted this in 1847, he was still just 20 years old, leaving behind a signature (rakkan) named "Ransen," showing he had mastered the traditional ink painting techniques of the Kano school.
 
+<figure class="photo">
+<img src="/images/posts/hiroo-ceiling-640.webp" srcset="/images/posts/hiroo-ceiling-640.webp 640w, /images/posts/hiroo-ceiling-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="An ink painting of a dragon covering the ceiling of the worship hall, with clouds and the dragon&#x27;s body swirling across old wood grain">
+<figcaption>The ink dragon painting on the ceiling of the worship hall. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+This is the ink dragon painting spreading across the ceiling of the worship hall. The aged color of the boards and the dragon drawn in shades of ink overlap to create a powerful sight 🐉 Go inside and look up, and you can feel its presence up close.
+
 ### Why Was a Dragon Painted on the Ceiling?
 In Eastern lore, dragons possess the power of a water deity who "calls the clouds and makes it rain."
 Actually, two years before this worship hall was built (in 1845), there was a massive fire called the "Aoyama Fire," and the shrine building completely burned down. The local people and the young Yuichi poured their earnest wishes and prayers—"May this shrine never be engulfed in flames again!"—into this ink dragon, painting it as a guardian to ward off fires.
 
 When you meet the glaring gaze of the dragon drawn with powerful shades of ink, you'll feel a strong warding and fire-preventing (trouble avoidance) power that seems to forcefully drive away the fog in your heart and the seeds of any trouble!
+
+<figure class="photo">
+<img src="/images/posts/hiroo-carving-640.webp" srcset="/images/posts/hiroo-carving-640.webp 640w, /images/posts/hiroo-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="Wood carvings under the eaves of the worship hall, with a carved dragon head atop the right pillar and red-and-white cloths hanging below">
+<figcaption>Carvings under the eaves of the worship hall. Photo: 江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+Detailed carvings fill the space under the eaves of the worship hall, and a carved dragon's head can be found atop the pillar on the right 🐉 So there are dragons outside as well as the ink dragon on the ceiling — look up and try to find it.
 
 ## Highlight 3: Survived Huge Fires and Air Raids! The "Miracle Ginkgo" and its Astonishing Survival Power 🌳✨
 

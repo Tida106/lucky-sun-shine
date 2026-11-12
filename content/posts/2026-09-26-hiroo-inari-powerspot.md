@@ -26,21 +26,50 @@ draft: false
 昭和15年（1940年）に建てられた立派な石鳥居をくぐると、周囲の洗練された高級マンション群と、温もりのある木造社殿のコントラストに誰もがびっくりしちゃうはず！
 最新都市のグローバルなエネルギーと、江戸時代から続く土着の神聖な気が混ざり合うこの場所は、足を踏み入れるだけで日々のストレスやネガティブな気をスッキリ浄化してくれる最高の癒やし空間だよ☀️
 
+<figure class="photo">
+<img src="/images/posts/hiroo-torii-640.webp" srcset="/images/posts/hiroo-torii-640.webp 640w, /images/posts/hiroo-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="ビルに囲まれた通りに面して立つ石の鳥居。右に「廣尾神社」と刻まれた石柱、左に石灯籠と奉納芳名の掲示板がある">
+<figcaption>通りに面した廣尾稲荷神社の石鳥居。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+道路に面して立つ石鳥居の向こうに、境内の参道が続いています。右には「廣尾神社」と刻まれた石柱、左には大きな石灯籠があって、まわりにはイチョウや紅葉の木々も。建物のすぐ隣に神社が溶け込んでいるのが分かるよね☀️
+
 ### ☀️ 太陽ちゃんの開運フォトアドバイス
 境内の入り口から、どっしりとした石鳥居と巨大な常夜燈（石灯篭）、そして背景に映るモダンな高級マンションを一緒に写真に収めてみてね！歴史と現代の不思議な「ギャップパワー」がギュッと詰まった、映え＆開運写真が撮れちゃうよ✨
 
 ## 見どころ②：絶対に見てほしい！拝殿の天井に潜む「魔法の墨龍」🐉✨
+
+<figure class="photo">
+<img src="/images/posts/hiroo-shrine-640.webp" srcset="/images/posts/hiroo-shrine-640.webp 640w, /images/posts/hiroo-shrine-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="木々に囲まれた緑青色の屋根の拝殿と、左手前の手水舎。参道の両脇に石灯籠が立つ">
+<figcaption>木立に包まれた拝殿と手水舎。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+参道の先に拝殿、左手前に手水舎が見えます。緑青色の屋根のまわりを大きな木々が囲んでいて、ここが大都会の真ん中だということを忘れちゃいそう🌳 参拝の前に手水舎で手と口を清めようね。
+
 
 廣尾稲荷神社に参拝したら、絶対に素通りしちゃいけないのが拝殿（はいでん）の中にある天井画だよ！
 靴を脱いで拝殿に上がり（※社務所が開いている朝9時〜夕方5時の間に初穂料・お賽銭を納めて昇殿できるよ）、ふと天井を見上げると……そこには350cm×440cmもの巨大な板いっぱいに描かれた、圧倒的な大迫力の**「墨龍図（ぼくりゅうず）」**が睨みをきかせているの！
 
 この龍を描いたのは、のちに『鮭』などのリアルな油絵で「日本の洋画の父」と呼ばれることになる伝説の画家・**高橋由一（たかはし ゆいち）**さま。この絵を描いた弘化4年（1847年）当時、彼はまだ20歳という若さで、伝統的な水墨画（狩野派）の技術を極めた「藍川（らんせん）」という落款を残しているんだよ。
 
+<figure class="photo">
+<img src="/images/posts/hiroo-ceiling-640.webp" srcset="/images/posts/hiroo-ceiling-640.webp 640w, /images/posts/hiroo-ceiling-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="拝殿の天井いっぱいに墨で描かれた龍の絵。古い板の木目の上に、雲と龍の体が渦巻いている">
+<figcaption>拝殿の天井に描かれた墨龍図。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+こちらが拝殿の天井に広がる墨龍図です。長い年月を経た板の色合いと、墨の濃淡で描かれた龍が重なって、迫力満点だよ🐉 昇殿して見上げると、この存在感を間近で感じられます。
+
 ### どうして天井に龍が描かれたの？
 龍は東洋の伝承で「雲を呼び、雨を降らせる」水神様としての力を持っているの。
 実はね、この拝殿が建てられる2年前（1845年）に「青山火事」という大火災があって、神社のお堂が全焼しちゃったんだって。地域の人々と若き由一さまは、「二度とこの神社が火に包まれませんように！」という切実な願いと祈りを込めて、火災を払う守護としてこの水墨画の龍を描いたんだよ。
 
 力強い墨の濃淡で描かれた龍のギョロリとした眼力と出会うと、あなたの心のモヤモヤやトラブルの種をバシッと追い払ってくれるような、力強い厄除け・火除け（トラブル回避）パワーを感じられるよ！
+
+<figure class="photo">
+<img src="/images/posts/hiroo-carving-640.webp" srcset="/images/posts/hiroo-carving-640.webp 640w, /images/posts/hiroo-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="896" loading="lazy" decoding="async" alt="拝殿の軒下に施された木彫りの装飾。右の柱の上に龍の頭の彫刻があり、紅白の布が下がっている">
+<figcaption>拝殿の軒下の彫刻。 写真：江戸村のとくぞう／<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+拝殿の軒下には、細かな彫刻がびっしり。右の柱の上には、龍の頭の彫刻も見つかります🐉 天井の墨龍だけでなく、外側にも龍がいるんだね。ぜひ見上げて探してみてね。
 
 ## 見どころ③：大火事や空襲を生き延びた！「奇跡のイチョウ」と驚異のサバイバル・パワー🌳✨
 
