@@ -155,13 +155,6 @@ draft: false
 
 หน้าที่ล้างมือมีราวสีดำที่ผูกแถบกระดาษสีขาวไว้เต็มไปหมด บนกระเบื้องหลังคาก็มีตราดาวห้าแฉกด้วย เรียกว่ามีตรานี้อยู่ทุกที่เลยค่ะ⭐
 
-<figure class="photo">
-<img src="/images/posts/seimei-inari-640.webp" srcset="/images/posts/seimei-inari-640.webp 640w, /images/posts/seimei-inari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="โคมไฟเขียนว่า “天満” “斎稲荷社” “地主社” พร้อมเชือกระฆังสีทอง ด้านหลังมีศาลเล็ก และด้านขวามีแผ่นเอมะแขวนอยู่">
-<figcaption>หน้าศาลเล็ก 斎稲荷社 ภาพ: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
-</figure>
-
-ในบริเวณศาลเจ้ามีศาลเล็ก “斎稲荷社” ป้ายอธิบายระบุว่าเกี่ยวข้องกับการส่งเสริมอุตสาหกรรมและความปลอดภัยของอาหาร ทางขวามือมีแผ่นเอมะรูปดาวแขวนอยู่ด้วยค่ะ✨
-
 ---
 
 ## ☀️ เรื่องราวลึกลับและของที่ระลึกที่ผสานความโรแมนติกของประวัติศาสตร์กับวัฒนธรรมสมัยใหม่

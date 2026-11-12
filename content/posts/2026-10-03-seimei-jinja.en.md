@@ -162,13 +162,6 @@ At the purification fountain, a dragon statue pours water from its mouth. Cleans
 
 In front of the purification pavilion stand black racks tied with many white strips of paper. A star also appears on the roof tile above — the crest is used everywhere here ⭐
 
-<figure class="photo">
-<img src="/images/posts/seimei-inari-640.webp" srcset="/images/posts/seimei-inari-640.webp 640w, /images/posts/seimei-inari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="Lanterns reading &quot;天満,&quot; &quot;斎稲荷社&quot; and &quot;地主社,&quot; with a gold bell rope, a small shrine beyond and ema plaques at the right">
-<figcaption>In front of the auxiliary shrine 斎稲荷社. Photo: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
-</figure>
-
-Within the grounds stands the auxiliary Inari shrine 斎稲荷社. Its information board says it is associated with promoting industry and food safety. Star-shaped ema plaques are lined up at the right too ✨
-
 ---
 
 ## ☀️ Mysterious Episodes and Charms Where Historical Romance Meets Modern Culture

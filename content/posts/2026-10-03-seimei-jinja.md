@@ -159,13 +159,6 @@ draft: false
 
 手水舎の前には、白い紙がたくさん結ばれた黒い掛け台が並んでいます。屋根の瓦にも五芒星が見えて、ここでも星の紋があちこちに使われているんだね⭐
 
-<figure class="photo">
-<img src="/images/posts/seimei-inari-640.webp" srcset="/images/posts/seimei-inari-640.webp 640w, /images/posts/seimei-inari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="提灯に「天満」「斎稲荷社」「地主社」と書かれ、金色の鈴の綱が下がる。奥に小さな社が見え、右に絵馬が並ぶ">
-<figcaption>末社・斎稲荷社の前。 写真：Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（リサイズ）</figcaption>
-</figure>
-
-境内には末社の「斎稲荷社」があります。案内板には、産業振興・食品安全のご神徳があると書かれています。右手には星形の絵馬も並んでいますよ✨
-
 ---
 
 ## ☀️ 歴史のロマンと現代カルチャーが交差する神秘のエピソード＆授与品

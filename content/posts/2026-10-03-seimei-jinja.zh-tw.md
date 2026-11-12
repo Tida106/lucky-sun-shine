@@ -159,13 +159,6 @@ draft: false
 
 手水舍前排著綁滿白色紙條的黑色掛架。屋頂的瓦片上也有星形紋章，這裡到處都用上了這個紋章⭐
 
-<figure class="photo">
-<img src="/images/posts/seimei-inari-640.webp" srcset="/images/posts/seimei-inari-640.webp 640w, /images/posts/seimei-inari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="寫有「天満」「斎稲荷社」「地主社」的燈籠與金色鈴繩，後方可見小社殿，右側掛著繪馬">
-<figcaption>末社斎稲荷社前。 攝影：Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（調整尺寸）</figcaption>
-</figure>
-
-境內有末社「斎稲荷社」。說明牌上寫著祂具有產業振興與食品安全的神德。右手邊也掛著星形的繪馬✨
-
 ---
 
 ## ☀️ 歷史浪漫與現代文化交織的神秘故事與授與品
