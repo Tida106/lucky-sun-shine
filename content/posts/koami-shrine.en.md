@@ -18,11 +18,11 @@ Today I want to introduce you to **Koami Shrine**, tucked away in the heart of T
 Its grounds cover barely 20 tsubo (about 66 square meters)! Squeezed between two buildings, it feels like time itself stands still the moment you step inside, wrapped in a strange, warm calm.
 
 <figure class="photo">
-<img src="/images/posts/koami-shrine-dusk-1200.webp" srcset="/images/posts/koami-shrine-dusk-640.webp 640w, /images/posts/koami-shrine-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1365" loading="lazy" decoding="async" alt="Koami Shrine at dusk: a stone torii with a thick shimenawa rope between glowing paper lanterns and white banners, with the shrine building behind">
-<figcaption>The torii and shrine building at dusk, with the lanterns lit. Photo: Beryllium Transistor／<a href="https://commons.wikimedia.org/wiki/File:Koami_jinja.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+<img src="/images/posts/koami-shrine-main-1200.webp" srcset="/images/posts/koami-shrine-main-640.webp 640w, /images/posts/koami-shrine-main-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="849" loading="lazy" decoding="async" alt="A stone torii with a thick shimenawa rope and paper lanterns reading "Koami Shrine", with the shrine building and offering box behind">
+<figcaption>Koami Shrine's torii and shrine building, seen from the front. Photo: まるう／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a> (resized)</figcaption>
 </figure>
 
-This is the front of the little precinct squeezed between buildings. A thick shimenawa rope hangs across the stone torii, and white banners bearing words such as "Benzaiten" and "Fukurokuju" stand on both sides along with paper lanterns. When the lanterns light up at dusk, the air feels wonderfully calm — hard to believe you're in the middle of the city ☀️
+From the front, a blue-green plaque hangs at the center of the stone torii and a thick shimenawa rope sweeps across it in a wide arc. Paper lanterns reading "Koami Shrine" stand on both sides, with a rack of ema plaques and an information board to the right — the air is so calm you would never guess the shrine is squeezed between buildings ☀️ The offering box and the shrine building can be seen beyond.
 
 Why has such a warm, historic sanctuary survived right in the middle of a modern metropolis? The answer lies in an incredible survival story that has earned this shrine its reputation as one of Japan's most powerful spiritual sites.
 

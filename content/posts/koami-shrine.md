@@ -16,11 +16,11 @@ tags: ["金運財布", "金運", "強運厄除け", "東京"]
 なんと敷地面積はたったの約20坪（お部屋で言うと約66平方メートルほど）！ビルとビルの谷間にちょこんと挟まれるように鎮座しているんだけど、一歩足を踏み入れると、まるで時が止まったかのような不思議なぬくもりと静けさに包まれるんだよ。
 
 <figure class="photo">
-<img src="/images/posts/koami-shrine-dusk-1200.webp" srcset="/images/posts/koami-shrine-dusk-640.webp 640w, /images/posts/koami-shrine-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1365" loading="lazy" decoding="async" alt="夕暮れの小網神社。灯りのともる提灯と白い幟の間に、注連縄の掛かった石の鳥居と社殿が見える">
-<figcaption>夕暮れに灯りがともる、小網神社の鳥居と社殿。 写真：Beryllium Transistor／<a href="https://commons.wikimedia.org/wiki/File:Koami_jinja.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+<img src="/images/posts/koami-shrine-main-1200.webp" srcset="/images/posts/koami-shrine-main-640.webp 640w, /images/posts/koami-shrine-main-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="849" loading="lazy" decoding="async" alt="石の鳥居に掛かる太い注連縄と、「小網神社」の文字が入った提灯。奥に社殿と賽銭箱が見える">
+<figcaption>小網神社の鳥居と社殿を正面から。 写真：まるう／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a>（リサイズ）</figcaption>
 </figure>
 
-ビルに挟まれた小さな境内の正面は、こんな雰囲気だよ。石の鳥居には太い注連縄が掛かり、両脇には「弁財天」「福禄寿」などの文字が入った白い幟と、提灯が並んでいます。夕暮れどきには提灯に灯りがともって、街なかとは思えないほっとする空気になるんだね☀️
+正面から見ると、石の鳥居の中央に青緑色の額が掲げられ、太い注連縄が大きく弧を描いています。両脇には「小網神社」と書かれた提灯が並び、右手には絵馬掛けと案内板があって、ビルに挟まれた場所とは思えないほど落ち着いた空気が流れているんだよ☀️ 奥には賽銭箱と社殿が見えます。
 
 近代的な大都会の真ん中に、なぜこんなにも温かくて歴史ある聖域が残っているんだろう？実はここ、**「どんな大ピンチも跳ね返してきた奇跡のサバイバル史実」**を持つ、日本屈指のパワースポットなんだよ！
 

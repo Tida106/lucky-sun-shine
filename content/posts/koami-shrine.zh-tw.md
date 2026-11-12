@@ -16,11 +16,11 @@ tags: ["金運錢包", "金運", "強運除厄", "東京"]
 敷地面積竟然只有大約20坪（換算成房間的話，大概是66平方公尺左右）！就這樣小小地夾在大樓與大樓之間，但只要一踏進去，就會被一種彷彿時間靜止般、不可思議的溫暖與靜謐所包圍。
 
 <figure class="photo">
-<img src="/images/posts/koami-shrine-dusk-1200.webp" srcset="/images/posts/koami-shrine-dusk-640.webp 640w, /images/posts/koami-shrine-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1365" loading="lazy" decoding="async" alt="黃昏時的小網神社。掛著注連繩的石造鳥居位於亮燈的燈籠與白色旗幟之間，後方可見社殿">
-<figcaption>黃昏時燈籠亮起的鳥居與社殿。 攝影：Beryllium Transistor／<a href="https://commons.wikimedia.org/wiki/File:Koami_jinja.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+<img src="/images/posts/koami-shrine-main-1200.webp" srcset="/images/posts/koami-shrine-main-640.webp 640w, /images/posts/koami-shrine-main-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="849" loading="lazy" decoding="async" alt="石造鳥居上掛著粗粗的注連繩，兩側的燈籠寫有「小網神社」，後方可見社殿與賽錢箱">
+<figcaption>從正面看小網神社的鳥居與社殿。 攝影：まるう／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a>（調整尺寸）</figcaption>
 </figure>
 
-這就是夾在大樓之間的小小境內正面的模樣。石造鳥居上掛著粗粗的注連繩，兩側立著寫有「弁財天」「福祿壽」等字樣的白色旗幟，並排著燈籠。黃昏時燈籠亮起，整個空間瀰漫著讓人安心的氛圍，完全不像身處鬧區之中☀️
+從正面望去，石造鳥居中央掛著青綠色的匾額，粗粗的注連繩拉出一道大弧線。兩側並排著寫有「小網神社」的燈籠，右手邊有繪馬架與說明牌，氣氛沉靜，完全不像位在大樓之間☀️ 後方可以看見賽錢箱與社殿。
 
 為什麼在這麼現代化的大都會正中央，會留下如此溫暖又充滿歷史的聖域呢？其實，這裡擁有**「無論遇到多大的危機都能奇蹟般存活下來的史實」**，是日本數一數二的能量景點喲！
 
