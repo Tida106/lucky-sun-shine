@@ -56,7 +56,7 @@ This dragon was painted by the legendary artist **Yuichi Takahashi**, who would 
 
 <figure class="photo">
 <img src="/images/posts/hiroo-sumiryu-640.webp" srcset="/images/posts/hiroo-sumiryu-640.webp 640w, /images/posts/hiroo-sumiryu-1063.webp 1063w" sizes="(min-width: 768px) 720px, 100vw" width="1063" height="829" loading="lazy" decoding="async" alt="The full ink dragon painted on the ceiling boards of the worship hall, with the artist&#x27;s signature visible at the left">
-<figcaption>The full ink dragon painting on the worship hall ceiling, by Takahashi Yuichi. Painting: Takahashi Yuichi／Image: <a href="https://commons.wikimedia.org/wiki/User:Maculosae_tegmine_lyncis" rel="noopener" target="_blank">Wikimedia Commons</a> (public domain)</figcaption>
+<figcaption>The full ink dragon painting on the worship hall ceiling, by Takahashi Yuichi. Painting: Takahashi Yuichi／Image: <a href="https://commons.wikimedia.org/wiki/File:Dragon_by_Takahashi_Yuichi_(Hiroo_Inari_Shrine_Minato).jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (public domain)</figcaption>
 </figure>
 
 Here is the whole ink dragon painting. Using the wood grain of the boards, the dragon's eyes, scales and coiling body are drawn in shades of ink 🐉 You can also see the artist's signature at the left.

@@ -53,7 +53,7 @@ draft: false
 
 <figure class="photo">
 <img src="/images/posts/hiroo-sumiryu-640.webp" srcset="/images/posts/hiroo-sumiryu-640.webp 640w, /images/posts/hiroo-sumiryu-1063.webp 1063w" sizes="(min-width: 768px) 720px, 100vw" width="1063" height="829" loading="lazy" decoding="async" alt="拝殿の天井板に墨で描かれた龍の全体図。左側に落款の文字が見える">
-<figcaption>高橋由一が描いた拝殿天井の墨龍図（全体）。 作：高橋由一／画像：<a href="https://commons.wikimedia.org/wiki/User:Maculosae_tegmine_lyncis" rel="noopener" target="_blank">Wikimedia Commons</a>（パブリックドメイン）</figcaption>
+<figcaption>高橋由一が描いた拝殿天井の墨龍図（全体）。 作：高橋由一／画像：<a href="https://commons.wikimedia.org/wiki/File:Dragon_by_Takahashi_Yuichi_(Hiroo_Inari_Shrine_Minato).jpg" rel="noopener" target="_blank">Wikimedia Commons</a>（パブリックドメイン）</figcaption>
 </figure>
 
 こちらが墨龍図の全体像です。板の木目を生かして、龍の眼や鱗、うねる体が墨の濃淡で描かれています🐉 左側には、由一が残した落款の文字も見えるよ。
