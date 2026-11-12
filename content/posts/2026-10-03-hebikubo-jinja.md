@@ -14,6 +14,13 @@ draft: false
 
 今回は、東京・品川の閑静な住宅街に佇む、いま全国から参拝者が集まる注目のパワースポット**「蛇窪神社（へびくぼじんじゃ／正式名称：上神明天祖神社）」**をご紹介します！
 
+<figure class="photo">
+<img src="/images/posts/hebikubo-torii-640.webp" srcset="/images/posts/hebikubo-torii-640.webp 640w, /images/posts/hebikubo-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明るい木の色の鳥居。中央の額に「蛇窪神社」とあり、注連縄と房が下がる。参道の両脇に石灯籠とのぼりが並び、葉を落とした冬の木々が囲んでいる">
+<figcaption>蛇窪神社の入口の鳥居（2020年1月撮影）。 写真：東京特許許可局／<a href="https://commons.wikimedia.org/wiki/User:%E6%9D%B1%E4%BA%AC%E7%89%B9%E8%A8%B1%E8%A8%B1%E5%8F%AF%E5%B1%80" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+鳥居の額には「蛇窪神社」の文字があり、注連縄には金色の房が下がっています。両脇には「初詣」ののぼりや石灯籠が並び、まっすぐ延びる参道の先に境内が続いています。住宅街の中にあるので、街歩きの途中でふらっと立ち寄れる気軽さも魅力だよ☀️
+
 蛇窪神社は、単なる表面的な金運神社ではありません。かつてこの地一帯は豊かな湧水に恵まれ「蛇窪（へびくぼ）」と呼ばれており、古くから水や蛇に対する畏敬と信仰が大切に育まれてきました。
 
 鎌倉時代の元亨2年（1322年）、武蔵国一帯を襲った大干ばつの折、厳粛な雨乞いの祈願によって恵みの雨を降らせ町を救った**「龍神様」の伝説**や、時代の変化で住処を失った白蛇様が地元の名主の夢枕に現れて「元の場所へ戻りたい」と願った**「白蛇様の里帰り伝承」**など、地域の人々の温かい愛と信仰によって大切に守り継がれてきた歴史があるんです。

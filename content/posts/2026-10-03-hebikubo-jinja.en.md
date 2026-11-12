@@ -17,6 +17,13 @@ To everyone who's been thinking, "My luck has felt kind of stuck lately..." or "
 
 This time, I'm introducing **Hebikubo Shrine (Hebikubo Jinja, officially known as Kami-Shinmei Tenso Shrine)**, a spot nestled in a quiet residential neighborhood in Shinagawa, Tokyo, that's now drawing visitors from all over the country.
 
+<figure class="photo">
+<img src="/images/posts/hebikubo-torii-640.webp" srcset="/images/posts/hebikubo-torii-640.webp 640w, /images/posts/hebikubo-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A light-colored wooden torii with a plaque reading &quot;Hebikubo Jinja&quot; and a rope with tassels. Stone lanterns and banners line the approach, framed by bare winter trees">
+<figcaption>The torii at the entrance of Hebikubo Shrine (photographed in January 2020). Photo: 東京特許許可局／<a href="https://commons.wikimedia.org/wiki/User:%E6%9D%B1%E4%BA%AC%E7%89%B9%E8%A8%B1%E8%A8%B1%E5%8F%AF%E5%B1%80" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
+The plaque on the torii reads "Hebikubo Jinja," and golden tassels hang from the sacred rope. Stone lanterns and New Year's visit banners line both sides of the straight approach leading into the grounds. Since the shrine sits in a quiet residential neighborhood, it's easy to drop by while strolling around Shinagawa ☀️
+
 Hebikubo Shrine isn't just a surface-level money luck shrine. This entire area was once blessed with abundant natural springs and was called "Hebikubo" (literally "snake hollow"), and a deep reverence and faith in water and snakes has been carefully nurtured here since ancient times.
 
 There's a **legend of the Dragon God**, who answered solemn prayers for rain during the great drought that struck the Musashi region in 1322 (the Genko era of the Kamakura period), bringing blessed rain to save the town. There's also the **legend of the White Snake's homecoming**, in which a White Snake deity, having lost its dwelling due to the changing times, appeared in a local village elder's dream, wishing to "return to its original home." These stories have been carefully passed down through the warm love and faith of the local people.
