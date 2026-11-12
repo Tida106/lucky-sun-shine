@@ -139,6 +139,13 @@ draft: false
 あぐらをかいて座る晴明公の像は、どこか親しみやすい表情をしています。足の裏までていねいに作られていて、じっくり見たくなるね☀️
 
 <figure class="photo">
+<img src="/images/posts/seimei-chozuya-640.webp" srcset="/images/posts/seimei-chozuya-640.webp 640w, /images/posts/seimei-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="屋根の棟に星の紋が並ぶ手水舎。竹の樋と龍の像のある石の水盤があり、右奥に晴明井、左に掛け台が見える">
+<figcaption>晴明神社の手水舎。 写真：Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（リサイズ）</figcaption>
+</figure>
+
+手水舎の屋根の棟には、金色の五芒星が3つ並んでいます。水盤の奥には龍の像があり、右手には「晴明井」と刻まれた井戸も見えて、すぐ隣り合っていることが分かるね☀️
+
+<figure class="photo">
 <img src="/images/posts/seimei-dragon-640.webp" srcset="/images/posts/seimei-dragon-640.webp 640w, /images/posts/seimei-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="手水舎の竹の樋の上で、口から水を注ぐ黒い青銅の龍の像と柄杓">
 <figcaption>手水舎の龍。 写真：nekonomania／<a href="https://www.flickr.com/photos/50093642@N03/4791112318/" rel="noopener" target="_blank">Flickr</a>、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（リサイズ）</figcaption>
 </figure>

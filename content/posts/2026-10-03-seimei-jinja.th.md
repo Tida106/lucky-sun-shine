@@ -135,6 +135,13 @@ draft: false
 รูปปั้นท่านเซเมอิที่นั่งขัดสมาธิมีสีหน้าดูเป็นกันเอง แม้แต่ฝ่าเท้าก็ปั้นไว้อย่างละเอียด ชวนให้ยืนมองนาน ๆ ค่ะ☀️
 
 <figure class="photo">
+<img src="/images/posts/seimei-chozuya-640.webp" srcset="/images/posts/seimei-chozuya-640.webp 640w, /images/posts/seimei-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="ที่ล้างมือที่มีตราดาวห้าแฉกเรียงบนสันหลังคา มีอ่างหินพร้อมท่อไม้ไผ่และรูปปั้นมังกร ด้านขวาหลังเป็นบ่อน้ำเซเมอิ ด้านซ้ายมีราวแขวน">
+<figcaption>ที่ล้างมือของศาลเจ้าเซเมอิ ภาพ: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+บนสันหลังคาที่ล้างมือมีดาวห้าแฉกสีทองเรียงกันสามดวง หลังอ่างหินมีรูปปั้นมังกร และทางขวามือเห็นบ่อน้ำที่สลักคำว่า “晴明井” อยู่ติดกันเลยค่ะ☀️
+
+<figure class="photo">
 <img src="/images/posts/seimei-dragon-640.webp" srcset="/images/posts/seimei-dragon-640.webp 640w, /images/posts/seimei-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="รูปปั้นมังกรสัมฤทธิ์สีดำที่พ่นน้ำจากปากเหนือท่อไม้ไผ่ของที่ล้างมือ พร้อมกระบวย">
 <figcaption>มังกรที่จุดล้างมือ ภาพ: nekonomania／<a href="https://www.flickr.com/photos/50093642@N03/4791112318/" rel="noopener" target="_blank">Flickr</a>、<a href="https://creativecommons.org/licenses/by/2.0/deed.th" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
 </figure>

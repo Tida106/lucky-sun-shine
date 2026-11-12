@@ -139,6 +139,13 @@ draft: false
 盤腿而坐的晴明公像，神情有種親切感。連腳底都細心雕塑，讓人忍不住想仔細端詳☀️
 
 <figure class="photo">
+<img src="/images/posts/seimei-chozuya-640.webp" srcset="/images/posts/seimei-chozuya-640.webp 640w, /images/posts/seimei-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="屋脊排列著星形紋章的手水舍，內有附竹管與龍像的石水盤，右後方是晴明井，左側有掛架">
+<figcaption>晴明神社的手水舍。 攝影：Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
+手水舍屋脊上排列著三個金色五芒星。水盤後方有龍像，右手邊還能看到刻著「晴明井」的水井，兩者就在隔壁☀️
+
+<figure class="photo">
 <img src="/images/posts/seimei-dragon-640.webp" srcset="/images/posts/seimei-dragon-640.webp 640w, /images/posts/seimei-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="手水舍竹管上方由口中吐水的黑色青銅龍像與水杓">
 <figcaption>手水舍的龍。 攝影：nekonomania／<a href="https://www.flickr.com/photos/50093642@N03/4791112318/" rel="noopener" target="_blank">Flickr</a>、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 2.0</a>（調整尺寸）</figcaption>
 </figure>

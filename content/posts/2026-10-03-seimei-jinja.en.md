@@ -142,6 +142,13 @@ Up close, you can spot gold five-pointed stars on the roof ornaments too ✨ Mul
 The seated statue of Lord Seimei has a friendly, approachable expression. Even the soles of his feet are carefully modeled, so it's worth taking a good look ☀️
 
 <figure class="photo">
+<img src="/images/posts/seimei-chozuya-640.webp" srcset="/images/posts/seimei-chozuya-640.webp 640w, /images/posts/seimei-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="The purification pavilion with star crests along the roof ridge, a stone basin with bamboo pipes and a dragon statue, Seimei Well at the right and racks at the left">
+<figcaption>The purification pavilion at Seimei Shrine. Photo: Hyppolyte de Saint-Rambert／<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+Three gold five-pointed stars line the ridge of the pavilion roof. A dragon statue sits behind the basin, and at the right you can see the well carved with 晴明井 — Seimei Well stands right beside it ☀️
+
+<figure class="photo">
 <img src="/images/posts/seimei-dragon-640.webp" srcset="/images/posts/seimei-dragon-640.webp 640w, /images/posts/seimei-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A dark bronze dragon pouring water from its mouth above the bamboo pipes of the purification fountain, with a ladle">
 <figcaption>The dragon at the purification fountain. Photo: nekonomania／<a href="https://www.flickr.com/photos/50093642@N03/4791112318/" rel="noopener" target="_blank">Flickr</a>、<a href="https://creativecommons.org/licenses/by/2.0/deed" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
 </figure>
