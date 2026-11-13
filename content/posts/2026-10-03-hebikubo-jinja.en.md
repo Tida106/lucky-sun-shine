@@ -36,6 +36,13 @@ Hebikubo Shrine is home to two great powers: the **White Snake deity, who sheds 
 
 A snake's "shedding of its skin" is a symbol of "rebirth and resetting"—casting off your old self and being born anew. Here, let's introduce the spots that will help elevate yourself and free you from career worries or a cluttered mind!
 
+<figure class="photo">
+<img src="/images/posts/hebikubo-yumemi-640.webp" srcset="/images/posts/hebikubo-yumemi-640.webp 640w, /images/posts/hebikubo-yumemi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Two coiled stone snake statues flank a vermilion bridge, which leads to a small wooden shrine with a rock-and-waterfall backdrop">
+<figcaption>A vermilion bridge in the grounds, watched over by stone snake statues on both sides. Photo: 海川凛太朗／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a> (resized)</figcaption>
+</figure>
+
+The railing of the vermilion bridge bears the name "Yumemi Bridge." Coiled stone snakes greet visitors on both sides, and beyond them stands a small wooden shrine with water trickling down the rocks behind it. It's a quiet corner that hardly feels like it sits among the buildings of the city ☀️
+
 ### Nade-Shirohebi (The Petting White Snake)
 * **【Features】:** Waiting for you just past the torii gate is a beautiful, smooth stone statue of two White Snake deities gently wrapped around a golden sacred jewel. You can pray while petting it directly with your hands.
 * **【Deep Background and Origins】:** From the snake's habit of regularly shedding its skin, it has long been believed, in animism and Shinto alike, to hold powerful spiritual energy for "purification, rebirth, and recovery from illness." The two snakes also represent a devoted married couple (the larger one female, the smaller one male), and are said to bring blessings for household harmony and good relationships, as well as for "rekindling a lost connection" by mending a once-broken bond.
