@@ -39,6 +39,13 @@ Today, Sun-chan is going to walk you through its deep history and highlights!
 * **Sun-chan's recommendation:** I wholeheartedly recommend this shrine to anyone facing a major life challenge, or feeling anxious about an unlucky year or a big change in their life. No matter how fierce the storm, this shrine's warm, gentle light will protect you and give you the courage to keep moving forward.
 
 <figure class="photo">
+<img src="/images/posts/koami-shrine-omamori-1200.webp" srcset="/images/posts/koami-shrine-omamori-640.webp 640w, /images/posts/koami-shrine-omamori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1275" loading="lazy" decoding="async" alt="A purple-and-gold brocade amulet (left) and a card-style amulet in a clear case (right), both marked "Koami Shrine", "strong luck and protection" and "omamori"">
+<figcaption>Examples of amulets given out at the shrine: a pouch type (left) and a card type (right). Photo: Lucky Sun Shine (taken by the author)</figcaption>
+</figure>
+
+The pouch-style amulet is woven in purple with gold thread, and the card type on the right uses the same colors. Types and availability can change, so check at the amulet office when you visit.
+
+<figure class="photo">
 <img src="/images/posts/koami-shrine-front-1200.webp" srcset="/images/posts/koami-shrine-front-640.webp 640w, /images/posts/koami-shrine-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="A stone torii between white banners and lanterns, with a layered-roof shrine building topped with gold ornaments behind it">
 <figcaption>Gold ornaments gleam on the layered roof above the torii. Photo: Ken Marshall／<a href="https://commons.wikimedia.org/wiki/File:Koami_Shrine_Nihonbashi-Koamich%C5%8D_Tokyo_-_Feb_10_2026.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
 </figure>
@@ -51,6 +58,13 @@ Looking up from in front of the torii, you can see gold ornaments glinting at th
 * **What makes it special?** At the "money-washing well" on the grounds, you can place coins — or even real 10,000-yen notes! — in a bamboo basket and rinse them in the pure water. Money washed here is called "seed money," and keeping it safely in your wallet is said to attract new wealth and abundance.
 * **Where does this power come from?** The shrine enshrines Ichikishima-hime-no-kami, better known as Benzaiten, goddess of wealth and the arts. Washing money isn't just about making more of it — it carries a deeper meaning: cleansing away the tiredness and attachment that build up as money circulates through the world, and restoring it to its original, pure energy of abundance. Because the shrine sits right next to Nihonbashi Kabutocho, Tokyo's financial district, many securities professionals, businesspeople, and executives stop by on their lunch break to center themselves and circulate their money with a spirit of gratitude.
 * **Sun-chan's recommendation:** Perfect for anyone hoping to boost their money luck, wanting a more positive mindset at work, or simply wanting to say thank you to the money that comes their way. Gently washing your money tends to leave your mind feeling just as refreshed and clear.
+
+<figure class="photo">
+<img src="/images/posts/koami-shrine-zeniarai-1024.webp" srcset="/images/posts/koami-shrine-zeniarai-640.webp 640w, /images/posts/koami-shrine-zeniarai-1024.webp 1024w" sizes="(min-width: 768px) 720px, 100vw" width="1024" height="1024" loading="lazy" decoding="async" alt="A ten-thousand-yen bill on a bamboo basket with water running over granite, a hand holding the basket at the left">
+<figcaption>Washing money in a bamboo basket with flowing water (zeniarai). Photo: らっこ家／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a></figcaption>
+</figure>
+
+This gives you a feel for zeniarai, rinsing money in water. Follow the shrine's own guidance for how it is done and what you may wash.
 
 <figure class="photo">
 <img src="/images/posts/koami-shrine-shop-1200.webp" srcset="/images/posts/koami-shrine-shop-640.webp 640w, /images/posts/koami-shrine-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A large "Koami Shrine" sign above the amulet office, with a torii visible at the right">

@@ -37,6 +37,13 @@ tags: ["金運財布", "金運", "強運厄除け", "東京"]
 * **太陽ちゃんのイチオシ解説：** 「人生の大きな壁にぶつかっている人」や「厄年・環境の変化で不安を抱えている人」に太陽ちゃんが全力でオススメするよ☀️！どんな激しい嵐が吹き荒れても、優しく温かい光であなたを守り抜き、前を向く勇気を授けてくれる頼もしい守護パワーだよ💛
 
 <figure class="photo">
+<img src="/images/posts/koami-shrine-omamori-1200.webp" srcset="/images/posts/koami-shrine-omamori-640.webp 640w, /images/posts/koami-shrine-omamori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1275" loading="lazy" decoding="async" alt="紫と金の織りの御守（左）と、透明ケース入りのカード型御守（右）。どちらにも「小網神社」「強運厄除」「御守」の文字が見える">
+<figcaption>授与されるお守りの一例。左は袋型、右はカード型。 写真：Lucky Sun Shine（筆者撮影）</figcaption>
+</figure>
+
+袋型の御守には、紫地に金糸が光る織りで「小網神社」「強運厄除」「御守」の文字が入っています。右はカード型で、同じ紫と金の配色。お守りの種類や授与の有無は変わることがあるので、参拝時に授与所で確認してね💛
+
+<figure class="photo">
 <img src="/images/posts/koami-shrine-front-1200.webp" srcset="/images/posts/koami-shrine-front-640.webp 640w, /images/posts/koami-shrine-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="白い幟と提灯に挟まれた石の鳥居と、金色の飾りがついた重なる屋根の社殿">
 <figcaption>金色の飾りが光る重なる屋根と、注連縄の掛かる鳥居。 写真：Ken Marshall／<a href="https://commons.wikimedia.org/wiki/File:Koami_Shrine_Nihonbashi-Koamich%C5%8D_Tokyo_-_Feb_10_2026.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（リサイズ）</figcaption>
 </figure>
@@ -49,6 +56,13 @@ tags: ["金運財布", "金運", "強運厄除け", "東京"]
 * **どんな特徴？：** 境内にある「銭洗いの井」では、竹ざるにお金（硬貨や本物の1万円札！）を乗せ、清らかな水で洗い清めることができます。ここで洗ったお金は**「種銭（たねせん）」**と呼ばれ、お財布に大切に保管しておくことで、新たなお金や豊かさを呼び寄せてくれると言われているよ。
 * **なぜ生まれたの？（深い背景）：** ここには市杵島比賣神（いちきしまひめのかみ＝弁財天様）が祀られています。お金を洗う行為は、単にお金を増やすためだけではなく、「世の中を巡るうちについた日々の執着や疲れたエネルギーを清らかな水で流し、本来の純粋な豊かさのエネルギーに戻す」という温かい感謝と思想が込められているんだよ✨ 隣接する日本の金融街（日本橋兜町）で働く証券会社の方やビジネスマン、経営者の方々も、日々の仕事の中で心を整え、感謝の気持ちでお金を循環させるために、お昼休みなどに参拝に訪れているんだね。
 * **太陽ちゃんのイチオシ解説：** 「金運をアップさせたい！」という人はもちろん、「毎日のお仕事をもっと前向きにがんばりたい人」や「自分の元に来てくれたお金に感謝したい人」にぴったり💛 お金を優しく洗い清めると、心までスッキリ洗われて清々しい気持ちになれるよ☀️✨
+
+<figure class="photo">
+<img src="/images/posts/koami-shrine-zeniarai-1024.webp" srcset="/images/posts/koami-shrine-zeniarai-640.webp 640w, /images/posts/koami-shrine-zeniarai-1024.webp 1024w" sizes="(min-width: 768px) 720px, 100vw" width="1024" height="1024" loading="lazy" decoding="async" alt="竹ざるに載せた一万円札に、御影石の上から水が流れている様子。左から手が添えられている">
+<figcaption>竹ざるにお札をのせて水で洗い清める様子（銭洗い）。 写真：らっこ家／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a>（リサイズ）</figcaption>
+</figure>
+
+ざるにのせたお札に水を流して清める「銭洗い」のイメージだよ☀️ 実際の作法や使えるものは神社の案内に従ってね。
 
 <figure class="photo">
 <img src="/images/posts/koami-shrine-shop-1200.webp" srcset="/images/posts/koami-shrine-shop-640.webp 640w, /images/posts/koami-shrine-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="「小網神社」の大きな看板と、お守りの案内が並ぶ授与所の窓口。右奥に鳥居が見える">

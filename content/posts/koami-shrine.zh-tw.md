@@ -37,6 +37,13 @@ tags: ["金運錢包", "金運", "強運除厄", "東京"]
 * **太陽醬的強力推薦：** 太陽醬要全力推薦給「正面臨人生重大難關的人」，以及「因為本命年或環境變化而感到不安的人」喲☀️！無論吹起多猛烈的暴風雨，這裡都會用溫柔溫暖的光芒守護著你，賜予你勇敢向前邁進的力量💛
 
 <figure class="photo">
+<img src="/images/posts/koami-shrine-omamori-1200.webp" srcset="/images/posts/koami-shrine-omamori-640.webp 640w, /images/posts/koami-shrine-omamori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1275" loading="lazy" decoding="async" alt="紫底金線織紋的御守（左）與透明套中的卡片型御守（右），皆有「小網神社」「強運厄除」「御守」字樣">
+<figcaption>神社授與的御守範例：左為袋型，右為卡片型。 攝影：Lucky Sun Shine（作者拍攝）</figcaption>
+</figure>
+
+袋型御守以紫色搭配金線織紋，右側卡片型也是相同配色。御守的種類與是否授與可能會變動，參拜時請在授與所確認。
+
+<figure class="photo">
 <img src="/images/posts/koami-shrine-front-1200.webp" srcset="/images/posts/koami-shrine-front-640.webp 640w, /images/posts/koami-shrine-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="白色旗幟與燈籠之間的石造鳥居，後方是屋頂層層重疊、裝飾著金色飾品的社殿">
 <figcaption>層層重疊的屋頂上，金色飾品閃閃發亮。 攝影：Ken Marshall／<a href="https://commons.wikimedia.org/wiki/File:Koami_Shrine_Nihonbashi-Koamich%C5%8D_Tokyo_-_Feb_10_2026.jpg" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（調整尺寸）</figcaption>
 </figure>
@@ -49,6 +56,13 @@ tags: ["金運錢包", "金運", "強運除厄", "東京"]
 * **有什麼特別之處？：** 境內的「銭洗之井」，可以將金錢（硬幣或真正的1萬日圓紙鈔！）放在竹篩上，用清澈的水清洗。在這裡洗過的錢被稱為**「種錢（たねせん）」**，珍惜地保存在錢包裡，相傳能吸引新的金錢與豐盛前來。
 * **為什麼會有這樣的力量呢？（深層背景）：** 這裡供奉著市杵島比賣神（いちきしまひめのかみ＝弁財天様）。清洗金錢這個行為，並不只是單純為了讓錢變多，而是蘊含著「將在世間流轉時沾染上的日常執著與疲憊能量，用清澈的水洗去，恢復成原本純粹豐盛的能量」這樣溫暖的感謝與思想喲✨ 鄰近的日本金融街（日本橋兜町）的證券公司員工、商務人士、經營者們，也常常會在午休時間前來參拜，整頓自己的心情，懷著感謝之心讓金錢循環流動。
 * **太陽醬的強力推薦：** 當然很適合「想提升金運！」的人，也很適合「想更積極地面對每天工作的人」或「想對來到自己身邊的錢表達感謝的人」💛 溫柔地清洗金錢的同時，連心情也會跟著被洗淨，變得清爽舒暢喲☀️✨
+
+<figure class="photo">
+<img src="/images/posts/koami-shrine-zeniarai-1024.webp" srcset="/images/posts/koami-shrine-zeniarai-640.webp 640w, /images/posts/koami-shrine-zeniarai-1024.webp 1024w" sizes="(min-width: 768px) 720px, 100vw" width="1024" height="1024" loading="lazy" decoding="async" alt="竹篩上的一萬日圓鈔票，水從花崗岩上流過，左側有一隻手扶著竹篩">
+<figcaption>將紙鈔放在竹篩上以水清洗的情景（銭洗）。 攝影：らっこ家／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a></figcaption>
+</figure>
+
+這是「銭洗」的示意畫面：把錢放在竹篩上，用水洗淨。實際作法與可清洗的物品，請依神社現場的說明為準。
 
 <figure class="photo">
 <img src="/images/posts/koami-shrine-shop-1200.webp" srcset="/images/posts/koami-shrine-shop-640.webp 640w, /images/posts/koami-shrine-shop-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="寫著「小網神社」的大看板與張貼著御守介紹的授與所窗口，右後方可見鳥居">
