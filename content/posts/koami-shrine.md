@@ -71,6 +71,13 @@ tags: ["金運財布", "金運", "強運厄除け", "東京"]
 
 道に面した授与所の看板には、「強運厄除の神・東京銭洗い弁天の社」と書かれています。窓口にはお守りなどの案内がずらりと並んでいて、前には参拝の人たちが集まっていました。右奥には鳥居がのぞいて、日本橋の街なみと神社が隣り合う、この場所ならではの風景だね💛
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-fukurokuju-1200.webp" srcset="/images/posts/koami-shrine-fukurokuju-640.webp 640w, /images/posts/koami-shrine-fukurokuju-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="境内に立つ福禄寿の像。「小網福禄寿」と書かれた札と、賽銭箱が脇にある">
+<figcaption>境内の福禄寿の像。 写真：morit／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a>（リサイズ）</figcaption>
+</figure>
+
+境内には、杖を持った福禄寿の像も立っています。像のそばの札には「小網福禄寿」と書かれていて、にこやかな表情にほっとするよ💛 緑の木々に囲まれた、ビルの谷間とは思えない一角だね☀️
+
 ## ③ 見て癒やされる！可愛い「まゆ玉みくじ」と繊細な彫刻
 
 ### 【まゆ玉みくじ＆昇り龍・降り龍の宮彫り】〜職人さんのぬくもりと、細く長く結ばれる神様とのご縁〜

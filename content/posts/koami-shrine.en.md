@@ -73,6 +73,13 @@ This gives you a feel for zeniarai, rinsing money in water. Follow the shrine's 
 
 The sign above the amulet office, which faces the street, reads "Shrine of strong luck and protection, Tokyo Money-Washing Benten." Notices about the charms line the windows, and visitors were gathered in front. The torii peeks out at the right — a scene that is very Nihonbashi, with the city streets and the shrine side by side 💛
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-fukurokuju-1200.webp" srcset="/images/posts/koami-shrine-fukurokuju-640.webp 640w, /images/posts/koami-shrine-fukurokuju-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A statue of Fukurokuju standing in the shrine grounds, with a "Koami Fukurokuju" sign and an offering box beside it">
+<figcaption>The Fukurokuju statue in the grounds. Photo: morit／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a> (resized)</figcaption>
+</figure>
+
+A statue of Fukurokuju, one of the Seven Lucky Gods, also stands in the grounds, holding a staff. The sign beside it reads "Koami Fukurokuju," and his smiling face is a warm sight. It sits in a leafy corner that hardly feels like it is between office buildings.
+
 ## 3. Adorable Charms and Delicate Carvings Worth Seeing
 
 ### Mayudama Omikuji and the Ascending & Descending Dragon Carvings — Craftsmanship and a Bond That Lasts

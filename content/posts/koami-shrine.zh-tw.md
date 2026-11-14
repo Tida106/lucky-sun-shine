@@ -71,6 +71,13 @@ tags: ["金運錢包", "金運", "強運除厄", "東京"]
 
 臨街的授與所看板上寫著「強運厄除之神・東京銭洗弁天之社」。窗口貼滿了御守等的介紹，前面聚集了不少參拜的人。右後方可以看見鳥居，日本橋的街景與神社並肩而立，是這裡獨有的風景💛
 
+<figure class="photo">
+<img src="/images/posts/koami-shrine-fukurokuju-1200.webp" srcset="/images/posts/koami-shrine-fukurokuju-640.webp 640w, /images/posts/koami-shrine-fukurokuju-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="境內的福祿壽雕像，旁邊有寫著「小網福祿壽」的木牌與賽錢箱">
+<figcaption>境內的福祿壽雕像。 攝影：morit／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a>（調整尺寸）</figcaption>
+</figure>
+
+境內也立著手持拐杖的福祿壽像，旁邊的木牌寫著「小網福祿壽」，笑咪咪的表情讓人心頭一暖。被綠樹圍繞的這一角，完全看不出是在大樓之間。
+
 ## ③ 看了就被療癒！可愛的「蠶繭籤」與精緻的雕刻
 
 ### 【蠶繭籤＆升龍・降龍的宮雕】〜職人的溫度，以及細細長長結緣的緣分〜
