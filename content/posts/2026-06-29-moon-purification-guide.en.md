@@ -1,6 +1,6 @@
 ---
-title: "Full Moon and New Moon Crystal Cleansing Guide"
-description: "A comprehensive guide to cleansing your crystals with moonlight during the full moon and new moon. Covers steps, timing, what to do on cloudy days, which stones are safe for moonlight cleansing (and important distinctions from sun cleansing), combining with crystal chips, and how to find monthly full and new moon dates."
+title: "Moonlight Crystal Cleansing: How Long, Cloudy Nights & Full vs New Moon"
+description: "How long to leave crystals in the moonlight (one night, about 4-8 hours, is a common guideline). Steps for full and new moons, cloudy or rainy nights, window-sill cleansing, and which stones need care."
 date: "2026-06-29"
 category: "powerstones"
 tags: ["Cleansing Methods", "Moonlight Cleansing", "Full Moon", "New Moon", "Crystal Care"]
