@@ -114,6 +114,8 @@ If you inquire at the shrine office, you can receive a **free guided remote wors
 
 Another 10-minute walk leads to **Amanoyasukawara**, a **massive cave** said to be the place where countless deities gathered to discuss a plan during the Amano Iwato incident. Inside the cave, **innumerable stone stacks** built by visitors create a deeply mystical atmosphere.
 
+For a route, timing and how to check the worship-point schedule, see our [Amano Iwato Shrine guide](/blog/amanoiwato-jinja/).
+
 ## <span id="point"></span>Key Visiting Points
 
 - **Early morning Takachiho Gorge** has fewer people, and rental boats have no waiting time.
