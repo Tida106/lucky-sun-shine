@@ -3,7 +3,7 @@ title: 高千穂峡の参拝ガイド｜柱状節理と真名井の滝で知ら�
 description: >-
   高千穂峡（宮崎県西臼杵郡高千穂町）の地質・天孫降臨神話・真名井の滝・貸しボート・高千穂神社・夜神楽・天岩戸神社・天安河原・参拝のポイント・アクセス・おすすめのパワーストーン・周辺スポット・FAQまでを総合的に解説。
 date: '2026-05-10'
-updated: '2026-05-23'
+updated: '2026-11-17'
 category: powerspots
 tags:
   - ラブラドライト
@@ -51,6 +51,11 @@ draft: false
 
 高千穂峡は、**約12万年前と約9万年前の阿蘇カルデラの大規模噴火** で流れ下った火砕流が、五ヶ瀬川の浸食を受けて形成された渓谷です。火砕流が冷えて固まる際にできた **柱状節理**（六角形の柱を束ねたような割れ目）の絶壁が、約7kmにわたり続きます。
 
+<figure class="photo">
+<img src="/images/posts/takachiho-gorge-pillars-1200.webp" srcset="/images/posts/takachiho-gorge-pillars-640.webp 640w, /images/posts/takachiho-gorge-pillars-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="高千穂峡の柱状節理の岩壁と、奥に流れ落ちる真名井の滝">
+<figcaption>岩壁を間近で見上げると、自然が作った石の柱の迫力が伝わります。 写真: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyou55.jpg" rel="noopener" target="_blank">TANAKA Juuyoh</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> （リサイズ） （同じライセンスで提供）</figcaption>
+</figure>
+
 岩肌の表面はマグマが急冷した跡の名残で、地学的にも非常に貴重な地形。**1934年に国の名勝・天然記念物** に指定されました。神話の舞台であると同時に、地球の活動の痕跡を目の当たりにできる場所でもあります。
 
 ## <span id="myth"></span>天孫降臨神話と高千穂
@@ -70,6 +75,16 @@ draft: false
 ## <span id="manai"></span>真名井の滝と貸しボート
 
 高千穂峡の象徴 **「真名井の滝」** は、**落差17メートル** が直接渓谷に落ちる希少な滝。**「天真名井（あまのまない）の水」** という、天孫降臨の際に天上から持ってきたという神聖な水を源にすると伝わります。
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-boat-1200.webp" srcset="/images/posts/takachiho-manai-boat-640.webp 640w, /images/posts/takachiho-manai-boat-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="貸しボートから見上げた真名井の滝と岩壁">
+<figcaption>貸しボートに乗る一番のメリットは、水面に近い目線で滝を見られること。見上げるほど高い岩壁と、滝の音に包まれる時間は、遊歩道からでは味わえません。 写真: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_by_boat.jpg" rel="noopener" target="_blank">Max Smith</a>/Wikimedia Commons, パブリックドメイン （リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-close-1200.webp" srcset="/images/posts/takachiho-boats-close-640.webp 640w, /images/posts/takachiho-boats-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="断崖に挟まれた水面を進む高千穂峡の貸しボート">
+<figcaption>静かな水面に櫂の音が響く、ここだけの時間。慣れていなくても、2〜3人で交代しながらゆっくり進めば楽しめます。 写真: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238863.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （リサイズ）</figcaption>
+</figure>
 
 滝のすぐ間際まで近づける **貸しボート** が大人気で、3人乗りボート1艘 **2,000〜4,000円（30分・繁忙期で変動）**。週末・連休は **数時間待ち** や **オンライン整理券** の対象になることもあるため、**早朝 8時頃** に並ぶか、事前にオンライン予約サイトを確認するのがおすすめ。
 
@@ -92,6 +107,11 @@ draft: false
 - **高千穂神社の夜神楽（毎晩20時）** で神話の世界を体感
 - **天岩戸神社・天安河原** とセットで半日プランに
 - 夏の **国見ヶ丘の雲海** は壮観
+
+<figure class="photo">
+<img src="/images/posts/takachiho-bridge-1200.webp" srcset="/images/posts/takachiho-bridge-640.webp 640w, /images/posts/takachiho-bridge-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="真名井の滝のそばから見上げた橋と木々">
+<figcaption>滝の近くまで進むと、頭上の橋と木々の緑が見えてきます。遊歩道から見る景色とは違う、渓谷の“底”ならではの眺めです。 写真: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52132194587.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （リサイズ）</figcaption>
+</figure>
 
 ## <span id="access"></span>アクセス
 
@@ -123,6 +143,16 @@ draft: false
 ## <span id="season"></span>おすすめの時期・時間
 
 **新緑（5月）と紅葉（11月）** が特に美しい。**早朝（〜9時）または平日** は人が少なく、ボートもスムーズ。**夏季** は涼を求める観光客で混雑するが、滝の水量が最も豊かな時期。**秋〜冬の早朝** は国見ヶ丘で雲海が見られることがあり、神話の世界観を体感できます。
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-above-1200.webp" srcset="/images/posts/takachiho-boats-above-640.webp 640w, /images/posts/takachiho-boats-above-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1800" loading="lazy" decoding="async" alt="遊歩道から見下ろした高千穂峡。緑に囲まれた水面にボートが浮かぶ">
+<figcaption>遊歩道から見下ろすと、エメラルド色の水面と真名井の滝を一度に眺められます。まず上から全体を見てから、ボートに乗る流れがおすすめです。 写真: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyo_18297992885.jpg" rel="noopener" target="_blank">Thomas Au</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-green-1200.webp" srcset="/images/posts/takachiho-manai-green-640.webp 640w, /images/posts/takachiho-manai-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="新緑に包まれた高千穂峡と真名井の滝">
+<figcaption>新緑の時期は、岩壁を覆う緑と水の色の対比が見どころです。写真を撮りたい方にも人気の季節とされています。 写真: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238898.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （リサイズ）</figcaption>
+</figure>
 
 ## <span id="manner"></span>参拝マナーの基本
 

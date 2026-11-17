@@ -2,7 +2,7 @@
 title: "คู่มือเที่ยวหุบเขาทากาจิโฮะเคียว: น้ำตกมานาอิและผาหินหกเหลี่ยม"
 description: "คู่มือฉบับสมบูรณ์ของหุบเขาทากาจิโฮะเคียว (จังหวัดมิยาซากิ) ครอบคลุมธรณีวิทยา ตำนานเทนซนโคริน น้ำตกมานาอิ ศาลเจ้าทากาจิโฮะ ศาลเจ้าอามาโนะอิวาโตะ หินมงคล และจุดท่องเที่ยวใกล้เคียง ดินแดนแห่งตำนานเทพเจ้าญี่ปุ่น"
 date: "2026-05-10"
-updated: "2026-05-23"
+updated: "2026-11-17"
 category: "powerspots"
 tags: ["ลาบราดอไรต์", "มิยาซากิ", "ตำนานเทพเจ้า"]
 slug: "takachiho-kyo"
@@ -26,6 +26,11 @@ draft: false
 
 หุบเขาทากาจิโฮะเคียวเกิดจากการไหลของหินภูเขาไฟที่พ่นออกมาจากการปะทุครั้งใหญ่ของปล่องภูเขาไฟอาโสะเมื่อประมาณ 120,000 และ 90,000 ปีก่อน ถูกแม่น้ำโกคาเสะกัดเซาะจนเกิดเป็นหุบเขา ผาหิน **คอลัมนาร์จอยต์** (รอยแตกคล้ายเสาหกเหลี่ยมมัดรวมกัน) ที่เกิดจากการเย็นตัวของหินภูเขาไฟทอดยาวต่อเนื่องประมาณ 7 กิโลเมตร
 
+<figure class="photo">
+<img src="/images/posts/takachiho-gorge-pillars-1200.webp" srcset="/images/posts/takachiho-gorge-pillars-640.webp 640w, /images/posts/takachiho-gorge-pillars-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="หน้าผาหินเสาหกเหลี่ยมของหุบเขาทากาจิโฮะ และน้ำตกมานาอิที่อยู่ไกลออกไป">
+<figcaption>เมื่อเงยมองหน้าผาในระยะใกล้ จะรู้สึกถึงพลังของเสาหินที่ธรรมชาติสร้างขึ้น ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyou55.jpg" rel="noopener" target="_blank">TANAKA Juuyoh</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 พื้นผิวหินเป็นร่องรอยของแมกมาที่เย็นตัวอย่างรวดเร็ว มีคุณค่าทางธรณีวิทยาอย่างมาก ได้รับการขึ้นทะเบียนเป็น **อนุสรณ์สถานทางธรรมชาติและทัศนียภาพแห่งชาติในปี 1934**
 
 ## ตำนานเทนซนโคริน และทากาจิโฮะ
@@ -45,6 +50,16 @@ draft: false
 ## น้ำตกมานาอิและเรือให้เช่า
 
 สัญลักษณ์ของหุบเขาทากาจิโฮะเคียวคือ **“น้ำตกมานาอิ”** น้ำตกหายากที่ไหลตกลงสู่หุบเขาโดยตรงด้วยความสูง **17 เมตร** กล่าวกันว่ามีต้นกำเนิดจาก **“น้ำอามาโนะมานาอิ”** น้ำศักดิ์สิทธิ์ที่นำมาจากสวรรค์เมื่อครั้งเทนซนโคริน
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-boat-1200.webp" srcset="/images/posts/takachiho-manai-boat-640.webp 640w, /images/posts/takachiho-manai-boat-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="น้ำตกมานาอิและผนังหินที่เงยมองจากเรือเช่า">
+<figcaption>ข้อดีที่สุดของการเช่าเรือคือได้มองน้ำตกในระดับสายตาใกล้ผิวน้ำ ช่วงเวลาที่ล้อมรอบด้วยผนังหินสูงและเสียงน้ำ เป็นประสบการณ์ที่ทางเดินด้านบนให้ไม่ได้ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_by_boat.jpg" rel="noopener" target="_blank">Max Smith</a>/Wikimedia Commons, สาธารณสมบัติ (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-close-1200.webp" srcset="/images/posts/takachiho-boats-close-640.webp 640w, /images/posts/takachiho-boats-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="เรือเช่าที่แล่นบนผืนน้ำระหว่างหน้าผาของหุบเขา">
+<figcaption>มีเพียงเสียงพายบนผืนน้ำที่เงียบสงบ แม้มือใหม่ก็สนุกได้ หากสลับกันพายช้า ๆ กับเพื่อน 2–3 คน ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238863.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 **เรือให้เช่า** ที่สามารถพายเข้าใกล้น้ำตกเป็นที่นิยมมาก เรือลำละ 3 คน ราคาประมาณ 2,000-4,000 เยน (30 นาที ราคาผันแปรตามช่วงเวลา) ช่วงวันหยุดสุดสัปดาห์อาจต้องรอหลายชั่วโมง แนะนำให้มาต่อคิวตั้งแต่ **ช่วงเช้าประมาณ 8 โมง** หรือตรวจสอบเว็บไซต์จองล่วงหน้า
 
@@ -68,6 +83,11 @@ draft: false
 - รวมแผนครึ่งวันกับ **ศาลเจ้าอามาโนะอิวาโตะและอามาโนะยาสุคาวาระ**
 - ทะเลเมฆที่ **คุนิมิกาโอกะ** ในฤดูร้อนงดงามมาก
 
+<figure class="photo">
+<img src="/images/posts/takachiho-bridge-1200.webp" srcset="/images/posts/takachiho-bridge-640.webp 640w, /images/posts/takachiho-bridge-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="สะพานและต้นไม้ที่มองจากใกล้น้ำตกมานาอิ">
+<figcaption>เมื่อเข้าใกล้น้ำตก จะเห็นสะพานและต้นไม้สีเขียวอยู่เหนือศีรษะ เป็นทิวทัศน์ที่มีเฉพาะก้นหุบเขาเท่านั้น ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52132194587.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## การเดินทาง
 
 จากสถานี JR นิชชิโฮนเซ็น “โนเบโอกะ” นั่งรถบัสประมาณ 1 ชั่วโมง 20 นาที ลงที่ “ศูนย์รถบัสทากาจิโฮะ” แล้วต่อแท็กซี่ประมาณ 5 นาที จากทางด่วนคิวชู ทางออก “คุมาโมโตะ” ประมาณ 2 ชั่วโมง หรือทางด่วนฮิงาชิคิวชู ทางออก “โนเบโอกะ” ประมาณ 60 นาที
@@ -88,6 +108,16 @@ draft: false
 - **คุนิมิกาโอกะ** — จุดชมทะเลเมฆ (เช้าตรู่ช่วงฤดูใบไม้ร่วงถึงฤดูหนาว)
 - **ศาลเจ้าอาราตาเตะ** — ศาลเจ้าเก่าแก่ด้านสายสัมพันธ์และศิลปะการแสดง
 - **ศาลเจ้าคุชิฟุรุ** — ดินแดนตำนานการเสด็จลงมาของเทพนิงิ
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-above-1200.webp" srcset="/images/posts/takachiho-boats-above-640.webp 640w, /images/posts/takachiho-boats-above-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1800" loading="lazy" decoding="async" alt="มองหุบเขาทากาจิโฮะจากทางเดินด้านบน มีเรือลอยอยู่บนผืนน้ำท่ามกลางสีเขียว">
+<figcaption>จากทางเดินด้านบนจะมองเห็นผืนน้ำสีมรกตและน้ำตกมานาอิได้พร้อมกัน แนะนำให้ดูภาพรวมจากด้านบนก่อน แล้วค่อยลงเรือ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyo_18297992885.jpg" rel="noopener" target="_blank">Thomas Au</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-green-1200.webp" srcset="/images/posts/takachiho-manai-green-640.webp 640w, /images/posts/takachiho-manai-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="หุบเขาทากาจิโฮะและน้ำตกมานาอิท่ามกลางใบไม้ผลิ">
+<figcaption>ช่วงที่ใบไม้ผลิ ความต่างระหว่างสีเขียวบนหน้าผากับสีของน้ำคือจุดเด่น และเป็นฤดูที่นิยมถ่ายภาพ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238898.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## คำถามที่พบบ่อย
 

@@ -3,7 +3,7 @@ title: 高千穗峽參拜指南｜以柱狀節理與真名井瀧聞名的神話�
 description: >-
   全面解析高千穗峽（宮崎縣西臼杵郡高千穗町）的地質・天孫降臨神話・真名井瀧・出租小船・高千穗神社・夜神樂・天岩戶神社・天安河原・參拜重點・交通方式・推薦能量石・周邊景點・常見問題。
 date: '2026-05-10'
-updated: '2026-05-23'
+updated: '2026-11-17'
 category: powerspots
 tags:
   - 拉長石
@@ -51,6 +51,11 @@ draft: false
 
 高千穗峽，是**約12萬年前與約9萬年前阿蘇火山口大規模噴發**時流下的火碎流，經五ヶ瀬川侵蝕後形成的溪谷。火碎流冷卻凝固時產生的**柱狀節理**（彷彿將六角形石柱束在一起般的裂紋）絕壁，延續約7公里。
 
+<figure class="photo">
+<img src="/images/posts/takachiho-gorge-pillars-1200.webp" srcset="/images/posts/takachiho-gorge-pillars-640.webp 640w, /images/posts/takachiho-gorge-pillars-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="高千穗峽的柱狀節理岩壁與遠處的真名井瀧">
+<figcaption>近距離仰望岩壁，能感受到大自然形成的石柱的魄力。 照片: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyou55.jpg" rel="noopener" target="_blank">TANAKA Juuyoh</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> （已調整尺寸） （以相同授權條款提供）</figcaption>
+</figure>
+
 岩石表面殘留著岩漿急速冷卻的痕跡，從地質學角度來看也是極為珍貴的地形。**1934年被指定為國家名勝・天然紀念物**。這裡既是神話的舞台，同時也是能親眼目睹地球活動痕跡的地方。
 
 ## <span id="myth"></span>天孫降臨神話與高千穗
@@ -70,6 +75,16 @@ draft: false
 ## <span id="manai"></span>真名井瀧與出租小船
 
 高千穗峽的象徵**「真名井瀧」**，是落差**17公尺**直接傾瀉入溪谷的罕見瀑布。相傳其源頭為**「天真名井（あまのまない）之水」**，是天孫降臨之際從天上帶來的神聖之水。
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-boat-1200.webp" srcset="/images/posts/takachiho-manai-boat-640.webp 640w, /images/posts/takachiho-manai-boat-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="從出租小船仰望真名井瀧與岩壁">
+<figcaption>搭乘出租小船最大的好處，是能以貼近水面的視角看瀑布。被高聳岩壁與水聲包圍的時光，是在步道上體驗不到的。 照片: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_by_boat.jpg" rel="noopener" target="_blank">Max Smith</a>/Wikimedia Commons, 公有領域 （已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-close-1200.webp" srcset="/images/posts/takachiho-boats-close-640.webp 640w, /images/posts/takachiho-boats-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="在峽谷峭壁之間的水面上前進的出租小船">
+<figcaption>平靜的水面上只有划槳聲。即使是第一次划船，兩三人輪流慢慢划也能玩得開心。 照片: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238863.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （已調整尺寸）</figcaption>
+</figure>
 
 能夠近距離接近瀑布的**出租小船**十分熱門，3人座小船1艘**2,000〜4,000日圓（30分鐘・依旺季變動）**。週末・連假有時需等候數小時，或須透過**線上號碼牌**預約，建議**清晨8點左右**便前往排隊，或事先確認線上預約網站。
 
@@ -92,6 +107,11 @@ draft: false
 - 透過**高千穗神社的夜神樂（每晚20點）**親身感受神話世界
 - 搭配**天岩戶神社・天安河原**安排為半日行程
 - 夏天的**國見丘雲海**十分壯觀
+
+<figure class="photo">
+<img src="/images/posts/takachiho-bridge-1200.webp" srcset="/images/posts/takachiho-bridge-640.webp 640w, /images/posts/takachiho-bridge-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="從真名井瀧附近仰望的橋與樹木">
+<figcaption>靠近瀑布時，頭頂會出現橋與綠樹。這是只有在峽谷底部才看得到的景色。 照片: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52132194587.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="access"></span>交通方式
 
@@ -123,6 +143,16 @@ draft: false
 ## <span id="season"></span>推薦的時期・時段
 
 **新綠（5月）與紅葉（11月）**特別優美。**清晨（〜9點）或平日**人少，搭船也較為順暢。**夏季**因避暑觀光客眾多而擁擠，但瀑布水量最為豐沛。**秋〜冬的清晨**有機會在國見丘看到雲海，能親身感受神話般的世界觀。
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-above-1200.webp" srcset="/images/posts/takachiho-boats-above-640.webp 640w, /images/posts/takachiho-boats-above-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1800" loading="lazy" decoding="async" alt="從步道俯瞰高千穗峽，綠意環繞的水面上有小船">
+<figcaption>從步道往下看，可以同時欣賞翡翠色的水面與真名井瀧。建議先從上方看過整體，再搭船。 照片: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyo_18297992885.jpg" rel="noopener" target="_blank">Thomas Au</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-green-1200.webp" srcset="/images/posts/takachiho-manai-green-640.webp 640w, /images/posts/takachiho-manai-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="新綠環繞的高千穗峽與真名井瀧">
+<figcaption>新綠時節，覆蓋岩壁的綠意與水色的對比是看點，也被認為是適合拍照的季節。 照片: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238898.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="manner"></span>參拜禮儀基本須知
 

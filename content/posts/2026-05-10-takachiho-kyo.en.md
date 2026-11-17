@@ -3,7 +3,7 @@ title: "Takachiho Gorge Pilgrimage Guide"
 description: >-
   A comprehensive guide to Takachiho Gorge (Takachiho Town, Nishiusuki District, Miyazaki Prefecture), covering its geology, the Tenson Kōrin myth, Manai Falls, rental boats, Takachiho Shrine, Yokagura (night rituals), Amano Iwato Shrine, Amanoyasukawara, key visiting points, access, recommended crystals, nearby spots, and FAQs.
 date: '2026-05-10'
-updated: '2026-05-23'
+updated: '2026-11-17'
 category: powerspots
 tags:
   - Labradorite
@@ -55,6 +55,11 @@ Takachiho Gorge, located in Takachiho Town, northern Miyazaki Prefecture, is a v
 
 Takachiho Gorge is a valley formed by the erosion of pyroclastic flows by the Gokase River. These flows originated from the **massive eruptions of the Aso Caldera approximately 120,000 and 90,000 years ago**.
 
+<figure class="photo">
+<img src="/images/posts/takachiho-gorge-pillars-1200.webp" srcset="/images/posts/takachiho-gorge-pillars-640.webp 640w, /images/posts/takachiho-gorge-pillars-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Columnar basalt cliffs of Takachiho Gorge with Manai Falls in the distance">
+<figcaption>Looking up at the cliffs from close range, you can feel the scale of these naturally formed stone columns. Photo: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyou55.jpg" rel="noopener" target="_blank">TANAKA Juuyoh</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 The cliffs feature **columnar joints** (fissures resembling bundles of hexagonal pillars) that formed as the pyroclastic flows cooled and solidified, extending for about 7 kilometers.
 
 The surface of the rock walls bears traces of rapidly cooled magma, making it a geologically very valuable landscape. It was designated as a **National Place of Scenic Beauty and Natural Monument in 1934**. It is not only a mythical stage but also a place where you can witness the Earth's activity firsthand.
@@ -78,6 +83,16 @@ Furthermore, this area is also the stage for the **"Amano Iwato Myth,"** where A
 ## <span id="manai"></span>Manai Falls and Rental Boats
 
 The symbol of Takachiho Gorge, **Manai Falls**, is a rare waterfall with a **17-meter drop** directly into the gorge.
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-boat-1200.webp" srcset="/images/posts/takachiho-manai-boat-640.webp 640w, /images/posts/takachiho-manai-boat-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Manai Falls and the cliff walls seen from a rental boat">
+<figcaption>The biggest advantage of a rental boat is the water-level view of the falls. Surrounded by towering walls and the sound of water, it is a different experience from the path above. Photo: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_by_boat.jpg" rel="noopener" target="_blank">Max Smith</a>/Wikimedia Commons, Public domain (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-close-1200.webp" srcset="/images/posts/takachiho-boats-close-640.webp 640w, /images/posts/takachiho-boats-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Rental boats on the water between the gorge cliffs">
+<figcaption>Only the sound of oars on calm water. Even first-timers can enjoy it by taking turns rowing at an easy pace with two or three people. Photo: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238863.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
 
 It is said to be sourced from the sacred water known as **"Ama-no-Manai (Heavenly True Well) Water,"** which Ninigi-no-Mikoto is believed to have brought from the heavens during the Tenson Kōrin.
 
@@ -106,6 +121,11 @@ Another 10-minute walk leads to **Amanoyasukawara**, a **massive cave** said to 
 - Experience the world of myth with **Takachiho Shrine's Yokagura (every evening at 8 PM)**.
 - Include **Amano Iwato Shrine and Amanoyasukawara** for a half-day plan.
 - The **sea of clouds at Kunimigaoka** is magnificent.
+
+<figure class="photo">
+<img src="/images/posts/takachiho-bridge-1200.webp" srcset="/images/posts/takachiho-bridge-640.webp 640w, /images/posts/takachiho-bridge-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A bridge and trees seen from near Manai Falls">
+<figcaption>As you near the falls, a bridge and green trees appear overhead. It is a view only the bottom of the gorge offers. Photo: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52132194587.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
 
 ## <span id="access"></span>Access
 
@@ -137,6 +157,16 @@ Here are some stones believed to resonate well with the sacred energy of Takachi
 ## <span id="season"></span>Best Times to Visit
 
 **New foliage in May and autumn leaves in November** are particularly beautiful. **Early mornings (until 9 AM) or weekdays** see fewer people, and boat rentals are smoother. **Summer** is crowded with tourists seeking cool relief, but it's also when the waterfall's volume is at its fullest. During **early mornings in autumn and winter**, a sea of clouds can sometimes be seen at Kunimigaoka, allowing you to experience the world of mythology.
+
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-above-1200.webp" srcset="/images/posts/takachiho-boats-above-640.webp 640w, /images/posts/takachiho-boats-above-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1800" loading="lazy" decoding="async" alt="Takachiho Gorge seen from the walking path, with boats on the green water">
+<figcaption>From the walking path you can take in the emerald water and Manai Falls at once. Many visitors start here for the big picture, then take a boat. Photo: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyo_18297992885.jpg" rel="noopener" target="_blank">Thomas Au</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/takachiho-manai-green-1200.webp" srcset="/images/posts/takachiho-manai-green-640.webp 640w, /images/posts/takachiho-manai-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Takachiho Gorge and Manai Falls surrounded by fresh greenery">
+<figcaption>In the fresh-green season, the contrast between the greenery on the cliffs and the color of the water is a highlight, and it is a popular time for photography. Photo: <a href="https://commons.wikimedia.org/wiki/File:Takachiho_Gorge_52133238898.jpg" rel="noopener" target="_blank">Raita Futo</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
 
 ## <span id="manner"></span>Basic Visiting Etiquette
 
