@@ -77,12 +77,54 @@ draft: false
 <figcaption>ศาลาไหว้ ป้ายชื่อและเชือกชิเมนาวะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Cheetah.in.mac" rel="noopener" target="_blank">Cheetah.in.mac</a>/Wikimedia Commons, สาธารณสมบัติ</figcaption>
 </figure>
 
+### รูปปั้นกระต่ายในบริเวณศาลเจ้า
+
+บนโคมหินมีกระต่ายหลายสีหน้า บางครั้งมีหินขาวเขียนตัว "เอ็น" (สายสัมพันธ์) วางอยู่ที่เท้า น่าหยุดดูเปรียบเทียบ
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-torii-1200.webp" srcset="/images/posts/hakuto-rabbit-torii-640.webp 640w, /images/posts/hakuto-rabbit-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="รูปปั้นกระต่ายหินนั่งหันหลังให้โทริอิ">
+<figcaption>รูปปั้นกระต่ายหน้าโทริอิ มองเห็นหินขาวที่เท้า ภาพ: <a href="https://web.archive.org/web/20161023062645/http://www.panoramio.com/photo/58587215" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-sea-1200.webp" srcset="/images/posts/hakuto-rabbit-sea-640.webp 640w, /images/posts/hakuto-rabbit-sea-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="รูปปั้นกระต่ายหินนั่งมองไปทางทะเล">
+<figcaption>กระต่ายมองไปทางทะเล เห็นโทริอิและทะเลไกลๆ ภาพ: <a href="https://web.archive.org/web/20161022075053/http://www.panoramio.com/photo/58587229" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## สระมิทาราชิ หินมุซุบิ และชายหาด
 
 - **สระมิทาราชิ**: เล่ากันว่ากระต่ายล้างแผลที่นี่ และระดับน้ำไม่เพิ่มไม่ลด
 - **หินมุซุบิ**: เครื่องราง เชื่อกันว่าโยนขึ้นไปค้างบนโทริอิจะได้พบเนื้อคู่ หลายคนเก็บกลับเป็นที่ระลึก ตรวจดูว่าไม่มีคนอยู่ใกล้ก่อน
 - **ชายหาดฮาคุโตะ**: ทรายขาวและทะเลญี่ปุ่น จุดชมพระอาทิตย์ตก
 - **สถานีริมทาง**: ของฝากและอาหารหลังไหว้
+
+### หินขาวที่เท้ากระต่าย
+
+รอบรูปปั้นกระต่ายท่ากระโดดก็มีหินขาวเขียนตัวอักษรอย่าง "เอ็น" วางอยู่
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-stones-1200.webp" srcset="/images/posts/hakuto-rabbit-stones-640.webp 640w, /images/posts/hakuto-rabbit-stones-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="รูปปั้นกระต่ายหินท่ากระโดดและหินขาวที่มีอักษรสีแดง">
+<figcaption>กระต่ายท่ากระโดดและหินขาวอักษรแดง ภาพ: <a href="https://web.archive.org/web/20161022075009/http://www.panoramio.com/photo/58587221" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+### ทิวทัศน์ชายหาดฮาคุโตะ
+
+ชายหาดหน้าศาลเจ้าเปลี่ยนบรรยากาศตามช่วงเวลา แนะนำให้ชมแสงยามเช้าและหินที่เรียกว่า "โอกิโนชิมะ" ในตำนาน
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-morning-1200.webp" srcset="/images/posts/hakuto-coast-morning-640.webp 640w, /images/posts/hakuto-coast-morning-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="หาดทรายและทะเลฮาคุโตะยามรุ่งอรุณ">
+<figcaption>ชายหาดฮาคุโตะยามรุ่งอรุณ แสงลอดเมฆ ภาพ: <a href="https://find47.jp/ja/i/LrODo" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-okinoshima-1200.webp" srcset="/images/posts/hakuto-okinoshima-640.webp 640w, /images/posts/hakuto-okinoshima-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ก้อนหินกลางคลื่นที่มีโทริอิเล็กๆ อยู่ด้านบน">
+<figcaption>ก้อนหินที่เรียกว่าโอกิโนชิมะ มีโทริอิเล็กๆ อยู่ด้านบน ภาพ: <a href="https://find47.jp/ja/i/3iK1V" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-nw-800.webp" srcset="/images/posts/hakuto-coast-nw-640.webp 640w, /images/posts/hakuto-coast-nw-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="600" loading="lazy" decoding="async" alt="หาดทรายฮาคุโตะและก้อนหินกลางทะเล">
+<figcaption>มองจากชายหาดฮาคุโตะไปทางตะวันตกเฉียงเหนือ เห็นก้อนหินกลางทะเล ภาพ: <a href="http://d.hatena.ne.jp/b01012045/" rel="noopener" target="_blank">荒川鯉師</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.1/jp/" rel="noopener" target="_blank">CC BY 2.1 JP</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## เส้นทางแนะนำและเวลา (โดยประมาณ)
 

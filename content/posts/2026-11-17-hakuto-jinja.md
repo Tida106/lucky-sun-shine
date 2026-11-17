@@ -92,12 +92,54 @@ draft: false
 <figcaption>拝殿。「白兎神社」の額と、太いしめ縄が目を引きます。 写真: <a href="https://commons.wikimedia.org/wiki/User:Cheetah.in.mac" rel="noopener" target="_blank">Cheetah.in.mac</a>/Wikimedia Commons, パブリックドメイン</figcaption>
 </figure>
 
+### 境内のうさぎ像
+
+参道の灯籠の上には、表情の違ううさぎ像が並びます。足元に「縁」の字が書かれた白い石が置かれていることもあり、立ち止まって見比べたくなります。
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-torii-1200.webp" srcset="/images/posts/hakuto-rabbit-torii-640.webp 640w, /images/posts/hakuto-rabbit-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="鳥居を背にして座る石のうさぎ像">
+<figcaption>鳥居を背に座るうさぎ像。足元に「縁」の字の白い石が見えます。 写真: <a href="https://web.archive.org/web/20161023062645/http://www.panoramio.com/photo/58587215" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> （リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-sea-1200.webp" srcset="/images/posts/hakuto-rabbit-sea-640.webp 640w, /images/posts/hakuto-rabbit-sea-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="海の方を向いて座る石のうさぎ像">
+<figcaption>海の方を見つめるうさぎ像。遠くに鳥居と海がのぞきます。 写真: <a href="https://web.archive.org/web/20161022075053/http://www.panoramio.com/photo/58587229" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> （リサイズ）</figcaption>
+</figure>
+
 ## <span id="spots"></span>御身洗池・結び石・白兎海岸
 
 - **御身洗池（不増不減の池）**：白うさぎが傷ついた体を洗ったとされる池です。「不増不減」の名の通り、水の量が変わらないと伝えられています。
 - **結び石**：授与品の石で、鳥居の上に投げて乗れば良縁があるとされています。投げずに記念に持ち帰る方も多いようです。まわりの方に当たらないよう、気をつけましょう。
 - **白兎海岸**：神社の目の前に広がる、白い砂浜と日本海の海岸です。「日本の渚百選」にも選ばれ、夕日の名所としても知られています。沖には、神話の「淤岐ノ島」と呼ばれる島も見えます。
 - **道の駅「神話の里 白うさぎ」**：参拝のあとに立ち寄れる、特産品や食事の場所です。
+
+### うさぎの足元の白い石
+
+跳ねるような姿のうさぎ像のまわりにも、「縁」などの字が書かれた白い石が置かれています。
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-stones-1200.webp" srcset="/images/posts/hakuto-rabbit-stones-640.webp 640w, /images/posts/hakuto-rabbit-stones-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="跳ねる姿の石のうさぎ像と「縁」の字が書かれた白い石">
+<figcaption>跳ねるような姿のうさぎ像と、朱色の字の白い石。 写真: <a href="https://web.archive.org/web/20161022075009/http://www.panoramio.com/photo/58587221" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> （リサイズ）</figcaption>
+</figure>
+
+### 白兎海岸の景色
+
+神社の目の前の白兎海岸は、時間帯で表情が変わります。朝焼けの海岸や、神話の「淤岐ノ島」と呼ばれる岩を眺めるのもおすすめです。
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-morning-1200.webp" srcset="/images/posts/hakuto-coast-morning-640.webp 640w, /images/posts/hakuto-coast-morning-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="朝焼けに染まる白兎海岸の砂浜と海">
+<figcaption>朝焼けの白兎海岸。雲の切れ間から光がさします。 写真: <a href="https://find47.jp/ja/i/LrODo" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-okinoshima-1200.webp" srcset="/images/posts/hakuto-okinoshima-640.webp 640w, /images/posts/hakuto-okinoshima-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="波に囲まれた岩の上に小さな鳥居が立つ淤岐ノ島">
+<figcaption>淤岐ノ島と呼ばれる岩。頂に小さな鳥居が立っています。 写真: <a href="https://find47.jp/ja/i/3iK1V" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-nw-800.webp" srcset="/images/posts/hakuto-coast-nw-640.webp 640w, /images/posts/hakuto-coast-nw-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="600" loading="lazy" decoding="async" alt="白兎海岸の砂浜と、沖に見える岩">
+<figcaption>白兎海岸から北西を望む景色。沖に岩が見えます。 写真: <a href="http://d.hatena.ne.jp/b01012045/" rel="noopener" target="_blank">荒川鯉師</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.1/jp/" rel="noopener" target="_blank">CC BY 2.1 JP</a> （リサイズ）</figcaption>
+</figure>
 
 ## <span id="course"></span>回り方のモデルコースと所要時間
 

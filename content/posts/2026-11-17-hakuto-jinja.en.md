@@ -77,12 +77,54 @@ The worship hall carries a "Hakuto Shrine" plaque and a thick sacred rope.
 <figcaption>The worship hall, with its plaque and thick shimenawa. Photo: <a href="https://commons.wikimedia.org/wiki/User:Cheetah.in.mac" rel="noopener" target="_blank">Cheetah.in.mac</a>/Wikimedia Commons, Public domain</figcaption>
 </figure>
 
+### Rabbit Statues in the Grounds
+
+The lantern tops carry rabbits with different expressions. White stones marked with the character for "en" (connection) are sometimes left at their feet, which makes it fun to compare them.
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-torii-1200.webp" srcset="/images/posts/hakuto-rabbit-torii-640.webp 640w, /images/posts/hakuto-rabbit-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone rabbit statue sitting with a torii behind it">
+<figcaption>A rabbit statue with a torii behind it. White stones marked "en" sit at its feet. Photo: <a href="https://web.archive.org/web/20161023062645/http://www.panoramio.com/photo/58587215" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-sea-1200.webp" srcset="/images/posts/hakuto-rabbit-sea-640.webp 640w, /images/posts/hakuto-rabbit-sea-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone rabbit statue sitting and facing the sea">
+<figcaption>A rabbit gazing toward the sea, with a torii and the water in the distance. Photo: <a href="https://web.archive.org/web/20161022075053/http://www.panoramio.com/photo/58587229" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 ## Mitarashi Pond, Musubi Stone & White Rabbit Coast
 
 - **Mitarashi Pond**: said to be where the rabbit washed its wounds; its water level is traditionally said never to change.
 - **Musubi stone**: a stone charm; tradition says tossing it onto a torii brings good connections. Many visitors simply take it home. Check that no one is nearby.
 - **White Rabbit Coast**: white sand and the Sea of Japan, a famed sunset spot, with the island linked to the myth offshore.
 - **Roadside station**: local products and meals after your visit.
+
+### White Stones at the Rabbit's Feet
+
+Around this leaping rabbit too, white stones marked with characters such as "en" are left.
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-stones-1200.webp" srcset="/images/posts/hakuto-rabbit-stones-640.webp 640w, /images/posts/hakuto-rabbit-stones-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Leaping stone rabbit statue with white stones marked with a red character">
+<figcaption>A leaping rabbit statue and white stones with red characters. Photo: <a href="https://web.archive.org/web/20161022075009/http://www.panoramio.com/photo/58587221" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+### Views of White Rabbit Coast
+
+The coast in front of the shrine changes with the hour. Sunrise light and the rock called Okinoshima in the myth are both worth a look.
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-morning-1200.webp" srcset="/images/posts/hakuto-coast-morning-640.webp 640w, /images/posts/hakuto-coast-morning-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="White Rabbit Coast beach and sea in sunrise light">
+<figcaption>White Rabbit Coast at sunrise, with light breaking through the clouds. Photo: <a href="https://find47.jp/ja/i/LrODo" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-okinoshima-1200.webp" srcset="/images/posts/hakuto-okinoshima-640.webp 640w, /images/posts/hakuto-okinoshima-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Rock island surrounded by waves with a small torii on top">
+<figcaption>The rock known as Okinoshima, with a small torii on top. Photo: <a href="https://find47.jp/ja/i/3iK1V" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-nw-800.webp" srcset="/images/posts/hakuto-coast-nw-640.webp 640w, /images/posts/hakuto-coast-nw-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="600" loading="lazy" decoding="async" alt="Sandy White Rabbit Coast with a rock offshore">
+<figcaption>Looking northwest from White Rabbit Coast; a rock stands offshore. Photo: <a href="http://d.hatena.ne.jp/b01012045/" rel="noopener" target="_blank">荒川鯉師</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.1/jp/" rel="noopener" target="_blank">CC BY 2.1 JP</a> (resized)</figcaption>
+</figure>
 
 ## Model Route (Approx. Times)
 

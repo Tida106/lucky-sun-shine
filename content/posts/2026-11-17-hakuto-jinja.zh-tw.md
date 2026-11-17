@@ -77,12 +77,54 @@ draft: false
 <figcaption>拜殿，匾額與粗注連繩十分醒目。 照片: <a href="https://commons.wikimedia.org/wiki/User:Cheetah.in.mac" rel="noopener" target="_blank">Cheetah.in.mac</a>/Wikimedia Commons, 公有領域</figcaption>
 </figure>
 
+### 境內的兔子像
+
+燈籠上的兔子表情各異，腳邊有時會放著寫有「緣」字的白石，讓人忍不住停下來比較。
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-torii-1200.webp" srcset="/images/posts/hakuto-rabbit-torii-640.webp 640w, /images/posts/hakuto-rabbit-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="背對鳥居而坐的石兔像">
+<figcaption>背對鳥居的兔子像，腳邊可見寫著「緣」字的白石。 照片: <a href="https://web.archive.org/web/20161023062645/http://www.panoramio.com/photo/58587215" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-sea-1200.webp" srcset="/images/posts/hakuto-rabbit-sea-640.webp 640w, /images/posts/hakuto-rabbit-sea-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="面向大海而坐的石兔像">
+<figcaption>望向大海的兔子像，遠處可見鳥居與海。 照片: <a href="https://web.archive.org/web/20161022075053/http://www.panoramio.com/photo/58587229" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> （已調整尺寸）</figcaption>
+</figure>
+
 ## 御身洗池・結石・白兔海岸
 
 - **御身洗池**：相傳白兔在此清洗傷口，水量據說不增不減。
 - **結石**：授與品，傳說投上鳥居並停住就有良緣。許多人只是帶回紀念。請確認周圍沒有人。
 - **白兔海岸**：白沙與日本海，也是夕陽名所，海上可見與神話相關的島。
 - **道之驛**：參拜後可買特產、用餐。
+
+### 兔子腳邊的白石
+
+跳躍姿態的兔子像周圍，也放著寫有「緣」等字的白石。
+
+<figure class="photo">
+<img src="/images/posts/hakuto-rabbit-stones-1200.webp" srcset="/images/posts/hakuto-rabbit-stones-640.webp 640w, /images/posts/hakuto-rabbit-stones-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="跳躍姿態的石兔像與寫有紅字的白石">
+<figcaption>跳躍姿態的兔子像與紅字白石。 照片: <a href="https://web.archive.org/web/20161022075009/http://www.panoramio.com/photo/58587221" rel="noopener" target="_blank">tme181</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+### 白兔海岸的景色
+
+神社眼前的白兔海岸，隨時間而有不同面貌。可欣賞朝霞，以及神話中稱為「淤岐之島」的岩石。
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-morning-1200.webp" srcset="/images/posts/hakuto-coast-morning-640.webp 640w, /images/posts/hakuto-coast-morning-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="朝霞中的白兔海岸沙灘與海">
+<figcaption>朝霞中的白兔海岸，陽光從雲隙透出。 照片: <a href="https://find47.jp/ja/i/LrODo" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-okinoshima-1200.webp" srcset="/images/posts/hakuto-okinoshima-640.webp 640w, /images/posts/hakuto-okinoshima-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="被海浪環繞、頂上立著小鳥居的岩石">
+<figcaption>稱為淤岐之島的岩石，頂上立著小鳥居。 照片: <a href="https://find47.jp/ja/i/3iK1V" rel="noopener" target="_blank">rikky_photography</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hakuto-coast-nw-800.webp" srcset="/images/posts/hakuto-coast-nw-640.webp 640w, /images/posts/hakuto-coast-nw-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="600" loading="lazy" decoding="async" alt="白兔海岸沙灘與海上的岩石">
+<figcaption>從白兔海岸望向西北，海上可見岩石。 照片: <a href="http://d.hatena.ne.jp/b01012045/" rel="noopener" target="_blank">荒川鯉師</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.1/jp/" rel="noopener" target="_blank">CC BY 2.1 JP</a> （已調整尺寸）</figcaption>
+</figure>
 
 ## 遊覽路線與所需時間（參考）
 
