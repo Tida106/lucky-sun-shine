@@ -108,6 +108,16 @@ const GIFT_PICKS = [
   },
 ];
 
+// 「まず行きたい！パワースポット TOP5」— 女性に人気・行きやすい神社を、縁結びを上位に編集部が選定。
+const SPOT_TOP5 = [
+  { slug: 'tokyo-daijingu', img: 'spot-tokyo-daijingu', name: '東京大神宮', hook: '縁結びで知られる、都心の神社' },
+  { slug: 'izumo-taisha', img: 'spot-izumo-taisha', name: '出雲大社', hook: '縁結びの聖地として有名' },
+  { slug: 'ise-jingu-power-spot', img: 'spot-ise-jingu', name: '伊勢神宮', hook: '日本人の心のふるさと。まず一度は' },
+  { slug: 'meiji-jingu', img: 'spot-meiji-jingu', name: '明治神宮', hook: '都会の森で、心を整える' },
+  { slug: 'itsukushima-jinja', img: 'spot-itsukushima', name: '厳島神社', hook: '祭神は三女神。海に立つ大鳥居が人気' },
+];
+const SPOT_RANK_BADGE = ['🥇', '🥈', '🥉', '🏅', '🏅'];
+
 // 「お日さまのおすそわけ」— 不安解消＆風水＆実用の最新ガイド6本。
 const FEATURED_SLUGS = [
   'powerstone-broken-meaning',
@@ -332,6 +342,52 @@ export default function HomePage() {
             <p className="mt-3 text-sm text-ink-700 leading-relaxed">
               良い気を呼び込み悪い気を防ぐ。目的別の選び方から置き方まで。
             </p>
+          </Link>
+        </div>
+      </ScrollReveal>
+
+      {/* ⛩️ パワースポット TOP5（定番の人気記事の直下。パワースポット記事への入口） */}
+      <ScrollReveal as="section" className="max-w-3xl mx-auto px-4 pb-8 md:pb-12">
+        <div className="flex justify-center mb-4">
+          <SunSpeechBubble>行ってみたい神社は、どこかな？⛩️</SunSpeechBubble>
+        </div>
+        <div className="text-center mb-8">
+          <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
+            ⛩️ まず行きたい！パワースポット TOP5
+          </h2>
+          <p className="mt-3 text-sm md:text-base text-ink-700">
+            縁結びや心を整えたい日に。行きやすい神社を、編集部が選びました。
+          </p>
+        </div>
+        <ol className="space-y-3 md:space-y-4">
+          {SPOT_TOP5.map((spot, i) => (
+            <li key={spot.slug}>
+              <Link prefetch={false} href={`/blog/${spot.slug}/`} className="group flex items-center gap-4 rounded-2xl border-2 border-emerald-200 bg-gradient-to-br from-emerald-50 via-white to-teal-50 p-3 md:p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 hover:border-emerald-400 transition-all duration-300">
+                <span className="text-3xl md:text-4xl shrink-0 w-10 text-center drop-shadow-sm" aria-hidden="true">{SPOT_RANK_BADGE[i]}</span>
+                <img
+                  src={`/images/ranking/${spot.img}.webp`}
+                  alt={`${spot.name}の水彩イラスト`}
+                  width="320"
+                  height="320"
+                  loading="lazy"
+                  decoding="async"
+                  className="w-20 h-20 md:w-24 md:h-24 rounded-xl object-cover shrink-0 border border-emerald-100"
+                />
+                <div className="min-w-0">
+                  <div className="text-xs font-extrabold text-emerald-700">{i + 1}位</div>
+                  <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
+                    {spot.name}
+                  </h3>
+                  <p className="mt-1 text-sm text-ink-700 leading-relaxed">{spot.hook}</p>
+                </div>
+              </Link>
+            </li>
+          ))}
+        </ol>
+        <div className="mt-6 text-center">
+          <Link prefetch={false} href="/category/powerspots/" className="inline-flex items-center gap-1 text-sm md:text-base font-bold text-emerald-700 hover:underline">
+            パワースポットをもっと見る
+            <span aria-hidden="true">→</span>
           </Link>
         </div>
       </ScrollReveal>
