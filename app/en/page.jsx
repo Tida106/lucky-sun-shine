@@ -121,6 +121,17 @@ const FEATURED_SLUGS = [
   'powerstone-gift-guide',
 ];
 
+const STAMPS = [
+  { f: 'cheer', a: 'CHEER UP!' },
+  { f: 'good', a: 'GOOD!' },
+  { f: 'good-morning', a: 'GOOD MORNING!' },
+  { f: 'hello', a: 'HELLO!' },
+  { f: 'believe', a: 'I BELIEVE U!' },
+  { f: 'see-you', a: 'SEE YOU!' },
+  { f: 'thank-you', a: 'THANK YOU!' },
+  { f: 'yay', a: 'YAY!' },
+];
+
 export default function EnHomePage() {
   ReactDOM.preload('/images/hero-crystals-480.webp', { as: 'image', fetchPriority: 'high', media: '(max-width: 480px)' });
   ReactDOM.preload('/images/hero-crystals-640.webp', { as: 'image', fetchPriority: 'high', media: '(min-width: 481px) and (max-width: 640px)' });
@@ -231,8 +242,7 @@ export default function EnHomePage() {
       {/* LINE Stickers */}
       <div className="max-w-3xl mx-auto px-4 mt-10 md:mt-12 mb-8 md:mb-10">
         <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-[3px] shadow-sm hover:shadow-md transition-all duration-300">
-          <div className="rounded-[13px] bg-white/95 px-4 py-4 md:px-6 flex flex-col sm:flex-row items-center gap-3 sm:gap-5 text-center sm:text-left">
-            <img src="/images/mascot-sun-cheer-160.webp" alt="Sun-chan" width={96} height={96} loading="lazy" className="w-20 h-20 sm:w-24 sm:h-24 shrink-0 object-contain" />
+          <div className="rounded-[13px] bg-white/95 px-4 py-4 md:px-6 text-center">
             <div className="min-w-0">
               <h2 className="text-base sm:text-lg font-extrabold text-amber-500 leading-snug">
                 <span className="inline-block align-middle rounded-full bg-[#06C755] px-2.5 py-0.5 text-[11px] font-bold tracking-wider text-white mr-2 shadow-sm">NEW</span>
@@ -241,11 +251,16 @@ export default function EnHomePage() {
               <p className="mt-2 text-xs sm:text-sm text-ink-600 leading-relaxed">
                 Lucky-charm designs for everyday chats, like "GOOD MORNING!" and "THANK YOU!".
               </p>
+              <ul className="mt-3 grid grid-cols-4 sm:flex sm:flex-wrap justify-center gap-1.5 sm:gap-2" aria-label="Sun-chan LINE stickers">
+                {STAMPS.map((n) => (
+                  <li key={n.f}><img src={`/images/stamps/${n.f}.webp`} alt={n.a} width={160} height={160} loading="lazy" className="w-14 h-14 sm:w-[60px] sm:h-[60px] object-contain" /></li>
+                ))}
+              </ul>
               <a
                 href="https://store.line.me/stickershop/product/31602987/en"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-3 inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-sm py-2 px-6 rounded-full shadow-sm hover:bg-green-600 hover:shadow-md transition-all duration-300"
+                className="mt-4 inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-sm py-2 px-6 rounded-full shadow-sm hover:bg-green-600 hover:shadow-md transition-all duration-300"
               >
                 Check it out on LINE STORE
               </a>
