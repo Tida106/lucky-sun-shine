@@ -348,10 +348,12 @@ export default function EnHomePage() {
 
       <SunDivider />
 
-      <SpotTop5 locale="en" />
+      <SpotTop5 locale="en" tight />
+
+      <SunDivider />
 
       {/* 🔮 Nine Star Ki Calculator entry point */}
-      <div className="max-w-6xl mx-auto px-4 mt-2 mb-10 md:mb-14">
+      <div className="max-w-6xl mx-auto px-4 mb-10 md:mb-14">
         <Link prefetch={false}
           href="/en/kyusei/"
           className="group block rounded-2xl overflow-hidden border border-violet-200 bg-gradient-to-br from-violet-50 via-white to-amber-50 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"

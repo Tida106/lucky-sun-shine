@@ -82,10 +82,10 @@ const T = {
   },
 };
 
-export default function SpotTop5({ locale }) {
+export default function SpotTop5({ locale, tight = false }) {
   const t = T[locale];
   return (
-    <ScrollReveal as="section" className="max-w-3xl mx-auto px-4 pt-2 md:pt-4 pb-8 md:pb-12">
+    <ScrollReveal as="section" className={`max-w-3xl mx-auto px-4 pt-2 md:pt-4 ${tight ? 'pb-2' : 'pb-8 md:pb-12'}`}>
       <div className="flex justify-center mb-4">
         <RotatingSpeechBubble messages={t.bubbles} />
       </div>
