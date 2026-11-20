@@ -11,6 +11,7 @@ import SunDivider from '@/components/SunDivider';
 import ScrollReveal from '@/components/ScrollReveal';
 import PositiveBanner from '@/components/PositiveBanner';
 import SunMascot from '@/components/SunMascot';
+import RotatingSpeechBubble from '@/components/RotatingSpeechBubble';
 import SunSpeechBubble from '@/components/SunSpeechBubble';
 import DailyMessage from '@/components/DailyMessage';
 
@@ -115,6 +116,13 @@ const SPOT_TOP5 = [
   { slug: 'ise-jingu-power-spot', img: 'spot-ise-jingu', name: '伊勢神宮', hook: '日本人の心のふるさと。まず一度は' },
   { slug: 'meiji-jingu', img: 'spot-meiji-jingu', name: '明治神宮', hook: '都会の森で、心を整える' },
   { slug: 'itsukushima-jinja', img: 'spot-itsukushima', name: '厳島神社', hook: '祭神は三女神。海に立つ大鳥居が人気' },
+];
+const SPOT_BUBBLES = [
+  'あなたに会いたい神社が、きっとあるよ✨',
+  '今日の一歩が、いい運につながるよ⛩️',
+  '神社に行くだけで、心がふわっと軽くなるよ✨',
+  '行きたい場所があるって、もう素敵なこと⛩️',
+  '気になった神社が、今日のあなたの正解だよ⛩️',
 ];
 const SPOT_RANK_BADGE = ['🥇', '🥈', '🥉', '🏅', '🏅'];
 
@@ -360,7 +368,7 @@ export default function HomePage() {
       {/* ⛩️ パワースポット TOP5（定番の人気記事の直下。パワースポット記事への入口） */}
       <ScrollReveal as="section" className="max-w-3xl mx-auto px-4 pt-8 md:pt-12 pb-8 md:pb-12">
         <div className="flex justify-center mb-4">
-          <SunSpeechBubble>行ってみたい神社は、どこかな？⛩️</SunSpeechBubble>
+          <RotatingSpeechBubble messages={SPOT_BUBBLES} />
         </div>
         <div className="text-center mb-8">
           <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
