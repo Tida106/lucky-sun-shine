@@ -368,7 +368,7 @@ export default function HomePage() {
       <SunDivider />
 
       {/* ⛩️ パワースポット TOP5（定番の人気記事の直下。パワースポット記事への入口） */}
-      <ScrollReveal as="section" className="max-w-3xl mx-auto px-4 pt-2 md:pt-4 pb-8 md:pb-12">
+      <ScrollReveal as="section" className="max-w-3xl mx-auto px-4 pt-2 md:pt-4 pb-2 md:pb-2">
         <div className="flex justify-center mb-4">
           <RotatingSpeechBubble messages={SPOT_BUBBLES} />
         </div>
@@ -413,8 +413,10 @@ export default function HomePage() {
         </div>
       </ScrollReveal>
 
+      <SunDivider />
+
       {/* 🔮 九星気学 本命星診断への導線 */}
-      <div className="max-w-6xl mx-auto px-4 mt-2 mb-10 md:mb-14">
+      <div className="max-w-6xl mx-auto px-4 mb-10 md:mb-14">
         <Link prefetch={false}
           href="/kyusei/"
           className="group block rounded-2xl overflow-hidden border border-violet-200 bg-gradient-to-br from-violet-50 via-white to-amber-50 shadow-[0_4px_20px_rgba(0,0,0,0.04)] hover:shadow-[0_14px_32px_rgba(0,0,0,0.10)] hover:-translate-y-1 transition-all duration-300 ease-out"
