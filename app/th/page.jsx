@@ -2,6 +2,8 @@ import { getAllPosts } from '@/lib/posts';
 import PostCard from '@/components/PostCard';
 import SunMascot from '@/components/SunMascot';
 import SunOrnament from '@/components/icons/SunOrnament';
+import SunDivider from '@/components/SunDivider';
+import SpotTop5 from '@/components/SpotTop5';
 
 export const metadata = {
   title: 'Lucky Sun Shine｜คู่มือคริสตัล สถานที่พลังงานดี และการเสริมดวง (ภาษาไทย)',
@@ -36,6 +38,11 @@ export default function ThTopPage() {
           ค่อยๆ อ่านไปได้เลยนะ
         </p>
       </section>
+
+      <div className="mt-10">
+        <SunDivider />
+        <SpotTop5 locale="th" />
+      </div>
 
       <section className="mt-14">
         <div className="mb-6">

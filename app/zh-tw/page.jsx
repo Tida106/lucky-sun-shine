@@ -3,6 +3,8 @@ import { getAllPosts } from '@/lib/posts';
 import PostCard from '@/components/PostCard';
 import SunMascot from '@/components/SunMascot';
 import SunOrnament from '@/components/icons/SunOrnament';
+import SunDivider from '@/components/SunDivider';
+import SpotTop5 from '@/components/SpotTop5';
 
 export const metadata = {
   title: 'Lucky Sun Shine｜水晶・能量景點與開運指南（繁體中文）',
@@ -86,6 +88,11 @@ export default function ZhTwTopPage() {
             到 LINE STORE 看看
           </a>
         </div>
+      </div>
+
+      <div className="mt-10">
+        <SunDivider />
+        <SpotTop5 locale="zh-tw" />
       </div>
 
       {/* 記事一覧 */}

@@ -13,6 +13,7 @@ import PositiveBanner from '@/components/PositiveBanner';
 import SunMascot from '@/components/SunMascot';
 import SunSpeechBubble from '@/components/SunSpeechBubble';
 import DailyMessage from '@/components/DailyMessage';
+import SpotTop5 from '@/components/SpotTop5';
 
 export const metadata = {
   title: 'Lucky Sun Shine | Crystals, Power Spots & Good Luck Guide',
@@ -344,6 +345,10 @@ export default function EnHomePage() {
           </Link>
         </div>
       </ScrollReveal>
+
+      <SunDivider />
+
+      <SpotTop5 locale="en" />
 
       {/* 🔮 Nine Star Ki Calculator entry point */}
       <div className="max-w-6xl mx-auto px-4 mt-2 mb-10 md:mb-14">
