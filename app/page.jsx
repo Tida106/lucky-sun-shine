@@ -240,31 +240,27 @@ export default function HomePage() {
       <DailyMessage locale="ja" />
 
       {/* 🌟 1. LINEスタンプ告知 特大バナー（一番目立つ位置に配置） */}
-      <div className="max-w-6xl mx-auto px-4 mt-16 md:mt-20 mb-10 md:mb-14">
-        <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-1 shadow-sm hover:shadow-md transition-all duration-300">
-          <div className="block rounded-xl bg-white/95 px-5 py-16 md:py-20 md:px-10 text-center backdrop-blur-sm">
-            <span className="inline-block rounded-full bg-[#06C755] px-4 py-1.5 text-xs font-bold tracking-wider text-white mb-8 shadow-sm">
-              ✨ NEW RELEASE ✨
-            </span>
-            <h2 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-amber-500 drop-shadow-sm mb-8 leading-snug">
-              祝・リリース！幸運を招く天使<br className="sm:hidden" />「太陽ちゃん」のLINEスタンプが登場！
-            </h2>
-            <p className="text-sm md:text-base font-medium text-ink-600 mb-10 leading-relaxed max-w-2xl mx-auto">
-              いつも「Lucky Sun Shine」をご覧いただきありがとうございます！<br />
-              当サイトの案内役でおなじみ、かわいい天使の「太陽ちゃん」が毎日使えるLINEスタンプになりました☀️<br />
-              「GOOD MORNING!」「THANK YOU!」「CHEER UP!」など、ハッピーな陽のエネルギーで満たされる開運デザインです✨<br />
-              <span className="inline-block mt-5 font-bold text-amber-600">
-                「友達、家族に送って運気をあげよう！」<br className="sm:hidden" />太陽ちゃんのかわいいお友達のスタンプもチェックしてみてね！
-              </span>
-            </p>
-            <a
-              href="https://store.line.me/stickershop/product/31602987/ja"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-base md:text-lg py-4 px-12 rounded-full shadow-md hover:bg-green-600 hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1"
-            >
-              👉 LINE STOREで今すぐチェック！（190円）
-            </a>
+      <div className="max-w-3xl mx-auto px-4 mt-10 md:mt-12 mb-8 md:mb-10">
+        <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-[3px] shadow-sm hover:shadow-md transition-all duration-300">
+          <div className="rounded-[13px] bg-white/95 px-4 py-4 md:px-6 flex flex-col sm:flex-row items-center gap-3 sm:gap-5 text-center sm:text-left">
+            <img src="/images/mascot-sun-cheer-160.webp" alt="太陽ちゃん" width={96} height={96} loading="lazy" className="w-20 h-20 sm:w-24 sm:h-24 shrink-0 object-contain" />
+            <div className="min-w-0">
+              <h2 className="text-base sm:text-lg font-extrabold text-amber-500 leading-snug">
+                <span className="inline-block align-middle rounded-full bg-[#06C755] px-2.5 py-0.5 text-[11px] font-bold tracking-wider text-white mr-2 shadow-sm">NEW</span>
+                太陽ちゃんのLINEスタンプが登場！
+              </h2>
+              <p className="mt-2 text-xs sm:text-sm text-ink-600 leading-relaxed">
+                「GOOD MORNING!」「THANK YOU!」など、毎日使える開運デザインです。
+              </p>
+              <a
+                href="https://store.line.me/stickershop/product/31602987/ja"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-sm py-2 px-6 rounded-full shadow-sm hover:bg-green-600 hover:shadow-md transition-all duration-300"
+              >
+                LINE STOREでチェック（190円）
+              </a>
+            </div>
           </div>
         </div>
       </div>

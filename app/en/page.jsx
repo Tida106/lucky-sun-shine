@@ -229,31 +229,27 @@ export default function EnHomePage() {
       <DailyMessage locale="en" />
 
       {/* LINE Stickers */}
-      <div className="max-w-6xl mx-auto px-4 mt-16 md:mt-20 mb-10 md:mb-14">
-        <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-1 shadow-sm hover:shadow-md transition-all duration-300">
-          <div className="block rounded-xl bg-white/95 px-5 py-16 md:py-20 md:px-10 text-center backdrop-blur-sm">
-            <span className="inline-block rounded-full bg-[#06C755] px-4 py-1.5 text-xs font-bold tracking-wider text-white mb-8 shadow-sm">
-              ✨ NEW RELEASE ✨
-            </span>
-            <h2 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-amber-500 drop-shadow-sm mb-8 leading-snug">
-              Out Now! LINE Stickers featuring<br className="sm:hidden" /> "Sun-chan", the lucky angel!
-            </h2>
-            <p className="text-sm md:text-base font-medium text-ink-600 mb-10 leading-relaxed max-w-2xl mx-auto">
-              Thank you for always visiting "Lucky Sun Shine"!<br />
-              Our adorable mascot, "Sun-chan", is now available as LINE stickers for your daily chats☀️<br />
-              Filled with happy and positive energy like "GOOD MORNING!", "THANK YOU!", and "CHEER UP!"✨<br />
-              <span className="inline-block mt-5 font-bold text-amber-600">
-                Send them to your friends and family to boost everyone's luck!
-              </span>
-            </p>
-            <a
-              href="https://store.line.me/stickershop/product/31602987/en"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-base md:text-lg py-4 px-12 rounded-full shadow-md hover:bg-green-600 hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1"
-            >
-              👉 Check it out on LINE STORE!
-            </a>
+      <div className="max-w-3xl mx-auto px-4 mt-10 md:mt-12 mb-8 md:mb-10">
+        <div className="rounded-2xl bg-gradient-to-r from-green-300 via-emerald-200 to-green-300 p-[3px] shadow-sm hover:shadow-md transition-all duration-300">
+          <div className="rounded-[13px] bg-white/95 px-4 py-4 md:px-6 flex flex-col sm:flex-row items-center gap-3 sm:gap-5 text-center sm:text-left">
+            <img src="/images/mascot-sun-cheer-160.webp" alt="Sun-chan" width={96} height={96} loading="lazy" className="w-20 h-20 sm:w-24 sm:h-24 shrink-0 object-contain" />
+            <div className="min-w-0">
+              <h2 className="text-base sm:text-lg font-extrabold text-amber-500 leading-snug">
+                <span className="inline-block align-middle rounded-full bg-[#06C755] px-2.5 py-0.5 text-[11px] font-bold tracking-wider text-white mr-2 shadow-sm">NEW</span>
+                Sun-chan LINE Stickers are out!
+              </h2>
+              <p className="mt-2 text-xs sm:text-sm text-ink-600 leading-relaxed">
+                Lucky-charm designs for everyday chats, like "GOOD MORNING!" and "THANK YOU!".
+              </p>
+              <a
+                href="https://store.line.me/stickershop/product/31602987/en"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 inline-flex items-center justify-center bg-[#06C755] text-white font-bold text-sm py-2 px-6 rounded-full shadow-sm hover:bg-green-600 hover:shadow-md transition-all duration-300"
+              >
+                Check it out on LINE STORE
+              </a>
+            </div>
           </div>
         </div>
       </div>
