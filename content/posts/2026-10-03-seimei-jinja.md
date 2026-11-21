@@ -5,7 +5,7 @@ date: "2026-10-03"
 category: "powerspots"
 tags: ["晴明神社", "京都", "厄除け", "陰陽道", "パワースポット"]
 slug: "seimei-jinja"
-cardImage: "/images/cards/seimei-jinja.webp"
+cardImage: "/images/cards/seimei-jinja-2.webp"
 draft: false
 ---
 
