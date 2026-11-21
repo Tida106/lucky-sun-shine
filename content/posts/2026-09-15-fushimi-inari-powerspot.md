@@ -3,6 +3,7 @@ title: "【京都・伏見稲荷】御朱印は開運パスポート✨太陽ち
 description: "「最近心がモヤモヤする」という大人女子におすすめ！京都・伏見稲荷大社を舞台に、御朱印の本当の意味から、千本鳥居やおもかる石などの開運お山巡りルート、相性の良い天然石シトリンまで徹底解説します。"
 date: "2026-09-15T15:00:00+09:00"
 category: "powerspots"
+cardImage: "/images/cards/fushimi-inari-goshuin-powerspot.webp"
 tags: ["開運お出かけ", "京都", "浄化", "シトリン", "御朱印"]
 slug: "fushimi-inari-goshuin-powerspot"
 draft: false
