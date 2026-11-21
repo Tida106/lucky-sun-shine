@@ -5,6 +5,7 @@ date: "2026-10-03"
 category: "powerspots"
 tags: ["竈門神社", "浅草寺", "聖地巡礼", "縁結び", "厄除け"]
 slug: "kimetsu-kamado-sensoji"
+cardImage: "/images/cards/kimetsu-kamado-sensoji.webp"
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "Pilgrimage and Good Luck: Exploring the Sites Connected to Your Name."
 description: "Lake Suwa, Suwa Taisha Shrine, and Hida-Furukawa are said to be among the inspirations behind Your Name. Sun-chan explains the view at Kataware-doki, the teaching of Musubi, the kumihimo braiding craft, and the good luck rooted in these sacred sites."
 date: "2026-10-03"
 category: "powerspots"
-tags: ["Suwa Taisha Shrine", "Hida-Furukawa", "Pilgrimage", "Matchmaking", "Kumihimo"]
+tags: ["Suwa Taisha Shrine", "Hida-Furukawa", "Suga Shrine", "Pilgrimage", "Matchmaking", "Kumihimo"]
 slug: "kiminonawa-suwa-hida"
 draft: false
 viatorSpots:
@@ -88,6 +88,28 @@ If Suwa carries the grand "soul of nature and the cosmos," then Hida-Furukawa in
 * **【Deep Background and Origins】:** This sacred site is said to be the model for a shrine that appears in the film. Its annual festival, the "Furukawa Matsuri," held every April 19th and 20th, is registered as a UNESCO Intangible Cultural Heritage, and the excitement of the "Okoshi-daiko" (wake-up drum), in which men carry giant drums through town at night, is an overwhelming sight. The shrine serves as Hida's spiritual pillar, where quiet prayer and a once-a-year explosion of passionate vitality exist side by side.
 * **【Sun-chan's Top Pick Explanation】:** With every step you take climbing the stone staircase, you'll feel the noise of the secular world growing more distant, replaced by a sacred stillness! This is a place that offers clear inspiration whenever you want to quietly face yourself, or ask your heart "what really matters to me" ☀️
 * **【Official Info】:** [Hida City Tourism Association Official Website (Keta Wakamiya Shrine)](https://www.hida-kankou.jp/)
+
+---
+
+## 🏙️ [Tokyo, Yotsuya] Suga Shrine and the Staircase From the Final Scene
+
+The stone staircase leading up to Suga Shrine in Shinjuku, Tokyo, is widely known as the staircase shown in the final scene of *Your Name.*, where the two leads pass each other. It sits in a quiet residential neighborhood of Yotsuya and has drawn many fans from Japan and abroad since the film's release.
+
+<figure class="photo">
+<img src="/images/posts/suga-stairs-front-640.webp" srcset="/images/posts/suga-stairs-front-640.webp 640w, /images/posts/suga-stairs-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The stone staircase with red handrails leading up to Suga Shrine, seen from the front">
+<figcaption>The staircase leading to Suga Shrine (Shinjuku, Tokyo). Photo: <a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
+### Suga Shrine
+* **【Features】:** The guardian shrine of Yotsuya's eighteen old towns, said to have moved to its present location in 1634. It enshrines Susanoo-no-Mikoto and Ukanomitama-no-Kami.
+* **【Blessings It Is Known For】:** It is said to be loved for warding off misfortune, good luck, thriving business and matchmaking.
+* **【Access】:** About 7 minutes on foot from Yotsuya-sanchome Station (Tokyo Metro Marunouchi Line), or about 10 minutes from Yotsuya Station (JR).
+* **【Sun-chan's Tip】:** The approach is in a residential area, so keep your voice down and be considerate of residents and other worshippers when taking photos.
+
+<figure class="photo">
+<img src="/images/posts/suga-stairs-view-640.webp" srcset="/images/posts/suga-stairs-view-640.webp 640w, /images/posts/suga-stairs-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="View of Yotsuya houses looking down from the top of the staircase">
+<figcaption>The view from the top of the staircase (taken in December 2024). Photo: <a href="https://commons.wikimedia.org/wiki/File:Suga_Shrine_staircase_9_December_2024.jpg" rel="noopener" target="_blank">Yuet Man Lee</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
 
 ---
 

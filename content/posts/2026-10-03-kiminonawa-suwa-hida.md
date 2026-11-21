@@ -3,7 +3,7 @@ title: "【聖地巡礼×開運】『君の名は。』ゆかりの地を巡る�
 description: "『君の名は。』の舞台モデルの一つと言われる諏訪湖・諏訪大社と飛騨古川。かたわれ時の絶景やムスビの教え、組紐の文化など、聖地に息づく開運の由来を太陽ちゃんが解説します。"
 date: "2026-10-03"
 category: "powerspots"
-tags: ["諏訪大社", "飛騨古川", "聖地巡礼", "縁結び", "組紐"]
+tags: ["諏訪大社", "飛騨古川", "須賀神社", "聖地巡礼", "縁結び", "組紐"]
 slug: "kiminonawa-suwa-hida"
 draft: false
 ---
@@ -81,6 +81,28 @@ draft: false
 * **【深い背景・由来】：** 作中に登場する神社のモデルとされる聖地です。毎年4月19日・20日に行われる例祭「古川祭」はユネスコ無形文化遺産にも登録されており、夜間に男衆が巨大な太鼓を担いで町を駆け巡る「起し太鼓」の熱気は圧巻。静寂の祈りと、年に一度の情熱的な生命の爆発が同居する、飛騨の精神的支柱となっています。
 * **【太陽ちゃんのイチオシ解説】：** 石段を一歩一歩踏みしめて登るたびに、俗世のざわめきが遠のいていくような神聖な静けさがあります！自分自身と静かに向き合いたい時や、「本当に大切なものは何か」を心に問いかけたい時に、澄み切ったインスピレーションを与えてくれる場所です☀️
 * **【公式案内】：** [飛騨市観光協会 公式サイト（気多若宮神社）](https://www.hida-kankou.jp/)
+
+---
+
+## 🏙️ 【東京・四谷】ラストシーンの階段で知られる「須賀神社」
+
+『君の名は。』のラストシーンで、二人がすれ違う場面に描かれた階段として知られているのが、東京・新宿区の須賀神社へ続く石段です。四谷の静かな住宅街の中にあり、映画の公開後は、全国や海外からも多くのファンが訪れるようになりました。
+
+<figure class="photo">
+<img src="/images/posts/suga-stairs-front-640.webp" srcset="/images/posts/suga-stairs-front-640.webp 640w, /images/posts/suga-stairs-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="須賀神社へ続く赤い手すりの石段を正面から見た写真">
+<figcaption>須賀神社へ続く石段（東京都新宿区）。写真：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+### 須賀神社（すがじんじゃ）
+* **【特徴】：** 四谷十八ヵ町の総鎮守で、江戸時代初期の1634年（寛永11年）に現在の四谷の地へ移ったと伝わります。須佐之男命（すさのおのみこと）と宇迦之御魂命（うかのみたまのみこと）をお祀りしています。
+* **【ご利益とされるもの】：** 厄除け・開運招福・商売繁盛・縁結びなどで親しまれていると言われています。
+* **【アクセス】：** 東京メトロ丸の内線「四谷三丁目」駅から徒歩約7分、JR「四ツ谷」駅から徒歩約10分。
+* **【太陽ちゃんのひとこと】：** 参道は住宅街の中にあります。大きな声は控えて、地域の方や参拝の方の迷惑にならないように、気持ちよく写真を撮りましょう。
+
+<figure class="photo">
+<img src="/images/posts/suga-stairs-view-640.webp" srcset="/images/posts/suga-stairs-view-640.webp 640w, /images/posts/suga-stairs-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石段の上から四谷の住宅街を見下ろした写真">
+<figcaption>石段の上から見た景色（2024年12月撮影）。写真：<a href="https://commons.wikimedia.org/wiki/File:Suga_Shrine_staircase_9_December_2024.jpg" rel="noopener" target="_blank">Yuet Man Lee</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
 
 ---
 

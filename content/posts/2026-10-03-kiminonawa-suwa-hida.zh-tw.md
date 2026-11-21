@@ -3,7 +3,7 @@ title: "【聖地巡禮×開運】尋訪《你的名字。》的舞台原型！�
 description: "諏訪湖、諏訪大社與飛驒古川，相傳是《你的名字。》的舞台原型之一。黃昏時刻的絕景、「結」的教誨、組紐文化，太陽醬帶你解析聖地中流動的開運由來。"
 date: "2026-10-03"
 category: "powerspots"
-tags: ["諏訪大社", "飛驒古川", "聖地巡禮", "結良緣", "組紐"]
+tags: ["諏訪大社", "飛驒古川", "須賀神社", "聖地巡禮", "結良緣", "組紐"]
 slug: "kiminonawa-suwa-hida"
 draft: false
 ---
@@ -81,6 +81,28 @@ draft: false
 * **【深層背景・由來】：** 相傳是作品中登場神社的舞台原型之一。每年4月19、20日舉行的例祭「古川祭」已登錄為聯合國教科文組織無形文化遺產，夜間男眾扛著巨大太鼓奔走全鎮的「起太鼓」氣勢震撼人心。靜謐的祈禱與一年一度熱情生命力的爆發並存，是飛驒的精神支柱。
 * **【太陽醬的私房解說】：** 一步步踏上石階往上走，塵世的喧囂會漸漸遠去，帶來一種神聖的寧靜！這裡是想靜靜面對自我，或是叩問內心「真正重要的是什麼」時，能帶來澄澈靈感的地方☀️
 * **【官方資訊】：** [飛驒市觀光協會 官方網站（氣多若宮神社）](https://www.hida-kankou.jp/)
+
+---
+
+## 🏙️ 【東京・四谷】《你的名字。》結尾場景的階梯——須賀神社
+
+通往東京新宿區須賀神社的石階，被認為是《你的名字。》最後一幕中兩人擦身而過的階梯，因而廣為人知。它位於四谷安靜的住宅區，電影上映後，吸引了來自日本各地與海外的許多影迷造訪。
+
+<figure class="photo">
+<img src="/images/posts/suga-stairs-front-640.webp" srcset="/images/posts/suga-stairs-front-640.webp 640w, /images/posts/suga-stairs-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="從正面拍攝通往須賀神社、扶手為紅色的石階">
+<figcaption>通往須賀神社的石階（東京都新宿區）。照片：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
+### 須賀神社（すがじんじゃ）
+* **【特色】：** 四谷十八町的總鎮守，相傳於江戶時代初期的1634年（寬永11年）遷至現在的四谷。供奉須佐之男命與宇迦之御魂命。
+* **【據說的御利益】：** 據說以消災解厄、開運招福、生意興隆、結良緣等廣受信眾喜愛。
+* **【交通】：** 從東京Metro丸之內線「四谷三丁目」站步行約7分鐘，或從JR「四谷」站步行約10分鐘。
+* **【太陽醬的小提醒】：** 參道位於住宅區內，請放低音量，拍照時也要顧及居民與其他參拜者。
+
+<figure class="photo">
+<img src="/images/posts/suga-stairs-view-640.webp" srcset="/images/posts/suga-stairs-view-640.webp 640w, /images/posts/suga-stairs-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="從石階上方俯瞰四谷住宅區的景色">
+<figcaption>從石階上方望出去的景色（2024年12月拍攝）。照片：<a href="https://commons.wikimedia.org/wiki/File:Suga_Shrine_staircase_9_December_2024.jpg" rel="noopener" target="_blank">Yuet Man Lee</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
 
 ---
 
