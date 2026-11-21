@@ -6,6 +6,7 @@ updated: "2026-10-08"
 category: "powerspots"
 tags: ["金運財布", "廣尾稲荷神社", "パワースポット", "高橋由一", "墨龍図", "お守り"]
 slug: "hiroo-inari-shrine-powerspot"
+cardImage: "/images/cards/hiroo-inari-powerspot.webp"
 draft: false
 ---
 
