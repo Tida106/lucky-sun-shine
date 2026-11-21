@@ -88,6 +88,11 @@ draft: false
 <figcaption>ภายในถ้ำมีประตูโทริอิและศาลเล็ก ท้องน้ำมีก้อนหินที่วางอธิษฐาน (ถ่ายเมื่อปี 1995) ภาพ: <a href="https://commons.wikimedia.org/wiki/File:AmanoiwatoCave.jpg" rel="noopener" target="_blank">Fg2</a>/Wikimedia Commons, สาธารณสมบัติ (ปรับขนาด)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/amanoiwato-yasukawara-torii-640.webp" srcset="/images/posts/amanoiwato-yasukawara-torii-640.webp 640w, /images/posts/amanoiwato-yasukawara-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="ประตูโทริอิที่อามาโนะยาสุกาวาระมองจากในถ้ำ พร้อมหุบเขาสีเขียวขจี">
+<figcaption>มองจากในถ้ำไปยังประตูโทริอิและหุบเขาสีเขียวที่อามาโนะยาสุกาวาระ พื้นเต็มไปด้วยก้อนหินที่ซ้อนกันเพื่ออธิษฐาน ภาพ: <a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a> (ปรับขนาด)</figcaption>
+</figure>
+
 เล่ากันว่าการวางหินพร้อมอธิษฐานจะช่วยให้สมหวัง ท้องน้ำเต็มไปด้วยหินที่ผู้มาเยือนวางไว้ **ทางเดินลื่นเมื่อเปียก** จึงควรสวมรองเท้าที่เดินสบาย
 
 ## เส้นทางแนะนำและเวลาที่ใช้

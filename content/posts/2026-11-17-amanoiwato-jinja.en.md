@@ -106,6 +106,11 @@ Amanoyasukawara is a large cave said to be **where the eight million gods gather
 <figcaption>A torii and a small shrine inside the cave, with stones stacked in prayer on the riverbed (photographed in 1995). Photo: <a href="https://commons.wikimedia.org/wiki/File:AmanoiwatoCave.jpg" rel="noopener" target="_blank">Fg2</a>/Wikimedia Commons, Public domain (resized)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/amanoiwato-yasukawara-torii-640.webp" srcset="/images/posts/amanoiwato-yasukawara-torii-640.webp 640w, /images/posts/amanoiwato-yasukawara-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="The torii at Ama-no-Yasukawara seen from inside the cave, with a lush green gorge beyond">
+<figcaption>Looking out from inside the cave at Ama-no-Yasukawara: the torii, a green gorge, and countless stacked prayer stones. Photo: <a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a> (resized)</figcaption>
+</figure>
+
 It is said that stacking a stone and making a wish can help it come true, and the riverbed is full of stones left by visitors. **The path can be slippery when wet**, so wear shoes you can walk in comfortably.
 
 ## <span id="course"></span>Model Route and Time Needed

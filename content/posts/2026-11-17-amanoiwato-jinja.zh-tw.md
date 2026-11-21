@@ -111,6 +111,11 @@ draft: false
 <figcaption>洞窟中有鳥居與小祠堂，河原上堆著祈願的石頭（1995年拍攝）。 照片: <a href="https://commons.wikimedia.org/wiki/File:AmanoiwatoCave.jpg" rel="noopener" target="_blank">Fg2</a>/Wikimedia Commons, 公有領域 （已調整尺寸）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/amanoiwato-yasukawara-torii-640.webp" srcset="/images/posts/amanoiwato-yasukawara-torii-640.webp 640w, /images/posts/amanoiwato-yasukawara-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="從洞窟內望向天安河原的鳥居與新綠的溪谷">
+<figcaption>從洞窟內望向天安河原的鳥居與新綠溪谷，腳邊堆滿了祈願的石頭。 照片: <a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a>（已調整尺寸）</figcaption>
+</figure>
+
 據說堆石頭並許願能夠實現，河原上排滿參拜者堆起的石頭。**山路潮濕時容易滑**，建議穿好走的鞋子。
 
 ## <span id="course"></span>遊覽模範路線與所需時間

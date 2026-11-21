@@ -112,6 +112,11 @@ draft: false
 <figcaption>洞窟の中に鳥居と小さな祠があり、河原には祈願の石が積まれています（1995年撮影）。 写真: <a href="https://commons.wikimedia.org/wiki/File:AmanoiwatoCave.jpg" rel="noopener" target="_blank">Fg2</a>/Wikimedia Commons, パブリックドメイン （リサイズ）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/amanoiwato-yasukawara-torii-640.webp" srcset="/images/posts/amanoiwato-yasukawara-torii-640.webp 640w, /images/posts/amanoiwato-yasukawara-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="洞窟の奥から見た天安河原の鳥居と、新緑の渓谷">
+<figcaption>洞窟の中から、鳥居と新緑の渓谷を望む天安河原。足元には、祈願の石がたくさん積まれています。 写真：<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a>（リサイズ）</figcaption>
+</figure>
+
 石を積んで願い事をすると叶うとされ、河原には参拝者が積んだ石が並びます。**山道は濡れると滑りやすい** ので、歩きやすい靴で行くと安心です。
 
 ## <span id="course"></span>回り方のモデルコースと所要時間
