@@ -3,6 +3,7 @@ title: "【開運】神社で出会える！神様の可愛いメッセンジャ
 description: "神社で出会える動物たち「神使」の意味と由来を、参拝がもっと楽しくなるヒントとともにやさしく紹介します。"
 date: "2026-09-18"
 category: "powerspots"
+cardImage: "/images/cards/shinto-animal-messengers.webp"
 excerpt: "キツネ、シカ、ハト、カラス、ウシ。神社の可愛い動物たち（神使）が持つ特別な開運パワーと癒やしの秘密をご紹介します！"
 ---
 
