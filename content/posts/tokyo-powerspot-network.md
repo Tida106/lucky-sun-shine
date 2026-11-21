@@ -43,6 +43,16 @@ excerpt: "神田明神、浅草寺、明治神宮、豪徳寺。大都会・東�
 
 境内にある有名な「清正井（きよまさのいど）」は、大地の奥深くからコンコンと湧き出るフレッシュな伏流水のスポット💧✨土地が持つフレッシュな生命力のパワーが満ちあふれていて、見ているだけで心の濁りや日々の疲れがすーっと洗われていくのを感じられます。
 
+<figure class="photo">
+<img src="/images/posts/meiji-kiyomasa-well-wide-640.webp" srcset="/images/posts/meiji-kiyomasa-well-wide-640.webp 640w, /images/posts/meiji-kiyomasa-well-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明治神宮の清正井。飛び石の奥にある円形の井戸と、苔むした岩、シダの緑">
+<figcaption>木々に囲まれた静かな一角に、円形の井戸と飛び石が並びます。 写真：<a href="https://web.archive.org/web/20161024020555/http://www.panoramio.com/photo/59656619" rel="noopener" target="_blank">珈琲牛乳</a>／Wikimedia Commons（Panoramio経由）、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/meiji-kiyomasa-well-closeup-640.webp" srcset="/images/posts/meiji-kiyomasa-well-closeup-640.webp 640w, /images/posts/meiji-kiyomasa-well-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明治神宮の清正井の水面に映る、岩と木々の緑">
+<figcaption>井戸の水面には、まわりの岩や木々の緑が映り込んでいます。 写真：<a href="https://web.archive.org/web/20161020074753/http://www.panoramio.com/photo/59656623" rel="noopener" target="_blank">珈琲牛乳</a>／Wikimedia Commons（Panoramio経由）、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 都会の喧騒から離れて深呼吸したい時、木々の優しい光のシャワーを浴びに明治神宮の森を歩いてみませんか？自然のエネルギーで心が満たされていく感覚を味わえますよ☀️✨
 
 ## 4. 豪徳寺：愛くるしい「招き猫」たちが福を呼ぶ！ご縁を引き寄せるほっこり寺院🐾☀️

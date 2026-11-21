@@ -50,6 +50,16 @@ Take one step inside, and it's another world! Actually, this vast tutelary fores
 
 The famous "Kiyomasa's Well" within the grounds is a spot with fresh underground water gushing up endlessly from deep within the earth 💧✨ It is overflowing with the fresh life force of the land, and just by looking at it, you can feel the cloudiness in your heart and your daily fatigue being smoothly washed away.
 
+<figure class="photo">
+<img src="/images/posts/meiji-kiyomasa-well-wide-640.webp" srcset="/images/posts/meiji-kiyomasa-well-wide-640.webp 640w, /images/posts/meiji-kiyomasa-well-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Kiyomasa's Well at Meiji Jingu: a round well beyond stepping stones, with mossy rocks and ferns">
+<figcaption>A round well and stepping stones in a quiet, tree-shaded corner. Photo: <a href="https://web.archive.org/web/20161024020555/http://www.panoramio.com/photo/59656619" rel="noopener" target="_blank">珈琲牛乳</a> / Wikimedia Commons (via Panoramio), <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/meiji-kiyomasa-well-closeup-640.webp" srcset="/images/posts/meiji-kiyomasa-well-closeup-640.webp 640w, /images/posts/meiji-kiyomasa-well-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Rocks and green foliage reflected in the water of Kiyomasa's Well at Meiji Jingu">
+<figcaption>The surface of the well mirrors the surrounding rocks and greenery. Photo: <a href="https://web.archive.org/web/20161020074753/http://www.panoramio.com/photo/59656623" rel="noopener" target="_blank">珈琲牛乳</a> / Wikimedia Commons (via Panoramio), <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 When you want to take a deep breath away from the hustle and bustle of the city, why not take a walk through the forest of Meiji Jingu to bathe in the gentle light shower of the trees? You can experience the sensation of your heart being filled with the energy of nature ☀️✨
 
 ## 4. Gotokuji: Adorable "Maneki-Neko" Invite Fortune! A Heartwarming Temple that Attracts Good Connections 🐾☀️

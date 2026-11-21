@@ -44,6 +44,16 @@ draft: false
 
 境內著名的「清正井」，是從大地深處源源不絕湧出的清新地下水景點💧✨這片土地所蘊藏的清新生命力能量滿溢而出，光是靜靜看著，就能感覺內心的混濁與日常的疲憊慢慢被洗淨。
 
+<figure class="photo">
+<img src="/images/posts/meiji-kiyomasa-well-wide-640.webp" srcset="/images/posts/meiji-kiyomasa-well-wide-640.webp 640w, /images/posts/meiji-kiyomasa-well-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明治神宮的清正井：踏石後方的圓形井口，周圍是長滿青苔的岩石與蕨類">
+<figcaption>在樹木環繞的寧靜一角，圓形井口與踏石並列。 照片：<a href="https://web.archive.org/web/20161024020555/http://www.panoramio.com/photo/59656619" rel="noopener" target="_blank">珈琲牛乳</a>／Wikimedia Commons（經由 Panoramio），<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/meiji-kiyomasa-well-closeup-640.webp" srcset="/images/posts/meiji-kiyomasa-well-closeup-640.webp 640w, /images/posts/meiji-kiyomasa-well-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明治神宮清正井水面倒映出的岩石與綠意">
+<figcaption>井水的水面倒映著周圍的岩石與樹木的綠意。 照片：<a href="https://web.archive.org/web/20161020074753/http://www.panoramio.com/photo/59656623" rel="noopener" target="_blank">珈琲牛乳</a>／Wikimedia Commons（經由 Panoramio），<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 想遠離都市的喧囂、來一次深呼吸的時候，不妨走進明治神宮的森林，沐浴在樹木溫柔的光之淋浴中吧？你一定能體會到被大自然能量填滿心靈的感覺喔☀️✨
 
 ## 4. 豪德寺：可愛的「招財貓」們正在呼喚福氣！讓人心頭一暖、招來好緣分的療癒寺院🐾☀️
