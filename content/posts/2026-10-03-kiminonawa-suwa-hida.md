@@ -5,6 +5,7 @@ date: "2026-10-03"
 category: "powerspots"
 tags: ["諏訪大社", "飛騨古川", "須賀神社", "聖地巡礼", "縁結び", "組紐"]
 slug: "kiminonawa-suwa-hida"
+cardImage: "/images/cards/kiminonawa-suwa-hida.webp"
 draft: false
 ---
 
