@@ -11,6 +11,7 @@ tags:
   - 参拝
   - 開運
 slug: shrine-sweets
+cardImage: "/images/cards/shrine-sweets.webp"
 draft: false
 ---
 
