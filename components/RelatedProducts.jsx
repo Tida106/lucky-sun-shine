@@ -59,7 +59,7 @@ const sendClickEventToGA4 = (itemName, itemUrl) => {
   }
 };
 
-export default function RelatedProducts({ post, heading = 'この記事に関連する商品', keywords }) {
+export default function RelatedProducts({ post, heading = 'この記事に関連する商品', keywords, items }) {
   const category = post?.category;
   
   // 🎯 必殺技：タグが読み込めない環境でも、タイトルから絶対に見つけ出す超強力ロジック！
@@ -85,7 +85,9 @@ export default function RelatedProducts({ post, heading = 'この記事に関連
 
   // キーワードが確定した場合の、クリック率が高いリッチなリンクカード
   let customItems = [];
-  if (searchKeyword) {
+  if (items && items.length > 0) {
+    customItems = items;
+  } else if (searchKeyword) {
     const encodedKw = encodeURIComponent(searchKeyword);
     customItems = [
       {
@@ -110,7 +112,7 @@ export default function RelatedProducts({ post, heading = 'この記事に関連
       </h3>
       <p className="text-xs text-ink-500 mb-4">
         <span className="inline-block px-1.5 py-0.5 mr-1 rounded bg-amber-200 text-amber-900 font-bold align-middle">PR</span>
-        この記事に関連するおすすめ商品を楽天市場・Amazonからチェックできます。
+        この記事に関連するおすすめ商品・サービスを楽天・Amazonからチェックできます。
       </p>
 
       {customItems.length > 0 ? (

@@ -1,0 +1,25 @@
+// 日本語版のパワースポット記事末尾に出す「楽天トラベル」リンク用の対応表。
+// キーは data/travel-links.json のエリアキー。pref は楽天トラベルの都道府県スラッグ。
+export const travelAreasJa = {
+  tokyo: { label: '東京', pref: 'tokyo' },
+  kyoto: { label: '京都', pref: 'kyoto' },
+  nara: { label: '奈良', pref: 'nara' },
+  nikko: { label: '日光', pref: 'tochigi' },
+  suwa: { label: '諏訪', pref: 'nagano' },
+  hida: { label: '飛騨', pref: 'gifu' },
+  fukuoka: { label: '福岡', pref: 'fukuoka' },
+  takachiho: { label: '宮崎（高千穂）', pref: 'miyazaki' },
+  hokkaido: { label: '北海道', pref: 'hokkaido' },
+  kumano: { label: '熊野（和歌山）', pref: 'wakayama' },
+  yakushima: { label: '鹿児島（屋久島）', pref: 'kagoshima' },
+  izumo: { label: '出雲（島根）', pref: 'shimane' },
+  chichibu: { label: '秩父', pref: 'saitama' },
+  ise: { label: '伊勢（三重）', pref: 'mie' },
+  dogo: { label: '道後温泉（愛媛）', pref: 'ehime' },
+  shikoku: { label: '愛媛', pref: 'ehime' },
+  hiroshima: { label: '広島', pref: 'hiroshima' },
+  enoshima: { label: '江の島（神奈川）', pref: 'kanagawa' },
+  aso: { label: '熊本（阿蘇）', pref: 'kumamoto' },
+  hiei: { label: '比叡山（滋賀）', pref: 'shiga' },
+  fuji: { label: '富士山（静岡）', pref: 'shizuoka' },
+};

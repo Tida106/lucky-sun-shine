@@ -15,6 +15,8 @@ import ArticleCover from "@/components/ArticleCover";
 import StoneThumbEnhancer from "@/components/StoneThumbEnhancer";
 import PhoneFortuneCTA from "@/components/PhoneFortuneCTA";
 import RelatedProducts from "@/components/RelatedProducts";
+import travelLinks from "@/data/travel-links.json";
+import { travelAreasJa } from "@/data/travel-areas-ja";
 import FaqSection from "@/components/FaqSection";
 import GoldenRouteArticles from "@/components/GoldenRouteArticles";
 import { getFaqForPost, faqJsonLd } from "@/lib/faq";
@@ -81,6 +83,33 @@ export default async function BlogPostPage({ params }) {
 
   const html = await renderMarkdown(post.content, LOCALE);
   const headings = extractHeadings(html);
+  const isSpotPost = post.category === 'powerspots' || post.category === 'powerspot';
+  const rakutenAf = (u) => `https://hb.afl.rakuten.co.jp/hgc/49d07b81.208f8a99.49d07b82.80a916ab/?pc=${encodeURIComponent(u)}&link_type=text`;
+  const amazonTag = process.env.NEXT_PUBLIC_AMAZON_TAG || '';
+  const spotItems = isSpotPost
+    ? [
+        ...(travelLinks.posts[post.slug] || [])
+          .map((k) => travelAreasJa[k])
+          .filter(Boolean)
+          .slice(0, 2)
+          .map((a) => ({
+            title: `楽天トラベルで「${a.label}」の宿を探す`,
+            price: '人気の宿ランキング',
+            url: rakutenAf(`https://travel.rakuten.co.jp/ranking/sales/${a.pref}/`),
+          })),
+        {
+          title: '御朱印帳を楽天市場で探す',
+          price: 'おすすめアイテム一覧',
+          url: rakutenAf(`https://search.rakuten.co.jp/search/mall/${encodeURIComponent('御朱印帳')}/`),
+        },
+        {
+          title: 'お守り・御朱印帳をAmazonで探す',
+          price: '関連グッズをチェック',
+          url: `https://www.amazon.co.jp/s?k=${encodeURIComponent('御朱印帳')}&tag=${amazonTag}`,
+        },
+      ]
+    : undefined;
+
   const cat = getCategory(post.category);
   const minutes = readingTimeMinutes(post.content, LOCALE);
 
@@ -231,12 +260,23 @@ export default async function BlogPostPage({ params }) {
 
         <ShareButtons url={`${site.url}/blog/${post.slug}/`} title={post.title} image={`${site.url}/og-image.jpg`} className="mt-12" />
 
-        {/* ▼通常の記事下固定メッセージ（パワーストーン購入誘導など） */}
-        <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
-          {`最後まで読んでくれてありがとう🌻\n天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨\nでも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦\n『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛`}
-        </BlogMascotBubble>
-
-        <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
+        {isSpotPost ? (
+          <>
+            {/* ▼パワースポット記事用：旅行・参拝グッズ向けの記事下メッセージと商品リンク */}
+            <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
+              {`最後まで読んでくれてありがとう🌻\n行ってみたいなって思えた場所はあったかな？\n人気のエリアは、宿が早めに埋まっちゃうこともあるから、気になったらまずチェックしてみてね✨\n御朱印帳やお守りも用意して、素敵な参拝の旅になりますように💛`}
+            </BlogMascotBubble>
+            <RelatedProducts post={post} heading="旅と参拝の準備をチェック" items={spotItems} />
+          </>
+        ) : (
+          <>
+            {/* ▼通常の記事下固定メッセージ（パワーストーン購入誘導など） */}
+            <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
+              {`最後まで読んでくれてありがとう🌻\n天然石との出会いは一期一会。いま直感で『これ！』と惹かれる石があったら、それが今のあなたに必要な運命の石だよ✨\nでも、色合いの綺麗なものや、ピンとくる石からどんどん他の人にお迎えされていっちゃうから要注意💦\n『あの時見ておけばよかった…』って後悔しないように、まずは今のラインナップだけでも早めにチェックしてみてね！💛`}
+            </BlogMascotBubble>
+            <RelatedProducts post={post} heading="いま出会える運命の石をチェック" />
+          </>
+        )}
 
         <GoldenRouteArticles />
 
