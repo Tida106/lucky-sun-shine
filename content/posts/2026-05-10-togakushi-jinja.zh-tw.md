@@ -72,11 +72,61 @@ draft: false
 | **寶光社** | 天表春命 | 中社的御子神，274階石階，守護女性與孩童 |
 | **火之御子社** | 天鈿女命 | 在天岩戶前跳舞的神明，才藝・結緣 |
 
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-torii-640.webp" srcset="/images/posts/togakushi-chusha-torii-640.webp 640w, /images/posts/togakushi-chusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="中社的木造大鳥居">
+<figcaption>矗立在中社入口的木造大鳥居，石階的前方就是社殿。 照片：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170254" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-haiden-640.webp" srcset="/images/posts/togakushi-chusha-haiden-640.webp 640w, /images/posts/togakushi-chusha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="被綠意環繞的中社社殿">
+<figcaption>被樹木綠意環繞的中社社殿，拜殿前也能看到參拜的人們。 照片：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170264" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-snow-640.webp" srcset="/images/posts/togakushi-chusha-snow-640.webp 640w, /images/posts/togakushi-chusha-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="積雪未融的中社社殿">
+<figcaption>積雪尚存季節的中社社殿，掛著注連繩的正面籠罩在寧靜的氣氛中。 照片：<a href="https://www.flickr.com/photos/alextojun/51752616478/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-torii-640.webp" srcset="/images/posts/togakushi-hokosha-torii-640.webp 640w, /images/posts/togakushi-hokosha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="寶光社的鳥居與石階">
+<figcaption>寶光社的鳥居，以及延伸至後方的長長石階。 照片：<a href="https://www.flickr.com/photos/alextojun/51751549552/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-haiden-640.webp" srcset="/images/posts/togakushi-hokosha-haiden-640.webp 640w, /images/posts/togakushi-hokosha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="新綠時節的寶光社社殿">
+<figcaption>新綠時節的寶光社社殿，屋簷下精細的雕刻格外引人注目。 照片：<a href="https://www.flickr.com/photos/alextojun/54513742486/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-honden-640.webp" srcset="/images/posts/togakushi-honden-640.webp 640w, /images/posts/togakushi-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="杉林環繞的戶隱神社社殿">
+<figcaption>被杉木林環繞的戶隱神社社殿，掛著注連繩，左右立有石燈籠。 照片：<a href="https://commons.wikimedia.org/wiki/User:Opqr" rel="noopener" target="_blank">Opqr</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
 ## <span id="sugi"></span>杉樹林道與隨神門
 
 戶隱神社最有名的，便是**奧社參道的杉樹林道**。**樹齡超過400年的杉樹連綿約500公尺**，是一條令人屏息的壯觀林道，也被日本林野廳選為「森之巨人百選」「**新日本街道樹百景**」。途中的**隨神門（茅草屋頂的朱紅色大門）**是熱門的拍照景點，若在起霧的早晨造訪，更籠罩著一股神秘的氛圍。
 
 奧社參道**單程約2公里**，從參道入口到奧社步行約需40分鐘。後半段是陡峭的石階，建議穿著好走的鞋子與服裝前往。
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-torii-640.webp" srcset="/images/posts/togakushi-okusha-torii-640.webp 640w, /images/posts/togakushi-okusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="奧社參道入口的大鳥居">
+<figcaption>矗立在奧社參道入口的大鳥居，從這裡開始前往奧社的路程。 照片：<a href="https://commons.wikimedia.org/wiki/User:TTTNIS" rel="noopener" target="_blank">TTTNIS</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-zuishinmon-640.webp" srcset="/images/posts/togakushi-okusha-zuishinmon-640.webp 640w, /images/posts/togakushi-okusha-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奧社參道的隨神門">
+<figcaption>奧社參道途中的朱紅色隨神門，茅草屋頂上長滿了青苔與雜草。 照片：<a href="https://www.flickr.com/photos/alextojun/54514092185/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-zuishinmon-summer-640.webp" srcset="/images/posts/togakushi-zuishinmon-summer-640.webp 640w, /images/posts/togakushi-zuishinmon-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夏天的隨神門">
+<figcaption>夏天的隨神門，覆蓋屋頂的蕨類與雜草綠意盎然。 照片：<a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-sugi-namiki-640.webp" srcset="/images/posts/togakushi-sugi-namiki-640.webp 640w, /images/posts/togakushi-sugi-namiki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="通往奧社的杉樹林道">
+<figcaption>通往奧社的杉樹林道，粗壯的杉樹高聳在道路兩側。 照片：<a href="https://commons.wikimedia.org/wiki/User:Koda6029" rel="noopener" target="_blank">Koda6029</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
 
 ## <span id="point"></span>參拜重點
 
@@ -110,6 +160,11 @@ draft: false
 - **戶隱蕎麥麵** — 日本三大蕎麥麵之一，中社周邊有許多名店
 - **戶隱忍法資料館** — 戶隱流忍法的歷史
 - **善光寺** — 位於長野市內，許多人會與戶隱一併參拜
+
+<figure class="photo">
+<img src="/images/posts/togakushi-soba-640.webp" srcset="/images/posts/togakushi-soba-640.webp 640w, /images/posts/togakushi-soba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="中社附近蕎麥麵店的天婦羅蕎麥麵">
+<figcaption>在中社附近的蕎麥麵店享用的熱呼呼天婦羅蕎麥麵。 照片：<a href="https://commons.wikimedia.org/wiki/User:Komoro_no_kaze" rel="noopener" target="_blank">Komoro no kaze</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
 
 ## <span id="season"></span>推薦的時期・時段
 

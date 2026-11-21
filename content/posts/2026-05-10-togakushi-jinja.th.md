@@ -69,11 +69,61 @@ draft: false
 | **โฮโกชะ** | อะเมะโนะอุวาฮารุ โนะ มิโคโตะ | เทพบุตรของชูชะ บันได 274 ขั้น ผู้พิทักษ์ผู้หญิงและเด็ก |
 | **ฮิโนะมิโกะชะ** | อะเมะโนะอุสึเมะ โนะ มิโคโตะ | เทพีผู้ร่ายรำหน้าถ้ำสวรรค์ ศิลปะการแสดง การผูกสายสัมพันธ์ |
 
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-torii-640.webp" srcset="/images/posts/togakushi-chusha-torii-640.webp 640w, /images/posts/togakushi-chusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="เสาโทริอิไม้ของชูชะ">
+<figcaption>โทริอิไม้ขนาดใหญ่ที่ทางเข้าศาลชูชะ ด้านหลังมีบันไดหินนำไปสู่ตัวศาลเจ้า ภาพ: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170254" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.th" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-haiden-640.webp" srcset="/images/posts/togakushi-chusha-haiden-640.webp 640w, /images/posts/togakushi-chusha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ตัวอาคารของชูชะท่ามกลางต้นไม้สีเขียว">
+<figcaption>อาคารของศาลชูชะที่รายล้อมด้วยต้นไม้เขียวขจี ด้านหน้ามีผู้มากราบไหว้ ภาพ: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170264" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.th" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-snow-640.webp" srcset="/images/posts/togakushi-chusha-snow-640.webp 640w, /images/posts/togakushi-chusha-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ศาลชูชะในช่วงที่ยังมีหิมะ">
+<figcaption>ศาลชูชะในฤดูที่ยังมีหิมะหลงเหลือ ด้านหน้าที่แขวนเชือกชิเมนาวะอบอวลด้วยบรรยากาศสงบ ภาพ: <a href="https://www.flickr.com/photos/alextojun/51752616478/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.th" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-torii-640.webp" srcset="/images/posts/togakushi-hokosha-torii-640.webp 640w, /images/posts/togakushi-hokosha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="โทริอิและบันไดหินของโฮโกชะ">
+<figcaption>โทริอิของศาลโฮโกชะและบันไดหินยาวที่ทอดขึ้นไปด้านหลัง ภาพ: <a href="https://www.flickr.com/photos/alextojun/51751549552/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.th" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-haiden-640.webp" srcset="/images/posts/togakushi-hokosha-haiden-640.webp 640w, /images/posts/togakushi-hokosha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ตัวอาคารของโฮโกชะในช่วงใบไม้ผลิ">
+<figcaption>อาคารของศาลโฮโกชะในช่วงใบไม้ผลิ งานแกะสลักละเอียดใต้ชายคาสะดุดตา ภาพ: <a href="https://www.flickr.com/photos/alextojun/54513742486/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.th" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-honden-640.webp" srcset="/images/posts/togakushi-honden-640.webp 640w, /images/posts/togakushi-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="อาคารของศาลเจ้าโทงาคุชิท่ามกลางป่าซีดาร์">
+<figcaption>อาคารของศาลเจ้าโทงาคุชิท่ามกลางป่าซีดาร์ มีเชือกชิเมนาวะแขวนอยู่ด้านหน้า และมีโคมหินตั้งอยู่สองข้าง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Opqr" rel="noopener" target="_blank">Opqr</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## แถวต้นซีดาร์และประตูซุยชินมง
 
 สิ่งที่โด่งดังที่สุดของศาลเจ้าโทงากูชิคือ **แถวต้นซีดาร์ตลอดทางไปโอคุชะ** ทางเดินอันตระการตาที่มี **ต้นซีดาร์อายุกว่า 400 ปีเรียงยาวประมาณ 500 เมตร** ได้รับเลือกเป็น "100 ยักษ์ใหญ่แห่งป่า" และ "**100 แถวต้นไม้ริมทางของญี่ปุ่นยุคใหม่**" ของสำนักป่าไม้ **ประตูซุยชินมง (ประตูสีแดงชาดหลังคามุงจาก)** ระหว่างทางเป็นจุดถ่ายภาพยอดนิยม และห่อหุ้มด้วยบรรยากาศลึกลับในเช้าที่มีหมอก
 
 ทางไปโอคุชะ **ไป ประมาณ 2 กม. เดินจากทางเข้าไปถึงโอคุชะราว 40 นาที** ช่วงหลังเป็นบันไดหินชัน แนะนำให้สวมรองเท้าและเสื้อผ้าที่เดินสบาย
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-torii-640.webp" srcset="/images/posts/togakushi-okusha-torii-640.webp 640w, /images/posts/togakushi-okusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="โทริอิใหญ่ที่ทางเข้าเส้นทางสู่โอคุชะ">
+<figcaption>โทริอิใหญ่ที่ทางเข้าเส้นทางสู่ศาลโอคุชะ เส้นทางไปยังศาลชั้นในเริ่มต้นจากตรงนี้ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:TTTNIS" rel="noopener" target="_blank">TTTNIS</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-zuishinmon-640.webp" srcset="/images/posts/togakushi-okusha-zuishinmon-640.webp 640w, /images/posts/togakushi-okusha-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ประตูซุยชินมงบนเส้นทางสู่โอคุชะ">
+<figcaption>ประตูซุยชินมงสีแดงชาดริมเส้นทางสู่โอคุชะ หลังคามุงจากปกคลุมด้วยมอสและหญ้า ภาพ: <a href="https://www.flickr.com/photos/alextojun/54514092185/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.th" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-zuishinmon-summer-640.webp" srcset="/images/posts/togakushi-zuishinmon-summer-640.webp 640w, /images/posts/togakushi-zuishinmon-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ประตูซุยชินมงในฤดูร้อน">
+<figcaption>ประตูซุยชินมงในฤดูร้อน หลังคาปกคลุมด้วยเฟิร์นและหญ้าสีเขียวสด ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-sugi-namiki-640.webp" srcset="/images/posts/togakushi-sugi-namiki-640.webp 640w, /images/posts/togakushi-sugi-namiki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="แถวต้นซีดาร์ที่นำไปสู่โอคุชะ">
+<figcaption>เส้นทางสู่โอคุชะที่ทอดผ่านแถวต้นซีดาร์ ต้นซีดาร์ลำต้นใหญ่ตระหง่านอยู่สองข้างทาง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Koda6029" rel="noopener" target="_blank">Koda6029</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
 
 ## ข้อควรรู้ในการไหว้
 
@@ -107,6 +157,11 @@ draft: false
 - **โซบะโทงากูชิ** — หนึ่งในสามโซบะของญี่ปุ่น มีร้านดังมากมายรอบชูชะ
 - **พิพิธภัณฑ์นินจาโทงากูชิ** — ประวัติศาสตร์นินจาสำนักโทงากูชิ
 - **วัดเซ็นโคจิ** — ในเมืองนากาโนะ หลายคนไหว้คู่กับโทงากูชิ
+
+<figure class="photo">
+<img src="/images/posts/togakushi-soba-640.webp" srcset="/images/posts/togakushi-soba-640.webp 640w, /images/posts/togakushi-soba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="เท็มปุระโซบะใกล้ศาลชูชะ">
+<figcaption>เท็มปุระโซบะร้อน ๆ ที่ร้านโซบะใกล้ศาลชูชะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Komoro_no_kaze" rel="noopener" target="_blank">Komoro no kaze</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
 
 ## ช่วงเวลาที่แนะนำ
 

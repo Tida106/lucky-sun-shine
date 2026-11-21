@@ -72,11 +72,61 @@ draft: false
 | **宝光社** | 天表春命 | 中社の御子神、274段の石段、女性・子供の守護 |
 | **火之御子社** | 天鈿女命 | 天岩戸前で舞った神、芸能・縁結び |
 
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-torii-640.webp" srcset="/images/posts/togakushi-chusha-torii-640.webp 640w, /images/posts/togakushi-chusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="中社の木造の大鳥居">
+<figcaption>中社の入口に立つ木造の大鳥居。石段の先に社殿があります。 写真：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170254" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-haiden-640.webp" srcset="/images/posts/togakushi-chusha-haiden-640.webp 640w, /images/posts/togakushi-chusha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="緑に囲まれた中社の社殿">
+<figcaption>木々の緑に囲まれた中社の社殿。拝殿の前では参拝の人の姿も見えます。 写真：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170264" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-snow-640.webp" srcset="/images/posts/togakushi-chusha-snow-640.webp 640w, /images/posts/togakushi-chusha-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雪の残る中社の社殿">
+<figcaption>雪が残る季節の中社の社殿。しめ縄の掛かる正面が、静かな空気に包まれています。 写真：<a href="https://www.flickr.com/photos/alextojun/51752616478/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-torii-640.webp" srcset="/images/posts/togakushi-hokosha-torii-640.webp 640w, /images/posts/togakushi-hokosha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="宝光社の鳥居と石段">
+<figcaption>宝光社の鳥居と、その先へ続く長い石段。 写真：<a href="https://www.flickr.com/photos/alextojun/51751549552/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-haiden-640.webp" srcset="/images/posts/togakushi-hokosha-haiden-640.webp 640w, /images/posts/togakushi-hokosha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="新緑の宝光社の社殿">
+<figcaption>新緑の頃の宝光社の社殿。軒下の細やかな彫刻が目を引きます。 写真：<a href="https://www.flickr.com/photos/alextojun/54513742486/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-honden-640.webp" srcset="/images/posts/togakushi-honden-640.webp 640w, /images/posts/togakushi-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="杉木立に囲まれた戸隠神社の社殿">
+<figcaption>杉木立に囲まれた戸隠神社の社殿。しめ縄が掛かり、左右には石の灯籠が立っています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Opqr" rel="noopener" target="_blank">Opqr</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="sugi"></span>杉並木と随神門
 
 戸隠神社で最も有名なのが、**奥社参道の杉並木**。**樹齢400年超の杉が約500m続く** 圧巻の並木道で、林野庁「森の巨人たち百選」「**新日本街路樹百景**」にも選定されています。途中の **随神門（茅葺き屋根の朱塗りの門）** は写真スポットとして人気で、霧の朝には神秘的な雰囲気に包まれます。
 
 奥社参道は **片道約2km**、参道入口から奥社まで徒歩約40分。後半は石段の急登で、靴と服装は歩きやすいものを推奨します。
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-torii-640.webp" srcset="/images/posts/togakushi-okusha-torii-640.webp 640w, /images/posts/togakushi-okusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="奥社の参道入口に立つ大鳥居">
+<figcaption>奥社の参道入口に立つ大鳥居。ここから奥社への道が始まります。 写真：<a href="https://commons.wikimedia.org/wiki/User:TTTNIS" rel="noopener" target="_blank">TTTNIS</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-zuishinmon-640.webp" srcset="/images/posts/togakushi-okusha-zuishinmon-640.webp 640w, /images/posts/togakushi-okusha-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奥社参道の随神門">
+<figcaption>奥社参道の途中にある朱塗りの随神門。茅葺きの屋根は苔や草でおおわれています。 写真：<a href="https://www.flickr.com/photos/alextojun/54514092185/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-zuishinmon-summer-640.webp" srcset="/images/posts/togakushi-zuishinmon-summer-640.webp 640w, /images/posts/togakushi-zuishinmon-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夏の随神門">
+<figcaption>夏の随神門。屋根をおおうシダや草の緑が鮮やかです。 写真：<a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-sugi-namiki-640.webp" srcset="/images/posts/togakushi-sugi-namiki-640.webp 640w, /images/posts/togakushi-sugi-namiki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奥社へと続く杉並木">
+<figcaption>奥社へと続く杉並木の参道。太い杉が道の両側にそびえています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Koda6029" rel="noopener" target="_blank">Koda6029</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
 
 ## <span id="point"></span>参拝のポイント
 
@@ -110,6 +160,11 @@ draft: false
 - **戸隠そば** — 日本三大そばの一つ、中社周辺に名店多数
 - **戸隠忍法資料館** — 戸隠流忍法の歴史
 - **善光寺** — 長野市内、戸隠と合わせて参拝する人も多い
+
+<figure class="photo">
+<img src="/images/posts/togakushi-soba-640.webp" srcset="/images/posts/togakushi-soba-640.webp 640w, /images/posts/togakushi-soba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="中社近くのそば店の天ぷらそば">
+<figcaption>中社の近くのそば店でいただく、温かい天ぷらそば。 写真：<a href="https://commons.wikimedia.org/wiki/User:Komoro_no_kaze" rel="noopener" target="_blank">Komoro no kaze</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
 
 ## <span id="season"></span>おすすめの時期・時間
 

@@ -74,11 +74,61 @@ From the Heian period onwards, **Mount Togakushi** flourished as a sacred site f
 | **Hokosha Shrine** | Ame-no-Uwaharu-no-Mikoto | The child deity of Chusha Shrine, reached by 274 stone steps, protector of women and children. |
 | **Hinomikosha Shrine** | Ame-no-Uzume-no-Mikoto | The deity who danced before the Ama-no-Iwato, for performing arts and matchmaking. |
 
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-torii-640.webp" srcset="/images/posts/togakushi-chusha-torii-640.webp 640w, /images/posts/togakushi-chusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The wooden torii gate of Chusha">
+<figcaption>The large wooden torii at the entrance of Chusha, with stone steps leading up to the shrine. Photo: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170254" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-haiden-640.webp" srcset="/images/posts/togakushi-chusha-haiden-640.webp 640w, /images/posts/togakushi-chusha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The main hall of Chusha surrounded by green trees">
+<figcaption>The hall of Chusha, surrounded by green trees, with visitors gathered in front. Photo: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/98170264" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-chusha-snow-640.webp" srcset="/images/posts/togakushi-chusha-snow-640.webp 640w, /images/posts/togakushi-chusha-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Chusha hall with snow on the ground">
+<figcaption>Chusha in the season when snow still lies on the ground, the front with its shimenawa wrapped in a quiet calm. Photo: <a href="https://www.flickr.com/photos/alextojun/51752616478/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-torii-640.webp" srcset="/images/posts/togakushi-hokosha-torii-640.webp 640w, /images/posts/togakushi-hokosha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The torii and stone steps of Hokosha">
+<figcaption>The torii of Hokosha and the long flight of stone steps rising beyond it. Photo: <a href="https://www.flickr.com/photos/alextojun/51751549552/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-hokosha-haiden-640.webp" srcset="/images/posts/togakushi-hokosha-haiden-640.webp 640w, /images/posts/togakushi-hokosha-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The hall of Hokosha in fresh green">
+<figcaption>The hall of Hokosha in the fresh green season, with finely carved details under the eaves. Photo: <a href="https://www.flickr.com/photos/alextojun/54513742486/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-honden-640.webp" srcset="/images/posts/togakushi-honden-640.webp 640w, /images/posts/togakushi-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A shrine hall of Togakushi surrounded by cedar trees">
+<figcaption>A hall of Togakushi Shrine among cedar trees, with a shimenawa across the front and stone lanterns on both sides. Photo: <a href="https://commons.wikimedia.org/wiki/User:Opqr" rel="noopener" target="_blank">Opqr</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
 ## <span id="sugi"></span>Cedar Avenue and Zuijinmon Gate
 
 The most famous feature of Togakushi Shrine is the **Cedar Avenue leading to Okusha Shrine**. This awe-inspiring path stretches for approximately **500 meters, lined with cedars over 400 years old**, earning its place in the Forestry Agency's "100 Giant Trees of Forests" and "100 New Japanese Street Trees." The **Zuijinmon Gate (a vermilion-lacquered gate with a thatched roof)**, located midway, is a popular photo spot, and it's especially enchanting enveloped in a mysterious mist on a foggy morning.
 
 The Okusha Shrine approach is approximately **2 km one way**, taking about 40 minutes on foot from the entrance to the shrine. The latter half involves a steep climb up stone steps, so comfortable shoes and clothing are highly recommended.
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-torii-640.webp" srcset="/images/posts/togakushi-okusha-torii-640.webp 640w, /images/posts/togakushi-okusha-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="The great torii at the entrance to the Okusha approach">
+<figcaption>The great torii at the entrance to the Okusha approach, where the path to the inner shrine begins. Photo: <a href="https://commons.wikimedia.org/wiki/User:TTTNIS" rel="noopener" target="_blank">TTTNIS</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-okusha-zuishinmon-640.webp" srcset="/images/posts/togakushi-okusha-zuishinmon-640.webp 640w, /images/posts/togakushi-okusha-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The Zuishinmon gate on the Okusha approach">
+<figcaption>The vermilion Zuishinmon gate along the Okusha approach, its thatched roof covered in moss and grass. Photo: <a href="https://www.flickr.com/photos/alextojun/54514092185/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-zuishinmon-summer-640.webp" srcset="/images/posts/togakushi-zuishinmon-summer-640.webp 640w, /images/posts/togakushi-zuishinmon-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Zuishinmon in summer">
+<figcaption>Zuishinmon in summer, its roof covered in vivid green ferns and grass. Photo: <a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/togakushi-sugi-namiki-640.webp" srcset="/images/posts/togakushi-sugi-namiki-640.webp 640w, /images/posts/togakushi-sugi-namiki-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The cedar avenue leading to Okusha">
+<figcaption>The cedar-lined approach to Okusha, with thick cedars towering on both sides of the path. Photo: <a href="https://commons.wikimedia.org/wiki/User:Koda6029" rel="noopener" target="_blank">Koda6029</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
 
 ## <span id="point"></span>Pilgrimage Tips
 
@@ -112,6 +162,11 @@ Here are some stones believed to resonate well with the sacred energy of Togakus
 - **Togakushi Soba** — One of Japan's three great sobas, with many famous restaurants around Chusha Shrine.
 - **Togakushi Ninja Museum** — Discover the history of Togakure-ryu Ninpo.
 - **Zenkoji Temple** — Located in Nagano City, many visitors combine a trip to Zenkoji with Togakushi.
+
+<figure class="photo">
+<img src="/images/posts/togakushi-soba-640.webp" srcset="/images/posts/togakushi-soba-640.webp 640w, /images/posts/togakushi-soba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="Tempura soba near Chusha">
+<figcaption>A bowl of warm tempura soba at a soba restaurant near Chusha. Photo: <a href="https://commons.wikimedia.org/wiki/User:Komoro_no_kaze" rel="noopener" target="_blank">Komoro no kaze</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
 
 ## <span id="season"></span>Best Season and Time to Visit
 
