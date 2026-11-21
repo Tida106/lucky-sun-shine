@@ -3,6 +3,7 @@ title: "1200kmの旅で心と魂を丸ごとリセット✨ 四国遍路が「�
 description: "四国八十八ヶ所巡礼（四国遍路）が、心を整える旅として国内外から注目される理由を、全行程約1200kmの魅力とともに紹介します。"
 date: "2026-09-18"
 category: "powerspots"
+cardImage: "/images/cards/shikoku-pilgrimage-healing.webp"
 excerpt: "四国遍路は厳しい修行ではなく、日常の重荷を脱ぎ捨てて無条件の愛を受け取る究極の癒やし旅です。心と魂をリセットする魔法の理由をご紹介します。"
 ---
 
