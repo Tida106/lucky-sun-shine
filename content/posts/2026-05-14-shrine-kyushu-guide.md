@@ -5,6 +5,7 @@ description: >-
 date: '2026-05-14'
 updated: '2026-05-14'
 category: powerspots
+cardImage: "/images/cards/shrine-kyushu-guide.webp"
 tags:
   - 九州
   - 福岡
