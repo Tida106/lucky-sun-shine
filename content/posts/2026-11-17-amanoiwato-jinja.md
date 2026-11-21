@@ -11,6 +11,7 @@ tags:
   - 神話
   - 天照大神
 slug: amanoiwato-jinja
+cardImage: "/images/cards/amanoiwato-jinja.webp"
 cover: /images/posts/amanoiwato-jinja.jpg
 draft: false
 ---
