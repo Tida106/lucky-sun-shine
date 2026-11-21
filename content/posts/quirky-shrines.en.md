@@ -57,6 +57,10 @@ The pilgrimage process, standing side-by-side with the mortal fear that one slip
 
 Note: If you plan to visit, decide within your own limits based on the weather and your condition, and check the latest access information from official sources such as Setana Town.
 
+**🔗 Official & Reference Links (Ota Shrine has no official website, so these are introductory pages)**
+- <a href="https://www.visit-hokkaido.jp/korezo/detail/30" rel="noopener" target="_blank">Visit Hokkaido blog: a visit to Ota Shrine (Japanese)</a>
+- <a href="https://www.athome.co.jp/vox/jtown/town/56023/" rel="noopener" target="_blank">J-Town Net: the climb explained, with comments from the Setana Tourism Association (Japanese)</a>
+
 **💡 Phrases for Overseas SNS Posts**
 - Japan's Most Dangerous Shrine: The Death-Defying Hiking Guide to Ota Shrine
 - One slip and it's over! 🧗‍♂️ Would you risk your life climbing a vertical cliff to pray at Japan's most dangerous shrine? ⛩️ #ExtremeTravel
@@ -72,6 +76,11 @@ Today, it is cherished as a good luck spot embracing all kinds of diversity, inc
 In Western religious views and Puritanism, sex and reproductive organs have long been considered "original sin" or "things to be hidden." That's exactly why the sight of people carrying a giant pink phallus mikoshi (Elizabeth Mikoshi) in broad daylight during the spring "Kanamara Matsuri," happily tasting colorful candy crafted to look like penises and vulvas, gives overseas readers immeasurable culture shock and a sense of liberation.
 
 The animistic tolerance of Shinto, which has no strict dogmas, achieves the ultimate inclusion transcending nationality and gender, and that is its "coolest point."
+
+**🔗 Official & Reference Links (Kanayama Shrine is a sub-shrine within Wakamiya Hachimangu)**
+- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-5.pdf" rel="noopener" target="_blank">Kawasaki City: Kanayama Shrine (Japanese, PDF)</a>
+- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-8.pdf" rel="noopener" target="_blank">Kawasaki City: Kanamara Matsuri (Japanese, PDF)</a>
+- <a href="https://en.wikipedia.org/wiki/Kanamara_Matsuri" rel="noopener" target="_blank">Wikipedia: Kanamara Matsuri</a>
 
 **💡 Phrases for Overseas SNS Posts**
 - Kanayama Shrine in Japan: Where Ancient Fertility Rites Meet LGBTQ Pride
@@ -92,6 +101,10 @@ It is the strongest digital good luck power spot for everyone involved in IT, wh
 ### Why It's Cool! (Points That Surprise Overseas Readers)
 The very fact that a deity answering prayers for modern server operation and cyber safety exists within the grounds of a historic Kyoto temple creates the ultimate cyberpunk contrast. Recognizing divine spirits not only in visible nature but also in "invisible powerful energies" like electricity and radio waves is an idea truly unique to Japanese animism.
 
+**🔗 Official & Reference Links (Denden-gu is on the grounds of Horinji Temple)**
+- <a href="https://www.kokuzohourinji.com/index.en.html" rel="noopener" target="_blank">Horinji Temple official website</a>
+- <a href="https://www.mlit.go.jp/tagengo-db/R2-01459.html" rel="noopener" target="_blank">Japan Tourism Agency: Jusan Mairi and Dendengu Shrine</a>
+
 **💡 Phrases for Overseas SNS Posts**
 - Denden-gu Shrine: Kyoto's Hidden Temple for Electricity, IT Geeks, and Cyber Security
 - Praying for no Wi-Fi drops? 📶 Japan has an ancient shrine dedicated to IT, electricity, and even sells MicroSD charms! 💾⛩️ #CyberPunk
@@ -108,6 +121,10 @@ The sight of colorful "breast ema (votive picture plaques)" hand-crafted from cl
 
 It tells the story of Shinto's broad-mindedness, which honestly confronts worries about one's own body, warmly embraces them, and elevates them into prayer.
 
+**🔗 Official & Reference Links**
+- <a href="https://www.okayama-kanko.jp/spot/detail_10782.html" rel="noopener" target="_blank">Okayama Tourism: Karube Shrine (Japanese)</a>
+- <a href="https://www.japan-experience.com/all-about-japan/okayama/temples-shrines/karube-shrine" rel="noopener" target="_blank">Japan Experience: Karube Shrine</a>
+
 **💡 Phrases for Overseas SNS Posts**
 - The Story Behind Japan's "Boob Shrine" and Its Hand-Crafted Ema Plaques
 - Looking for a bizarre yet beautiful cultural experience? This hidden Japanese shrine is entirely dedicated to women's breast health and motherhood! 🎗️🙏 #TravelJapan
@@ -121,6 +138,10 @@ It is an incredibly new shrine founded in 2004, triggered by a person winning a 
 
 ### Why It's Cool! (Points That Surprise Overseas Readers)
 It is just too interesting that desires like "winning the lottery" and products of modern civilization like "motorcycle traffic safety" are incorporated into the animistic structure of Shinto without any contradiction. With gachapon (capsule toy) machines for amulets placed in a precinct lined with torii gates, its excessive pop nature and adaptability to capitalism exhilaratingly smash the stiff image of religion.
+
+**🔗 Official & Reference Links**
+- <a href="https://www.hogihogi.or.jp/yurai" rel="noopener" target="_blank">Hogi-Hogi Shrine official website (origin story, Japanese)</a>
+- <a href="https://www.travel.co.jp/guide/article/15915/" rel="noopener" target="_blank">Travel.jp: Hogi-Hogi Shrine (Japanese)</a>
 
 **💡 Phrases for Overseas SNS Posts**
 - Hogi-Hogi Shrine: The Modern Japanese Shrine Born from a Lottery Win in 2004

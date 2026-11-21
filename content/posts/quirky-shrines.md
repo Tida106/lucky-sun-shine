@@ -52,6 +52,10 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 
 ※実際に訪れる場合は、天候や体調に合わせて無理のない判断を。最新の入山情報は、せたな町などの公式情報でご確認ください。
 
+**🔗 公式・参考リンク（太田神社は公式サイトがないため、紹介ページです）**
+- <a href="https://www.visit-hokkaido.jp/korezo/detail/30" rel="noopener" target="_blank">北海道の観光情報サイト「参拝してきました」</a>
+- <a href="https://www.athome.co.jp/vox/jtown/town/56023/" rel="noopener" target="_blank">Jタウンネット「参拝の行程」（せたな観光協会のコメントあり）</a>
+
 **💡 海外向けSNS投稿用フレーズ**
 * Japan's Most Dangerous Shrine: The Death-Defying Hiking Guide to Ota Shrine
 * One slip and it's over! 🧗‍♂️ Would you risk your life climbing a vertical cliff to pray at Japan's most dangerous shrine? ⛩️ #ExtremeTravel
@@ -67,6 +71,11 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 西洋の宗教観やピューリタニズムにおいて、性や生殖器は長らく「原罪」や「隠すべきもの」とされてきた歴史があるよね。だからこそ、春の「かなまら祭」でピンク色の巨大な男根神輿（エリザベス神輿）を白昼堂々と担ぎ、男根や女陰を模したカラフルな飴細工を楽しそうに味わう人々の姿は、海外読者に計り知れないカルチャーショックと開放感を与えるんだ。
 
 厳格な教義を持たない神道のアニミズム的寛容性が、国籍や性別を超えた究極のインクルージョンを実現している点が「最高のクールポイント」なんだよ。
+
+**🔗 公式・参考リンク（金山神社は若宮八幡宮の境内社です）**
+- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-5.pdf" rel="noopener" target="_blank">川崎市「かわさき区の宝物」金山神社</a>
+- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-8.pdf" rel="noopener" target="_blank">川崎市「かわさき区の宝物」かなまら祭</a>
+- <a href="https://livejapan.com/ja/in-tokyo/in-pref-kanagawa/in-kawasaki/spot-lj0013866/" rel="noopener" target="_blank">LIVE JAPAN「かなまら祭」</a>
 
 **💡 海外向けSNS投稿用フレーズ**
 * Kanayama Shrine in Japan: Where Ancient Fertility Rites Meet LGBTQ Pride
@@ -87,6 +96,10 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 ### ここがクール！（海外読者が驚くポイント）
 歴史ある京都の寺院境内に、現代のサーバー稼働やサイバー安全を祈願する神様が存在するという事実自体が、最高のサイバーパンク的コントラストを生み出しているんだよ。目に見える自然だけでなく、電気や電波という「目に見えない強力なエネルギー」にまで神霊を認めるのは、まさに日本のアニミズムならではの発想だね。
 
+**🔗 公式・参考リンク（電電宮は法輪寺の境内にあります）**
+- <a href="https://www.kokuzohourinji.com/" rel="noopener" target="_blank">法輪寺 公式サイト</a>
+- <a href="https://www.mlit.go.jp/tagengo-db/R2-01459.html" rel="noopener" target="_blank">観光庁 多言語解説文データベース「十三参りと電電宮」</a>
+
 **💡 海外向けSNS投稿用フレーズ**
 * Denden-gu Shrine: Kyoto's Hidden Temple for Electricity, IT Geeks, and Cyber Security
 * Praying for no Wi-Fi drops? 📶 Japan has an ancient shrine dedicated to IT, electricity, and even sells MicroSD charms! 💾⛩️ #CyberPunk
@@ -103,6 +116,10 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 
 自分の身体の悩みに素直に向き合い、温かく包み込んで祈りに昇華させる神道の懐の深さを物語っているよ。
 
+**🔗 公式・参考リンク**
+- <a href="https://www.okayama-kanko.jp/spot/detail_10782.html" rel="noopener" target="_blank">岡山観光WEB 軽部神社</a>
+- <a href="https://www.okayama-kanko.jp/okatabi/1590/page" rel="noopener" target="_blank">岡山観光WEB「総社市のおもしろ神社2選」</a>
+
 **💡 海外向けSNS投稿用フレーズ**
 * The Story Behind Japan's "Boob Shrine" and Its Hand-Crafted Ema Plaques
 * Looking for a bizarre yet beautiful cultural experience? This hidden Japanese shrine is entirely dedicated to women's breast health and motherhood! 🎗️🙏 #TravelJapan
@@ -116,6 +133,10 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 
 ### ここがクール！（海外読者が驚くポイント）
 「宝くじ当選」という欲望や「バイクの交通安全」という現代文明の産物が、一切の矛盾なく神道のアニミズム構造に取り込まれているのが面白すぎるよね。鳥居が立ち並ぶ境内に御守りのガチャガチャ（カプセルトイ）が置かれるなど、過剰なまでのポップさと資本主義への適応力は、宗教の堅苦しいイメージを痛快に打ち砕いてくれるよ。
+
+**🔗 公式・参考リンク**
+- <a href="https://www.hogihogi.or.jp/yurai" rel="noopener" target="_blank">宝来宝来神社 公式サイト（由来）</a>
+- <a href="https://www.travel.co.jp/guide/article/15915/" rel="noopener" target="_blank">トラベルjp「宝来宝来神社」</a>
 
 **💡 海外向けSNS投稿用フレーズ**
 * Hogi-Hogi Shrine: The Modern Japanese Shrine Born from a Lottery Win in 2004
