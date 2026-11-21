@@ -74,8 +74,6 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 厳格な教義を持たない神道のアニミズム的寛容性が、国籍や性別を超えた究極のインクルージョンを実現している点が「最高のクールポイント」なんだよ。
 
 **🔗 公式・参考リンク（金山神社は若宮八幡宮の境内社です）**
-- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-5.pdf" rel="noopener" target="_blank">川崎市「かわさき区の宝物」金山神社</a>
-- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-8.pdf" rel="noopener" target="_blank">川崎市「かわさき区の宝物」かなまら祭</a>
 - <a href="https://livejapan.com/ja/in-tokyo/in-pref-kanagawa/in-kawasaki/spot-lj0013866/" rel="noopener" target="_blank">LIVE JAPAN「かなまら祭」</a>
 
 **💡 海外向けSNS投稿用フレーズ**

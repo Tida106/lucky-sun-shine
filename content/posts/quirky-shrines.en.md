@@ -78,8 +78,6 @@ In Western religious views and Puritanism, sex and reproductive organs have long
 The animistic tolerance of Shinto, which has no strict dogmas, achieves the ultimate inclusion transcending nationality and gender, and that is its "coolest point."
 
 **🔗 Official & Reference Links (Kanayama Shrine is a sub-shrine within Wakamiya Hachimangu)**
-- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-5.pdf" rel="noopener" target="_blank">Kawasaki City: Kanayama Shrine (Japanese, PDF)</a>
-- <a href="https://www.city.kawasaki.jp/kawasaki/cmsfiles/contents/0000025/25622/10-8.pdf" rel="noopener" target="_blank">Kawasaki City: Kanamara Matsuri (Japanese, PDF)</a>
 - <a href="https://en.wikipedia.org/wiki/Kanamara_Matsuri" rel="noopener" target="_blank">Wikipedia: Kanamara Matsuri</a>
 
 **💡 Phrases for Overseas SNS Posts**
