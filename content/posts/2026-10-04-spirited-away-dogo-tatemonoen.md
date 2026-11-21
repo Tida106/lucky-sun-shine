@@ -5,6 +5,7 @@ date: "2026-10-04"
 category: "powerspots"
 tags: ["道後温泉", "江戸東京たてもの園", "聖地巡礼", "禊", "浄化"]
 slug: "spirited-away-dogo-tatemonoen"
+cardImage: "/images/cards/spirited-away-dogo-tatemonoen.webp"
 draft: false
 ---
 
