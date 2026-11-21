@@ -28,12 +28,34 @@ This time, I will introduce 5 carefully selected niche shrines where you can fee
 ### What Kind of Deity? (Roots and Blessings)
 Ota Shrine, enshrined in Setana Town, Kudo District, Hokkaido, is a prominent mountain sacred site known among the countless shrines across Japan as the "most dangerous shrine in Japan."
 
+<figure class="photo">
+<img src="/images/posts/otasan-stairs-640.webp" srcset="/images/posts/otasan-stairs-640.webp 640w, /images/posts/otasan-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The steep stone stairs of Ota Shrine with a rope for climbers to hold">
+<figcaption>The steep stone stairs of Ota Shrine, with a rope to hold while climbing. Photo: <a href="https://commons.wikimedia.org/wiki/File:Steep_stairs_Otasan_Shrine_Setana_Hokkaido_-_Jul_4_2022.jpg" rel="noopener" target="_blank">Kzaral</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
 As the harsh history of Shugendo (Japanese mountain asceticism) suggests, by overcoming physical pain and fear to pray, you can be granted a great purification of the spirit and a powerful good luck energy that carves through any difficulty (fulfillment of various wishes for opening one's path, and maritime safety).
 
 ### Why It's Cool! (Points That Surprise Overseas Readers)
 In contrast to Western cathedrals built safely and luxuriously on flat land, the main hall of Ota Shrine sits all alone in a small cave yawning open on a sheer cliff 485 meters above sea level.
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/otasan-honden-640.webp" srcset="/images/posts/otasan-honden-640.webp 640w, /images/posts/otasan-honden-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="The main hall of Ota Shrine tucked into a cave on a sheer cliff">
+<figcaption>The main hall, tucked quietly into a cave on the cliff. Photo: <a href="https://commons.wikimedia.org/wiki/User:Muronavi5" rel="noopener" target="_blank">Muronavi5</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
 The pilgrimage process, standing side-by-side with the mortal fear that one slip means falling, is the ultimate expression of ancient Japanese animism, which "equates the fury and terror of nature itself with the divine." For overseas readers accustomed to safe urban life, this Shugendo approach of reaching a sacred realm through a life-risking trial offers intense awe and supreme adventurous appeal.
+
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/otasan-cliff-chains-640.webp" srcset="/images/posts/otasan-cliff-chains-640.webp 640w, /images/posts/otasan-cliff-chains-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1445" loading="lazy" decoding="async" alt="Chains and ropes hanging down the rock face in front of the main hall">
+<figcaption>The rock face in front of the main hall, climbed by holding chains and ropes. Photo: <a href="https://commons.wikimedia.org/wiki/User:Muronavi5" rel="noopener" target="_blank">Muronavi5</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/otasan-view-down-640.webp" srcset="/images/posts/otasan-view-down-640.webp 640w, /images/posts/otasan-view-down-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="View of the forest and coastline from the steel stairs on the cliff">
+<figcaption>The view looking down from the cliff in front of the main hall, with forest and coastline far below. Photo: <a href="https://commons.wikimedia.org/wiki/User:Muronavi5" rel="noopener" target="_blank">Muronavi5</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+Note: If you plan to visit, decide within your own limits based on the weather and your condition, and check the latest access information from official sources such as Setana Town.
 
 **💡 Phrases for Overseas SNS Posts**
 - Japan's Most Dangerous Shrine: The Death-Defying Hiking Guide to Ota Shrine

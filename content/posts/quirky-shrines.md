@@ -23,12 +23,34 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 ### どんな神様？（ルーツとご利益）
 北海道久遠郡せたな町に鎮座する太田山（おおたさん）神社は、日本全国に数ある神社の中でも「日本一危険な神社」として知られる屈指の山岳霊場なんだよ。
 
+<figure class="photo">
+<img src="/images/posts/otasan-stairs-640.webp" srcset="/images/posts/otasan-stairs-640.webp 640w, /images/posts/otasan-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="太田山神社の参道の急な石段と、登るときにつかむロープ">
+<figcaption>太田山神社の参道の急な石段。登るときにつかむロープが張られています。写真：<a href="https://commons.wikimedia.org/wiki/File:Steep_stairs_Otasan_Shrine_Setana_Hokkaido_-_Jul_4_2022.jpg" rel="noopener" target="_blank">Kzaral</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 厳しい修験道の歴史が物語るように、肉体的な苦痛と恐怖を乗り越えて参拝することで、精神の大きな浄化と、どんな困難も切り拓く力強い開運パワー（道開きの諸願成就・航海安全）を授かることができるよ。
 
 ### ここがクール！（海外読者が驚くポイント）
 平地に安全かつ豪華に建てられる西洋の大聖堂とは対照的に、太田山神社の本殿は標高485mの断崖絶壁にぽっかり開いた小さな岩窟の中にポツンと鎮座しているんだ。
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/otasan-honden-640.webp" srcset="/images/posts/otasan-honden-640.webp 640w, /images/posts/otasan-honden-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="断崖の岩窟にひっそりと建つ太田山神社の本殿">
+<figcaption>断崖の岩窟にひっそりと鎮座する本殿。写真：<a href="https://commons.wikimedia.org/wiki/User:Muronavi5" rel="noopener" target="_blank">Muronavi5</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
 一歩間違えれば滑落という死の恐怖と隣り合わせの参拝プロセスは、「自然の猛威や恐怖そのものを神と同視する」という日本古来のアニミズムの極致なんだ。安全な都市生活に慣れた海外の読者にとって、この命がけの試練を経て神聖な領域へと到達する修験道（Shugendo）のアプローチは、強烈な畏怖と最高の冒険的魅力を与えてくれるよ。
+
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/otasan-cliff-chains-640.webp" srcset="/images/posts/otasan-cliff-chains-640.webp 640w, /images/posts/otasan-cliff-chains-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1445" loading="lazy" decoding="async" alt="本殿の手前にある岩壁に垂れ下がる鎖とロープ">
+<figcaption>本殿の手前にそびえる岩壁。鎖とロープをつかみながら登ります。写真：<a href="https://commons.wikimedia.org/wiki/User:Muronavi5" rel="noopener" target="_blank">Muronavi5</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/otasan-view-down-640.webp" srcset="/images/posts/otasan-view-down-640.webp 640w, /images/posts/otasan-view-down-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="断崖の鉄の階段から見下ろした森と海岸線">
+<figcaption>本殿前の崖から見下ろした景色。眼下に森と海岸線が広がります。写真：<a href="https://commons.wikimedia.org/wiki/User:Muronavi5" rel="noopener" target="_blank">Muronavi5</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+※実際に訪れる場合は、天候や体調に合わせて無理のない判断を。最新の入山情報は、せたな町などの公式情報でご確認ください。
 
 **💡 海外向けSNS投稿用フレーズ**
 * Japan's Most Dangerous Shrine: The Death-Defying Hiking Guide to Ota Shrine
