@@ -48,6 +48,10 @@ The 1,200km route that circles the four prefectures of Shikoku is actually desig
 
 By walking the pilgrimage route of Shikoku, a place of wonderful energy, you can completely purify past sorrows and regrets, and be reborn like a brand new soul... It truly is the ultimate "magic of self-reset" ✨
 
+**🔗 Official & Reference Links** (Japanese-language sites)
+- <a href="https://shikoku-tourism.com/feature/henro/top" rel="noopener" target="_blank">Shikoku Tourism official site: Shikoku Henro feature</a>
+- <a href="https://www.seichijunrei-shikokuhenro.jp/shikoku_henro/about" rel="noopener" target="_blank">Japan Heritage "Shikoku Henro" official site: About the pilgrimage</a>
+
 ## Conclusion: Start Today! A Mini-Healing Habit Beginning with "I Am Not Alone" ☀️
 
 For those who thought, "The power of the Shikoku Pilgrimage is amazing, but it might be difficult to go to Shikoku right now..." you are perfectly fine! The essence that the Shikoku Pilgrimage teaches us **can be practiced immediately within your current life** ✨
