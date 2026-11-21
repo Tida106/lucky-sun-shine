@@ -5,7 +5,7 @@ date: "2026-10-04"
 category: "powerspots"
 tags: ["日光東照宮", "眠り猫", "三猿", "聖地巡礼", "十二支"]
 slug: "fruits-basket-nikko-toshogu"
-cardImage: "/images/cards/fruits-basket-nikko-toshogu.webp"
+cardImage: "/images/cards/fruits-basket-nikko-toshogu-wide.webp"
 draft: false
 ---
 
