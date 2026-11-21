@@ -5,6 +5,7 @@ description: >-
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
+cardImage: "/images/cards/yakushima-wide.webp"
 tags:
   - アンバー
   - 鹿児島県
