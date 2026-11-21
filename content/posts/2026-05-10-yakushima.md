@@ -55,6 +55,11 @@ draft: false
 
 「**1ヶ月に35日雨が降る**」と林芙美子が表現した日本有数の多雨地帯で、年間降水量は山岳部で約8000mm。この豊かな水が、屋久杉や苔の原生林を育みました。**屋久杉とは樹齢1000年以上の杉** を指し、それ未満は「小杉」と呼ばれて区別されます。
 
+<figure class="photo">
+<img src="/images/posts/yaku-hills-fog-640.webp" srcset="/images/posts/yaku-hills-fog-640.webp 640w, /images/posts/yaku-hills-fog-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="霧のかかる屋久島の山々">
+<figcaption>雲がかかる屋久島の山々。深い緑の森が、どこまでも続いています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Grendelkhan" rel="noopener" target="_blank">Grendelkhan</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="benefit"></span>ご利益
 
 - **浄化・心身のリセット**（原生林の気）
@@ -75,11 +80,36 @@ draft: false
 
 縄文杉ほどの体力を要せず、**弥生杉コース（約2時間）・奉行杉コース（約4時間）・太鼓岩コース（約5時間）** など複数のルートがあり、初心者から熟練者まで楽しめる屋久島入門に最適なスポット。雨の日でも苔が一層美しく輝き、別の魅力があります。
 
+<figure class="photo">
+<img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="苔むした大木と、根が張り出した森の小道">
+<figcaption>苔むした大木と、地面を這う太い根。屋久島の森らしい、しっとりとした空気が伝わってきます。 写真：<a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## <span id="yakujinja"></span>益救神社（屋久島最古の社）
 
 屋久島宮之浦に鎮座する **「益救神社（やくじんじゃ）」** は、屋久島の総鎮守。**延喜式神名帳** に名を連ねる **「日本最南端の式内社」** として知られ、御祭神は **天津日高彦穂瓊瓊杵尊** ほか神話の神々。
 
 屋久島観光の前に立ち寄って **航海安全と無事の参拝** を祈願する人も多く、島の精神的支柱として古くから篤い信仰を集めています。
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-torii-640.webp" srcset="/images/posts/yaku-jinja-torii-640.webp 640w, /images/posts/yaku-jinja-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="益救神社の石の鳥居と社号標">
+<figcaption>益救神社の入口。ヤシの木と石の鳥居が、南の島らしい雰囲気です。 写真：<a href="https://commons.wikimedia.org/wiki/User:Yasu" rel="noopener" target="_blank">Yasu</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-approach-640.webp" srcset="/images/posts/yaku-jinja-approach-640.webp 640w, /images/posts/yaku-jinja-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="益救神社の参道と拝殿">
+<figcaption>参道の先に拝殿が見える、益救神社。両脇に狛犬と石灯籠が並びます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-haiden-640.webp" srcset="/images/posts/yaku-jinja-haiden-640.webp 640w, /images/posts/yaku-jinja-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="益救神社の拝殿">
+<figcaption>益救神社の拝殿。しめ縄と紙垂（しで）が掛けられています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-hara-640.webp" srcset="/images/posts/yaku-jinja-hara-640.webp 640w, /images/posts/yaku-jinja-hara-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="屋久島町原にある、赤い社殿の益救神社">
+<figcaption>屋久島町原にある益救神社。鮮やかな朱色の社殿が、緑の森に映えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="yakusugiland"></span>ヤクスギランドと紀元杉
 

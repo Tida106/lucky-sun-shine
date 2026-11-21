@@ -30,6 +30,11 @@ draft: false
 
 เกาะแห่งนี้มีฝนตกชุกที่สุดแห่งหนึ่งของญี่ปุ่น มีปริมาณน้ำฝนประจำปีในเขตภูเขาสูงถึงประมาณ 8,000 มิลลิเมตร ความชุ่มชื้นอันอุดมสมบูรณ์นี้เองที่หล่อเลี้ยงป่าสนยาคุซูงิและป่ามอส **ต้นยาคุซูงิ หมายถึงต้นสนอายุ 1,000 ปีขึ้นไป** ส่วนที่อายุน้อยกว่าเรียกว่า “โคซูงิ”
 
+<figure class="photo">
+<img src="/images/posts/yaku-hills-fog-640.webp" srcset="/images/posts/yaku-hills-fog-640.webp 640w, /images/posts/yaku-hills-fog-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ภูเขาของเกาะยาคุชิมะที่มีหมอกปกคลุม">
+<figcaption>ภูเขาของเกาะยาคุชิมะที่มีเมฆปกคลุม ป่าสีเขียวเข้มทอดยาวสุดสายตา ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Grendelkhan" rel="noopener" target="_blank">Grendelkhan</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## สิ่งศักดิ์สิทธิ์ที่บูชา
 
 - **การชำระล้าง・การรีเซ็ตกายใจ** (พลังของป่าดึกดำบรรพ์)
@@ -50,11 +55,36 @@ draft: false
 
 ไม่ต้องใช้พละกำลังมากเท่าเส้นทางไปต้นสนโจมงซูงิ มีหลายเส้นทางให้เลือก เช่น **เส้นทางยาโยอิซูงิ (ประมาณ 2 ชั่วโมง) เส้นทางบุเกียวซูงิ (ประมาณ 4 ชั่วโมง) เส้นทางไทโกะอิวะ (ประมาณ 5 ชั่วโมง)** เหมาะสำหรับทุกระดับตั้งแต่มือใหม่ถึงผู้ชำนาญ แม้วันฝนตกมอสก็จะยิ่งเปล่งประกายงดงามแตกต่างออกไป
 
+<figure class="photo">
+<img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ต้นไม้ใหญ่ที่ปกคลุมด้วยมอสและทางเดินในป่าที่รากไม้แผ่กระจาย">
+<figcaption>ลำต้นขนาดใหญ่ที่ปกคลุมด้วยมอสและรากหนาที่แผ่ไปตามพื้น สะท้อนบรรยากาศชุ่มชื้นของป่ายาคุชิมะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.th" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## ศาลเจ้ายาคุจินจะ (ศาลเจ้าเก่าแก่ที่สุดของเกาะยาคุชิมะ)
 
 **“ศาลเจ้ายาคุจินจะ”** ตั้งอยู่ในมิยาโนะอุระ เป็นศาลเจ้าหลักของเกาะยาคุชิมะ ขึ้นชื่อว่าเป็น **“ศาลเจ้าชิกิไนชะที่อยู่ใต้สุดของญี่ปุ่น”** ที่มีชื่อปรากฏในบันทึกเองิชิกิจิมเมียวโจ เทพประธานคือ **เทพอามัตสึฮิทากาฮิโกะโฮโนนินิงิ** และเทพเจ้าในตำนานอื่นๆ
 
 ผู้คนจำนวนมากแวะสักการะก่อนเที่ยวเกาะยาคุชิมะเพื่อขอพรความปลอดภัยในการเดินเรือและการเดินทาง เป็นเสาหลักทางจิตวิญญาณของเกาะมาแต่โบราณ
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-torii-640.webp" srcset="/images/posts/yaku-jinja-torii-640.webp 640w, /images/posts/yaku-jinja-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิหินและเสาป้ายชื่อศาลเจ้ายาคุ">
+<figcaption>ทางเข้าศาลเจ้ายาคุ ต้นปาล์มและโทริอิหินให้บรรยากาศของเกาะทางใต้ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Yasu" rel="noopener" target="_blank">Yasu</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.th" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-approach-640.webp" srcset="/images/posts/yaku-jinja-approach-640.webp 640w, /images/posts/yaku-jinja-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ทางเดินสู่ศาลเจ้ายาคุและศาลาไหว้">
+<figcaption>ศาลเจ้ายาคุที่เห็นศาลาไหว้อยู่ปลายทางเดิน มีโคมะอินุและโคมหินตั้งอยู่สองข้าง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-haiden-640.webp" srcset="/images/posts/yaku-jinja-haiden-640.webp 640w, /images/posts/yaku-jinja-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาไหว้ของศาลเจ้ายาคุ">
+<figcaption>ไฮเด็นของศาลเจ้ายาคุ แขวนเชือกชิเมนาวะและกระดาษชิเดะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-hara-640.webp" srcset="/images/posts/yaku-jinja-hara-640.webp 640w, /images/posts/yaku-jinja-hara-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลเจ้ายาคุในย่านฮาระของเกาะยาคุชิมะ ที่มีอาคารสีแดง">
+<figcaption>ศาลเจ้ายาคุในย่านฮาระ เกาะยาคุชิมะ อาคารสีแดงชาดสดใสโดดเด่นท่ามกลางป่าเขียว ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## ยาคุซูงิแลนด์และคิเก็นซูงิ
 

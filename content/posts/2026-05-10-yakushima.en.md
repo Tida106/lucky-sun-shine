@@ -59,6 +59,11 @@ In **December 1993**, Yakushima was registered as **Japan's first World Natural 
 
 It is one of Japan's rainiest regions, famously described by Fumiko Hayashi as "having rain 35 days a month," with annual precipitation reaching about 8,000 mm in mountainous areas. This abundant water has nurtured the Yakusugi and the moss-covered primeval forests. **Yakusugi refers to Japanese cedars over 1,000 years old**; those younger are distinguished as "kosugi" (young cedars).
 
+<figure class="photo">
+<img src="/images/posts/yaku-hills-fog-640.webp" srcset="/images/posts/yaku-hills-fog-640.webp 640w, /images/posts/yaku-hills-fog-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Misty forested mountains of Yakushima">
+<figcaption>Cloud-wrapped mountains on Yakushima, with deep green forest stretching as far as the eye can see. Photo: <a href="https://commons.wikimedia.org/wiki/User:Grendelkhan" rel="noopener" target="_blank">Grendelkhan</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
 ## <span id="benefit"></span>Spiritual Benefits
 
 -   **Purification and mental and physical reset** (from the energy of the primeval forest)
@@ -79,11 +84,36 @@ The trail to Jomon Sugi is a serious trekking route, covering **approximately 22
 
 It doesn't require the same level of physical fitness as Jomon Sugi, and offers multiple routes such as the **Yayoi Sugi Course (approx. 2 hours), Bugyo Sugi Course (approx. 4 hours), and Taikoiwa Course (approx. 5 hours)**, making it an ideal spot for beginners to experience Yakushima, enjoyable for everyone from novices to experienced hikers. Even on rainy days, the moss shines even more beautifully, offering a different kind of charm.
 
+<figure class="photo">
+<img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A moss-covered giant tree and a forest path laced with roots">
+<figcaption>Huge moss-covered trunks and thick roots across the ground: the damp, quiet air of Yakushima’s forest. Photo: <a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 ## <span id="yakujinja"></span>Yaku Shrine (Yakushima's Oldest Shrine)
 
 Located in Miyanoura, Yakushima, **"Yaku Shrine"** is the island's guardian shrine (sōchinju). It is known as the **"southernmost Shikinaisha (shrine listed in the Engishiki Jinmyocho) in Japan,"** and its enshrined deities include **Amatsuhiko Hohodemi no Mikoto** and other mythological gods.
 
 Many visitors stop here before exploring Yakushima to pray for **safe travels and a successful pilgrimage**, and it has long been deeply revered as the island's spiritual pillar.
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-torii-640.webp" srcset="/images/posts/yaku-jinja-torii-640.webp 640w, /images/posts/yaku-jinja-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone torii and shrine pillar at Yaku Shrine">
+<figcaption>The entrance of Yaku Shrine, with a stone torii and palm trees giving it a southern-island feel. Photo: <a href="https://commons.wikimedia.org/wiki/User:Yasu" rel="noopener" target="_blank">Yasu</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-approach-640.webp" srcset="/images/posts/yaku-jinja-approach-640.webp 640w, /images/posts/yaku-jinja-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The approach and worship hall of Yaku Shrine">
+<figcaption>Yaku Shrine, with its worship hall at the end of the approach, flanked by komainu and stone lanterns. Photo: <a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-haiden-640.webp" srcset="/images/posts/yaku-jinja-haiden-640.webp 640w, /images/posts/yaku-jinja-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The worship hall of Yaku Shrine">
+<figcaption>The Haiden of Yaku Shrine, with a shimenawa rope and shide paper streamers. Photo: <a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-hara-640.webp" srcset="/images/posts/yaku-jinja-hara-640.webp 640w, /images/posts/yaku-jinja-hara-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The red shrine buildings of Yaku Shrine in Hara, Yakushima">
+<figcaption>Yaku Shrine in Hara, Yakushima, with vivid vermilion buildings standing out against the green forest. Photo: <a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
 
 ## <span id="yakusugiland"></span>Yakusugi Land and Kigen Sugi
 

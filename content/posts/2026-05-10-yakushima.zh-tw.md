@@ -55,6 +55,11 @@ draft: false
 
 這裡是日本數一數二的多雨地帶，作家林芙美子曾形容此地**「一個月下雨35天」**，山區年降雨量約達8000公釐。正是這豐沛的水分，孕育出屋久杉與苔蘚原始林。**所謂屋久杉，是指樹齡超過1000年的杉樹**，未滿此樹齡則稱為「小杉」，予以區別。
 
+<figure class="photo">
+<img src="/images/posts/yaku-hills-fog-640.webp" srcset="/images/posts/yaku-hills-fog-640.webp 640w, /images/posts/yaku-hills-fog-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="籠罩著薄霧的屋久島群山">
+<figcaption>雲霧繚繞的屋久島群山，深綠色的森林一望無際。 照片：<a href="https://commons.wikimedia.org/wiki/User:Grendelkhan" rel="noopener" target="_blank">Grendelkhan</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
 ## <span id="benefit"></span>御利益
 
 - **淨化・身心重新歸零**（原始林的氣息）
@@ -75,11 +80,36 @@ draft: false
 
 這裡不需要像繩文杉步道那樣的體力，有**彌生杉路線（約2小時）・奉行杉路線（約4小時）・太鼓岩路線（約5小時）**等多條路線，從初學者到老手都能享受，是屋久島入門的最佳景點。即使是雨天，苔蘚也會顯得更加鮮豔，展現出另一種魅力。
 
+<figure class="photo">
+<img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="長滿青苔的巨木與盤根交錯的森林小徑">
+<figcaption>長滿青苔的巨木與爬滿地面的粗根，傳達出屋久島森林濕潤寧靜的氛圍。 照片：<a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## <span id="yakujinja"></span>益救神社（屋久島最古老的神社）
 
 鎮座於屋久島宮之浦的**「益救神社（やくじんじゃ）」**，是屋久島的總鎮守。作為**《延喜式神名帳》**中記載的**「日本最南端的式內社」**而聞名，御祭神為**天津日高彥穗瓊瓊杵尊**等神話中的眾神。
 
 許多人會在屋久島觀光前先來此參拜，祈求**航海平安與旅途順利**，自古以來便作為島上的精神支柱，受到深厚的信仰。
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-torii-640.webp" srcset="/images/posts/yaku-jinja-torii-640.webp 640w, /images/posts/yaku-jinja-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="益救神社的石造鳥居與社號碑">
+<figcaption>益救神社的入口，椰子樹與石造鳥居營造出南方島嶼的氣氛。 照片：<a href="https://commons.wikimedia.org/wiki/User:Yasu" rel="noopener" target="_blank">Yasu</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-approach-640.webp" srcset="/images/posts/yaku-jinja-approach-640.webp 640w, /images/posts/yaku-jinja-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="益救神社的參道與拜殿">
+<figcaption>參道盡頭可見拜殿的益救神社，兩旁排列著狛犬與石燈籠。 照片：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-haiden-640.webp" srcset="/images/posts/yaku-jinja-haiden-640.webp 640w, /images/posts/yaku-jinja-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="益救神社的拜殿">
+<figcaption>益救神社的拜殿，掛著注連繩與紙垂。 照片：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/yaku-jinja-hara-640.webp" srcset="/images/posts/yaku-jinja-hara-640.webp 640w, /images/posts/yaku-jinja-hara-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="位於屋久島町原、紅色社殿的益救神社">
+<figcaption>位於屋久島町原的益救神社，鮮豔的朱紅色社殿在綠色森林中格外醒目。 照片：<a href="https://commons.wikimedia.org/wiki/User:Higa4" rel="noopener" target="_blank">Higa4</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="yakusugiland"></span>屋久杉樂園與紀元杉
 
