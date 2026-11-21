@@ -3,6 +3,7 @@ title: "【東京パワースポット巡り】実は東京全体が「光の結
 description: "江戸の街づくりと寺社の配置から、東京全体を「光の結界」として楽しむ視点と、心を整える聖地めぐりのヒントを紹介します。"
 date: "2026-09-18"
 category: "powerspots"
+cardImage: "/images/cards/tokyo-powerspot-network-gotokuji.webp"
 excerpt: "神田明神、浅草寺、明治神宮、豪徳寺。大都会・東京に張り巡らされた「光のネットワーク」を巡って、心と運気をフルチャージする癒やしの聖地ガイドです。"
 ---
 
