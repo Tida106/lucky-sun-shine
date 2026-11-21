@@ -61,6 +61,11 @@ The Kojiki and Nihon Shoki say the sun goddess **Amaterasu**, upset by the rough
 
 That makes Amano Iwato Shrine **a place associated with the story of light returning after darkness**.
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/amanoiwato-amaterasu-640.webp" srcset="/images/posts/amanoiwato-amaterasu-640.webp 640w, /images/posts/amanoiwato-amaterasu-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="Statue of Amaterasu at Amanoiwato Shrine">
+<figcaption>The statue of Amaterasu at Amanoiwato Shrine. The plaque on the base reads "Himuka Mythology Road." Photo: みかん888／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a> (resized)</figcaption>
+</figure>
+
 ## <span id="benefit"></span>What Visitors Are Said to Gain
 
 What follows is commonly said about this shrine and is not a guarantee of any result.

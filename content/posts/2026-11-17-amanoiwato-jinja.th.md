@@ -43,6 +43,11 @@ draft: false
 
 ศาลเจ้าอามาโนะอิวาโตะ จึงถือเป็น **ฉากของตำนาน "แสงสว่างกลับมาหลังความมืด"**
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/amanoiwato-amaterasu-640.webp" srcset="/images/posts/amanoiwato-amaterasu-640.webp 640w, /images/posts/amanoiwato-amaterasu-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="รูปปั้นเทพีอามาเทราสุที่ศาลเจ้าอามาโนะอิวาโตะ">
+<figcaption>รูปปั้นเทพีอามาเทราสุที่ศาลเจ้าอามาโนะอิวาโตะ แผ่นป้ายที่ฐานเขียนว่า "ひむか神話街道" (ถนนตำนานฮิมูกะ) ภาพ: みかん888／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## สิ่งที่ผู้มาเยือนเล่ากันว่าจะได้รับ
 
 ต่อไปนี้เป็นสิ่งที่เล่ากันทั่วไปเกี่ยวกับศาลเจ้านี้ ไม่ได้รับประกันผลลัพธ์ใด ๆ

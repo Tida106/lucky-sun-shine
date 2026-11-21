@@ -66,6 +66,11 @@ draft: false
 
 因此，天岩戶神社被認為是**「黑暗之後光明回來」的神話舞台**。
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/amanoiwato-amaterasu-640.webp" srcset="/images/posts/amanoiwato-amaterasu-640.webp 640w, /images/posts/amanoiwato-amaterasu-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="天岩戶神社內的天照大御神像">
+<figcaption>天岩戶神社內的天照大御神像。底座的說明牌寫著「日向神話街道」。 照片: みかん888／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## <span id="benefit"></span>造訪可以得到的（被認為的御利益）
 
 以下是一般對這座神社的說法，並不保證任何效果。

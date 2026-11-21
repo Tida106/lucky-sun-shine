@@ -66,6 +66,11 @@ draft: false
 
 つまり天岩戸神社は、**「闇のあとに光が戻る」神話の舞台**とされる場所です。
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/amanoiwato-amaterasu-640.webp" srcset="/images/posts/amanoiwato-amaterasu-640.webp 640w, /images/posts/amanoiwato-amaterasu-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="天岩戸神社にある天照大御神の像">
+<figcaption>天岩戸神社にある天照大御神の像。台座の案内板には「ひむか神話街道」と記されています。 写真：みかん888／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a>（リサイズ）</figcaption>
+</figure>
+
 ## <span id="benefit"></span>訪れて得られるもの（ご利益とされること）
 
 以下は、一般にこの神社で語られていることで、効果を保証するものではありません。
