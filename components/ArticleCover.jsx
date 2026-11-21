@@ -31,10 +31,31 @@ export default function ArticleCover({ post, variant = 'card', locale = 'ja', cl
   const accent = cat?.pastel?.accent || 'text-amber-700';
   const mascot = pickMascot(post.slug || title);
   const isHero = variant === 'hero';
+  const cardImage = !isHero ? post.cardImage : null;
 
   const sizeClasses = isHero
     ? 'w-28 h-28 sm:w-36 sm:h-36 md:w-44 md:h-44'
     : 'w-20 h-20';
+
+  if (cardImage) {
+    return (
+      <div className={`relative w-full h-44 overflow-hidden bg-gradient-to-br ${gradient} ${className}`}>
+        <img
+          src={cardImage}
+          alt=""
+          width="640"
+          height="640"
+          loading="lazy"
+          decoding="async"
+          className="absolute inset-0 w-full h-full object-cover object-[center_35%]"
+        />
+        <div className={`absolute left-3 top-3 inline-flex items-center gap-1.5 rounded-full bg-white/85 backdrop-blur-sm px-2.5 py-1 font-bold shadow-sm z-20 text-[10px] ${accent}`}>
+          {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
+          <span>{catTitle || categorySlug || '未分類'}</span>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div
