@@ -114,13 +114,8 @@ draft: false
 </figure>
 
 <figure class="photo">
-<img src="/images/posts/togakushi-okusha-zuishinmon-640.webp" srcset="/images/posts/togakushi-okusha-zuishinmon-640.webp 640w, /images/posts/togakushi-okusha-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奥社参道の随神門">
-<figcaption>奥社参道の途中にある朱塗りの随神門。茅葺きの屋根は苔や草でおおわれています。 写真：<a href="https://www.flickr.com/photos/alextojun/54514092185/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
-</figure>
-
-<figure class="photo">
-<img src="/images/posts/togakushi-zuishinmon-summer-640.webp" srcset="/images/posts/togakushi-zuishinmon-summer-640.webp 640w, /images/posts/togakushi-zuishinmon-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夏の随神門">
-<figcaption>夏の随神門。屋根をおおうシダや草の緑が鮮やかです。 写真：<a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+<img src="/images/posts/togakushi-zuishinmon-640.webp" srcset="/images/posts/togakushi-zuishinmon-640.webp 640w, /images/posts/togakushi-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="奥社参道の随神門">
+<figcaption>奥社参道の途中にある朱塗りの随神門。茅葺きの屋根は苔やシダでおおわれ、両側には杉の大木がそびえています。 写真：<a href="https://www.photo-ac.com/main/detail/24816826" rel="noopener" target="_blank">マザッチョ</a>／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a></figcaption>
 </figure>
 
 <figure class="photo">

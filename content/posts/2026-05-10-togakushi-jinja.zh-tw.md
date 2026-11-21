@@ -114,13 +114,8 @@ draft: false
 </figure>
 
 <figure class="photo">
-<img src="/images/posts/togakushi-okusha-zuishinmon-640.webp" srcset="/images/posts/togakushi-okusha-zuishinmon-640.webp 640w, /images/posts/togakushi-okusha-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奧社參道的隨神門">
-<figcaption>奧社參道途中的朱紅色隨神門，茅草屋頂上長滿了青苔與雜草。 照片：<a href="https://www.flickr.com/photos/alextojun/54514092185/" rel="noopener" target="_blank">AT@wiki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
-</figure>
-
-<figure class="photo">
-<img src="/images/posts/togakushi-zuishinmon-summer-640.webp" srcset="/images/posts/togakushi-zuishinmon-summer-640.webp 640w, /images/posts/togakushi-zuishinmon-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夏天的隨神門">
-<figcaption>夏天的隨神門，覆蓋屋頂的蕨類與雜草綠意盎然。 照片：<a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+<img src="/images/posts/togakushi-zuishinmon-640.webp" srcset="/images/posts/togakushi-zuishinmon-640.webp 640w, /images/posts/togakushi-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="奧社參道的隨神門">
+<figcaption>奧社參道途中的朱紅色隨神門，茅草屋頂上長滿青苔與蕨類，兩側有高大的杉樹矗立。 照片：<a href="https://www.photo-ac.com/main/detail/24816826" rel="noopener" target="_blank">マザッチョ</a>／<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">写真AC</a></figcaption>
 </figure>
 
 <figure class="photo">

@@ -116,13 +116,8 @@ The Okusha Shrine approach is approximately **2 km one way**, taking about 40 mi
 </figure>
 
 <figure class="photo">
-<img src="/images/posts/togakushi-okusha-zuishinmon-640.webp" srcset="/images/posts/togakushi-okusha-zuishinmon-640.webp 640w, /images/posts/togakushi-okusha-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The Zuishinmon gate on the Okusha approach">
-<figcaption>The vermilion Zuishinmon gate along the Okusha approach, its thatched roof covered in moss and grass. Photo: <a href="https://www.flickr.com/photos/alextojun/54514092185/" rel="noopener" target="_blank">AT@wiki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized, shared under the same license)</figcaption>
-</figure>
-
-<figure class="photo">
-<img src="/images/posts/togakushi-zuishinmon-summer-640.webp" srcset="/images/posts/togakushi-zuishinmon-summer-640.webp 640w, /images/posts/togakushi-zuishinmon-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Zuishinmon in summer">
-<figcaption>Zuishinmon in summer, its roof covered in vivid green ferns and grass. Photo: <a href="https://commons.wikimedia.org/wiki/User:Miya.m" rel="noopener" target="_blank">Miya.m</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized, shared under the same license)</figcaption>
+<img src="/images/posts/togakushi-zuishinmon-640.webp" srcset="/images/posts/togakushi-zuishinmon-640.webp 640w, /images/posts/togakushi-zuishinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="The Zuishinmon gate on the Okusha approach">
+<figcaption>The vermilion Zuishinmon gate along the Okusha approach, its thatched roof covered in moss and ferns and flanked by towering cedars. Photo: <a href="https://www.photo-ac.com/main/detail/24816826" rel="noopener" target="_blank">Mazaccho</a> / <a href="https://www.photo-ac.com/" rel="noopener" target="_blank">Photo AC</a></figcaption>
 </figure>
 
 <figure class="photo">
