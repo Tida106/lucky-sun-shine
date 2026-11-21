@@ -3,6 +3,7 @@ title: "【奇跡のパワースポット】明治神宮と東大寺に隠され
 description: "明治神宮と東大寺、二つのパワースポットに込められた人々の祈りの歴史と、心を整えて参拝するためのヒントを紹介します。"
 date: "2026-09-17"
 category: "powerspots"
+cardImage: "/images/cards/meijijingu-todaiji-powerspot.webp"
 excerpt: "明治神宮と東大寺。誰もが知る日本の二大聖地は、実は途方もない人々の「祈り」と「愛」で作られた奇跡の空間でした。その秘密をご紹介します。"
 ---
 
