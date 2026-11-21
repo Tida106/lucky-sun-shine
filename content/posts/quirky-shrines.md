@@ -3,6 +3,7 @@ title: "【開運×アニミズム】海外の日本ファンも大注目！日�
 date: 2026-09-19
 description: "日本のディープなスピリチュアル文化やユニークなパワースポットが大好きな海外の読者に向けて、とっておきの開運スポットを特集！"
 category: "powerspots"
+cardImage: "/images/cards/quirky-shrines.webp"
 tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 ---
 
