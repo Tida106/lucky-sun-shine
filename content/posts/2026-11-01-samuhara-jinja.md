@@ -5,6 +5,7 @@ date: "2026-11-01"
 category: "powerspots"
 tags: ["サムハラ神社", "大阪", "お守り", "奥の宮", "岡山", "造化三神"]
 slug: "samuhara-jinja"
+cardImage: "/images/cards/samuhara-jinja.webp"
 draft: false
 ---
 
