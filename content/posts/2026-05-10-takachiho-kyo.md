@@ -10,6 +10,7 @@ tags:
   - 宮崎県
   - 神話
 slug: takachiho-kyo
+cardImage: "/images/cards/takachiho-kyo.webp"
 draft: false
 ---
 
