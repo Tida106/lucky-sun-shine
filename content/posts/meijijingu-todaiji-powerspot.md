@@ -18,6 +18,11 @@ excerpt: "明治神宮と東大寺。誰もが知る日本の二大聖地は、�
 東京の大都会の真ん中に広がる、豊かな緑に包まれた明治神宮。一歩足を踏み入れると、深呼吸したくなるような澄んだ空気に包まれますよね✨
 実はあの大森林、かつては雑草が生い茂る荒れた土地だったことをご存知ですか？ 今から約100年前、「100年先、150年先の人々が心から癒やされる永遠の森を作ろう！」と立ち上がった情熱あふれる林学者たちが、ゼロから創り上げた**「150年の願いが込められた奇跡の森」**なのです🌳✨
 
+<figure class="photo">
+<img src="/images/posts/meiji-lawn-pond-640.webp" srcset="/images/posts/meiji-lawn-pond-640.webp 640w, /images/posts/meiji-lawn-pond-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="明治神宮の緑あふれる園内。池のほとりに広がる芝生と、木々">
+<figcaption>池のほとりに芝生が広がる、明治神宮の緑豊かな園内です。 写真：<a href="https://commons.wikimedia.org/wiki/User:Syced" rel="noopener" target="_blank">Syced</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 150年先の未来へ届ける「命のバトンタッチ」
 
 当時の技術者たちは、150年という長い年月をかけて森が自分で育っていく魔法のようなシミュレーションを描きました🔮✨
@@ -35,10 +40,20 @@ excerpt: "明治神宮と東大寺。誰もが知る日本の二大聖地は、�
 
 南参道と北参道が交わる場所にある大きな鳥居には、樹齢1,200年を超える素晴らしいタイワンヒノキが使われています✨ 人々の優しさと歴史のエネルギーが重なり合った明治神宮の森は、訪れるだけであなたの運気をやさしく底上げしてくれますよ🌿✨
 
+<figure class="photo">
+<img src="/images/posts/meiji-otorii-640.webp" srcset="/images/posts/meiji-otorii-640.webp 640w, /images/posts/meiji-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明治神宮の大鳥居。奥には参道と森が続く">
+<figcaption>参道の入り口にそびえる大鳥居。大都会とは思えない静けさへ続いていきます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Suicasmo" rel="noopener" target="_blank">Suicasmo</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 東大寺：みんなの想いがひとつになった「宇宙の光のネットワーク」☀️
 
 次にご紹介するのは、奈良の象徴である「東大寺の大仏さま」です✨修学旅行などで一度は目にしたことがある方も多いのではないでしょうか？
 あの大仏さま（盧舎那仏：るしゃなぶつ）が建てられたのは今から約1,300年前。当時は疫病や災害が重なり、人々が不安に包まれていた時代でした。そんな中、「みんなで力を合わせて、誰もが笑顔で暮らせる平和な世界を作ろう！」と立ち上がったのが聖武天皇でした☀️
+
+<figure class="photo">
+<img src="/images/posts/todaiji-daibutsuden-640.webp" srcset="/images/posts/todaiji-daibutsuden-640.webp 640w, /images/posts/todaiji-daibutsuden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="796" loading="lazy" decoding="async" alt="東大寺の大仏殿。屋根の上に金色の鴟尾が輝く">
+<figcaption>奈良のシンボル、東大寺の大仏殿です。屋根の両端には金色の鴟尾（しび）が輝いています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Jakubhal" rel="noopener" target="_blank">Jakub Hałun</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ### 「小さな一歩」が集まって生まれた奇跡
 
@@ -53,8 +68,18 @@ excerpt: "明治神宮と東大寺。誰もが知る日本の二大聖地は、�
 大仏さま（盧舎那仏）のお名前には**「太陽のように全宇宙をあたたかく照らす光」**という意味があります☀️
 東大寺を中央の大きな光の発信地とし、全国のお寺をネットワークでつなぐことで、日本中に癒やしと防衛の光のバトンを広げようとしたのです。まさに、日本中を包み込む「光のネットワーク」ですね！
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/todaiji-daibutsu-front-640.webp" srcset="/images/posts/todaiji-daibutsu-front-640.webp 640w, /images/posts/todaiji-daibutsu-front-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1095" loading="lazy" decoding="async" alt="東大寺の大仏さま（盧舎那仏）を正面から見たところ">
+<figcaption>正面から見上げる大仏さま。背後には、金色に輝く光背が広がっています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Balon Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 大仏さまの完成をお祝いする「開眼供養会（かいげんくようえ）」では、インドから招かれた僧侶・菩提僊那（ぼだいせんな）さまが目を開く筆を握り、そこから伸びる長い青い紐（開眼縷：かいげんる）を1万人もの人々が手に手を取り合って持ちました🔗✨
 国境や身分を超えて、すべての人々がひとつの大きな「光の絆」で結ばれた瞬間です。東大寺の大仏さまの前に立つと、なんだか包み込まれるような安心感があるのは、1,300年前から受け継がれた膨大な愛と祈りのエネルギーが満ちているからなのですね💙✨
+
+<figure class="photo">
+<img src="/images/posts/todaiji-daibutsu-angle-640.webp" srcset="/images/posts/todaiji-daibutsu-angle-640.webp 640w, /images/posts/todaiji-daibutsu-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="斜め下から見上げた東大寺の大仏さまと、背後の光背">
+<figcaption>斜めから見た大仏さまと、金色の光背に並ぶ小さな仏さまたちです。 写真：<a href="https://commons.wikimedia.org/wiki/User:Balon Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## まとめ：祈りのエネルギーをチャージして、あなたの毎日を輝かせよう！💖
 

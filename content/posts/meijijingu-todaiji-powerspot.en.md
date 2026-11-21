@@ -23,6 +23,11 @@ This time, we will introduce a magnificent, heart-warming story revealed through
 Meiji Jingu, enveloped in lush greenery, spreading right in the middle of the great metropolis of Tokyo. The moment you step inside, you are surrounded by clear air that makes you want to take a deep breath, aren't you? ✨
 Did you know that that vast forest was once a barren land overgrown with weeds? About 100 years ago, passionate forestry scholars rose up, declaring, "Let's create an eternal forest where people 100 or 150 years from now can be truly healed!" Built from scratch, it is a **"miracle forest imbued with 150 years of wishes"** 🌳✨
 
+<figure class="photo">
+<img src="/images/posts/meiji-lawn-pond-640.webp" srcset="/images/posts/meiji-lawn-pond-640.webp 640w, /images/posts/meiji-lawn-pond-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="904" loading="lazy" decoding="async" alt="Lawn and trees beside a pond in the grounds of Meiji Jingu">
+<figcaption>A lawn stretching beside a pond in the green grounds of Meiji Jingu. Photo: <a href="https://commons.wikimedia.org/wiki/User:Syced" rel="noopener" target="_blank">Syced</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 ### Passing the "Baton of Life" to the Future 150 Years from Now
 
 The engineers of that time drew up a magical simulation in which the forest would grow on its own over the long period of 150 years 🔮✨
@@ -40,10 +45,20 @@ Furthermore, the volunteer work by youth gathered from across the country reache
 
 The great torii gate located where the South and North Approaches intersect is made of magnificent Taiwanese cypress over 1,200 years old ✨ The forest of Meiji Jingu, where people's kindness and the energy of history overlap, will gently boost your luck just by visiting 🌿✨
 
+<figure class="photo">
+<img src="/images/posts/meiji-otorii-640.webp" srcset="/images/posts/meiji-otorii-640.webp 640w, /images/posts/meiji-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The great torii gate at Meiji Jingu with the approach and forest beyond">
+<figcaption>The great torii standing at the entrance of the approach, leading into a calm forest in the middle of Tokyo. Photo: <a href="https://commons.wikimedia.org/wiki/User:Suicasmo" rel="noopener" target="_blank">Suicasmo</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 ## Todaiji: A "Universal Light Network" Where Everyone's Wishes Became One ☀️
 
 Next, we introduce the symbol of Nara, the "Great Buddha of Todaiji" ✨ Many of you may have seen it at least once on a school trip, right?
 That Great Buddha (Vairocana Buddha) was built about 1,300 years ago. At that time, it was an era enveloped in anxiety due to overlapping epidemics and disasters. In the midst of this, Emperor Shomu stood up, declaring, "Let's join forces and create a peaceful world where everyone can live with a smile!" ☀️
+
+<figure class="photo">
+<img src="/images/posts/todaiji-daibutsuden-640.webp" srcset="/images/posts/todaiji-daibutsuden-640.webp 640w, /images/posts/todaiji-daibutsuden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="796" loading="lazy" decoding="async" alt="The Great Buddha Hall of Todaiji with golden shachihoko-style ornaments on the roof">
+<figcaption>The Great Buddha Hall of Todaiji, the symbol of Nara, with golden ornaments (shibi) at both ends of the roof. Photo: <a href="https://commons.wikimedia.org/wiki/User:Jakubhal" rel="noopener" target="_blank">Jakub Hałun</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
 
 ### A Miracle Born from the Gathering of "Small Steps"
 
@@ -58,8 +73,18 @@ That Great Buddha is the embodiment of everyone's "wishes for peace" gathered li
 The name of the Great Buddha (Vairocana Buddha) holds the meaning of **"the light that warmly illuminates the entire universe like the sun"** ☀️️
 By making Todaiji the central hub of a great light and connecting temples nationwide in a network, they tried to spread the baton of healing and protective light throughout Japan. It truly is a "Light Network" enveloping the whole country!
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/todaiji-daibutsu-front-640.webp" srcset="/images/posts/todaiji-daibutsu-front-640.webp 640w, /images/posts/todaiji-daibutsu-front-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1095" loading="lazy" decoding="async" alt="The Great Buddha (Vairocana) of Todaiji seen from the front">
+<figcaption>The Great Buddha seen from the front, with the golden halo shining behind. Photo: <a href="https://commons.wikimedia.org/wiki/User:Balon Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 At the "Eye-Opening Ceremony" to celebrate the completion of the Great Buddha, Bodhisena, a monk invited from India, held the brush to paint the eyes, and a long blue string (Kaigen-ru) extending from it was held hand-in-hand by as many as 10,000 people 🔗✨
 It was a moment when all people, transcending borders and social status, were united by a single great "bond of light." When you stand before the Great Buddha of Todaiji, the somewhat enveloping sense of security you feel is because it is filled with the immense energy of love and prayers passed down from 1,300 years ago 💙✨
+
+<figure class="photo">
+<img src="/images/posts/todaiji-daibutsu-angle-640.webp" srcset="/images/posts/todaiji-daibutsu-angle-640.webp 640w, /images/posts/todaiji-daibutsu-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The Great Buddha of Todaiji seen from a low angle with the golden halo behind">
+<figcaption>A diagonal view of the Great Buddha and the small Buddhas lined up on the golden halo. Photo: <a href="https://commons.wikimedia.org/wiki/User:Balon Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
 
 ## Conclusion: Charge the Energy of Prayer and Make Your Every Day Shine! 💖
 
