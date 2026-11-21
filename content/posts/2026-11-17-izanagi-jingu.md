@@ -11,7 +11,7 @@ tags:
   - 夫婦円満
   - 縁結び
 slug: "izanagi-jingu"
-cardImage: "/images/cards/izanagi-jingu.webp"
+cardImage: "/images/cards/izanagi-jingu-wide.webp"
 cover: "/images/posts/izanagi-jingu.jpg"
 draft: false
 ---
