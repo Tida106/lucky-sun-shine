@@ -4,6 +4,7 @@ description: "「日本の総氏神」と称される伊勢神宮の歴史・ご
 date: "2026-05-09"
 updated: "2026-05-11"
 category: "powerspots"
+cardImage: "/images/cards/ise-jingu-wide.webp"
 tags: ["伊勢神宮", "三重県", "神社"]
 slug: "ise-jingu-power-spot"
 draft: false
