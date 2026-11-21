@@ -12,7 +12,7 @@ tags:
   - 東京五社
   - ローズクォーツ
 slug: tokyo-daijingu
-cardImage: "/images/cards/tokyo-daijingu.webp"
+cardImage: "/images/cards/tokyo-daijingu-wide.webp"
 author: 太陽ちゃん
 draft: false
 ---

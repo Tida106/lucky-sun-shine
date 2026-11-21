@@ -5,7 +5,7 @@ date: "2026-11-01"
 category: "powerspots"
 tags: ["下鴨神社", "相の環守", "指輪", "縁結び", "お守り", "京都", "相生社"]
 slug: "shimogamo-ai-no-wa-mamori"
-cardImage: "/images/cards/shimogamo-ai-no-wa-mamori.webp"
+cardImage: "/images/cards/shimogamo-ai-no-wa-mamori-wide.webp"
 draft: false
 ---
 

@@ -10,7 +10,7 @@ tags:
   - 参拝
   - 開運
 slug: shrine-sweets-2
-cardImage: "/images/cards/shrine-sweets-2.webp"
+cardImage: "/images/cards/shrine-sweets-2-wide.webp"
 draft: false
 ---
 
