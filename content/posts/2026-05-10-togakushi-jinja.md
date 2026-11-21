@@ -5,6 +5,7 @@ description: >-
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
+cardImage: "/images/cards/togakushi-jinja-wide.webp"
 tags:
   - 御朱印帳
   - 長野県
