@@ -85,6 +85,11 @@ The trail to Jomon Sugi is a serious trekking route, covering **approximately 22
 It doesn't require the same level of physical fitness as Jomon Sugi, and offers multiple routes such as the **Yayoi Sugi Course (approx. 2 hours), Bugyo Sugi Course (approx. 4 hours), and Taikoiwa Course (approx. 5 hours)**, making it an ideal spot for beginners to experience Yakushima, enjoyable for everyone from novices to experienced hikers. Even on rainy days, the moss shines even more beautifully, offering a different kind of charm.
 
 <figure class="photo">
+<img src="/images/posts/yaku-shiratani-moss-640.webp" srcset="/images/posts/yaku-shiratani-moss-640.webp 640w, /images/posts/yaku-shiratani-moss-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The moss forest of Shiratani Unsuikyo, with moss-covered rocks and trees">
+<figcaption>The "moss forest" of Shiratani Unsuikyo, where moss-covered rocks and trees stretch on and on. Photo: <a href="https://commons.wikimedia.org/wiki/User:MaedaAkihiko" rel="noopener" target="_blank">MaedaAkihiko</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
 <img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A moss-covered giant tree and a forest path laced with roots">
 <figcaption>Huge moss-covered trunks and thick roots across the ground: the damp, quiet air of Yakushima’s forest. Photo: <a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
 </figure>

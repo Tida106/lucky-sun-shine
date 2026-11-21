@@ -81,6 +81,11 @@ draft: false
 縄文杉ほどの体力を要せず、**弥生杉コース（約2時間）・奉行杉コース（約4時間）・太鼓岩コース（約5時間）** など複数のルートがあり、初心者から熟練者まで楽しめる屋久島入門に最適なスポット。雨の日でも苔が一層美しく輝き、別の魅力があります。
 
 <figure class="photo">
+<img src="/images/posts/yaku-shiratani-moss-640.webp" srcset="/images/posts/yaku-shiratani-moss-640.webp 640w, /images/posts/yaku-shiratani-moss-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="白谷雲水峡の苔むす森。苔に覆われた岩と木々">
+<figcaption>白谷雲水峡の「苔むす森」。苔に覆われた岩や木々が、どこまでも続きます。 写真：<a href="https://commons.wikimedia.org/wiki/User:MaedaAkihiko" rel="noopener" target="_blank">MaedaAkihiko</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
 <img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="苔むした大木と、根が張り出した森の小道">
 <figcaption>苔むした大木と、地面を這う太い根。屋久島の森らしい、しっとりとした空気が伝わってきます。 写真：<a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
 </figure>

@@ -56,6 +56,11 @@ draft: false
 ไม่ต้องใช้พละกำลังมากเท่าเส้นทางไปต้นสนโจมงซูงิ มีหลายเส้นทางให้เลือก เช่น **เส้นทางยาโยอิซูงิ (ประมาณ 2 ชั่วโมง) เส้นทางบุเกียวซูงิ (ประมาณ 4 ชั่วโมง) เส้นทางไทโกะอิวะ (ประมาณ 5 ชั่วโมง)** เหมาะสำหรับทุกระดับตั้งแต่มือใหม่ถึงผู้ชำนาญ แม้วันฝนตกมอสก็จะยิ่งเปล่งประกายงดงามแตกต่างออกไป
 
 <figure class="photo">
+<img src="/images/posts/yaku-shiratani-moss-640.webp" srcset="/images/posts/yaku-shiratani-moss-640.webp 640w, /images/posts/yaku-shiratani-moss-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ป่ามอสของชิราทานิอุนซุยเคียว หินและต้นไม้ที่ปกคลุมด้วยมอส">
+<figcaption>“ป่ามอส” ของชิราทานิอุนซุยเคียว หินและต้นไม้ที่ปกคลุมด้วยมอสทอดยาวสุดสายตา ภาพ: <a href="https://commons.wikimedia.org/wiki/User:MaedaAkihiko" rel="noopener" target="_blank">MaedaAkihiko</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
 <img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ต้นไม้ใหญ่ที่ปกคลุมด้วยมอสและทางเดินในป่าที่รากไม้แผ่กระจาย">
 <figcaption>ลำต้นขนาดใหญ่ที่ปกคลุมด้วยมอสและรากหนาที่แผ่ไปตามพื้น สะท้อนบรรยากาศชุ่มชื้นของป่ายาคุชิมะ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.th" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
 </figure>

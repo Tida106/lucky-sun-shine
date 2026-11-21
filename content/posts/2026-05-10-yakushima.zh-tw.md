@@ -81,6 +81,11 @@ draft: false
 這裡不需要像繩文杉步道那樣的體力，有**彌生杉路線（約2小時）・奉行杉路線（約4小時）・太鼓岩路線（約5小時）**等多條路線，從初學者到老手都能享受，是屋久島入門的最佳景點。即使是雨天，苔蘚也會顯得更加鮮豔，展現出另一種魅力。
 
 <figure class="photo">
+<img src="/images/posts/yaku-shiratani-moss-640.webp" srcset="/images/posts/yaku-shiratani-moss-640.webp 640w, /images/posts/yaku-shiratani-moss-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="白谷雲水峽的苔蘚森林，長滿青苔的岩石與樹木">
+<figcaption>白谷雲水峽的「苔蘚森林」，長滿青苔的岩石與樹木綿延不盡。 照片：<a href="https://commons.wikimedia.org/wiki/User:MaedaAkihiko" rel="noopener" target="_blank">MaedaAkihiko</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
 <img src="/images/posts/yaku-moss-forest-path-640.webp" srcset="/images/posts/yaku-moss-forest-path-640.webp 640w, /images/posts/yaku-moss-forest-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="長滿青苔的巨木與盤根交錯的森林小徑">
 <figcaption>長滿青苔的巨木與爬滿地面的粗根，傳達出屋久島森林濕潤寧靜的氛圍。 照片：<a href="https://commons.wikimedia.org/wiki/User:%CE%A364" rel="noopener" target="_blank">Σ64</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
 </figure>
