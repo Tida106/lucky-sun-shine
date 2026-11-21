@@ -57,6 +57,11 @@ Access from Tokyo to Hakata is about **5 hours by Shinkansen (bullet train)** or
 
 Munakata Taisha enshrines the **Munakata Three Goddesses** (Tagorihime-no-Kami, Takitsuhime-no-Kami, and Ichikishimahime-no-Kami), serving as the general guardian of the sea. **Okinoshima, the "Island of Gods,"** is registered as a World Heritage site, and the shrine has been deeply revered on a national scale since ancient times as a **guardian deity for maritime trade routes** to the continent. It operates under a three-shrine system: **Hetsugu, Nakatsugu, and Okitsugu**.
 
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-haiden-640.webp" srcset="/images/posts/munakata-hetsu-haiden-640.webp 640w, /images/posts/munakata-hetsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Haiden of Hetsu-miya">
+<figcaption>The Haiden (worship hall) of Hetsu-miya with a thick, heavy shimenawa rope. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">Soramimi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
 -   **Location**: 2331 Tajima, Munakata, Fukuoka (Hetsugu)
 -   **Highlights**: Hetsugu (open for worship), National Treasures in Shinpokan Museum, Okinoshima (general public not allowed to land)
 -   **Access**: About a 12-minute bus ride from JR Kagoshima Main Line "Togo" Station
@@ -68,6 +73,11 @@ Munakata Taisha enshrines the **Munakata Three Goddesses** (Tagorihime-no-Kami, 
 ## <span id="aso"></span>Aso Shrine (Kumamoto Prefecture) — Symbol of Revival, One of Japan's Three Great Romon Gates
 
 Aso Shrine is Higo Province's Ichinomiya, enshrining **Takeiwatatsu-no-Mikoto** and the **Aso Twelve Gods**. The romon gate and haiden (worship hall) collapsed in the **2016 Kumamoto Earthquake**, but the **romon gate was completely restored in December 2023**, resurrecting **one of Japan's Three Great Romon Gates**. It is the land of the pioneering myth where a deity "kicked open the caldera."
+
+<figure class="photo">
+<img src="/images/posts/aso-haiden-komainu-640.webp" srcset="/images/posts/aso-haiden-komainu-640.webp 640w, /images/posts/aso-haiden-komainu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The Haiden of Aso Shrine with a komainu guardian">
+<figcaption>The Haiden (worship hall) of Aso Shrine, with its large shimenawa and a komainu in front. Photo: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
 
 -   **Location**: 3083-1 Miyaji, Ichinomiya-machi, Aso, Kumamoto
 -   **Highlights**: Romon Gate (restored), Shaden (main hall), Takasago-no-Matsu pine, Aso Caldera
@@ -81,6 +91,11 @@ Aso Shrine is Higo Province's Ichinomiya, enshrining **Takeiwatatsu-no-Mikoto** 
 
 Kirishima Jingu is an ancient shrine enshrining **Ninigi-no-Mikoto**, the **protagonist of the Tenson Korin myth**. Its **vermilion-lacquered shrine complex is a National Treasure**, and it's also known as a destination for **Sakamoto Ryoma and Oryo's honeymoon**. Located at the **foot of Mount Takachiho**, it is a sacred site imbued with the spiritual energy of the Kirishima mountain range.
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-approach-1200.webp" srcset="/images/posts/kirishima-jingu-approach-640.webp 640w, /images/posts/kirishima-jingu-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Kirishima Jingu main buildings at the end of a stone-paved path, with small shrines on both sides">
+<figcaption>The front of the shrine at the end of the paved approach. Photo: Hiroyuki Yano／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
+</figure>
+
 -   **Location**: 2608-5 Taguchi, Kirishima, Kirishima, Kagoshima
 -   **Highlights**: Vermilion-lacquered National Treasure main shrine, sacred tree, views of the Kirishima mountains
 -   **Access**: About a 13-minute bus ride from JR Nippo Main Line "Kirishima Jingu" Station
@@ -93,6 +108,11 @@ Kirishima Jingu is an ancient shrine enshrining **Ninigi-no-Mikoto**, the **prot
 
 This Miyazaki gorge is considered **the stage of the Tenson Korin myth**. It is famous for its breathtaking scenery, where **columnar jointed** rock walls lead to the **Manai Falls**, and a **rental boat** ride right under the waterfall is a classic experience. **Takachiho Shrine** hosts **Yokagura (nighttime sacred dance)** performances every evening, and the myths of Ama-no-Iwato (the rock cave of heaven) still resonate at **Ama-no-Iwato Shrine and Amanoyasugawara**.
 
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-above-1200.webp" srcset="/images/posts/takachiho-boats-above-640.webp 640w, /images/posts/takachiho-boats-above-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1800" loading="lazy" decoding="async" alt="Takachiho Gorge seen from the walking path, with boats on the green water">
+<figcaption>From the walking path you can take in the emerald water and Manai Falls at once. Many visitors start here for the big picture, then take a boat. Photo: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyo_18297992885.jpg" rel="noopener" target="_blank">Thomas Au</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
 -   **Location**: Mitai, Takachiho-cho, Nishiusuki-gun, Miyazaki
 -   **Highlights**: Manai Falls, columnar joints, Yokagura at Takachiho Shrine, Ama-no-Iwato Shrine, Amanoyasugawara
 -   **Access**: About a 1 hour and 30 minute bus ride from JR Nippo Main Line "Nobeoka" Station (or by car)
@@ -104,6 +124,11 @@ This Miyazaki gorge is considered **the stage of the Tenson Korin myth**. It is 
 ## <span id="yakushima"></span>Yakushima (Kagoshima Prefecture) — World Natural Heritage Site, the Island of Jomon Sugi
 
 Yakushima is a **World Natural Heritage** island boasting the **Jomon Sugi** (cedar tree estimated to be 2,000 to 7,000 years old). **Shiratanisunsui Gorge** is said to be the **model for "Princess Mononoke,"** and **Yaku Shrine** is the largest shrine on the island, enshrining **Yamahiko**. The **entire island is a power spot**, making it a truly unique place.
+
+<figure class="photo">
+<img src="/images/posts/yaku-shiratani-moss-640.webp" srcset="/images/posts/yaku-shiratani-moss-640.webp 640w, /images/posts/yaku-shiratani-moss-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The moss forest of Shiratani Unsuikyo, with moss-covered rocks and trees">
+<figcaption>The "moss forest" of Shiratani Unsuikyo, where moss-covered rocks and trees stretch on and on. Photo: <a href="https://commons.wikimedia.org/wiki/User:MaedaAkihiko" rel="noopener" target="_blank">MaedaAkihiko</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
 
 -   **Location**: Kumage District, Yakushima, Kagoshima
 -   **Highlights**: Jomon Sugi (10-hour round-trip trek), Shiratanisunsui Gorge, Yakusugi Land, Yaku Shrine, Mount Miyanoura

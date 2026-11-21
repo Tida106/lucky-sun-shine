@@ -50,6 +50,11 @@ draft: false
 
 **宗像三女神**（田心姫神・湍津姫神・市杵島姫神）をお祀りする海の総鎮守。**「神宿る島」沖ノ島** が世界遺産に登録され、**古代から大陸との交易ルートの守護神** として国家規模で篤く信仰されてきました。**辺津宮・中津宮・沖津宮** の三宮体制。
 
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-haiden-640.webp" srcset="/images/posts/munakata-hetsu-haiden-640.webp 640w, /images/posts/munakata-hetsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="辺津宮の拝殿">
+<figcaption>辺津宮の拝殿。太い大きなしめ縄が下がっています。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
 - **所在地**: 福岡県宗像市田島2331（辺津宮）
 - **見どころ**: 辺津宮（参拝可）、神宝館の国宝、神宿る島沖ノ島（一般立ち入り禁止）
 - **アクセス**: JR鹿児島本線「東郷」駅からバス約12分
@@ -61,6 +66,11 @@ draft: false
 ## <span id="aso"></span>阿蘇神社（熊本県）— 復興の象徴・日本三大楼門
 
 **健磐龍命** をはじめとする **阿蘇十二神** をお祀りする肥後国一宮。**2016年熊本地震** で楼門・拝殿が倒壊するも **2023年12月に楼門が完全復旧**、**日本三大楼門の一つ** が蘇りました。**「カルデラを蹴り開いた**」 開拓神話の地。
+
+<figure class="photo">
+<img src="/images/posts/aso-haiden-komainu-640.webp" srcset="/images/posts/aso-haiden-komainu-640.webp 640w, /images/posts/aso-haiden-komainu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="阿蘇神社の拝殿と狛犬">
+<figcaption>阿蘇神社の拝殿。大きなしめ縄と、手前の狛犬が印象的です。 写真：<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 - **所在地**: 熊本県阿蘇市一の宮町宮地3083-1
 - **見どころ**: 楼門（復旧済）、神殿、高砂の松、阿蘇カルデラ
@@ -74,6 +84,11 @@ draft: false
 
 **瓊瓊杵尊（ににぎのみこと）** をお祀りする、**天孫降臨神話の主役** を祀る古社。**朱塗りの社殿は国宝**、**坂本龍馬とお龍の新婚旅行先** としても知られます。**高千穂峰の登山口** に位置し、霧島連山の霊気が漂う聖地。
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-approach-1200.webp" srcset="/images/posts/kirishima-jingu-approach-640.webp 640w, /images/posts/kirishima-jingu-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石畳の参道の先に建つ、両脇に社を従えた霧島神宮の社殿">
+<figcaption>石畳の参道の先に見える、社殿の正面。 写真：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
+</figure>
+
 - **所在地**: 鹿児島県霧島市霧島田口2608-5
 - **見どころ**: 朱塗りの国宝本殿、御神木、霧島連山の景色
 - **アクセス**: JR日豊本線「霧島神宮」駅からバス約13分
@@ -86,6 +101,11 @@ draft: false
 
 **天孫降臨神話の舞台** とされる宮崎の渓谷。**柱状節理** の岩壁が **真名井の滝** へと続く絶景で名高く、**貸しボート** で滝の真下まで漕ぎ寄せるのが定番。**高千穂神社** で **夜神楽** が毎晩公演され、**天岩戸神社・天安河原** には岩戸隠れの神話が今も残ります。
 
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-above-1200.webp" srcset="/images/posts/takachiho-boats-above-640.webp 640w, /images/posts/takachiho-boats-above-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1800" loading="lazy" decoding="async" alt="遊歩道から見下ろした高千穂峡。緑に囲まれた水面にボートが浮かぶ">
+<figcaption>遊歩道から見下ろすと、エメラルド色の水面と真名井の滝を一度に眺められます。まず上から全体を見てから、ボートに乗る流れがおすすめです。 写真: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyo_18297992885.jpg" rel="noopener" target="_blank">Thomas Au</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （リサイズ）</figcaption>
+</figure>
+
 - **所在地**: 宮崎県西臼杵郡高千穂町大字三田井
 - **見どころ**: 真名井の滝、柱状節理、高千穂神社の夜神楽、天岩戸神社、天安河原
 - **アクセス**: JR日豊本線「延岡」駅からバス約1時間30分（または車）
@@ -97,6 +117,11 @@ draft: false
 ## <span id="yakushima"></span>屋久島（鹿児島県）— 世界自然遺産・縄文杉の島
 
 **縄文杉**（樹齢2,000〜7,000年）を擁する **世界自然遺産** の島。**白谷雲水峡** は **「もののけ姫」のモデル** とされ、**益救神社（やくじんじゃ）** が島内最大の神社として **山幸彦** を祀ります。**島全体がパワースポット** という稀有な存在。
+
+<figure class="photo">
+<img src="/images/posts/yaku-shiratani-moss-640.webp" srcset="/images/posts/yaku-shiratani-moss-640.webp 640w, /images/posts/yaku-shiratani-moss-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="白谷雲水峡の苔むす森。苔に覆われた岩と木々">
+<figcaption>白谷雲水峡の「苔むす森」。苔に覆われた岩や木々が、どこまでも続きます。 写真：<a href="https://commons.wikimedia.org/wiki/User:MaedaAkihiko" rel="noopener" target="_blank">MaedaAkihiko</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 - **所在地**: 鹿児島県熊毛郡屋久島町
 - **見どころ**: 縄文杉（往復10時間トレッキング）、白谷雲水峡、ヤクスギランド、益救神社、宮之浦岳

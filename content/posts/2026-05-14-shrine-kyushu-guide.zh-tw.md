@@ -50,6 +50,11 @@ draft: false
 
 供奉**宗像三女神**（田心姬神・湍津姬神・市杵島姬神）的海上總鎮守。**「神明居住的島嶼」沖之島**被列為世界遺產，自古便作為**與大陸貿易航線的守護神**，受到國家級規模的虔誠信仰。採**邊津宮・中津宮・沖津宮**三宮體制。
 
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-haiden-640.webp" srcset="/images/posts/munakata-hetsu-haiden-640.webp 640w, /images/posts/munakata-hetsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="邊津宮的拜殿">
+<figcaption>邊津宮的拜殿，垂掛著粗大的注連繩。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
 - **所在地**：福岡縣宗像市田島2331（邊津宮）
 - **看點**：邊津宮（可參拜）、神寶館的國寶、神明居住的島嶼沖之島（一般人禁止進入）
 - **交通方式**：JR鹿兒島本線「東鄉」站搭巴士約12分鐘
@@ -61,6 +66,11 @@ draft: false
 ## <span id="aso"></span>阿蘇神社（熊本縣）— 復興的象徵・日本三大樓門
 
 供奉**健磐龍命**為首的**阿蘇十二神**的肥後國一宮。**2016年熊本地震**導致樓門・拜殿倒塌，但**2023年12月樓門完全修復完成**，**日本三大樓門之一**重新復活。這裡也是**「踢開火山口」**開拓神話的所在地。
+
+<figure class="photo">
+<img src="/images/posts/aso-haiden-komainu-640.webp" srcset="/images/posts/aso-haiden-komainu-640.webp 640w, /images/posts/aso-haiden-komainu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="阿蘇神社的拜殿與狛犬">
+<figcaption>阿蘇神社的拜殿，大注連繩與前方的狛犬令人印象深刻。 照片：<a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 - **所在地**：熊本縣阿蘇市一の宮町宮地3083-1
 - **看點**：樓門（已修復）、神殿、高砂松、阿蘇火山口
@@ -74,6 +84,11 @@ draft: false
 
 供奉**瓊瓊杵尊（ににぎのみこと）**的古老神社，奉祀**天孫降臨神話的主角**。**朱紅色社殿已被指定為國寶**，也以**坂本龍馬與龍的新婚旅行地**聞名。位於**高千穗峰的登山口**，瀰漫著霧島連山的靈氣。
 
+<figure class="photo">
+<img src="/images/posts/kirishima-jingu-approach-1200.webp" srcset="/images/posts/kirishima-jingu-approach-640.webp 640w, /images/posts/kirishima-jingu-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石板參道盡頭、兩側有小社相伴的霧島神宮社殿">
+<figcaption>石板參道盡頭的社殿正面。 攝影：矢野弘幸／<a href="https://commons.wikimedia.org/w/index.php?search=%E7%9F%A2%E9%87%8E%E5%BC%98%E5%B9%B8%20%E9%9C%A7%E5%B3%B6%E7%A5%9E%E5%AE%AE&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
+</figure>
+
 - **所在地**：鹿兒島縣霧島市霧島田口2608-5
 - **看點**：朱紅色的國寶本殿、御神木、霧島連山的景色
 - **交通方式**：JR日豐本線「霧島神宮」站搭巴士約13分鐘
@@ -86,6 +101,11 @@ draft: false
 
 被視為**天孫降臨神話舞台**的宮崎溪谷。以**柱狀節理**岩壁延伸至**真名井瀧**的絕景著稱，經典玩法是搭**出租小船**划到瀑布正下方。**高千穗神社**每晚上演**夜神樂**，**天岩戶神社・天安河原**至今仍留存著岩戶隱藏的神話。
 
+<figure class="photo">
+<img src="/images/posts/takachiho-boats-above-1200.webp" srcset="/images/posts/takachiho-boats-above-640.webp 640w, /images/posts/takachiho-boats-above-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1800" loading="lazy" decoding="async" alt="從步道俯瞰高千穗峽，綠意環繞的水面上有小船">
+<figcaption>從步道往下看，可以同時欣賞翡翠色的水面與真名井瀧。建議先從上方看過整體，再搭船。 照片: <a href="https://commons.wikimedia.org/wiki/File:Takachihokyo_18297992885.jpg" rel="noopener" target="_blank">Thomas Au</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener" target="_blank">CC BY 2.0</a> （已調整尺寸）</figcaption>
+</figure>
+
 - **所在地**：宮崎縣西臼杵郡高千穗町大字三田井
 - **看點**：真名井瀧、柱狀節理、高千穗神社的夜神樂、天岩戶神社、天安河原
 - **交通方式**：JR日豐本線「延岡」站搭巴士約1小時30分鐘（或開車）
@@ -97,6 +117,11 @@ draft: false
 ## <span id="yakushima"></span>屋久島（鹿兒島縣）— 世界自然遺產・繩文杉之島
 
 擁有**繩文杉**（樹齡2,000〜7,000年）的**世界自然遺產**之島。**白谷雲水峽**被視為**《魔法公主》的取景地**，**益救神社（やくじんじゃ）**作為島上最大的神社，供奉著**山幸彥**。**整座島嶼即是能量景點**，是相當罕見的存在。
+
+<figure class="photo">
+<img src="/images/posts/yaku-shiratani-moss-640.webp" srcset="/images/posts/yaku-shiratani-moss-640.webp 640w, /images/posts/yaku-shiratani-moss-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="白谷雲水峽的苔蘚森林，長滿青苔的岩石與樹木">
+<figcaption>白谷雲水峽的「苔蘚森林」，長滿青苔的岩石與樹木綿延不盡。 照片：<a href="https://commons.wikimedia.org/wiki/User:MaedaAkihiko" rel="noopener" target="_blank">MaedaAkihiko</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
 
 - **所在地**：鹿兒島縣熊毛郡屋久島町
 - **看點**：繩文杉（往返10小時健行）、白谷雲水峽、屋久杉樂園、益救神社、宮之浦岳
