@@ -34,6 +34,11 @@ draft: false
 ### 1. ชำระล้างกายและใจที่โจซุยชะ (ที่ล้างมือ)
 หลังผ่านประตูโทริอิหรือประตูวัด ให้แวะที่ **โจซุยชะ (ที่ล้างมือ)** ก่อน การล้างมือและบ้วนปากด้วยน้ำใสเป็นพิธีเล็กๆ ที่สดชื่น ช่วยให้ความเหนื่อยล้าและความรู้สึกหนักๆ จากชีวิตประจำวันเบาลง จากนั้นค่อยเดินเข้าไปไหว้ด้วยใจที่สะอาดและผ่อนคลายนะคะ♪
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-chozuya-640.webp" srcset="/images/posts/fushimi-fox-chozuya-640.webp 640w, /images/posts/fushimi-fox-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="ที่ล้างมือของศาลเจ้าฟูชิมิอินาริ มีน้ำไหลออกจากปากรูปปั้นจิ้งจอกหินที่ประดับด้วยผ้าสีแดง">
+<figcaption>อ่างล้างมือที่มีน้ำไหลออกจากปากของรูปปั้นสุนัขจิ้งจอกหิน ที่ด้ามกระบวยมีคำว่า “奉納” (ถวาย) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.th" rel="noopener" target="_blank">CC0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ### 2. ลำดับการไหว้: เริ่มด้วยการกล่าวขอบคุณก่อน
 เนื่องจากโกชูอินเป็นหลักฐานของการไหว้และความเคารพ **จึงมีธรรมเนียมว่าควรไหว้ที่ศาลหลักก่อน** แล้วค่อยไปที่จุดรับโกชูอิน
 *   **ที่ศาลเจ้าชินโต:** “โค้งคำนับ 2 ครั้ง ปรบมือ 2 ครั้ง โค้งคำนับ 1 ครั้ง” (โค้งลึก 2 ครั้ง ปรบมือ 2 ครั้ง อธิษฐานและกล่าวขอบคุณเบาๆ แล้วโค้งลึกอีก 1 ครั้ง)
@@ -51,8 +56,23 @@ draft: false
 
 ต่อไปเรามาเริ่มเดินตามเส้นทางเสริมดวงที่ **ศาลเจ้าฟุชิมิ อินาริ ไทฉะ** กันค่ะ ศาลเจ้าแห่งนี้ก่อตั้งในปี ค.ศ. 711 และเป็นศาลเจ้าใหญ่ที่เป็นศูนย์กลางของศาลเจ้าอินาริราว 30,000 แห่งทั่วญี่ปุ่น ภูเขาอินาริทั้งลูกสูง 233 เมตรถือเป็นพื้นที่ศักดิ์สิทธิ์ เล่ากันว่าแค่ได้ก้าวเดินก็รู้สึกมีพลังขึ้นมาจากข้างใน!
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-statue-640.webp" srcset="/images/posts/fushimi-fox-statue-640.webp 640w, /images/posts/fushimi-fox-statue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="รูปปั้นจิ้งจอกสีเขียวอมฟ้าสวมผ้ากันเปื้อนสีแดงและคาบกุญแจ">
+<figcaption>รูปปั้นจิ้งจอกคาบกุญแจ เล่ากันว่าในฐานะผู้ส่งสารของเทพอินาริ จิ้งจอกมักปรากฏในท่าคาบกุญแจหรือรวงข้าว ภาพ: <a href="https://www.flickr.com/photos/40135642@N00/11369752534/" rel="noopener" target="_blank">chee.hong</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.th" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ### 1. เริ่มต้นที่ศาลหลัก (ฮนเด็น)
 ที่เชิงเขาศักดิ์สิทธิ์ ให้ไหว้ขอพรที่ศาลหลักให้ชีวิตรุ่งเรือง อุดมสมบูรณ์ และราบรื่น จากนั้นไปรับโกชูอินแรกที่จุดรับ การได้เห็นนักเขียนอักษรเขียนคำว่า “ฟุชิมิ อินาริ ไทฉะ” ต่อหน้าต่อตา ช่วยให้รู้สึกมีกำลังใจขึ้นมาทันที (เงินถวาย: 300–500 เยน / เขียนลงในสมุดของเราโดยตรง)
+
+<figure class="photo">
+<img src="/images/posts/fushimi-otorii-romon-640.webp" srcset="/images/posts/fushimi-otorii-romon-640.webp 640w, /images/posts/fushimi-otorii-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="ทางเข้าศาลเจ้าฟูชิมิอินาริ มองเห็นประตูโรมงและบันไดหินผ่านโทริอิสีแดงชาดขนาดใหญ่">
+<figcaption>ประตูโรมงที่ตั้งอยู่หลังโทริอิสีแดงชาดขนาดใหญ่ การเดินทางไหว้พระเริ่มต้นจากที่นี่ ภาพ: <a href="https://www.flickr.com/photos/40135642@N00/11369767614/" rel="noopener" target="_blank">chee.hong</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.th" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fushimi-ge-haiden-640.webp" srcset="/images/posts/fushimi-ge-haiden-640.webp 640w, /images/posts/fushimi-ge-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="601" loading="lazy" decoding="async" alt="เง ไฮเด็นของศาลเจ้าฟูชิมิอินาริ ที่มีหลังคาใหญ่และเสาสีแดงชาด">
+<figcaption>เง ไฮเด็น (ศาลาไหว้ด้านนอก) ที่ตั้งอยู่หน้าศาลหลัก โดดเด่นด้วยหลังคาขนาดใหญ่และเสาสีแดงชาดสดใส ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Jakubhal" rel="noopener" target="_blank">Jakub Hałun</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ทางเดินเซ็มบงโทริสีแดงชาดสองเส้นที่ทอดยาวเข้าไปด้านใน">

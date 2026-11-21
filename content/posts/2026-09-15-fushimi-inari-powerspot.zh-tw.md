@@ -35,6 +35,11 @@ draft: false
 ### ① 在手水舍讓身心保持乾淨
 穿過鳥居或山門後，先到手水舍。用水洗淨雙手和嘴巴的動作，一般認為是把日常忙碌中沾上的疲憊與負面氣息沖掉的重置儀式。以清爽乾淨的心情前往參拜吧♪
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-chozuya-640.webp" srcset="/images/posts/fushimi-fox-chozuya-640.webp 640w, /images/posts/fushimi-fox-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="伏見稻荷大社的手水舍，清水從掛著紅色裝飾的狐狸石像口中流出">
+<figcaption>清水從狐狸石像口中流出的手水缽。木杓上寫著「奉納」二字。 照片：<a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### ② 傳達感謝的正確參拜順序
 御朱印是「對神明、佛祖的拜禮證明」，所以**一定要先在本堂、本殿參拜完畢**，再前往授與所，是最得體的禮儀。
 *   **在神社參拜：**「二禮二拍手一禮（深深鞠躬 2 次 → 拍手 2 次 → 靜靜地祈禱感謝 → 最後鞠躬 1 次）」
@@ -52,8 +57,23 @@ draft: false
 
 接下來，要出發前往於和銅 4 年（711 年）創建、全國約 3 萬座稻荷神社的總本宮——**伏見稻荷大社**，展開開運健行！海拔 233 公尺的稻荷山整座都是聖域，據說光是走在山裡，就能感受到從身體內側湧出的活力，是很棒的能量景點！
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-statue-640.webp" srcset="/images/posts/fushimi-fox-statue-640.webp 640w, /images/posts/fushimi-fox-statue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="圍著紅色圍兜、口銜鑰匙端坐的青綠色狐狸像">
+<figcaption>口銜鑰匙的狐狸像。據說作為稻荷神的使者，狐狸常以口銜鑰匙或稻穗的姿態出現。 照片：<a href="https://www.flickr.com/photos/40135642@N00/11369752534/" rel="noopener" target="_blank">chee.hong</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### ❶ 旅程從宏偉的本殿開始！
 在位於山腳的本殿，祈求生意興隆與生活富足之後，先到授與所請領第一枚御朱印。師傅在眼前氣勢十足地寫下「伏見稻荷大社」的墨書，光是看著就覺得充滿力量！（初穗料：300 日圓〜500 日圓／直接書寫）
+
+<figure class="photo">
+<img src="/images/posts/fushimi-otorii-romon-640.webp" srcset="/images/posts/fushimi-otorii-romon-640.webp 640w, /images/posts/fushimi-otorii-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="透過朱紅色大鳥居望見樓門與石階的伏見稻荷大社入口">
+<figcaption>朱紅色大鳥居後方的樓門。參拜之旅就從這裡開始。 照片：<a href="https://www.flickr.com/photos/40135642@N00/11369767614/" rel="noopener" target="_blank">chee.hong</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fushimi-ge-haiden-640.webp" srcset="/images/posts/fushimi-ge-haiden-640.webp 640w, /images/posts/fushimi-ge-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="601" loading="lazy" decoding="async" alt="有著大屋頂與朱紅色柱子的伏見稻荷大社外拜殿">
+<figcaption>本殿前方的外拜殿，厚重的大屋頂與鮮豔的朱紅色柱子令人印象深刻。 照片：<a href="https://commons.wikimedia.org/wiki/User:Jakubhal" rel="noopener" target="_blank">Jakub Hałun</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="向深處延伸的兩條朱紅色千本鳥居參道">

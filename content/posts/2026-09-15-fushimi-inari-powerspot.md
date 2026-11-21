@@ -34,6 +34,11 @@ draft: false
 ### ① 手水舎（ちょうずや）で心身をクリーンに浄化
 鳥居や山門をくぐったら、まずは手水舎へ。水で手と口を清めるアクションは、日常の慌ただしさでついた目に見えないお疲れやネガティブな気をサッと洗い流す素晴らしいリセット儀式です。スッキリ清らかな心で参拝に向かいましょう♪
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-chozuya-640.webp" srcset="/images/posts/fushimi-fox-chozuya-640.webp 640w, /images/posts/fushimi-fox-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="伏見稲荷大社の手水舎。きつねの石像の口から水が流れ、赤い飾りがかけられている">
+<figcaption>手水舎のきつね像の口から、清らかな水が流れる手水鉢。柄杓には「奉納」の文字が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### ② 感謝を届ける正しい参拝の順番
 御朱印は「神様・仏様への拝礼の証」なので、**必ず本堂・本殿でお参りをすませてから**授与所へ向かうのが最高のグッドマナーです。
 *   **神社での参拝：** 「二礼二拍手一礼（深く2回お辞儀→パンパンと2回手を叩く→静かに感謝を祈る→最後に1回お辞儀）」
@@ -51,8 +56,23 @@ draft: false
 
 ここからは、和銅4年（711年）に創建された全国約3万社ある稲荷神社の総本宮、**伏見稲荷大社**での開運ハイキングに出発しよう！標高233メートルの稲荷山全体が聖域になっていて、歩くだけで身体の中から元気が湧いてくる最高のパワースポットなんだ！
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-statue-640.webp" srcset="/images/posts/fushimi-fox-statue-640.webp 640w, /images/posts/fushimi-fox-statue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="青緑色のきつね像が、赤い前掛けをして、鍵をくわえて座っている">
+<figcaption>鍵をくわえたきつねの像。稲荷神のお使いとして、鍵や稲穂などをくわえた姿で知られているそうです。 写真：<a href="https://www.flickr.com/photos/40135642@N00/11369752534/" rel="noopener" target="_blank">chee.hong</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### ❶ 旅のスタートは巨大な本殿から！
 山の麓に位置する本殿で、商売繁昌や生活の豊かさを祈願したら、まずは授与所で最初の御朱印をいただきましょう。職人さんが目の前で力強く書き上げてくれる「伏見稲荷大社」の墨書きは、見ているだけでパワーをもらえます！（初穂料：300円〜500円／直書き）
+
+<figure class="photo">
+<img src="/images/posts/fushimi-otorii-romon-640.webp" srcset="/images/posts/fushimi-otorii-romon-640.webp 640w, /images/posts/fushimi-otorii-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="朱色の大鳥居の奥に、楼門と石段が見える伏見稲荷大社の入口">
+<figcaption>朱色の大鳥居の奥に建つ、伏見稲荷大社の楼門。ここから、お参りの旅が始まります。 写真：<a href="https://www.flickr.com/photos/40135642@N00/11369767614/" rel="noopener" target="_blank">chee.hong</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fushimi-ge-haiden-640.webp" srcset="/images/posts/fushimi-ge-haiden-640.webp 640w, /images/posts/fushimi-ge-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="601" loading="lazy" decoding="async" alt="朱色の柱と大きな屋根が印象的な、伏見稲荷大社の外拝殿">
+<figcaption>本殿の手前に建つ外拝殿。どっしりとした大きな屋根と、鮮やかな朱色の柱が印象的です。 写真：<a href="https://commons.wikimedia.org/wiki/User:Jakubhal" rel="noopener" target="_blank">Jakub Hałun</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="奥へ続く2本の朱色の千本鳥居の参道">

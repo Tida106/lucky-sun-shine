@@ -37,6 +37,11 @@ If you feel nervous thinking shrine etiquette is strict and complicated, do not 
 ### 1. Purify Your Body and Mind at the Chozuya (Water Pavilion)
 After passing through the torii gate or temple entrance, visit the *chozuya* water pavilion first. Cleansing your hands and mouth with pure water is a refreshing ritual that rinses away invisible fatigue and negative vibes accumulated from busy daily life. Approach the shrine with a clean, clear, and relaxed spirit♪
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-chozuya-640.webp" srcset="/images/posts/fushimi-fox-chozuya-640.webp 640w, /images/posts/fushimi-fox-chozuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="The chozuya at Fushimi Inari Taisha, with water flowing from a stone fox statue wearing a red ornament">
+<figcaption>The purification basin where water flows from a stone fox’s mouth. The ladles are marked "hono" (offering). Photo: <a href="https://commons.wikimedia.org/wiki/User:Balon_Greyjoy" rel="noopener" target="_blank">Balon Greyjoy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 ### 2. The Proper Order of Worship: Express Gratitude First
 Since a Goshuin represents proof of your worship and respect, **the golden rule of good etiquette is to pray at the main hall first** before visiting the Goshuin counter.
 *   **At Shinto Shrines:** Practice "Two bows, two claps, one bow" (bow deeply twice, clap your hands twice, offer a quiet prayer of gratitude, and finish with one deep bow).
@@ -54,8 +59,23 @@ The offering paid when receiving a Goshuin is called *hatsuho-ryo* at shrines an
 
 Now, let us embark on our lucky hiking route at **Fushimi Inari Taisha**, founded in the year 711 and standing proudly as the grand head shrine among roughly 30,000 Inari shrines throughout Japan! The entire 233-meter Mount Inari is sacred ground, making it an incredible power spot where merely taking steps charges you with vibrant vitality from within!
 
+<figure class="photo">
+<img src="/images/posts/fushimi-fox-statue-640.webp" srcset="/images/posts/fushimi-fox-statue-640.webp 640w, /images/posts/fushimi-fox-statue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="A blue-green fox statue wearing a red bib and holding a key in its mouth">
+<figcaption>A fox statue holding a key in its mouth. Foxes, the messengers of Inari, are often shown holding a key, rice ears and more. Photo: <a href="https://www.flickr.com/photos/40135642@N00/11369752534/" rel="noopener" target="_blank">chee.hong</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
 ### 1. Start Your Journey at the Grand Main Shrine (Honden)!
 Located at the base of the sacred mountain, offer your prayers at the Main Sanctuary for prosperity, abundance, and smooth everyday living. Afterwards, visit the reception counter for your first Goshuin. Watching the calligrapher gracefully ink "Fushimi Inari Taisha" right before your eyes provides an instant boost of courage and energy! (Offering: 300 to 500 yen / Hand-inked directly into your book)
+
+<figure class="photo">
+<img src="/images/posts/fushimi-otorii-romon-640.webp" srcset="/images/posts/fushimi-otorii-romon-640.webp 640w, /images/posts/fushimi-otorii-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="The entrance of Fushimi Inari Taisha: the Romon gate and stone steps seen through a large vermilion torii">
+<figcaption>The Romon gate standing behind the great vermilion torii. This is where your visit begins. Photo: <a href="https://www.flickr.com/photos/40135642@N00/11369767614/" rel="noopener" target="_blank">chee.hong</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fushimi-ge-haiden-640.webp" srcset="/images/posts/fushimi-ge-haiden-640.webp 640w, /images/posts/fushimi-ge-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="601" loading="lazy" decoding="async" alt="The Ge-haiden at Fushimi Inari Taisha with a large roof and vermilion pillars">
+<figcaption>The Ge-haiden (outer worship hall) in front of the main shrine, with its massive roof and bright vermilion pillars. Photo: <a href="https://commons.wikimedia.org/wiki/User:Jakubhal" rel="noopener" target="_blank">Jakub Hałun</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fushimi-senbontorii-double-1200.webp" srcset="/images/posts/fushimi-senbontorii-double-640.webp 640w, /images/posts/fushimi-senbontorii-double-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Two paths of vermilion Senbon Torii stretching into the distance">
