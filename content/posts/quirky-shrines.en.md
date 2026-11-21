@@ -82,6 +82,11 @@ The animistic tolerance of Shinto, which has no strict dogmas, achieves the ulti
 ### What Kind of Deity? (Roots and Blessings)
 Within the grounds of Horin-ji Temple in Arashiyama, the ancient capital of Kyoto boasting a thousand years of history, sits "Denden-gu," spiritually protecting modern digital society.
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/denden-gu-torii-640.webp" srcset="/images/posts/denden-gu-torii-640.webp 640w, /images/posts/denden-gu-torii-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="The vermilion torii and shrine building of Denden-gu in the grounds of Horin-ji Temple">
+<figcaption>Denden-gu in the grounds of Horin-ji Temple (Arashiyama, Kyoto). The shrine building can be seen beyond the vermilion torii. Photo: <a href="https://web.archive.org/web/20161015164328/http://www.panoramio.com/photo/31405898" rel="noopener" target="_blank">YOSHIFUMI OGISO</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
 It is the strongest digital good luck power spot for everyone involved in IT, where executives of major Japanese IT companies and telecom carriers flock to pray for the success of system development, prevention of server crashes, warding off communication failures, and the achievement of cybersecurity ✨
 
 ### Why It's Cool! (Points That Surprise Overseas Readers)

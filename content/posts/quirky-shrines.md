@@ -77,6 +77,11 @@ tags: ["Power spots", "Shrine", "Spiritual", "Lucky charm"]
 ### どんな神様？（ルーツとご利益）
 千年の歴史を誇る古都・京都の嵐山にある法輪寺の境内に、現代のデジタル社会を霊的に護る「電電宮（でんでんぐう）」が鎮座しているよ。
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/denden-gu-torii-640.webp" srcset="/images/posts/denden-gu-torii-640.webp 640w, /images/posts/denden-gu-torii-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="法輪寺の境内にある電電宮の朱色の鳥居と社殿">
+<figcaption>法輪寺の境内にある電電宮（京都市嵐山）。朱色の鳥居の向こうに社殿が見えます。写真：<a href="https://web.archive.org/web/20161015164328/http://www.panoramio.com/photo/31405898" rel="noopener" target="_blank">YOSHIFUMI OGISO</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
 日本の大手IT企業や通信キャリアの幹部たちが、システム開発の成功、サーバーダウン防止、通信障害除け、サイバーセキュリティ成就を祈願するためにこぞって参拝する、ITに関わる全ての人にとって屈指のデジタル開運パワースポットなんだ✨
 
 ### ここがクール！（海外読者が驚くポイント）
