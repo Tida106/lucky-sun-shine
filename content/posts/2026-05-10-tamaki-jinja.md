@@ -17,6 +17,11 @@ draft: false
 
 玉置神社は、奈良県南部・十津川村の **標高1076m** の玉置山頂近くに鎮座する、**熊野三山の奥宮** とされる古社。アクセスの厳しさから **「呼ばれた人しかたどり着けない神社」** と古来語られ続け、それでもなお **日本屈指のパワースポット** として全国から参拝者を惹きつける、稀有な聖地です。**樹齢3000年と推定される神代杉** や、玉置山頂の **玉石社（磐座）** など、原始的な神域の佇まいを今に残しています。本記事では **歴史・「呼ばれる神社」伝承・神代杉・玉石社・FAQ・編集後記** を1ページにまとめます。
 
+<figure class="photo">
+<img src="/images/posts/tamaki-honden-torii-1200.webp" srcset="/images/posts/tamaki-honden-torii-640.webp 640w, /images/posts/tamaki-honden-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="木造の鳥居の向こうに見える玉置神社の社殿">
+<figcaption>木造の鳥居の向こうに、青緑色の屋根をいただく社殿がそびえます。石垣の上に建つ姿と石段が、山上の古社らしい迫力を伝えます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa004.jpeg" rel="noopener" target="_blank">Kansai explorer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 目次
 
 - [基本情報・神社データ](#basic)
@@ -48,11 +53,21 @@ draft: false
 | 世界遺産関連 | 紀伊山地の霊場と参詣道（大峯奥駈道の宿） |
 | 公式サイト | http://www.tamakijinja.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/tamaki-stone-torii-1200.webp" srcset="/images/posts/tamaki-stone-torii-640.webp 640w, /images/posts/tamaki-stone-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石段の先に社殿がのぞく玉置神社の石鳥居">
+<figcaption>石の鳥居の先に石段が続き、その上に社殿がのぞきます。鳥居の額には「玉置神社」の文字があり、注連縄には白い紙垂が下がっています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa002.jpeg" rel="noopener" target="_blank">Kansai explorer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## <span id="history"></span>歴史と熊野三山奥宮としての位置付け
 
 玉置神社の創建は、社伝によれば **紀元前37年（崇神天皇61年）**。社伝には、初代神武天皇が東征の途上で十津川を遡り、玉置山に宝玉を奉じて武運を祈ったのが起源と伝わります。
 
 平安時代以降、玉置山は **修験道の聖地** として栄え、**熊野本宮大社・熊野速玉大社・熊野那智大社の三山** の **奥宮** として位置付けられました。**大峯奥駈道（おおみねおくがけみち）** の重要な宿としても知られ、修験者の修行ルートの中核を担う霊地。**2004年に世界文化遺産「紀伊山地の霊場と参詣道」** の構成資産として登録されました。
+
+<figure class="photo">
+<img src="/images/posts/tamaki-honden-steps-1200.webp" srcset="/images/posts/tamaki-honden-steps-640.webp 640w, /images/posts/tamaki-honden-steps-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="注連縄の下から石段の先の社殿を見上げた玉置神社">
+<figcaption>太い注連縄の下から石段を見上げると、社殿の前に白い服の参拝者の姿が見えます。神域に入っていく感覚が味わえる角度です。 写真：<a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa005.jpeg" rel="noopener" target="_blank">Kansai explorer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 > 出典: 玉置神社公式資料、世界遺産紀伊山地の霊場と参詣道資料。
 
@@ -75,11 +90,21 @@ draft: false
 
 訪れようとして到達できなかった人、何度目かの挑戦でようやく辿り着いた人——そんなエピソードが多数語り継がれ、「**到達できたこと自体がご縁**」という感覚が、訪れた人々に独特の感慨を残します。
 
+<figure class="photo">
+<img src="/images/posts/tamaki-michishirube-1200.webp" srcset="/images/posts/tamaki-michishirube-640.webp 640w, /images/posts/tamaki-michishirube-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="玉置神社と刻まれた山道の石の道しるべ">
+<figcaption>山道の脇に立つ石の道しるべで、「玉置神社」の文字が刻まれています。古くから参拝者が山道を歩いて目指してきたことを感じさせます。 写真：<a href="https://commons.wikimedia.org/wiki/File:玉置神社への道しるべ_-_panoramio.jpg" rel="noopener" target="_blank">helohelon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="sugi"></span>神代杉と境内の巨木群
 
 境内最大の見どころが、**樹齢約3000年と推定される「神代杉」**。幹周11メートル、樹高約24メートルの圧倒的な存在感で、**「神代から立ち続けている」** という名のとおり、神話の時代から人々を見守ってきた神木として崇敬されています。
 
 他にも **「夫婦杉」「常立杉」「磐余杉」「大杉」「平和の杉」** などの巨木が並び、境内全体が **巨木の社（やしろ）** とも呼ばれる聖域。**林野庁「森の巨人たち百選」** にも複数選出されています。
+
+<figure class="photo">
+<img src="/images/posts/tamaki-cedars-1200.webp" srcset="/images/posts/tamaki-cedars-640.webp 640w, /images/posts/tamaki-cedars-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="玉置神社の山道沿いにそびえる杉の巨木">
+<figcaption>山道沿いにそびえる杉の巨木。木々の間から光が差し込み、巨木の社と呼ばれる神域の静けさが伝わってきます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa010.jpeg" rel="noopener" target="_blank">Kansai explorer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="tamaishi"></span>玉石社（玉置山頂の磐座）
 
@@ -94,6 +119,16 @@ draft: false
 - **離合困難な山道** のため、運転に自信のない方は要注意
 - 体調・天候が万全でない時は **引き返す勇気** も大切
 - **熊野三山** 参拝の最後（または最初）に組み込むと縁深い
+
+<figure class="photo">
+<img src="/images/posts/tamaki-torii-plaque-1200.webp" srcset="/images/posts/tamaki-torii-plaque-640.webp 640w, /images/posts/tamaki-torii-plaque-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="「玉置神社」の額がかかる石鳥居と石段">
+<figcaption>石鳥居の額には「玉置神社」の文字が刻まれています。石段と手すりが続くので、参拝には足元のよい靴が安心です。 写真：<a href="https://commons.wikimedia.org/wiki/File:Tamaki_Shrine.jpg" rel="noopener" target="_blank">Tokiwokakeru</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tamaki-boulder-1200.webp" srcset="/images/posts/tamaki-boulder-640.webp 640w, /images/posts/tamaki-boulder-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="小さな鳥居と木の階段が寄り添う巨岩">
+<figcaption>巨岩のわきに小さな鳥居と木の階段が見えます。Wikimedia Commonsでは「玉置龍神水」として登録されている写真です。 写真：<a href="https://commons.wikimedia.org/wiki/File:Tamaki_shrine.jpg" rel="noopener" target="_blank">Drivephotographer</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="access"></span>アクセス
 

@@ -5,6 +5,7 @@ description: >-
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
+cardImage: "/images/cards/enoshima-jinja-wide.webp"
 tags:
   - ローズクォーツ
   - 神奈川県

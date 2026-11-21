@@ -21,6 +21,11 @@ Hello everyone! Sun-chan here, ready to guide you to an incredibly special place
 
 Tamaki Shrine is an ancient shrine nestled near the summit of Mount Tamaki, at an elevation of **1,076 meters**, in Totsukawa Village, southern Nara Prefecture. It's revered as the **inner sanctuary of Kumano Sanzan**. Because of its challenging access, it has been said since ancient times that **"only those who are called can reach this shrine."** Yet, it continues to draw pilgrims from all over Japan as one of **Japan's most powerful spiritual spots**—a truly rare and sacred place, don't you think? You'll find the awe-inspiring **Jindai Sugi cedar, estimated to be 3,000 years old**, and the **Tamaishi-sha (Iwakura)** at the summit of Mount Tamaki, preserving the ambiance of a primitive sacred site. In this article, I'll cover its **history, the "Called Shrine" legend, the Jindai Sugi cedar, Tamaishi-sha, FAQs, and a special postscript**, all in one convenient guide for you!
 
+<figure class="photo">
+<img src="/images/posts/tamaki-honden-torii-1200.webp" srcset="/images/posts/tamaki-honden-torii-640.webp 640w, /images/posts/tamaki-honden-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Tamaki Shrine's main hall seen beyond a wooden torii">
+<figcaption>Beyond the wooden torii stands the hall with its blue-green roof. Perched above a stone wall and approached by steps, it has the presence of an old mountaintop shrine. Photo: <a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa004.jpeg" rel="noopener" target="_blank">Kansai explorer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(resized)</figcaption>
+</figure>
+
 ## Table of Contents
 
 - [Basic Information and Shrine Data](#basic)
@@ -54,6 +59,11 @@ Let's dive into some essential info about Tamaki Shrine, shall we?
 | World Heritage Connection | Sacred Sites and Pilgrimage Routes in the Kii Mountain Range (a lodging on the Omine Okugake Trail) |
 | Official Website | http://www.tamakijinja.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/tamaki-stone-torii-1200.webp" srcset="/images/posts/tamaki-stone-torii-640.webp 640w, /images/posts/tamaki-stone-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone torii of Tamaki Shrine with steps leading up to the hall">
+<figcaption>Stone steps rise beyond the stone torii, and the hall peeks out at the top. The nameplate reads "Tamaki Shrine," and white paper streamers hang from the shimenawa. Photo: <a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa002.jpeg" rel="noopener" target="_blank">Kansai explorer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(resized)</figcaption>
+</figure>
+
 ## <span id="history"></span>History and its Position as Kumano Sanzan's Inner Sanctuary
 
 Let's learn about the rich history of Tamaki Shrine and why it's considered the inner sanctuary of Kumano Sanzan!
@@ -61,6 +71,11 @@ Let's learn about the rich history of Tamaki Shrine and why it's considered the 
 According to shrine tradition, Tamaki Shrine was founded in **37 BCE (the 61st year of Emperor Sujin's reign)**. The legend says that Japan's first emperor, Emperor Jimmu, on his eastern expedition, journeyed up the Totsukawa River and offered sacred jewels on Mount Tamaki, praying for military success. Isn't that fascinating?
 
 From the Heian period onwards, Mount Tamaki flourished as a **sacred site for Shugendo**, a unique Japanese ascetic practice. It became recognized as the **inner sanctuary** for the **three grand shrines of Kumano: Kumano Hongu Taisha, Kumano Hayatama Taisha, and Kumano Nachi Taisha**. It's also renowned as an important lodging point on the **Omine Okugake Trail**, a spiritual path forming the core of Shugendo practitioners' training routes. In **2004, it was registered as a component of the UNESCO World Cultural Heritage site "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range."** How amazing is that?
+
+<figure class="photo">
+<img src="/images/posts/tamaki-honden-steps-1200.webp" srcset="/images/posts/tamaki-honden-steps-640.webp 640w, /images/posts/tamaki-honden-steps-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Tamaki Shrine's hall at the top of stone steps, seen under a thick shimenawa rope">
+<figcaption>Looking up the steps from under a thick shimenawa rope, you can see visitors in white in front of the hall. It is an angle that makes you feel you are stepping into sacred ground. Photo: <a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa005.jpeg" rel="noopener" target="_blank">Kansai explorer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(resized)</figcaption>
+</figure>
 
 > Source: Tamaki Shrine official documents, Sacred Sites and Pilgrimage Routes in the Kii Mountain Range documents.
 
@@ -85,11 +100,21 @@ Now, let me tell you about the captivating legend: **"Only those who are called 
 
 There are countless stories of people who tried to visit but couldn't make it, or those who finally reached it after several attempts! This creates a unique sense of accomplishment and a feeling that **"simply being able to reach it is a blessing"** among those who visit.
 
+<figure class="photo">
+<img src="/images/posts/tamaki-michishirube-1200.webp" srcset="/images/posts/tamaki-michishirube-640.webp 640w, /images/posts/tamaki-michishirube-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Stone waymarker engraved with the name Tamaki Shrine on a mountain trail">
+<figcaption>A stone waymarker beside the mountain path, engraved with the name "Tamaki Shrine." It hints at how pilgrims have long made their way up on foot. Photo: <a href="https://commons.wikimedia.org/wiki/File:玉置神社への道しるべ_-_panoramio.jpg" rel="noopener" target="_blank">helohelon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(resized) (shared under the same license)</figcaption>
+</figure>
+
 ## <span id="sugi"></span>Jindai Sugi Cedar and the Giant Trees on the Shrine Grounds
 
 One of the biggest highlights on the shrine grounds is the **"Jindai Sugi" cedar, estimated to be about 3,000 years old**! With a massive trunk circumference of 11 meters and a height of approximately 24 meters, its presence is absolutely overwhelming. Just as its name suggests—meaning "cedar from the age of the gods"—it has been revered as a sacred tree that has watched over people since mythological times. Isn't that incredible?
 
 You'll also find other magnificent giant trees like the **"Meoto Sugi" (Couple Cedar), "Tachiki Sugi" (Standing Cedar), "Iware Sugi," "O Sugi" (Great Cedar), and "Heiwa no Sugi" (Peace Cedar)**, making the entire precinct feel like a **"sanctuary of giant trees."** Several of these trees have even been selected for the **Forestry Agency's "100 Giants of the Forest" list**!
+
+<figure class="photo">
+<img src="/images/posts/tamaki-cedars-1200.webp" srcset="/images/posts/tamaki-cedars-640.webp 640w, /images/posts/tamaki-cedars-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="Giant cedar trees along the mountain path to Tamaki Shrine">
+<figcaption>Giant cedars rise along the mountain path, with light filtering through the branches. You can sense the quiet of the grounds, often called a shrine of great trees. Photo: <a href="https://commons.wikimedia.org/wiki/File:Tamaki_Jinja,_Totsukawa010.jpeg" rel="noopener" target="_blank">Kansai explorer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(resized)</figcaption>
+</figure>
 
 ## <span id="tamaishi"></span>Tamaishi-sha (Iwakura at Mount Tamaki's Summit)
 
@@ -106,6 +131,16 @@ Here are some important tips for your pilgrimage to Tamaki Shrine!
 -   The mountain roads have **difficult-to-pass sections** with tight turns, so drivers who are not confident should be very cautious.
 -   If your physical condition or the weather isn't perfect, it's also important to have the **courage to turn back**. Your safety comes first!
 -   It's said to be especially auspicious to include Tamaki Shrine at the end (or beginning) of your **Kumano Sanzan** pilgrimage.
+
+<figure class="photo">
+<img src="/images/posts/tamaki-torii-plaque-1200.webp" srcset="/images/posts/tamaki-torii-plaque-640.webp 640w, /images/posts/tamaki-torii-plaque-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="Stone torii with the Tamaki Shrine nameplate and the steps beyond">
+<figcaption>The torii's nameplate is engraved with "Tamaki Shrine." The stone steps come with a handrail, but sturdy shoes are still a good idea. Photo: <a href="https://commons.wikimedia.org/wiki/File:Tamaki_Shrine.jpg" rel="noopener" target="_blank">Tokiwokakeru</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a>(resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/tamaki-boulder-1200.webp" srcset="/images/posts/tamaki-boulder-640.webp 640w, /images/posts/tamaki-boulder-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="A huge boulder beside a small torii and wooden steps">
+<figcaption>A small torii and wooden steps stand beside a huge boulder. On Wikimedia Commons, this photo is filed under the title "Tamaki Ryujinsui." Photo: <a href="https://commons.wikimedia.org/wiki/File:Tamaki_shrine.jpg" rel="noopener" target="_blank">Drivephotographer</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a>(resized)</figcaption>
+</figure>
 
 ## <span id="access"></span>Access
 
