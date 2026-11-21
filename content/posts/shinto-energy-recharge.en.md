@@ -3,6 +3,7 @@ title: "Boost Your Luck at Shrines! ✨ Discover Shinto's Gentle Healing Power"
 description: "Gentle tips based on Shinto thinking for calming your mind and recharging your spirits during a shrine visit."
 date: "2026-09-18"
 category: "powerspots"
+cardImage: "/images/cards/shinto-energy-recharge.webp"
 excerpt: "Shinto has no strict rules. Discover the gentle secrets of shrines that help you reset 'Kegare' (spiritual exhaustion) and fully recharge with nature's energy."
 ---
 
@@ -20,8 +21,23 @@ Many religions around the world often have "absolute sacred texts" like the Bibl
 That's because, since ancient times, Shinto spontaneously emerged from the hearts of Japanese people who felt gratitude and appreciation for the blessings of nature and their daily lives 🌿.
 The rain that helps crops grow, the warm sun that shines down, the beautiful mountains and seas… Finding gratitude in all the workings of great nature is a gentle worldview called "animism."
 
+<figure class="photo">
+<img src="/images/posts/shinto-iwato-toshimasa-640.webp" srcset="/images/posts/shinto-iwato-toshimasa-640.webp 640w, /images/posts/shinto-iwato-toshimasa-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="606" loading="lazy" decoding="async" alt="Origin of the Iwato Kagura Dance (Shunsai Toshimasa, 1889): Amaterasu emerging from the cave as the gods rejoice">
+<figcaption>The sun goddess Amaterasu steps out of the rock cave while the gods celebrate. Image: Shunsai Toshimasa / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.en" rel="noopener" target="_blank">public domain</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shinto-iwato-kunisada-636.webp" sizes="(min-width: 768px) 720px, 100vw" width="636" height="300" loading="lazy" decoding="async" alt="Origin of the Iwato Kagura Dance (Toyokuni III, 1857): Amaterasu emerging from the cave">
+<figcaption>The same scene by the late-Edo artist Utagawa Toyokuni III (Kunisada). Image: Utagawa Toyokuni III (Kunisada) / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.en" rel="noopener" target="_blank">public domain</a> (resized)</figcaption>
+</figure>
+
 As the phrase "Yaoyorozu no Kami" (eight million gods, or myriad gods) suggests, it's believed that gods (objects of gratitude) dwell not only in the sun, mountains, and rivers, but in everything around you 💙. Shinto's origin is not about being bound by rules, but about feeling "thank you for the abundant blessings right here, right now."
 It's precisely because there are no strict teachings like "You MUST do this!" that when you visit a shrine, you're enveloped in a sense of inexplicable peace and warmth ☀️.
+
+<figure class="photo">
+<img src="/images/posts/shinto-kami-chikanobu-640.webp" srcset="/images/posts/shinto-kami-chikanobu-640.webp 640w, /images/posts/shinto-kami-chikanobu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="607" loading="lazy" decoding="async" alt="Ukiyo-e by Yoshu Chikanobu showing many Shinto gods and emperors">
+<figcaption>A woodblock print by Yoshu Chikanobu bringing the gods of Japanese myth and the emperors together in one picture. Image: Yoshu Chikanobu / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.en" rel="noopener" target="_blank">public domain</a> (resized)</figcaption>
+</figure>
 
 ## 2. The True Meaning of Temizuya (Purification Fountain) ✨ ~Not About Being Wicked, But Fully Recharging and Resetting 'Tired Energy'!~
 

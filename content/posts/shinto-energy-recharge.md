@@ -3,6 +3,7 @@ title: "【神社で運気アップ☀️】実は神様って超フレッシュ
 description: "神道の考え方をもとに、神社の参拝で心を整え、気持ちを充電するためのヒントをやさしく紹介します。"
 date: "2026-09-18"
 category: "powerspots"
+cardImage: "/images/cards/shinto-energy-recharge.webp"
 excerpt: "神道には厳しいルールはありません。「ケガレ（気枯れ）」をリセットし、自然のエネルギーをフル充電する神社の優しい秘密をご紹介します。"
 ---
 
@@ -20,8 +21,23 @@ excerpt: "神道には厳しいルールはありません。「ケガレ（気�
 なぜなら、神道は遠い昔から、日本の人々が自然の恵みや日々の暮らしの中で「ありがたいな」「美しいな」と感じる感謝の心から、自然発生的に生まれたからなのです🌿
 雨が降って作物が育つこと、太陽が温かく照らしてくれること、美しい山や海があること…。大自然のあらゆる営みに感謝を見出すのが「アニミズム」と呼ばれる優しい世界観です。
 
+<figure class="photo">
+<img src="/images/posts/shinto-iwato-toshimasa-640.webp" srcset="/images/posts/shinto-iwato-toshimasa-640.webp 640w, /images/posts/shinto-iwato-toshimasa-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="606" loading="lazy" decoding="async" alt="岩戸神楽之起顕（春斎年昌、1889年）。岩戸から姿を現す天照大神と、喜ぶ神々">
+<figcaption>太陽の神・天照大神が岩戸から姿を見せ、神々が喜ぶ「岩戸開き」の場面です。 画像：春斎年昌／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/mark/1.0/deed.ja" rel="noopener" target="_blank">パブリックドメイン</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shinto-iwato-kunisada-636.webp" sizes="(min-width: 768px) 720px, 100vw" width="636" height="300" loading="lazy" decoding="async" alt="岩戸神楽ノ起顕（三代豊国、1857年）。岩戸から現れる天照大神">
+<figcaption>同じ「岩戸開き」を、江戸時代末期の絵師・三代豊国（歌川国貞）が描いたものです。 画像：三代豊国（歌川国貞）／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/mark/1.0/deed.ja" rel="noopener" target="_blank">パブリックドメイン</a>（サイズ変更あり）</figcaption>
+</figure>
+
 「八百万（やおよろず）の神様」という言葉のとおり、太陽や山、川だけでなく、あなたの身の回りにあるすべてのものに神様（感謝の対象）が宿っていると考えます💙ルールで縛られるのではなく、「今ここにある豊かな恵みにありがとう」と感じることこそが神道の原点。
 「〜しなきゃダメ！」という厳しい教えがないからこそ、神社に行くと理由のない安心感と温かさに包まれるのですね☀️
+
+<figure class="photo">
+<img src="/images/posts/shinto-kami-chikanobu-640.webp" srcset="/images/posts/shinto-kami-chikanobu-640.webp 640w, /images/posts/shinto-kami-chikanobu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="607" loading="lazy" decoding="async" alt="楊洲周延による浮世絵。たくさんの神々や歴代の天皇が描かれている">
+<figcaption>日本神話の神々や歴代の天皇を一枚に描いた、楊洲周延の浮世絵です。 画像：楊洲周延／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/mark/1.0/deed.ja" rel="noopener" target="_blank">パブリックドメイン</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## 2. 手水舎（てみずや）の本当の意味✨〜悪者扱いじゃなく「疲れた気」をフル充電リセット！〜
 
