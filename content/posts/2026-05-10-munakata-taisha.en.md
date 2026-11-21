@@ -88,6 +88,31 @@ The **Three Munakata Goddesses** enshrined at Munakata Taisha are each considere
 | **Nakatsugu Shrine** | Oshima Island | Tagitsuhime-no-kami | Approx. 25 minutes by ferry, birthplace of the Tanabata legend |
 | **Okitsugu Shrine** | Okinoshima Island | Tagorihime-no-kami | **General Entry Prohibited**, remote worship possible from Oshima Island |
 
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-shinmon-640.webp" srcset="/images/posts/munakata-hetsu-shinmon-640.webp 640w, /images/posts/munakata-hetsu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Shinmon gate of Hetsu-miya">
+<figcaption>The Shinmon gate of Hetsu-miya at Munakata Taisha, with its green roof and the worship hall visible beyond. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">Soramimi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-haiden-640.webp" srcset="/images/posts/munakata-hetsu-haiden-640.webp 640w, /images/posts/munakata-hetsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Haiden of Hetsu-miya">
+<figcaption>The Haiden (worship hall) of Hetsu-miya with a thick, heavy shimenawa rope. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">Soramimi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-sorei-640.webp" srcset="/images/posts/munakata-hetsu-sorei-640.webp 640w, /images/posts/munakata-hetsu-sorei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Munakata Sorei Shrine in Hetsu-miya">
+<figcaption>Munakata Sorei Shrine on the grounds of Hetsu-miya, flanked by stone lanterns. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">Soramimi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-torii-640.webp" srcset="/images/posts/munakata-nakatsu-torii-640.webp 640w, /images/posts/munakata-nakatsu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone torii and steps of Nakatsu-miya">
+<figcaption>The entrance of Nakatsu-miya on Oshima Island, with a stone torii, stone steps and a red railing. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">Soramimi</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized, shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-haiden-640.webp" srcset="/images/posts/munakata-nakatsu-haiden-640.webp 640w, /images/posts/munakata-nakatsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Haiden of Nakatsu-miya">
+<figcaption>The Haiden of Nakatsu-miya with a large shimenawa rope and shide paper streamers. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%83%8F%E3%83%9D%E3%83%8B%E3%82%A2%E3%83%A9" rel="noopener" target="_blank">ハポニアラ</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
 ## <span id="okinoshima"></span>Okinoshima, the Island Where Gods Dwell, and World Heritage
 
 **Okinoshima** is an **island about 4 km in circumference** floating in the Genkai Sea, approximately 60 km from the mainland, and the **island itself is considered a sacred deity**. Since ancient times, it has been known as "**Oiwazusama**" (the Silent One), and strict taboos are still observed today: absolutely nothing seen or heard on the island must be spoken about outside, **women are forbidden**, and **general entry is prohibited**.

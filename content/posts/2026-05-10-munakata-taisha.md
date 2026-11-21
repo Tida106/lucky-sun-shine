@@ -86,6 +86,31 @@ draft: false
 | **中津宮** | 大島 | 湍津姫神 | フェリーで約25分、七夕伝説発祥の地 |
 | **沖津宮** | 沖ノ島 | 田心姫神 | **一般人上陸禁止**、大島から遥拝可能 |
 
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-shinmon-640.webp" srcset="/images/posts/munakata-hetsu-shinmon-640.webp 640w, /images/posts/munakata-hetsu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="辺津宮の神門">
+<figcaption>宗像大社・辺津宮の神門。緑の屋根と、奥に見える拝殿が印象的です。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-haiden-640.webp" srcset="/images/posts/munakata-hetsu-haiden-640.webp 640w, /images/posts/munakata-hetsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="辺津宮の拝殿">
+<figcaption>辺津宮の拝殿。太い大きなしめ縄が下がっています。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-sorei-640.webp" srcset="/images/posts/munakata-hetsu-sorei-640.webp 640w, /images/posts/munakata-hetsu-sorei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="辺津宮境内の宗像祖霊社">
+<figcaption>辺津宮の境内にある宗像祖霊社。両脇に石灯籠が立っています。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-torii-640.webp" srcset="/images/posts/munakata-nakatsu-torii-640.webp 640w, /images/posts/munakata-nakatsu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="中津宮の鳥居と石段">
+<figcaption>大島にある中津宮の入口。石の鳥居と石段、赤い欄干が出迎えてくれます。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-haiden-640.webp" srcset="/images/posts/munakata-nakatsu-haiden-640.webp 640w, /images/posts/munakata-nakatsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="中津宮の拝殿">
+<figcaption>中津宮の拝殿。大きなしめ縄と紙垂（しで）が下がっています。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%83%8F%E3%83%9D%E3%83%8B%E3%82%A2%E3%83%A9" rel="noopener" target="_blank">ハポニアラ</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## <span id="okinoshima"></span>神宿る島・沖ノ島と世界遺産
 
 **沖ノ島** は、本土から約60km離れた玄界灘に浮かぶ **周囲4kmの島** で、**島そのものが御神体**。古来 **「不言様（おいわずさま）」** と呼ばれ、島で見聞きしたことを一切口外してはならない、**女人禁制**、**一般人上陸禁止** という厳格な禁忌が今も守られています。

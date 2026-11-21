@@ -86,6 +86,31 @@ draft: false
 | **中津宮** | 大島 | 湍津姬神 | 搭渡輪約25分鐘可達，七夕傳說發源地 |
 | **沖津宮** | 沖之島 | 田心姬神 | **一般人禁止登島**，可從大島遙拜 |
 
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-shinmon-640.webp" srcset="/images/posts/munakata-hetsu-shinmon-640.webp 640w, /images/posts/munakata-hetsu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="邊津宮的神門">
+<figcaption>宗像大社・邊津宮的神門，綠色的屋頂與後方可見的拜殿令人印象深刻。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-haiden-640.webp" srcset="/images/posts/munakata-hetsu-haiden-640.webp 640w, /images/posts/munakata-hetsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="邊津宮的拜殿">
+<figcaption>邊津宮的拜殿，垂掛著粗大的注連繩。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-sorei-640.webp" srcset="/images/posts/munakata-hetsu-sorei-640.webp 640w, /images/posts/munakata-hetsu-sorei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="邊津宮境內的宗像祖靈社">
+<figcaption>位於邊津宮境內的宗像祖靈社，兩旁立著石燈籠。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-torii-640.webp" srcset="/images/posts/munakata-nakatsu-torii-640.webp 640w, /images/posts/munakata-nakatsu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="中津宮的鳥居與石階">
+<figcaption>位於大島的中津宮入口，有石造鳥居、石階與紅色欄杆迎接參拜者。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-haiden-640.webp" srcset="/images/posts/munakata-nakatsu-haiden-640.webp 640w, /images/posts/munakata-nakatsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="中津宮的拜殿">
+<figcaption>中津宮的拜殿，垂掛著大型注連繩與紙垂。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%83%8F%E3%83%9D%E3%83%8B%E3%82%A2%E3%83%A9" rel="noopener" target="_blank">ハポニアラ</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## <span id="okinoshima"></span>神明居住的島嶼・沖之島與世界遺產
 
 **沖之島**，是距離本土約60公里、浮現於玄界灘上的一座**周長4公里的島嶼**，**島嶼本身即為御神體**。自古以來便被稱為**「不言様（おいわずさま）」**，在島上所見所聞皆不得外傳，**女性禁止進入**、**一般人禁止登島**等嚴格禁忌，至今仍被嚴格遵守。

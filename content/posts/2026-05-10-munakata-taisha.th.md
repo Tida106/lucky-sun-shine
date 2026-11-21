@@ -51,6 +51,31 @@ draft: false
 
 **เกาะโอกิโนะชิมะ** เป็นเกาะเล็กรอบเกาะ 4 กิโลเมตร ห่างจากแผ่นดินใหญ่ประมาณ 60 กิโลเมตร โดย **ตัวเกาะทั้งหมดถือเป็นวัตถุศักดิ์สิทธิ์** มีข้อห้ามเข้มงวดที่ยังคงปฏิบัติมาจนถึงปัจจุบัน ได้แก่ **ห้ามผู้หญิงขึ้นเกาะ** และ **ห้ามบุคคลทั่วไปขึ้นเกาะโดยเด็ดขาด** แม้หลังขึ้นทะเบียนมรดกโลกแล้ว การขึ้นเกาะเพื่อการท่องเที่ยวก็ยังเป็นไปไม่ได้ ผู้ที่สามารถสักการะได้มีเพียงการไหว้จากระยะไกลที่ **จุดไหว้โอกิตสึกุบนเกาะโอชิมะ** เท่านั้น
 
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-shinmon-640.webp" srcset="/images/posts/munakata-hetsu-shinmon-640.webp 640w, /images/posts/munakata-hetsu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ประตูชินมงของเฮตสึมิยะ">
+<figcaption>ประตูชินมงของเฮตสึมิยะ ศาลเจ้ามุนะคะตะ หลังคาสีเขียวและศาลาไหว้ที่มองเห็นด้านใน ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-haiden-640.webp" srcset="/images/posts/munakata-hetsu-haiden-640.webp 640w, /images/posts/munakata-hetsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาไหว้ของเฮตสึมิยะ">
+<figcaption>ไฮเด็น (ศาลาไหว้) ของเฮตสึมิยะ มีเชือกชิเมนาวะเส้นใหญ่แขวนอยู่ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-hetsu-sorei-640.webp" srcset="/images/posts/munakata-hetsu-sorei-640.webp 640w, /images/posts/munakata-hetsu-sorei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลมุนะคะตะโซเรย์ในเขตเฮตสึมิยะ">
+<figcaption>ศาลมุนะคะตะโซเรย์ในบริเวณเฮตสึมิยะ มีโคมหินตั้งอยู่สองข้าง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-torii-640.webp" srcset="/images/posts/munakata-nakatsu-torii-640.webp 640w, /images/posts/munakata-nakatsu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิหินและบันไดของนากะสึมิยะ">
+<figcaption>ทางเข้านากะสึมิยะบนเกาะโอชิมะ มีโทริอิหิน บันไดหิน และราวสีแดง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF" rel="noopener" target="_blank">そらみみ</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด และเผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/munakata-nakatsu-haiden-640.webp" srcset="/images/posts/munakata-nakatsu-haiden-640.webp 640w, /images/posts/munakata-nakatsu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาไหว้ของนากะสึมิยะ">
+<figcaption>ไฮเด็นของนากะสึมิยะ มีเชือกชิเมนาวะใหญ่และกระดาษชิเดะแขวนอยู่ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E3%83%8F%E3%83%9D%E3%83%8B%E3%82%A2%E3%83%A9" rel="noopener" target="_blank">ハポニアラ</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.th" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## จุดสำคัญในการไหว้
 
 - ไหว้ที่ **เฮตสึกุ** แล้วชมโบราณวัตถุสมบัติแห่งชาติที่ **หอพิพิธภัณฑ์สมบัติศักดิ์สิทธิ์**
