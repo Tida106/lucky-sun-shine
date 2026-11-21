@@ -49,9 +49,24 @@ excerpt: "神田明神、浅草寺、明治神宮、豪徳寺。大都会・東�
 
 最後にご紹介するのは、世田谷の静かな街並みにたたずむ **豪徳寺** です✨
 
+<figure class="photo">
+<img src="/images/posts/gotokuji-shelves-path-640.webp" srcset="/images/posts/gotokuji-shelves-path-640.webp 640w, /images/posts/gotokuji-shelves-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="豪徳寺の境内で、棚にぎっしり並ぶ招き猫">
+<figcaption>小道に沿って、棚いっぱいに招き猫が並ぶ境内の様子です。 写真：<a href="https://commons.wikimedia.org/wiki/User:LeLaisserPasserA38" rel="noopener" target="_blank">LeLaisserPasserA38</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 豪徳寺といえば、境内を埋め尽くす愛くるしい「招き猫ちゃん」たち！その昔、彦根藩のお殿様がこのお寺の前を通ったとき、一匹の白い猫ちゃんが「こっちおいで〜」と手招きをしてくれたおかげで、直後の激しい雷雨から逃れることができた…という素敵な言い伝えから始まっています🐾✨
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/gotokuji-cats-closeup-640.webp" srcset="/images/posts/gotokuji-cats-closeup-640.webp 640w, /images/posts/gotokuji-cats-closeup-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="豪徳寺の招き猫たちと、中央に座る石の像">
+<figcaption>白い招き猫が、見渡すかぎり奉納されています。奥には石の像も見えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:LeLaisserPasserA38" rel="noopener" target="_blank">LeLaisserPasserA38</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 豪徳寺の招き猫ちゃんは「右手を挙げて、小判を持たない」のがキュートな特徴💙これは「猫ちゃんは素晴らしいご縁やチャンス（機会）を招いてくれるけれど、それを最高の結果にするのは、あなた自身の優しい歩みだよ」という温かい教えが込められているんです✨
+
+<figure class="photo">
+<img src="/images/posts/gotokuji-autumn-shelves-640.webp" srcset="/images/posts/gotokuji-autumn-shelves-640.webp 640w, /images/posts/gotokuji-autumn-shelves-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="紅葉の木々を背景に、棚に並ぶ豪徳寺の招き猫">
+<figcaption>紅葉の季節の境内。色づいた木々を背景に、招き猫が棚の上でずらりと並びます。 写真：<a href="https://www.flickr.com/photos/68240136@N02/24527021034" rel="noopener" target="_blank">Laika ac</a>／Flickr／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり・同じライセンスで提供）</figcaption>
+</figure>
 
 歴史の波の中で様々な出来事があった場所ですが、今ではたくさんの可愛い招き猫たちの笑顔でいっぱいの平和空間にリモデルされています☀️「素敵な出会いやご縁がほしいな」「新しいチャレンジのきっかけを掴みたい！」という方は、ぜひ可愛い猫ちゃんたちに会いに行ってみてくださいね✨
 

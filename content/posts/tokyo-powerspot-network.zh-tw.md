@@ -50,9 +50,24 @@ draft: false
 
 最後要介紹的，是靜靜佇立在世田谷恬靜街區裡的——**豪德寺**✨
 
+<figure class="photo">
+<img src="/images/posts/gotokuji-shelves-path-640.webp" srcset="/images/posts/gotokuji-shelves-path-640.webp 640w, /images/posts/gotokuji-shelves-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="豪德寺境內沿著小路排滿招財貓的架子">
+<figcaption>沿著小路，架上擺滿了招財貓。 照片：<a href="https://commons.wikimedia.org/wiki/User:LeLaisserPasserA38" rel="noopener" target="_blank">LeLaisserPasserA38</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
 一提到豪德寺，就會想到境內滿滿都是的可愛「招財貓」們！相傳很久以前，彥根藩的藩主經過這座寺院前時，一隻白色的小貓咪「過來這邊～」地向他招了招手，讓他因此躲過了隨後而來的猛烈雷雨——這段美好的傳說，正是招財貓信仰的起點🐾✨
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/gotokuji-cats-closeup-640.webp" srcset="/images/posts/gotokuji-cats-closeup-640.webp 640w, /images/posts/gotokuji-cats-closeup-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="豪德寺的招財貓群與中央的石像">
+<figcaption>放眼望去，全是奉納的白色招財貓，後方還能看到一尊石像。 照片：<a href="https://commons.wikimedia.org/wiki/User:LeLaisserPasserA38" rel="noopener" target="_blank">LeLaisserPasserA38</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>（已調整尺寸）</figcaption>
+</figure>
+
 豪德寺的招財貓有個可愛的特徵：「舉起右手，手中不拿小判（古代金幣）」💙這背後藏著一段溫暖的教導：「貓咪會為你招來美好的緣分與機會，但要把它變成最棒的結果，還是要靠你自己溫柔踏實地努力喔」✨
+
+<figure class="photo">
+<img src="/images/posts/gotokuji-autumn-shelves-640.webp" srcset="/images/posts/gotokuji-autumn-shelves-640.webp 640w, /images/posts/gotokuji-autumn-shelves-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="以紅葉為背景、擺在架上的豪德寺招財貓">
+<figcaption>紅葉季節的境內，一排排招財貓擺在架上，以染上秋色的樹木為背景。 照片：<a href="https://www.flickr.com/photos/68240136@N02/24527021034" rel="noopener" target="_blank">Laika ac</a>／Flickr／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸，以相同授權條款提供）</figcaption>
+</figure>
 
 這裡雖然也經歷過歷史的種種波折，但如今已經重新打造成一處被眾多可愛招財貓笑臉填滿的和平空間☀️如果你也「想要遇見美好的緣分」「想抓住挑戰新事物的契機！」，一定要來見見這些可愛的貓咪們喔✨
 

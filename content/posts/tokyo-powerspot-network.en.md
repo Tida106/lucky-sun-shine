@@ -56,9 +56,24 @@ When you want to take a deep breath away from the hustle and bustle of the city,
 
 The last place we'll introduce is **Gotokuji**, standing quietly in the serene streets of Setagaya ✨
 
+<figure class="photo">
+<img src="/images/posts/gotokuji-shelves-path-640.webp" srcset="/images/posts/gotokuji-shelves-path-640.webp 640w, /images/posts/gotokuji-shelves-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Shelves packed with maneki-neko lining a path at Gotokuji">
+<figcaption>Shelves full of beckoning cats line the path through the temple grounds. Photo: <a href="https://commons.wikimedia.org/wiki/User:LeLaisserPasserA38" rel="noopener" target="_blank">LeLaisserPasserA38</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 When you think of Gotokuji, it's the adorable "Maneki-Neko" (beckoning cats) covering the precincts! It all started with a lovely legend: long ago, when the lord of the Hikone domain passed by this temple, a white cat beckoned to him saying, "Come over here~," and thanks to that, he was able to escape a fierce thunderstorm that struck immediately after 🐾✨
 
+<figure class="photo" style="max-width:420px;margin-left:auto;margin-right:auto">
+<img src="/images/posts/gotokuji-cats-closeup-640.webp" srcset="/images/posts/gotokuji-cats-closeup-640.webp 640w, /images/posts/gotokuji-cats-closeup-960.webp 960w" sizes="(min-width: 768px) 420px, 100vw" width="960" height="1280" loading="lazy" decoding="async" alt="Countless maneki-neko at Gotokuji with a stone statue in the center">
+<figcaption>White beckoning cats offered as far as the eye can see, with a stone statue in the middle. Photo: <a href="https://commons.wikimedia.org/wiki/User:LeLaisserPasserA38" rel="noopener" target="_blank">LeLaisserPasserA38</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0</a> (resized)</figcaption>
+</figure>
+
 A cute characteristic of Gotokuji's beckoning cats is that they "raise their right hand and do not hold a koban (gold coin)" 💙 This contains a warm teaching: "The cat will invite wonderful connections and opportunities for you, but turning them into the best results depends on your own gentle efforts" ✨
+
+<figure class="photo">
+<img src="/images/posts/gotokuji-autumn-shelves-640.webp" srcset="/images/posts/gotokuji-autumn-shelves-640.webp 640w, /images/posts/gotokuji-autumn-shelves-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Maneki-neko on shelves at Gotokuji against autumn foliage">
+<figcaption>The grounds in autumn: rows of beckoning cats on shelves, set against colorful trees. Photo: <a href="https://www.flickr.com/photos/68240136@N02/24527021034" rel="noopener" target="_blank">Laika ac</a> / Flickr / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized, shared under the same license)</figcaption>
+</figure>
 
 It is a place that has seen various events throughout the waves of history, but today it has been remodeled into a peaceful space filled with the smiles of countless cute beckoning cats ☀️ If you feel, "I want wonderful encounters and connections" or "I want to grasp the trigger for a new challenge!", please go and meet the cute cats ✨
 
