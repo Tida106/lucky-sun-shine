@@ -6,7 +6,7 @@ updated: "2026-05-23"
 category: "powerspots"
 tags: ["御朱印帳", "埼玉県", "魔除け"]
 slug: "mitsumine-jinja"
-cardImage: "/images/cards/mitsumine-jinja.webp"
+cardImage: "/images/cards/mitsumine-jinja-wide.webp"
 draft: false
 ---
 

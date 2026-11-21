@@ -11,7 +11,7 @@ tags:
   - 神話
   - 火山
 slug: kirishima-jingu
-cardImage: "/images/cards/kirishima-jingu.webp"
+cardImage: "/images/cards/kirishima-jingu-wide.webp"
 draft: false
 ---
 

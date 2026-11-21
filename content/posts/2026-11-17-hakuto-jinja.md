@@ -11,7 +11,7 @@ tags:
   - 神話
   - 恋人の聖地
 slug: "hakuto-jinja"
-cardImage: "/images/cards/hakuto-jinja.webp"
+cardImage: "/images/cards/hakuto-jinja-wide.webp"
 cover: "/images/posts/hakuto-jinja.jpg"
 draft: false
 ---

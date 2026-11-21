@@ -3,7 +3,7 @@ title: "ビル街にポッカリ広がる強運オアシス！？何があって
 description: "東京・日本橋の小網神社について、「強運厄除」で親しまれてきた由来や、銭洗いにまつわる言い伝えをやさしく紹介します。"
 date: "2026-09-25"
 author: "太陽ちゃん"
-cardImage: "/images/cards/koami-shrine.webp"
+cardImage: "/images/cards/koami-shrine-wide.webp"
 category: "powerspots"
 tags: ["金運財布", "金運", "強運厄除け", "東京"]
 ---

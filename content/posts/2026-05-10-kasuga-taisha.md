@@ -6,7 +6,7 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["水晶", "奈良県", "世界遺産"]
 slug: "kasuga-taisha"
-cardImage: "/images/cards/kasuga-taisha.webp"
+cardImage: "/images/cards/kasuga-taisha-wide.webp"
 draft: false
 ---
 

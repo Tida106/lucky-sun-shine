@@ -5,7 +5,7 @@ date: "2026-10-03"
 category: "powerspots"
 tags: ["蛇窪神社", "品川", "金運", "白蛇", "パワースポット"]
 slug: "hebikubo-jinja"
-cardImage: "/images/cards/hebikubo-jinja.webp"
+cardImage: "/images/cards/hebikubo-jinja-wide.webp"
 draft: false
 ---
 

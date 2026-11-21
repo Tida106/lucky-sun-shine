@@ -5,7 +5,7 @@ date: "2026-10-04"
 category: "powerspots"
 tags: ["伏見稲荷大社", "葛葉稲荷神社", "寳山寺", "聖地巡礼", "一霊四魂"]
 slug: "inuyasha-fushimi-inari"
-cardImage: "/images/cards/inuyasha-fushimi-inari.webp"
+cardImage: "/images/cards/inuyasha-fushimi-inari-wide.webp"
 draft: false
 ---
 

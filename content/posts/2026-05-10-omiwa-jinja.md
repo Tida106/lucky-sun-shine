@@ -6,7 +6,7 @@ updated: "2026-05-11"
 category: "powerspots"
 tags: ["御朱印帳", "奈良県", "日本最古"]
 slug: "omiwa-jinja"
-cardImage: "/images/cards/omiwa-jinja.webp"
+cardImage: "/images/cards/omiwa-jinja-wide.webp"
 draft: false
 ---
 
