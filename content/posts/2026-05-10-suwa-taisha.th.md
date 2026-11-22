@@ -154,6 +154,30 @@ draft: false
 <figcaption>ก้อนหินใหญ่ที่ปกคลุมด้วยตะไคร่และเฟิร์น ขึงเชือกชิเมนาวะและกระดาษชิเดะ ร่วมกับโคมหินช่วยให้รู้สึกถึงความสงบของศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+## เดินชมบริเวณคามิชะมาเอมิยะผ่านภาพถ่าย
+
+คามิชะมาเอมิยะเป็นที่รู้จักในฐานะศาลเจ้าที่มีประวัติศาสตร์เก่าแก่แห่งหนึ่งของสุวะไทฉะ จากโทริอิเดินขึ้นบันไดหินไปยังจิกเค็นโรวและจุดสักการะ ต่อไปนี้คือภาพบรรยากาศภายในศาลเจ้า
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-torii-1200.webp" srcset="/images/posts/suwa-maemiya-torii-640.webp 640w, /images/posts/suwa-maemiya-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="โทริอิของมาเอมิยะ">
+<figcaption>โทริอิของมาเอมิยะที่แขวนเชือกชิเมนาวะ มีสิงโตหินคู่ยืนเฝ้าสองข้าง ทางซ้ายมองเห็นหลังคาระเบียงจิกเค็นโรว และมีบันไดหินทอดต่อไปด้านใน ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_torii.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-jikkenrou-1200.webp" srcset="/images/posts/suwa-maemiya-jikkenrou-640.webp 640w, /images/posts/suwa-maemiya-jikkenrou-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="จิกเค็นโรว">
+<figcaption>จิกเค็นโรวที่มีหลังคาใหญ่แบบมุงด้วยแผ่นไม้ เป็นอาคารโปร่งไม่มีผนังและมีกระดาษชิเดะแขวนอยู่ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_Jikkenrou-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-haisho-1200.webp" srcset="/images/posts/suwa-maemiya-haisho-640.webp 640w, /images/posts/suwa-maemiya-haisho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="จุดสักการะของมาเอมิยะ">
+<figcaption>จุดสักการะบนบันไดหิน มีเชือกชิเมนาวะหนาและโคมไฟสองข้างต้อนรับผู้มาไหว้ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_haisho.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-wide-1200.webp" srcset="/images/posts/suwa-maemiya-wide-640.webp 640w, /images/posts/suwa-maemiya-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="543" loading="lazy" decoding="async" alt="อาคารศาลเจ้ามาเอมิยะเหนือบันไดหิน">
+<figcaption>อาคารศาลเจ้าตั้งอยู่เหนือบันไดหินท่ามกลางต้นซีดาร์ ด้านหน้ามีป้าย "ห้ามสูบบุหรี่ในเขตศาลเจ้า" ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## เดินชมบริเวณชิโมชะอากิมิยะผ่านภาพถ่าย
 
 ที่ชิโมชะอากิมิยะ ทางเดินสู่ศาลเจ้าทอดจากโทริอิไปยังคางุระเด็นและเฮอิไฮเด็น ต่อไปนี้คือภาพบรรยากาศภายในศาลเจ้า

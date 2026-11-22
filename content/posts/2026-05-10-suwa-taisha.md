@@ -22,6 +22,7 @@ draft: false
 - [御柱祭について](#onbashira)
 - [見どころ](#highlight)
 - [上社本宮の境内を写真でめぐる](#honmiya)
+- [上社前宮の境内を写真でめぐる](#maemiya)
 - [下社秋宮の境内を写真でめぐる](#akimiya)
 - [下社春宮の境内を写真でめぐる](#harumiya)
 - [御柱を写真で見る](#onbashira-photo)
@@ -192,6 +193,30 @@ draft: false
 <figure class="photo">
 <img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="御沓石">
 <figcaption>苔やシダに覆われた大きな石に、しめ縄と紙垂が張られた「御沓石」。石灯籠とともに、境内の静けさを感じさせます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+## <span id="maemiya"></span>上社前宮の境内を写真でめぐる
+
+上社前宮は、諏訪大社のなかでも古い歴史をもつ社として知られます。鳥居から石段を上がり、十間廊や拝所へと進みます。境内の様子を写真でご紹介します。
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-torii-1200.webp" srcset="/images/posts/suwa-maemiya-torii-640.webp 640w, /images/posts/suwa-maemiya-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="前宮の鳥居">
+<figcaption>注連縄の掛かる前宮の鳥居。両脇に狛犬が構え、左手には十間廊の屋根が見えます。奥へ石段が続きます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_torii.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-jikkenrou-1200.webp" srcset="/images/posts/suwa-maemiya-jikkenrou-640.webp 640w, /images/posts/suwa-maemiya-jikkenrou-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="十間廊">
+<figcaption>柿葺き風の大きな屋根をもつ十間廊。壁のない吹き放ちの造りで、紙垂が下がっています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_Jikkenrou-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-haisho-1200.webp" srcset="/images/posts/suwa-maemiya-haisho-640.webp 640w, /images/posts/suwa-maemiya-haisho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="前宮の拝所">
+<figcaption>石段の上に立つ拝所。太い注連縄と、両脇の灯籠が参拝者を迎えます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_haisho.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-wide-1200.webp" srcset="/images/posts/suwa-maemiya-wide-640.webp 640w, /images/posts/suwa-maemiya-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="543" loading="lazy" decoding="async" alt="石段の先に建つ前宮の社殿">
+<figcaption>杉木立のなか、石段の上に社殿が建ちます。手前には「境内禁煙」の札が立っています。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
 </figure>
 
 ## <span id="akimiya"></span>下社秋宮の境内を写真でめぐる

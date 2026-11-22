@@ -22,6 +22,7 @@ draft: false
 - [關於御柱祭](#onbashira)
 - [看點](#highlight)
 - [用照片走訪上社本宮的境內](#honmiya)
+- [用照片走訪上社前宮的境內](#maemiya)
 - [用照片走訪下社秋宮的境內](#akimiya)
 - [用照片走訪下社春宮的境內](#harumiya)
 - [用照片看御柱](#onbashira-photo)
@@ -192,6 +193,30 @@ draft: false
 <figure class="photo">
 <img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="御沓石">
 <figcaption>長滿青苔與蕨類的大石上拉著注連繩與紙垂，稱為「御沓石」。與石燈籠一同，傳達出境內的寧靜。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+## <span id="maemiya"></span>用照片走訪上社前宮的境內
+
+上社前宮是諏訪大社中歷史悠久的一社。從鳥居拾級而上，即可走向十間廊與拜所。以下用照片介紹境內的樣貌。
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-torii-1200.webp" srcset="/images/posts/suwa-maemiya-torii-640.webp 640w, /images/posts/suwa-maemiya-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="前宮的鳥居">
+<figcaption>掛著注連繩的前宮鳥居，兩側有狛犬守護，左側可見十間廊的屋頂，後方是延伸而上的石階。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_torii.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-jikkenrou-1200.webp" srcset="/images/posts/suwa-maemiya-jikkenrou-640.webp 640w, /images/posts/suwa-maemiya-jikkenrou-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="十間廊">
+<figcaption>擁有大型木瓦風屋頂的十間廊，是沒有牆壁的開放式建築，掛著紙垂。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_Jikkenrou-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-haisho-1200.webp" srcset="/images/posts/suwa-maemiya-haisho-640.webp 640w, /images/posts/suwa-maemiya-haisho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="前宮的拜所">
+<figcaption>立於石階之上的拜所，粗大的注連繩與兩側的燈籠迎接著參拜者。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_haisho.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-wide-1200.webp" srcset="/images/posts/suwa-maemiya-wide-640.webp 640w, /images/posts/suwa-maemiya-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="543" loading="lazy" decoding="async" alt="石階上的前宮社殿">
+<figcaption>杉木林中，社殿矗立在石階之上，前方立著「境內禁菸」的牌子。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
 </figure>
 
 ## <span id="akimiya"></span>用照片走訪下社秋宮的境內

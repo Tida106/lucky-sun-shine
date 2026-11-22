@@ -26,6 +26,7 @@ Suwa Grand Shrine is Shinano Province's Ichinomiya (chief shrine of a province),
 - [About the Onbashira Festival](#onbashira)
 - [Highlights](#highlight)
 - [A Photo Walk Through Kamisha Honmiya](#honmiya)
+- [A Photo Walk Through Kamisha Maemiya](#maemiya)
 - [A Photo Walk Through Shimosha Akimiya](#akimiya)
 - [A Photo Walk Through Shimosha Harumiya](#harumiya)
 - [A Photo Look at the Onbashira Pillars](#onbashira-photo)
@@ -196,6 +197,30 @@ Kamisha Honmiya has the largest grounds of the four shrines, with torii, the Nun
 <figure class="photo">
 <img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="Okutsu-ishi">
 <figcaption>A large rock covered in moss and ferns, enclosed with a shimenawa and paper streamers. With the stone lantern, it conveys the calm of the precincts. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+## <span id="maemiya"></span>A Photo Walk Through Kamisha Maemiya
+
+Kamisha Maemiya is known as one of the oldest sites of Suwa Taisha. From the torii, a stone stairway leads up toward the Jikkenro and the worship area. Here is a look at the precincts in photos.
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-torii-1200.webp" srcset="/images/posts/suwa-maemiya-torii-640.webp 640w, /images/posts/suwa-maemiya-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The torii of Maemiya">
+<figcaption>The torii of Maemiya with its shimenawa, flanked by guardian lion-dogs. The roof of the Jikkenro corridor is visible on the left, and stone steps lead on beyond. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_torii.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-jikkenrou-1200.webp" srcset="/images/posts/suwa-maemiya-jikkenrou-640.webp 640w, /images/posts/suwa-maemiya-jikkenrou-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The Jikkenro">
+<figcaption>The Jikkenro, with its large shingle-style roof. It is an open structure without walls, hung with paper streamers. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_Jikkenrou-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-haisho-1200.webp" srcset="/images/posts/suwa-maemiya-haisho-640.webp 640w, /images/posts/suwa-maemiya-haisho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="The worship area of Maemiya">
+<figcaption>The worship area atop the stone steps, welcoming visitors with a thick shimenawa and a lantern on each side. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Maemiya_haisho.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-maemiya-wide-1200.webp" srcset="/images/posts/suwa-maemiya-wide-640.webp 640w, /images/posts/suwa-maemiya-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="543" loading="lazy" decoding="async" alt="The shrine building above the stairs">
+<figcaption>The shrine building stands atop the stone steps amid cedar trees, with a "No smoking in the precincts" sign in front. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
 </figure>
 
 ## <span id="akimiya"></span>A Photo Walk Through Shimosha Akimiya
