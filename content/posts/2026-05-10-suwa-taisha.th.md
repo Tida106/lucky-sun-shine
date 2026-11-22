@@ -227,6 +227,74 @@ draft: false
 <figcaption>มองขึ้นไปยังชายคาของเฮอิไฮเด็น เครื่องประดับสีทองและงานแกะสลักรอบคานโดดเด่นสะดุดตา ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/suwa-haru-manji-1200.webp" srcset="/images/posts/suwa-haru-manji-640.webp 640w, /images/posts/suwa-haru-manji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="พระพุทธรูปหินมันจิ">
+<figcaption>พระพุทธรูปหินมันจิที่โดดเด่นด้วยร่างกายอวบกลมและใบหน้าเป็นเอกลักษณ์ กล่าวกันว่ามีจารึกปีมันจิที่ 3 (ค.ศ. 1660) ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Manji+no+Sekibutsu+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+## ชมเสาโอนบาชิระผ่านภาพถ่าย
+
+โอนบาชิระคือเสาไม้ขนาดใหญ่ที่ตั้งอยู่ทั้งสี่มุมของเขตศาลเจ้าแต่ละแห่ง มีตั้งแต่เสาที่ 1 ถึงเสาที่ 4 และจะถูกเปลี่ยนใหม่ในเทศกาลโอนบาชิระที่จัดทุก 7 ปี ต่อไปนี้คือเสาของแต่ละศาลเจ้า พร้อมภาพการไหลท่อนไม้คิโอโตชิ
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-honmiya-800.webp" srcset="/images/posts/suwa-onb-honmiya-480.webp 480w, /images/posts/suwa-onb-honmiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="โอนบาชิระที่ 2 ของคามิชะฮงงู">
+<figcaption>โอนบาชิระที่ 2 ของคามิชะฮงงู ป้ายเขียนว่า "ฮงงู นิโนะโอนบาชิระ" และทางซ้ายมองเห็นหลังคาระเบียงทางเดิน ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-maemiya-3-800.webp" srcset="/images/posts/suwa-onb-maemiya-3-480.webp 480w, /images/posts/suwa-onb-maemiya-3-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="โอนบาชิระที่ 3 ของคามิชะมาเอมิยะ">
+<figcaption>โอนบาชิระที่ 3 ของคามิชะมาเอมิยะ ตั้งอยู่ในที่โล่งท่ามกลางหุบเขา ล้อมด้วยรั้วไม้และกระดาษชิเดะ ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-maemiya-4-800.webp" srcset="/images/posts/suwa-onb-maemiya-4-480.webp 480w, /images/posts/suwa-onb-maemiya-4-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="โอนบาชิระที่ 4 ของคามิชะมาเอมิยะ">
+<figcaption>โอนบาชิระที่ 4 ของคามิชะมาเอมิยะ ป้ายเขียนว่า "มาเอมิยะ ยงโนะโอนบาชิระ" ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-akimiya-800.webp" srcset="/images/posts/suwa-onb-akimiya-480.webp 480w, /images/posts/suwa-onb-akimiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1202" loading="lazy" decoding="async" alt="โอนบาชิระที่ 2 ของชิโมชะอากิมิยะ">
+<figcaption>โอนบาชิระที่ 2 ของชิโมชะอากิมิยะ ป้ายเขียนว่า "อากิมิยะ นิโนะโอนบาชิระ" ทางขวามองเห็นหลังคาอาคารศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-harumiya-800.webp" srcset="/images/posts/suwa-onb-harumiya-480.webp 480w, /images/posts/suwa-onb-harumiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1202" loading="lazy" decoding="async" alt="โอนบาชิระที่ 2 ของชิโมชะฮารุมิยะ">
+<figcaption>โอนบาชิระที่ 2 ของชิโมชะฮารุมิยะ ล้อมด้วยรั้วที่แขวนกระดาษชิเดะ ทางขวามองเห็นอาคารศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-suwajinja-800.webp" srcset="/images/posts/suwa-onb-suwajinja-480.webp 480w, /images/posts/suwa-onb-suwajinja-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1198" loading="lazy" decoding="async" alt="โอนบาชิระที่ 1 ที่ศาลเจ้าสุวะ">
+<figcaption>โอนบาชิระที่ 1 ที่ศาลเจ้าสุวะ ป้ายเขียนว่า "สุวะจินจะ อิจิโนะโอนบาชิระ" ศาลเจ้าสุวะในที่ต่างๆ บางแห่งก็ตั้งโอนบาชิระเช่นกัน ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Mc43810" rel="noopener" target="_blank">Mc43810</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-kiotoshi-1200.webp" srcset="/images/posts/suwa-onb-kiotoshi-640.webp 640w, /images/posts/suwa-onb-kiotoshi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="การปล่อยท่อนไม้คิโอโตชิ">
+<figcaption>คิโอโตชิของชิโมชะ ผู้คนขี่ท่อนไม้ยักษ์ไหลลงทางลาด "คิโอโตชิซากะ" ในชิโมสุวะ (ถ่ายเมื่อเมษายน ค.ศ. 2004) ภาพ: <a href="https://commons.wikimedia.org/wiki/File:ONBASHIRA_festival_%28tree_drop%29_Nagano,JAPAN.jpg" rel="noopener" target="_blank">Si-take.</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+## ชมทะเลสาบสุวะจากมุมสูง
+
+ทะเลสาบสุวะทอดตัวอยู่ระหว่างศาลเจ้าฝั่งบนและฝั่งล่าง ต่อไปนี้คือภาพทิวทัศน์ทะเลสาบที่มองจากที่สูง
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-autumn-1200.webp" srcset="/images/posts/suwa-lake-autumn-640.webp 640w, /images/posts/suwa-lake-autumn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="355" loading="lazy" decoding="async" alt="ทะเลสาบสุวะจากสวนทาเทอิชิในฤดูใบไม้ร่วง">
+<figcaption>ทะเลสาบสุวะที่มองจากสวนทาเทอิชิในฤดูใบไม้ร่วง ฝั่งตรงข้ามมีตัวเมืองและทิวเขาทอดยาว ภาพ: <a href="https://www.flickr.com/photos/128275472@N07/49785031387/" rel="noopener" target="_blank">雷太</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-winter-1200.webp" srcset="/images/posts/suwa-lake-winter-640.webp 640w, /images/posts/suwa-lake-winter-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="495" loading="lazy" decoding="async" alt="ทะเลสาบสุวะยามเย็นฤดูหนาว">
+<figcaption>ทะเลสาบสุวะที่มองจากฝั่งตะวันออกของสวนทาเทอิชิยามเย็นฤดูหนาว แสงอาทิตย์ลอดผ่านช่องว่างของเมฆ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Lake_Suwa_as_seen_from_Tateishi_Park_%28east%29.jpg" rel="noopener" target="_blank">Irvin</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-sunset-1200.webp" srcset="/images/posts/suwa-lake-sunset-640.webp 640w, /images/posts/suwa-lake-sunset-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ทะเลสาบสุวะยามพระอาทิตย์ตก">
+<figcaption>พระอาทิตย์ลับหลังทิวเขาเหนือทะเลสาบสุวะ แสงสะท้อนบนผิวน้ำ ภาพ: <a href="https://www.flickr.com/photos/125983633@N03/47935499858/" rel="noopener" target="_blank">Sei F</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-dusk-1200.webp" srcset="/images/posts/suwa-lake-dusk-640.webp 640w, /images/posts/suwa-lake-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ทะเลสาบสุวะหลังพระอาทิตย์ตก">
+<figcaption>ทะเลสาบสุวะหลังพระอาทิตย์ตก ท้องฟ้าเปลี่ยนเป็นสีน้ำเงินเข้ม และแสงไฟในเมืองเริ่มสว่างขึ้น ภาพ: <a href="https://www.flickr.com/photos/125983633@N03/47935506616/" rel="noopener" target="_blank">Sei F</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## จุดสำคัญในการไหว้
 
 - หากเป็นไปได้ควรไหว้ครบทั้ง **“การไหว้สี่ศาล”** ตามแบบฉบับดั้งเดิม

@@ -24,6 +24,8 @@ draft: false
 - [上社本宮の境内を写真でめぐる](#honmiya)
 - [下社秋宮の境内を写真でめぐる](#akimiya)
 - [下社春宮の境内を写真でめぐる](#harumiya)
+- [御柱を写真で見る](#onbashira-photo)
+- [高台から望む諏訪湖](#suwako)
 - [参拝のポイント](#point)
 - [アクセス](#access)
 - [おすすめのパワーストーン](#stones)
@@ -263,6 +265,74 @@ draft: false
 <figure class="photo">
 <img src="/images/posts/suwa-haru-heihaiden-below-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-below-640.webp 640w, /images/posts/suwa-haru-heihaiden-below-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="見上げた幣拝殿の軒">
 <figcaption>下から見上げた幣拝殿の軒。金色の飾り金具と、梁まわりの彫刻が目を引きます。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-manji-1200.webp" srcset="/images/posts/suwa-haru-manji-640.webp 640w, /images/posts/suwa-haru-manji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="万治の石仏">
+<figcaption>丸みのある体と独特の表情で知られる万治の石仏。万治3年（1660年）の銘があると伝わります。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Manji+no+Sekibutsu+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+## <span id="onbashira-photo"></span>御柱を写真で見る
+
+御柱は、各社の境内の四隅に立てられる巨木です。一之御柱から四之御柱まであり、7年に一度の御柱祭で建て替えられます。ここでは、各社の御柱と、木落しの様子を写真でご紹介します。
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-honmiya-800.webp" srcset="/images/posts/suwa-onb-honmiya-480.webp 480w, /images/posts/suwa-onb-honmiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="上社本宮の二之御柱">
+<figcaption>上社本宮の二之御柱。立札に「本宮二之御柱」と書かれ、左手には回廊の屋根が見えます。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-maemiya-3-800.webp" srcset="/images/posts/suwa-onb-maemiya-3-480.webp 480w, /images/posts/suwa-onb-maemiya-3-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="上社前宮の三之御柱">
+<figcaption>上社前宮の三之御柱。山あいの開けた場所に立ち、木の柵と紙垂で囲われています。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-maemiya-4-800.webp" srcset="/images/posts/suwa-onb-maemiya-4-480.webp 480w, /images/posts/suwa-onb-maemiya-4-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="上社前宮の四之御柱">
+<figcaption>上社前宮の四之御柱。立札には「前宮四之御柱」とあります。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-akimiya-800.webp" srcset="/images/posts/suwa-onb-akimiya-480.webp 480w, /images/posts/suwa-onb-akimiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1202" loading="lazy" decoding="async" alt="下社秋宮の二之御柱">
+<figcaption>下社秋宮の二之御柱。立札に「秋宮二之御柱」と書かれ、右手には社殿の屋根が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-harumiya-800.webp" srcset="/images/posts/suwa-onb-harumiya-480.webp 480w, /images/posts/suwa-onb-harumiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1202" loading="lazy" decoding="async" alt="下社春宮の二之御柱">
+<figcaption>下社春宮の二之御柱。紙垂を付けた柵に囲まれ、右手には社殿が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-suwajinja-800.webp" srcset="/images/posts/suwa-onb-suwajinja-480.webp 480w, /images/posts/suwa-onb-suwajinja-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1198" loading="lazy" decoding="async" alt="諏訪神社の一之御柱">
+<figcaption>諏訪神社に立つ一之御柱。立札には「諏訪神社 一之御柱」とあります。各地の諏訪神社にも、御柱を立てるところがあります。 写真：<a href="https://commons.wikimedia.org/wiki/User:Mc43810" rel="noopener" target="_blank">Mc43810</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-kiotoshi-1200.webp" srcset="/images/posts/suwa-onb-kiotoshi-640.webp 640w, /images/posts/suwa-onb-kiotoshi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="木落しの様子">
+<figcaption>下社の木落し。巨木にまたがった人々が、下諏訪町の「木落し坂」を滑り降ります（2004年4月撮影）。 写真：<a href="https://commons.wikimedia.org/wiki/File:ONBASHIRA_festival_%28tree_drop%29_Nagano,JAPAN.jpg" rel="noopener" target="_blank">Si-take.</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+## <span id="suwako"></span>高台から望む諏訪湖
+
+諏訪湖は、上社と下社のあいだに広がる湖です。高台から望む景色を、写真でご紹介します。
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-autumn-1200.webp" srcset="/images/posts/suwa-lake-autumn-640.webp 640w, /images/posts/suwa-lake-autumn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="355" loading="lazy" decoding="async" alt="秋の立石公園から見渡す諏訪湖">
+<figcaption>秋の立石公園から見渡す諏訪湖。湖の向こうに、街並みと山々が広がります。 写真：<a href="https://www.flickr.com/photos/128275472@N07/49785031387/" rel="noopener" target="_blank">雷太</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-winter-1200.webp" srcset="/images/posts/suwa-lake-winter-640.webp 640w, /images/posts/suwa-lake-winter-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="495" loading="lazy" decoding="async" alt="冬の夕暮れの諏訪湖">
+<figcaption>冬の夕暮れ、東側の立石公園から望む諏訪湖。雲の切れ間から、夕日が射しています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Lake_Suwa_as_seen_from_Tateishi_Park_%28east%29.jpg" rel="noopener" target="_blank">Irvin</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-sunset-1200.webp" srcset="/images/posts/suwa-lake-sunset-640.webp 640w, /images/posts/suwa-lake-sunset-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="夕日が沈む諏訪湖">
+<figcaption>山あいに夕日が沈む諏訪湖。湖面に、光が映ります。 写真：<a href="https://www.flickr.com/photos/125983633@N03/47935499858/" rel="noopener" target="_blank">Sei F</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-dusk-1200.webp" srcset="/images/posts/suwa-lake-dusk-640.webp 640w, /images/posts/suwa-lake-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="日没後の諏訪湖">
+<figcaption>日没後、空が深い青に染まる諏訪湖。街の明かりがともり始めます。 写真：<a href="https://www.flickr.com/photos/125983633@N03/47935506616/" rel="noopener" target="_blank">Sei F</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
 </figure>
 
 ## <span id="point"></span>参拝のポイント

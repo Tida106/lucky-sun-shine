@@ -28,6 +28,8 @@ Suwa Grand Shrine is Shinano Province's Ichinomiya (chief shrine of a province),
 - [A Photo Walk Through Kamisha Honmiya](#honmiya)
 - [A Photo Walk Through Shimosha Akimiya](#akimiya)
 - [A Photo Walk Through Shimosha Harumiya](#harumiya)
+- [A Photo Look at the Onbashira Pillars](#onbashira-photo)
+- [Lake Suwa from Above](#suwako)
 - [Key Points for Visiting](#point)
 - [Access](#access)
 - [Recommended Crystals](#stones)
@@ -267,6 +269,74 @@ At Shimosha Harumiya, a cobbled approach leads from the torii to the Kaguraden, 
 <figure class="photo">
 <img src="/images/posts/suwa-haru-heihaiden-below-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-below-640.webp 640w, /images/posts/suwa-haru-heihaiden-below-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Looking up at the Heihaiden eaves">
 <figcaption>Looking up at the eaves of the Heihaiden, where the gilded fittings and the carvings around the beams stand out. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-manji-1200.webp" srcset="/images/posts/suwa-haru-manji-640.webp 640w, /images/posts/suwa-haru-manji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The Manji Stone Buddha">
+<figcaption>The Manji Stone Buddha, known for its rounded body and distinctive face. An inscription dated Manji 3 (1660) is said to be carved on it. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Manji+no+Sekibutsu+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+## <span id="onbashira-photo"></span>A Photo Look at the Onbashira Pillars
+
+The Onbashira are huge pillars raised at the four corners of each shrine, numbered from the first to the fourth and replaced at the Onbashira Festival held every seven years. Here are the pillars of each shrine, along with a glimpse of the Kiotoshi tree drop.
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-honmiya-800.webp" srcset="/images/posts/suwa-onb-honmiya-480.webp 480w, /images/posts/suwa-onb-honmiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="The Second Onbashira of Kamisha Honmiya">
+<figcaption>The second Onbashira of Kamisha Honmiya. The sign reads "Honmiya Ninoonbashira", and the roof of a covered corridor is visible on the left. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-maemiya-3-800.webp" srcset="/images/posts/suwa-onb-maemiya-3-480.webp 480w, /images/posts/suwa-onb-maemiya-3-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="The Third Onbashira of Kamisha Maemiya">
+<figcaption>The third Onbashira of Kamisha Maemiya, standing in an open spot among the hills, enclosed by a wooden fence with paper streamers. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-maemiya-4-800.webp" srcset="/images/posts/suwa-onb-maemiya-4-480.webp 480w, /images/posts/suwa-onb-maemiya-4-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1200" loading="lazy" decoding="async" alt="The Fourth Onbashira of Kamisha Maemiya">
+<figcaption>The fourth Onbashira of Kamisha Maemiya. The sign reads "Maemiya Yonnoonbashira". Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Maemiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-akimiya-800.webp" srcset="/images/posts/suwa-onb-akimiya-480.webp 480w, /images/posts/suwa-onb-akimiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1202" loading="lazy" decoding="async" alt="The Second Onbashira of Shimosha Akimiya">
+<figcaption>The second Onbashira of Shimosha Akimiya. The sign reads "Akimiya Ninoonbashira", with a shrine roof on the right. Photo: <a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-harumiya-800.webp" srcset="/images/posts/suwa-onb-harumiya-480.webp 480w, /images/posts/suwa-onb-harumiya-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1202" loading="lazy" decoding="async" alt="The Second Onbashira of Shimosha Harumiya">
+<figcaption>The second Onbashira of Shimosha Harumiya, enclosed by a fence hung with paper streamers, with a shrine building on the right. Photo: <a href="https://commons.wikimedia.org/wiki/User:663highland" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-suwajinja-800.webp" srcset="/images/posts/suwa-onb-suwajinja-480.webp 480w, /images/posts/suwa-onb-suwajinja-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1198" loading="lazy" decoding="async" alt="The First Onbashira at a Suwa Shrine">
+<figcaption>The first Onbashira at a Suwa shrine, with a sign reading "Suwa Jinja Ichinoonbashira". Some Suwa shrines elsewhere also raise Onbashira. Photo: <a href="https://commons.wikimedia.org/wiki/User:Mc43810" rel="noopener" target="_blank">Mc43810</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-onb-kiotoshi-1200.webp" srcset="/images/posts/suwa-onb-kiotoshi-640.webp 640w, /images/posts/suwa-onb-kiotoshi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The Kiotoshi tree drop">
+<figcaption>The Kiotoshi at Shimosha, where people ride a huge log down the "Kiotoshi-zaka" slope in Shimosuwa (photographed in April 2004). Photo: <a href="https://commons.wikimedia.org/wiki/File:ONBASHIRA_festival_%28tree_drop%29_Nagano,JAPAN.jpg" rel="noopener" target="_blank">Si-take.</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+## <span id="suwako"></span>Lake Suwa from Above
+
+Lake Suwa spreads out between the upper and lower shrines. Here are views of the lake from the heights above.
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-autumn-1200.webp" srcset="/images/posts/suwa-lake-autumn-640.webp 640w, /images/posts/suwa-lake-autumn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="355" loading="lazy" decoding="async" alt="Lake Suwa in autumn from Tateishi Park">
+<figcaption>Lake Suwa seen from Tateishi Park in autumn, with the town and mountains stretching beyond the water. Photo: <a href="https://www.flickr.com/photos/128275472@N07/49785031387/" rel="noopener" target="_blank">雷太</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-winter-1200.webp" srcset="/images/posts/suwa-lake-winter-640.webp 640w, /images/posts/suwa-lake-winter-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="495" loading="lazy" decoding="async" alt="Lake Suwa at winter dusk">
+<figcaption>Lake Suwa from the east side of Tateishi Park at winter dusk, with the setting sun breaking through the clouds. Photo: <a href="https://commons.wikimedia.org/wiki/File:Lake_Suwa_as_seen_from_Tateishi_Park_%28east%29.jpg" rel="noopener" target="_blank">Irvin</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-sunset-1200.webp" srcset="/images/posts/suwa-lake-sunset-640.webp 640w, /images/posts/suwa-lake-sunset-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Sunset over Lake Suwa">
+<figcaption>The sun sinking between the mountains over Lake Suwa, its light reflected on the water. Photo: <a href="https://www.flickr.com/photos/125983633@N03/47935499858/" rel="noopener" target="_blank">Sei F</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-lake-dusk-1200.webp" srcset="/images/posts/suwa-lake-dusk-640.webp 640w, /images/posts/suwa-lake-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Lake Suwa after sunset">
+<figcaption>Lake Suwa after sunset, the sky turning deep blue as the town lights come on. Photo: <a href="https://www.flickr.com/photos/125983633@N03/47935506616/" rel="noopener" target="_blank">Sei F</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized) (shared under the same license)</figcaption>
 </figure>
 
 ## <span id="point"></span>Key Points for Visiting
