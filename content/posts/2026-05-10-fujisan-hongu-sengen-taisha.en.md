@@ -134,6 +134,11 @@ Past the Romon, a stone-paved approach leads to the vermilion Haiden. Behind it 
 <figcaption>The front of the Haiden, with its thick shimenawa and layered, curved roofs. A sign pointing to the goshuin office stands on the right. Photo: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/fujihongu-honden-1200.webp" srcset="/images/posts/fujihongu-honden-640.webp 640w, /images/posts/fujihongu-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="895" loading="lazy" decoding="async" alt="The Main Hall rising behind the Haiden">
+<figcaption>The Main Hall rising behind the Haiden. An upper story sits on top of a lower one, and crossed chigi and rows of katsuogi decorate the ridge of the roof. Photo: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 ### The Reception Office and Omamori
 
 Near the Haiden is a reception office for visitors. Some of the omamori here feature Mount Fuji and cherry blossoms; the photo below shows a pair as they were in 2008.
@@ -148,9 +153,14 @@ Near the Haiden is a reception office for visitors. Some of the omamori here fea
 <figcaption>An omamori with a cherry blossom pattern and the characters for “Fuji summit” (left), and one with a red Mount Fuji (right). Photographed in 2008; current offerings may differ. Photo: <a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a> / Flickr / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
 </figure>
 
-### Mount Fuji from Fujinomiya
+### Cherry Blossom Season and Mount Fuji
 
-Back in town, Mount Fuji rises over the skyline of Fujinomiya. In cherry blossom season, the view of the snow-capped peak beyond the blossoms is especially popular.
+The precincts have a weeping cherry called “Shingen Zakura,” said to have been planted by Takeda Shingen (the present tree is said to be its second generation). In spring you can enjoy both the blossoms in the grounds and the snow-capped Mount Fuji seen from town.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shingen-1200.webp" srcset="/images/posts/fujihongu-shingen-640.webp 640w, /images/posts/fujihongu-shingen-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The weeping cherry “Shingen Zakura” in the precincts">
+<figcaption>The weeping cherry known as “Shingen Zakura” in the precincts, in full bloom with a vermilion shrine building behind it. Votive ema hang beneath the tree. Photo: <a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="Mount Fuji seen from Fujinomiya">
@@ -204,6 +214,27 @@ Here are some crystals that are believed to resonate well with the sacred energy
 - **Murayama Sengen Shrine** — The central place for Fuji-Shugen (Mount Fuji ascetic practices).
 - **Yamamiya Sengen Shrine** — The original shrine (Motomiya) of Sengen Taisha, a sacred place for distant worship of Mount Fuji.
 - **Omiya Yokocho** — A small alley of eateries and souvenir shops in front of the shrine, where you can try Fujinomiya yakisoba and other street food.
+
+**Shiraito Falls** is about 20 m high and about 120 m wide, with Mount Fuji's spring water pouring from many points along a curved cliff. It is one of the component assets of the World Heritage site “Mount Fuji,” and looks completely different in summer green and in autumn color.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-green-1200.webp" srcset="/images/posts/fujihongu-shiraito-green-640.webp 640w, /images/posts/fujihongu-shiraito-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="625" loading="lazy" decoding="async" alt="Shiraito Falls in summer green">
+<figcaption>Shiraito Falls surrounded by summer greenery. Many streams of water fall into the emerald-green pool. Photo: <a href="https://commons.wikimedia.org/wiki/User:SHIZUOKACITYperson" rel="noopener" target="_blank">SHIZUOKACITYperson</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-autumn-1200.webp" srcset="/images/posts/fujihongu-shiraito-autumn-640.webp 640w, /images/posts/fujihongu-shiraito-autumn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Shiraito Falls with autumn leaves">
+<figcaption>Shiraito Falls with autumn leaves (photographed in December 2013). White streams of water can be seen beyond the reddened trees. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3" rel="noopener" target="_blank">松岡明芳</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+At Omiya Yokocho you can also enjoy the local specialty **Fujinomiya yakisoba**, known for its chewy noodles combined with niku-kasu (crispy pork bits) and powdered dried sardine.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-yakisoba-1200.webp" srcset="/images/posts/fujihongu-yakisoba-640.webp 640w, /images/posts/fujihongu-yakisoba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="Fujinomiya yakisoba">
+<figcaption>Fujinomiya yakisoba: thick noodles with cabbage and green onion, topped with fish powder and served with red pickled ginger (photographed in 2008). Photo: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%97%E3%82%93%E3%81%8B%E3%82%8F%E3%81%AA" rel="noopener" target="_blank">しんかわな</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 
 ## <span id="manner"></span>Basic Shrine Etiquette
 

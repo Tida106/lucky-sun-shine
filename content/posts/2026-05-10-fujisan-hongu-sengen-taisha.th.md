@@ -107,6 +107,11 @@ draft: false
 <figcaption>ไฮเด็นที่เด่นด้วยเชือกชิเมนาวะหนาและหลังคาใหญ่ซ้อนกัน ทางขวามีป้ายบอกทางไปรับโกชูอิน ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/fujihongu-honden-1200.webp" srcset="/images/posts/fujihongu-honden-640.webp 640w, /images/posts/fujihongu-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="895" loading="lazy" decoding="async" alt="ศาลหลักที่ตั้งตระหง่านอยู่หลังไฮเด็น">
+<figcaption>ศาลหลักที่ตั้งตระหง่านอยู่หลังไฮเด็น มีโครงสร้างสองชั้นที่ชั้นบนตั้งซ้อนอยู่บนชั้นล่าง บนสันหลังคามีชิกิไขว้และคัตสึโอกิเรียงอยู่ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ### สำนักงานรับเรื่องและโอมาโมริ
 
 ใกล้ไฮเด็นมีสำนักงานรับเรื่องสำหรับผู้มาสักการะ โอมาโมริบางแบบมีลายภูเขาไฟฟูจิและดอกซากุระ ภาพด้านล่างเป็นสภาพเมื่อปี 2008
@@ -121,9 +126,14 @@ draft: false
 <figcaption>โอมาโมริลายซากุระที่มีคำว่า “ยอดเขาฟูจิ” (ซ้าย) และโอมาโมริที่ปักภาพภูเขาไฟฟูจิสีแดง (ขวา) ถ่ายเมื่อปี 2008 ของที่มอบให้ในปัจจุบันอาจต่างออกไป ภาพ: <a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a> / Flickr / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
-### ภูเขาไฟฟูจิจากฟุจิโนมิยะ
+### ฤดูซากุระและภูเขาไฟฟูจิ
 
-เมื่อออกมาสู่ตัวเมือง จะเห็นภูเขาไฟฟูจิที่ปกคลุมด้วยหิมะตระหง่านเหนือท้องฟ้าของฟุจิโนมิยะ ช่วงซากุระบาน ภาพยอดเขาเหนือดอกซากุระได้รับความนิยมเป็นพิเศษ
+ในบริเวณศาลเจ้ามีซากุระกิ่งห้อย “ชินเง็นซากุระ” ที่เล่ากันว่าทาเคดะ ชินเง็นเป็นผู้ปลูก (ต้นปัจจุบันเชื่อว่าเป็นรุ่นที่สอง) ฤดูใบไม้ผลิสามารถชมทั้งดอกซากุระในศาลเจ้าและภูเขาไฟฟูจิที่ปกคลุมด้วยหิมะจากตัวเมืองได้ในคราวเดียว
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shingen-1200.webp" srcset="/images/posts/fujihongu-shingen-640.webp 640w, /images/posts/fujihongu-shingen-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ซากุระกิ่งห้อย “ชินเง็นซากุระ” ในบริเวณศาลเจ้า">
+<figcaption>ซากุระกิ่งห้อย “ชินเง็นซากุระ” ในบริเวณศาลเจ้า ดอกบานเต็มกิ่ง ด้านหลังเห็นอาคารศาลสีแดงชาด ใต้ต้นมีเอมะขอพรแขวนอยู่ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="ภูเขาไฟฟูจิมองจากฟุจิโนมิยะ">
@@ -172,6 +182,27 @@ draft: false
 - **ศาลเจ้ามุระยามะเซ็นเง็น** — ศูนย์กลางลัทธิชูเก็นแห่งภูเขาไฟฟูจิ
 - **ศาลเจ้ายามามิยะเซ็นเง็น** — ศาลเจ้าดั้งเดิมของเซ็นเง็นไทฉะ จุดไหว้ระยะไกลภูเขาไฟฟูจิ
 - **โอมิยะโยโกะโจ** — ตรอกร้านอาหารและร้านของฝากหน้าศาลเจ้า ลองชิมฟุจิโนมิยะยากิโซบะและของกินเล่นอื่น ๆ ได้
+
+**น้ำตกชิราอิโตะ** สูงประมาณ 20 เมตร กว้างประมาณ 120 เมตร น้ำพุจากภูเขาไฟฟูจิไหลลงมาจากหลายจุดของหน้าผาโค้ง เป็นหนึ่งในส่วนประกอบของมรดกโลก “ภูเขาไฟฟูจิ” และมีหน้าตาต่างกันโดยสิ้นเชิงระหว่างสีเขียวฤดูร้อนกับใบไม้เปลี่ยนสีฤดูใบไม้ร่วง
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-green-1200.webp" srcset="/images/posts/fujihongu-shiraito-green-640.webp 640w, /images/posts/fujihongu-shiraito-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="625" loading="lazy" decoding="async" alt="น้ำตกชิราอิโตะท่ามกลางสีเขียวฤดูร้อน">
+<figcaption>น้ำตกชิราอิโตะท่ามกลางสีเขียวของฤดูร้อน สายน้ำหลายสายไหลลงสู่แอ่งน้ำสีเขียวมรกต ภาพ: <a href="https://commons.wikimedia.org/wiki/User:SHIZUOKACITYperson" rel="noopener" target="_blank">SHIZUOKACITYperson</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-autumn-1200.webp" srcset="/images/posts/fujihongu-shiraito-autumn-640.webp 640w, /images/posts/fujihongu-shiraito-autumn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ใบไม้เปลี่ยนสีและน้ำตกชิราอิโตะ">
+<figcaption>ใบไม้เปลี่ยนสีและน้ำตกชิราอิโตะ (ถ่ายเมื่อเดือนธันวาคม 2013) เห็นสายน้ำสีขาวอยู่เลยต้นไม้ที่ใบเปลี่ยนเป็นสีแดง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3" rel="noopener" target="_blank">松岡明芳</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+ที่โอมิยะโยโกะโจยังชิม **ฟุจิโนมิยะยากิโซบะ** อาหารขึ้นชื่อประจำท้องถิ่นได้ จุดเด่นคือเส้นเหนียวนุ่มที่ใช้คู่กับกากหมูทอดและผงปลาซาร์ดีนแห้ง
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-yakisoba-1200.webp" srcset="/images/posts/fujihongu-yakisoba-640.webp 640w, /images/posts/fujihongu-yakisoba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="ยากิโซบะแบบฟุจิโนมิยะ">
+<figcaption>ยากิโซบะแบบฟุจิโนมิยะ เส้นหนากับกะหล่ำปลีและต้นหอม โรยผงปลาและเสิร์ฟพร้อมขิงดอง (ถ่ายเมื่อปี 2008) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E3%81%97%E3%82%93%E3%81%8B%E3%82%8F%E3%81%AA" rel="noopener" target="_blank">しんかわな</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 
 ## คำถามที่พบบ่อย
 

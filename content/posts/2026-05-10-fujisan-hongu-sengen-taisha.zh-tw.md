@@ -130,6 +130,11 @@ draft: false
 <figcaption>粗大的注連繩與層層疊疊的大屋頂十分醒目的拜殿，右側立著御朱印的指示牌。 照片：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/fujihongu-honden-1200.webp" srcset="/images/posts/fujihongu-honden-640.webp 640w, /images/posts/fujihongu-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="895" loading="lazy" decoding="async" alt="矗立在拜殿後方的本殿">
+<figcaption>矗立在拜殿後方的本殿。下層之上再疊著上層的雙層結構，屋頂上排列著交叉的千木與鰹木。 照片：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 ### 受理處與御守
 
 拜殿附近設有供參拜者使用的受理處。御守中也有以富士山與櫻花為圖案的款式，下方照片是2008年當時的樣子。
@@ -144,9 +149,14 @@ draft: false
 <figcaption>繡有櫻花圖樣與「富士山頂」字樣的御守（左），以及繡著紅色富士山的御守（右）。攝於2008年，現在的授與品可能不同。 照片：<a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a>／Flickr／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
 </figure>
 
-### 從富士宮遠眺富士山
+### 櫻花季節與富士山
 
-離開境內回到街上，富士宮的天空下可以看見覆著白雪的富士山。櫻花季時，隔著花朵遠望山頂的景色格外受歡迎。
+境內有一棵相傳由武田信玄親手種下的垂枝櫻「信玄櫻」（現在的樹據說是第二代）。春天可以一次欣賞境內的櫻花，以及從市區遠眺的覆雪富士山。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shingen-1200.webp" srcset="/images/posts/fujihongu-shingen-640.webp 640w, /images/posts/fujihongu-shingen-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="境內的垂枝櫻「信玄櫻」">
+<figcaption>境內的垂枝櫻「信玄櫻」。枝頭開滿花朵，後方可見朱紅色的社殿，樹下掛著祈願的繪馬。 照片：<a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="從富士宮遠眺的富士山">
@@ -200,6 +210,27 @@ JR身延線「**富士宮**」站下車，步行約10分鐘。開車前往，從
 - **村山淺間神社** — 富士修驗道的中心地
 - **山宮淺間神社** — 淺間大社的原宮，富士山遙拜之地
 - **御宮橫丁** — 位於大社正前方的小巷，可邊走邊吃富士宮炒麵等小吃
+
+**白絲瀑布**高約20公尺、寬約120公尺，富士山的湧水從彎曲的崖面各處傾瀉而下，是世界遺產「富士山」的構成資產之一，夏季的新綠與秋天的紅葉，呈現截然不同的面貌。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-green-1200.webp" srcset="/images/posts/fujihongu-shiraito-green-640.webp 640w, /images/posts/fujihongu-shiraito-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="625" loading="lazy" decoding="async" alt="新綠中的白絲瀑布">
+<figcaption>被夏日綠意環繞的白絲瀑布。無數水流傾瀉進翡翠綠的潭中。 照片：<a href="https://commons.wikimedia.org/wiki/User:SHIZUOKACITYperson" rel="noopener" target="_blank">SHIZUOKACITYperson</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-autumn-1200.webp" srcset="/images/posts/fujihongu-shiraito-autumn-640.webp 640w, /images/posts/fujihongu-shiraito-autumn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="紅葉與白絲瀑布">
+<figcaption>紅葉與白絲瀑布（2013年12月拍攝）。染紅的樹木後方可見白色的水流。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3" rel="noopener" target="_blank">松岡明芳</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+在御宮橫丁還能吃到當地美食**富士宮炒麵**，特色是搭配有嚼勁的麵條、豬油渣與沙丁魚粉。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-yakisoba-1200.webp" srcset="/images/posts/fujihongu-yakisoba-640.webp 640w, /images/posts/fujihongu-yakisoba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="富士宮炒麵">
+<figcaption>富士宮炒麵。粗麵條搭配高麗菜與蔥，撒上魚粉並附上紅薑（2008年拍攝）。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%97%E3%82%93%E3%81%8B%E3%82%8F%E3%81%AA" rel="noopener" target="_blank">しんかわな</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 
 ## <span id="manner"></span>參拜禮儀基本須知
 

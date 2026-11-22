@@ -130,6 +130,11 @@ draft: false
 <figcaption>太い注連縄と重なる大屋根が目を引く拝殿。右手には御朱印の案内が出ています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/fujihongu-honden-1200.webp" srcset="/images/posts/fujihongu-honden-640.webp 640w, /images/posts/fujihongu-honden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="895" loading="lazy" decoding="async" alt="拝殿の後ろにそびえる本殿">
+<figcaption>拝殿の後ろにそびえる本殿。下層の上に上層が載る二重の構造で、屋根の上には交差する千木（ちぎ）と鰹木（かつおぎ）が並びます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ### 受付所とお守り
 
 拝殿の近くには、参拝者向けの受付所があります。お守りには、富士山や桜をあしらったものもあります。下の写真は2008年当時のものです。
@@ -144,9 +149,14 @@ draft: false
 <figcaption>桜の模様に「富士山頂」の文字を入れたお守り（左）と、赤い富士山を描いたお守り（右）。2008年の撮影で、現在の授与品とは異なる場合があります。 写真：<a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a>／Flickr／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
 </figure>
 
-### 富士宮から望む富士山
+### 桜の季節と富士山
 
-境内を出て街へ戻ると、富士宮の空には雪をいただく富士山が望めます。桜の季節は、花越しに眺める姿が特に人気です。
+境内には、武田信玄が植えたと伝わる枝垂れ桜「信玄桜」があります（現在の木は二代目とされます）。春は、境内の桜と、街から望む雪をいただく富士山を一度に楽しめます。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shingen-1200.webp" srcset="/images/posts/fujihongu-shingen-640.webp 640w, /images/posts/fujihongu-shingen-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="境内の枝垂れ桜「信玄桜」">
+<figcaption>境内の枝垂れ桜「信玄桜」。枝いっぱいに花をつけ、後ろに朱塗りの社殿が見えます。木の下には祈願の絵馬が掛かっています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 <figure class="photo">
 <img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="富士宮から望む富士山">
@@ -200,6 +210,27 @@ JR身延線「**富士宮**」駅から徒歩約10分。車は新東名「**新�
 - **村山浅間神社** — 富士修験の中心地
 - **山宮浅間神社** — 浅間大社の元宮、富士遥拝所
 - **お宮横丁** — 大社の正面にある小路。富士宮やきそばなどの食べ歩きが楽しめます
+
+**白糸の滝**は、高さ約20m、幅約120mにわたる崖のあちこちから富士山の湧水が流れ落ちる名瀑で、世界遺産「富士山」の構成資産のひとつです。夏の緑と秋の紅葉で、まったく違う表情を見せます。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-green-1200.webp" srcset="/images/posts/fujihongu-shiraito-green-640.webp 640w, /images/posts/fujihongu-shiraito-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="625" loading="lazy" decoding="async" alt="新緑の白糸の滝">
+<figcaption>夏の緑に包まれた白糸の滝。エメラルドグリーンの滝つぼへ、何本もの水の筋が流れ落ちます。 写真：<a href="https://commons.wikimedia.org/wiki/User:SHIZUOKACITYperson" rel="noopener" target="_blank">SHIZUOKACITYperson</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-shiraito-autumn-1200.webp" srcset="/images/posts/fujihongu-shiraito-autumn-640.webp 640w, /images/posts/fujihongu-shiraito-autumn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="紅葉と白糸の滝">
+<figcaption>紅葉と白糸の滝（2013年12月撮影）。赤く染まった木々の向こうに、白い水の筋が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3" rel="noopener" target="_blank">松岡明芳</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+お宮横丁では、ご当地グルメの**富士宮やきそば**も楽しめます。コシのある麺に、肉かすやイワシの削り粉を合わせるのが特徴とされます。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-yakisoba-1200.webp" srcset="/images/posts/fujihongu-yakisoba-640.webp 640w, /images/posts/fujihongu-yakisoba-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="752" loading="lazy" decoding="async" alt="富士宮やきそば">
+<figcaption>富士宮やきそば。太めの麺にキャベツとネギ、削り粉がかかり、紅ショウガが添えられています（2008年撮影）。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E3%81%97%E3%82%93%E3%81%8B%E3%82%8F%E3%81%AA" rel="noopener" target="_blank">しんかわな</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 
 ## <span id="manner"></span>参拝マナーの基本
 
