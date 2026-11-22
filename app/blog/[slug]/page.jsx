@@ -1,4 +1,5 @@
 import Link from "next/link";
+import SunDivider from "@/components/SunDivider";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug, renderMarkdown, readingTimeMinutes, extractHeadings } from "@/lib/posts";
 import { getCategory, getCategoryTitle } from "@/lib/categories";
@@ -229,13 +230,14 @@ export default async function BlogPostPage({ params }) {
               {`最後まで読んでくれてありがとう🌻\n行ってみたいなって思えた場所はあったかな？\n人気のエリアは、宿が早めに埋まっちゃうこともあるから、気になったらまずチェックしてみてね✨\n御朱印帳やお守りも用意して、素敵な参拝の旅になりますように💛`}
             </BlogMascotBubble>
             <RelatedProducts post={post} heading="旅と参拝の準備をチェック" items={spotItems} />
+            <SunDivider />
           </>
         )}
 
         {/* ▼▼ パワースポット記事専用のCTA（sあり・なし両対応） ▼▼ */}
         {(post.category === 'powerspots' || post.category === 'powerspot') && (
           <PhoneFortuneCTA
-            className="mt-12 mb-8"
+            className="mt-0 mb-8"
             lead={'自分と向き合う時間は本当に大切だよね🌻\n神様に相談しに行こうよ！\nでも、もし人に相談してみたいなら、占いで専門家に聞いてみるのもいいかもね✨'}
           />
         )}
