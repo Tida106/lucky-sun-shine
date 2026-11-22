@@ -26,6 +26,7 @@ Suwa Grand Shrine is Shinano Province's Ichinomiya (chief shrine of a province),
 - [About the Onbashira Festival](#onbashira)
 - [Highlights](#highlight)
 - [A Photo Walk Through Kamisha Honmiya](#honmiya)
+- [A Photo Walk Through Shimosha Akimiya](#akimiya)
 - [Key Points for Visiting](#point)
 - [Access](#access)
 - [Recommended Crystals](#stones)
@@ -192,6 +193,45 @@ Kamisha Honmiya has the largest grounds of the four shrines, with torii, the Nun
 <figure class="photo">
 <img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="Okutsu-ishi">
 <figcaption>A large rock covered in moss and ferns, enclosed with a shimenawa and paper streamers. With the stone lantern, it conveys the calm of the precincts. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+## <span id="akimiya"></span>A Photo Walk Through Shimosha Akimiya
+
+At Shimosha Akimiya the approach leads from the torii to the Kaguraden and the Heihaiden. Here is a look at the precincts in photos.
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-torii-1200.webp" srcset="/images/posts/suwa-akimiya-torii-640.webp 640w, /images/posts/suwa-akimiya-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The torii at Shimosha Akimiya">
+<figcaption>The torii of Shimosha Akimiya beyond a stone bridge, with the approach stairs continuing behind it. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_torii-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-kaguraden-1200.webp" srcset="/images/posts/suwa-akimiya-kaguraden-640.webp 640w, /images/posts/suwa-akimiya-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="The Kaguraden with its great shimenawa">
+<figcaption>The great shimenawa hanging across the front of the Kaguraden, flanked by guardian lion-dogs, as visitors climb the steps. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_kaguraden.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-heihaiden-front-1200.webp" srcset="/images/posts/suwa-akimiya-heihaiden-front-640.webp 640w, /images/posts/suwa-akimiya-heihaiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The Heihaiden from the front">
+<figcaption>The Heihaiden seen from the front, with galleries stretching to both sides and a curved roof at the center. A sign for the prayer entrance stands in front. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa_taisha_akimiya05n4592.jpg" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-heihaiden-angle-1200.webp" srcset="/images/posts/suwa-akimiya-heihaiden-angle-640.webp 640w, /images/posts/suwa-akimiya-heihaiden-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The Heihaiden from an angle">
+<figcaption>The Heihaiden from an oblique angle, where the layered roofs and the carvings under the eaves stand out. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_heihaiden.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="Auxiliary shrines in the precincts">
+<figcaption>A row of auxiliary shrines in the precincts. A sign reading "Kashima-sha" can be seen. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_keidaisha.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-2-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-2-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-2-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The auxiliary shrines from the front">
+<figcaption>The auxiliary shrines seen from the front. Signs show names such as Kashima-sha, Kamo Kamishimo-sha and Yasaka-sha. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-3-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-3-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Small shrines atop a stone stair">
+<figcaption>A central shrine with a small shrine on each side, atop stone steps. The signs read "Kotaijingu-sha" and "Inari-sha". Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
 </figure>
 
 ## <span id="point"></span>Key Points for Visiting

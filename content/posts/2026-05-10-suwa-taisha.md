@@ -22,6 +22,7 @@ draft: false
 - [御柱祭について](#onbashira)
 - [見どころ](#highlight)
 - [上社本宮の境内を写真でめぐる](#honmiya)
+- [下社秋宮の境内を写真でめぐる](#akimiya)
 - [参拝のポイント](#point)
 - [アクセス](#access)
 - [おすすめのパワーストーン](#stones)
@@ -188,6 +189,45 @@ draft: false
 <figure class="photo">
 <img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="御沓石">
 <figcaption>苔やシダに覆われた大きな石に、しめ縄と紙垂が張られた「御沓石」。石灯籠とともに、境内の静けさを感じさせます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+## <span id="akimiya"></span>下社秋宮の境内を写真でめぐる
+
+下社秋宮は、鳥居から神楽殿、幣拝殿へと参道が続きます。ここでは、境内の様子を写真でご紹介します。
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-torii-1200.webp" srcset="/images/posts/suwa-akimiya-torii-640.webp 640w, /images/posts/suwa-akimiya-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="下社秋宮の鳥居">
+<figcaption>石橋の先に立つ、下社秋宮の鳥居。奥には、参道の石段が続きます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_torii-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-kaguraden-1200.webp" srcset="/images/posts/suwa-akimiya-kaguraden-640.webp 640w, /images/posts/suwa-akimiya-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="大注連縄が掛かる神楽殿">
+<figcaption>神楽殿の正面に掛かる大きな注連縄。両脇には狛犬が構え、参拝者が階段を上っていきます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_kaguraden.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-heihaiden-front-1200.webp" srcset="/images/posts/suwa-akimiya-heihaiden-front-640.webp 640w, /images/posts/suwa-akimiya-heihaiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="正面から見た幣拝殿">
+<figcaption>幣拝殿を正面から見たところ。左右へ回廊が伸び、中央に反りのある屋根が重なります。手前には「祈祷者入口」の看板が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa_taisha_akimiya05n4592.jpg" rel="noopener" target="_blank">663highland</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-heihaiden-angle-1200.webp" srcset="/images/posts/suwa-akimiya-heihaiden-angle-640.webp 640w, /images/posts/suwa-akimiya-heihaiden-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="斜めから見た幣拝殿">
+<figcaption>斜めから見た幣拝殿。重なる屋根と、軒下の彫刻が見どころです。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_heihaiden.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="境内に並ぶ末社">
+<figcaption>境内に並ぶ末社。案内板には「鹿島社」の文字が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_keidaisha.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-2-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-2-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-2-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="正面から見た末社">
+<figcaption>正面から見た末社の並び。案内板には「鹿島社」「賀茂上下社」「八坂社」といった名が見えます。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-3-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-3-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="石段の上に並ぶ小さな社">
+<figcaption>石段の上に、中央の社と両脇の小さな社が並びます。案内板には「皇大神宮社」「稲荷社」とあります。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
 </figure>
 
 ## <span id="point"></span>参拝のポイント

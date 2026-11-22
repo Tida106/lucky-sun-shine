@@ -154,6 +154,45 @@ draft: false
 <figcaption>ก้อนหินใหญ่ที่ปกคลุมด้วยตะไคร่และเฟิร์น ขึงเชือกชิเมนาวะและกระดาษชิเดะ ร่วมกับโคมหินช่วยให้รู้สึกถึงความสงบของศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+## เดินชมบริเวณชิโมชะอากิมิยะผ่านภาพถ่าย
+
+ที่ชิโมชะอากิมิยะ ทางเดินสู่ศาลเจ้าทอดจากโทริอิไปยังคางุระเด็นและเฮอิไฮเด็น ต่อไปนี้คือภาพบรรยากาศภายในศาลเจ้า
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-torii-1200.webp" srcset="/images/posts/suwa-akimiya-torii-640.webp 640w, /images/posts/suwa-akimiya-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="โทริอิของชิโมชะอากิมิยะ">
+<figcaption>โทริอิของชิโมชะอากิมิยะที่ตั้งอยู่เลยสะพานหินไป ด้านในมีบันไดหินของทางเดินสู่ศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_torii-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-kaguraden-1200.webp" srcset="/images/posts/suwa-akimiya-kaguraden-640.webp 640w, /images/posts/suwa-akimiya-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="คางุระเด็นที่แขวนเชือกชิเมนาวะขนาดใหญ่">
+<figcaption>เชือกชิเมนาวะขนาดใหญ่แขวนอยู่หน้าคางุระเด็น มีสิงโตหินคู่ยืนเฝ้าสองข้าง และผู้มาไหว้กำลังขึ้นบันได ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_kaguraden.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-heihaiden-front-1200.webp" srcset="/images/posts/suwa-akimiya-heihaiden-front-640.webp 640w, /images/posts/suwa-akimiya-heihaiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="เฮอิไฮเด็นมองจากด้านหน้า">
+<figcaption>เฮอิไฮเด็นมองจากด้านหน้า มีระเบียงทอดไปสองข้างและหลังคาโค้งซ้อนกันตรงกลาง ด้านหน้ามีป้ายทางเข้าสำหรับผู้ขอพร ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa_taisha_akimiya05n4592.jpg" rel="noopener" target="_blank">663highland</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-heihaiden-angle-1200.webp" srcset="/images/posts/suwa-akimiya-heihaiden-angle-640.webp 640w, /images/posts/suwa-akimiya-heihaiden-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="เฮอิไฮเด็นมองจากมุมเฉียง">
+<figcaption>เฮอิไฮเด็นมองจากมุมเฉียง หลังคาที่ซ้อนกันและงานแกะสลักใต้ชายคาเป็นจุดเด่น ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_heihaiden.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="ศาลบริวารในเขตศาลเจ้า">
+<figcaption>ศาลบริวารเรียงรายในเขตศาลเจ้า มองเห็นป้ายที่เขียนว่า "คาชิมะชะ" ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Shimosha_Akimiya_keidaisha.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-2-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-2-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-2-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ศาลบริวารมองจากด้านหน้า">
+<figcaption>ศาลบริวารเรียงกันเมื่อมองจากด้านหน้า ป้ายแสดงชื่อ เช่น คาชิมะชะ คาโมะคามิชิโมะชะ และยาซากะชะ ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-akimiya-keidaisha-3-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-3-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ศาลเล็กเรียงบนบันไดหิน">
+<figcaption>ศาลกลางและศาลเล็กสองข้างเรียงอยู่บนบันไดหิน ป้ายระบุว่า "โคไทจิงงูชะ" และ "อินาริชะ" ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## จุดสำคัญในการไหว้
 
 - หากเป็นไปได้ควรไหว้ครบทั้ง **“การไหว้สี่ศาล”** ตามแบบฉบับดั้งเดิม
