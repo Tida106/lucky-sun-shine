@@ -4,6 +4,7 @@ description: >-
   貴船神社（京都府京都市左京区）の歴史・水の神「高龗神」・本宮・奥宮・結社の三社詣・水占みくじ・龍穴・和泉式部の縁結び伝承・アクセス・おすすめのパワーストーン・周辺スポット・FAQまでを総合的に解説。
 date: '2026-11-22'
 category: powerspots
+cardImage: "/images/cards/kifune-jinja-wide.webp"
 tags:
   - アクアマリン
   - 京都府
