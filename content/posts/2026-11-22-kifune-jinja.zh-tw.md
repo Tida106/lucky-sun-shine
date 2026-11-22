@@ -16,6 +16,11 @@ draft: false
 
 貴船神社位於京都市北部、**鴨川源頭貴船川**的河畔，供奉**掌管水的神明「高龗神」**，自古被稱為水神的總本宮。參道兩旁排列朱紅色春日燈籠的景色聞名，也是人氣很高的**結緣神社**。本文將**歷史・三社詣（本宮、奧宮、結社）・水占籤・龍穴・交通方式・常見問題**整理在一頁中。
 
+<figure class="photo">
+<img src="/images/posts/kifune-honden-steps-1200.webp" srcset="/images/posts/kifune-honden-steps-640.webp 640w, /images/posts/kifune-honden-steps-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="通往本宮的石階與朱紅燈籠">
+<figcaption>沿著排列朱紅燈籠的石階往上走，就能看見本宮的門與社殿。被樹木包圍的參道，在新綠時節格外鮮豔。 照片：<a href="https://commons.wikimedia.org/wiki/File:KTO2110-004_(51778191214).jpg" rel="noopener" target="_blank">nobu3withfoxy</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 目錄
 
 - [基本資訊・神社資料](#basic)
@@ -53,6 +58,11 @@ draft: false
 
 貴船川是鴨川的源頭，神社又位於京都御所的正北方，因此歷代朝廷都將其視為**守護都城水源的神明**而崇敬，乾旱時祈雨，連日下雨時則祈求放晴。相傳**嵯峨天皇曾獻上活馬祈願**，後來成為繪馬的由來。
 
+<figure class="photo">
+<img src="/images/posts/kifune-ema-horses-1200.webp" srcset="/images/posts/kifune-ema-horses-640.webp 640w, /images/posts/kifune-ema-horses-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="繪馬發祥之社的馬像">
+<figcaption>立於「繪馬發祥之社」的兩尊馬像。相傳朝廷祈雨時奉獻馬匹的古例，就是繪馬的由來。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_horse.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、公有領域（已調整尺寸）</figcaption>
+</figure>
+
 > 出處：貴船神社官方資訊、各類觀光介紹。
 
 ## <span id="benefit"></span>御利益
@@ -67,6 +77,11 @@ draft: false
 
 貴船神社沿著貴船川分布著**本宮、結社（中宮）、奧宮**三座社殿。
 
+<figure class="photo">
+<img src="/images/posts/kifune-omoigawa-torii-1200.webp" srcset="/images/posts/kifune-omoigawa-torii-640.webp 640w, /images/posts/kifune-omoigawa-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="思之川上的朱紅橋與鳥居">
+<figcaption>架在思之川上的朱紅色橋與鳥居。出現在沿河步道的途中，散發著神域特有的寧靜。 照片：<a href="https://commons.wikimedia.org/wiki/File:Torii_and_Omoigawa_Bridge,_Kifune_Shrine,_2022-08-27.jpg" rel="noopener" target="_blank">inunami</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 | 社 | 特色 |
 |---|---|
 | 本宮 | 供奉高龗神。御神水・水占籤 |
@@ -79,19 +94,99 @@ draft: false
 
 本宮社殿前，從貴船山湧出的清澈泉水作為**御神水**流淌著，可以自由汲取，也有專用容器。
 
+<figure class="photo">
+<img src="/images/posts/kifune-honden-green-1200.webp" srcset="/images/posts/kifune-honden-green-640.webp 640w, /images/posts/kifune-honden-green-1200.webp 1100w" sizes="(min-width: 768px) 720px, 100vw" width="1100" height="732" loading="lazy" decoding="async" alt="被新綠環繞的本宮">
+<figcaption>被新綠環繞的本宮。初夏時節，社殿周圍充滿鮮豔的綠意。 照片：<a href="https://web.archive.org/web/20161013170853/http://www.panoramio.com/photo/23024260" rel="noopener" target="_blank">OS6</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雨中的本宮社殿">
+<figcaption>雨中的本宮社殿。翹起的屋簷與金色的金屬配件，在杉木林的綠意中格外醒目。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-shinsui-1200.webp" srcset="/images/posts/kifune-shinsui-640.webp 640w, /images/posts/kifune-shinsui-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="871" loading="lazy" decoding="async" alt="本宮的御神水">
+<figcaption>本宮的御神水。清澈的水從竹筒流出，以木勺舀取。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kibune7249.jpg" rel="noopener" target="_blank">mariemon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 本宮最受歡迎的是**「水占籤（水占みくじ）」**。把空白的籤紙**放在水占齋庭的水中，文字就會浮現**，是水神才有的籤。籤上的QR碼可以用英文、中文等語言閱讀結果。
+
+<figure class="photo">
+<img src="/images/posts/kifune-mizuura-yuniwa-1200.webp" srcset="/images/posts/kifune-mizuura-yuniwa-640.webp 640w, /images/posts/kifune-mizuura-yuniwa-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="水占齋庭的水路">
+<figcaption>水占齋庭。竹筒流出的水注滿石砌的水路，水占籤就是在這裡浮在水面上。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_mizuura-yuniwa.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、公有領域（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-mizuura-mikuji-1200.webp" srcset="/images/posts/kifune-mizuura-mikuji-640.webp 640w, /images/posts/kifune-mizuura-mikuji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="浮在水面上的水占籤">
+<figcaption>浮在水面上的水占籤。靜靜等待文字浮現。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_omikuji.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、公有領域（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-soreisha-1200.webp" srcset="/images/posts/kifune-soreisha-640.webp 640w, /images/posts/kifune-soreisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="境內的祖靈社">
+<figcaption>境內的祖靈社。小巧的社殿背靠石牆，靜靜佇立。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_soreisha.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
 
 ## <span id="okumiya"></span>奧宮與龍穴・船形石
 
 奧宮據說是**貴船神社的創建之地**，原本這裡是本宮。被茂密的杉樹林環繞，有著讓人不自覺挺直背脊的寧靜。
 
+<figure class="photo">
+<img src="/images/posts/kifune-okumiya-shinmon-1200.webp" srcset="/images/posts/kifune-okumiya-shinmon-640.webp 640w, /images/posts/kifune-okumiya-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奧宮的神門">
+<figcaption>奧宮的神門。朱紅色的門後，是奧宮的境內。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Okumiya_shinmon.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-okumiya-haiden-1200.webp" srcset="/images/posts/kifune-okumiya-haiden-640.webp 640w, /images/posts/kifune-okumiya-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奧宮的拜殿">
+<figcaption>奧宮的拜殿。長滿青苔的屋頂與靜謐的杉木林，傳達出深山古社的韻味。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_okumiya-haiden.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、公有領域（已調整尺寸）</figcaption>
+</figure>
+
 據說本殿下方有被稱為**「龍穴」**的大洞，是氣場強大的地方。請不要探頭窺看，靜靜合掌參拜。本殿旁有**「船形石」**，相傳是**用石頭蓋住玉依姬命所乘黃船的地方**，也深受船舶相關人士信仰。
+
+<figure class="photo">
+<img src="/images/posts/kifune-funagata-ishi-1200.webp" srcset="/images/posts/kifune-funagata-ishi-640.webp 640w, /images/posts/kifune-funagata-ishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石牆上排列的竹筒與小石子">
+<figcaption>石牆上排列的竹筒，裡面放著小石子。據說是與船形石相關的習俗（攝影者的標題為「船形石」）。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Shintô_Shrine_-_Funagata-ishi_Stones.jpg" rel="noopener" target="_blank">Yanajin33</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-okumiya-chozu-1200.webp" srcset="/images/posts/kifune-okumiya-chozu-640.webp 640w, /images/posts/kifune-okumiya-chozu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奧宮的手水">
+<figcaption>奧宮的手水。湧泉靜靜注入長滿青苔的岩石凹處。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_okumiya-chozu.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、公有領域（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-renri-sugi-1200.webp" srcset="/images/posts/kifune-renri-sugi-640.webp 640w, /images/posts/kifune-renri-sugi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="奧宮的神木「連理之杉」">
+<figcaption>奧宮的神木「連理之杉」。兩根樹幹相依生長的模樣，也被視為結緣的象徵。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_renri-no-sugi.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、公有領域（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-suikazura-sha-1200.webp" srcset="/images/posts/kifune-suikazura-sha-640.webp 640w, /images/posts/kifune-suikazura-sha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奧宮的吸葛社">
+<figcaption>奧宮境內的吸葛社。小巧的社殿背靠岩壁，靜靜佇立。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Okumiya_suikazurasha.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
 
 ## <span id="yui"></span>結社與結緣
 
 位於本宮與奧宮之間的結社，供奉**結緣之神磐長姬命**，自平安時代就以結緣聞名。相傳**女歌人和泉式部為了與疏遠的丈夫重修舊好前來祈願，願望得以實現**，境內還有和泉式部的歌碑。
 
+<figure class="photo">
+<img src="/images/posts/kifune-yui-no-yashiro-1200.webp" srcset="/images/posts/kifune-yui-no-yashiro-640.webp 640w, /images/posts/kifune-yui-no-yashiro-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="結社（結之社）">
+<figcaption>結社。朱紅色玉垣圍繞的社殿前方，可以看到長滿青苔的巨石。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Shintô_Shrine_-_Yui-no-yashiro.jpg" rel="noopener" target="_blank">Yanajin33</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-amenoiwafune-1200.webp" srcset="/images/posts/kifune-amenoiwafune-640.webp 640w, /images/posts/kifune-amenoiwafune-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="結社的天乃磐船">
+<figcaption>結社的「天乃磐船」。長滿青苔的巨石，如同一艘船般橫臥。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Shintô_Shrine_-_Rock_(Ame-no-iwafune).jpg" rel="noopener" target="_blank">Yanajin33</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-amenoiwafune-kenpei-1200.webp" srcset="/images/posts/kifune-amenoiwafune-kenpei-640.webp 640w, /images/posts/kifune-amenoiwafune-kenpei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="從另一個角度看天之磐船">
+<figcaption>另一張照片中的天之磐船。可以感受到斜臥在森林中的巨石的存在感。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Yuinoyashiro_amenoiwafune.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 寫下願望並綁上**「結文」**的祈願方式廣為人知。不只是戀愛，也有許多人為**工作、人際、學業等各種「好緣分」**前來祈願。
+
+<figure class="photo">
+<img src="/images/posts/kifune-musubibumi-ema-1200.webp" srcset="/images/posts/kifune-musubibumi-ema-640.webp 640w, /images/posts/kifune-musubibumi-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="結社的結文與繪馬">
+<figcaption>結社的結文與繪馬。綠色的結文密密麻麻地綁在朱紅色玉垣上。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_yuinoyashiro-ema.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、公有領域（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="point"></span>參拜重點
 
@@ -104,6 +199,16 @@ draft: false
 ## <span id="access"></span>交通方式
 
 電車・巴士：搭乘**叡山電鐵鞍馬線至「貴船口站」**，轉乘**京都巴士33系統**在貴船站下車，步行約5分鐘。
+
+<figure class="photo">
+<img src="/images/posts/kifune-torii-snow-1200.webp" srcset="/images/posts/kifune-torii-snow-640.webp 640w, /images/posts/kifune-torii-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="貴船神社入口的朱紅鳥居">
+<figcaption>貴船神社入口的朱紅鳥居。後方的石階延伸至本宮。是殘雪未融的冬日景色。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-street-snow-1200.webp" srcset="/images/posts/kifune-street-snow-640.webp 640w, /images/posts/kifune-street-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雪中的貴船街景">
+<figcaption>飄雪的貴船街景。沿河的道路兩側是旅館與餐廳。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 步行：從貴船口站走到貴船神社**約30分鐘**（持續上坡）。
 
@@ -132,6 +237,21 @@ draft: false
 ## <span id="season"></span>推薦的時期・時段
 
 **新綠的青楓（5～6月）與紅葉（11月）**特別美麗。夏天比市區涼爽，是**川床**季節，十分熱鬧。**清晨**參拜者少，能安靜走完三社。冬天積雪或結冰會讓石階容易滑，請小心。
+
+<figure class="photo">
+<img src="/images/posts/kifune-stairs-green-1200.webp" srcset="/images/posts/kifune-stairs-green-640.webp 640w, /images/posts/kifune-stairs-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1046" loading="lazy" decoding="async" alt="新綠中的石階與燈籠">
+<figcaption>石階與燈籠延伸在新綠的隧道之中。青楓的季節格外鮮豔。 照片：Chi King／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-stairs-film-1200.webp" srcset="/images/posts/kifune-stairs-film-640.webp 640w, /images/posts/kifune-stairs-film-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="796" loading="lazy" decoding="async" alt="排列朱紅燈籠的石階">
+<figcaption>兩側排列著朱紅燈籠的石階。是最能代表貴船神社的景色。 照片：Toomore Chiang／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-honden-snow-1200.webp" srcset="/images/posts/kifune-honden-snow-640.webp 640w, /images/posts/kifune-honden-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雨夾雪中的本宮">
+<figcaption>雨夾雪的日子裡的本宮。屋簷下掛著白色燈籠，瀰漫著冬季貴船特有的寧靜。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="manner"></span>參拜禮儀基本須知
 

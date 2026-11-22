@@ -16,6 +16,11 @@ draft: false
 
 貴船神社は、京都市北部・**鴨川の源流にあたる貴船川** のほとりに鎮まる古社です。**水を司る神「高龗神（たかおかみのかみ）」** を祀り、「水の神様の総本宮」と呼ばれてきました。参道に朱色の春日灯籠が並ぶ光景でも知られ、**縁結びの神社** としても人気を集めています。本記事では **歴史・三社詣（本宮・奥宮・結社）・水占みくじ・龍穴・アクセス・FAQ** を1ページにまとめます。
 
+<figure class="photo">
+<img src="/images/posts/kifune-honden-steps-1200.webp" srcset="/images/posts/kifune-honden-steps-640.webp 640w, /images/posts/kifune-honden-steps-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="本宮へ続く石段と朱色の灯籠">
+<figcaption>朱色の灯籠が並ぶ石段を上ると、本宮の門と社殿が見えてきます。木々に包まれた参道は、新緑の季節にひときわ鮮やかです。 写真：<a href="https://commons.wikimedia.org/wiki/File:KTO2110-004_(51778191214).jpg" rel="noopener" target="_blank">nobu3withfoxy</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 目次
 
 - [基本情報・神社データ](#basic)
@@ -53,6 +58,11 @@ draft: false
 
 貴船川は鴨川の源流にあたり、神社は京都御所のほぼ真北に鎮まります。そのため、**都の水源を守る神** として歴代の朝廷から厚く信仰され、日照りが続けば雨乞い、雨が続けば雨止みの祈願が行われてきました。**嵯峨天皇が生きた馬を奉納して祈願した** ことが、のちに絵馬が生まれるきっかけになったとも伝えられています。
 
+<figure class="photo">
+<img src="/images/posts/kifune-ema-horses-1200.webp" srcset="/images/posts/kifune-ema-horses-640.webp 640w, /images/posts/kifune-ema-horses-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="絵馬発祥の社の馬の像">
+<figcaption>「絵馬発祥の社」に立つ二頭の馬の像。かつて朝廷が雨乞いの際に馬を奉納した故事が、絵馬の由来と伝わります。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_horse.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
 > 出典: 貴船神社公式情報、各種観光案内。
 
 ## <span id="benefit"></span>ご利益
@@ -67,6 +77,11 @@ draft: false
 
 貴船神社は、**本宮・結社（中宮）・奥宮** の三つの社が貴船川に沿って離れて建っています。
 
+<figure class="photo">
+<img src="/images/posts/kifune-omoigawa-torii-1200.webp" srcset="/images/posts/kifune-omoigawa-torii-640.webp 640w, /images/posts/kifune-omoigawa-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="思ひ川に架かる朱の橋と鳥居">
+<figcaption>思ひ川に架かる朱塗りの橋と鳥居。川沿いの道を歩く途中に現れ、神域らしい静けさが漂います。 写真：<a href="https://commons.wikimedia.org/wiki/File:Torii_and_Omoigawa_Bridge,_Kifune_Shrine,_2022-08-27.jpg" rel="noopener" target="_blank">inunami</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 | 社 | 特徴 |
 |---|---|
 | 本宮 | 高龗神を祀る。御神水・水占みくじ |
@@ -79,19 +94,99 @@ draft: false
 
 石段の先にある本宮の社殿の前には、貴船山から湧き出す清らかな水が **御神水** として流れています。御神水は自由に汲むことができ、専用の容器も授与されています。
 
+<figure class="photo">
+<img src="/images/posts/kifune-honden-green-1200.webp" srcset="/images/posts/kifune-honden-green-640.webp 640w, /images/posts/kifune-honden-green-1200.webp 1100w" sizes="(min-width: 768px) 720px, 100vw" width="1100" height="732" loading="lazy" decoding="async" alt="新緑に包まれた本宮">
+<figcaption>新緑に包まれた本宮。初夏には、社殿のまわりが鮮やかな緑で満たされます。 写真：<a href="https://web.archive.org/web/20161013170853/http://www.panoramio.com/photo/23024260" rel="noopener" target="_blank">OS6</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雨に濡れる本宮の社殿">
+<figcaption>雨に濡れる本宮の社殿。反り返った屋根と金色の金具が、杉木立の緑によく映えます。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-shinsui-1200.webp" srcset="/images/posts/kifune-shinsui-640.webp 640w, /images/posts/kifune-shinsui-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="871" loading="lazy" decoding="async" alt="本宮の御神水">
+<figcaption>本宮の御神水。竹の樋から流れる清らかな水を、柄杓ですくっていただきます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kibune7249.jpg" rel="noopener" target="_blank">mariemon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 本宮で人気なのが **「水占みくじ（みずうらみくじ）」**。白紙のおみくじを **水占齋庭（みずうらゆにわ）の水に浮かべると文字が浮かび上がる** という、水の神様ならではのおみくじです。みくじのQRコードから、英語や中国語などの言語で結果を読める仕組みもあります。
+
+<figure class="photo">
+<img src="/images/posts/kifune-mizuura-yuniwa-1200.webp" srcset="/images/posts/kifune-mizuura-yuniwa-640.webp 640w, /images/posts/kifune-mizuura-yuniwa-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="水占斎庭の水路">
+<figcaption>水占斎庭。竹の樋から流れる水が、石組みの水路を満たしています。ここで水占みくじを浮かべます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_mizuura-yuniwa.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-mizuura-mikuji-1200.webp" srcset="/images/posts/kifune-mizuura-mikuji-640.webp 640w, /images/posts/kifune-mizuura-mikuji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="水面に浮かべた水占みくじ">
+<figcaption>水面に浮かべた水占みくじ。文字が浮かび上がるまで、静かに待ちます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_omikuji.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-soreisha-1200.webp" srcset="/images/posts/kifune-soreisha-640.webp 640w, /images/posts/kifune-soreisha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="境内の祖霊社">
+<figcaption>境内の祖霊社。小さな社殿が、石垣を背に静かに建っています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_soreisha.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
 
 ## <span id="okumiya"></span>奥宮と龍穴・船形石
 
 奥宮は、**貴船神社創建の地** と伝えられる場所で、もとはここが本宮だったとされます。深い杉木立に囲まれ、背筋が伸びるような静けさがあります。
 
+<figure class="photo">
+<img src="/images/posts/kifune-okumiya-shinmon-1200.webp" srcset="/images/posts/kifune-okumiya-shinmon-640.webp 640w, /images/posts/kifune-okumiya-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奥宮の神門">
+<figcaption>奥宮の神門。朱塗りの門の奥に、奥宮の境内が広がります。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Okumiya_shinmon.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-okumiya-haiden-1200.webp" srcset="/images/posts/kifune-okumiya-haiden-640.webp 640w, /images/posts/kifune-okumiya-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奥宮の拝殿">
+<figcaption>奥宮の拝殿。苔むした屋根と静かな杉木立が、深山の古社らしい趣を伝えます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_okumiya-haiden.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
 本殿の下には **「龍穴（りゅうけつ）」** と呼ばれる大きな穴があるとされ、強い気が流れる場所として知られます。覗き込むことは控え、静かに手を合わせましょう。本殿の脇には、**玉依姫命が乗ってきた黄船を石で覆い隠した** と伝わる **「船形石」** があり、航海の安全を願う船舶関係者の信仰も厚いとされています。
+
+<figure class="photo">
+<img src="/images/posts/kifune-funagata-ishi-1200.webp" srcset="/images/posts/kifune-funagata-ishi-640.webp 640w, /images/posts/kifune-funagata-ishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="石垣に並ぶ竹筒と小石">
+<figcaption>石垣に並ぶ竹筒。小石が納められており、船形石にまつわる習わしとされます（撮影者の題名は「船形石」）。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Shintô_Shrine_-_Funagata-ishi_Stones.jpg" rel="noopener" target="_blank">Yanajin33</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-okumiya-chozu-1200.webp" srcset="/images/posts/kifune-okumiya-chozu-640.webp 640w, /images/posts/kifune-okumiya-chozu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奥宮の手水">
+<figcaption>奥宮の手水。苔むした岩のくぼみに、湧き水が静かに注いでいます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_okumiya-chozu.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-renri-sugi-1200.webp" srcset="/images/posts/kifune-renri-sugi-640.webp 640w, /images/posts/kifune-renri-sugi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="奥宮の御神木「連理の杉」">
+<figcaption>奥宮の御神木「連理の杉」。二本の幹が寄り添うように育つ姿から、縁結びの象徴ともいわれます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_renri-no-sugi.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-suikazura-sha-1200.webp" srcset="/images/posts/kifune-suikazura-sha-640.webp 640w, /images/posts/kifune-suikazura-sha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奥宮の吸葛社">
+<figcaption>奥宮の境内にある吸葛社（すいかずらしゃ）。小さな社殿が、岩肌を背に静かに建っています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Okumiya_suikazurasha.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
 
 ## <span id="yui"></span>結社と縁結び
 
 本宮と奥宮のあいだに鎮まる結社は、**縁結びの神様・磐長姫命** を祀り、平安時代から縁結びで知られます。**女流歌人・和泉式部が、疎遠になった夫との復縁を祈って参拝し、願いが叶った** という逸話も伝わり、境内には和泉式部の歌碑もあります。
 
+<figure class="photo">
+<img src="/images/posts/kifune-yui-no-yashiro-1200.webp" srcset="/images/posts/kifune-yui-no-yashiro-640.webp 640w, /images/posts/kifune-yui-no-yashiro-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="結社（ゆいのやしろ）">
+<figcaption>結社（ゆいのやしろ）。朱の玉垣に囲まれた社殿の手前に、苔むした大きな石が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Shintô_Shrine_-_Yui-no-yashiro.jpg" rel="noopener" target="_blank">Yanajin33</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-amenoiwafune-1200.webp" srcset="/images/posts/kifune-amenoiwafune-640.webp 640w, /images/posts/kifune-amenoiwafune-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="結社の天乃磐船">
+<figcaption>結社にある「天乃磐船（あめのいわふね）」。苔むした大きな石が、船のように横たわっています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Shintô_Shrine_-_Rock_(Ame-no-iwafune).jpg" rel="noopener" target="_blank">Yanajin33</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-amenoiwafune-kenpei-1200.webp" srcset="/images/posts/kifune-amenoiwafune-kenpei-640.webp 640w, /images/posts/kifune-amenoiwafune-kenpei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="別の角度から見た天の磐船">
+<figcaption>別の写真で見る天の磐船。森の中で斜めに横たわる巨石の存在感が伝わります。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_Yuinoyashiro_amenoiwafune.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 願いを書いて **「結び文」** を結ぶ祈願が知られています。恋愛だけでなく、**仕事・人・学びなど、あらゆる「良いご縁」** を願う参拝者が訪れます。
+
+<figure class="photo">
+<img src="/images/posts/kifune-musubibumi-ema-1200.webp" srcset="/images/posts/kifune-musubibumi-ema-640.webp 640w, /images/posts/kifune-musubibumi-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="結社の結び文と絵馬">
+<figcaption>結社の結び文と絵馬。緑色の結び文が、朱の玉垣にびっしりと結ばれています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kifune-jinja_yuinoyashiro-ema.jpeg" rel="noopener" target="_blank">nnh</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="point"></span>参拝のポイント
 
@@ -104,6 +199,16 @@ draft: false
 ## <span id="access"></span>アクセス
 
 電車・バス：**叡山電鉄鞍馬線「貴船口駅」** から **京都バス33系統** で貴船バス停下車、徒歩約5分。
+
+<figure class="photo">
+<img src="/images/posts/kifune-torii-snow-1200.webp" srcset="/images/posts/kifune-torii-snow-640.webp 640w, /images/posts/kifune-torii-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="貴船神社の入口の朱の鳥居">
+<figcaption>貴船神社の入口に立つ朱の鳥居。奥へ石段が続き、その先に本宮があります。雪の残る冬の風景です。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-street-snow-1200.webp" srcset="/images/posts/kifune-street-snow-640.webp 640w, /images/posts/kifune-street-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雪の貴船の町並み">
+<figcaption>雪が舞う貴船の町並み。川沿いの道に旅館や料理店が並びます。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 徒歩：貴船口駅から貴船神社まで **約30分**（坂道が続きます）。
 
@@ -132,6 +237,21 @@ draft: false
 ## <span id="season"></span>おすすめの時期・時間
 
 **新緑の青もみじ（5〜6月）と紅葉（11月）** が特に美しい季節です。夏は市街地より涼しく、**川床** の季節として賑わいます。**早朝** は参拝者が少なく、静かに三社をめぐれます。冬は積雪や凍結で石段が滑りやすくなるため注意してください。
+
+<figure class="photo">
+<img src="/images/posts/kifune-stairs-green-1200.webp" srcset="/images/posts/kifune-stairs-green-640.webp 640w, /images/posts/kifune-stairs-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1046" loading="lazy" decoding="async" alt="新緑の石段と灯籠">
+<figcaption>新緑のトンネルのなかを、石段と灯籠が続きます。青もみじの季節は特に鮮やかです。 写真：Chi King／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-stairs-film-1200.webp" srcset="/images/posts/kifune-stairs-film-640.webp 640w, /images/posts/kifune-stairs-film-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="796" loading="lazy" decoding="async" alt="朱の灯籠が並ぶ石段">
+<figcaption>朱の灯籠が左右に連なる石段。貴船神社を代表する、あの風景です。 写真：Toomore Chiang／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kifune-honden-snow-1200.webp" srcset="/images/posts/kifune-honden-snow-640.webp 640w, /images/posts/kifune-honden-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雪まじりの雨の本宮">
+<figcaption>雪まじりの雨の日の本宮。軒先に白い提灯が並び、冬の貴船ならではの静けさが漂います。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="manner"></span>参拝マナーの基本
 
