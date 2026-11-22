@@ -14,6 +14,11 @@ draft: false
 
 วัดคุรามะเดระ (鞍馬寺) เป็นวัดเก่าแก่บน **ภูเขาคุรามะ** (สูง 569 เมตร) ทางตอนเหนือของเมืองเกียวโต ได้ชื่อเสียงไปทั่วประเทศในฐานะหนึ่งในพาวเวอร์สปอตชั้นนำของญี่ปุ่น ที่เรียกกันว่า **"แผ่นดินที่พลังงานจักรวาลลงมาจุติ" และ "ภูเขาศักดิ์สิทธิ์ที่โกะโฮมาโอซนลงมาประทับ"** **"พื้นคองโกโช"** หน้าศาลาหลักเป็น **ลานหินที่มีรูปดาวหกแฉก** เชื่อกันว่าเมื่อยืนตรงกลางจะรับพลังงานของจักรวาลได้ จึงเป็นจุดที่ผู้มาเยือนต้องแวะทุกคน นอกจากนี้ยังเป็น **ภูเขาที่อุชิวากะมารุ (มินาโมโตะ โนะ โยชิสึเนะ) ฝึกวิชา** ทางเดินสู่โอคุโนะอินเต็มไปด้วยความลึกลับ บทความนี้รวบรวม **ประวัติ ความเชื่อซนเท็น พื้นคองโกโช ทางรากไม้ คำถามที่พบบ่อย และบันทึกท้ายเล่ม** ไว้ในหน้าเดียว
 
+<figure class="photo">
+<img src="/images/posts/kurama-gate-blue-1200.webp" srcset="/images/posts/kurama-gate-blue-640.webp 640w, /images/posts/kurama-gate-blue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ประตูนิโอมงของวัดคุรามะเดระ">
+<figcaption>ประตูนิโอมงที่ทางเข้าภูเขาคุรามะ สีแดงชาดตัดกับท้องฟ้าสีฟ้าและใบไม้ใหม่ ภาพ: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/5914781" rel="noopener" target="_blank">ccfarmer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(ปรับขนาด)</figcaption>
+</figure>
+
 ## สารบัญ
 
 - ข้อมูลพื้นฐานของวัด
@@ -46,6 +51,11 @@ draft: false
 | ความสูง | ประมาณ 569 เมตร (ภูเขาคุรามะ) |
 | เว็บไซต์ทางการ | https://www.kuramadera.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/kurama-sando-1200.webp" srcset="/images/posts/kurama-sando-640.webp 640w, /images/posts/kurama-sando-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="บันไดหินที่นำไปสู่ประตูนิโอมง">
+<figcaption>บันไดหินที่นำขึ้นไปยังประตู สองข้างมีโคมไฟสีแดงชาดเรียงราย เป็นจุดเริ่มต้นของการไหว้ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_sando.jpg" rel="noopener" target="_blank">KENPEI</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## ประวัติและที่มา
 
 ว่ากันว่าวัดคุรามะเดระก่อตั้งในปี **770 (ปีโฮกิที่ 1)** เมื่อ **ท่านคันเตย์โชนิน** ศิษย์เอกของพระเจี้ยนเจิน ประดิษฐานพระบิชามนเต็นบนภูเขาคุรามะ ต่อมา **ฟูจิวาระ โนะ อิเซโตะ** ได้ประดิษฐานพระคันนอนโพธิสัตว์ร่วมกัน และวัดแห่งนี้ได้รับความเคารพจากจักรพรรดิหลายรัชกาลในฐานะ **"ผู้พิทักษ์ทิศเหนือของพระราชวัง"** คอยปกป้องทางเหนือของเฮอังเกียว
@@ -53,6 +63,11 @@ draft: false
 ปลายสมัยเฮอัน มีตำนานที่รู้จักกันแพร่หลายว่า อุชิวากะมารุ (ต่อมาคือ **มินาโมโตะ โนะ โยชิสึเนะ**) ถูกส่งมาฝึกตัวที่นี่ตั้งแต่อายุ 7 ขวบ และได้เรียนวิชาดาบที่นี่ ก่อนสมัยเอโดะวัดสังกัดนิกายเท็นไดชู แต่ในปี **1949 ได้ก่อตั้งนิกายคุรามะโคเคียว** และปัจจุบันแยกเป็นอิสระในฐานะ **สำนักใหญ่แห่งนิกายคุรามะโคเคียว** เล่ากันว่า **ในปี 1947 "ความเชื่อซนเท็น"** ได้รับการจัดระเบียบเป็นรูปแบบปัจจุบันภายใต้อิทธิพลของเดกุจิ โอนิซะบุโร่แห่งศาสนาโอโมโต และวัดจึงดึงดูดผู้มาไหว้จากทั่วประเทศในฐานะพาวเวอร์สปอตระดับจักรวาลและจิตวิญญาณ
 
 > ที่มา: ข้อมูลทางการของวัดคุรามะเดระ และเอกสารประวัติศาสตร์เกียวโตและสมัยเฮอัน
+
+<figure class="photo">
+<img src="/images/posts/kurama-gate-rain-1200.webp" srcset="/images/posts/kurama-gate-rain-640.webp 640w, /images/posts/kurama-gate-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ประตูนิโอมงในวันฝนตก">
+<figcaption>ประตูนิโอมงในวันฝนตก ผู้คนกางร่มเดินผ่าน ให้บรรยากาศวัดบนภูเขาอันเงียบสงบ ภาพ: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375714" rel="noopener" target="_blank">Kurofune</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(ปรับขนาด)</figcaption>
+</figure>
 
 ## พรที่เชื่อกันว่าเกี่ยวข้อง
 
@@ -76,11 +91,31 @@ draft: false
 
 > **ข้อควรทราบ**: การตีความทางศาสนาและความลึกลับเหล่านี้เล่าอยู่ในบริบทของความเชื่อ
 
+<figure class="photo">
+<img src="/images/posts/kurama-tiger-1200.webp" srcset="/images/posts/kurama-tiger-640.webp 640w, /images/posts/kurama-tiger-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="รูปปั้นเสือหน้าศาลาหลัก">
+<figcaption>รูปปั้นเสือที่นั่งอยู่หน้าศาลาหลัก เสือเชื่อกันว่าเป็นผู้ส่งสารของบิชามอนเท็น และพบเห็นได้ทั่ววัด ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Tiger_by_honden_-_Kurama-dera_-_Kyoto_-_DSC06659.jpeg" rel="noopener" target="_blank">Daderot</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a>(ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-benzaiten-1200.webp" srcset="/images/posts/kurama-benzaiten-640.webp 640w, /images/posts/kurama-benzaiten-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลเบ็นไซเท็นทางทิศตะวันออกเฉียงใต้">
+<figcaption>ศาลเล็กสีแดงชาดในบริเวณวัด ม่านสีขาวมีตราประจำวัด ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_Tatsumino_benzaiten.jpg" rel="noopener" target="_blank">KENPEI</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## พื้นคองโกโชหน้าศาลาหลัก
 
 ลานหิน **"คองโกโช"** หน้าศาลาหลัก (ฮนเด็น คอนโด) เป็น **จุดพลังงานทรงกลมที่มีรูปดาวหกแฉก** ภาพผู้มาไหว้ที่ยืนตรงกลาง หายใจลึกๆ และ **กางแขนสองข้างออกเพื่อรับพลังงานของจักรวาล** เป็นภาพเด่นประจำวัดคุรามะเดระ
 
 พื้นคองโกโชถูกวางตำแหน่งเป็น **"สถานที่ที่ซนเท็นลงมาประทับ"** เล่ากันว่าหากขอพรที่นี่ คำอธิษฐานจะส่งไปถึงจักรวาล ในช่วงที่แออัดอาจต้องรอคิว จึงควรผลัดกันยืนตรงกลางอย่างให้เกียรติกัน
+
+<figure class="photo">
+<img src="/images/posts/kurama-mainhall-1200.webp" srcset="/images/posts/kurama-mainhall-640.webp 640w, /images/posts/kurama-mainhall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาหลักและพื้นคองโกโช">
+<figcaption>ศาลาหลักและพื้นคองโกโชที่อยู่ด้านหน้า พื้นหินวงกลมนี้เชื่อกันว่าเป็นที่ที่ซนเท็นลงมา ภาพ: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/58151336" rel="noopener" target="_blank">Nankou Oronain</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-hondenkondo-1200.webp" srcset="/images/posts/kurama-hondenkondo-640.webp 640w, /images/posts/kurama-hondenkondo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาหลักกับซากุระ">
+<figcaption>ศาลาหลักในฤดูใบไม้ผลิ ซากุระบานสะพรั่ง มีภูเขาอยู่ด้านหลัง ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_hondenkondo2.jpg" rel="noopener" target="_blank">KENPEI</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
 
 ## ทางรากไม้และตำนานอุชิวากะมารุ
 
@@ -88,11 +123,31 @@ draft: false
 
 เมื่อลองเดินระหว่างรากไม้จริงๆ ความไม่มั่นคงของพื้นใต้เท้าต้องใช้สมาธิ ทำให้ได้สัมผัสความรู้สึกของนักบำเพ็ญเพียรสมัยเฮอัน ตำนาน **"คุรามะเท็งงุ"** ที่ว่าอุชิวากะมารุได้เรียนวิชาดาบจากเท็งงุ ก็มีภูเขานี้เป็นฉากเช่นกัน
 
+<figure class="photo">
+<img src="/images/posts/kurama-yoshitoshi-1200.webp" srcset="/images/posts/kurama-yoshitoshi-640.webp 640w, /images/posts/kurama-yoshitoshi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="902" loading="lazy" decoding="async" alt="ภาพอุคิโยะเอะของชานะโอะกับเท็งงุใหญ่">
+<figcaption>ภาพพิมพ์ของสึกิโอกะ โยชิโตชิ วาดชานะโอะ (อุชิวากะมารุ) กับเท็งงุใหญ่โซโจโบแห่งวัดคุรามะเดระ ฝึกวิชาดาบบนภูเขายามค่ำคืน ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Yoshitoshi_Sojobo_Instructs_Yoshitsune_in_the_Sword.jpg" rel="noopener" target="_blank">Yoshitoshi Tsukioka</a> / Wikimedia Commons, สาธารณสมบัติ(ภาพถ่ายสำเนาภาพอุคิโยะเอะ)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-tengu-1200.webp" srcset="/images/posts/kurama-tengu-640.webp 640w, /images/posts/kurama-tengu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1798" loading="lazy" decoding="async" alt="ใบหน้าเท็งงุขนาดใหญ่">
+<figcaption>ใบหน้าเท็งงุสีแดงขนาดใหญ่ใกล้ทางเข้าคุรามะ แสดงให้เห็นว่าทำไมที่นี่ถึงถูกเรียกว่า "เมืองเท็งงุ" ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Kyoto_20190906_(48885568086).jpg" rel="noopener" target="_blank">Maarten Heerlien</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a>(ปรับขนาด)</figcaption>
+</figure>
+
 ## โอคุโนะอินและมาโอเด็น
 
 เมื่อเดินต่อจากศาลาหลักไปตามทางภูเขา จะถึง **"โอคุโนะอิน มาโอเด็น"** ห่างจากศาลาหลักราว 30–40 นาทีเดินเท้า เป็นสถานที่ที่เชื่อกันว่า **โกะโฮมาโอซน** ลงมาประทับ มีศาลาเล็กๆ ตั้งอยู่บนชั้นหิน มีผู้มาเยือนน้อยกว่าศาลาหลัก จึงสัมผัสความเงียบสงบเฉพาะตัวและบรรยากาศลึกลับได้
 
 จากโอคุโนะอินถึง **ศาลเจ้าคิบุเนะ** มี **เส้นทางเดินข้ามสันเขา** ใช้เวลาประมาณ 30 นาทีต่อทาง เป็นเส้นทางยอดนิยมที่ไหว้ทั้งวัดคุรามะเดระและศาลเจ้าคิบุเนะได้ในคราวเดียว
+
+<figure class="photo">
+<img src="/images/posts/kurama-stairs-1200.webp" srcset="/images/posts/kurama-stairs-640.webp 640w, /images/posts/kurama-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="บันไดหินที่มีโคมไฟสีแดงชาดเรียงราย">
+<figcaption>บันไดหินที่มีโคมไฟสีแดงชาดเรียงสองข้าง ยิ่งขึ้นไปตามเนินเขา ความเงียบสงบยิ่งลึกซึ้ง ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Kurama-Dera_(Kyoto_Sakyo-ku)_Temple_hdsr_S5_25.jpg" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a>(ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-pagoda-1200.webp" srcset="/images/posts/kurama-pagoda-640.webp 640w, /images/posts/kurama-pagoda-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="เจดีย์สีแดงชาดท่ามกลางต้นไม้">
+<figcaption>เจดีย์สีแดงชาดตั้งอยู่ท่ามกลางต้นไม้ มีโคมหินและโคมไฟสีแดงชาดอยู่ด้านหน้า ภาพ: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375743" rel="noopener" target="_blank">Kurofune</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(ปรับขนาด)</figcaption>
+</figure>
 
 ## ข้อควรรู้ในการไหว้
 
@@ -102,6 +157,16 @@ draft: false
 - เดินข้ามสันเขาไปศาลเจ้าคิบุเนะได้ (ประมาณ 30 นาที)
 - ในภูเขาต้องมียากันแมลงและรองเท้าที่เดินสบาย
 
+<figure class="photo">
+<img src="/images/posts/kurama-view-1200.webp" srcset="/images/posts/kurama-view-640.webp 640w, /images/posts/kurama-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="ทิวเขาที่มองจากบริเวณวัด">
+<figcaption>ทิวเขาคุรามะที่มองจากบริเวณวัด ราวสีแดงชาดตัดกับท้องฟ้าสีฟ้าอย่างโดดเด่น ภาพ: <a href="https://commons.wikimedia.org/wiki/File:View_from_Kurama-dera_grounds_(48885055523).jpg" rel="noopener" target="_blank">Maarten Heerlien</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a>(ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-trees-1200.webp" srcset="/images/posts/kurama-trees-640.webp 640w, /images/posts/kurama-trees-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="วิวภูเขาจากข้างราวสีแดงชาด">
+<figcaption>วิวภูเขาที่มองจากข้างราวสีแดงชาด มีม้านั่งให้พักผ่อนสักครู่ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Trees_-_Kurama-dera_-_Kyoto_-_DSC06694.jpeg" rel="noopener" target="_blank">Daderot</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a>(ปรับขนาด)</figcaption>
+</figure>
+
 ## การเดินทาง
 
 รถไฟ: ลง **สถานีคุรามะ สายคุรามะ ของรถไฟเอซัน** เดินประมาณ 5 นาทีถึงประตูนิโอมง จากนั้นเดินทางภูเขาไปศาลาหลักอีกประมาณ 30 นาที
@@ -109,6 +174,11 @@ draft: false
 กระเช้าไฟฟ้า: จากประตูนิโอมง นั่ง **กระเช้าไฟฟ้าภูเขาคุรามะ** ไปสถานีทาโฮโตะ (ทางเดียว 2 นาที 200 เยน)
 
 **ที่จอดรถ**: แทบไม่มี แนะนำให้ใช้รถไฟเอซัน
+
+<figure class="photo">
+<img src="/images/posts/kurama-funicular-1200.webp" srcset="/images/posts/kurama-funicular-640.webp 640w, /images/posts/kurama-funicular-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="กระเช้ารางภูเขาคุรามะ">
+<figcaption>รถกระเช้ารางของภูเขาคุรามะ ตัวรถมีภาพวาดอุชิวากะมารุ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Kurama_funicular.jpg" rel="noopener" target="_blank">Bruno Plus</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a>(ปรับขนาด)</figcaption>
+</figure>
 
 ## หินที่แนะนำ
 

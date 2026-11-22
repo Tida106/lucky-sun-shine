@@ -21,6 +21,11 @@ viatorSpots:
 
 Kurama-dera Temple is an ancient temple nestled on **Mount Kurama** (elevation 569m) in northern Kyoto City. It's famous nationwide as one of Japan's premier power spots, known as **"the place where cosmic energy descends"** and **"the sacred mountain where Maoson (the Great King of Demons) landed."** The **"Kongo-sho"** in front of the main hall is a **stone pavement featuring a hexagram,** where visitors gather, believing they can receive cosmic energy by standing in its center. It's an absolute must-visit! The temple is also known as **the mountain where Ushiwakamaru (Minamoto no Yoshitsune) trained,** and the path to Okunoin is filled with an air of mystery. In this article, I'll cover its **history, Sonten faith, Kongo-sho, Tree Root Path, FAQs, and my personal thoughts** all on one page.
 
+<figure class="photo">
+<img src="/images/posts/kurama-gate-blue-1200.webp" srcset="/images/posts/kurama-gate-blue-640.webp 640w, /images/posts/kurama-gate-blue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Niomon gate of Kurama-dera">
+<figcaption>The Niomon gate at the entrance to Mt. Kurama. The vermilion gate stands out against blue sky and fresh greenery. Photo: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/5914781" rel="noopener" target="_blank">ccfarmer</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(resized)</figcaption>
+</figure>
+
 ## Table of Contents
 
 - [Basic Information and Temple Data](#basic)
@@ -53,6 +58,11 @@ Kurama-dera Temple is an ancient temple nestled on **Mount Kurama** (elevation 5
 | Elevation | Approx. 569m (Mount Kurama) |
 | Official Website | https://www.kuramadera.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/kurama-sando-1200.webp" srcset="/images/posts/kurama-sando-640.webp 640w, /images/posts/kurama-sando-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Stone steps leading to the Niomon">
+<figcaption>Stone steps lead up to the gate, lined with vermilion lanterns on both sides. The pilgrimage begins here. Photo: <a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_sando.jpg" rel="noopener" target="_blank">KENPEI</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(resized) (shared under the same license)</figcaption>
+</figure>
+
 ## <span id="history"></span>History and Origins
 
 Kurama-dera Temple was founded in **770 (Hoki 1)** when **Jentei Shonin,** a high-ranking disciple of Ganjin, enshrined Bishamonten on Mount Kurama. Later, **Fujiwara Isehito** enshrined Kannon Bodhisattva alongside it, and the temple gained reverence from successive emperors as the **"Northern Guardian for the Protection of the Imperial Capital,"** safeguarding Heian-kyo from the north.
@@ -60,6 +70,11 @@ Kurama-dera Temple was founded in **770 (Hoki 1)** when **Jentei Shonin,** a hig
 During the late Heian period, it's widely known that Ushiwakamaru (later **Minamoto no Yoshitsune**) was entrusted to the temple from the age of seven and trained here, learning swordsmanship. Until the Edo period, the temple belonged to the Tendai sect, but in **1949, it established the Kurama-Kokyo sect,** and now stands independently as the **head temple of Kurama-Kokyo.** The **"Sonten Faith"** was formalized into its current form in **1947 under the influence of Onisaburo Deguchi of Oomoto-kyo** and others, attracting visitors nationwide as a cosmic and spiritual power spot.
 
 > Source: Kurama-dera Official Materials, various Kyoto and Heian historical documents.
+
+<figure class="photo">
+<img src="/images/posts/kurama-gate-rain-1200.webp" srcset="/images/posts/kurama-gate-rain-640.webp 640w, /images/posts/kurama-gate-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The Niomon on a rainy day">
+<figcaption>The Niomon on a rainy day, with visitors under umbrellas. It conveys the quiet mood of a mountain temple. Photo: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375714" rel="noopener" target="_blank">Kurofune</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(resized)</figcaption>
+</figure>
 
 ## <span id="benefit"></span>Spiritual Benefits
 
@@ -83,11 +98,31 @@ Kurama-dera Temple's principal deity, **"Sonten,"** represents a unique faith wh
 
 > **Note**: Religious and mystical interpretations are discussed within the context of faith.
 
+<figure class="photo">
+<img src="/images/posts/kurama-tiger-1200.webp" srcset="/images/posts/kurama-tiger-640.webp 640w, /images/posts/kurama-tiger-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A tiger statue before the main hall">
+<figcaption>A tiger statue sits before the Main Hall. Tigers are regarded as messengers of Bishamonten, and are seen all around the temple. Photo: <a href="https://commons.wikimedia.org/wiki/File:Tiger_by_honden_-_Kurama-dera_-_Kyoto_-_DSC06659.jpeg" rel="noopener" target="_blank">Daderot</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a>(resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-benzaiten-1200.webp" srcset="/images/posts/kurama-benzaiten-640.webp 640w, /images/posts/kurama-benzaiten-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Tatsumi no Benzaiten">
+<figcaption>A small vermilion shrine called Tatsumi no Benzaiten stands on the grounds, with the temple crest on its white curtain. Photo: <a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_Tatsumino_benzaiten.jpg" rel="noopener" target="_blank">KENPEI</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(resized) (shared under the same license)</figcaption>
+</figure>
+
 ## <span id="kongoshou"></span>The Kongo-sho in Front of the Main Hall
 
 The stone pavement **"Kongo-sho"** in front of the main hall is a **circular energy spot adorned with a hexagram.** It's a signature sight at Kurama-dera, where visitors stand in the center, take a deep breath, and **spread their arms to receive cosmic energy.**
 
 The Kongo-sho is considered **"the place where Sonten descends,"** and it's believed that any wish made here will reach the cosmos. If it's crowded, you might have to wait your turn, so please be considerate and share the space in the center.
+
+<figure class="photo">
+<img src="/images/posts/kurama-mainhall-1200.webp" srcset="/images/posts/kurama-mainhall-640.webp 640w, /images/posts/kurama-mainhall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Main Hall and the Kongo-sho">
+<figcaption>The Main Hall and the Kongo-sho, the circular stone pavement before it, regarded as the place where Sonten descends. Photo: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/58151336" rel="noopener" target="_blank">Nankou Oronain</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-hondenkondo-1200.webp" srcset="/images/posts/kurama-hondenkondo-640.webp 640w, /images/posts/kurama-hondenkondo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Main Hall among cherry blossoms">
+<figcaption>The Main Hall in spring, with cherry trees in bloom against the mountain behind it. Photo: <a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_hondenkondo2.jpg" rel="noopener" target="_blank">KENPEI</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a>(resized) (shared under the same license)</figcaption>
+</figure>
 
 ## <span id="yoshitsune"></span>The Tree Root Path and the Legend of Ushiwakamaru
 
@@ -95,11 +130,31 @@ Midway along the path from the main hall to Okunoin, you'll find a famous spot c
 
 As you walk among the roots, you'll need to focus due to the uneven ground, allowing you to relive the experience of Heian-period ascetics. The legend of **"Kurama Tengu,"** where Ushiwakamaru was taught swordsmanship by a Tengu (a mythical mountain spirit), also unfolds on this very mountain.
 
+<figure class="photo">
+<img src="/images/posts/kurama-yoshitoshi-1200.webp" srcset="/images/posts/kurama-yoshitoshi-640.webp 640w, /images/posts/kurama-yoshitoshi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="902" loading="lazy" decoding="async" alt="Ukiyo-e of Shanao and the great tengu">
+<figcaption>A print by Yoshitoshi Tsukioka of Shanao (the young Ushiwakamaru) and the great tengu Sojobo of Kurama-dera, training in swordsmanship on the mountain at night. Photo: <a href="https://commons.wikimedia.org/wiki/File:Yoshitoshi_Sojobo_Instructs_Yoshitsune_in_the_Sword.jpg" rel="noopener" target="_blank">Yoshitoshi Tsukioka</a> / Wikimedia Commons, Public domain(photographic reproduction of an ukiyo-e print)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-tengu-1200.webp" srcset="/images/posts/kurama-tengu-640.webp 640w, /images/posts/kurama-tengu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1798" loading="lazy" decoding="async" alt="A giant tengu face">
+<figcaption>A giant red tengu face near the entrance to Kurama, showing why the area is called the "town of tengu." Photo: <a href="https://commons.wikimedia.org/wiki/File:Kyoto_20190906_(48885568086).jpg" rel="noopener" target="_blank">Maarten Heerlien</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a>(resized)</figcaption>
+</figure>
+
 ## <span id="okunoin"></span>Okunoin Maoden (Inner Sanctuary and Demon King's Hall)
 
 Continuing further along the mountain path from the main hall, you'll reach the **"Okunoin Maoden (Inner Sanctuary and Demon King's Hall)."** It's about a 30-40 minute walk from the main hall, said to be the spot where **Goho Maoson** descended, with a small hall built upon bedrock. Fewer people visit here than the main hall, allowing you to experience a unique tranquility and mystical atmosphere.
 
 From Okunoin, a **traverse route** over the ridge leads to **Kifune Shrine,** taking about 30 minutes one way. This is a popular route for visiting both Kurama-dera Temple and Kifune Shrine in a single trip.
+
+<figure class="photo">
+<img src="/images/posts/kurama-stairs-1200.webp" srcset="/images/posts/kurama-stairs-640.webp 640w, /images/posts/kurama-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="Steps lined with vermilion lanterns">
+<figcaption>Stone steps lined on both sides with vermilion lanterns. The higher you climb the mountain slope, the deeper the quiet becomes. Photo: <a href="https://commons.wikimedia.org/wiki/File:Kurama-Dera_(Kyoto_Sakyo-ku)_Temple_hdsr_S5_25.jpg" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a>(resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-pagoda-1200.webp" srcset="/images/posts/kurama-pagoda-640.webp 640w, /images/posts/kurama-pagoda-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A vermilion pagoda among the trees">
+<figcaption>A vermilion pagoda stands among the trees, with stone lanterns and vermilion lanterns in front. Photo: <a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375743" rel="noopener" target="_blank">Kurofune</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(resized)</figcaption>
+</figure>
 
 ## <span id="point"></span>Visiting Tips
 
@@ -109,6 +164,16 @@ From Okunoin, a **traverse route** over the ridge leads to **Kifune Shrine,** ta
 - You can traverse over the ridge to Kifune Shrine (about 30 minutes).
 - Insect repellent and comfortable walking shoes are essential for the mountain paths.
 
+<figure class="photo">
+<img src="/images/posts/kurama-view-1200.webp" srcset="/images/posts/kurama-view-640.webp 640w, /images/posts/kurama-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="Mountain view from the grounds">
+<figcaption>Mountains seen from the temple grounds. The vermilion railing contrasts beautifully with the blue sky. Photo: <a href="https://commons.wikimedia.org/wiki/File:View_from_Kurama-dera_grounds_(48885055523).jpg" rel="noopener" target="_blank">Maarten Heerlien</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a>(resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-trees-1200.webp" srcset="/images/posts/kurama-trees-640.webp 640w, /images/posts/kurama-trees-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Mountain view from the railing">
+<figcaption>A view over the mountains from beside the vermilion railing. There are benches for a short rest. Photo: <a href="https://commons.wikimedia.org/wiki/File:Trees_-_Kurama-dera_-_Kyoto_-_DSC06694.jpeg" rel="noopener" target="_blank">Daderot</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a>(resized)</figcaption>
+</figure>
+
 ## <span id="access"></span>Access
 
 By Train: Take the **Eizan Electric Railway Kurama Line to "Kurama Station,"** then it's about a 5-minute walk to Niomon Gate. From there, it's another 30-minute walk up the mountain path to the main hall.
@@ -116,6 +181,11 @@ By Train: Take the **Eizan Electric Railway Kurama Line to "Kurama Station,"** t
 By Cable Car: From Niomon Gate, take the **Kurama-dera Cable Car** to Tahoto Station (2 minutes, 200 yen one way).
 
 **Parking**: There's very little parking available, so using the Eizan Electric Railway is highly recommended.
+
+<figure class="photo">
+<img src="/images/posts/kurama-funicular-1200.webp" srcset="/images/posts/kurama-funicular-640.webp 640w, /images/posts/kurama-funicular-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Mount Kurama cable car">
+<figcaption>The Mount Kurama cable railway. The car is decorated with an illustration of Ushiwakamaru. Photo: <a href="https://commons.wikimedia.org/wiki/File:Kurama_funicular.jpg" rel="noopener" target="_blank">Bruno Plus</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a>(resized)</figcaption>
+</figure>
 
 ## <span id="stones"></span>Recommended Crystals
 

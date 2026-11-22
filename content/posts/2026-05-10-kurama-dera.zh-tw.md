@@ -17,6 +17,11 @@ draft: false
 
 鞍馬寺，是建於京都市北部 **鞍馬山**（海拔569公尺）的古老寺院。被譽為**「宇宙能量降臨之地」「魔王尊降臨的靈山」**，是日本數一數二的能量景點，全國知名。本殿金堂前的 **「金剛床（こんごうしょう）」** 是**畫有六芒星的石板地**，相傳站在正中央便能接收宇宙之氣，是每位參拜者必定造訪的景點。此外，這裡也是**牛若丸（源義經）修行的山**，通往奧之院的參道充滿神秘氣息。本文將**歷史・尊天信仰・金剛床・木根道・常見問題・編輯後記**整理於這一頁之中。
 
+<figure class="photo">
+<img src="/images/posts/kurama-gate-blue-1200.webp" srcset="/images/posts/kurama-gate-blue-640.webp 640w, /images/posts/kurama-gate-blue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="鞍馬寺的仁王門">
+<figcaption>鞍馬山入口的仁王門。朱紅色的山門在藍天與新綠的襯托下格外醒目。 照片：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/5914781" rel="noopener" target="_blank">ccfarmer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## 目錄
 
 - [基本資訊・寺院資料](#basic)
@@ -49,6 +54,11 @@ draft: false
 | 海拔 | 約569公尺（鞍馬山） |
 | 官方網站 | https://www.kuramadera.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/kurama-sando-1200.webp" srcset="/images/posts/kurama-sando-640.webp 640w, /images/posts/kurama-sando-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="通往仁王門的石階">
+<figcaption>通往山門的石階，兩側排列著朱紅色燈籠，讓人感受到參拜的開始。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_sando.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 ## <span id="history"></span>歷史與由來
 
 鞍馬寺的創建相傳於 **770年（寶龜元年）**，由鑑真的高徒 **鑑禎上人** 在鞍馬山供奉毘沙門天開始。後來 **藤原伊勢人** 又合祀了觀音菩薩，成為守護平安京北方的**「王城鎮護的北方守護」**，受到歷代天皇的崇敬。
@@ -56,6 +66,11 @@ draft: false
 平安時代末期，牛若丸（後來的 **源義經**）從7歲起便被送到此地修行，據傳在此學習劍術的故事廣為人知。直到江戶時代為止，鞍馬寺原屬天台宗，但**於1949年開創鞍馬弘教**，如今已獨立為**鞍馬弘教總本山**。**1947年，在大本教出口王仁三郎等人的影響下，「尊天信仰」**被整理成現今的形式，從此作為宇宙性・靈性的能量景點，吸引全國各地的參拜者。
 
 > 出處：鞍馬寺官方資料、各類京都・平安時代史料。
+
+<figure class="photo">
+<img src="/images/posts/kurama-gate-rain-1200.webp" srcset="/images/posts/kurama-gate-rain-640.webp 640w, /images/posts/kurama-gate-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雨天的仁王門">
+<figcaption>雨天的仁王門，撐著傘的人們來來往往，傳達出安靜山寺的氛圍。 照片：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375714" rel="noopener" target="_blank">Kurofune</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="benefit"></span>御利益
 
@@ -79,11 +94,31 @@ draft: false
 
 > **注意**：宗教性・神秘性的解釋，皆屬於信仰層面的詮釋。
 
+<figure class="photo">
+<img src="/images/posts/kurama-tiger-1200.webp" srcset="/images/posts/kurama-tiger-640.webp 640w, /images/posts/kurama-tiger-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="本殿金堂前的虎像">
+<figcaption>坐在本殿金堂前的虎像。老虎被視為毘沙門天的使者，寺內隨處可見。 照片：<a href="https://commons.wikimedia.org/wiki/File:Tiger_by_honden_-_Kurama-dera_-_Kyoto_-_DSC06659.jpeg" rel="noopener" target="_blank">Daderot</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-tw" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-benzaiten-1200.webp" srcset="/images/posts/kurama-benzaiten-640.webp 640w, /images/posts/kurama-benzaiten-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="巽之弁財天">
+<figcaption>境內一角的朱紅色小祠「巽之弁財天」，白色布幕上印有寺院的紋章。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_Tatsumino_benzaiten.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 ## <span id="kongoshou"></span>本殿金堂前的金剛床
 
 本殿金堂前的石板地 **「金剛床（こんごうしょう）」**，是**畫有六芒星的圓形能量景點**。站在正中央深呼吸、**張開雙手接收宇宙能量**的參拜者身影，已成為鞍馬寺的經典畫面。
 
 金剛床被定位為**「尊天降臨之處」**，相傳在此許願，願望便能傳達至宇宙。人多時可能需要排隊等候，請互相禮讓，輪流站在中央。
+
+<figure class="photo">
+<img src="/images/posts/kurama-mainhall-1200.webp" srcset="/images/posts/kurama-mainhall-640.webp 640w, /images/posts/kurama-mainhall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="本殿金堂與金剛床">
+<figcaption>本殿金堂與前方的金剛床。圓形石板地被視為尊天降臨之處。 照片：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/58151336" rel="noopener" target="_blank">Nankou Oronain</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-hondenkondo-1200.webp" srcset="/images/posts/kurama-hondenkondo-640.webp 640w, /images/posts/kurama-hondenkondo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="櫻花與本殿金堂">
+<figcaption>櫻花盛開的春季本殿金堂，背倚山林，氣勢莊嚴。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_hondenkondo2.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
 
 ## <span id="yoshitsune"></span>木根道與牛若丸傳說
 
@@ -91,11 +126,31 @@ draft: false
 
 實際走在樹根之間，腳下的不穩定感會要求高度的專注力，彷彿能重新體驗平安時代修行者的感受。牛若丸向天狗學習劍術的**「鞍馬天狗」**傳說，舞台也同樣設在這座山上。
 
+<figure class="photo">
+<img src="/images/posts/kurama-yoshitoshi-1200.webp" srcset="/images/posts/kurama-yoshitoshi-640.webp 640w, /images/posts/kurama-yoshitoshi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="902" loading="lazy" decoding="async" alt="遮那王與大天狗的浮世繪">
+<figcaption>月岡芳年描繪遮那王（牛若丸）與鞍馬寺大天狗正房的浮世繪，畫的是夜間在山中學習劍術的場景。 照片：<a href="https://commons.wikimedia.org/wiki/File:Yoshitoshi_Sojobo_Instructs_Yoshitsune_in_the_Sword.jpg" rel="noopener" target="_blank">Yoshitoshi Tsukioka</a>／Wikimedia Commons、公有領域（浮世繪的攝影複製）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-tengu-1200.webp" srcset="/images/posts/kurama-tengu-640.webp 640w, /images/posts/kurama-tengu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1798" loading="lazy" decoding="async" alt="巨大的天狗面">
+<figcaption>擺放在鞍馬入口附近的紅色巨大天狗面，說明了鞍馬為何被稱為「天狗之町」。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kyoto_20190906_(48885568086).jpg" rel="noopener" target="_blank">Maarten Heerlien</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## <span id="okunoin"></span>奧之院・魔王殿
 
 從本殿再沿山路前行，便能到達**「奧之院・魔王殿」**。從本殿步行約30〜40分鐘，相傳是 **護法魔王尊** 降臨之地，岩盤上建有一座小小的佛堂。這裡遊客比本殿少得多，能體驗到獨特的靜謐與神秘氛圍。
 
 從奧之院到 **貴船神社** 之間，有整備完善的翻越山稜 **縱走路線**，單程約30分鐘。這是能一次參拜鞍馬寺與貴船神社的熱門路線。
+
+<figure class="photo">
+<img src="/images/posts/kurama-stairs-1200.webp" srcset="/images/posts/kurama-stairs-640.webp 640w, /images/posts/kurama-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="朱紅色燈籠並列的石階">
+<figcaption>兩側排列著朱紅色燈籠的石階。越往山坡上走，寧靜感越深。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kurama-Dera_(Kyoto_Sakyo-ku)_Temple_hdsr_S5_25.jpg" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-pagoda-1200.webp" srcset="/images/posts/kurama-pagoda-640.webp 640w, /images/posts/kurama-pagoda-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="樹林間的朱紅色塔">
+<figcaption>佇立在樹林間的朱紅色塔，前方排列著石燈籠與朱紅色燈籠。 照片：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375743" rel="noopener" target="_blank">Kurofune</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="point"></span>參拜重點
 
@@ -105,6 +160,16 @@ draft: false
 - 可翻越山稜縱走至貴船神社（約30分鐘）
 - 山中務必攜帶防蟲用品、穿著好走的鞋子
 
+<figure class="photo">
+<img src="/images/posts/kurama-view-1200.webp" srcset="/images/posts/kurama-view-640.webp 640w, /images/posts/kurama-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="從境內遠眺山巒">
+<figcaption>從境內遠眺鞍馬的群山。朱紅色欄杆與藍天形成鮮明對比。 照片：<a href="https://commons.wikimedia.org/wiki/File:View_from_Kurama-dera_grounds_(48885055523).jpg" rel="noopener" target="_blank">Maarten Heerlien</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-trees-1200.webp" srcset="/images/posts/kurama-trees-640.webp 640w, /images/posts/kurama-trees-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="朱紅色欄杆旁的山景">
+<figcaption>從朱紅色欄杆旁眺望的山景，也設有長椅可以稍作休息。 照片：<a href="https://commons.wikimedia.org/wiki/File:Trees_-_Kurama-dera_-_Kyoto_-_DSC06694.jpeg" rel="noopener" target="_blank">Daderot</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-tw" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ## <span id="access"></span>交通方式
 
 電車：**叡山電鐵鞍馬線「鞍馬站」**下車，步行約5分鐘可達仁王門。再往本殿需步行山路約30分鐘。
@@ -112,6 +177,11 @@ draft: false
 空中纜車：從仁王門可搭乘 **鞍馬山空中纜車** 前往多寶塔站（單程2分鐘・200日圓）。
 
 **停車場**：幾乎沒有，建議搭乘叡山電鐵前往。
+
+<figure class="photo">
+<img src="/images/posts/kurama-funicular-1200.webp" srcset="/images/posts/kurama-funicular-640.webp 640w, /images/posts/kurama-funicular-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="鞍馬山纜車">
+<figcaption>鞍馬山鋼索鐵道，車身繪有牛若丸的圖案。 照片：<a href="https://commons.wikimedia.org/wiki/File:Kurama_funicular.jpg" rel="noopener" target="_blank">Bruno Plus</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="stones"></span>推薦的能量石
 

@@ -17,6 +17,11 @@ draft: false
 
 鞍馬寺は、京都市北部の **鞍馬山**（標高569m）に建つ古刹。**「宇宙のエネルギーが降臨する地」「魔王尊が降り立った霊山」** として、日本有数のパワースポットとして全国に名を馳せます。本殿金堂前の **「金剛床（こんごうしょう）」** は **六芒星が描かれた石畳** で、中央に立つと宇宙の気を受け取れるとされ、訪れる人の必ず立ち寄るスポットです。さらに、**牛若丸（源義経）が修行した山** としても知られ、奥の院までの参道は神秘性に満ちています。本記事では **歴史・尊天信仰・金剛床・木の根道・FAQ・編集後記** を1ページにまとめます。
 
+<figure class="photo">
+<img src="/images/posts/kurama-gate-blue-1200.webp" srcset="/images/posts/kurama-gate-blue-640.webp 640w, /images/posts/kurama-gate-blue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="鞍馬寺の仁王門">
+<figcaption>鞍馬山の入口に立つ仁王門。青空と新緑に、朱色の門が映えます。 写真：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/5914781" rel="noopener" target="_blank">ccfarmer</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## 目次
 
 - [基本情報・寺院データ](#basic)
@@ -49,6 +54,11 @@ draft: false
 | 標高 | 約569m（鞍馬山） |
 | 公式サイト | https://www.kuramadera.or.jp |
 
+<figure class="photo">
+<img src="/images/posts/kurama-sando-1200.webp" srcset="/images/posts/kurama-sando-640.webp 640w, /images/posts/kurama-sando-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="参道の石段と仁王門">
+<figcaption>仁王門へ続く石段。両側に朱色の灯籠が並び、参拝の始まりを感じます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_sando.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="history"></span>歴史と由緒
 
 鞍馬寺の創建は **770年（宝亀元年）**、鑑真の高弟 **鑑禎上人** が鞍馬山に毘沙門天を祀ったのが起源とされます。後に **藤原伊勢人** が観音菩薩を合祀し、平安京の北を護る **「王城鎮護の北方守護」** として歴代天皇の崇敬を集めました。
@@ -56,6 +66,11 @@ draft: false
 平安末期には牛若丸（後の **源義経**）が7歳から預けられて修行し、ここで剣術を学んだという伝承が広く知られています。江戸時代までは天台宗に属していましたが、**1949年に鞍馬弘教を立教** し、現在は **鞍馬弘教総本山** として独立しています。**1947年に大本教の出口王仁三郎ら影響下で「尊天信仰」** が現在の形に整えられ、宇宙的・霊的なパワースポットとして全国から参拝者を集めるようになりました。
 
 > 出典: 鞍馬寺公式資料、各種京都・平安史料。
+
+<figure class="photo">
+<img src="/images/posts/kurama-gate-rain-1200.webp" srcset="/images/posts/kurama-gate-rain-640.webp 640w, /images/posts/kurama-gate-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雨の日の仁王門">
+<figcaption>雨の日の仁王門。傘の人が行き交う、静かな山の寺の雰囲気が伝わります。 写真：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375714" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="benefit"></span>ご利益
 
@@ -79,11 +94,31 @@ draft: false
 
 > **注意**：宗教的・神秘的な解釈は信仰の文脈で語られるものです。
 
+<figure class="photo">
+<img src="/images/posts/kurama-tiger-1200.webp" srcset="/images/posts/kurama-tiger-640.webp 640w, /images/posts/kurama-tiger-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="本殿金堂前の虎の像">
+<figcaption>本殿金堂の前に座る虎の像。毘沙門天の使いとされ、寺ではよく見かけます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Tiger_by_honden_-_Kurama-dera_-_Kyoto_-_DSC06659.jpeg" rel="noopener" target="_blank">Daderot</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-benzaiten-1200.webp" srcset="/images/posts/kurama-benzaiten-640.webp 640w, /images/posts/kurama-benzaiten-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="巽の弁財天">
+<figcaption>境内の一角にある、朱色の小さな社「巽の弁財天」。白い幕に寺の紋が入っています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_Tatsumino_benzaiten.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="kongoshou"></span>本殿金堂前の金剛床
 
 本殿金堂前の石畳 **「金剛床（こんごうしょう）」** は、**六芒星が描かれた円形のエネルギースポット**。中央に立って深呼吸し、**両手を広げて宇宙のエネルギーを受け取る** ポーズを取る参拝者の姿が、鞍馬寺の名物風景となっています。
 
 金剛床は **「尊天が降臨する場」** と位置付けられ、ここで願をかけると願いが宇宙に届くと伝わります。混雑時は順番待ちの場合もあるので、譲り合って中央に立ちます。
+
+<figure class="photo">
+<img src="/images/posts/kurama-mainhall-1200.webp" srcset="/images/posts/kurama-mainhall-640.webp 640w, /images/posts/kurama-mainhall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="本殿金堂と金剛床">
+<figcaption>本殿金堂と、その前に広がる金剛床。円形の石畳が、尊天が降臨する場とされています。 写真：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/58151336" rel="noopener" target="_blank">Nankou Oronain</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-hondenkondo-1200.webp" srcset="/images/posts/kurama-hondenkondo-640.webp 640w, /images/posts/kurama-hondenkondo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="桜と本殿金堂">
+<figcaption>桜が咲く春の本殿金堂。山を背にした、堂々とした姿です。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kurama-dera_hondenkondo2.jpg" rel="noopener" target="_blank">KENPEI</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
 
 ## <span id="yoshitsune"></span>木の根道と牛若丸伝説
 
@@ -91,11 +126,31 @@ draft: false
 
 実際に木の根の間を歩くと、足元の不安定さに集中力を求められ、平安時代の修行者の感覚を追体験できます。牛若丸が天狗から剣術を教わったという **「鞍馬天狗」** の伝説もこの山を舞台にしています。
 
+<figure class="photo">
+<img src="/images/posts/kurama-yoshitoshi-1200.webp" srcset="/images/posts/kurama-yoshitoshi-640.webp 640w, /images/posts/kurama-yoshitoshi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="902" loading="lazy" decoding="async" alt="遮那王と大天狗の浮世絵">
+<figcaption>月岡芳年が描いた、遮那王（牛若丸）と鞍馬寺の大天狗正房。夜の山で剣術を教わる場面です。 写真：<a href="https://commons.wikimedia.org/wiki/File:Yoshitoshi_Sojobo_Instructs_Yoshitsune_in_the_Sword.jpg" rel="noopener" target="_blank">月岡芳年</a>／Wikimedia Commons、パブリックドメイン（浮世絵の写真複製）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-tengu-1200.webp" srcset="/images/posts/kurama-tengu-640.webp 640w, /images/posts/kurama-tengu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1798" loading="lazy" decoding="async" alt="天狗の大きな顔">
+<figcaption>鞍馬の入口付近に置かれた、赤い天狗の大きな顔。鞍馬が「天狗の町」と呼ばれる理由が伝わります。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kyoto_20190906_(48885568086).jpg" rel="noopener" target="_blank">Maarten Heerlien</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## <span id="okunoin"></span>奥の院・魔王殿
 
 本殿からさらに山道を進むと、**「奥の院・魔王殿」** に到達します。本殿から徒歩約30〜40分、**護法魔王尊** が降臨したとされる地で、岩盤の上に小さなお堂が建っています。本殿よりも訪れる人が少なく、独特の静寂と神秘的な空気を体感できます。
 
 奥の院から **貴船神社** までは尾根越えの **縦走ルート** が整備されており、片道約30分。鞍馬寺と貴船神社を一度に参拝する人気のルートです。
+
+<figure class="photo">
+<img src="/images/posts/kurama-stairs-1200.webp" srcset="/images/posts/kurama-stairs-640.webp 640w, /images/posts/kurama-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="朱色の灯籠が並ぶ石段">
+<figcaption>朱色の灯籠が両側に続く石段。山の斜面を登るほど、静けさが深まります。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kurama-Dera_(Kyoto_Sakyo-ku)_Temple_hdsr_S5_25.jpg" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-pagoda-1200.webp" srcset="/images/posts/kurama-pagoda-640.webp 640w, /images/posts/kurama-pagoda-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="朱色の塔と石灯籠">
+<figcaption>木々に囲まれてたたずむ朱色の塔。手前には石灯籠と朱色の灯籠が並びます。 写真：<a href="https://web.archive.org/web/2016/http://www.panoramio.com/photo/17375743" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="point"></span>参拝のポイント
 
@@ -105,6 +160,16 @@ draft: false
 - 貴船神社まで尾根越えで縦走可（約30分）
 - 山中は虫除け・歩きやすい靴を必須
 
+<figure class="photo">
+<img src="/images/posts/kurama-view-1200.webp" srcset="/images/posts/kurama-view-640.webp 640w, /images/posts/kurama-view-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="境内から望む山々">
+<figcaption>境内から望む鞍馬の山々。朱色の欄干と、青空の対比が印象的です。 写真：<a href="https://commons.wikimedia.org/wiki/File:View_from_Kurama-dera_grounds_(48885055523).jpg" rel="noopener" target="_blank">Maarten Heerlien</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/kurama-trees-1200.webp" srcset="/images/posts/kurama-trees-640.webp 640w, /images/posts/kurama-trees-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="朱色の欄干と山の景色">
+<figcaption>朱色の欄干のそばから見渡す山の景色。ベンチもあり、ひと休みできます。 写真：<a href="https://commons.wikimedia.org/wiki/File:Trees_-_Kurama-dera_-_Kyoto_-_DSC06694.jpeg" rel="noopener" target="_blank">Daderot</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ## <span id="access"></span>アクセス
 
 電車：**叡山電鉄鞍馬線「鞍馬駅」** 下車徒歩約5分で仁王門。本殿までさらに山道徒歩約30分。
@@ -112,6 +177,11 @@ draft: false
 ケーブルカー：仁王門から **鞍馬山ケーブルカー** で多宝塔駅へ（片道2分・200円）。
 
 **駐車場**：ほぼ無く、叡山電鉄の利用が推奨。
+
+<figure class="photo">
+<img src="/images/posts/kurama-funicular-1200.webp" srcset="/images/posts/kurama-funicular-640.webp 640w, /images/posts/kurama-funicular-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="鞍馬山ケーブル">
+<figcaption>山門駅から多宝塔駅まで結ぶ鞍馬山鋼索鉄道。車体には牛若丸が描かれています。 写真：<a href="https://commons.wikimedia.org/wiki/File:Kurama_funicular.jpg" rel="noopener" target="_blank">ブルーノ・プラス</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 ## <span id="stones"></span>おすすめのパワーストーン
 
