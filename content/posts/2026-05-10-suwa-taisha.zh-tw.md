@@ -21,6 +21,7 @@ draft: false
 - [4社各自的特色](#fourshrines)
 - [關於御柱祭](#onbashira)
 - [看點](#highlight)
+- [用照片走訪上社本宮的境內](#honmiya)
 - [參拜重點](#point)
 - [交通方式](#access)
 - [推薦的能量石](#stones)
@@ -84,6 +85,110 @@ draft: false
 - **下社秋宮的根入杉**（樹齡約800年）
 - **下社春宮的萬治石佛**（獨特的樣貌深受喜愛）
 - **神樂殿的大注連繩**（下社）
+
+## <span id="honmiya"></span>用照片走訪上社本宮的境內
+
+上社本宮是4社中境內最寬廣的一座，鳥居、布橋、四腳門、拜所與拜殿等看點接連出現。以下用照片介紹境內的樣貌。
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-otorii-1200.webp" srcset="/images/posts/suwa-kamisha-otorii-640.webp 640w, /images/posts/suwa-kamisha-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="793" loading="lazy" decoding="async" alt="上社本宮入口的石造大鳥居">
+<figcaption>上社本宮入口的石造大鳥居。左側立有神社石碑，參道盡頭可見石階。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_otorii.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-big-torii-800.webp" srcset="/images/posts/suwa-kamisha-big-torii-480.webp 480w, /images/posts/suwa-kamisha-big-torii-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1067" loading="lazy" decoding="async" alt="掛著粗大注連繩的大鳥居">
+<figcaption>掛著粗大注連繩的大鳥居。後方可見門樓，陽光從樹木間灑落。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa_Taisha_Kamisha_Honmiya_Big_Torii.jpg" rel="noopener" target="_blank">Immanuelle</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-myojinyu-1200.webp" srcset="/images/posts/suwa-kamisha-myojinyu-640.webp 640w, /images/posts/suwa-kamisha-myojinyu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="獅子口吐水的手水「明神湯」">
+<figcaption>從石獅口中注水的手水。告示牌寫著，此處相傳與諏訪明神有淵源，是諏訪溫泉之源。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-dragon-temizu-1200.webp" srcset="/images/posts/suwa-kamisha-dragon-temizu-640.webp 640w, /images/posts/suwa-kamisha-dragon-temizu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="龍像吐水的手水">
+<figcaption>青銅龍口中流出清水的手水。長滿青苔的邊緣與竹柵欄，襯托出境內的氛圍。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-entrance-gomon-1200.webp" srcset="/images/posts/suwa-kamisha-entrance-gomon-640.webp 640w, /images/posts/suwa-kamisha-entrance-gomon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="通往布橋的入口御門">
+<figcaption>通往布橋的入口御門。兩側立有石燈籠，後方是有屋頂的迴廊。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-nunobashi-1200.webp" srcset="/images/posts/suwa-kamisha-nunobashi-640.webp 640w, /images/posts/suwa-kamisha-nunobashi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="793" loading="lazy" decoding="async" alt="杉林旁延伸的布橋">
+<figcaption>杉林旁長長延伸的有頂迴廊「布橋」，是上社本宮的看點之一。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_nunobashi.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-nunobashi-inside-800.webp" srcset="/images/posts/suwa-kamisha-nunobashi-inside-480.webp 480w, /images/posts/suwa-kamisha-nunobashi-inside-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1067" loading="lazy" decoding="async" alt="布橋內部">
+<figcaption>布橋的內部。木地板與柱子一路筆直延伸，視線被引向深處。 照片：<a href="https://commons.wikimedia.org/wiki/File:Nunobashi_Suwa_Taisha_Kamisha_Honmiya_corridor.jpg" rel="noopener" target="_blank">Immanuelle</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shikyakumon-1200.webp" srcset="/images/posts/suwa-kamisha-shikyakumon-640.webp 640w, /images/posts/suwa-kamisha-shikyakumon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="四腳門">
+<figcaption>從正面看到的四腳門。木格子門與微微翹起的屋簷曲線令人印象深刻。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shikyakumon.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shikyakumon-2-1200.webp" srcset="/images/posts/suwa-kamisha-shikyakumon-2-640.webp 640w, /images/posts/suwa-kamisha-shikyakumon-2-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="隔著樹枝望見的四腳門">
+<figcaption>隔著伸展的樹枝望向四腳門，木色在綠意中格外鮮明。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shikyakumon-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-carving-1200.webp" srcset="/images/posts/suwa-kamisha-carving-640.webp 640w, /images/posts/suwa-kamisha-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="樑柱周圍的雕刻">
+<figcaption>樑柱周圍的雕刻，細緻刻出彷彿龍與鳥的圖案。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haisho-garden-1200.webp" srcset="/images/posts/suwa-kamisha-haisho-garden-640.webp 640w, /images/posts/suwa-kamisha-haisho-garden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="拜所前方開闊的境內">
+<figcaption>拜所前方開闊的境內，右側可見繪馬架。拍攝時周圍正在施工。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haisho-1200.webp" srcset="/images/posts/suwa-kamisha-haisho-640.webp 640w, /images/posts/suwa-kamisha-haisho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="794" loading="lazy" decoding="async" alt="拜所">
+<figcaption>從正面看到的拜所。垂掛著白底紋章的帷幕，參拜者在此合掌祈禱。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haisho.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-ema-horse-1200.webp" srcset="/images/posts/suwa-kamisha-ema-horse-640.webp 640w, /images/posts/suwa-kamisha-ema-horse-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="馬的大繪馬">
+<figcaption>掛在天花板附近的大繪馬，可見「奉獻」二字與馬的浮雕。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-front-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-front-640.webp 640w, /images/posts/suwa-kamisha-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="金色裝飾耀眼的拜殿">
+<figcaption>從正面看到的拜殿。弧形唐破風與金色飾件，在綠色森林的襯托下格外醒目。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haiden-1.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-angle-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-angle-640.webp 640w, /images/posts/suwa-kamisha-haiden-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="783" loading="lazy" decoding="async" alt="斜角看到的拜殿">
+<figcaption>從斜角看到的拜殿，可感受石板廣場，以及柱子與雕刻的立體感。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haiden-3.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-chokushiden-1200.webp" srcset="/images/posts/suwa-kamisha-chokushiden-640.webp 640w, /images/posts/suwa-kamisha-chokushiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="勅使殿與五間廊">
+<figcaption>勅使殿與五間廊。在樹木環繞的寧靜一角，並排著沉穩的木造建築。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_chokushiden_and_gokenrou.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-chokuganden-1200.webp" srcset="/images/posts/suwa-kamisha-chokuganden-640.webp 640w, /images/posts/suwa-kamisha-chokuganden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="勅願殿">
+<figcaption>樹木環繞的勅願殿，建於石階之上，旁邊設有說明牌。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_chokuganden.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-okuninushi-1200.webp" srcset="/images/posts/suwa-kamisha-okuninushi-640.webp 640w, /images/posts/suwa-kamisha-okuninushi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="大國主社">
+<figcaption>掛有「大國主社」匾額的小社。說明牌提到，建御名方神被記載為大國主命的第二子。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_Okuninushi-sha.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shinmesha-1200.webp" srcset="/images/posts/suwa-kamisha-shinmesha-640.webp 640w, /images/posts/suwa-kamisha-shinmesha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="792" loading="lazy" decoding="async" alt="神馬舍">
+<figcaption>建於大古木旁的神馬舍，被石燈籠與樹林環繞，氣氛寧靜。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shinmesha.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="御沓石">
+<figcaption>長滿青苔與蕨類的大石上拉著注連繩與紙垂，稱為「御沓石」。與石燈籠一同，傳達出境內的寧靜。 照片：<a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="point"></span>參拜重點
 

@@ -25,6 +25,7 @@ Suwa Grand Shrine is Shinano Province's Ichinomiya (chief shrine of a province),
 - [Characteristics of Each of the Four Shrines](#fourshrines)
 - [About the Onbashira Festival](#onbashira)
 - [Highlights](#highlight)
+- [A Photo Walk Through Kamisha Honmiya](#honmiya)
 - [Key Points for Visiting](#point)
 - [Access](#access)
 - [Recommended Crystals](#stones)
@@ -88,6 +89,110 @@ The onbashira pillars are erected at the four corners of each shrine's precincts
 -   **Shimosha Akimiya's Neiri no Sugi** (Root-Sleeping Cedar, approx. 800 years old)
 -   **Shimosha Harumiya's Manji Stone Buddha** (popular for its unique appearance)
 -   **Kagura-den's Oshimenawa** (Grand Sacred Rope) (Shimosha)
+
+## <span id="honmiya"></span>A Photo Walk Through Kamisha Honmiya
+
+Kamisha Honmiya has the largest grounds of the four shrines, with torii, the Nunobashi corridor, the Shikyakumon gate, the Haisho and the Haiden along the way. Here is a look at the precincts in photos.
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-otorii-1200.webp" srcset="/images/posts/suwa-kamisha-otorii-640.webp 640w, /images/posts/suwa-kamisha-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="793" loading="lazy" decoding="async" alt="The stone torii at the Kamisha Honmiya entrance">
+<figcaption>The large stone torii at the entrance to Kamisha Honmiya. A stone marker for the shrine stands at the left, and a staircase lies beyond. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_otorii.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-big-torii-800.webp" srcset="/images/posts/suwa-kamisha-big-torii-480.webp 480w, /images/posts/suwa-kamisha-big-torii-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1067" loading="lazy" decoding="async" alt="A large torii with a thick shimenawa rope">
+<figcaption>A large torii hung with a thick shimenawa rope. A gate stands beyond, with sunlight filtering through the trees. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa_Taisha_Kamisha_Honmiya_Big_Torii.jpg" rel="noopener" target="_blank">Immanuelle</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-myojinyu-1200.webp" srcset="/images/posts/suwa-kamisha-myojinyu-640.webp 640w, /images/posts/suwa-kamisha-myojinyu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The Myojin-yu water basin with a stone lion">
+<figcaption>A water basin fed from the mouth of a stone lion. The sign explains that it is traditionally linked to the source of Suwa's hot springs. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-dragon-temizu-1200.webp" srcset="/images/posts/suwa-kamisha-dragon-temizu-640.webp 640w, /images/posts/suwa-kamisha-dragon-temizu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A dragon-shaped water basin">
+<figcaption>Water pours from the mouth of a bronze dragon. The mossy edge and bamboo fence suit the quiet atmosphere of the precincts. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-entrance-gomon-1200.webp" srcset="/images/posts/suwa-kamisha-entrance-gomon-640.webp 640w, /images/posts/suwa-kamisha-entrance-gomon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The entrance gate to Nunobashi">
+<figcaption>The gate at the entrance of the Nunobashi covered corridor, flanked by stone lanterns, with the corridor stretching beyond. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-nunobashi-1200.webp" srcset="/images/posts/suwa-kamisha-nunobashi-640.webp 640w, /images/posts/suwa-kamisha-nunobashi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="793" loading="lazy" decoding="async" alt="Nunobashi beside the cedar trees">
+<figcaption>The long covered corridor known as Nunobashi, beside the cedars. It is one of the highlights of Kamisha Honmiya. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_nunobashi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-nunobashi-inside-800.webp" srcset="/images/posts/suwa-kamisha-nunobashi-inside-480.webp 480w, /images/posts/suwa-kamisha-nunobashi-inside-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1067" loading="lazy" decoding="async" alt="Inside Nunobashi">
+<figcaption>Inside the corridor, wooden floors and pillars run in a straight line, drawing the eye toward the far end. Photo: <a href="https://commons.wikimedia.org/wiki/File:Nunobashi_Suwa_Taisha_Kamisha_Honmiya_corridor.jpg" rel="noopener" target="_blank">Immanuelle</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shikyakumon-1200.webp" srcset="/images/posts/suwa-kamisha-shikyakumon-640.webp 640w, /images/posts/suwa-kamisha-shikyakumon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="Shikyakumon gate">
+<figcaption>The four-legged gate seen from the front, with wooden lattice doors and a gently curved roof. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shikyakumon.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shikyakumon-2-1200.webp" srcset="/images/posts/suwa-kamisha-shikyakumon-2-640.webp 640w, /images/posts/suwa-kamisha-shikyakumon-2-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="Shikyakumon seen through a tree">
+<figcaption>The four-legged gate seen past a leafy branch, its wood standing out among the greenery. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shikyakumon-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-carving-1200.webp" srcset="/images/posts/suwa-kamisha-carving-640.webp 640w, /images/posts/suwa-kamisha-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Carvings on the beams">
+<figcaption>Carvings around the beams, with motifs that resemble a dragon and a bird, finely worked. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haisho-garden-1200.webp" srcset="/images/posts/suwa-kamisha-haisho-garden-640.webp 640w, /images/posts/suwa-kamisha-haisho-garden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The grounds in front of the Haisho">
+<figcaption>The grounds in front of the Haisho worship hall, with an ema rack at the right. Construction was under way around it when the photo was taken. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haisho-1200.webp" srcset="/images/posts/suwa-kamisha-haisho-640.webp 640w, /images/posts/suwa-kamisha-haisho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="794" loading="lazy" decoding="async" alt="The Haisho worship hall">
+<figcaption>The Haisho seen from the front, with a white curtain bearing the shrine crest. Visitors offer their prayers here. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haisho.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-ema-horse-1200.webp" srcset="/images/posts/suwa-kamisha-ema-horse-640.webp 640w, /images/posts/suwa-kamisha-ema-horse-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A large ema with a horse">
+<figcaption>A large ema plaque hung near the ceiling, showing a horse in relief along with the characters for "dedication". Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-front-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-front-640.webp 640w, /images/posts/suwa-kamisha-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="The Haiden with golden ornaments">
+<figcaption>The Haiden seen from the front. The curved gable and golden fittings stand out against the green forest. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haiden-1.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-angle-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-angle-640.webp 640w, /images/posts/suwa-kamisha-haiden-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="783" loading="lazy" decoding="async" alt="The Haiden from an angle">
+<figcaption>The Haiden from an oblique angle, showing the stone-paved courtyard and the depth of the pillars and carvings. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haiden-3.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-chokushiden-1200.webp" srcset="/images/posts/suwa-kamisha-chokushiden-640.webp 640w, /images/posts/suwa-kamisha-chokushiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="Chokushiden and Gokenro">
+<figcaption>The Chokushiden and the Gokenro, calm wooden buildings in a quiet corner surrounded by trees. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_chokushiden_and_gokenrou.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-chokuganden-1200.webp" srcset="/images/posts/suwa-kamisha-chokuganden-640.webp 640w, /images/posts/suwa-kamisha-chokuganden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Chokuganden">
+<figcaption>The Chokuganden among the trees, standing atop stone steps with an information sign beside it. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_chokuganden.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-okuninushi-1200.webp" srcset="/images/posts/suwa-kamisha-okuninushi-640.webp 640w, /images/posts/suwa-kamisha-okuninushi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Okuninushi-sha">
+<figcaption>A small shrine bearing the name Okuninushi-sha. The sign notes that Takeminakata is recorded as the second child of Okuninushi. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_Okuninushi-sha.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shinmesha-1200.webp" srcset="/images/posts/suwa-kamisha-shinmesha-640.webp 640w, /images/posts/suwa-kamisha-shinmesha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="792" loading="lazy" decoding="async" alt="Shinmesha (sacred horse stable)">
+<figcaption>The Shinmesha stands beside a large old tree, surrounded by stone lanterns and woods in a quiet setting. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shinmesha.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="Okutsu-ishi">
+<figcaption>A large rock covered in moss and ferns, enclosed with a shimenawa and paper streamers. With the stone lantern, it conveys the calm of the precincts. Photo: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
 
 ## <span id="point"></span>Key Points for Visiting
 

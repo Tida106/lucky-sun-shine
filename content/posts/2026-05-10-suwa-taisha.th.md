@@ -50,6 +50,110 @@ draft: false
 
 **เทศกาลโอนบาชิระ** จัดขึ้นทุก 7 ปี (ปีขาลและปีวอก) เป็นเทศกาลใหญ่ที่สุดของศาลเจ้าสุวะไทฉะ โดยนำต้นสนยักษ์อายุกว่า 150 ปีจำนวน 16 ต้นจากภูเขาไปลากและตั้งไว้ที่มุมทั้งสี่ของแต่ละศาลด้วยแรงคน พิธีกรรม **“คิโอโตชิ”** ที่ผู้ร่วมพิธีนั่งบนท่อนซุงยักษ์แล้วไถลลงจากเนินชันเป็นที่มีชื่อเสียงไปทั่วประเทศ มีชาวบ้านร่วมพิธีกว่า 200,000 คน ครั้งถัดไปกำหนดจัดในปี **2028**
 
+## เดินชมบริเวณคามิชะฮงงูผ่านภาพถ่าย
+
+คามิชะฮงงูมีบริเวณกว้างที่สุดในสี่ศาล มีโทริอิ ทางเดินนูโนบาชิ ประตูชิเคียกุมง ไฮโชะและไฮเด็นเรียงรายให้ชม ต่อไปนี้คือภาพบรรยากาศภายในศาลเจ้า
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-otorii-1200.webp" srcset="/images/posts/suwa-kamisha-otorii-640.webp 640w, /images/posts/suwa-kamisha-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="793" loading="lazy" decoding="async" alt="โทริอิหินที่ทางเข้าคามิชะฮงงู">
+<figcaption>โทริอิหินขนาดใหญ่ที่ทางเข้าคามิชะฮงงู มีหลักศิลาของศาลเจ้าอยู่ด้านซ้าย และมองเห็นบันไดหินทางด้านใน ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_otorii.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-big-torii-800.webp" srcset="/images/posts/suwa-kamisha-big-torii-480.webp 480w, /images/posts/suwa-kamisha-big-torii-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1067" loading="lazy" decoding="async" alt="โทริอิใหญ่ที่แขวนเชือกชิเมนาวะ">
+<figcaption>โทริอิขนาดใหญ่ที่แขวนเชือกชิเมนาวะเส้นหนา ด้านในมีประตู และแสงแดดส่องผ่านต้นไม้ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa_Taisha_Kamisha_Honmiya_Big_Torii.jpg" rel="noopener" target="_blank">Immanuelle</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-myojinyu-1200.webp" srcset="/images/posts/suwa-kamisha-myojinyu-640.webp 640w, /images/posts/suwa-kamisha-myojinyu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ที่ล้างมือ "เมียวจินยุ" ปากสิงโตหิน">
+<figcaption>ที่ล้างมือที่มีน้ำไหลจากปากสิงโตหิน ป้ายอธิบายว่าเล่ากันว่าเป็นต้นกำเนิดของน้ำพุร้อนในซูวะ ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-dragon-temizu-1200.webp" srcset="/images/posts/suwa-kamisha-dragon-temizu-640.webp 640w, /images/posts/suwa-kamisha-dragon-temizu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ที่ล้างมือรูปมังกร">
+<figcaption>น้ำไหลจากปากมังกรสัมฤทธิ์ ขอบที่ปกคลุมด้วยตะไคร่และรั้วไม้ไผ่ช่วยเสริมบรรยากาศภายในศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-entrance-gomon-1200.webp" srcset="/images/posts/suwa-kamisha-entrance-gomon-640.webp 640w, /images/posts/suwa-kamisha-entrance-gomon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ประตูทางเข้าสะพานนูโนบาชิ">
+<figcaption>ประตูทางเข้าทางเดินมีหลังคานูโนบาชิ มีโคมหินตั้งอยู่สองข้าง และทางเดินทอดยาวเข้าไปด้านใน ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-nunobashi-1200.webp" srcset="/images/posts/suwa-kamisha-nunobashi-640.webp 640w, /images/posts/suwa-kamisha-nunobashi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="793" loading="lazy" decoding="async" alt="นูโนบาชิข้างป่าซีดาร์">
+<figcaption>ทางเดินมีหลังคาอันยาวเหยียดที่เรียกว่า "นูโนบาชิ" ข้างป่าซีดาร์ เป็นหนึ่งในจุดเด่นของคามิชะฮงงู ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_nunobashi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-nunobashi-inside-800.webp" srcset="/images/posts/suwa-kamisha-nunobashi-inside-480.webp 480w, /images/posts/suwa-kamisha-nunobashi-inside-800.webp 800w" sizes="(min-width: 768px) 720px, 100vw" width="800" height="1067" loading="lazy" decoding="async" alt="ด้านในนูโนบาชิ">
+<figcaption>ภายในทางเดิน พื้นไม้และเสาเรียงเป็นแนวตรง ดึงสายตาไปยังด้านใน ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Nunobashi_Suwa_Taisha_Kamisha_Honmiya_corridor.jpg" rel="noopener" target="_blank">Immanuelle</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shikyakumon-1200.webp" srcset="/images/posts/suwa-kamisha-shikyakumon-640.webp 640w, /images/posts/suwa-kamisha-shikyakumon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="797" loading="lazy" decoding="async" alt="ประตูชิเคียกุมง">
+<figcaption>ประตูสี่ขาเมื่อมองจากด้านหน้า ประตูไม้ลูกกรงและหลังคาโค้งเล็กน้อยดูโดดเด่น ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shikyakumon.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shikyakumon-2-1200.webp" srcset="/images/posts/suwa-kamisha-shikyakumon-2-640.webp 640w, /images/posts/suwa-kamisha-shikyakumon-2-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="ประตูชิเคียกุมงมองผ่านกิ่งไม้">
+<figcaption>ประตูสี่ขามองผ่านกิ่งไม้ สีของไม้โดดเด่นท่ามกลางความเขียว ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shikyakumon-2.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-carving-1200.webp" srcset="/images/posts/suwa-kamisha-carving-640.webp 640w, /images/posts/suwa-kamisha-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="งานแกะสลักบริเวณคาน">
+<figcaption>งานแกะสลักรอบคาน มีลวดลายที่คล้ายมังกรและนก แกะอย่างประณีต ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haisho-garden-1200.webp" srcset="/images/posts/suwa-kamisha-haisho-garden-640.webp 640w, /images/posts/suwa-kamisha-haisho-garden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ลานด้านหน้าไฮโชะ">
+<figcaption>ลานด้านหน้าไฮโชะ (ศาลาสักการะ) ด้านขวามีที่แขวนเอมะ ขณะถ่ายภาพมีการก่อสร้างอยู่โดยรอบ ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haisho-1200.webp" srcset="/images/posts/suwa-kamisha-haisho-640.webp 640w, /images/posts/suwa-kamisha-haisho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="794" loading="lazy" decoding="async" alt="ไฮโชะ (ศาลาสักการะ)">
+<figcaption>ไฮโชะมองจากด้านหน้า มีม่านสีขาวติดตราประจำศาลเจ้า ผู้มาไหว้พนมมือสักการะที่นี่ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haisho.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-ema-horse-1200.webp" srcset="/images/posts/suwa-kamisha-ema-horse-640.webp 640w, /images/posts/suwa-kamisha-ema-horse-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="เอมะขนาดใหญ่รูปม้า">
+<figcaption>เอมะขนาดใหญ่ที่แขวนใกล้เพดาน เห็นภาพม้านูนต่ำพร้อมตัวอักษรที่แปลว่า "ถวาย" ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Kamisha+Honmiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-front-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-front-640.webp 640w, /images/posts/suwa-kamisha-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="784" loading="lazy" decoding="async" alt="ไฮเด็นที่ประดับด้วยสีทอง">
+<figcaption>ไฮเด็นมองจากด้านหน้า หน้าจั่วโค้งและเครื่องประดับสีทองโดดเด่นตัดกับป่าเขียว ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haiden-1.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-haiden-angle-1200.webp" srcset="/images/posts/suwa-kamisha-haiden-angle-640.webp 640w, /images/posts/suwa-kamisha-haiden-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="783" loading="lazy" decoding="async" alt="ไฮเด็นมองจากมุมเฉียง">
+<figcaption>ไฮเด็นมองจากมุมเฉียง เห็นลานปูหินและความลึกของเสากับงานแกะสลัก ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_haiden-3.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-chokushiden-1200.webp" srcset="/images/posts/suwa-kamisha-chokushiden-640.webp 640w, /images/posts/suwa-kamisha-chokushiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="โชคุชิเด็นและโกเคนโร">
+<figcaption>โชคุชิเด็นและโกเคนโร อาคารไม้สงบเรียบเรียงรายในมุมเงียบที่ล้อมรอบด้วยต้นไม้ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_chokushiden_and_gokenrou.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-chokuganden-1200.webp" srcset="/images/posts/suwa-kamisha-chokuganden-640.webp 640w, /images/posts/suwa-kamisha-chokuganden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="โชคุกันเด็น">
+<figcaption>โชคุกันเด็นท่ามกลางต้นไม้ ตั้งอยู่บนบันไดหิน มีป้ายอธิบายอยู่ข้างๆ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_chokuganden.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-okuninushi-1200.webp" srcset="/images/posts/suwa-kamisha-okuninushi-640.webp 640w, /images/posts/suwa-kamisha-okuninushi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="ศาลโอคุนินูชิ">
+<figcaption>ศาลเล็กที่มีป้ายชื่อโอคุนินูชิ ป้ายอธิบายระบุว่าทาเกะมินะคาตะถูกบันทึกว่าเป็นบุตรคนที่สองของโอคุนินูชิ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_Okuninushi-sha.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-shinmesha-1200.webp" srcset="/images/posts/suwa-kamisha-shinmesha-640.webp 640w, /images/posts/suwa-kamisha-shinmesha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="792" loading="lazy" decoding="async" alt="ชินเมะชะ (โรงม้าศักดิ์สิทธิ์)">
+<figcaption>ชินเมะชะตั้งอยู่ข้างต้นไม้เก่าแก่ล้อมรอบด้วยโคมหินและแมกไม้ บรรยากาศสงบ ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_shinmesha.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-kamisha-okutsuishi-1200.webp" srcset="/images/posts/suwa-kamisha-okutsuishi-640.webp 640w, /images/posts/suwa-kamisha-okutsuishi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="โอคุสึอิชิ (御沓石)">
+<figcaption>ก้อนหินใหญ่ที่ปกคลุมด้วยตะไคร่และเฟิร์น ขึงเชือกชิเมนาวะและกระดาษชิเดะ ร่วมกับโคมหินช่วยให้รู้สึกถึงความสงบของศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/wiki/File:Suwa-taisha_Kamisha_Honmiya_okutsuishi.jpg" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## จุดสำคัญในการไหว้
 
 - หากเป็นไปได้ควรไหว้ครบทั้ง **“การไหว้สี่ศาล”** ตามแบบฉบับดั้งเดิม
