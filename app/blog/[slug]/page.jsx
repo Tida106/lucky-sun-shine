@@ -221,6 +221,17 @@ export default async function BlogPostPage({ params }) {
           )}
         </div>
 
+        {/* ▼パワースポット記事は まとめ直後に「ありがとう＆旅行促し」→ その後に占いCTA */}
+        {isSpotPost && (
+          <>
+            {/* ▼パワースポット記事用：旅行・参拝グッズ向けの記事下メッセージと商品リンク */}
+            <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
+              {`最後まで読んでくれてありがとう🌻\n行ってみたいなって思えた場所はあったかな？\n人気のエリアは、宿が早めに埋まっちゃうこともあるから、気になったらまずチェックしてみてね✨\n御朱印帳やお守りも用意して、素敵な参拝の旅になりますように💛`}
+            </BlogMascotBubble>
+            <RelatedProducts post={post} heading="旅と参拝の準備をチェック" items={spotItems} />
+          </>
+        )}
+
         {/* ▼▼ パワースポット記事専用のCTA（sあり・なし両対応） ▼▼ */}
         {(post.category === 'powerspots' || post.category === 'powerspot') && (
           <PhoneFortuneCTA
@@ -260,15 +271,7 @@ export default async function BlogPostPage({ params }) {
 
         <ShareButtons url={`${site.url}/blog/${post.slug}/`} title={post.title} image={`${site.url}/og-image.jpg`} className="mt-12" />
 
-        {isSpotPost ? (
-          <>
-            {/* ▼パワースポット記事用：旅行・参拝グッズ向けの記事下メッセージと商品リンク */}
-            <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
-              {`最後まで読んでくれてありがとう🌻\n行ってみたいなって思えた場所はあったかな？\n人気のエリアは、宿が早めに埋まっちゃうこともあるから、気になったらまずチェックしてみてね✨\n御朱印帳やお守りも用意して、素敵な参拝の旅になりますように💛`}
-            </BlogMascotBubble>
-            <RelatedProducts post={post} heading="旅と参拝の準備をチェック" items={spotItems} />
-          </>
-        ) : (
+        {!isSpotPost && (
           <>
             {/* ▼通常の記事下固定メッセージ（パワーストーン購入誘導など） */}
             <BlogMascotBubble tone="cream" src="/images/mascot-sun-thanks.png" alt="太陽ちゃん" className="mt-12">
