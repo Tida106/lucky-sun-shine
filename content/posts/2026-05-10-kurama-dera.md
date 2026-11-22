@@ -5,6 +5,7 @@ description: >-
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
+cardImage: "/images/cards/kurama-dera-wide.webp"
 tags:
   - 水晶
   - 京都府
