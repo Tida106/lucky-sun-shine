@@ -2,7 +2,7 @@
 title: "Fujisan Hongu Sengen Taisha Shrine Pilgrimage Guide"
 description: "A comprehensive guide to Fujisan Hongu Sengen Taisha Shrine (1-1 Miyamae-cho, Fujinomiya City, Shizuoka Prefecture), covering its history, benefits, the legend of Konohanasakuyahime no Mikoto, Wakutama Pond, the Okumiya (Inner Shrine) at the summit, key points for worship, recommended crystals, and nearby attractions. This is your essential resource for visiting the heart of Mount Fuji's World Heritage worship."
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["crystal", "Shizuoka Prefecture", "Mount Fuji", "volcano"]
 draft: false
@@ -24,6 +24,7 @@ Fujisan Hongu Sengen Taisha Shrine is the **head shrine of approximately 1,300 S
 - [The Legend of Konohanasakuyahime no Mikoto](#sakuya)
 - [Divine Blessings](#benefit)
 - [Highlights](#highlight)
+- [A Photo Walk Through the Precincts](#photo-walk)
 - [About the Mount Fuji Summit Okumiya (Inner Shrine)](#okumiya)
 - [Misogi (Purification Ritual) at Wakutama Pond](#wakutama)
 - [Access](#access)
@@ -46,6 +47,8 @@ Fujisan Hongu Sengen Taisha Shrine is the **head shrine of approximately 1,300 S
 | Sacred Object (Goshintai) | Mount Fuji |
 | Okumiya (Inner Shrine) | Mount Fuji Summit (Areas above the 8th station are part of Sengen Taisha Shrine grounds) |
 | World Heritage Site | 2013 (Component of Mount Fuji) |
+| Visiting Hours | 5:00–20:00 (6:00–19:00 from November to February; 5:30–19:30 in March and October). Subject to seasonal change, so please check the official website before visiting |
+| Cultural Property | Main Hall: nationally designated Important Cultural Property. Haiden, Heiden, Romon, etc.: designated by Shizuoka Prefecture |
 | Official Website | http://fuji-hongu.or.jp |
 
 ## <span id="history"></span>History and Origin
@@ -78,6 +81,82 @@ It is also said that the Japanese word for cherry blossom, *sakura*, derives fro
 - **Yabusame Festival** (May) — A Shinto ritual that has continued since the Kamakura period.
 - **Mount Fuji Summit Okumiya (Inner Shrine)** (Summer only)
 
+You can see the precincts in photos in the next section, “A Photo Walk Through the Precincts.”
+
+## <span id="photo-walk"></span>A Photo Walk Through the Precincts
+
+The precincts of Fujisan Hongu Sengen Taisha are said to cover about 17,000 tsubo, and there is something to see all the way from the great torii facing Mount Fuji to the vermilion Romon and Haiden and Wakutama Pond. Here is a walk through the grounds in the order a visitor would follow.
+
+### From the Great Torii to the Temizuya
+
+A visit begins at the great vermilion torii that looks out toward Mount Fuji. After passing through the gate, first purify your hands and mouth at the temizuya (see “Basic Shrine Etiquette” below for the steps).
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-daitorii-1200.webp" srcset="/images/posts/fujihongu-daitorii-640.webp 640w, /images/posts/fujihongu-daitorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The great torii of Fujisan Hongu Sengen Taisha with Mount Fuji">
+<figcaption>The great torii bearing the plaque “Fujisan Hongu.” Under a cloudless winter sky, the snow-capped Mount Fuji appears behind the gate on the right. Photo: <a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-tyouzuya-1200.webp" srcset="/images/posts/fujihongu-tyouzuya-640.webp 640w, /images/posts/fujihongu-tyouzuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The temizuya at Fujisan Hongu Sengen Taisha">
+<figcaption>The temizuya (water pavilion) with vermilion pillars and a blue-green roof. A signboard explaining the purification manners stands beside it. Photo: <a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+### The Romon Gate and the Large Ema
+
+The Romon is a two-story gate with an irimoya (hip-and-gable) roof covered in hiwada (cypress bark) shingles. The shrine buildings were built from 1604 under the patronage of Tokugawa Ieyasu; the Main Hall is a nationally designated Important Cultural Property, while the Haiden, Heiden, Romon and other structures are designated by Shizuoka Prefecture. In front of the gate stands the hokotate-ishi, a stone where the sacred halberd was set during the “Yamamiya Goshinko” procession with Yamamiya Sengen Shrine, the original shrine. The “Fujisan Hongu” plaque is said to have been written in 1819 by Prince Einin of Shogoin Monzeki. Large ema are also displayed on the left and right of the gate, and their designs are part of the pleasure of a visit.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-romon-1200.webp" srcset="/images/posts/fujihongu-romon-640.webp 640w, /images/posts/fujihongu-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="861" loading="lazy" decoding="async" alt="The Romon gate in cherry blossom season">
+<figcaption>The two-story Romon gate in cherry blossom season. Large votive plaques (ema) are displayed on both sides, and stone steps lead up into the precincts. Photo: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-ichiyo-1200.webp" srcset="/images/posts/fujihongu-ema-ichiyo-640.webp 640w, /images/posts/fujihongu-ema-ichiyo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="A large ema with “Ichiyo Raifuku” and a tiger">
+<figcaption>A large ema painted with the characters “Ichiyō Raifuku” and a tiger (photographed in 2022, a Year of the Tiger). The phrase means that winter ends and spring returns, and by extension that bad times pass and fortune turns. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-banpo-1200.webp" srcset="/images/posts/fujihongu-ema-banpo-640.webp 640w, /images/posts/fujihongu-ema-banpo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="A large ema with “Banpo Kyowa”">
+<figcaption>A large ema with the characters “Banpō Kyōwa” and a figure in traditional court dress. The phrase expresses a wish for all nations to live in harmony, and a waka poem by the Emperor is written beside it. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+### The Haiden and the Main Hall
+
+Past the Romon, a stone-paved approach leads to the vermilion Haiden. Behind it stand the Heiden and, further back, the Main Hall in the Sengen-zukuri style, in which a three-bay nagare-zukuri shrine sits on top of a lower story. It is said to be the only building of this style, and its large roof can be seen rising behind the Haiden. The Haiden was built at the same time as the Main Hall; its front porch (kohai) is thought to be a later addition.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-through-romon-1200.webp" srcset="/images/posts/fujihongu-through-romon-640.webp 640w, /images/posts/fujihongu-through-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="The Haiden seen from inside the Romon">
+<figcaption>The Haiden seen from inside the Romon. Beyond the gate, hung with a chrysanthemum-patterned curtain, a straight approach leads to the hall. Photo: <a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-haiden-1200.webp" srcset="/images/posts/fujihongu-haiden-640.webp 640w, /images/posts/fujihongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="858" loading="lazy" decoding="async" alt="The Haiden seen through cherry branches">
+<figcaption>The front of the Haiden, with its thick shimenawa and layered, curved roofs. A sign pointing to the goshuin office stands on the right. Photo: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+### The Reception Office and Omamori
+
+Near the Haiden is a reception office for visitors. Some of the omamori here feature Mount Fuji and cherry blossoms; the photo below shows a pair as they were in 2008.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-uketsukesho-1200.webp" srcset="/images/posts/fujihongu-uketsukesho-640.webp 640w, /images/posts/fujihongu-uketsukesho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The reception office with its crest curtain">
+<figcaption>The reception office, with a purple curtain dyed with the shrine crest in white. Reception signboards stand at the windows. Photo: <a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-omamori-1200.webp" srcset="/images/posts/fujihongu-omamori-640.webp 640w, /images/posts/fujihongu-omamori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Omamori featuring Mount Fuji">
+<figcaption>An omamori with a cherry blossom pattern and the characters for “Fuji summit” (left), and one with a red Mount Fuji (right). Photographed in 2008; current offerings may differ. Photo: <a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a> / Flickr / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+### Mount Fuji from Fujinomiya
+
+Back in town, Mount Fuji rises over the skyline of Fujinomiya. In cherry blossom season, the view of the snow-capped peak beyond the blossoms is especially popular.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="Mount Fuji seen from Fujinomiya">
+<figcaption>Mount Fuji seen from Fujinomiya, its snow-capped peak rising beyond cherry blossoms in full bloom. Photo: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 ## <span id="okumiya"></span>About the Mount Fuji Summit Okumiya (Inner Shrine)
 
 At the summit of Mount Fuji, you'll find **Kusushi Shrine (affiliated with Kitaguchi Hongu Sengen Jinja Shrine) and the Sengen Taisha Okumiya**.
@@ -90,6 +169,14 @@ At the summit of Mount Fuji, you'll find **Kusushi Shrine (affiliated with Kitag
 ## <span id="wakutama"></span>Misogi (Purification Ritual) at Wakutama Pond
 
 **Wakutama Pond** is a sacred spring where Mount Fuji's snowmelt water gushes forth after many years. Designated as a **Special Natural Monument**, this divine area sees a remarkable **2.4 cubic meters of water per second** flowing out! Traditionally, pilgrims would perform **misogi (a purification ritual) here before ascending Mount Fuji**, and even today, many visitors come to collect its sacred water to take home.
+
+The water is said to stay at about 13°C all year round, and the Kanda River flows out of this pond into the city. A Fuji pilgrimage mandala kept by Sengen Taisha, attributed to the painter Kano Motonobu, depicts pilgrims in white robes performing water purification before the climb.
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-wakutama-1200.webp" srcset="/images/posts/fujihongu-wakutama-640.webp 640w, /images/posts/fujihongu-wakutama-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Wakutama Pond in autumn">
+<figcaption>Wakutama Pond in autumn. The water is clear down to the bottom, and vermilion bridges and a torii stand out along the shore. Photo: <a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
 
 ## <span id="access"></span>Access
 
@@ -116,6 +203,7 @@ Here are some crystals that are believed to resonate well with the sacred energy
 - **Mount Fuji World Heritage Centre** — A facility where you can learn about Mount Fuji's religious beliefs.
 - **Murayama Sengen Shrine** — The central place for Fuji-Shugen (Mount Fuji ascetic practices).
 - **Yamamiya Sengen Shrine** — The original shrine (Motomiya) of Sengen Taisha, a sacred place for distant worship of Mount Fuji.
+- **Omiya Yokocho** — A small alley of eateries and souvenir shops in front of the shrine, where you can try Fujinomiya yakisoba and other street food.
 
 ## <span id="manner"></span>Basic Shrine Etiquette
 

@@ -2,7 +2,7 @@
 title: "富士山本宮淺間大社參拜指南｜以靈峰富士為御神體，全國淺間神社的總本宮"
 description: "全面解析富士山本宮淺間大社（靜岡縣富士宮市宮町1-1）的歷史・御利益・木花之佐久夜毘賣命・湧玉池・奧宮・參拜重點・推薦能量石・周邊景點。為了造訪世界遺產・富士山信仰中心地的保存版。"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["水晶", "靜岡縣", "富士山", "火山"]
 slug: "fujisan-hongu-sengen-taisha"
@@ -20,6 +20,7 @@ draft: false
 - [木花之佐久夜毘賣命的傳說](#sakuya)
 - [御利益](#benefit)
 - [看點](#highlight)
+- [用照片走訪境內](#photo-walk)
 - [關於富士山頂奧宮](#okumiya)
 - [湧玉池的淨身](#wakutama)
 - [交通方式](#access)
@@ -42,6 +43,8 @@ draft: false
 | 御神體 | 富士山 |
 | 奧宮 | 富士山頂（八合目以上屬淺間大社境內） |
 | 世界遺產 | 2013年（富士山構成資產） |
+| 參拜時間 | 5:00〜20:00（11〜2月為6:00〜19:00，3・10月為5:30〜19:30）※依時期有所變動，出發前請至官方網站確認 |
+| 文化財 | 本殿＝國家指定重要文化財／拜殿・幣殿・樓門等＝靜岡縣指定文化財 |
 | 官方網站 | http://fuji-hongu.or.jp |
 
 ## <span id="history"></span>歷史與由來
@@ -74,6 +77,82 @@ draft: false
 - **流鏑馬祭**（5月） — 從鎌倉時代延續至今的神事
 - **富士山頂奧宮**（僅限夏季）
 
+境內的樣貌，將在下一章「用照片走訪境內」搭配照片介紹。
+
+## <span id="photo-walk"></span>用照片走訪境內
+
+富士山本宮淺間大社的境內據說廣達約1萬7000坪，從面向富士山的大鳥居，到朱紅色的樓門、拜殿，再到湧玉池，處處都是看點。以下依參拜的順序，用照片帶您走一圈。
+
+### 從大鳥居到手水舍
+
+參拜從遙望富士山的朱紅大鳥居開始。穿過鳥居進入境內後，先在手水舍洗淨雙手與口（作法請參考後文的「參拜禮儀基本須知」）。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-daitorii-1200.webp" srcset="/images/posts/fujihongu-daitorii-640.webp 640w, /images/posts/fujihongu-daitorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="富士山本宮淺間大社的大鳥居與富士山">
+<figcaption>掛著「冨士山本宮」匾額的大鳥居。在萬里無雲的冬日天空下，鳥居右後方可見覆著白雪的富士山。 照片：<a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-tyouzuya-1200.webp" srcset="/images/posts/fujihongu-tyouzuya-640.webp 640w, /images/posts/fujihongu-tyouzuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="富士山本宮淺間大社的手水舍">
+<figcaption>朱紅色柱子與青綠色屋頂令人印象深刻的手水舍，旁邊立著「手水作法」的告示牌。 照片：<a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+### 樓門與大繪馬
+
+樓門是兩層樓、入母屋造的門樓，屋頂為檜皮葺（以檜木樹皮鋪設）。社殿自1604年起在德川家康的庇護下建造，本殿為國家指定重要文化財，拜殿、幣殿、樓門等則是靜岡縣指定文化財。門前留有「鉾立石」，是過去與原宮山宮淺間神社之間舉行「山宮御神幸」時，用來立放御鉾的石頭。「冨士山本宮」的匾額，相傳是1819年由聖護院門跡的盈仁入道親王所書。樓門左右還掛著大繪馬，欣賞圖案也是參拜的樂趣之一。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-romon-1200.webp" srcset="/images/posts/fujihongu-romon-640.webp 640w, /images/posts/fujihongu-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="861" loading="lazy" decoding="async" alt="櫻花季節的樓門">
+<figcaption>櫻花季節的樓門。兩層樓的門樓左右掛著大繪馬，沿著前方的石階向上便進入境內。 照片：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-ichiyo-1200.webp" srcset="/images/posts/fujihongu-ema-ichiyo-640.webp 640w, /images/posts/fujihongu-ema-ichiyo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="畫著「一陽來復」與老虎的大繪馬">
+<figcaption>畫著「一陽來復」字樣與老虎的大繪馬（攝於虎年的2022年）。「一陽來復」意指冬去春來，引申為壞運過去、好運回來。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-banpo-1200.webp" srcset="/images/posts/fujihongu-ema-banpo-640.webp 640w, /images/posts/fujihongu-ema-banpo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="寫著「萬邦共和」的大繪馬">
+<figcaption>寫著「萬邦共和」字樣、繪有身穿裝束人物的大繪馬。這句話寄託著世界各國彼此和睦的願望，旁邊還寫著天皇陛下的御製（和歌）。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+### 拜殿與本殿
+
+穿過樓門，石板參道的盡頭就是朱紅色的拜殿。拜殿後方是幣殿，再往後則是「淺間造」的本殿，在下層之上再疊上三間社流造的社殿，據說這種形式的建築全國僅此一座。從拜殿屋頂後方可以看到本殿的大屋頂。拜殿與本殿建於同一時期，向拜（正面突出的部分）則被認為是後來增建的。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-through-romon-1200.webp" srcset="/images/posts/fujihongu-through-romon-640.webp 640w, /images/posts/fujihongu-through-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="從樓門內側望向拜殿">
+<figcaption>從樓門內側望向拜殿。掛著菊花紋布幕的門後方，參道筆直地延伸出去。 照片：<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-haiden-1200.webp" srcset="/images/posts/fujihongu-haiden-640.webp 640w, /images/posts/fujihongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="858" loading="lazy" decoding="async" alt="隔著櫻花枝椏望見的拜殿">
+<figcaption>粗大的注連繩與層層疊疊的大屋頂十分醒目的拜殿，右側立著御朱印的指示牌。 照片：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+### 受理處與御守
+
+拜殿附近設有供參拜者使用的受理處。御守中也有以富士山與櫻花為圖案的款式，下方照片是2008年當時的樣子。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-uketsukesho-1200.webp" srcset="/images/posts/fujihongu-uketsukesho-640.webp 640w, /images/posts/fujihongu-uketsukesho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="掛著神紋布幕的受理處">
+<figcaption>白色神紋染在紫色布幕上、格外醒目的受理處，窗口前立著受理的牌子。 照片：<a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-omamori-1200.webp" srcset="/images/posts/fujihongu-omamori-640.webp 640w, /images/posts/fujihongu-omamori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="以富士山為圖案的御守">
+<figcaption>繡有櫻花圖樣與「富士山頂」字樣的御守（左），以及繡著紅色富士山的御守（右）。攝於2008年，現在的授與品可能不同。 照片：<a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a>／Flickr／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+### 從富士宮遠眺富士山
+
+離開境內回到街上，富士宮的天空下可以看見覆著白雪的富士山。櫻花季時，隔著花朵遠望山頂的景色格外受歡迎。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="從富士宮遠眺的富士山">
+<figcaption>從富士宮遠眺的富士山。盛開的櫻花後方，覆著白雪的山頂巍然聳立。 照片：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 ## <span id="okumiya"></span>關於富士山頂奧宮
 
 富士山山頂上鎮座著**久須志神社（北口本宮淺間神社的系統）與淺間大社奧宮**。
@@ -86,6 +165,14 @@ draft: false
 ## <span id="wakutama"></span>湧玉池的淨身
 
 **湧玉池（わくたまいけ）**，是富士山的融雪水經過長年累積後湧出的清澈泉水。被指定為**特別天然紀念物**，**每秒湧出2.4立方公尺**的水量，是一處神聖的區域。自古以來便有**登拜富士山前先在此淨身**的傳統，現今仍有許多參拜者前來汲水帶回家。
+
+池水的水溫據說全年維持在約13℃，神田川便以這裡為源頭流入市區。淺間大社所藏、相傳由狩野元信所繪的《富士參詣曼荼羅》，描繪了身穿白衣的信眾在登山前進行水行（以水淨身）的模樣。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-wakutama-1200.webp" srcset="/images/posts/fujihongu-wakutama-640.webp 640w, /images/posts/fujihongu-wakutama-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="秋天的湧玉池">
+<figcaption>秋天的湧玉池。清澈的池水一眼見底，朱紅色的橋與鳥居點綴在水邊。 照片：<a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 
 ## <span id="access"></span>交通方式
 
@@ -112,6 +199,7 @@ JR身延線「**富士宮**」站下車，步行約10分鐘。開車前往，從
 - **富士山世界遺產中心** — 可深入了解富士信仰的設施
 - **村山淺間神社** — 富士修驗道的中心地
 - **山宮淺間神社** — 淺間大社的原宮，富士山遙拜之地
+- **御宮橫丁** — 位於大社正前方的小巷，可邊走邊吃富士宮炒麵等小吃
 
 ## <span id="manner"></span>參拜禮儀基本須知
 

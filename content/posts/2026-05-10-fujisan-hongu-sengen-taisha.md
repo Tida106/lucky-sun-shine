@@ -2,7 +2,7 @@
 title: "富士山本宮浅間大社の参拝ガイド｜霊峰富士を御神体とする全国浅間神社の総本宮"
 description: "富士山本宮浅間大社（静岡県富士宮市宮町1-1）の歴史・ご利益・木花之佐久夜毘売命・湧玉池・奥宮・参拝のポイント・おすすめのパワーストーン・周辺スポットまでを総合的に解説。世界遺産・富士山信仰の中心地を訪れるための保存版です。"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["水晶", "静岡県", "富士山", "火山"]
 slug: "fujisan-hongu-sengen-taisha"
@@ -20,6 +20,7 @@ draft: false
 - [木花之佐久夜毘売命の伝説](#sakuya)
 - [ご利益](#benefit)
 - [見どころ](#highlight)
+- [境内を写真でめぐる](#photo-walk)
 - [富士山頂奥宮について](#okumiya)
 - [湧玉池の禊](#wakutama)
 - [アクセス](#access)
@@ -42,6 +43,8 @@ draft: false
 | 御神体 | 富士山 |
 | 奥宮 | 富士山頂（八合目以上は浅間大社の境内） |
 | 世界遺産 | 2013年（富士山構成資産） |
+| 参拝時間 | 5:00〜20:00（11〜2月は6:00〜19:00、3・10月は5:30〜19:30）※時期により変動。お出かけ前に公式サイトでご確認ください |
+| 文化財 | 本殿＝国指定重要文化財／拝殿・幣殿・楼門など＝静岡県指定文化財 |
 | 公式サイト | http://fuji-hongu.or.jp |
 
 ## <span id="history"></span>歴史と由緒
@@ -74,6 +77,82 @@ draft: false
 - **流鏑馬祭**（5月） — 鎌倉時代から続く神事
 - **富士山頂奥宮**（夏季のみ）
 
+境内の様子は、次の「境内を写真でめぐる」で写真とともにご紹介します。
+
+## <span id="photo-walk"></span>境内を写真でめぐる
+
+富士山本宮浅間大社の境内は約1万7000坪とも言われ、富士山を仰ぐ大鳥居から、朱塗りの楼門・拝殿、湧玉池まで見どころが続きます。参拝の順に、写真でご紹介します。
+
+### 大鳥居から手水舎へ
+
+参拝は、富士山をのぞむ朱色の大鳥居から始まります。鳥居をくぐって境内に入ったら、まず手水舎で手と口を清めましょう（作法は後述の「参拝マナーの基本」をご覧ください）。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-daitorii-1200.webp" srcset="/images/posts/fujihongu-daitorii-640.webp 640w, /images/posts/fujihongu-daitorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="富士山本宮浅間大社の大鳥居と富士山">
+<figcaption>「冨士山本宮」の額を掲げる大鳥居。雲ひとつない冬空の下、鳥居の右奥に雪をいただく富士山がのぞきます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-tyouzuya-1200.webp" srcset="/images/posts/fujihongu-tyouzuya-640.webp 640w, /images/posts/fujihongu-tyouzuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="富士山本宮浅間大社の手水舎">
+<figcaption>朱塗りの柱と青緑色の屋根が印象的な手水舎。「手水の作法」の案内板も立っています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+### 楼門と大絵馬
+
+楼門は二階建て・入母屋造で、屋根は檜皮葺（ひわだぶき）です。社殿は1604年（慶長9年）から徳川家康の庇護のもとで造営され、本殿は国の重要文化財、拝殿・幣殿・楼門などは静岡県の指定文化財となっています。門の前には、かつて元宮の山宮浅間神社との間で行われた「山宮御神幸」で御鉾を立てた鉾立石が残ります。「冨士山本宮」の扁額は、1819年（文政2年）に聖護院門跡の盈仁入道親王が書いたと伝えられます。楼門の左右には大きな絵馬が掲げられ、その絵柄を見るのも参拝の楽しみです。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-romon-1200.webp" srcset="/images/posts/fujihongu-romon-640.webp 640w, /images/posts/fujihongu-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="861" loading="lazy" decoding="async" alt="桜の季節の楼門">
+<figcaption>桜の季節の楼門。二階建ての門の左右に大絵馬が掲げられ、手前の石段を上がって境内へ進みます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-ichiyo-1200.webp" srcset="/images/posts/fujihongu-ema-ichiyo-640.webp 640w, /images/posts/fujihongu-ema-ichiyo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="「一陽来復」と虎が描かれた大絵馬">
+<figcaption>「一陽来復」の文字と虎が描かれた大絵馬（寅年の2022年に撮影）。「一陽来復」は、冬が去って春が来ること、転じて悪い時期が去って運が向いてくることを表す言葉です。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-banpo-1200.webp" srcset="/images/posts/fujihongu-ema-banpo-640.webp 640w, /images/posts/fujihongu-ema-banpo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="「萬邦共和」の大絵馬">
+<figcaption>「萬邦共和」の文字と、装束をまとった人物が描かれた大絵馬。世界のあらゆる国々が共に和らぐことを願う言葉で、天皇陛下の御製（和歌）が添えられています。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+### 拝殿と本殿
+
+楼門をくぐると、石畳の参道の先に朱塗りの拝殿が現れます。拝殿の後ろには幣殿、さらに奥に「浅間造（せんげんづくり）」の本殿が建ちます。下層の上に三間社流造の社殿を載せた二重構造で、この名で呼ばれる建物は全国でここだけとされます。拝殿の屋根の奥には、本殿の大屋根がのぞきます。拝殿は本殿と同じ時期に建てられ、向拝（正面の張り出し部分）は後世の付加と考えられています。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-through-romon-1200.webp" srcset="/images/posts/fujihongu-through-romon-640.webp 640w, /images/posts/fujihongu-through-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="楼門の内側から望む拝殿">
+<figcaption>楼門の内側から拝殿を望む。菊の文様の幕が掛かる門の向こうに、まっすぐ参道がのびます。 写真：<a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-haiden-1200.webp" srcset="/images/posts/fujihongu-haiden-640.webp 640w, /images/posts/fujihongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="858" loading="lazy" decoding="async" alt="桜の枝越しに見る拝殿">
+<figcaption>太い注連縄と重なる大屋根が目を引く拝殿。右手には御朱印の案内が出ています。 写真：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+### 受付所とお守り
+
+拝殿の近くには、参拝者向けの受付所があります。お守りには、富士山や桜をあしらったものもあります。下の写真は2008年当時のものです。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-uketsukesho-1200.webp" srcset="/images/posts/fujihongu-uketsukesho-640.webp 640w, /images/posts/fujihongu-uketsukesho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="神紋の幕が張られた受付所">
+<figcaption>神紋を白く染め抜いた紫の幕が目を引く受付所。窓口には受付の札が並びます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-omamori-1200.webp" srcset="/images/posts/fujihongu-omamori-640.webp 640w, /images/posts/fujihongu-omamori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="富士山をあしらったお守り">
+<figcaption>桜の模様に「富士山頂」の文字を入れたお守り（左）と、赤い富士山を描いたお守り（右）。2008年の撮影で、現在の授与品とは異なる場合があります。 写真：<a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a>／Flickr／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+### 富士宮から望む富士山
+
+境内を出て街へ戻ると、富士宮の空には雪をいただく富士山が望めます。桜の季節は、花越しに眺める姿が特に人気です。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="富士宮から望む富士山">
+<figcaption>富士宮から望む富士山。満開の桜の向こうに、雪をいただく山頂がそびえます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="okumiya"></span>富士山頂奥宮について
 
 富士山頂上に **久須志神社（北口本宮浅間神社の系統）と浅間大社奥宮** が鎮座。
@@ -86,6 +165,14 @@ draft: false
 ## <span id="wakutama"></span>湧玉池の禊
 
 **湧玉池（わくたまいけ）** は富士山の雪解け水が長い年月をかけて湧き出る清泉。**特別天然記念物** に指定され、**毎秒2.4立方メートル** もの水が湧き出る神域です。古来 **富士山登拝の前にここで禊** を行う伝統があり、現在も汲み水を持ち帰る参拝者で賑わいます。
+
+池の水温は年間を通じて約13℃とされ、ここを水源に神田川が市内へ流れ出します。浅間大社が所蔵する『富士参詣曼荼羅』（狩野元信筆）には、白装束の人々が登山の前に水行をする姿が描かれています。
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-wakutama-1200.webp" srcset="/images/posts/fujihongu-wakutama-640.webp 640w, /images/posts/fujihongu-wakutama-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="秋の湧玉池">
+<figcaption>秋の湧玉池。透きとおった水が底まで見え、朱塗りの橋や鳥居が水辺に映えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 
 ## <span id="access"></span>アクセス
 
@@ -112,6 +199,7 @@ JR身延線「**富士宮**」駅から徒歩約10分。車は新東名「**新�
 - **富士山世界遺産センター** — 富士信仰を学べる施設
 - **村山浅間神社** — 富士修験の中心地
 - **山宮浅間神社** — 浅間大社の元宮、富士遥拝所
+- **お宮横丁** — 大社の正面にある小路。富士宮やきそばなどの食べ歩きが楽しめます
 
 ## <span id="manner"></span>参拝マナーの基本
 

@@ -2,7 +2,7 @@
 title: "คู่มือเที่ยวศาลเจ้าฟูจิซังฮงกุเซ็นเง็นไทฉะ: ศาลประธานแห่งความเชื่อภูเขาไฟฟูจิ"
 description: "คู่มือฉบับสมบูรณ์ของศาลเจ้าฟูจิซังฮงกุเซ็นเง็นไทฉะ (จังหวัดชิซูโอกะ) ครอบคลุมประวัติศาสตร์ เทพีโคโนฮานะซากุยะฮิเมะ บ่อน้ำวาคุทามะ ศาลเจ้าชั้นในบนยอดภูเขาไฟฟูจิ หินมงคล และจุดท่องเที่ยวใกล้เคียง มรดกโลกศูนย์กลางความเชื่อภูเขาไฟฟูจิ"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["คริสตัลควอตซ์", "ชิซูโอกะ", "ภูเขาไฟฟูจิ"]
 slug: "fujisan-hongu-sengen-taisha"
@@ -25,6 +25,8 @@ draft: false
 | วัตถุศักดิ์สิทธิ์ | ภูเขาไฟฟูจิ |
 | ศาลเจ้าชั้นใน | ยอดภูเขาไฟฟูจิ (ตั้งแต่สถานีที่ 8 ขึ้นไปเป็นเขตศาลเจ้า) |
 | มรดกโลก | ปี 2013 (ส่วนประกอบของภูเขาไฟฟูจิ) |
+| เวลาเปิด | 5:00–20:00 (พ.ย.–ก.พ. 6:00–19:00 / มี.ค. และ ต.ค. 5:30–19:30) อาจเปลี่ยนตามฤดูกาล โปรดตรวจสอบเว็บไซต์ทางการก่อนเดินทาง |
+| สมบัติทางวัฒนธรรม | ศาลหลัก: สมบัติทางวัฒนธรรมที่สำคัญของชาติ / ไฮเด็น เฮอิเด็น โรมง ฯลฯ: จังหวัดชิซูโอกะกำหนด |
 
 ## ประวัติศาสตร์และความเป็นมา
 
@@ -52,6 +54,82 @@ draft: false
 - **เทศกาลยาบุซาเมะ** (พฤษภาคม) — พิธีกรรมที่สืบทอดมาตั้งแต่ยุคคามาคุระ
 - **ศาลเจ้าชั้นในบนยอดภูเขาไฟฟูจิ** (เฉพาะฤดูร้อน)
 
+ภาพบรรยากาศภายในศาลเจ้าอยู่ในหัวข้อถัดไป
+
+## เดินชมบริเวณศาลเจ้าผ่านภาพถ่าย
+
+บริเวณศาลเจ้าฟูจิซังฮงกุเซ็นเง็นไทฉะกว้างราว 17,000 สึโบะ มีจุดน่าชมตั้งแต่โทริอิใหญ่ที่หันหน้าสู่ภูเขาไฟฟูจิ ประตูโรมงและไฮเด็นสีแดงชาด ไปจนถึงบ่อน้ำวาคุทามะ ต่อไปนี้คือภาพเดินชมตามลำดับการสักการะ
+
+### จากโทริอิใหญ่ถึงเทมิซึยะ
+
+การสักการะเริ่มต้นที่โทริอิใหญ่สีแดงชาดซึ่งมองเห็นภูเขาไฟฟูจิ เมื่อผ่านโทริอิเข้ามาแล้ว ให้ชำระล้างมือและปากที่เทมิซึยะก่อน
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-daitorii-1200.webp" srcset="/images/posts/fujihongu-daitorii-640.webp 640w, /images/posts/fujihongu-daitorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิใหญ่ของศาลเจ้าฟูจิซังฮงกุเซ็นเง็นไทฉะและภูเขาไฟฟูจิ">
+<figcaption>โทริอิใหญ่ที่แขวนป้าย “ฟูจิซังฮงกุ” ใต้ท้องฟ้าฤดูหนาวไร้เมฆ ภูเขาไฟฟูจิที่ปกคลุมด้วยหิมะโผล่ให้เห็นทางขวาด้านหลังโทริอิ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-tyouzuya-1200.webp" srcset="/images/posts/fujihongu-tyouzuya-640.webp 640w, /images/posts/fujihongu-tyouzuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="เทมิซึยะของศาลเจ้าฟูจิซังฮงกุเซ็นเง็นไทฉะ">
+<figcaption>เทมิซึยะที่มีเสาสีแดงชาดและหลังคาสีเขียวอมฟ้า ข้างกันมีป้ายอธิบายวิธีชำระล้างมือและปาก ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+### ประตูโรมงและเอมะขนาดใหญ่
+
+โรมงเป็นประตูสองชั้นทรงอิริโมยะ มุงหลังคาด้วยเปลือกไม้ไซเปรส (ฮิวาดะบุกิ) อาคารศาลสร้างขึ้นตั้งแต่ปี 1604 ภายใต้การอุปถัมภ์ของโทกุงาวะ อิเอยาสุ ศาลหลักเป็นสมบัติทางวัฒนธรรมที่สำคัญของชาติ ส่วนไฮเด็น เฮอิเด็น โรมง และอื่น ๆ เป็นสมบัติทางวัฒนธรรมที่จังหวัดชิซูโอกะกำหนด หน้าประตูมี “โฮโกะทาเตะอิชิ” หินที่ใช้ปักหอกศักดิ์สิทธิ์ในขบวน “ยามามิยะโกชินโค” ระหว่างศาลเจ้ายามามิยะเซ็นเง็น (ศาลเจ้าดั้งเดิม) กับศาลแห่งนี้ ป้าย “ฟูจิซังฮงกุ” เล่ากันว่าเป็นลายพระหัตถ์ของเจ้าชายเอนินแห่งโชโงอินมอนเซกิเมื่อปี 1819 ด้านซ้ายขวาของประตูมีเอมะขนาดใหญ่แขวนอยู่ การชมลวดลายก็เป็นความสนุกอย่างหนึ่งของการมาเยือน
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-romon-1200.webp" srcset="/images/posts/fujihongu-romon-640.webp 640w, /images/posts/fujihongu-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="861" loading="lazy" decoding="async" alt="ประตูโรมงในฤดูซากุระ">
+<figcaption>ประตูโรมงสองชั้นในฤดูซากุระ ด้านซ้ายขวามีเอมะขนาดใหญ่แขวนอยู่ และมีบันไดหินทอดขึ้นสู่บริเวณศาลเจ้า ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-ichiyo-1200.webp" srcset="/images/posts/fujihongu-ema-ichiyo-640.webp 640w, /images/posts/fujihongu-ema-ichiyo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="เอมะขนาดใหญ่ “อิจิโยไรฟุกุ” และเสือ">
+<figcaption>เอมะขนาดใหญ่ที่เขียนคำว่า “อิจิโยไรฟุกุ” พร้อมภาพเสือ (ถ่ายเมื่อปี 2022 ปีเสือ) คำนี้หมายถึงฤดูหนาวผ่านพ้นและฤดูใบไม้ผลิมาถึง และเปรียบถึงช่วงเวลาร้าย ๆ ผ่านไปแล้วโชคกลับมา ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-ema-banpo-1200.webp" srcset="/images/posts/fujihongu-ema-banpo-640.webp 640w, /images/posts/fujihongu-ema-banpo-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="เอมะขนาดใหญ่ “บันโปเคียวะ”">
+<figcaption>เอมะขนาดใหญ่ที่เขียนคำว่า “บันโปเคียวะ” พร้อมภาพบุคคลในชุดโบราณ เป็นคำที่ขอให้นานาประเทศอยู่ร่วมกันอย่างสันติ และมีบทกวีวากะของจักรพรรดิเขียนกำกับไว้ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+### ไฮเด็นและศาลหลัก
+
+ผ่านโรมงเข้าไป ทางเดินปูหินจะนำไปสู่ไฮเด็นสีแดงชาด ด้านหลังคือเฮอิเด็น และลึกเข้าไปคือศาลหลักแบบ “เซ็นเง็นสึคุริ” ที่มีศาลทรงนากาเระสึคุริ 3 ช่วงเสาตั้งซ้อนอยู่บนชั้นล่าง กล่าวกันว่าเป็นอาคารแบบนี้เพียงแห่งเดียว มองเห็นหลังคาใหญ่ของศาลหลักโผล่เหนือไฮเด็น ไฮเด็นสร้างในช่วงเดียวกับศาลหลัก ส่วนหน้ามุข (โคไฮ) เชื่อว่าต่อเติมในภายหลัง
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-through-romon-1200.webp" srcset="/images/posts/fujihongu-through-romon-640.webp 640w, /images/posts/fujihongu-through-romon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="801" loading="lazy" decoding="async" alt="ไฮเด็นมองจากด้านในประตูโรมง">
+<figcaption>ไฮเด็นมองจากด้านในประตูโรมง ถัดจากประตูที่แขวนม่านลายดอกเบญจมาศ มีทางเดินตรงยาวไปสู่ตัวอาคาร ภาพ: <a href="https://commons.wikimedia.org/wiki/User:%E6%B1%9F%E6%88%B8%E6%9D%91%E3%81%AE%E3%81%A8%E3%81%8F%E3%81%9E%E3%81%86" rel="noopener" target="_blank">江戸村のとくぞう</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-haiden-1200.webp" srcset="/images/posts/fujihongu-haiden-640.webp 640w, /images/posts/fujihongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="858" loading="lazy" decoding="async" alt="ไฮเด็นมองผ่านกิ่งซากุระ">
+<figcaption>ไฮเด็นที่เด่นด้วยเชือกชิเมนาวะหนาและหลังคาใหญ่ซ้อนกัน ทางขวามีป้ายบอกทางไปรับโกชูอิน ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+### สำนักงานรับเรื่องและโอมาโมริ
+
+ใกล้ไฮเด็นมีสำนักงานรับเรื่องสำหรับผู้มาสักการะ โอมาโมริบางแบบมีลายภูเขาไฟฟูจิและดอกซากุระ ภาพด้านล่างเป็นสภาพเมื่อปี 2008
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-uketsukesho-1200.webp" srcset="/images/posts/fujihongu-uketsukesho-640.webp 640w, /images/posts/fujihongu-uketsukesho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="สำนักงานรับเรื่องที่แขวนม่านลายตราศาลเจ้า">
+<figcaption>สำนักงานรับเรื่องที่เด่นด้วยม่านสีม่วงย้อมตราศาลเจ้าสีขาว ที่หน้าต่างมีป้ายรับเรื่องตั้งอยู่ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Ennui" rel="noopener" target="_blank">Ennui</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-omamori-1200.webp" srcset="/images/posts/fujihongu-omamori-640.webp 640w, /images/posts/fujihongu-omamori-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โอมาโมริลายภูเขาไฟฟูจิ">
+<figcaption>โอมาโมริลายซากุระที่มีคำว่า “ยอดเขาฟูจิ” (ซ้าย) และโอมาโมริที่ปักภาพภูเขาไฟฟูจิสีแดง (ขวา) ถ่ายเมื่อปี 2008 ของที่มอบให้ในปัจจุบันอาจต่างออกไป ภาพ: <a href="https://www.flickr.com/photos/jetalone/2705949166/" rel="noopener" target="_blank">jetalone</a> / Flickr / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+### ภูเขาไฟฟูจิจากฟุจิโนมิยะ
+
+เมื่อออกมาสู่ตัวเมือง จะเห็นภูเขาไฟฟูจิที่ปกคลุมด้วยหิมะตระหง่านเหนือท้องฟ้าของฟุจิโนมิยะ ช่วงซากุระบาน ภาพยอดเขาเหนือดอกซากุระได้รับความนิยมเป็นพิเศษ
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-fujiview-1200.webp" srcset="/images/posts/fujihongu-fujiview-640.webp 640w, /images/posts/fujihongu-fujiview-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="756" loading="lazy" decoding="async" alt="ภูเขาไฟฟูจิมองจากฟุจิโนมิยะ">
+<figcaption>ภูเขาไฟฟูจิมองจากฟุจิโนมิยะ ยอดเขาที่ปกคลุมด้วยหิมะตระหง่านอยู่เหนือดอกซากุระที่บานเต็มที่ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Zairon" rel="noopener" target="_blank">Zairon</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## เกี่ยวกับศาลเจ้าชั้นในบนยอดภูเขาไฟฟูจิ
 
 บนยอดภูเขาไฟฟูจิมี **ศาลเจ้าคุซุชิ (สายศาลเจ้าเซ็นเง็นคิตะงุจิฮงกุ) และศาลเจ้าชั้นในของเซ็นเง็นไทฉะ** ประดิษฐานอยู่
@@ -63,6 +141,14 @@ draft: false
 ## การชำระล้างที่บ่อน้ำวาคุทามะ
 
 **บ่อน้ำวาคุทามะ** เป็นน้ำพุใสสะอาดที่เกิดจากน้ำละลายหิมะของภูเขาไฟฟูจิที่ใช้เวลาหลายปีไหลซึมขึ้นมา ได้รับการขึ้นทะเบียนเป็น **อนุสรณ์สถานทางธรรมชาติพิเศษ** มีน้ำไหลพุ่งขึ้นมาถึง **2.4 ลูกบาศก์เมตรต่อวินาที** แต่โบราณมีธรรมเนียม **ชำระล้างร่างกายที่นี่ก่อนปีนภูเขาไฟฟูจิ** ปัจจุบันก็ยังคงมีผู้มาตักน้ำกลับบ้านคึกคัก
+
+กล่าวกันว่าน้ำในบ่อมีอุณหภูมิราว 13 องศาเซลเซียสตลอดปี และแม่น้ำคันดะไหลออกจากบ่อนี้เข้าสู่ตัวเมือง ภาพ “ฟูจิซังเก (ภาพแสวงบุญภูเขาไฟฟูจิ)” ที่ศาลเจ้าเก็บรักษา ซึ่งเชื่อว่าวาดโดยคาโนะ โมโตโนบุ แสดงภาพผู้แสวงบุญในชุดขาวกำลังทำพิธีชำระล้างด้วยน้ำก่อนปีนเขา
+
+<figure class="photo">
+<img src="/images/posts/fujihongu-wakutama-1200.webp" srcset="/images/posts/fujihongu-wakutama-640.webp 640w, /images/posts/fujihongu-wakutama-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="บ่อน้ำวาคุทามะในฤดูใบไม้ร่วง">
+<figcaption>บ่อน้ำวาคุทามะในฤดูใบไม้ร่วง น้ำใสจนมองเห็นถึงก้นบ่อ สะพานสีแดงชาดและโทริอิเด่นอยู่ริมน้ำ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Mocchy" rel="noopener" target="_blank">Mocchy</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 
 ## การเดินทาง
 
@@ -85,6 +171,7 @@ draft: false
 - **ศูนย์มรดกโลกภูเขาไฟฟูจิ** — สถานที่เรียนรู้ความเชื่อภูเขาไฟฟูจิ
 - **ศาลเจ้ามุระยามะเซ็นเง็น** — ศูนย์กลางลัทธิชูเก็นแห่งภูเขาไฟฟูจิ
 - **ศาลเจ้ายามามิยะเซ็นเง็น** — ศาลเจ้าดั้งเดิมของเซ็นเง็นไทฉะ จุดไหว้ระยะไกลภูเขาไฟฟูจิ
+- **โอมิยะโยโกะโจ** — ตรอกร้านอาหารและร้านของฝากหน้าศาลเจ้า ลองชิมฟุจิโนมิยะยากิโซบะและของกินเล่นอื่น ๆ ได้
 
 ## คำถามที่พบบ่อย
 
