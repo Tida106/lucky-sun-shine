@@ -100,8 +100,8 @@ draft: false
 </figure>
 
 <figure class="photo">
-<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雨に濡れる本宮の社殿">
-<figcaption>雨に濡れる本宮の社殿。反り返った屋根と金色の金具が、杉木立の緑によく映えます。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="貴船神社の社殿">
+<figcaption>貴船神社の社殿。反り返る屋根の曲線と、石積みの基壇が印象的です。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
 </figure>
 
 <figure class="photo">

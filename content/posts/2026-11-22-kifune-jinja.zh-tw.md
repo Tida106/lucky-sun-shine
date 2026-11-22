@@ -100,8 +100,8 @@ draft: false
 </figure>
 
 <figure class="photo">
-<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="雨中的本宮社殿">
-<figcaption>雨中的本宮社殿。翹起的屋簷與金色的金屬配件，在杉木林的綠意中格外醒目。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="貴船神社的社殿">
+<figcaption>貴船神社的社殿。翹起的屋頂曲線與石砌的基壇令人印象深刻。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
 </figure>
 
 <figure class="photo">

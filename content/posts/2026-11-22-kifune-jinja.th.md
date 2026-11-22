@@ -97,8 +97,8 @@ draft: false
 </figure>
 
 <figure class="photo">
-<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="อาคารฮงงูท่ามกลางสายฝน">
-<figcaption>อาคารฮงงูท่ามกลางสายฝน หลังคาโค้งงอนและเครื่องประดับสีทองตัดกับสีเขียวของป่าซีดาร์ ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(ปรับขนาด)</figcaption>
+<img src="/images/posts/kifune-honden-hall-1200.webp" srcset="/images/posts/kifune-honden-hall-640.webp 640w, /images/posts/kifune-honden-hall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="อาคารศาลเจ้าคิฟุเนะ">
+<figcaption>อาคารของศาลเจ้าคิฟุเนะ ความโค้งของหลังคาและฐานหินที่ก่อไว้ดูโดดเด่น ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Kibune+Jinja+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">くろふね</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a>(ปรับขนาด)</figcaption>
 </figure>
 
 <figure class="photo">
