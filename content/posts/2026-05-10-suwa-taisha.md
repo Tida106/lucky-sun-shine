@@ -23,6 +23,7 @@ draft: false
 - [見どころ](#highlight)
 - [上社本宮の境内を写真でめぐる](#honmiya)
 - [下社秋宮の境内を写真でめぐる](#akimiya)
+- [下社春宮の境内を写真でめぐる](#harumiya)
 - [参拝のポイント](#point)
 - [アクセス](#access)
 - [おすすめのパワーストーン](#stones)
@@ -228,6 +229,40 @@ draft: false
 <figure class="photo">
 <img src="/images/posts/suwa-akimiya-keidaisha-3-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-3-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="石段の上に並ぶ小さな社">
 <figcaption>石段の上に、中央の社と両脇の小さな社が並びます。案内板には「皇大神宮社」「稲荷社」とあります。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+## <span id="harumiya"></span>下社春宮の境内を写真でめぐる
+
+下社春宮は、鳥居から石畳の参道を進むと神楽殿があり、その奥に幣拝殿が建ちます。境内の様子を写真でご紹介します。
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-torii-1200.webp" srcset="/images/posts/suwa-haru-torii-640.webp 640w, /images/posts/suwa-haru-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="下社春宮の鳥居">
+<figcaption>道路に面して立つ下社春宮の鳥居。脇の石柱には「諏訪大社」と刻まれ、奥へ石畳の参道が続きます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-approach-1200.webp" srcset="/images/posts/suwa-haru-approach-640.webp 640w, /images/posts/suwa-haru-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="神楽殿へ続く石畳の参道">
+<figcaption>石畳の参道の先に、注連縄を掛けた神楽殿が見えます。両脇には背の高い杉が立ち並び、右手には御柱大祭の案内板があります。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-kaguraden-1200.webp" srcset="/images/posts/suwa-haru-kaguraden-640.webp 640w, /images/posts/suwa-haru-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="788" loading="lazy" decoding="async" alt="大注連縄が掛かる春宮の神楽殿">
+<figcaption>春宮の神楽殿。正面に太い注連縄が掛かり、右手には絵馬掛けが見えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-front-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-front-640.webp 640w, /images/posts/suwa-haru-heihaiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="正面から見た春宮の幣拝殿">
+<figcaption>春宮の幣拝殿を正面から見たところ。中央の重なる屋根に彫刻が施され、左右へ屋根の低い建物が伸びます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-side-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-side-640.webp 640w, /images/posts/suwa-haru-heihaiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="791" loading="lazy" decoding="async" alt="参拝者と幣拝殿">
+<figcaption>幣拝殿の前で手を合わせる参拝者たち。右手には絵馬掛けと千羽鶴が見えます。 写真：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-below-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-below-640.webp 640w, /images/posts/suwa-haru-heihaiden-below-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="見上げた幣拝殿の軒">
+<figcaption>下から見上げた幣拝殿の軒。金色の飾り金具と、梁まわりの彫刻が目を引きます。 写真：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
 </figure>
 
 ## <span id="point"></span>参拝のポイント

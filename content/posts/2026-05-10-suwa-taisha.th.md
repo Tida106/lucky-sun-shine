@@ -193,6 +193,40 @@ draft: false
 <figcaption>ศาลกลางและศาลเล็กสองข้างเรียงอยู่บนบันไดหิน ป้ายระบุว่า "โคไทจิงงูชะ" และ "อินาริชะ" ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+## เดินชมบริเวณชิโมชะฮารุมิยะผ่านภาพถ่าย
+
+ที่ชิโมชะฮารุมิยะ เดินตามทางปูหินจากโทริอิจะพบคางุระเด็น และเฮอิไฮเด็นตั้งอยู่ด้านหลัง ต่อไปนี้คือภาพบรรยากาศภายในศาลเจ้า
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-torii-1200.webp" srcset="/images/posts/suwa-haru-torii-640.webp 640w, /images/posts/suwa-haru-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="โทริอิของชิโมชะฮารุมิยะ">
+<figcaption>โทริอิของชิโมชะฮารุมิยะที่หันหน้าสู่ถนน มีเสาหินสลักคำว่า "สุวะไทฉะ" อยู่ข้างๆ และทางเดินปูหินทอดเข้าไปด้านใน ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-approach-1200.webp" srcset="/images/posts/suwa-haru-approach-640.webp 640w, /images/posts/suwa-haru-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ทางเดินปูหินสู่คางุระเด็น">
+<figcaption>ปลายทางเดินปูหินคือคางุระเด็นที่แขวนเชือกชิเมนาวะ มีต้นซีดาร์สูงเรียงรายสองข้าง และมีป้ายอธิบายเทศกาลโอนบาชิระอยู่ทางขวา ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-kaguraden-1200.webp" srcset="/images/posts/suwa-haru-kaguraden-640.webp 640w, /images/posts/suwa-haru-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="788" loading="lazy" decoding="async" alt="คางุระเด็นที่แขวนเชือกชิเมนาวะขนาดใหญ่">
+<figcaption>คางุระเด็นของฮารุมิยะ มีเชือกชิเมนาวะหนาแขวนอยู่ด้านหน้า และมีที่แขวนเอมะอยู่ทางขวา ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-front-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-front-640.webp 640w, /images/posts/suwa-haru-heihaiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="เฮอิไฮเด็นของฮารุมิยะมองจากด้านหน้า">
+<figcaption>เฮอิไฮเด็นของฮารุมิยะมองจากด้านหน้า หลังคาซ้อนชั้นตรงกลางมีงานแกะสลัก และมีอาคารหลังคาเตี้ยทอดไปสองข้าง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, สาธารณสมบัติ (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-side-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-side-640.webp 640w, /images/posts/suwa-haru-heihaiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="791" loading="lazy" decoding="async" alt="ผู้มาไหว้ที่เฮอิไฮเด็น">
+<figcaption>ผู้มาไหว้กำลังพนมมือต่อหน้าเฮอิไฮเด็น ทางขวามองเห็นที่แขวนเอมะและนกกระดาษพันตัว ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-below-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-below-640.webp 640w, /images/posts/suwa-haru-heihaiden-below-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="แหงนมองชายคาเฮอิไฮเด็น">
+<figcaption>มองขึ้นไปยังชายคาของเฮอิไฮเด็น เครื่องประดับสีทองและงานแกะสลักรอบคานโดดเด่นสะดุดตา ภาพ: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## จุดสำคัญในการไหว้
 
 - หากเป็นไปได้ควรไหว้ครบทั้ง **“การไหว้สี่ศาล”** ตามแบบฉบับดั้งเดิม

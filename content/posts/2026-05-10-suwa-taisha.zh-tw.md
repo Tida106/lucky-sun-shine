@@ -23,6 +23,7 @@ draft: false
 - [看點](#highlight)
 - [用照片走訪上社本宮的境內](#honmiya)
 - [用照片走訪下社秋宮的境內](#akimiya)
+- [用照片走訪下社春宮的境內](#harumiya)
 - [參拜重點](#point)
 - [交通方式](#access)
 - [推薦的能量石](#stones)
@@ -228,6 +229,40 @@ draft: false
 <figure class="photo">
 <img src="/images/posts/suwa-akimiya-keidaisha-3-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-3-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="石階上並列的小社">
 <figcaption>石階上，中央的社與兩側的小社並列。說明牌寫著「皇大神宮社」「稻荷社」。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+## <span id="harumiya"></span>用照片走訪下社春宮的境內
+
+下社春宮從鳥居沿石板參道前行即可見到神樂殿，其後方便是幣拜殿。以下用照片介紹境內的樣貌。
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-torii-1200.webp" srcset="/images/posts/suwa-haru-torii-640.webp 640w, /images/posts/suwa-haru-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="下社春宮的鳥居">
+<figcaption>面向道路而立的下社春宮鳥居，旁邊的石柱刻著「諏訪大社」，後方是鋪著石板的參道。 照片：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-approach-1200.webp" srcset="/images/posts/suwa-haru-approach-640.webp 640w, /images/posts/suwa-haru-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="通往神樂殿的石板參道">
+<figcaption>石板參道的盡頭是掛著注連繩的神樂殿，兩側高大的杉樹林立，右側設有御柱大祭的說明牌。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-kaguraden-1200.webp" srcset="/images/posts/suwa-haru-kaguraden-640.webp 640w, /images/posts/suwa-haru-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="788" loading="lazy" decoding="async" alt="掛著大注連繩的春宮神樂殿">
+<figcaption>春宮的神樂殿，正面掛著粗大的注連繩，右側可見繪馬架。 照片：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-front-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-front-640.webp 640w, /images/posts/suwa-haru-heihaiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="正面看到的春宮幣拜殿">
+<figcaption>從正面看到的春宮幣拜殿，中央層疊的屋頂施有雕刻，左右延伸著屋頂較低的建築。 照片：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，公有領域（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-side-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-side-640.webp 640w, /images/posts/suwa-haru-heihaiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="791" loading="lazy" decoding="async" alt="參拜者與幣拜殿">
+<figcaption>在幣拜殿前合掌參拜的人們，右側可見繪馬架與千羽鶴。 照片：<a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a>／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-below-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-below-640.webp 640w, /images/posts/suwa-haru-heihaiden-below-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="仰望幣拜殿的屋簷">
+<figcaption>從下方仰望幣拜殿的屋簷，金色的飾件與梁柱周圍的雕刻格外吸睛。 照片：<a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
 </figure>
 
 ## <span id="point"></span>參拜重點

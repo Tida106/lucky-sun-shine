@@ -27,6 +27,7 @@ Suwa Grand Shrine is Shinano Province's Ichinomiya (chief shrine of a province),
 - [Highlights](#highlight)
 - [A Photo Walk Through Kamisha Honmiya](#honmiya)
 - [A Photo Walk Through Shimosha Akimiya](#akimiya)
+- [A Photo Walk Through Shimosha Harumiya](#harumiya)
 - [Key Points for Visiting](#point)
 - [Access](#access)
 - [Recommended Crystals](#stones)
@@ -232,6 +233,40 @@ At Shimosha Akimiya the approach leads from the torii to the Kaguraden and the H
 <figure class="photo">
 <img src="/images/posts/suwa-akimiya-keidaisha-3-1200.webp" srcset="/images/posts/suwa-akimiya-keidaisha-3-640.webp 640w, /images/posts/suwa-akimiya-keidaisha-3-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Small shrines atop a stone stair">
 <figcaption>A central shrine with a small shrine on each side, atop stone steps. The signs read "Kotaijingu-sha" and "Inari-sha". Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Akimiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+## <span id="harumiya"></span>A Photo Walk Through Shimosha Harumiya
+
+At Shimosha Harumiya, a cobbled approach leads from the torii to the Kaguraden, with the Heihaiden standing behind it. Here is a look at the precincts in photos.
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-torii-1200.webp" srcset="/images/posts/suwa-haru-torii-640.webp 640w, /images/posts/suwa-haru-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The torii at Shimosha Harumiya">
+<figcaption>The torii of Shimosha Harumiya facing the road, with a stone pillar inscribed "Suwa Taisha" beside it and a cobbled approach leading inward. Photo: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-approach-1200.webp" srcset="/images/posts/suwa-haru-approach-640.webp 640w, /images/posts/suwa-haru-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The cobbled approach to the Kaguraden">
+<figcaption>At the end of the cobbled approach stands the Kaguraden with its shimenawa. Tall cedars line both sides, and a sign about the Onbashira Festival stands on the right. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-kaguraden-1200.webp" srcset="/images/posts/suwa-haru-kaguraden-640.webp 640w, /images/posts/suwa-haru-kaguraden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="788" loading="lazy" decoding="async" alt="The Kaguraden with its great shimenawa">
+<figcaption>The Kaguraden of Harumiya with a thick shimenawa across its front and an ema rack on the right. Photo: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-front-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-front-640.webp 640w, /images/posts/suwa-haru-heihaiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="The Heihaiden of Harumiya from the front">
+<figcaption>The Heihaiden of Harumiya seen from the front, with carvings on the layered central roof and lower-roofed buildings extending to both sides. Photo: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, public domain (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-side-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-side-640.webp 640w, /images/posts/suwa-haru-heihaiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="791" loading="lazy" decoding="async" alt="Visitors at the Heihaiden">
+<figcaption>Visitors praying in front of the Heihaiden. An ema rack and strings of paper cranes can be seen on the right. Photo: <a href="https://commons.wikimedia.org/wiki/User:Saigen_Jiro" rel="noopener" target="_blank">Saigen Jiro</a> / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/suwa-haru-heihaiden-below-1200.webp" srcset="/images/posts/suwa-haru-heihaiden-below-640.webp 640w, /images/posts/suwa-haru-heihaiden-below-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Looking up at the Heihaiden eaves">
+<figcaption>Looking up at the eaves of the Heihaiden, where the gilded fittings and the carvings around the beams stand out. Photo: <a href="https://commons.wikimedia.org/w/index.php?search=Suwa+taisha+Shimosha+Harumiya+panoramio&title=Special:MediaSearch&type=image" rel="noopener" target="_blank">z tanuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
 </figure>
 
 ## <span id="point"></span>Key Points for Visiting
