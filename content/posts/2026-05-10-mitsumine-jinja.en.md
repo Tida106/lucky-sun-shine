@@ -169,7 +169,7 @@ Here are some stones believed to resonate well with the shrine's energy when you
 
 ## <span id="nearby"></span>Nearby Spots to Visit
 
--   **Chichibu Shrine** — One of the Three Shrines of Chichibu, located in Chichibu City.
+-   **[Chichibu Shrine](/blog/chichibu-jinja/)** — One of the Three Shrines of Chichibu, located in Chichibu City.
 -   **Hodosan Shrine** — One of the Three Shrines of Chichibu, located in Nagatoro Town.
 -   **Nagatoro Gorge** — Famous for its river rafting.
 -   **Chichibu Railway SL** — The steam locomotive "Paleo Express."
