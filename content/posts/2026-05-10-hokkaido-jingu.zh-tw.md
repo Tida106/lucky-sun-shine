@@ -2,7 +2,7 @@
 title: "北海道神宮參拜指南｜延續開拓祈願的札幌總鎮守"
 description: "全面解析北海道神宮（北海道札幌市中央區宮之丘474）的歷史・御利益・開拓三神・參拜重點・圓山公園・判官餅・櫻花・推薦水晶能量石・周邊景點。這是造訪北海道總鎮守的珍藏版指南。"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["御朱印帳", "北海道", "開運"]
 slug: "hokkaido-jingu"
@@ -19,6 +19,7 @@ draft: false
 - [歷史與由來](#history)
 - [御利益](#benefit)
 - [參拜亮點](#highlight)
+- [用照片走訪境內](#photo-walk)
 - [參拜重點](#point)
 - [交通方式](#access)
 - [推薦的水晶能量石](#stones)
@@ -68,6 +69,85 @@ draft: false
 - **賞櫻名所** — 約1400株蝦夷山櫻與染井吉野櫻
 - **梅園** — 5月初的蝦夷梅也值得一看
 - **第二鳥居** — 從札幌車站方向而來的正面參道
+
+## <span id="photo-walk"></span>用照片走訪境內
+
+北海道神宮坐落在緊鄰圓山公園的森林之中。以下依參拜的順序，從大鳥居沿著表參道前行，穿過神門來到拜殿，並帶您看看四季不同的風貌。
+
+### 大鳥居與表參道
+
+參拜從立有社號標的大鳥居開始，從這裡起，被樹木環繞的表參道通往境內深處。冬天被白雪覆蓋，新年初詣時則擠滿了參拜者。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-1200.webp" srcset="/images/posts/hokkaido-torii-640.webp 640w, /images/posts/hokkaido-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="857" loading="lazy" decoding="async" alt="北海道神宮的大鳥居">
+<figcaption>立在參道入口的大鳥居，旁邊立著刻有「北海道神宮」的社號標，鳥居後方是被樹木環繞的參道（2003年拍攝）。 照片：lienyuan lee／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-snow-1200.webp" srcset="/images/posts/hokkaido-torii-snow-640.webp 640w, /images/posts/hokkaido-torii-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="雪中的北海道神宮大鳥居">
+<figcaption>覆蓋著白雪的大鳥居前，新年初詣的參拜者排成人龍（2013年1月拍攝）。 照片：t-konno／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-approach-1200.webp" srcset="/images/posts/hokkaido-approach-640.webp 640w, /images/posts/hokkaido-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="673" loading="lazy" decoding="async" alt="北海道神宮的表參道">
+<figcaption>兩旁排列著石燈籠與樹木的表參道，筆直通往境內深處（2009年4月拍攝）。 照片：<a href="https://www.flickr.com/photos/60098295@N00/3475176280" rel="noopener" target="_blank">danobrienmuzyka</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+### 神門
+
+表參道盡頭的神門，屋頂上設有千木與鰹木，並掛著粗大的注連繩。雨天、雪天，隨著天氣不同，風貌也有所變化。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-rain-1200.webp" srcset="/images/posts/hokkaido-shinmon-rain-640.webp 640w, /images/posts/hokkaido-shinmon-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="864" loading="lazy" decoding="async" alt="雨天的北海道神宮神門">
+<figcaption>屋頂上設有千木與鰹木、並掛著粗大注連繩的神門，被雨水打濕的屋頂閃閃發亮（2003年拍攝）。 照片：lienyuan lee／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-snow-1200.webp" srcset="/images/posts/hokkaido-shinmon-snow-640.webp 640w, /images/posts/hokkaido-shinmon-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="下雪天的神門">
+<figcaption>雪花飄落的日子裡的神門，屋頂覆著薄薄一層積雪，石階上方可見注連繩（2015年2月拍攝）。 照片：<a href="https://www.flickr.com/photos/91049143@N00/16696341536" rel="noopener" target="_blank">bryan...</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-inside-1200.webp" srcset="/images/posts/hokkaido-shinmon-inside-640.webp 640w, /images/posts/hokkaido-shinmon-inside-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="從神門內側望向參道">
+<figcaption>從神門內側望向表參道，這是下雪的日子，門旁放置著一面大太鼓。 照片：Hideshi Tsunematsu／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+### 手水舍
+
+境內的手水舍，水從木製水槽口流下。參拜前先洗手漱口潔淨身心（作法請參考後文的「參拜禮儀基本須知」）。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-temizuya-1200.webp" srcset="/images/posts/hokkaido-temizuya-640.webp 640w, /images/posts/hokkaido-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="北海道神宮的手水舍">
+<figcaption>清澈的水從木製水槽口流下的手水舍，後方隱約可見社殿的屋頂。 照片：Hideshi Tsunematsu／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+### 拜殿
+
+拜殿正面掛著繪有菊花紋的白色布幕，屋頂上同樣排列著千木與鰹木，是堂堂正正、位居境內中心的建築。2003年拍攝的兩張照片，也拍到了當時境內正在進行的施工情況。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-summer-1200.webp" srcset="/images/posts/hokkaido-haiden-summer-640.webp 640w, /images/posts/hokkaido-haiden-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夏季的北海道神宮拜殿">
+<figcaption>掛著繪有菊花紋白色布幕的拜殿，設有千木與鰹木的大屋頂與綠樹相互襯托（2007年拍攝）。 照片：Daigaku2051／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-front-1200.webp" srcset="/images/posts/hokkaido-haiden-front-640.webp 640w, /images/posts/hokkaido-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="842" loading="lazy" decoding="async" alt="正面望去的北海道神宮拜殿">
+<figcaption>從正面望去的拜殿，石板參道的盡頭，金色的飾件閃閃發光。當時境內正在施工（2003年拍攝）。 照片：lienyuan lee／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-side-1200.webp" srcset="/images/posts/hokkaido-haiden-side-640.webp 640w, /images/posts/hokkaido-haiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="843" loading="lazy" decoding="async" alt="斜角望去的北海道神宮拜殿">
+<figcaption>從斜角望去的拜殿，大屋頂下掛著白色布幕，屋簷下的木構架清晰可見（2003年拍攝）。 照片：lienyuan lee／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+### 札幌市區的頓宮
+
+札幌市區裡也有北海道神宮的頓宮。被樹木環繞的境內深處，可以看見掛著白色布幕的社殿。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-tongu-1200.webp" srcset="/images/posts/hokkaido-tongu-640.webp 640w, /images/posts/hokkaido-tongu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="位於札幌市區的北海道神宮頓宮">
+<figcaption>位於札幌市區的北海道神宮頓宮的鳥居，立著紅色旗幟，鳥居後方可見被樹木環繞的社殿（2017年拍攝）。 照片：<a href="https://commons.wikimedia.org/wiki/User:Pundit" rel="noopener" target="_blank">Pundit</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
 
 ## <span id="point"></span>參拜重點
 

@@ -2,7 +2,7 @@
 title: "北海道神宮の参拝ガイド｜開拓の祈りを継ぐ札幌の総鎮守"
 description: "北海道神宮（北海道札幌市中央区宮ヶ丘474）の歴史・ご利益・開拓三神・参拝のポイント・円山公園・判官さま・桜・おすすめのパワーストーン・周辺スポットまでを総合的に解説。北海道の総鎮守を訪れるための保存版です。"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["御朱印帳", "北海道", "開運"]
 slug: "hokkaido-jingu"
@@ -19,6 +19,7 @@ draft: false
 - [歴史と由緒](#history)
 - [ご利益](#benefit)
 - [見どころ](#highlight)
+- [境内を写真でめぐる](#photo-walk)
 - [参拝のポイント](#point)
 - [アクセス](#access)
 - [おすすめのパワーストーン](#stones)
@@ -68,6 +69,85 @@ draft: false
 - **桜の名所** — 蝦夷山桜・ソメイヨシノ約1400本
 - **梅園** — 5月初旬の蝦夷梅も見もの
 - **第二鳥居** — 札幌駅方面からの正面参道
+
+## <span id="photo-walk"></span>境内を写真でめぐる
+
+北海道神宮は、円山公園に隣接する森の中に鎮座します。大鳥居から表参道を進み、神門をくぐって拝殿へ。参拝の順に、季節ごとの表情も交えて写真でご紹介します。
+
+### 大鳥居と表参道
+
+参拝は、社号標が立つ大鳥居から始まります。ここから、木々に囲まれた表参道が境内の奥へとのびます。冬は雪に包まれ、初詣の時期には多くの参拝者でにぎわいます。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-1200.webp" srcset="/images/posts/hokkaido-torii-640.webp 640w, /images/posts/hokkaido-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="857" loading="lazy" decoding="async" alt="北海道神宮の大鳥居">
+<figcaption>参道の入口に立つ大鳥居。「北海道神宮」と刻まれた社号標が脇に立ち、鳥居の奥に木々に囲まれた参道が続きます（2003年撮影）。 写真：lienyuan lee／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-snow-1200.webp" srcset="/images/posts/hokkaido-torii-snow-640.webp 640w, /images/posts/hokkaido-torii-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="雪の中の北海道神宮の大鳥居">
+<figcaption>雪に覆われた大鳥居の前に、初詣の参拝者が列をなします（2013年1月撮影）。 写真：t-konno／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-approach-1200.webp" srcset="/images/posts/hokkaido-approach-640.webp 640w, /images/posts/hokkaido-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="673" loading="lazy" decoding="async" alt="北海道神宮の表参道">
+<figcaption>石灯籠が並ぶ表参道。両側に木々が連なり、まっすぐ境内の奥へとのびます（2009年4月撮影）。 写真：<a href="https://www.flickr.com/photos/60098295@N00/3475176280" rel="noopener" target="_blank">danobrienmuzyka</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+### 神門
+
+表参道の先に建つ神門は、屋根に千木（ちぎ）と鰹木（かつおぎ）を載せ、大きな注連縄を掛けた門です。雨の日や雪の日など、天気によって表情が変わります。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-rain-1200.webp" srcset="/images/posts/hokkaido-shinmon-rain-640.webp 640w, /images/posts/hokkaido-shinmon-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="864" loading="lazy" decoding="async" alt="雨の日の北海道神宮の神門">
+<figcaption>屋根に千木と鰹木を載せ、大きな注連縄を掛けた神門。雨に濡れた屋根が艶やかに光ります（2003年撮影）。 写真：lienyuan lee／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-snow-1200.webp" srcset="/images/posts/hokkaido-shinmon-snow-640.webp 640w, /images/posts/hokkaido-shinmon-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="雪が降る日の神門">
+<figcaption>雪がちらつく日の神門。屋根にはうっすらと雪が積もり、石段の上に注連縄が見えます（2015年2月撮影）。 写真：<a href="https://www.flickr.com/photos/91049143@N00/16696341536" rel="noopener" target="_blank">bryan...</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-inside-1200.webp" srcset="/images/posts/hokkaido-shinmon-inside-640.webp 640w, /images/posts/hokkaido-shinmon-inside-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="神門の内側から見る参道">
+<figcaption>神門の内側から表参道を望む。雪の舞う日で、門の脇には大きな太鼓が置かれています。 写真：Hideshi Tsunematsu／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+### 手水舎
+
+境内の手水舎では、木の樋から水が流れ落ちます。参拝の前に手と口を清めましょう（作法は後述の「参拝マナーの基本」をご覧ください）。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-temizuya-1200.webp" srcset="/images/posts/hokkaido-temizuya-640.webp 640w, /images/posts/hokkaido-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="北海道神宮の手水舎">
+<figcaption>木の樋から清らかな水が流れ落ちる手水舎。奥にぼんやりと社殿の屋根が見えます。 写真：Hideshi Tsunematsu／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+### 拝殿
+
+拝殿の正面には、菊の紋が入った白い幕が掛かります。屋根にも千木と鰹木が並び、境内の中心にふさわしい堂々とした姿です。2003年撮影の2枚には、当時行われていた境内の工事の様子も写っています。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-summer-1200.webp" srcset="/images/posts/hokkaido-haiden-summer-640.webp 640w, /images/posts/hokkaido-haiden-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="夏の北海道神宮の拝殿">
+<figcaption>菊の紋が入った白い幕が掛かる拝殿。千木と鰹木を載せた大きな屋根が緑の木々に映えます（2007年撮影）。 写真：Daigaku2051／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-front-1200.webp" srcset="/images/posts/hokkaido-haiden-front-640.webp 640w, /images/posts/hokkaido-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="842" loading="lazy" decoding="async" alt="正面から見た北海道神宮の拝殿">
+<figcaption>正面から見た拝殿。石畳の参道の先に、金色の飾り金具が光ります。当時は境内で工事が行われていました（2003年撮影）。 写真：lienyuan lee／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-side-1200.webp" srcset="/images/posts/hokkaido-haiden-side-640.webp 640w, /images/posts/hokkaido-haiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="843" loading="lazy" decoding="async" alt="斜めから見た北海道神宮の拝殿">
+<figcaption>斜めから見た拝殿。大きな屋根の下に白い幕が掛かり、軒下の木組みが見えます（2003年撮影）。 写真：lienyuan lee／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+### 札幌市街の頓宮
+
+札幌の市街地にも、北海道神宮の頓宮があります。木々に囲まれた境内の奥に、白い幕の掛かる社殿が見えます。
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-tongu-1200.webp" srcset="/images/posts/hokkaido-tongu-640.webp 640w, /images/posts/hokkaido-tongu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="札幌市街にある北海道神宮頓宮">
+<figcaption>札幌の市街地にある北海道神宮頓宮の鳥居。赤い幟が立ち、鳥居の奥に木々に囲まれた社殿が見えます（2017年撮影）。 写真：<a href="https://commons.wikimedia.org/wiki/User:Pundit" rel="noopener" target="_blank">Pundit</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
 
 ## <span id="point"></span>参拝のポイント
 

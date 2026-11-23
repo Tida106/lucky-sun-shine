@@ -2,7 +2,7 @@
 title: "คู่มือเที่ยวศาลเจ้าฮอกไกโดจิงงู: ศาลเจ้าผู้พิทักษ์แห่งซัปโปโร"
 description: "คู่มือฉบับสมบูรณ์ของศาลเจ้าฮอกไกโดจิงงู (เมืองซัปโปโร) ครอบคลุมประวัติศาสตร์ เทพผู้บุกเบิกทั้งสาม สวนมารุยามะ จุดชมซากุระ หินมงคล และจุดท่องเที่ยวใกล้เคียง ศาลเจ้าผู้พิทักษ์ของฮอกไกโด"
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["สมุดโกชูอิน", "ฮอกไกโด", "โชคดี"]
 slug: "hokkaido-jingu"
@@ -49,6 +49,85 @@ draft: false
 - **“ฮังกังซามะ” ของร้านชาศาลเจ้าร็อกคาเทย์** — ขนมอบยอดนิยมหลังสักการะ
 - **จุดชมซากุระ** — ซากุระภูเขาเอโซะและโซเมโยชิโนะประมาณ 1,400 ต้น
 - **สวนพลัม** — พลัมเอโซะในช่วงต้นเดือนพฤษภาคมก็น่าชมเช่นกัน
+
+## เดินชมบริเวณศาลเจ้าผ่านภาพถ่าย
+
+ศาลเจ้าฮอกไกโดจิงงูตั้งอยู่ในป่าติดกับสวนมารุยามะ ต่อไปนี้คือภาพเดินชมตามลำดับการสักการะ ตั้งแต่โทริอิใหญ่ ผ่านทางเดินสักการะ ประตูชินมง ไปจนถึงไฮเด็น พร้อมบรรยากาศที่เปลี่ยนไปตามฤดูกาล
+
+### โทริอิใหญ่และทางเดินสักการะ
+
+การสักการะเริ่มต้นที่โทริอิใหญ่ ซึ่งมีหลักหินสลักชื่อศาลเจ้าตั้งอยู่ จากนั้นทางเดินสักการะที่รายล้อมด้วยต้นไม้จะทอดเข้าสู่ภายในศาลเจ้า ฤดูหนาวถูกหิมะปกคลุม และช่วงปีใหม่จะคึกคักด้วยผู้มาไหว้ศาลครั้งแรกของปี
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-1200.webp" srcset="/images/posts/hokkaido-torii-640.webp 640w, /images/posts/hokkaido-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="857" loading="lazy" decoding="async" alt="โทริอิใหญ่ของศาลเจ้าฮอกไกโดจิงงู">
+<figcaption>โทริอิใหญ่ที่ทางเข้าทางเดินสักการะ มีหลักหินสลักคำว่า “ศาลเจ้าฮอกไกโด” อยู่ข้าง ๆ ด้านหลังโทริอิเป็นทางเดินที่รายล้อมด้วยต้นไม้ (ถ่ายเมื่อปี 2003) ภาพ: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-snow-1200.webp" srcset="/images/posts/hokkaido-torii-snow-640.webp 640w, /images/posts/hokkaido-torii-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="โทริอิใหญ่ท่ามกลางหิมะ">
+<figcaption>ผู้มาไหว้ศาลครั้งแรกของปีต่อแถวอยู่หน้าโทริอิใหญ่ที่ปกคลุมด้วยหิมะ (ถ่ายเมื่อเดือนมกราคม 2013) ภาพ: t-konno / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-approach-1200.webp" srcset="/images/posts/hokkaido-approach-640.webp 640w, /images/posts/hokkaido-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="673" loading="lazy" decoding="async" alt="ทางเดินสักการะหลักของศาลเจ้าฮอกไกโดจิงงู">
+<figcaption>ทางเดินสักการะหลักที่มีโคมหินเรียงราย สองข้างทางเป็นแถวต้นไม้ ทอดตรงไปสู่ภายในศาลเจ้า (ถ่ายเมื่อเดือนเมษายน 2009) ภาพ: <a href="https://www.flickr.com/photos/60098295@N00/3475176280" rel="noopener" target="_blank">danobrienmuzyka</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+### ประตูชินมง
+
+ที่ปลายทางเดินสักการะคือประตูชินมง หลังคามีชิกิและคัตสึโอะงิ และมีเชือกชิเมนาวะเส้นใหญ่แขวนอยู่ บรรยากาศเปลี่ยนไปตามสภาพอากาศ ทั้งวันฝนตกและวันหิมะโปรย
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-rain-1200.webp" srcset="/images/posts/hokkaido-shinmon-rain-640.webp 640w, /images/posts/hokkaido-shinmon-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="864" loading="lazy" decoding="async" alt="ประตูชินมงในวันฝนตก">
+<figcaption>ประตูชินมงที่มีชิกิและคัตสึโอะงิบนหลังคา และมีเชือกชิเมนาวะเส้นใหญ่แขวนอยู่ หลังคาที่เปียกฝนส่องประกายแวววาว (ถ่ายเมื่อปี 2003) ภาพ: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-snow-1200.webp" srcset="/images/posts/hokkaido-shinmon-snow-640.webp 640w, /images/posts/hokkaido-shinmon-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ประตูชินมงในวันหิมะตก">
+<figcaption>ประตูชินมงในวันที่หิมะโปรยปราย หลังคามีหิมะปกคลุมบาง ๆ และเห็นเชือกชิเมนาวะเหนือบันไดหิน (ถ่ายเมื่อเดือนกุมภาพันธ์ 2015) ภาพ: <a href="https://www.flickr.com/photos/91049143@N00/16696341536" rel="noopener" target="_blank">bryan...</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-inside-1200.webp" srcset="/images/posts/hokkaido-shinmon-inside-640.webp 640w, /images/posts/hokkaido-shinmon-inside-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ทางเดินสักการะมองจากด้านในประตูชินมง">
+<figcaption>มองออกไปตามทางเดินสักการะจากด้านในประตูชินมงในวันที่หิมะโปรย ข้างประตูมีกลองใบใหญ่ตั้งอยู่ ภาพ: Hideshi Tsunematsu / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+### เทมิซึยะ
+
+ที่เทมิซึยะในบริเวณศาลเจ้า น้ำไหลลงจากรางไม้ ให้ล้างมือและบ้วนปากก่อนไหว้
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-temizuya-1200.webp" srcset="/images/posts/hokkaido-temizuya-640.webp 640w, /images/posts/hokkaido-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="เทมิซึยะของศาลเจ้าฮอกไกโดจิงงู">
+<figcaption>น้ำใสไหลลงจากรางไม้ที่เทมิซึยะ ด้านหลังเห็นหลังคาอาคารศาลเจ้าเบลอ ๆ ภาพ: Hideshi Tsunematsu / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+### ไฮเด็น
+
+ด้านหน้าไฮเด็นแขวนม่านสีขาวลายดอกเบญจมาศ หลังคาก็มีชิกิและคัตสึโอะงิเรียงราย ให้ภาพที่สง่างามเหมาะกับการเป็นศูนย์กลางของบริเวณศาลเจ้า ภาพสองภาพที่ถ่ายเมื่อปี 2003 ยังเห็นการก่อสร้างภายในศาลเจ้าในขณะนั้นด้วย
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-summer-1200.webp" srcset="/images/posts/hokkaido-haiden-summer-640.webp 640w, /images/posts/hokkaido-haiden-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ไฮเด็นของศาลเจ้าฮอกไกโดจิงงูในฤดูร้อน">
+<figcaption>ไฮเด็นที่แขวนม่านสีขาวลายดอกเบญจมาศ หลังคาใหญ่ที่มีชิกิและคัตสึโอะงิตัดกับต้นไม้สีเขียว (ถ่ายเมื่อปี 2007) ภาพ: Daigaku2051 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-front-1200.webp" srcset="/images/posts/hokkaido-haiden-front-640.webp 640w, /images/posts/hokkaido-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="842" loading="lazy" decoding="async" alt="ไฮเด็นมองจากด้านหน้า">
+<figcaption>ไฮเด็นมองจากด้านหน้า ปลายทางเดินปูหินมีเครื่องประดับโลหะสีทองส่องประกาย ขณะนั้นมีการก่อสร้างภายในศาลเจ้า (ถ่ายเมื่อปี 2003) ภาพ: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-side-1200.webp" srcset="/images/posts/hokkaido-haiden-side-640.webp 640w, /images/posts/hokkaido-haiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="843" loading="lazy" decoding="async" alt="ไฮเด็นมองจากมุมเฉียง">
+<figcaption>ไฮเด็นมองจากด้านข้าง ใต้หลังคาใหญ่มีม่านสีขาวแขวนอยู่ และเห็นโครงไม้ใต้ชายคา (ถ่ายเมื่อปี 2003) ภาพ: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+### ตงงูกลางเมืองซัปโปโร
+
+ในเมืองซัปโปโรยังมีตงงูของศาลเจ้าฮอกไกโดจิงงูอยู่ด้วย ลึกเข้าไปในบริเวณที่รายล้อมด้วยต้นไม้ จะเห็นอาคารศาลที่แขวนม่านสีขาว
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-tongu-1200.webp" srcset="/images/posts/hokkaido-tongu-640.webp 640w, /images/posts/hokkaido-tongu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="ศาลเจ้าฮอกไกโดจิงงูตงงูกลางเมืองซัปโปโร">
+<figcaption>โทริอิของศาลฮอกไกโดจิงงูตงงูในเมืองซัปโปโร มีธงสีแดงตั้งอยู่ และเห็นอาคารศาลท่ามกลางต้นไม้ด้านหลังโทริอิ (ถ่ายเมื่อปี 2017) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Pundit" rel="noopener" target="_blank">Pundit</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
 
 ## จุดสำคัญในการไหว้
 

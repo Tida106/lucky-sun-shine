@@ -2,7 +2,7 @@
 title: "Hokkaido Jingu Shrine Visiting Guide"
 description: "A comprehensive guide to Hokkaido Jingu Shrine (474 Miyagaoka, Chuo-ku, Sapporo, Hokkaido), covering its history, blessings, the Three Kami of Frontier Development, visiting tips, Maruyama Park, Hangan-sama mochi, cherry blossoms, recommended crystals, and nearby attractions. This is your essential guide to visiting Hokkaido's grand guardian shrine."
 date: "2026-05-10"
-updated: "2026-05-11"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["Goshuincho", "Hokkaido", "Good Fortune"]
 draft: false
@@ -23,6 +23,7 @@ Hokkaido Jingu Shrine was established by the Meiji government to oversee the dev
 - [History and Origins](#history)
 - [Blessings and Benefits](#benefit)
 - [Highlights](#highlight)
+- [A Photo Walk Through the Precincts](#photo-walk)
 - [Key Visiting Points](#point)
 - [Access](#access)
 - [Recommended Crystals](#stones)
@@ -72,6 +73,85 @@ The unique divine blessing of Hokkaido Jingu is its protection for those who are
 - **Famous Cherry Blossom Spot** — Approximately 1,400 Ezo-yamazakura and Somei Yoshino cherry trees
 - **Plum Garden** — The Ezo plum blossoms in early May are also a must-see
 - **Second Torii Gate** — The main approach path from Sapporo Station
+
+## <span id="photo-walk"></span>A Photo Walk Through the Precincts
+
+Hokkaido Jingu stands in a forest next to Maruyama Park. This is a walk through the grounds in the order a visitor would follow, from the great torii along the approach, through the Shinmon gate to the Haiden, with a look at how the seasons change the scene.
+
+### The Great Torii and the Approach
+
+A visit begins at the great torii, where a stone marker bears the shrine’s name. From here, a tree-lined approach leads into the grounds. In winter it is covered in snow, and at New Year it fills with visitors on their first shrine visit.
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-1200.webp" srcset="/images/posts/hokkaido-torii-640.webp 640w, /images/posts/hokkaido-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="857" loading="lazy" decoding="async" alt="The great torii of Hokkaido Jingu">
+<figcaption>The great torii at the start of the approach, with a stone marker engraved “Hokkaido Jingu” beside it. A tree-lined path continues beyond the gate (photographed in 2003). Photo: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-torii-snow-1200.webp" srcset="/images/posts/hokkaido-torii-snow-640.webp 640w, /images/posts/hokkaido-torii-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="798" loading="lazy" decoding="async" alt="The great torii in snow">
+<figcaption>Visitors line up for their first shrine visit of the year before the snow-covered torii (photographed in January 2013). Photo: t-konno / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-approach-1200.webp" srcset="/images/posts/hokkaido-approach-640.webp 640w, /images/posts/hokkaido-approach-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="673" loading="lazy" decoding="async" alt="The front approach to Hokkaido Jingu">
+<figcaption>The front approach (omotesando), lined with stone lanterns and trees on both sides, runs straight toward the inner precincts (photographed in April 2009). Photo: <a href="https://www.flickr.com/photos/60098295@N00/3475176280" rel="noopener" target="_blank">danobrienmuzyka</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+### The Shinmon Gate
+
+At the end of the approach stands the Shinmon gate, with chigi and katsuogi on its roof and a large shimenawa hanging from it. Its look changes with the weather, whether rain or snow.
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-rain-1200.webp" srcset="/images/posts/hokkaido-shinmon-rain-640.webp 640w, /images/posts/hokkaido-shinmon-rain-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="864" loading="lazy" decoding="async" alt="The Shinmon gate on a rainy day">
+<figcaption>The Shinmon gate, with chigi and katsuogi on its roof and a large shimenawa hanging under the eaves. The wet roof gleams in the rain (photographed in 2003). Photo: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-snow-1200.webp" srcset="/images/posts/hokkaido-shinmon-snow-640.webp 640w, /images/posts/hokkaido-shinmon-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The Shinmon gate on a snowy day">
+<figcaption>The Shinmon gate as snow flurries fall. A light layer of snow covers the roof, and the shimenawa can be seen above the stone steps (photographed in February 2015). Photo: <a href="https://www.flickr.com/photos/91049143@N00/16696341536" rel="noopener" target="_blank">bryan...</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-shinmon-inside-1200.webp" srcset="/images/posts/hokkaido-shinmon-inside-640.webp 640w, /images/posts/hokkaido-shinmon-inside-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The approach seen from inside the Shinmon">
+<figcaption>Looking out along the approach from inside the Shinmon gate on a snowy day. A large drum stands beside the gate. Photo: Hideshi Tsunematsu / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+### The Temizuya
+
+At the temizuya in the grounds, water flows from wooden spouts. Rinse your hands and mouth before worship (see “Basic Visiting Etiquette” below for the steps).
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-temizuya-1200.webp" srcset="/images/posts/hokkaido-temizuya-640.webp 640w, /images/posts/hokkaido-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The temizuya at Hokkaido Jingu">
+<figcaption>Clear water flows from wooden spouts at the temizuya (water pavilion). A shrine building’s roof can be seen softly out of focus in the background. Photo: Hideshi Tsunematsu / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+### The Haiden
+
+A white curtain with chrysanthemum crests hangs in front of the Haiden. Chigi and katsuogi line its roof, giving the hall a dignified presence at the heart of the precincts. The two photos taken in 2003 also show construction work that was under way in the grounds at the time.
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-summer-1200.webp" srcset="/images/posts/hokkaido-haiden-summer-640.webp 640w, /images/posts/hokkaido-haiden-summer-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The Haiden of Hokkaido Jingu in summer">
+<figcaption>The Haiden with a white curtain bearing chrysanthemum crests. Its large roof with chigi and katsuogi stands out against the green trees (photographed in 2007). Photo: Daigaku2051 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-front-1200.webp" srcset="/images/posts/hokkaido-haiden-front-640.webp 640w, /images/posts/hokkaido-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="842" loading="lazy" decoding="async" alt="The Haiden seen from the front">
+<figcaption>The Haiden from the front, with gold fittings gleaming at the end of the stone-paved approach. Work was being carried out in the precincts at the time (photographed in 2003). Photo: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-haiden-side-1200.webp" srcset="/images/posts/hokkaido-haiden-side-640.webp 640w, /images/posts/hokkaido-haiden-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="843" loading="lazy" decoding="async" alt="The Haiden seen from an angle">
+<figcaption>The Haiden from the side. A white curtain hangs under the large roof, and the timber framing under the eaves is visible (photographed in 2003). Photo: lienyuan lee / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+### The Tongu in Central Sapporo
+
+Hokkaido Jingu also has a Tongu in the city center of Sapporo. Deep in its tree-filled grounds, a shrine building with a white curtain can be seen.
+
+<figure class="photo">
+<img src="/images/posts/hokkaido-tongu-1200.webp" srcset="/images/posts/hokkaido-tongu-640.webp 640w, /images/posts/hokkaido-tongu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Hokkaido Jingu Tongu in central Sapporo">
+<figcaption>The torii of Hokkaido Jingu Tongu in Sapporo’s city center. Red banners stand beside the path, and the shrine building can be seen among the trees beyond the gate (photographed in 2017). Photo: <a href="https://commons.wikimedia.org/wiki/User:Pundit" rel="noopener" target="_blank">Pundit</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
 
 ## <span id="point"></span>Key Visiting Points
 
