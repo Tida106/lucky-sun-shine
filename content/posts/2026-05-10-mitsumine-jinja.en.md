@@ -2,7 +2,7 @@
 title: "Mitsumine Shrine Visitor's Guide"
 description: "A comprehensive guide to Mitsumine Shrine (Chichibu City, Saitama Prefecture), covering its history, Izanagi-no-Mikoto and Izanami-no-Mikoto, 'Oin-sama' (sacred wolf) worship, the triple torii gate, Kimamori amulets, the inner shrine (Okumiya), visiting tips, access, recommended crystals, nearby spots, and FAQs. Your essential companion for visiting this sacred site at an altitude of 1,100 meters."
 date: "2026-05-10"
-updated: "2026-05-23"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["Goshuincho", "Saitama Prefecture", "Evil Warding"]
 draft: false
@@ -68,11 +68,23 @@ From the medieval period onwards, it flourished as a sacred site for **Shugendo*
 
 The most distinctive feature of Mitsumine Shrine is that its divine messengers are **wolves, known as Oin-sama**. Throughout the shrine grounds, you'll find **wolf guardian statues (Komainu)** – the open-mouthed 'Agyo' and closed-mouthed 'Ungyo' figures.
 
+<figure class="photo">
+<img src="/images/posts/mitsumine-zuishinmon-snow-1200.webp" srcset="/images/posts/mitsumine-zuishinmon-snow-640.webp 640w, /images/posts/mitsumine-zuishinmon-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Wolf statue in front of the Zuishin-mon Gate">
+<figcaption>The vermilion Zuishin-mon Gate seen from a snow-dusted approach. Wolf statues draped in purple cloth sit on the pedestals on either side (photographed January 2014). Photo: <a href="https://web.archive.org/web/20161028004010/http://www.panoramio.com/photo/101499236" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
 It is believed that enshrining an 'Oin-sama' amulet at home **wards off theft, fire, and evil possessions**, a belief that has garnered fervent devotion throughout the Kanto region since the Edo period. The ritual of "**Gokenzoku Haishaku**," where worshippers "borrow" Oin-sama as a divine attendant, is a unique prayer service at Mitsumine Shrine that continues to see endless applications even today.
 
 > **Note**: The "efficacy" of amulets and charms holds religious and cultural significance.
 
 ## <span id="highlight"></span>The Mitsu-Torii Gate and Highlights of the Grounds
+
+This is the Mitsu-Torii standing at the entrance to the approach. Small torii stand on either side of the large central one, and wolf statues keep watch beside them.
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-torii-1200.webp" srcset="/images/posts/mitsumine-torii-640.webp 640w, /images/posts/mitsumine-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Mitsu-Torii and wolf statues">
+<figcaption>The Mitsu-Torii in winter. Wolf statues on pedestals engraved with the characters 無辺 and 神徳 stand to the left and right (photographed January 2014). Photo: <a href="https://web.archive.org/web/20161028155104/http://www.panoramio.com/photo/101499220" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
 
 -   **Mitsu-Torii (Triple Torii Gate)** — A rare form featuring a central torii gate flanked by two smaller ones. Only a few shrines nationwide possess this unique design.
 -   **Zuishin-mon Gate** — An impressive vermillion-lacquered gate.
@@ -80,6 +92,45 @@ It is believed that enshrining an 'Oin-sama' amulet at home **wards off theft, f
 -   **Sea of Clouds from the Yoai-den (Distant Worship Hall)** — A spectacular viewpoint where a sea of clouds often spreads out in the early morning.
 -   **Sacred Tree (Goshinboku)** — A large cedar tree in front of the worship hall, where visitors can touch it to receive spiritual energy.
 -   **Kounkaku** — A shukubo (temple lodging) and hot spring facility.
+
+Beyond the Mitsu-Torii, follow the path lined with stone lanterns and the Zuishin-mon Gate comes into view among the cedars.
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-zuishinmon-path-1200.webp" srcset="/images/posts/mitsumine-zuishinmon-path-640.webp 640w, /images/posts/mitsumine-zuishinmon-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="815" loading="lazy" decoding="async" alt="Approach lined with stone lanterns and the Zuishin-mon Gate">
+<figcaption>The vermilion Zuishin-mon Gate at the end of an approach lined with stone lanterns (photographed November 2016). Photo: <a href="https://www.flickr.com/photos/s_freesia/30675788836/" rel="noopener" target="_blank">Manabu Itoh</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+The Haiden (worship hall) is known for its richly colored carvings, said to date from Kansei 12 (1800). Looking up at it between large trees wrapped in sacred ropes is especially memorable.
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-trees-1200.webp" srcset="/images/posts/mitsumine-haiden-trees-640.webp 640w, /images/posts/mitsumine-haiden-trees-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Worship hall between trees wrapped in sacred rope">
+<figcaption>The Haiden seen past a large tree wrapped in a sacred rope. Carvings and vivid colors spread beneath the roof as well (photographed January 2014). Photo: <a href="https://web.archive.org/web/20161028072217/http://www.panoramio.com/photo/101499285" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-front-1200.webp" srcset="/images/posts/mitsumine-haiden-front-640.webp 640w, /images/posts/mitsumine-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Front of the worship hall">
+<figcaption>The front of the Haiden rising above the stone steps. The plaque reading "Mitsumine Jinja" and the verdigris-green lanterns catch the eye (photographed September 2011). Photo: NY066 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+Up close, colorfully painted carvings overlap again and again beneath the eaves.
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-carving-1200.webp" srcset="/images/posts/mitsumine-haiden-carving-640.webp 640w, /images/posts/mitsumine-haiden-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Carvings beneath the eaves of the worship hall">
+<figcaption>Carvings lined up beneath the eaves of the Haiden. Vividly colored figures and animals overlap one another (photographed January 2014). Photo: <a href="https://web.archive.org/web/20161029171719/http://www.panoramio.com/photo/101499290" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-eaves-dragons-1200.webp" srcset="/images/posts/mitsumine-eaves-dragons-640.webp 640w, /images/posts/mitsumine-eaves-dragons-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Dragon carvings beneath the eaves">
+<figcaption>Dragon carvings projecting from beneath the eaves. The bright red and green coloring can be seen up close (photographed January 2014). Photo: <a href="https://web.archive.org/web/20161028072108/http://www.panoramio.com/photo/101499280" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+The shrine office in the grounds is just as colorful as the main buildings.
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-shamusho-1200.webp" srcset="/images/posts/mitsumine-shamusho-640.webp 640w, /images/posts/mitsumine-shamusho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="The shrine office building">
+<figcaption>The shrine office (shamusho), with a vermilion railing and vivid gold and blue coloring (photographed November 2011). Photo: <a href="https://web.archive.org/web/20161023210441/http://www.panoramio.com/photo/61736777" rel="noopener" target="_blank">Adachi Masayuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 
 ## <span id="okumiya"></span>About the Okumiya (Inner Shrine)
 

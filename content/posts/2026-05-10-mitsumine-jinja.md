@@ -2,7 +2,7 @@
 title: "三峯神社の参拝ガイド｜お犬さま信仰と三ツ鳥居で知られる秩父の関東屈指のパワースポット"
 description: "三峯神社（埼玉県秩父市）の歴史・伊弉諾尊・伊弉冉尊・お犬さま（神使の狼）信仰・三ツ鳥居・気守・奥宮・参拝のポイント・アクセス・おすすめのパワーストーン・周辺スポット・FAQまでを総合的に解説。標高1100mの霊地を訪れるための保存版です。"
 date: "2026-05-10"
-updated: "2026-05-23"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["御朱印帳", "埼玉県", "魔除け"]
 slug: "mitsumine-jinja"
@@ -65,11 +65,23 @@ draft: false
 
 三峯神社の最大の特徴は、神使が **オオカミ（お犬さま）** であること。境内のあちこちに、口を開けた阿形と口を閉じた吽形の **狼の狛犬** が並びます。
 
+<figure class="photo">
+<img src="/images/posts/mitsumine-zuishinmon-snow-1200.webp" srcset="/images/posts/mitsumine-zuishinmon-snow-640.webp 640w, /images/posts/mitsumine-zuishinmon-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="随身門の前に座る狼の像">
+<figcaption>雪の残る参道から見た朱塗りの随身門。両脇の台座に、紫色の布を掛けた狼の像が座っています（2014年1月撮影）。 写真：<a href="https://web.archive.org/web/20161028004010/http://www.panoramio.com/photo/101499236" rel="noopener" target="_blank">Carbonium</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 「お犬さま」のお札を家に祀ると **盗難・火災・憑き物を退ける** とされ、江戸時代から関東一円で篤い信仰を集めてきました。眷属としてお犬さまをお借りする「**御眷属拝借**」という神事は、現代でも申込が絶えない三峯神社ならではの祈祷です。
 
 > **注意**：お札・お守りの「効果」は宗教的・文化的な意味合いです。
 
 ## <span id="highlight"></span>三ツ鳥居と境内の見どころ
+
+参道の入口に立つ三ツ鳥居です。中央の大きな鳥居の左右に小さな鳥居が連なり、両脇には狼の像が控えています。
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-torii-1200.webp" srcset="/images/posts/mitsumine-torii-640.webp 640w, /images/posts/mitsumine-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="三ツ鳥居と狼の像">
+<figcaption>冬の三ツ鳥居。台座に「無辺」「神徳」の文字が刻まれた狼の像が、左右に控えています（2014年1月撮影）。 写真：<a href="https://web.archive.org/web/20161028155104/http://www.panoramio.com/photo/101499220" rel="noopener" target="_blank">Carbonium</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
 
 - **三ツ鳥居（みつとりい）** — 中央の鳥居の両脇に小さな鳥居を組み合わせた珍しい形式。全国でも数社にしか見られない。
 - **随身門** — 朱塗りの立派な門
@@ -77,6 +89,45 @@ draft: false
 - **遥拝殿からの雲海** — 早朝に雲海が広がることがある絶景スポット
 - **御神木** — 拝殿前の大杉、触れて気を頂ける
 - **興雲閣** — 宿坊・温泉施設
+
+三ツ鳥居から奥へ進み、石灯籠が並ぶ参道をたどると、杉木立の奥に随身門が見えてきます。
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-zuishinmon-path-1200.webp" srcset="/images/posts/mitsumine-zuishinmon-path-640.webp 640w, /images/posts/mitsumine-zuishinmon-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="815" loading="lazy" decoding="async" alt="石灯籠の並ぶ参道と随身門">
+<figcaption>石灯籠が並ぶ参道の先に、朱塗りの随身門が見えます（2016年11月撮影）。 写真：<a href="https://www.flickr.com/photos/s_freesia/30675788836/" rel="noopener" target="_blank">Manabu Itoh</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+拝殿は、寛政12年（1800年）建立と伝わる極彩色の彫刻が見どころです。しめ縄が巻かれた大木の間から見上げる姿は、とくに印象的です。
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-trees-1200.webp" srcset="/images/posts/mitsumine-haiden-trees-640.webp 640w, /images/posts/mitsumine-haiden-trees-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="しめ縄の巻かれた大木と拝殿">
+<figcaption>しめ縄が巻かれた大木の向こうに見える拝殿。屋根の下にも彫刻と極彩色が広がります（2014年1月撮影）。 写真：<a href="https://web.archive.org/web/20161028072217/http://www.panoramio.com/photo/101499285" rel="noopener" target="_blank">Carbonium</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-front-1200.webp" srcset="/images/posts/mitsumine-haiden-front-640.webp 640w, /images/posts/mitsumine-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="拝殿の正面">
+<figcaption>石段の上にそびえる拝殿の正面。「三峯神社」の扁額と、緑青色の灯籠が目を引きます（2011年9月撮影）。 写真：NY066／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+近づくと、軒下には彩色された彫刻が幾重にも重なっています。
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-carving-1200.webp" srcset="/images/posts/mitsumine-haiden-carving-640.webp 640w, /images/posts/mitsumine-haiden-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="拝殿の軒下の彫刻">
+<figcaption>拝殿の軒下に並ぶ彫刻。人物や動物をかたどった極彩色の飾りが重なります（2014年1月撮影）。 写真：<a href="https://web.archive.org/web/20161029171719/http://www.panoramio.com/photo/101499290" rel="noopener" target="_blank">Carbonium</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-eaves-dragons-1200.webp" srcset="/images/posts/mitsumine-eaves-dragons-640.webp 640w, /images/posts/mitsumine-eaves-dragons-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="軒下に並ぶ龍の彫刻">
+<figcaption>軒下から張り出す龍の彫刻。赤と緑の鮮やかな彩色を間近に見られます（2014年1月撮影）。 写真：<a href="https://web.archive.org/web/20161028072108/http://www.panoramio.com/photo/101499280" rel="noopener" target="_blank">Carbonium</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+境内の社務所も、社殿に負けない華やかな彩色です。
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-shamusho-1200.webp" srcset="/images/posts/mitsumine-shamusho-640.webp 640w, /images/posts/mitsumine-shamusho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="社務所の建物">
+<figcaption>朱色の欄干と、金や青の彩色が鮮やかな社務所の建物（2011年11月撮影）。 写真：<a href="https://web.archive.org/web/20161023210441/http://www.panoramio.com/photo/61736777" rel="noopener" target="_blank">Adachi Masayuki</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 
 ## <span id="okumiya"></span>奥宮について
 

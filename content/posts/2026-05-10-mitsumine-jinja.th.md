@@ -2,7 +2,7 @@
 title: "คู่มือเที่ยวศาลเจ้ามิตสึมิเนะจินจะ: ความเชื่อหมาป่าศักดิ์สิทธิ์แห่งชิจิบุ"
 description: "คู่มือฉบับสมบูรณ์ของศาลเจ้ามิตสึมิเนะจินจะ (จังหวัดไซตามะ) ครอบคลุมประวัติศาสตร์ ความเชื่อหมาป่าศักดิ์สิทธิ์โอะอินุซามะ โทริอิสามชั้น ศาลเจ้าชั้นในโอคุมิยะ หินมงคล และจุดท่องเที่ยวใกล้เคียง พาวเวอร์สปอตระดับแนวหน้าของภูมิภาคคันโต"
 date: "2026-05-10"
-updated: "2026-05-23"
+updated: "2026-11-23"
 category: "powerspots"
 tags: ["สมุดโกชูอิน", "ไซตามะ", "ป้องกันสิ่งชั่วร้าย"]
 slug: "mitsumine-jinja"
@@ -42,15 +42,66 @@ draft: false
 
 จุดเด่นที่สุดของศาลเจ้ามิตสึมิเนะจินจะคือทูตสวรรค์เป็น **หมาป่า (โอะอินุซามะ)** ทั่วบริเวณศาลเจ้ามีรูปปั้นสุนัขหินสไตล์หมาป่าทั้งปากเปิดและปากปิดเรียงรายอยู่
 
+<figure class="photo">
+<img src="/images/posts/mitsumine-zuishinmon-snow-1200.webp" srcset="/images/posts/mitsumine-zuishinmon-snow-640.webp 640w, /images/posts/mitsumine-zuishinmon-snow-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="รูปปั้นหมาป่าหน้าประตูซุยจินมง">
+<figcaption>ประตูซุยจินมงสีแดงชาดที่มองจากทางเดินที่มีหิมะหลงเหลือ มีรูปปั้นหมาป่าที่คลุมผ้าสีม่วงนั่งอยู่บนฐานทั้งสองข้าง (ถ่ายมกราคม 2014) ภาพ: <a href="https://web.archive.org/web/20161028004010/http://www.panoramio.com/photo/101499236" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ป้ายยันต์ “โอะอินุซามะ” ที่นำไปบูชาในบ้านเชื่อกันว่าสามารถ **ป้องกันโจรกรรม อัคคีภัย และสิ่งชั่วร้าย** ได้รับความศรัทธาอย่างลึกซึ้งทั่วคันโตมาตั้งแต่ยุคเอโดะ พิธี **“โกะเค็นโซคุไฮชะกุ”** ที่ยืมทูตสวรรค์หมาป่ามาปกป้องยังคงมีผู้สมัครขอรับอย่างต่อเนื่องจนถึงปัจจุบัน
 
 ## โทริอิสามชั้นและจุดเด่นในบริเวณศาลเจ้า
+
+นี่คือโทริอิสามชั้นที่ตั้งอยู่ตรงทางเข้าทางเดิน มีโทริอิเล็กต่อออกไปทั้งสองข้างของโทริอิใหญ่ตรงกลาง และมีรูปปั้นหมาป่าเฝ้าอยู่ข้าง ๆ
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-torii-1200.webp" srcset="/images/posts/mitsumine-torii-640.webp 640w, /images/posts/mitsumine-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="โทริอิสามชั้นและรูปปั้นหมาป่า">
+<figcaption>โทริอิสามชั้นในฤดูหนาว รูปปั้นหมาป่าบนฐานที่สลักตัวอักษร 無辺 และ 神徳 ตั้งอยู่ทั้งซ้ายและขวา (ถ่ายมกราคม 2014) ภาพ: <a href="https://web.archive.org/web/20161028155104/http://www.panoramio.com/photo/101499220" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 - **โทริอิสามชั้น (มิตสึโทริอิ)** — รูปแบบหายากที่มีโทริอิขนาดเล็กประกบอยู่สองข้างของโทริอิกลาง พบได้ไม่กี่แห่งในญี่ปุ่น
 - **ประตูซุยจินมง** — ประตูสีแดงอันงดงาม
 - **ศาลหลักและห้องสักการะ** — แกะสลักสีสันสดใสสร้างในปี 1800
 - **ทะเลเมฆจากศาลาไหว้ระยะไกล** — จุดชมวิวที่ทะเลเมฆแผ่กว้างในยามเช้าตรู่
 - **ต้นไม้ศักดิ์สิทธิ์** — ต้นสนใหญ่หน้าห้องสักการะ สัมผัสเพื่อรับพลัง
+
+เดินต่อจากโทริอิสามชั้นไปตามทางเดินที่มีโคมหินเรียงราย จะเห็นประตูซุยจินมงปรากฏขึ้นท่ามกลางต้นซีดาร์
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-zuishinmon-path-1200.webp" srcset="/images/posts/mitsumine-zuishinmon-path-640.webp 640w, /images/posts/mitsumine-zuishinmon-path-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="815" loading="lazy" decoding="async" alt="ทางเดินที่มีโคมหินเรียงรายและประตูซุยจินมง">
+<figcaption>ประตูซุยจินมงสีแดงชาดที่ปลายทางเดินซึ่งมีโคมหินเรียงราย (ถ่ายพฤศจิกายน 2016) ภาพ: <a href="https://www.flickr.com/photos/s_freesia/30675788836/" rel="noopener" target="_blank">Manabu Itoh</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+ไฮเด็ง (ห้องสักการะ) มีจุดเด่นคืองานแกะสลักหลากสีที่ว่ากันว่าสร้างในปี 1800 การแหงนมองระหว่างต้นไม้ใหญ่ที่พันด้วยเชือกศักดิ์สิทธิ์ให้ความรู้สึกน่าประทับใจเป็นพิเศษ
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-trees-1200.webp" srcset="/images/posts/mitsumine-haiden-trees-640.webp 640w, /images/posts/mitsumine-haiden-trees-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="ไฮเด็งและต้นไม้ใหญ่ที่พันเชือกศักดิ์สิทธิ์">
+<figcaption>ไฮเด็งที่มองผ่านต้นไม้ใหญ่ซึ่งพันด้วยเชือกศักดิ์สิทธิ์ ใต้หลังคาก็มีงานแกะสลักและสีสันสดใสแผ่ออกไป (ถ่ายมกราคม 2014) ภาพ: <a href="https://web.archive.org/web/20161028072217/http://www.panoramio.com/photo/101499285" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-front-1200.webp" srcset="/images/posts/mitsumine-haiden-front-640.webp 640w, /images/posts/mitsumine-haiden-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ด้านหน้าไฮเด็ง">
+<figcaption>ด้านหน้าไฮเด็งที่ตั้งตระหง่านเหนือบันไดหิน ป้าย "มิตสึมิเนะจินจะ" และโคมสีเขียวทองแดงสะดุดตา (ถ่ายกันยายน 2011) ภาพ: NY066 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+เมื่อเข้าไปใกล้ จะเห็นงานแกะสลักที่ลงสีซ้อนกันหลายชั้นใต้ชายคา
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-haiden-carving-1200.webp" srcset="/images/posts/mitsumine-haiden-carving-640.webp 640w, /images/posts/mitsumine-haiden-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="งานแกะสลักใต้ชายคาของไฮเด็ง">
+<figcaption>งานแกะสลักที่เรียงรายใต้ชายคาของไฮเด็ง ลวดลายรูปคนและสัตว์สีสดใสซ้อนทับกัน (ถ่ายมกราคม 2014) ภาพ: <a href="https://web.archive.org/web/20161029171719/http://www.panoramio.com/photo/101499290" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-eaves-dragons-1200.webp" srcset="/images/posts/mitsumine-eaves-dragons-640.webp 640w, /images/posts/mitsumine-eaves-dragons-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="งานแกะสลักมังกรใต้ชายคา">
+<figcaption>งานแกะสลักมังกรที่ยื่นออกมาจากใต้ชายคา เห็นสีแดงและเขียวสดใสได้ในระยะใกล้ (ถ่ายมกราคม 2014) ภาพ: <a href="https://web.archive.org/web/20161028072108/http://www.panoramio.com/photo/101499280" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+สำนักงานศาลเจ้าในบริเวณก็มีสีสันสดใสไม่แพ้อาคารหลัก
+
+<figure class="photo">
+<img src="/images/posts/mitsumine-shamusho-1200.webp" srcset="/images/posts/mitsumine-shamusho-640.webp 640w, /images/posts/mitsumine-shamusho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="อาคารสำนักงานศาลเจ้า">
+<figcaption>สำนักงานศาลเจ้า (ชามุโชะ) ที่มีราวระเบียงสีแดงชาดและสีทองกับสีน้ำเงินสดใส (ถ่ายพฤศจิกายน 2011) ภาพ: <a href="https://web.archive.org/web/20161023210441/http://www.panoramio.com/photo/61736777" rel="noopener" target="_blank">Adachi Masayuki</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 
 ## เกี่ยวกับศาลเจ้าชั้นในโอคุมิยะ
 
