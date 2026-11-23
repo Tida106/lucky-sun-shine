@@ -95,6 +95,15 @@ draft: false
 - **北辰の梟**（北側）
 - **つなぎの龍**（東側）
 
+### 子宝・子育ての虎
+
+<figure class="photo">
+<img src="/images/posts/chichibu-tiger-1200.webp" srcset="/images/posts/chichibu-tiger-640.webp 640w, /images/posts/chichibu-tiger-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="「子宝・子育ての虎」の彫刻">
+<figcaption>拝殿の正面、軒下の壁に彫られた「子宝・子育ての虎」。左に竹林を歩く虎、右に子虎と戯れる親の虎が彫られています（2006年9月撮影）。 写真：nnh／Wikimedia Commons（パブリックドメイン）（サイズ変更あり）</figcaption>
+</figure>
+
+左甚五郎の作と伝わる、本殿正面を代表する彫刻です。徳川家康が寅年・寅の日・寅の刻の生まれとされることにちなむとも言われ、古くから子授け・子育ての象徴として親しまれてきました。右の親虎が豹のような斑点で描かれているのは、当時は虎の姿がよく知られておらず、豹をもとに彫ったためという説もあります。
+
 ### つなぎの龍
 
 <figure class="photo">

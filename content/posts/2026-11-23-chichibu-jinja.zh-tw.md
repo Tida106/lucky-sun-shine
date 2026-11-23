@@ -95,6 +95,15 @@ draft: false
 - **北辰之梟**（北側）
 - **繫龍**（東側）
 
+### 子寶・育子之虎
+
+<figure class="photo">
+<img src="/images/posts/chichibu-tiger-1200.webp" srcset="/images/posts/chichibu-tiger-640.webp 640w, /images/posts/chichibu-tiger-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="「子寶・育子之虎」雕刻">
+<figcaption>刻在拜殿正面屋簷下牆面的「子寶・育子之虎」。左側是漫步於竹林間的老虎，右側是與小虎嬉戲的虎親（2006年9月拍攝）。 照片：nnh／Wikimedia Commons（公有領域）</figcaption>
+</figure>
+
+相傳出自左甚五郎之手，是本殿正面的代表性雕刻。也有一說認為與德川家康出生於寅年、寅日、寅時有關，自古被視為求子與育子的象徵。右側的虎親被刻成帶有豹紋般的斑點，有一說是因為當時人們不太熟悉老虎的樣貌，而以豹為藍本雕刻。
+
 ### 繫龍
 
 <figure class="photo">

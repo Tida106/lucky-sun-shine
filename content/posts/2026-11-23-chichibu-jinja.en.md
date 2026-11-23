@@ -95,6 +95,15 @@ The great appeal of Chichibu Shrine is the **richly colored carvings** that surr
 - **Owl of the Pole Star** (north side)
 - **Chained Dragon** (east side)
 
+### The Tiger of Fertility and Child-Rearing
+
+<figure class="photo">
+<img src="/images/posts/chichibu-tiger-1200.webp" srcset="/images/posts/chichibu-tiger-640.webp 640w, /images/posts/chichibu-tiger-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Carving of the "Tiger of Fertility and Child-Rearing"">
+<figcaption>The "Kodakara Kosodate no Tora" carving on the wall under the eaves at the front of the Haiden. A tiger walks among bamboo on the left, and a parent tiger plays with cubs on the right (photographed September 2006). Photo: nnh / Wikimedia Commons (public domain)</figcaption>
+</figure>
+
+Said to be the work of Hidari Jingoro, this is the signature carving on the front of the main hall. It is also said to relate to Tokugawa Ieyasu being born in a tiger year, on a tiger day and at the hour of the tiger, and it has long been regarded as a symbol of conceiving and raising children. The parent on the right is carved with leopard-like spots, and one theory holds that this is because tigers were little known at the time and a leopard served as the model.
+
 ### The Chained Dragon
 
 <figure class="photo">
