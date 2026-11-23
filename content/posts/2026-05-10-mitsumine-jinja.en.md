@@ -136,6 +136,11 @@ The shrine office in the grounds is just as colorful as the main buildings.
 
 The Okumiya (Inner Shrine), located about an hour's walk from the main shrine at the **summit of Mt. Myohogake (1,329m elevation)**, requires proper hiking gear for a full-fledged mountain pilgrimage. It's recommended for those in good physical condition, as it involves chains and steep ascents. However, the breathtaking panoramic views of the Chichibu mountain range from the summit's small shrine and the profound tranquility not found at the main shrine are said to be truly exceptional.
 
+<figure class="photo">
+<img src="/images/posts/mitsumine-myoho-1200.webp" srcset="/images/posts/mitsumine-myoho-640.webp 640w, /images/posts/mitsumine-myoho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Mt. Myohogake seen from the Okumiya worship hall">
+<figcaption>Mt. Myohogake seen from the Okumiya distant worship hall. Ridgelines overlap beyond the snow-dusted slope and the cedars (photographed March 2018). Photo: Koda6029 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 ## <span id="point"></span>Key Visiting Tips
 
 -   Don't forget to bow once before passing through the Mitsu-Torii Gate.
@@ -168,6 +173,43 @@ Here are some stones believed to resonate well with the shrine's energy when you
 -   **Hodosan Shrine** — One of the Three Shrines of Chichibu, located in Nagatoro Town.
 -   **Nagatoro Gorge** — Famous for its river rafting.
 -   **Chichibu Railway SL** — The steam locomotive "Paleo Express."
+
+### Highlights of Chichibu Shrine
+
+Chichibu Shrine, in the center of Chichibu City, is easy to combine with a visit to Mitsumine Shrine. Its main hall is decorated with many vividly colored carvings.
+
+<figure class="photo">
+<img src="/images/posts/chichibu-torii-1200.webp" srcset="/images/posts/chichibu-torii-640.webp 640w, /images/posts/chichibu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Entrance to Chichibu Shrine">
+<figcaption>The entrance to Chichibu Shrine. The shrine buildings can be seen beyond the torii, with a stone pillar bearing the shrine name and komainu guardians standing on either side. Photo: <a href="https://web.archive.org/web/20161020125510/http://www.panoramio.com/photo/57941789" rel="noopener" target="_blank">yamai36</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-gate-1200.webp" srcset="/images/posts/chichibu-gate-640.webp 640w, /images/posts/chichibu-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="Vermilion gate and sake barrels">
+<figcaption>Visitors passing through the vermilion gate. The curved roof and gold ornaments catch the eye, with stacked sake barrels on both sides (photographed January 2014). Photo: <a href="https://web.archive.org/web/20161029111121/http://www.panoramio.com/photo/101498992" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-haiden-1200.webp" srcset="/images/posts/chichibu-haiden-640.webp 640w, /images/posts/chichibu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Worship hall of Chichibu Shrine">
+<figcaption>The front of the Haiden (worship hall) of Chichibu Shrine. Carvings line the eaves, and a sacred rope and paper streamers hang at the entrance (photographed September 2011). Photo: NY066 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+The carvings on the main hall depict animals and scenes in vivid color.
+
+<figure class="photo">
+<img src="/images/posts/chichibu-dragon-1200.webp" srcset="/images/posts/chichibu-dragon-640.webp 640w, /images/posts/chichibu-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Carving of the "Chained Dragon"">
+<figcaption>The "Tsunagi no Ryu" (Chained Dragon) carving on the main hall. A blue dragon is carved among clouds, with rabbits and birds visible below (photographed December 2023). Photo: tak1701d / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-monkeys-1200.webp" srcset="/images/posts/chichibu-monkeys-640.webp 640w, /images/posts/chichibu-monkeys-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Carving of the "Three Energetic Monkeys"">
+<figcaption>The "Ogenki Sanzaru" (Three Energetic Monkeys) carving on the main hall. Three monkeys show different expressions beneath a peach tree (photographed December 2023). Photo: tak1701d / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-owl-1200.webp" srcset="/images/posts/chichibu-owl-640.webp 640w, /images/posts/chichibu-owl-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Carving of the "Owl of the Pole Star"">
+<figcaption>The "Hokushin no Fukuro" (Owl of the Pole Star) carving on the main hall. An owl and small birds are carved beneath a wave pattern (photographed December 2023). Photo: tak1701d / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 
 ## <span id="season"></span>Best Time to Visit
 

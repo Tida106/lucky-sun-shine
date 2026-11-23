@@ -133,6 +133,11 @@ draft: false
 
 本社から徒歩で約1時間、**妙法ヶ岳山頂（標高1329m）** に鎮座する奥宮は、登山装備が必要な本格的な山岳参拝。鎖場や急登もあるため、健脚者向けですが、山頂の祠から望む秩父連山の絶景と、本社では味わえない静寂は格別と語られます。
 
+<figure class="photo">
+<img src="/images/posts/mitsumine-myoho-1200.webp" srcset="/images/posts/mitsumine-myoho-640.webp 640w, /images/posts/mitsumine-myoho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="奥宮遥拝殿から望む妙法ヶ岳">
+<figcaption>奥宮遥拝殿から望む妙法ヶ岳。雪の残る斜面と杉の木立の向こうに、稜線が重なっています（2018年3月撮影）。 写真：Koda6029／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="point"></span>参拝のポイント
 
 - **三ツ鳥居** をくぐる前に一礼を忘れずに
@@ -165,6 +170,43 @@ draft: false
 - **宝登山神社** — 秩父三社の一つ、長瀞町
 - **長瀞渓谷** — ライン下りで有名
 - **秩父鉄道SL** — 蒸気機関車「パレオエクスプレス」
+
+### 秩父神社の見どころ
+
+秩父市街にある秩父神社は、三峯神社とあわせて訪れやすい社です。本殿には色鮮やかな彫刻が数多く施されています。
+
+<figure class="photo">
+<img src="/images/posts/chichibu-torii-1200.webp" srcset="/images/posts/chichibu-torii-640.webp 640w, /images/posts/chichibu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="秩父神社の入口">
+<figcaption>秩父神社の入口。鳥居の奥に社殿が見え、「秩父神社」と刻まれた石柱や狛犬が立っています。 写真：<a href="https://web.archive.org/web/20161020125510/http://www.panoramio.com/photo/57941789" rel="noopener" target="_blank">yamai36</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-gate-1200.webp" srcset="/images/posts/chichibu-gate-640.webp 640w, /images/posts/chichibu-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="朱塗りの門と酒樽">
+<figcaption>朱塗りの門をくぐる参拝者。反った屋根と金の飾りが目を引き、両脇には酒樽が積まれています（2014年1月撮影）。 写真：<a href="https://web.archive.org/web/20161029111121/http://www.panoramio.com/photo/101498992" rel="noopener" target="_blank">Carbonium</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-haiden-1200.webp" srcset="/images/posts/chichibu-haiden-640.webp 640w, /images/posts/chichibu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="秩父神社の拝殿">
+<figcaption>秩父神社の拝殿の正面。軒下に彫刻が並び、しめ縄と紙垂が下がっています（2011年9月撮影）。 写真：NY066／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+本殿の彫刻には、物語や動物が色鮮やかに彫り出されています。
+
+<figure class="photo">
+<img src="/images/posts/chichibu-dragon-1200.webp" srcset="/images/posts/chichibu-dragon-640.webp 640w, /images/posts/chichibu-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="「つなぎの龍」の彫刻">
+<figcaption>本殿の彫刻「つなぎの龍」。青い龍が雲の間に彫り出され、下には兎や鳥の彫刻も見えます（2023年12月撮影）。 写真：tak1701d／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-monkeys-1200.webp" srcset="/images/posts/chichibu-monkeys-640.webp 640w, /images/posts/chichibu-monkeys-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="「お元気三猿」の彫刻">
+<figcaption>本殿の彫刻「お元気三猿」。桃の木の下で、三匹の猿がそれぞれ違う表情を見せています（2023年12月撮影）。 写真：tak1701d／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-owl-1200.webp" srcset="/images/posts/chichibu-owl-640.webp 640w, /images/posts/chichibu-owl-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="「北辰の梟」の彫刻">
+<figcaption>本殿の彫刻「北辰の梟」。波の模様の下に、梟や小鳥たちが彫り出されています（2023年12月撮影）。 写真：tak1701d／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 
 ## <span id="season"></span>おすすめの時期・時間
 

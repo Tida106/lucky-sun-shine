@@ -107,6 +107,11 @@ draft: false
 
 เดินจากศาลหลักประมาณ 1 ชั่วโมง ศาลเจ้าชั้นในตั้งอยู่บน **ยอดเขาเมียวโฮงาตาเกะ (สูง 1,329 เมตร)** เป็นการสักการะบนภูเขาแบบจริงจังที่ต้องใช้อุปกรณ์เดินป่า มีจุดที่ต้องปีนโซ่และทางชันจึงเหมาะกับผู้มีพละกำลัง แต่ทิวทัศน์เทือกเขาชิจิบุจากศาลเล็กบนยอดเขาและความเงียบสงบที่ไม่อาจสัมผัสได้ที่ศาลหลักนั้นพิเศษอย่างยิ่ง
 
+<figure class="photo">
+<img src="/images/posts/mitsumine-myoho-1200.webp" srcset="/images/posts/mitsumine-myoho-640.webp 640w, /images/posts/mitsumine-myoho-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ภูเขาเมียวโฮงาตาเกะที่มองจากศาลาไหว้ระยะไกลของศาลเจ้าชั้นใน">
+<figcaption>ภูเขาเมียวโฮงาตาเกะที่มองจากศาลาไหว้ระยะไกลของศาลเจ้าชั้นใน เส้นสันเขาซ้อนกันเหนือเนินที่มีหิมะหลงเหลือและแนวต้นซีดาร์ (ถ่ายมีนาคม 2018) ภาพ: Koda6029 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## จุดสำคัญในการไหว้
 
 - อย่าลืมค้อมคำนับก่อนลอด **โทริอิสามชั้น**
@@ -132,6 +137,43 @@ draft: false
 - **ศาลเจ้าโฮโดซังจินจะ** — หนึ่งใน 3 ศาลเจ้าใหญ่แห่งชิจิบุ เมืองนางาโทโระ
 - **หุบเขานางาโทโระ** — มีชื่อเสียงด้านการล่องแก่ง
 - **รถไฟไอน้ำชิจิบุ** — รถจักรไอน้ำ “พาลีโอเอ็กซ์เพรส”
+
+### จุดเด่นของศาลเจ้าชิจิบุจินจะ
+
+ศาลเจ้าชิจิบุจินจะตั้งอยู่ในเมืองชิจิบุ แวะไปพร้อมกับศาลเจ้ามิตสึมิเนะได้สะดวก ศาลหลักประดับด้วยงานแกะสลักสีสันสดใสจำนวนมาก
+
+<figure class="photo">
+<img src="/images/posts/chichibu-torii-1200.webp" srcset="/images/posts/chichibu-torii-640.webp 640w, /images/posts/chichibu-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ทางเข้าศาลเจ้าชิจิบุจินจะ">
+<figcaption>ทางเข้าศาลเจ้าชิจิบุจินจะ เห็นอาคารศาลเจ้าอยู่เลยโทริอิเข้าไป มีเสาหินสลักชื่อศาลเจ้าและโคมาอินุตั้งอยู่ ภาพ: <a href="https://web.archive.org/web/20161020125510/http://www.panoramio.com/photo/57941789" rel="noopener" target="_blank">yamai36</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-gate-1200.webp" srcset="/images/posts/chichibu-gate-640.webp 640w, /images/posts/chichibu-gate-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="ประตูสีแดงชาดและถังสาเก">
+<figcaption>ผู้มาสักการะเดินผ่านประตูสีแดงชาด หลังคาโค้งและเครื่องประดับสีทองสะดุดตา สองข้างมีถังสาเกวางซ้อนกัน (ถ่ายมกราคม 2014) ภาพ: <a href="https://web.archive.org/web/20161029111121/http://www.panoramio.com/photo/101498992" rel="noopener" target="_blank">Carbonium</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-haiden-1200.webp" srcset="/images/posts/chichibu-haiden-640.webp 640w, /images/posts/chichibu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ไฮเด็งของศาลเจ้าชิจิบุจินจะ">
+<figcaption>ด้านหน้าไฮเด็งของศาลเจ้าชิจิบุจินจะ มีงานแกะสลักเรียงใต้ชายคา และมีเชือกศักดิ์สิทธิ์กับชิเดะห้อยอยู่ (ถ่ายกันยายน 2011) ภาพ: NY066 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+งานแกะสลักบนศาลหลักถ่ายทอดเรื่องราวและสัตว์ต่าง ๆ ด้วยสีสันสดใส
+
+<figure class="photo">
+<img src="/images/posts/chichibu-dragon-1200.webp" srcset="/images/posts/chichibu-dragon-640.webp 640w, /images/posts/chichibu-dragon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="งานแกะสลัก「สึนางิโนะริว」">
+<figcaption>งานแกะสลัก “สึนางิโนะริว” (มังกรถูกพันธนาการ) บนศาลหลัก มังกรสีน้ำเงินแกะสลักอยู่ท่ามกลางเมฆ และเห็นกระต่ายกับนกอยู่ด้านล่าง (ถ่ายธันวาคม 2023) ภาพ: tak1701d / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-monkeys-1200.webp" srcset="/images/posts/chichibu-monkeys-640.webp 640w, /images/posts/chichibu-monkeys-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="งานแกะสลัก「โอเก็งกิซันซารุ」">
+<figcaption>งานแกะสลัก “โอเก็งกิซันซารุ” (ลิงสามตัวสดใส) บนศาลหลัก ลิงสามตัวมีสีหน้าต่างกันอยู่ใต้ต้นพีช (ถ่ายธันวาคม 2023) ภาพ: tak1701d / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/chichibu-owl-1200.webp" srcset="/images/posts/chichibu-owl-640.webp 640w, /images/posts/chichibu-owl-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="งานแกะสลัก「โฮกูชินโนะฟุคุโระ」">
+<figcaption>งานแกะสลัก “โฮกูชินโนะฟุคุโระ” (นกฮูกแห่งดาวเหนือ) บนศาลหลัก นกฮูกและนกตัวเล็กแกะสลักอยู่ใต้ลายคลื่น (ถ่ายธันวาคม 2023) ภาพ: tak1701d / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 
 ## คำถามที่พบบ่อย
 
