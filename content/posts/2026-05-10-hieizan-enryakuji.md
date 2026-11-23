@@ -5,6 +5,7 @@ description: >-
 date: '2026-05-10'
 updated: '2026-05-23'
 category: powerspots
+cardImage: "/images/cards/hieizan-enryakuji.webp"
 tags:
   - アメジスト
   - 滋賀県
