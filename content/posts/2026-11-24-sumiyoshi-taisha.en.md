@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Sumiyoshi Taisha", "Osaka", "Sumiyoshi-zukuri", "National Treasure"]
 slug: "sumiyoshi-taisha"
 draft: false
+cardImage: "/images/cards/sumiyoshi-taisha-wide.webp"
 ---
 
 ## Introduction

@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["住吉大社", "大阪府", "住吉造", "国宝"]
 slug: "sumiyoshi-taisha"
 draft: false
+cardImage: "/images/cards/sumiyoshi-taisha-wide.webp"
 ---
 
 ## はじめに

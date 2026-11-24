@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["สุมิโยชิไทฉะ", "โอซากะ", "สุมิโยชิซึกูริ", "สมบัติแห่งชาติ"]
 slug: "sumiyoshi-taisha"
 draft: false
+cardImage: "/images/cards/sumiyoshi-taisha-wide.webp"
 ---
 
 ## บทนำ
