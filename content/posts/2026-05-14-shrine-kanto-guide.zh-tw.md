@@ -7,6 +7,7 @@ category: "powerspots"
 tags: ["御朱印帳", "東京", "神奈川", "埼玉", "神社", "總合指南"]
 slug: "shrine-kanto-guide"
 draft: false
+cardImage: "/images/cards/shrine-kanto-guide-wide.webp"
 ---
 
 ## 前言

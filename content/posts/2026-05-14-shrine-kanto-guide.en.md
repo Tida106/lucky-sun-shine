@@ -13,6 +13,7 @@ viatorSpots:
     query: "Enoshima"
   - name: "Mitsumine Shrine"
     query: "Mitsumine Shrine Chichibu"
+cardImage: "/images/cards/shrine-kanto-guide-wide.webp"
 ---
 
 ## Introduction
