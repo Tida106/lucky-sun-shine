@@ -55,6 +55,34 @@ draft: false
 
 ## <span id="highlight"></span>境内の見どころ
 
+### 楼門と石段
+
+久能山東照宮では、石段を上って、朱塗りの楼門をくぐります。軒下の組物は青・緑・赤で彩られ、近くで見ると細かな装飾が楽しめます。
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-front-1200.webp" srcset="/images/posts/shrine-kuno-gate-front-640.webp 640w, /images/posts/shrine-kuno-gate-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="779" loading="lazy" decoding="async" alt="久能山東照宮の楼門">
+<figcaption>朱塗りの楼門。両脇に金色の狛犬が見え、門の向こうに緑の木々が広がります（2016年9月撮影）。 写真：Zairon／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-low-1200.webp" srcset="/images/posts/shrine-kuno-gate-low-640.webp 640w, /images/posts/shrine-kuno-gate-low-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="726" loading="lazy" decoding="async" alt="石段の下から見上げた楼門">
+<figcaption>石段の下から見上げた楼門。軒下の組物が青・緑・赤で彩られています（2016年9月撮影）。 写真：Zairon／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-stairs-1200.webp" srcset="/images/posts/shrine-kuno-gate-stairs-640.webp 640w, /images/posts/shrine-kuno-gate-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="758" loading="lazy" decoding="async" alt="木々に囲まれた楼門と石段">
+<figcaption>木々に囲まれた楼門と石段。門の向こうに、次の社殿の屋根が小さく見えます（2016年9月撮影）。 写真：Zairon／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-plaque-1200.webp" srcset="/images/posts/shrine-kuno-gate-plaque-640.webp 640w, /images/posts/shrine-kuno-gate-plaque-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="楼門の扁額と極彩色の軒下">
+<figcaption>楼門の軒下。金色の額に青地の文字が掲げられ、赤・青・緑の組物が並びます（2016年9月撮影）。 写真：Zairon／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
 ### 極彩色の国宝社殿
 
 本殿・石の間・拝殿が一体となった権現造の社殿は、総漆塗りで、金の飾り金具と彫刻が全体を彩ります。
@@ -73,6 +101,24 @@ draft: false
 <img src="/images/posts/shrine-kuno-roofs-1200.webp" srcset="/images/posts/shrine-kuno-roofs-640.webp 640w, /images/posts/shrine-kuno-roofs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="久能山東照宮の屋根">
 <figcaption>朱塗りの軒の向こうに、金の飾りをつけた社殿の屋根が重なり合う様子（2016年9月撮影）。 写真：Zairon／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
 </figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-stairs-lanterns-1200.webp" srcset="/images/posts/shrine-kuno-stairs-lanterns-640.webp 640w, /images/posts/shrine-kuno-stairs-lanterns-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="821" loading="lazy" decoding="async" alt="石段と並ぶ灯籠、その先の社殿の門">
+<figcaption>石段の手前に、青銅や石の灯籠が並びます。石段を上がった先に、屋根が緑青色の社殿の門が見えます（2016年9月撮影）。 写真：Zairon／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-interior-1200.webp" srcset="/images/posts/shrine-kuno-interior-640.webp 640w, /images/posts/shrine-kuno-interior-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="844" loading="lazy" decoding="async" alt="社殿の内部">
+<figcaption>社殿の内部。金色と黒漆の装飾の奥に、御幣が立ちます（2016年9月撮影）。 写真：Zairon／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-carving-1200.webp" srcset="/images/posts/shrine-kuno-carving-640.webp 640w, /images/posts/shrine-kuno-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="社殿の軒下の彫刻">
+<figcaption>社殿の軒下の彫刻。金色の龍や獅子の頭が突き出し、黒い壁には鳥の絵が描かれています（2023年10月撮影）。 写真：663highland／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 
 ### 神廟
 

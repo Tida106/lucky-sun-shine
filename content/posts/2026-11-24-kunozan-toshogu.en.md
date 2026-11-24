@@ -55,6 +55,34 @@ The deity is **Tokugawa Ieyasu**, founder of the Edo shogunate. Blessings often 
 
 ## <span id="highlight"></span>Highlights of the Grounds
 
+### The Tower Gate and Stairs
+
+At Kunozan Toshogu, you climb the stairs and pass through a vermilion tower gate. The bracket sets under the eaves are painted in blue, green and red, with fine decoration worth a closer look.
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-front-1200.webp" srcset="/images/posts/shrine-kuno-gate-front-640.webp 640w, /images/posts/shrine-kuno-gate-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="779" loading="lazy" decoding="async" alt="The vermilion tower gate of Kunozan Toshogu">
+<figcaption>The vermilion tower gate. Golden guardian dogs stand on both sides, with green trees beyond the opening (photographed September 2016). Photo: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-low-1200.webp" srcset="/images/posts/shrine-kuno-gate-low-640.webp 640w, /images/posts/shrine-kuno-gate-low-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="726" loading="lazy" decoding="async" alt="The tower gate seen from below the stairs">
+<figcaption>The tower gate seen from the foot of the stairs. The bracket sets under the eaves are painted in blue, green and red (photographed September 2016). Photo: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-stairs-1200.webp" srcset="/images/posts/shrine-kuno-gate-stairs-640.webp 640w, /images/posts/shrine-kuno-gate-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="758" loading="lazy" decoding="async" alt="The tower gate and stairs among the trees">
+<figcaption>The tower gate and stairs surrounded by trees. The roof of the next building can be glimpsed through the opening (photographed September 2016). Photo: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-plaque-1200.webp" srcset="/images/posts/shrine-kuno-gate-plaque-640.webp 640w, /images/posts/shrine-kuno-gate-plaque-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="The plaque and colorful eaves of the tower gate">
+<figcaption>Under the eaves of the tower gate. A gold-framed plaque with a blue field hangs among bracket sets in red, blue and green (photographed September 2016). Photo: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+
 ### The Vividly Colored National Treasure Halls
 
 The Gongen-zukuri halls, with main hall, stone chamber and worship hall joined as one, are fully lacquered and adorned with gold fittings and carvings.
@@ -73,6 +101,24 @@ The Gongen-zukuri halls, with main hall, stone chamber and worship hall joined a
 <img src="/images/posts/shrine-kuno-roofs-1200.webp" srcset="/images/posts/shrine-kuno-roofs-640.webp 640w, /images/posts/shrine-kuno-roofs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="Roofs of Kunozan Toshogu">
 <figcaption>Roofs of the halls decorated with gold ornaments, overlapping beyond the vermilion eaves (photographed September 2016). Photo: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
 </figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-stairs-lanterns-1200.webp" srcset="/images/posts/shrine-kuno-stairs-lanterns-640.webp 640w, /images/posts/shrine-kuno-stairs-lanterns-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="821" loading="lazy" decoding="async" alt="Lanterns before the stairs and the shrine gate beyond">
+<figcaption>Bronze and stone lanterns stand before the stairs. At the top, a gate with a green patinated roof leads to the shrine buildings (photographed September 2016). Photo: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-interior-1200.webp" srcset="/images/posts/shrine-kuno-interior-640.webp 640w, /images/posts/shrine-kuno-interior-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="844" loading="lazy" decoding="async" alt="Inside the shrine hall">
+<figcaption>The interior of the hall. A gohei stands in front of gold and black lacquer decoration (photographed September 2016). Photo: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-carving-1200.webp" srcset="/images/posts/shrine-kuno-carving-640.webp 640w, /images/posts/shrine-kuno-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Carvings under the eaves of the hall">
+<figcaption>Carvings under the eaves. Golden dragon and lion heads project outward, and a bird is painted on the black wall (photographed October 2023). Photo: 663highland / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 
 ### The Mausoleum
 

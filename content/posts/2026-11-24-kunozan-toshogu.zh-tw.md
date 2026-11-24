@@ -55,6 +55,34 @@ draft: false
 
 ## <span id="highlight"></span>境內看點
 
+### 樓門與石階
+
+在久能山東照宮，要先爬上石階，再穿過朱紅色的樓門。屋簷下的斗拱以藍、綠、紅色彩繪，近看可以欣賞細緻的裝飾。
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-front-1200.webp" srcset="/images/posts/shrine-kuno-gate-front-640.webp 640w, /images/posts/shrine-kuno-gate-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="779" loading="lazy" decoding="async" alt="久能山東照宮的朱紅色樓門">
+<figcaption>朱紅色的樓門。兩側可見金色的狛犬，門的另一側是一片綠樹（2016年9月拍攝）。 照片：Zairon／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-low-1200.webp" srcset="/images/posts/shrine-kuno-gate-low-640.webp 640w, /images/posts/shrine-kuno-gate-low-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="726" loading="lazy" decoding="async" alt="從石階下方仰望的樓門">
+<figcaption>從石階下方仰望的樓門。屋簷下的斗拱以藍、綠、紅色彩繪（2016年9月拍攝）。 照片：Zairon／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-stairs-1200.webp" srcset="/images/posts/shrine-kuno-gate-stairs-640.webp 640w, /images/posts/shrine-kuno-gate-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="758" loading="lazy" decoding="async" alt="被樹木環繞的樓門與石階">
+<figcaption>被樹木環繞的樓門與石階。從門的另一側，可以隱約看到下一座社殿的屋頂（2016年9月拍攝）。 照片：Zairon／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-plaque-1200.webp" srcset="/images/posts/shrine-kuno-gate-plaque-640.webp 640w, /images/posts/shrine-kuno-gate-plaque-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="樓門的匾額與色彩鮮艷的屋簷下">
+<figcaption>樓門的屋簷下。金色邊框、藍底的匾額，周圍排列著紅、藍、綠色的斗拱（2016年9月拍攝）。 照片：Zairon／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
 ### 極彩色的國寶社殿
 
 本殿、石之間與拜殿合為一體的權現造社殿，通體塗漆，並以金色裝飾金具與雕刻點綴。
@@ -73,6 +101,24 @@ draft: false
 <img src="/images/posts/shrine-kuno-roofs-1200.webp" srcset="/images/posts/shrine-kuno-roofs-640.webp 640w, /images/posts/shrine-kuno-roofs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="久能山東照宮的屋頂">
 <figcaption>朱塗屋簷的後方，裝飾著金色飾物的殿舍屋頂層層重疊的模樣（2016年9月拍攝）。 照片：Zairon／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
 </figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-stairs-lanterns-1200.webp" srcset="/images/posts/shrine-kuno-stairs-lanterns-640.webp 640w, /images/posts/shrine-kuno-stairs-lanterns-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="821" loading="lazy" decoding="async" alt="石階前的燈籠與前方的社殿之門">
+<figcaption>石階前排列著青銅與石造的燈籠。石階上方可以看到屋頂呈青綠色的社殿之門（2016年9月拍攝）。 照片：Zairon／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-interior-1200.webp" srcset="/images/posts/shrine-kuno-interior-640.webp 640w, /images/posts/shrine-kuno-interior-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="844" loading="lazy" decoding="async" alt="社殿的內部">
+<figcaption>社殿的內部。金色與黑漆裝飾的前方，立著御幣（2016年9月拍攝）。 照片：Zairon／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-carving-1200.webp" srcset="/images/posts/shrine-kuno-carving-640.webp 640w, /images/posts/shrine-kuno-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="社殿屋簷下的雕刻">
+<figcaption>社殿屋簷下的雕刻。金色的龍與獅子頭向外突出，黑色牆面上繪有鳥的圖案（2023年10月拍攝）。 照片：663highland／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 
 ### 神廟
 

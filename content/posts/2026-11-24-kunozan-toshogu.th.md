@@ -41,6 +41,34 @@ draft: false
 
 ## จุดชมภายในศาลเจ้า
 
+### ประตูหอและบันได
+
+ที่คุโนซังโทโชงู ต้องเดินขึ้นบันไดแล้วผ่านประตูหอสีแดงชาด โครงไม้ใต้ชายคาทาด้วยสีน้ำเงิน เขียว และแดง ลองมองใกล้ ๆ จะเห็นลวดลายประณีต
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-front-1200.webp" srcset="/images/posts/shrine-kuno-gate-front-640.webp 640w, /images/posts/shrine-kuno-gate-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="779" loading="lazy" decoding="async" alt="ประตูหอสีแดงชาดของคุโนซังโทโชงู">
+<figcaption>ประตูหอสีแดงชาด สองข้างมีโคมาอินุสีทอง และมีต้นไม้เขียวอยู่อีกด้านของประตู (ถ่ายกันยายน 2016) ภาพ: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-low-1200.webp" srcset="/images/posts/shrine-kuno-gate-low-640.webp 640w, /images/posts/shrine-kuno-gate-low-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="726" loading="lazy" decoding="async" alt="ประตูหอมองจากด้านล่างบันได">
+<figcaption>ประตูหอมองจากเชิงบันได โครงไม้ใต้ชายคาทาด้วยสีน้ำเงิน เขียว และแดง (ถ่ายกันยายน 2016) ภาพ: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-stairs-1200.webp" srcset="/images/posts/shrine-kuno-gate-stairs-640.webp 640w, /images/posts/shrine-kuno-gate-stairs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="758" loading="lazy" decoding="async" alt="ประตูหอและบันไดท่ามกลางต้นไม้">
+<figcaption>ประตูหอและบันไดที่รายล้อมด้วยต้นไม้ มองผ่านประตูเห็นหลังคาของอาคารถัดไปรำไร (ถ่ายกันยายน 2016) ภาพ: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-gate-plaque-1200.webp" srcset="/images/posts/shrine-kuno-gate-plaque-640.webp 640w, /images/posts/shrine-kuno-gate-plaque-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="816" loading="lazy" decoding="async" alt="ป้ายและชายคาสีสันสดใสของประตูหอ">
+<figcaption>ใต้ชายคาของประตูหอ มีป้ายกรอบทองพื้นสีน้ำเงิน รายล้อมด้วยโครงไม้สีแดง น้ำเงิน และเขียว (ถ่ายกันยายน 2016) ภาพ: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
 ### อาคารสมบัติแห่งชาติสีสันสดใส
 
 อาคารแบบกงเง็นซึกูริที่รวมอาคารหลัก ห้องหิน และศาลาไหว้เป็นหนึ่งเดียว เคลือบแล็กเกอร์ทั้งหลัง ประดับด้วยเครื่องทองและงานแกะสลัก
@@ -59,6 +87,24 @@ draft: false
 <img src="/images/posts/shrine-kuno-roofs-1200.webp" srcset="/images/posts/shrine-kuno-roofs-640.webp 640w, /images/posts/shrine-kuno-roofs-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="899" loading="lazy" decoding="async" alt="หลังคาของคุโนซังโทโชงู">
 <figcaption>หลังคาอาคารที่ประดับด้วยเครื่องประดับทองซ้อนกันอยู่เหนือชายคาสีแดงชาด (ถ่ายกันยายน 2016) ภาพ: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
 </figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-stairs-lanterns-1200.webp" srcset="/images/posts/shrine-kuno-stairs-lanterns-640.webp 640w, /images/posts/shrine-kuno-stairs-lanterns-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="821" loading="lazy" decoding="async" alt="โคมหินหน้าบันไดและประตูอาคารด้านบน">
+<figcaption>หน้าบันไดมีโคมสำริดและโคมหินเรียงอยู่ ด้านบนบันไดเห็นประตูอาคารที่หลังคาเป็นสีเขียวสนิม (ถ่ายกันยายน 2016) ภาพ: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-interior-1200.webp" srcset="/images/posts/shrine-kuno-interior-640.webp 640w, /images/posts/shrine-kuno-interior-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="844" loading="lazy" decoding="async" alt="ภายในอาคารศาลเจ้า">
+<figcaption>ภายในอาคาร มีไม้เกะ (โกเฮ) ตั้งอยู่หน้าเครื่องประดับสีทองและแล็กเกอร์สีดำ (ถ่ายกันยายน 2016) ภาพ: Zairon / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-kuno-carving-1200.webp" srcset="/images/posts/shrine-kuno-carving-640.webp 640w, /images/posts/shrine-kuno-carving-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="งานแกะสลักใต้ชายคาอาคาร">
+<figcaption>งานแกะสลักใต้ชายคา หัวมังกรและสิงโตสีทองยื่นออกมา และมีภาพนกบนผนังสีดำ (ถ่ายตุลาคม 2023) ภาพ: 663highland / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 
 ### สุสานศักดิ์สิทธิ์
 
