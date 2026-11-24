@@ -84,6 +84,44 @@ Emperor Meiji and Empress Shoken are regarded as an **ideal example of a married
 <figcaption>Kiyomasa's Well (Kiyomasa-no-ido) in the Meiji Jingu Inner Garden. Photo: Criteriaire / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized)</figcaption>
 </figure>
 
+### The Approach and Courtyard
+
+Pass beneath the great torii, follow the sun-dappled approach, and a wide courtyard opens before the main hall. The stillness, far from the city, is the charm of the shrine forest.
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-otorii-1200.webp" srcset="/images/posts/shrine-meiji-otorii-640.webp 640w, /images/posts/shrine-meiji-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The great torii of Meiji Shrine">
+<figcaption>The great wooden torii, with golden chrysanthemum crests on its upper beam. A green approach stretches beyond it (photographed March 2026). Photo: Suicasmo / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-light-1200.webp" srcset="/images/posts/shrine-meiji-light-640.webp 640w, /images/posts/shrine-meiji-light-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Light filtering through the sacred forest">
+<figcaption>Morning light streams through the shrine forest, forming rays in the mist. A stone lantern stands quietly in the foreground (photographed May 2020). Photo: 雑用部 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-courtyard-1200.webp" srcset="/images/posts/shrine-meiji-courtyard-640.webp 640w, /images/posts/shrine-meiji-courtyard-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="The open courtyard before the main hall">
+<figcaption>The wide, open stone-paved courtyard in front of the main hall. Large trees stand on both sides, with visitors walking across (photographed May 2010). Photo: Rs1421 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-lawn-1200.webp" srcset="/images/posts/shrine-meiji-lawn-640.webp 640w, /images/posts/shrine-meiji-lawn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A lawn and path inside the forest">
+<figcaption>A lawn ringed by trees, with a gently curving path. It is hard to believe this is in central Tokyo (photographed September 2011). Photo: Daderot / Wikimedia Commons (public domain)</figcaption>
+</figure>
+
+### Offered Sake Barrels
+
+Beside the approach, sake barrels offered by breweries are stacked like a wall. Looking at the different designs and lettering is one of the small pleasures of a visit.
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-wide-1200.webp" srcset="/images/posts/shrine-meiji-barrels-wide-640.webp 640w, /images/posts/shrine-meiji-barrels-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="Stacked sake barrels offered to the shrine">
+<figcaption>Sake barrels (kazaridaru) offered to the shrine, stacked like a wall and bearing the names of breweries (photographed November 2025). Photo: Joli Rumi / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-close-1200.webp" srcset="/images/posts/shrine-meiji-barrels-close-640.webp 640w, /images/posts/shrine-meiji-barrels-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="A close view of the barrel labels">
+<figcaption>A close view of the barrels. Each label differs, with bold brush lettering and designs such as waves and cranes (photographed May 2019). Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 ## <span id="point"></span>Key Visiting Points
 
 - The center of the path is for the deities, so **walk along the sides**.

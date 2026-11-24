@@ -79,6 +79,44 @@ draft: false
 <figcaption>明治神宮御苑的清正井（きよまさのいど）。照片：Criteriaire／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>（調整尺寸）</figcaption>
 </figure>
 
+### 參道與境內的風景
+
+穿過大鳥居，沿著灑落光影的參道前行，社殿前便會出現寬闊的境內。讓人忘記身在都心的寧靜，正是鎮守之森的魅力。
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-otorii-1200.webp" srcset="/images/posts/shrine-meiji-otorii-640.webp 640w, /images/posts/shrine-meiji-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明治神宮的大鳥居">
+<figcaption>氣勢雄偉的木造大鳥居，上方橫木可見金色的菊紋，鳥居前方是綠意盎然的參道（2026年3月拍攝）。 照片：Suicasmo／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-light-1200.webp" srcset="/images/posts/shrine-meiji-light-640.webp 640w, /images/posts/shrine-meiji-light-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="灑落在參道上的樹間光影">
+<figcaption>晨光穿過鎮守之森，在薄霧中形成一道道光束，一座石燈籠靜靜佇立（2020年5月拍攝）。 照片：雑用部／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-courtyard-1200.webp" srcset="/images/posts/shrine-meiji-courtyard-640.webp 640w, /images/posts/shrine-meiji-courtyard-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="社殿前寬闊的境內">
+<figcaption>社殿前開闊的石板境內，兩側樹木繁茂，參拜者來來往往（2010年5月拍攝）。 照片：Rs1421／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-lawn-1200.webp" srcset="/images/posts/shrine-meiji-lawn-640.webp 640w, /images/posts/shrine-meiji-lawn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="森林中的草坪與小徑">
+<figcaption>被樹木環繞的草坪，以及緩緩彎曲的小徑，讓人難以相信這裡是東京市中心（2011年9月拍攝）。 照片：Daderot／Wikimedia Commons（公有領域）</figcaption>
+</figure>
+
+### 奉納的酒桶
+
+參道旁，來自各地酒造的奉納酒桶像牆壁般堆疊。欣賞每一個不同的圖案與文字，也是參拜的樂趣之一。
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-wide-1200.webp" srcset="/images/posts/shrine-meiji-barrels-wide-640.webp 640w, /images/posts/shrine-meiji-barrels-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="層層堆疊的奉納酒桶">
+<figcaption>像牆壁一樣堆疊起來的奉納酒桶（薦被），上面印著各家酒造的名字（2025年11月拍攝）。 照片：Joli Rumi／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-close-1200.webp" srcset="/images/posts/shrine-meiji-barrels-close-640.webp 640w, /images/posts/shrine-meiji-barrels-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="酒桶標籤的特寫">
+<figcaption>酒桶的特寫。每個標籤都不同，有遒勁的毛筆字，以及波浪、鶴等圖案（2019年5月拍攝）。 照片：Hyppolyte de Saint-Rambert／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 ## <span id="point"></span>參拜重點
 
 - 參道正中央是神明行走的通道，**請走在兩側**

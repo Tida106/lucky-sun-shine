@@ -72,6 +72,44 @@ draft: false
 <figcaption>บ่อน้ำคิโยมาซะ (清正井) ในสวนเมจิ จิงงู เกียวเอน ภาพ: Criteriaire / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.th" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+### ทางเข้าและลานศาลเจ้า
+
+ผ่านโทริอิใหญ่ เดินตามทางที่มีแสงลอดผ่านต้นไม้ ก็จะพบลานกว้างหน้าอาคารหลัก ความเงียบสงบที่ลืมไปว่าอยู่กลางเมือง คือเสน่ห์ของป่าศักดิ์สิทธิ์
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-otorii-1200.webp" srcset="/images/posts/shrine-meiji-otorii-640.webp 640w, /images/posts/shrine-meiji-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="โทริอิใหญ่แห่งศาลเจ้าเมจิ">
+<figcaption>โทริอิไม้ขนาดใหญ่ ที่คานด้านบนมีตราดอกเบญจมาศสีทอง ด้านหลังเป็นทางเดินสีเขียว (ถ่ายมีนาคม 2026) ภาพ: Suicasmo / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-light-1200.webp" srcset="/images/posts/shrine-meiji-light-640.webp 640w, /images/posts/shrine-meiji-light-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="แสงลอดผ่านป่าศักดิ์สิทธิ์">
+<figcaption>แสงยามเช้าส่องผ่านป่าของศาลเจ้า เป็นลำแสงในหมอกบาง ๆ มีโคมหินตั้งอยู่เงียบ ๆ (ถ่ายพฤษภาคม 2020) ภาพ: 雑用部 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-courtyard-1200.webp" srcset="/images/posts/shrine-meiji-courtyard-640.webp 640w, /images/posts/shrine-meiji-courtyard-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ลานกว้างหน้าอาคารหลัก">
+<figcaption>ลานปูหินกว้างหน้าอาคารหลัก มีต้นไม้ใหญ่อยู่สองข้าง และผู้มาเยือนเดินผ่านไปมา (ถ่ายพฤษภาคม 2010) ภาพ: Rs1421 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-lawn-1200.webp" srcset="/images/posts/shrine-meiji-lawn-640.webp 640w, /images/posts/shrine-meiji-lawn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="สนามหญ้าและทางเดินในป่า">
+<figcaption>สนามหญ้าที่ล้อมด้วยต้นไม้ และทางเดินที่โค้งอย่างนุ่มนวล ยากจะเชื่อว่าอยู่กลางกรุงโตเกียว (ถ่ายกันยายน 2011) ภาพ: Daderot / Wikimedia Commons (สาธารณสมบัติ)</figcaption>
+</figure>
+
+### ถังสาเกที่ถวาย
+
+ข้างทางเดินมีถังสาเกที่โรงกลั่นต่าง ๆ ถวายไว้ ซ้อนกันเป็นกำแพง การดูลวดลายและตัวอักษรที่ไม่ซ้ำกันเป็นความสนุกอย่างหนึ่งของการมาไหว้
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-wide-1200.webp" srcset="/images/posts/shrine-meiji-barrels-wide-640.webp 640w, /images/posts/shrine-meiji-barrels-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="ถังสาเกที่ถวายซ้อนกันเป็นกำแพง">
+<figcaption>ถังสาเกที่ถวายแด่ศาลเจ้า (คาซาริดารุ) ซ้อนกันเป็นผนัง มีชื่อโรงกลั่นเขียนอยู่ (ถ่ายพฤศจิกายน 2025) ภาพ: Joli Rumi / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-close-1200.webp" srcset="/images/posts/shrine-meiji-barrels-close-640.webp 640w, /images/posts/shrine-meiji-barrels-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="ภาพใกล้ของป้ายบนถังสาเก">
+<figcaption>ภาพใกล้ของถังสาเก ป้ายแต่ละอันไม่เหมือนกัน มีทั้งตัวอักษรพู่กันหนักแน่น และลวดลายคลื่นหรือนกกระเรียน (ถ่ายพฤษภาคม 2019) ภาพ: Hyppolyte de Saint-Rambert / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## เคล็ดลับการไหว้
 
 - **เดินชิดขอบทาง** เพราะกลางทางเดินเป็นทางของเทพ

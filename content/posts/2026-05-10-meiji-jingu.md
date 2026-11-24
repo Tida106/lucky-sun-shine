@@ -80,6 +80,44 @@ draft: false
 <figcaption>明治神宮御苑の清正井（きよまさのいど）。写真：Criteriaire／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（リサイズ）</figcaption>
 </figure>
 
+### 参道と境内の風景
+
+大鳥居をくぐり、木漏れ日の参道を進むと、社殿の前に広い境内が開けます。都心にいることを忘れる静けさが、鎮守の杜の魅力です。
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-otorii-1200.webp" srcset="/images/posts/shrine-meiji-otorii-640.webp 640w, /images/posts/shrine-meiji-otorii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="明治神宮の大鳥居">
+<figcaption>木の柱が堂々と立つ大鳥居。笠木には金色の菊の紋が見え、鳥居の先に緑の参道が続きます（2026年3月撮影）。 写真：Suicasmo／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-light-1200.webp" srcset="/images/posts/shrine-meiji-light-640.webp 640w, /images/posts/shrine-meiji-light-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="木漏れ日が差し込む参道">
+<figcaption>鎮守の杜に朝の光が差し込み、霧の中に光の筋が浮かびます。石灯籠が静かに立っています（2020年5月撮影）。 写真：雑用部／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-courtyard-1200.webp" srcset="/images/posts/shrine-meiji-courtyard-640.webp 640w, /images/posts/shrine-meiji-courtyard-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="社殿の前に広がる境内">
+<figcaption>社殿の前に広がる、開放的な石敷きの境内。左右に大きな木が茂り、参拝者が行き交います（2010年5月撮影）。 写真：Rs1421／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-lawn-1200.webp" srcset="/images/posts/shrine-meiji-lawn-640.webp 640w, /images/posts/shrine-meiji-lawn-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="杜の中の芝生と小道">
+<figcaption>木々に囲まれた芝生と、ゆるやかに曲がる小道。都心とは思えない静けさです（2011年9月撮影）。 写真：Daderot／Wikimedia Commons、パブリックドメイン（サイズ変更あり）</figcaption>
+</figure>
+
+### 奉納された酒樽
+
+参道の脇には、全国の酒造会社から奉納された酒樽が壁のように積み上げられています。一つひとつ違う絵柄や文字を眺めるのも、参拝の楽しみです。
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-wide-1200.webp" srcset="/images/posts/shrine-meiji-barrels-wide-640.webp 640w, /images/posts/shrine-meiji-barrels-wide-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="675" loading="lazy" decoding="async" alt="積み上げられた奉納酒樽">
+<figcaption>壁のように積み上げられた、奉納の酒樽（薦被り）。全国の酒造会社の名が並びます（2025年11月撮影）。 写真：Joli Rumi／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-meiji-barrels-close-1200.webp" srcset="/images/posts/shrine-meiji-barrels-close-640.webp 640w, /images/posts/shrine-meiji-barrels-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="酒樽のラベルの拡大">
+<figcaption>酒樽の拡大。力強い筆文字や、波や鶴などの絵柄が一つひとつ違います（2019年5月撮影）。 写真：Hyppolyte de Saint-Rambert／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="point"></span>参拝のポイント
 
 - 参道の中央は神様の通り道、**端を歩く**
