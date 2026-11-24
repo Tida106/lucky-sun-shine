@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Chichibu Shrine", "Saitama", "Shrine Carvings", "Chichibu Night Festival"]
 slug: "chichibu-jinja"
 draft: false
+cardImage: "/images/cards/chichibu-jinja-wide.webp"
 ---
 
 ## Introduction

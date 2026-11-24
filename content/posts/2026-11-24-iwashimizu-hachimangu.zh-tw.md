@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["石清水八幡宮", "京都府", "消災解厄", "國寶"]
 slug: "iwashimizu-hachimangu"
 draft: false
+cardImage: "/images/cards/iwashimizu-hachimangu-wide.webp"
 ---
 
 ## 前言

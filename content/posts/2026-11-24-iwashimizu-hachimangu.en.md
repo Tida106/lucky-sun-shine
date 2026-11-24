@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Iwashimizu Hachimangu", "Kyoto", "Protection from Misfortune", "National Treasure"]
 slug: "iwashimizu-hachimangu"
 draft: false
+cardImage: "/images/cards/iwashimizu-hachimangu-wide.webp"
 ---
 
 ## Introduction

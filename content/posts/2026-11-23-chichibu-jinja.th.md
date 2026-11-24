@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["ศาลเจ้าชิจิบุ", "ไซตามะ", "งานแกะสลักศาลเจ้า", "เทศกาลกลางคืนชิจิบุ"]
 slug: "chichibu-jinja"
 draft: false
+cardImage: "/images/cards/chichibu-jinja-wide.webp"
 ---
 
 ## บทนำ

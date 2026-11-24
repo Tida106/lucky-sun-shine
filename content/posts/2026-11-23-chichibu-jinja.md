@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["秩父神社","埼玉県","本殿彫刻","秩父夜祭"]
 slug: "chichibu-jinja"
 draft: false
+cardImage: "/images/cards/chichibu-jinja-wide.webp"
 ---
 
 ## はじめに

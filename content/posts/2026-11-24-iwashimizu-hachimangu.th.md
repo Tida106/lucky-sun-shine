@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["อิวาชิมิซุฮาจิมังงู", "เกียวโต", "ปัดเคราะห์", "สมบัติแห่งชาติ"]
 slug: "iwashimizu-hachimangu"
 draft: false
+cardImage: "/images/cards/iwashimizu-hachimangu-wide.webp"
 ---
 
 ## บทนำ
