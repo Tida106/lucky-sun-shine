@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["คุโนซังโทโชงู", "ชิซูโอกะ", "กงเง็นซึกูริ", "สมบัติแห่งชาติ"]
 slug: "kunozan-toshogu"
 draft: false
+cardImage: "/images/cards/kunozan-toshogu-wide.webp"
 ---
 
 ## บทนำ

@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["久能山東照宮", "静岡県", "権現造", "国宝"]
 slug: "kunozan-toshogu"
 draft: false
+cardImage: "/images/cards/kunozan-toshogu-wide.webp"
 ---
 
 ## はじめに

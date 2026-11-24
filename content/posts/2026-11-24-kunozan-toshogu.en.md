@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Kunozan Toshogu", "Shizuoka", "Gongen-zukuri", "National Treasure"]
 slug: "kunozan-toshogu"
 draft: false
+cardImage: "/images/cards/kunozan-toshogu-wide.webp"
 ---
 
 ## Introduction
