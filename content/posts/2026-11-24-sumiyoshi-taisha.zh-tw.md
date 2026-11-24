@@ -74,6 +74,12 @@ draft: false
 <figcaption>掛著「第一本宮」牌子的拜殿前方（2012年10月拍攝）。後方可看到裝有千木的本殿屋頂。 照片：<a href="https://web.archive.org/web/20161025231139/http://www.panoramio.com/photo/80741431" rel="noopener" target="_blank">Nankou Oronain (as36…)</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hongu-queue-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hongu-queue-640.webp 640w, /images/posts/shrine-sumiyoshi-hongu-queue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="住吉大社第一本宮前排隊的參拜者">
+<figcaption>新春祈禱受理期間的第一本宮拜殿前（2019年2月拍攝）。參拜者排起隊伍，大屋頂上可以看到千木。 照片：そらみみ (Soramimi)／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
 ### 住吉造的社殿
 
 住吉造是亞洲大陸華麗建築傳入前的簡樸樣式，擁有筆直的切妻屋頂，被視為日本神社建築的範本之一。朱紅的柱子、白色的牆壁與筆直的屋頂是其特色。
@@ -88,9 +94,68 @@ draft: false
 <figcaption>斜向拍攝的第二本宮本殿。屋頂的三角（山牆側）朝向前方，朱紅色的柱子、白色的牆壁、千木與鰹木一應俱全（2016年5月拍攝）。 照片：Saigen Jiro／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hongu-chigi-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hongu-chigi-640.webp 640w, /images/posts/shrine-sumiyoshi-hongu-chigi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="屋頂上有千木與鰹木的住吉大社本宮">
+<figcaption>朱紅色的圍欄後方，是一座筆直的切妻屋頂上立著千木與鰹木的社殿（2024年2月拍攝）。 照片：Hyppolyte de Saint-Rambert／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
 ### 反橋（太鼓橋）
 
-境內有一座弧度很大的反橋。它也因川端康成的短篇小說而聞名，附近立有紀念碑。
+境內有一座弧度很大的反橋。朱紅色欄杆的橋身倒映在池面上，橋面呈階梯狀，橋頭坐著一對狛犬。它也因川端康成的短篇小說而聞名，附近立有紀念碑。
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-green-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-green-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="被綠意環繞的住吉大社反橋">
+<figcaption>被綠樹環繞的反橋，朱紅色的橋身倒映在池面上（2016年5月拍攝）。 照片：Saigen Jiro／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-dusk-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-dusk-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="陰天下的反橋與水面倒影">
+<figcaption>陰天下的反橋，橋身的朱紅色倒映在深色的水面上（2019年2月拍攝）。 照片：そらみみ (Soramimi)／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-front-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-front-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="反橋橋頭與兩側的狛犬">
+<figcaption>從反橋橋頭望去。兩側坐著狛犬，參拜者在階梯狀的橋上上下往來（2019年2月拍攝）。 照片：そらみみ (Soramimi)／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-side-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-side-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="從側面看反橋與石造橋墩">
+<figcaption>從側面看反橋。石造橋墩與白色橫木支撐著弧度很大的橋身（2019年2月拍攝）。 照片：そらみみ (Soramimi)／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+### 門與境內的建築
+
+境內散布著朱紅色的門、白牆的文庫與小巧的社殿。參拜之後，不妨沿著本宮四周慢慢走一走。
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hatsutatsu-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hatsutatsu-640.webp 640w, /images/posts/shrine-sumiyoshi-hatsutatsu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="掛著「初辰之門」布幕的朱紅色門">
+<figcaption>掛著「初辰之門」布幕的朱紅色門。門的另一側可以看到排列著紅色旗幟的參道（2024年2月拍攝）。 照片：Hyppolyte de Saint-Rambert／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-kourokumon-1200.webp" srcset="/images/posts/shrine-sumiyoshi-kourokumon-640.webp 640w, /images/posts/shrine-sumiyoshi-kourokumon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="791" loading="lazy" decoding="async" alt="匾額寫著「幸祿門」的朱紅色門">
+<figcaption>匾額上寫著「幸祿門」的朱紅色門。門的另一側可以看到境內的廣場（2017年10月拍攝）。 照片：Saigen Jiro／Wikimedia Commons，<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0 1.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-bunko-1200.webp" srcset="/images/posts/shrine-sumiyoshi-bunko-640.webp 640w, /images/posts/shrine-sumiyoshi-bunko-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="白牆的御文庫">
+<figcaption>白色牆面的「御文庫」。旁邊的石柱上刻著「大阪最古之文庫」（2019年2月拍攝）。 照片：そらみみ (Soramimi)／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sessha-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sessha-640.webp 640w, /images/posts/shrine-sumiyoshi-sessha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1008" loading="lazy" decoding="async" alt="境內小巧的朱紅色社殿">
+<figcaption>境內小巧的朱紅色社殿，右側可以看到懸掛繪馬的地方（2024年8月拍攝）。 照片：Immanuelle／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY 4.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+
 
 ## <span id="point"></span>參拜重點
 

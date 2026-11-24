@@ -74,6 +74,12 @@ draft: false
 <figcaption>「第一本宮」の札が掛かる拝殿の前（2012年10月撮影）。奥に千木をのせた本殿の屋根が見えます。 写真：<a href="https://web.archive.org/web/20161025231139/http://www.panoramio.com/photo/80741431" rel="noopener" target="_blank">Nankou Oronain (as36…)</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hongu-queue-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hongu-queue-640.webp 640w, /images/posts/shrine-sumiyoshi-hongu-queue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="新春の祈祷受付の時期の第一本宮">
+<figcaption>新春の祈祷を受け付ける時期の第一本宮の拝殿前（2019年2月撮影）。参拝の列ができ、大きな屋根の上に千木が見えます。 写真：そらみみ (Soramimi)／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
 ### 住吉造の社殿
 
 住吉造は、アジア大陸から華やかな建築が入ってくる前の、直線的な切妻屋根を持つシンプルな様式で、日本の神社建築の手本のひとつとされます。朱塗りの柱と白い壁、直線的な屋根が特徴です。
@@ -88,9 +94,68 @@ draft: false
 <figcaption>第二本宮の本殿を斜めから見たところ。屋根の三角（妻側）が手前に向き、朱色の柱と白い壁、千木・鰹木がそろいます（2016年5月撮影）。 写真：Saigen Jiro／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hongu-chigi-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hongu-chigi-640.webp 640w, /images/posts/shrine-sumiyoshi-hongu-chigi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="千木と鰹木をのせた住吉大社の本宮">
+<figcaption>朱塗りの垣の向こうに、直線的な切妻屋根と千木・鰹木をのせた社殿が建ちます（2024年2月撮影）。 写真：Hyppolyte de Saint-Rambert／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
 ### 反橋（太鼓橋）
 
-境内には、大きく弧を描く反橋があります。川端康成の短編小説の舞台となったことでも知られ、記念碑も建っています。
+境内には、大きく弧を描く反橋があります。朱塗りの欄干の橋は、池の水面にも姿を映します。橋の上は階段状で、手前には一対の狛犬が座っています。川端康成の短編小説の舞台となったことでも知られ、記念碑も建っています。
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-green-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-green-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="緑に囲まれた住吉大社の反橋">
+<figcaption>緑に囲まれた反橋。池の水面に朱色の橋が映ります（2016年5月撮影）。 写真：Saigen Jiro／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-dusk-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-dusk-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="曇り空の下の反橋と水面の映り込み">
+<figcaption>曇り空の下の反橋。暗い水面に、橋の朱色が映ります（2019年2月撮影）。 写真：そらみみ (Soramimi)／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-front-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-front-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="反橋のたもとと両脇の狛犬">
+<figcaption>反橋のたもとから。両脇に狛犬が座り、階段状の橋を参拝者が上り下りしています（2019年2月撮影）。 写真：そらみみ (Soramimi)／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-side-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-side-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="横から見た反橋と石の橋脚">
+<figcaption>反橋を横から見たところ。石の橋脚と白い横木が、大きく弧を描く橋を支えています（2019年2月撮影）。 写真：そらみみ (Soramimi)／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+### 門と境内の建物
+
+境内には、朱塗りの門や、白壁の文庫、小さな社が点在しています。参拝のあとは、本宮のまわりをゆっくり歩いてみてください。
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hatsutatsu-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hatsutatsu-640.webp 640w, /images/posts/shrine-sumiyoshi-hatsutatsu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="「初辰の門」の幕が掛かる朱塗りの門">
+<figcaption>「初辰の門」の幕が掛かる朱塗りの門。門の向こうに、赤い幟が並ぶ道が見えます（2024年2月撮影）。 写真：Hyppolyte de Saint-Rambert／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-kourokumon-1200.webp" srcset="/images/posts/shrine-sumiyoshi-kourokumon-640.webp 640w, /images/posts/shrine-sumiyoshi-kourokumon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="791" loading="lazy" decoding="async" alt="扁額に「幸禄門」とある朱塗りの門">
+<figcaption>扁額に「幸禄門」と書かれた朱塗りの門。門の向こうに、境内の広場が見えます（2017年10月撮影）。 写真：Saigen Jiro／Wikimedia Commons、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0 1.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-bunko-1200.webp" srcset="/images/posts/shrine-sumiyoshi-bunko-640.webp 640w, /images/posts/shrine-sumiyoshi-bunko-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="白壁の御文庫">
+<figcaption>白壁の「御文庫」。脇の石柱には「大阪最古之文庫」と刻まれています（2019年2月撮影）。 写真：そらみみ (Soramimi)／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sessha-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sessha-640.webp 640w, /images/posts/shrine-sumiyoshi-sessha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1008" loading="lazy" decoding="async" alt="境内の小さな朱色の社">
+<figcaption>境内の小さな朱色の社。右手には絵馬を掛ける場所が見えます（2024年8月撮影）。 写真：Immanuelle／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" rel="noopener" target="_blank">CC BY 4.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+
 
 ## <span id="point"></span>参拝のポイント
 

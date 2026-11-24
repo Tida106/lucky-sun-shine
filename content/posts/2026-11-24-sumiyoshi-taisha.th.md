@@ -60,6 +60,12 @@ draft: false
 <figcaption>หน้าไฮเด็งที่มีป้าย "ฮนงูที่หนึ่ง" (ถ่ายตุลาคม 2012) เห็นหลังคาโฮงเด็งที่มีจิกิอยู่ด้านหลัง ภาพ: <a href="https://web.archive.org/web/20161025231139/http://www.panoramio.com/photo/80741431" rel="noopener" target="_blank">Nankou Oronain (as36…)</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hongu-queue-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hongu-queue-640.webp 640w, /images/posts/shrine-sumiyoshi-hongu-queue-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ผู้มาไหว้ต่อแถวหน้าฮนงูแรกของสุมิโยชิไทฉะ">
+<figcaption>ด้านหน้าฮนงูแรกในช่วงรับขอพรปีใหม่ (ถ่ายกุมภาพันธ์ 2019) ผู้มาไหว้ต่อแถวกัน และเห็นจิกิอยู่เหนือหลังคาขนาดใหญ่ ภาพ: そらみみ (Soramimi) / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
 ### อาคารแบบสุมิโยชิซึกูริ
 
 สุมิโยชิซึกูริเป็นแบบเรียบง่ายที่มีหลังคาจั่วตรง มีมาก่อนที่สถาปัตยกรรมหรูหราจากทวีปเอเชียจะเข้ามา และถือเป็นแบบอย่างของสถาปัตยกรรมศาลเจ้าญี่ปุ่น เสาแดงชาด ผนังขาว และหลังคาตรงคือเอกลักษณ์
@@ -74,9 +80,68 @@ draft: false
 <figcaption>โฮงเด็งของฮนงูที่สองที่ถ่ายเฉียง ด้านสามเหลี่ยมของหลังคา (ด้านจั่ว) หันมาทางผู้ชม มีเสาแดงชาด ผนังขาว จิกิและคัตสึโอกิ (ถ่ายพฤษภาคม 2016) ภาพ: Saigen Jiro / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
 </figure>
 
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hongu-chigi-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hongu-chigi-640.webp 640w, /images/posts/shrine-sumiyoshi-hongu-chigi-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="ฮนงูของสุมิโยชิไทฉะที่มีจิกิและคัตสึโอกิบนหลังคาจั่วตรง">
+<figcaption>เหนือรั้วสีแดงชาดคืออาคารที่มีหลังคาจั่วตรงและมีจิกิกับคัตสึโอกิตั้งอยู่ (ถ่ายกุมภาพันธ์ 2024) ภาพ: Hyppolyte de Saint-Rambert / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 ### สะพานโค้ง (โซริฮาชิ)
 
-ในบริเวณศาลเจ้ามีสะพานที่โค้งสูง เป็นที่รู้จักในฐานะฉากของเรื่องสั้นของคาวาบาตะ ยาสุนาริ และมีอนุสาวรีย์ตั้งอยู่ใกล้ ๆ
+ในบริเวณศาลเจ้ามีสะพานที่โค้งสูง เสาราวสีแดงชาดสะท้อนบนผิวน้ำในสระ ตัวสะพานเป็นขั้นบันไดและมีโคมาอินุคู่หนึ่งนั่งอยู่ที่ปลายสะพาน เป็นที่รู้จักในฐานะฉากของเรื่องสั้นของคาวาบาตะ ยาสุนาริ และมีอนุสาวรีย์ตั้งอยู่ใกล้ ๆ
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-green-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-green-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-green-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="795" loading="lazy" decoding="async" alt="สะพานโซริฮาชิสีแดงชาดท่ามกลางต้นไม้เขียว">
+<figcaption>สะพานโซริฮาชิท่ามกลางต้นไม้สีเขียว เงาสีแดงชาดสะท้อนบนผิวน้ำในสระ (ถ่ายพฤษภาคม 2016) ภาพ: Saigen Jiro / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-dusk-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-dusk-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-dusk-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="สะพานโซริฮาชิใต้ท้องฟ้าครึ้มและเงาบนผิวน้ำ">
+<figcaption>สะพานโซริฮาชิใต้ท้องฟ้าครึ้ม สีแดงชาดของสะพานสะท้อนบนผิวน้ำสีเข้ม (ถ่ายกุมภาพันธ์ 2019) ภาพ: そらみみ (Soramimi) / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-front-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-front-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ปลายสะพานโซริฮาชิและโคมาอินุสองข้าง">
+<figcaption>มองจากปลายสะพาน มีโคมาอินุนั่งอยู่สองข้าง ผู้มาไหว้เดินขึ้นลงบนสะพานที่เป็นขั้นบันได (ถ่ายกุมภาพันธ์ 2019) ภาพ: そらみみ (Soramimi) / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sorihashi-side-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sorihashi-side-640.webp 640w, /images/posts/shrine-sumiyoshi-sorihashi-side-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="สะพานโซริฮาชิมองจากด้านข้างและเสาหิน">
+<figcaption>สะพานโซริฮาชิมองจากด้านข้าง เสาหินและคานสีขาวรองรับสะพานที่โค้งสูง (ถ่ายกุมภาพันธ์ 2019) ภาพ: そらみみ (Soramimi) / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+### ประตูและอาคารในบริเวณศาลเจ้า
+
+ในบริเวณศาลเจ้ามีประตูสีแดงชาด คลังเอกสารผนังสีขาว และศาลเล็ก ๆ กระจายอยู่ หลังไหว้เสร็จลองเดินชมรอบ ๆ ฮนงูอย่างช้า ๆ
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-hatsutatsu-1200.webp" srcset="/images/posts/shrine-sumiyoshi-hatsutatsu-640.webp 640w, /images/posts/shrine-sumiyoshi-hatsutatsu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="ประตูสีแดงชาดที่แขวนผ้าม่าน "ประตูฮัตสึทัตสึ"">
+<figcaption>ประตูสีแดงชาดที่แขวนผ้าม่านของ "ประตูฮัตสึทัตสึ" เห็นทางเดินที่มีธงสีแดงเรียงรายอยู่อีกด้าน (ถ่ายกุมภาพันธ์ 2024) ภาพ: Hyppolyte de Saint-Rambert / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-kourokumon-1200.webp" srcset="/images/posts/shrine-sumiyoshi-kourokumon-640.webp 640w, /images/posts/shrine-sumiyoshi-kourokumon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="791" loading="lazy" decoding="async" alt="ประตูสีแดงชาดที่มีป้ายชื่อ "โคโรกุมง"">
+<figcaption>ประตูสีแดงชาดที่มีป้ายเขียนว่า "โคโรกุมง" เห็นลานกว้างภายในบริเวณศาลเจ้าอยู่อีกด้าน (ถ่ายตุลาคม 2017) ภาพ: Saigen Jiro / Wikimedia Commons, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" rel="noopener" target="_blank">CC0 1.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-bunko-1200.webp" srcset="/images/posts/shrine-sumiyoshi-bunko-640.webp 640w, /images/posts/shrine-sumiyoshi-bunko-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="คลังเอกสารโอบุงโกะผนังสีขาว">
+<figcaption>"โอบุงโกะ" ผนังสีขาว เสาหินข้าง ๆ สลักข้อความว่า "คลังเอกสารที่เก่าแก่ที่สุดของโอซาก้า" (ถ่ายกุมภาพันธ์ 2019) ภาพ: そらみみ (Soramimi) / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+
+<figure class="photo">
+<img src="/images/posts/shrine-sumiyoshi-sessha-1200.webp" srcset="/images/posts/shrine-sumiyoshi-sessha-640.webp 640w, /images/posts/shrine-sumiyoshi-sessha-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1008" loading="lazy" decoding="async" alt="ศาลเล็กสีแดงชาดในบริเวณศาลเจ้า">
+<figcaption>ศาลเล็กสีแดงชาดในบริเวณศาลเจ้า ทางขวาเห็นที่แขวนเอมะ (ถ่ายสิงหาคม 2024) ภาพ: Immanuelle / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.en" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+
 
 ## จุดสำคัญในการไหว้
 
