@@ -7,6 +7,7 @@ category: "powerspots"
 tags: ["ローズクォーツ", "恋愛成就", "神社", "総合ガイド"]
 slug: "shrine-enmusubi-guide"
 draft: false
+cardImage: "/images/cards/shrine-enmusubi-guide-wide.webp"
 ---
 
 ## はじめに

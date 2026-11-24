@@ -7,6 +7,7 @@ category: "powerspots"
 tags: ["粉晶", "戀愛成就", "神社", "綜合指南"]
 slug: "shrine-enmusubi-guide"
 draft: false
+cardImage: "/images/cards/shrine-enmusubi-guide-wide.webp"
 ---
 
 ## 前言

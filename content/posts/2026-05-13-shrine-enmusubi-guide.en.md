@@ -14,6 +14,7 @@ viatorSpots:
     query: "Meiji Jingu Tokyo"
   - name: "Itsukushima Shrine (Miyajima)"
     query: "Miyajima Itsukushima Shrine"
+cardImage: "/images/cards/shrine-enmusubi-guide-wide.webp"
 ---
 
 ## Introduction
