@@ -49,10 +49,6 @@ export default function ArticleCover({ post, variant = 'card', locale = 'ja', cl
           decoding="async"
           className="absolute inset-0 w-full h-full object-cover object-[center_35%]"
         />
-        <div className={`absolute left-3 top-3 inline-flex items-center gap-1.5 rounded-full bg-white/85 backdrop-blur-sm px-2.5 py-1 font-bold shadow-sm z-20 text-[10px] ${accent}`}>
-          {cat && <CategoryIcon slug={cat.slug} className="w-3 h-3" />}
-          <span>{catTitle || categorySlug || '未分類'}</span>
-        </div>
       </div>
     );
   }
