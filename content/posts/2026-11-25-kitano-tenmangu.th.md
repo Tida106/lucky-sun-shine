@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["คิตะโนะเท็นมังงู", "เกียวโต", "ขอพรสอบผ่าน", "ซูงาวาระ โนะ มิจิซาเนะ", "ดอกบ๊วย", "ใบไม้เปลี่ยนสี"]
 slug: "kitano-tenmangu"
 draft: false
+cardImage: "/images/cards/kitano-tenmangu-wide.webp"
 ---
 
 ## บทนำ

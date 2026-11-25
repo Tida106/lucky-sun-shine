@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["北野天滿宮", "京都府", "學業成就", "菅原道真", "梅花", "紅葉"]
 slug: "kitano-tenmangu"
 draft: false
+cardImage: "/images/cards/kitano-tenmangu-wide.webp"
 ---
 
 ## 前言

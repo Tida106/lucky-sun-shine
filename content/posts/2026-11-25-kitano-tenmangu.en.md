@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Kitano Tenmangu", "Kyoto", "Exam Success", "Sugawara no Michizane", "Plum", "Autumn Leaves"]
 slug: "kitano-tenmangu"
 draft: false
+cardImage: "/images/cards/kitano-tenmangu-wide.webp"
 ---
 
 ## Introduction
