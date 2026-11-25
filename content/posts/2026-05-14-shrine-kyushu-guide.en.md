@@ -22,6 +22,7 @@ viatorSpots:
     query: "Aso Shrine Kumamoto"
   - name: "Takachiho Gorge"
     query: "Takachiho Gorge"
+cardImage: "/images/cards/shrine-kyushu-guide-wide.webp"
 ---
 
 ## Introduction

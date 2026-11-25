@@ -15,6 +15,7 @@ tags:
   - 總合指南
 slug: shrine-kyushu-guide
 draft: false
+cardImage: "/images/cards/shrine-kyushu-guide-wide.webp"
 ---
 
 ## 前言
