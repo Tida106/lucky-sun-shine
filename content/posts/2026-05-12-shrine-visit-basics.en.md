@@ -90,6 +90,11 @@ Ideally, all steps should be completed with **one scoop of water**. Since the CO
 
 This is the standard form of worship etiquette at shrines. It is **common at almost all shrines**, but some, like Izumo Taisha and Usa Jingu, follow a different etiquette of "**two bows, four claps, one bow**."
 
+<figure class="photo">
+<img src="/images/posts/shrine-visit-praying-meiji-1200.webp" srcset="/images/posts/shrine-visit-praying-meiji-640.webp 640w, /images/posts/shrine-visit-praying-meiji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A worshipper praying at Meiji Shrine">
+<figcaption>A worshipper praying with hands together at Meiji Shrine (taken in 2009). Photo: <a href="https://www.flickr.com/photos/36872116@N05/3415724453" rel="noopener" target="_blank">japanese_craft_construction</a> / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a> (resized)</figcaption>
+</figure>
+
 ### Basic Procedure
 
 1.  Quietly place your offering (do not throw it).

@@ -105,6 +105,11 @@ cardImage: "/images/cards/shrine-architecture-styles-wide.webp"
 
 神明造は、古代の高床の倉に由来するとされます。御稲御倉は稲をおさめる建物で、高床と大きな切妻の屋根という神明造の特徴を、素朴な形で見せてくれます。
 
+<figure class="photo">
+<img src="/images/posts/shrine-ise-betsugu-1200.webp" srcset="/images/posts/shrine-ise-betsugu-640.webp 640w, /images/posts/shrine-ise-betsugu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="814" loading="lazy" decoding="async" alt="伊勢神宮の別宮にある、茅葺屋根の神明造の社殿">
+<figcaption>伊勢神宮の別宮の社殿。茅葺の切妻屋根に金色の千木・鰹木が載り、周りを板垣が囲みます。 写真：Fg2／Wikimedia Commons（パブリックドメイン）</figcaption>
+</figure>
+
 ### 2. 大社造（たいしゃづくり）
 
 **出雲大社の本殿が原形** です。屋根の短い辺（妻側）に入口がある「妻入り」で、古代の住居に由来するとされます。島根県や鳥取県に多く見られます。神明造と並んで古い様式といわれ、千木が屋根にそびえます。

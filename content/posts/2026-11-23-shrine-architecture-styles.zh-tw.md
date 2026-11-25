@@ -104,6 +104,11 @@ cardImage: "/images/cards/shrine-architecture-styles-wide.webp"
 
 神明造據說源自古代的高床倉庫。御稻御倉是收納稻米的建築，以樸素的形式展現了高床與大型切妻屋頂這些神明造的特徵。
 
+<figure class="photo">
+<img src="/images/posts/shrine-ise-betsugu-1200.webp" srcset="/images/posts/shrine-ise-betsugu-640.webp 640w, /images/posts/shrine-ise-betsugu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="814" loading="lazy" decoding="async" alt="伊勢神宮別宮的茅葺屋頂神明造社殿">
+<figcaption>伊勢神宮別宮的社殿。茅葺的切妻屋頂上立著千木與鰹木，四周圍著木板垣。 照片：Fg2／Wikimedia Commons（公有領域）</figcaption>
+</figure>
+
 ### 2. 大社造（たいしゃづくり）
 
 **以出雲大社的本殿為原型。** 入口位於屋頂的短邊（山牆側），稱為「妻入」，據說源自古代的住居。在島根縣與鳥取縣較為常見。被認為與神明造並列為古老的樣式，千木高聳於屋頂之上。

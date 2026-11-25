@@ -84,6 +84,11 @@ draft: false
 
 這是神社標準的參拜禮儀，**幾乎所有神社都通用**，但出雲大社・宇佐神宮等少數神社的作法略有不同，為「**兩拜四拍手一拜**」。
 
+<figure class="photo">
+<img src="/images/posts/shrine-visit-praying-meiji-1200.webp" srcset="/images/posts/shrine-visit-praying-meiji-640.webp 640w, /images/posts/shrine-visit-praying-meiji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="在明治神宮合掌祈禱的參拜者">
+<figcaption>在明治神宮社殿前合掌祈禱的參拜者（2009年拍攝）。 照片：<a href="https://www.flickr.com/photos/36872116@N05/3415724453" rel="noopener" target="_blank">japanese_craft_construction</a>／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/2.0/deed.en" rel="noopener" target="_blank">CC BY 2.0</a>（已調整尺寸）</figcaption>
+</figure>
+
 ### 基本步驟
 
 1. 靜靜地投入香油錢（不要用丟的）

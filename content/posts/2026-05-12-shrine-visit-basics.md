@@ -84,6 +84,11 @@ draft: false
 
 神社の標準的な拝礼作法。**ほぼ全ての神社で共通** ですが、出雲大社・宇佐神宮など一部は「**二礼四拍手一礼**」と作法が異なります。
 
+<figure class="photo">
+<img src="/images/posts/shrine-visit-praying-meiji-1200.webp" srcset="/images/posts/shrine-visit-praying-meiji-640.webp 640w, /images/posts/shrine-visit-praying-meiji-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="明治神宮の社殿の前で手を合わせて祈る人">
+<figcaption>明治神宮の社殿の前で、手を合わせて祈る参拝者（2009年撮影）。 写真：<a href="https://www.flickr.com/photos/36872116@N05/3415724453" rel="noopener" target="_blank">japanese_craft_construction</a>／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
 ### 基本の手順
 
 1. 賽銭を静かに入れる（投げ入れない）

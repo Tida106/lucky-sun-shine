@@ -104,6 +104,11 @@ Just after a rebuilding, the color of the wood is bright, and it is said to be e
 
 Shinmei-zukuri is said to derive from ancient raised-floor storehouses. Mishine-no-mikura is a building for storing rice, and it shows the features of Shinmei-zukuri, a raised floor and a large gabled roof, in a simple form.
 
+<figure class="photo">
+<img src="/images/posts/shrine-ise-betsugu-1200.webp" srcset="/images/posts/shrine-ise-betsugu-640.webp 640w, /images/posts/shrine-ise-betsugu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="814" loading="lazy" decoding="async" alt="A thatched-roof Shinmei-zukuri building at an Ise Shrine betsugū">
+<figcaption>A shrine building at one of Ise Shrine's "exceptional shrines" (betsugū): a thatched gable roof topped with chigi and katsuogi, enclosed by a plank fence. Photo: Fg2 / Wikimedia Commons (public domain)</figcaption>
+</figure>
+
 ### 2. Taisha-zukuri
 
 **Modeled on the main sanctuary of Izumo Taisha.** The entrance is on the short side of the roof (the gable end), called "tsumairi," a form said to derive from ancient dwellings. It is often seen in Shimane and Tottori Prefectures. Said to be as old as Shinmei-zukuri, it has chigi that tower above the roof.
