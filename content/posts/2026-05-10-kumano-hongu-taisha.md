@@ -75,6 +75,83 @@ draft: false
 - **御朱印の八咫烏スタンプ**
 - **黒い鳥居** — 熊野信仰の象徴的な配色
 
+## 境内の風景
+
+入口の鳥居から社殿まで、写真で歩いてみましょう。
+
+### 鳥居と参道
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-monument-torii-1200.webp" srcset="/images/posts/shrine-kumano-hongu-monument-torii-640.webp 640w, /images/posts/shrine-kumano-hongu-monument-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="「日本第一霊験所」の石碑と木の鳥居">
+<figcaption>「日本第一霊験所」と刻まれた石碑と、参道の入口に立つ木の鳥居。奥に石段が続きます（2013年3月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-banners-1200.webp" srcset="/images/posts/shrine-kumano-hongu-banners-640.webp 640w, /images/posts/shrine-kumano-hongu-banners-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="熊野大権現ののぼりが並ぶ石段">
+<figcaption>「熊野大権現」ののぼりが両側に並ぶ参道と、杉木立の中に続く長い石段（2013年3月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-torii-forest-1200.webp" srcset="/images/posts/shrine-kumano-hongu-torii-forest-640.webp 640w, /images/posts/shrine-kumano-hongu-torii-forest-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="杉木立の中に立つ白木の鳥居">
+<figcaption>杉木立に囲まれた、白木の鳥居と細い舗装路（2014年1月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+### 神門と手水舎
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-shinmon-1200.webp" srcset="/images/posts/shrine-kumano-hongu-shinmon-640.webp 640w, /images/posts/shrine-kumano-hongu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="しめ縄と大きな幕が掛かる神門">
+<figcaption>太いしめ縄と菊の紋の大きな幕が掛かる神門。額には干支の馬が描かれています（2014年1月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-temizuya-1200.webp" srcset="/images/posts/shrine-kumano-hongu-temizuya-640.webp 640w, /images/posts/shrine-kumano-hongu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="龍が見守る手水舎">
+<figcaption>竹の樋にひしゃくが並ぶ手水舎。奥の青銅の龍と、手前に咲くアセビの花が目を引きます（2013年3月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+### 社殿のまわり
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-haiden-1200.webp" srcset="/images/posts/shrine-kumano-hongu-haiden-640.webp 640w, /images/posts/shrine-kumano-hongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="大きな墨書が掛かる社殿">
+<figcaption>大きな墨書の幕が掛かる社殿の正面。左右に八咫烏の丸い像が立っています（2013年3月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-three-1200.webp" srcset="/images/posts/shrine-kumano-hongu-three-640.webp 640w, /images/posts/shrine-kumano-hongu-three-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="檜皮葺の屋根が並ぶ社殿群">
+<figcaption>杉の木立を背に、檜皮葺の屋根が並ぶ社殿群。千木の先の金色が光ります（2014年1月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-front-1200.webp" srcset="/images/posts/shrine-kumano-hongu-front-640.webp 640w, /images/posts/shrine-kumano-hongu-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="参拝者が手を合わせる社殿">
+<figcaption>石段の上の社殿に向かって、参拝者が手を合わせています。金色の灯籠と菊の紋の幕が見えます（2014年1月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-close-1200.webp" srcset="/images/posts/shrine-kumano-hongu-close-640.webp 640w, /images/posts/shrine-kumano-hongu-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="金の飾りが映える社殿の正面">
+<figcaption>近くで見た社殿の正面。屋根の金色の飾りと、鈴の綱が垂れる扉が見えます（2013年3月撮影）。 写真：Nekosuki／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-crowd-1200.webp" srcset="/images/posts/shrine-kumano-hongu-crowd-640.webp 640w, /images/posts/shrine-kumano-hongu-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="参拝者で混み合う境内">
+<figcaption>参拝者で混み合う境内。「甘酒」と書かれた幕のテントも出ています。 写真：popsaurus／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by/3.0/deed.ja" rel="noopener" target="_blank">CC BY 3.0</a>（サイズ変更あり）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-notari-1200.webp" srcset="/images/posts/shrine-kumano-hongu-notari-640.webp 640w, /images/posts/shrine-kumano-hongu-notari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="社殿の前に集う人々">
+<figcaption>社殿の前に集う人々。厚い屋根の曲線が、熊野の社殿らしい姿です（2006年9月撮影）。 写真：Tim Notari／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 2.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+### 八咫烏と大黒石
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-yatagarasu-1200.webp" srcset="/images/posts/shrine-kumano-hongu-yatagarasu-640.webp 640w, /images/posts/shrine-kumano-hongu-yatagarasu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="八咫烏の像">
+<figcaption>円の中に刻まれた八咫烏の像。台座には「本宮 八咫烏」と書かれています（2013年1月撮影）。 写真：Yanajin33／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-daikoku-1200.webp" srcset="/images/posts/shrine-kumano-hongu-daikoku-640.webp 640w, /images/posts/shrine-kumano-hongu-daikoku-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="大黒石">
+<figcaption>境内にある「大黒石」。まるい自然石が、白い小石に囲まれて置かれています（2013年1月撮影）。 写真：Yanajin33／Wikimedia Commons、<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 3.0</a>（サイズ変更あり）（同じライセンスで提供）</figcaption>
+</figure>
+
 ## <span id="point"></span>参拝のポイント
 
 - **熊野古道・中辺路ルート** を歩いて参詣するのが伝統

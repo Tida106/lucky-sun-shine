@@ -74,6 +74,83 @@ draft: false
 - **御朱印的八咫烏印章**
 - **黑色鳥居** — 熊野信仰象徵性的配色
 
+## 境內風景
+
+讓我們透過照片，從入口的鳥居走到社殿。
+
+### 鳥居與參道
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-monument-torii-1200.webp" srcset="/images/posts/shrine-kumano-hongu-monument-torii-640.webp 640w, /images/posts/shrine-kumano-hongu-monument-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="木造鳥居與「日本第一靈驗所」石碑">
+<figcaption>入口處的木造鳥居，以及刻著「日本第一靈驗所」的石碑，後方石階向上延伸（2013年3月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-banners-1200.webp" srcset="/images/posts/shrine-kumano-hongu-banners-640.webp 640w, /images/posts/shrine-kumano-hongu-banners-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="兩旁立滿「熊野大權現」幟旗的石階">
+<figcaption>參道兩旁立著寫有「熊野大權現」的幟旗，長長的石階延伸到杉木林之中（2013年3月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-torii-forest-1200.webp" srcset="/images/posts/shrine-kumano-hongu-torii-forest-640.webp 640w, /images/posts/shrine-kumano-hongu-torii-forest-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="立於杉木林中的原木鳥居">
+<figcaption>被杉木林環繞的原木鳥居與狹窄的柏油小路（2014年1月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+### 神門與手水舍
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-shinmon-1200.webp" srcset="/images/posts/shrine-kumano-hongu-shinmon-640.webp 640w, /images/posts/shrine-kumano-hongu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="掛著粗大注連繩的神門">
+<figcaption>神門掛著粗大的注連繩與繪有菊紋的大幕，匾額上畫著當年生肖的馬（2014年1月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-temizuya-1200.webp" srcset="/images/posts/shrine-kumano-hongu-temizuya-640.webp 640w, /images/posts/shrine-kumano-hongu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="有龍守護的手水舍">
+<figcaption>竹筒上並排著長柄勺的手水舍，後方有青銅龍，前方盛開著馬醉木的花（2013年3月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+### 社殿周邊
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-haiden-1200.webp" srcset="/images/posts/shrine-kumano-hongu-haiden-640.webp 640w, /images/posts/shrine-kumano-hongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="掛著巨大墨書的社殿">
+<figcaption>掛著巨大墨書布幕的社殿正面，左右立著八咫烏的圓形雕像（2013年3月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-three-1200.webp" srcset="/images/posts/shrine-kumano-hongu-three-640.webp 640w, /images/posts/shrine-kumano-hongu-three-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="並列的檜皮葺社殿群">
+<figcaption>以杉木林為背景，並列著檜皮葺的屋頂，千木尖端閃著金色（2014年1月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-front-1200.webp" srcset="/images/posts/shrine-kumano-hongu-front-640.webp 640w, /images/posts/shrine-kumano-hongu-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="參拜者雙手合十的社殿">
+<figcaption>參拜者在石階上的社殿前合掌祈禱，可見金色燈籠與菊紋布幕（2014年1月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-close-1200.webp" srcset="/images/posts/shrine-kumano-hongu-close-640.webp 640w, /images/posts/shrine-kumano-hongu-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="金色裝飾顯眼的社殿正面">
+<figcaption>近看社殿正面，屋頂的金色裝飾與前方垂掛鈴繩的門扉清晰可見（2013年3月拍攝）。 照片：Nekosuki／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-crowd-1200.webp" srcset="/images/posts/shrine-kumano-hongu-crowd-640.webp 640w, /images/posts/shrine-kumano-hongu-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="擠滿參拜者的境內">
+<figcaption>擠滿參拜者的境內，前方搭著寫有「甘酒」的帳篷。 照片：popsaurus／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY 3.0</a>（已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-notari-1200.webp" srcset="/images/posts/shrine-kumano-hongu-notari-640.webp 640w, /images/posts/shrine-kumano-hongu-notari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="聚集在社殿前的人們">
+<figcaption>聚集在社殿前的人們，厚實而弧度優美的屋頂，是熊野社殿的特色（2006年9月拍攝）。 照片：Tim Notari／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+### 八咫烏與大黑石
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-yatagarasu-1200.webp" srcset="/images/posts/shrine-kumano-hongu-yatagarasu-640.webp 640w, /images/posts/shrine-kumano-hongu-yatagarasu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="八咫烏的雕像">
+<figcaption>刻在圓形中的八咫烏雕像，底座寫著「本宮 八咫烏」（2013年1月拍攝）。 照片：Yanajin33／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-daikoku-1200.webp" srcset="/images/posts/shrine-kumano-hongu-daikoku-640.webp 640w, /images/posts/shrine-kumano-hongu-daikoku-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="大黑石">
+<figcaption>境內的「大黑石」，圓潤的天然石被白色小石子圍繞（2013年1月拍攝）。 照片：Yanajin33／Wikimedia Commons，<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-tw" rel="noopener" target="_blank">CC BY-SA 3.0</a>（已調整尺寸）（以相同授權條款提供）</figcaption>
+</figure>
+
 ## <span id="point"></span>參拜重點
 
 - 傳統上建議沿著**熊野古道・中邊路路線**步行參詣

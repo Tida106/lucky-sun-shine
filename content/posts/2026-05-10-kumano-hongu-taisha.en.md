@@ -78,6 +78,83 @@ The **three-legged crow** on the emblem of the Japan national football (soccer) 
 - **The Yatagarasu Stamp on the Goshuin**
 - **The Black Torii Gate** — a symbolic color scheme of Kumano faith
 
+## Around the Shrine Grounds
+
+Let us walk from the entrance torii to the halls through photographs.
+
+### Torii and Approach
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-monument-torii-1200.webp" srcset="/images/posts/shrine-kumano-hongu-monument-torii-640.webp 640w, /images/posts/shrine-kumano-hongu-monument-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Wooden torii and the stone monument">
+<figcaption>A wooden torii and a stone monument carved with "Japan's foremost sacred site" mark the entrance. Stone steps continue beyond (photographed March 2013). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-banners-1200.webp" srcset="/images/posts/shrine-kumano-hongu-banners-640.webp 640w, /images/posts/shrine-kumano-hongu-banners-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Banners lining the stone steps">
+<figcaption>Banners reading "Kumano Daigongen" line both sides of the approach, with a long flight of steps rising through the cedars (photographed March 2013). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-torii-forest-1200.webp" srcset="/images/posts/shrine-kumano-hongu-torii-forest-640.webp 640w, /images/posts/shrine-kumano-hongu-torii-forest-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A plain wooden torii among cedars">
+<figcaption>A plain wooden torii and a narrow paved path, surrounded by cedar trees (photographed January 2014). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+### The Gate and Water Basin
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-shinmon-1200.webp" srcset="/images/posts/shrine-kumano-hongu-shinmon-640.webp 640w, /images/posts/shrine-kumano-hongu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The gate hung with a thick shimenawa">
+<figcaption>The gate is hung with a thick shimenawa rope and large white curtains. The plaque shows a horse, the zodiac animal of the year (photographed January 2014). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-temizuya-1200.webp" srcset="/images/posts/shrine-kumano-hongu-temizuya-640.webp 640w, /images/posts/shrine-kumano-hongu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The purification fountain with a dragon">
+<figcaption>A water basin with dippers laid across bamboo. A bronze dragon sits behind it, and flowering pieris blooms in the foreground (photographed March 2013). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+### The Halls
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-haiden-1200.webp" srcset="/images/posts/shrine-kumano-hongu-haiden-640.webp 640w, /images/posts/shrine-kumano-hongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A hall hung with large calligraphy">
+<figcaption>The front of a hall hung with large calligraphy banners. Round carvings of the crow Yatagarasu stand on either side (photographed March 2013). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-three-1200.webp" srcset="/images/posts/shrine-kumano-hongu-three-640.webp 640w, /images/posts/shrine-kumano-hongu-three-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The row of shrine buildings">
+<figcaption>Bark-thatched roofs stand in a row against the cedar forest, with gold tips glinting on the crossed roof ornaments (photographed January 2014). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-front-1200.webp" srcset="/images/posts/shrine-kumano-hongu-front-640.webp 640w, /images/posts/shrine-kumano-hongu-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="Visitors praying at the hall">
+<figcaption>Visitors pray before the hall at the top of the steps. Golden lanterns and curtains with a chrysanthemum crest hang at the front (photographed January 2014). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-close-1200.webp" srcset="/images/posts/shrine-kumano-hongu-close-640.webp 640w, /images/posts/shrine-kumano-hongu-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A close view of a hall front">
+<figcaption>A closer view of a hall front, with gold ornaments on the roof and a bell rope hanging before the doors (photographed March 2013). Photo: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-crowd-1200.webp" srcset="/images/posts/shrine-kumano-hongu-crowd-640.webp 640w, /images/posts/shrine-kumano-hongu-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="A crowded courtyard">
+<figcaption>The courtyard is crowded with visitors. A tent with a sign for "amazake" (sweet sake) stands in front of the halls. Photo: popsaurus / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-notari-1200.webp" srcset="/images/posts/shrine-kumano-hongu-notari-640.webp 640w, /images/posts/shrine-kumano-hongu-notari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="People gathered before the hall">
+<figcaption>People gather before the hall. The thick, sweeping roofline is typical of the Kumano shrine style (photographed September 2006). Photo: Tim Notari / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+### Yatagarasu and the Daikoku Stone
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-yatagarasu-1200.webp" srcset="/images/posts/shrine-kumano-hongu-yatagarasu-640.webp 640w, /images/posts/shrine-kumano-hongu-yatagarasu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="The Yatagarasu monument">
+<figcaption>A monument with the three-legged crow Yatagarasu carved inside a circle. The base reads "Hongu Yatagarasu" (photographed January 2013). Photo: Yanajin33 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-daikoku-1200.webp" srcset="/images/posts/shrine-kumano-hongu-daikoku-640.webp 640w, /images/posts/shrine-kumano-hongu-daikoku-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The Daikoku Stone">
+<figcaption>The "Daikoku-seki" stone in the grounds, a rounded natural rock set among white pebbles (photographed January 2013). Photo: Yanajin33 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 ## <span id="point"></span>Key Pilgrimage Points
 
 - Traditionally, pilgrims **walk the Kumano Kodo Nakahechi Route** to reach the shrine.

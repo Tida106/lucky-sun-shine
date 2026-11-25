@@ -55,6 +55,83 @@ draft: false
 - **ตราประทับยาตะงาระสึบนโกชูอิน**
 - **โทริอิสีดำ** — สีสัญลักษณ์แห่งความเชื่อคุมาโนะ
 
+## ภาพบรรยากาศในศาลเจ้า
+
+มาเดินจากโทริอิทางเข้าไปจนถึงตัวอาคารผ่านภาพถ่ายกัน
+
+### โทริอิและทางเข้า
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-monument-torii-1200.webp" srcset="/images/posts/shrine-kumano-hongu-monument-torii-640.webp 640w, /images/posts/shrine-kumano-hongu-monument-torii-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิไม้และแท่นหินที่ทางเข้า">
+<figcaption>โทริอิไม้และแท่นหินที่สลักว่า "สถานที่ศักดิ์สิทธิ์อันดับหนึ่งของญี่ปุ่น" อยู่ที่ทางเข้า ด้านหลังมีบันไดหินทอดยาว (ถ่ายมีนาคม 2013) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-banners-1200.webp" srcset="/images/posts/shrine-kumano-hongu-banners-640.webp 640w, /images/posts/shrine-kumano-hongu-banners-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ธงที่เรียงรายสองข้างบันได">
+<figcaption>ธงที่เขียนว่า "คุมาโนะ ไดงงเงน" เรียงรายสองข้างทางเดิน และบันไดหินยาวทอดผ่านป่าซีดาร์ (ถ่ายมีนาคม 2013) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-torii-forest-1200.webp" srcset="/images/posts/shrine-kumano-hongu-torii-forest-640.webp 640w, /images/posts/shrine-kumano-hongu-torii-forest-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="โทริอิไม้ธรรมชาติท่ามกลางต้นซีดาร์">
+<figcaption>โทริอิไม้ธรรมชาติและทางลาดยางแคบ ๆ ที่ล้อมด้วยต้นซีดาร์ (ถ่ายมกราคม 2014) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+### ประตูและที่ล้างมือ
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-shinmon-1200.webp" srcset="/images/posts/shrine-kumano-hongu-shinmon-640.webp 640w, /images/posts/shrine-kumano-hongu-shinmon-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ประตูที่แขวนเชือกชิเมนาวะเส้นใหญ่">
+<figcaption>ประตูที่แขวนเชือกชิเมนาวะเส้นหนาและผ้าม่านขาวผืนใหญ่ แผ่นป้ายวาดม้าซึ่งเป็นสัตว์ประจำปี (ถ่ายมกราคม 2014) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-temizuya-1200.webp" srcset="/images/posts/shrine-kumano-hongu-temizuya-640.webp 640w, /images/posts/shrine-kumano-hongu-temizuya-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ที่ล้างมือที่มีมังกรเฝ้าอยู่">
+<figcaption>ที่ล้างมือที่มีทัพพีวางเรียงบนไม้ไผ่ ด้านหลังมีมังกรสำริด และมีดอกอะเซบิบานอยู่ด้านหน้า (ถ่ายมีนาคม 2013) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+### บริเวณอาคารหลัก
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-haiden-1200.webp" srcset="/images/posts/shrine-kumano-hongu-haiden-640.webp 640w, /images/posts/shrine-kumano-hongu-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="อาคารที่แขวนผ้าตัวอักษรพู่กันขนาดใหญ่">
+<figcaption>ด้านหน้าอาคารที่แขวนผ้าตัวอักษรพู่กันขนาดใหญ่ สองข้างมีประติมากรรมกลมรูปอีกาสามขา (ถ่ายมีนาคม 2013) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-three-1200.webp" srcset="/images/posts/shrine-kumano-hongu-three-640.webp 640w, /images/posts/shrine-kumano-hongu-three-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="กลุ่มอาคารหลังคาเปลือกไม้">
+<figcaption>หลังคามุงเปลือกไม้เรียงเป็นแถวโดยมีป่าซีดาร์เป็นฉากหลัง ปลายชิงิสีทองสะท้อนแสง (ถ่ายมกราคม 2014) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-front-1200.webp" srcset="/images/posts/shrine-kumano-hongu-front-640.webp 640w, /images/posts/shrine-kumano-hongu-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ผู้มาไหว้ประนมมือที่ตัวอาคาร">
+<figcaption>ผู้มาไหว้ประนมมือที่หน้าอาคารบนบันได เห็นโคมทองและผ้าม่านลายดอกเบญจมาศ (ถ่ายมกราคม 2014) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-close-1200.webp" srcset="/images/posts/shrine-kumano-hongu-close-640.webp 640w, /images/posts/shrine-kumano-hongu-close-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ภาพใกล้ด้านหน้าอาคาร">
+<figcaption>ภาพใกล้ด้านหน้าอาคาร เห็นเครื่องประดับสีทองบนหลังคาและเชือกกระดิ่งที่ห้อยหน้าประตู (ถ่ายมีนาคม 2013) ภาพ: Nekosuki / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-crowd-1200.webp" srcset="/images/posts/shrine-kumano-hongu-crowd-640.webp 640w, /images/posts/shrine-kumano-hongu-crowd-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ลานที่แน่นไปด้วยผู้มาไหว้">
+<figcaption>ลานที่แน่นไปด้วยผู้มาไหว้ มีเต็นท์ที่เขียนว่า "อามาซาเกะ" (สาเกหวาน) ตั้งอยู่ด้านหน้า ภาพ: popsaurus / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/3.0/deed.en" rel="noopener" target="_blank">CC BY 3.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-notari-1200.webp" srcset="/images/posts/shrine-kumano-hongu-notari-640.webp 640w, /images/posts/shrine-kumano-hongu-notari-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ผู้คนที่มารวมกันหน้าอาคาร">
+<figcaption>ผู้คนที่มารวมกันหน้าอาคาร หลังคาหนาที่โค้งสวยเป็นเอกลักษณ์ของศาลเจ้าคุมาโนะ (ถ่ายกันยายน 2006) ภาพ: Tim Notari / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.en" rel="noopener" target="_blank">CC BY-SA 2.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+### ยาตะงาระสึและหินไดโกกุ
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-yatagarasu-1200.webp" srcset="/images/posts/shrine-kumano-hongu-yatagarasu-640.webp 640w, /images/posts/shrine-kumano-hongu-yatagarasu-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="1600" loading="lazy" decoding="async" alt="รูปปั้นยาตะงาระสึ">
+<figcaption>รูปปั้นอีกาสามขายาตะงาระสึที่สลักอยู่ในวงกลม ฐานเขียนว่า "ฮงงู ยาตะงาระสึ" (ถ่ายมกราคม 2013) ภาพ: Yanajin33 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/shrine-kumano-hongu-daikoku-1200.webp" srcset="/images/posts/shrine-kumano-hongu-daikoku-640.webp 640w, /images/posts/shrine-kumano-hongu-daikoku-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="หินไดโกกุ">
+<figcaption>หิน "ไดโกกุเซกิ" ในบริเวณศาลเจ้า เป็นหินธรรมชาติทรงกลมที่วางล้อมด้วยก้อนกรวดสีขาว (ถ่ายมกราคม 2013) ภาพ: Yanajin33 / Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ## จุดสำคัญในการไหว้
 
 - เดินตาม **เส้นทางนาคาเฮจิแห่งคุมาโนะโคโดะ** เพื่อแสวงบุญตามประเพณี
