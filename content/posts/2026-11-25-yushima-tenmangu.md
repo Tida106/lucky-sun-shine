@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["湯島天満宮", "湯島天神", "東京都", "学業成就", "梅まつり"]
 slug: "yushima-tenmangu"
 draft: false
+cardImage: "/images/cards/yushima-tenmangu-wide.webp"
 ---
 
 ## はじめに

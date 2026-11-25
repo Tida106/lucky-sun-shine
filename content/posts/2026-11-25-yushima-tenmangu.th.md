@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["ยูชิมะเท็นมังงู", "ยูชิมะเท็นจิน", "โตเกียว", "ขอพรสอบผ่าน", "เทศกาลดอกบ๊วย"]
 slug: "yushima-tenmangu"
 draft: false
+cardImage: "/images/cards/yushima-tenmangu-wide.webp"
 ---
 
 ## บทนำ

@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Yushima Tenmangu", "Yushima Tenjin", "Tokyo", "Exam Success", "Plum Festival"]
 slug: "yushima-tenmangu"
 draft: false
+cardImage: "/images/cards/yushima-tenmangu-wide.webp"
 ---
 
 ## Introduction
