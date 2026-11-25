@@ -7,6 +7,7 @@ category: "powerspots"
 tags: ["ออบซิเดียน", "วากายามะ", "คุมาโนะโคโดะ"]
 slug: "kumano-hongu-taisha"
 draft: false
+cardImage: "/images/cards/kumano-hongu-taisha-wide.webp"
 ---
 
 ## บทนำ

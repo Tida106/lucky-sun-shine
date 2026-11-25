@@ -11,6 +11,7 @@ viatorSpots:
     query: "Kumano Hongu Taisha"
   - name: "Kumano Kodo"
     query: "Kumano Kodo"
+cardImage: "/images/cards/kumano-hongu-taisha-wide.webp"
 ---
 
 ## Introduction

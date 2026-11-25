@@ -7,6 +7,7 @@ category: "powerspots"
 tags: ["御朱印帳", "和歌山縣", "熊野古道"]
 slug: "kumano-hongu-taisha"
 draft: false
+cardImage: "/images/cards/kumano-hongu-taisha-wide.webp"
 ---
 
 ## 前言
