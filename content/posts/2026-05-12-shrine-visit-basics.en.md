@@ -17,6 +17,7 @@ viatorSpots:
     query: "Meiji Jingu Tokyo"
   - name: "Izumo Taisha"
     query: "Izumo Taisha"
+cardImage: "/images/cards/shrine-visit-basics-wide.webp"
 ---
 
 ## Introduction

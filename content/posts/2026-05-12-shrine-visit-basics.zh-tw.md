@@ -11,6 +11,7 @@ tags:
   - 綜合指南
 slug: shrine-visit-basics
 draft: false
+cardImage: "/images/cards/shrine-visit-basics-wide.webp"
 ---
 
 ## 前言
