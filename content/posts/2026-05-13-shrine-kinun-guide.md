@@ -7,6 +7,7 @@ category: "powerspots"
 tags: ["御朱印帳", "商売繁盛", "神社", "総合ガイド"]
 slug: "shrine-kinun-guide"
 draft: false
+cardImage: "/images/cards/shrine-kinun-guide-wide.webp"
 ---
 
 ## はじめに

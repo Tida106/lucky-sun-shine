@@ -14,6 +14,7 @@ viatorSpots:
     query: "Miyajima Itsukushima Shrine"
   - name: "Izumo Taisha"
     query: "Izumo Taisha"
+cardImage: "/images/cards/shrine-kinun-guide-wide.webp"
 ---
 
 ## Introduction
