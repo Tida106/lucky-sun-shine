@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["ดาไซฟุเท็นมังงู", "ฟุกุโอกะ", "สอบ", "ซูกาวาระ โนะ มิจิซาเนะ", "บ๊วย", "โทบิอุเมะ"]
 slug: "dazaifu-tenmangu"
 draft: false
+cardImage: "/images/cards/dazaifu-tenmangu-wide.webp"
 ---
 
 ## บทนำ

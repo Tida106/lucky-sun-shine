@@ -18,6 +18,7 @@ viatorSpots:
     query: "Kasuga Taisha Nara"
   - name: "Togakushi Shrine"
     query: "Togakushi Nagano"
+cardImage: "/images/cards/shrine-gakugyo-guide-wide.webp"
 ---
 
 ## Introduction

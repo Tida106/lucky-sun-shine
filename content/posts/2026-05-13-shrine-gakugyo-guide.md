@@ -12,6 +12,7 @@ tags:
   - 総合ガイド
 slug: shrine-gakugyo-guide
 draft: false
+cardImage: "/images/cards/shrine-gakugyo-guide-wide.webp"
 ---
 
 ## はじめに

@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Dazaifu Tenmangu", "Fukuoka", "Exam Success", "Sugawara no Michizane", "Plum", "Tobiume"]
 slug: "dazaifu-tenmangu"
 draft: false
+cardImage: "/images/cards/dazaifu-tenmangu-wide.webp"
 ---
 
 ## Introduction

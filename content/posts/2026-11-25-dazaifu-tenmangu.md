@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["太宰府天満宮", "福岡県", "学業成就", "菅原道真", "梅", "飛梅"]
 slug: "dazaifu-tenmangu"
 draft: false
+cardImage: "/images/cards/dazaifu-tenmangu-wide.webp"
 ---
 
 ## はじめに
