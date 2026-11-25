@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["สถาปัตยกรรมศาลเจ้า", "โฮงเด็ง", "จิกิและคัตสึโอกิ", "มารยาทการไหว้ศาลเจ้า"]
 slug: "shrine-architecture-styles"
 draft: false
+cardImage: "/images/cards/shrine-architecture-styles-wide.webp"
 ---
 
 ## บทนำ

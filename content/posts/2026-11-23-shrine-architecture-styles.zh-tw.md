@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["神社建築", "本殿", "千木・鰹木", "參拜禮儀"]
 slug: "shrine-architecture-styles"
 draft: false
+cardImage: "/images/cards/shrine-architecture-styles-wide.webp"
 ---
 
 ## 前言

@@ -6,6 +6,7 @@ category: "powerspots"
 tags: ["Shrine Architecture", "Honden", "Chigi and Katsuogi", "Shrine Etiquette"]
 slug: "shrine-architecture-styles"
 draft: false
+cardImage: "/images/cards/shrine-architecture-styles-wide.webp"
 ---
 
 ## Introduction
