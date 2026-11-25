@@ -13,6 +13,7 @@ viatorSpots:
     query: "Fujisan Sengen Taisha"
   - name: "Togakushi Shrine"
     query: "Togakushi Nagano"
+cardImage: "/images/cards/shrine-chubu-guide-wide.webp"
 ---
 
 ## Introduction

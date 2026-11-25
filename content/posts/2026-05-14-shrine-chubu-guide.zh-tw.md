@@ -7,6 +7,7 @@ category: "powerspots"
 tags: ["御朱印帳", "長野", "靜岡", "神社", "總合指南"]
 slug: "shrine-chubu-guide"
 draft: false
+cardImage: "/images/cards/shrine-chubu-guide-wide.webp"
 ---
 
 ## 前言

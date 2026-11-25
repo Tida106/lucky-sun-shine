@@ -23,6 +23,7 @@ viatorSpots:
     query: "Kasuga Taisha Nara"
   - name: "Kumano Hongu Taisha"
     query: "Kumano Hongu Taisha"
+cardImage: "/images/cards/shrine-kansai-guide-wide.webp"
 ---
 
 ## Introduction

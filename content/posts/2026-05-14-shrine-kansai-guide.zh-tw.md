@@ -17,6 +17,7 @@ tags:
   - 總合指南
 slug: shrine-kansai-guide
 draft: false
+cardImage: "/images/cards/shrine-kansai-guide-wide.webp"
 ---
 
 ## 前言
