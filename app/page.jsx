@@ -200,10 +200,10 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto px-4 pt-6 pb-10 md:pt-10 md:pb-14 text-center">
           {/* 文字が読みやすいよう、2か所だけ白い膜（写真は膜の外でそのまま見える） */}
           <div className="mx-auto max-w-[840px] rounded-[18px] bg-white/70 px-3 md:px-4 pt-4 pb-1">
-          <p className="inline-flex items-center justify-center gap-3 text-amber-700 tracking-[0.3em] text-xs md:text-sm font-bold">
-            <SunOrnament className="w-4 h-4 text-amber-500" />
+          <p className="inline-flex items-center justify-center gap-3 text-[#7a4a00] tracking-[0.3em] text-base md:text-xl font-extrabold">
+            <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-600" />
             <span>LUCKY SUN SHINE</span>
-            <SunOrnament className="w-4 h-4 text-amber-500" />
+            <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-600" />
           </p>
           <h1 className="mt-5 font-display text-3xl md:text-5xl font-extrabold text-ink-900 leading-tight drop-shadow-[0_1px_1px_rgba(255,255,255,0.6)]">
             <span className="inline-flex items-center justify-center gap-3 md:gap-5">
@@ -243,9 +243,9 @@ export default function HomePage() {
               <Link prefetch={false}
                 key={c.slug}
                 href={`/category/${c.slug}/`}
-                className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/90 backdrop-blur-sm border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
+                className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-full bg-gradient-to-b from-amber-400 to-amber-600 border-2 border-amber-700 text-sm font-bold text-white shadow-[0_4px_10px_rgba(146,64,14,0.35)] hover:from-amber-500 hover:to-amber-700 hover:-translate-y-0.5 transition-all"
               >
-                <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600" />
+                <CategoryIcon slug={c.slug} className="w-4 h-4 text-white" />
                 {c.title}
               </Link>
             ))}
