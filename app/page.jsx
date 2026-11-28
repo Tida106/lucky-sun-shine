@@ -182,7 +182,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="relative overflow-hidden isolate">
         {/* レスポンシブ背景画像: 480w=27KB / 640w=47KB / 960w=102KB / 1376w=238KB */}
-        <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none opacity-60">
+        <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none opacity-80">
           <source media="(max-width: 480px)"  srcSet="/images/hero-crystals-480.webp" type="image/webp" />
           <source media="(max-width: 640px)"  srcSet="/images/hero-crystals-640.webp" type="image/webp" />
           <source media="(max-width: 960px)"  srcSet="/images/hero-crystals-960.webp" type="image/webp" />
