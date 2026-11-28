@@ -198,6 +198,8 @@ export default function HomePage() {
           />
         </picture>
         <div className="max-w-6xl mx-auto px-4 pt-6 pb-10 md:pt-10 md:pb-14 text-center">
+          {/* 文字が読みやすいよう、2か所だけ白い膜（写真は膜の外でそのまま見える） */}
+          <div className="mx-auto max-w-[840px] rounded-[18px] bg-white/70 px-3 md:px-4 pt-4 pb-1">
           <p className="inline-flex items-center justify-center gap-3 text-amber-700 tracking-[0.3em] text-xs md:text-sm font-bold">
             <SunOrnament className="w-4 h-4 text-amber-500" />
             <span>LUCKY SUN SHINE</span>
@@ -227,7 +229,9 @@ export default function HomePage() {
               <p className="text-lg md:text-2xl">あなたは、絶対運がいい！</p>
             </div>
           </div>
-          <div className="mt-6 flex justify-center">
+          </div>
+          <div className="mt-6 mx-auto max-w-[840px] rounded-[18px] bg-white/70 px-3 md:px-4 pt-3 pb-4">
+          <div className="flex justify-center">
             <SunSpeechBubble>ようこそ☀️ あなたを待ってたよ！</SunSpeechBubble>
           </div>
           <p className="mt-6 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
@@ -245,6 +249,7 @@ export default function HomePage() {
                 {c.title}
               </Link>
             ))}
+          </div>
           </div>
           {/* Scroll cue */}
           <div className="mt-6 md:mt-8 flex justify-center" aria-hidden="true">
