@@ -373,7 +373,7 @@ export default function HomePage() {
 
           {/* 🔮 6枠目: 2027年の運勢 */}
           <Link prefetch={false} href="/blog/lucky-stones-2027" className="group block rounded-2xl border-4 border-violet-500 bg-gradient-to-br from-violet-50 via-fuchsia-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-            <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🔮</span><span className="text-sm font-extrabold text-violet-700">NEW</span></div>
+            <div className="flex items-center gap-2 mb-3"><img src="/images/mascot-sheep-2027.png" alt="" width="360" height="358" loading="lazy" decoding="async" className="w-14 h-14 object-contain drop-shadow-sm" /><span className="text-sm font-extrabold text-violet-700">NEW</span></div>
             <div className="text-[11px] font-bold tracking-widest text-violet-700 mb-1">来年に備える一本</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-violet-700 transition-colors">
               2027年の運勢と開運パワーストーン
