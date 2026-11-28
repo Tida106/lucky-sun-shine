@@ -25,6 +25,11 @@ draft: true
 - **勝負運・合格祈願・商売繁盛で知られる** 神社です。受験や試験、仕事の大事な場面の前に訪れる方が多いとされています。
 - **拝観は無料で、全体は30分前後が目安** です。なんば観光や道頓堀の合間に、気軽に立ち寄れます。
 
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-closeup-1200.webp" srcset="/images/posts/namba-yasaka-closeup-639.webp 639w, /images/posts/namba-yasaka-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" decoding="async" alt="難波八阪神社の獅子殿を正面近くから見上げた写真">
+<figcaption>獅子殿を正面近くから見上げたところ。金色の牙と大きな目、渦を巻くたてがみの彫りが目を引きます。 写真: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （リサイズ）</figcaption>
+</figure>
+
 ## 目次
 
 - [基本情報](#basic)
@@ -80,13 +85,44 @@ draft: true
 
 ### 獅子殿（境内の入口付近）
 
-境内に入ると、まず目に入るのが獅子殿です。**正面から見上げる** と、金色の歯をむき出しにした獅子の迫力がよくわかります。目は夏祭りやお正月に光る仕掛けがあるとされ、天井には鳳凰の彫刻が、一つずつ違う柄で手彫りされていると紹介されています。
+境内の入口には、しめ縄をかけた石の鳥居があります。鳥居の奥にもう獅子殿の顔がのぞいているのが、この神社らしい光景です。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-torii-900.webp" srcset="/images/posts/namba-yasaka-torii-479.webp 479w, /images/posts/namba-yasaka-torii-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1199" loading="lazy" decoding="async" alt="しめ縄のかかった石の鳥居の奥に見える獅子殿">
+<figcaption>境内の入口の鳥居。しめ縄の向こうに、獅子殿の顔が見えます。 写真: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （リサイズ）</figcaption>
+</figure>
+
+鳥居をくぐって進むと、参道の正面に獅子殿が現れます。獅子の口の中が舞台になっていて、奥には神様をまつる場所があります。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-front-1200.webp" srcset="/images/posts/namba-yasaka-front-639.webp 639w, /images/posts/namba-yasaka-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="参道から見た難波八阪神社の獅子殿">
+<figcaption>参道から見た獅子殿。口の中が舞台になっていて、奥の祭壇までよく見えます。 写真: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （リサイズ）</figcaption>
+</figure>
+
+**正面から見上げる** と、冒頭の写真のように金色の牙と大きな目が迫ってきます。目は夏祭りやお正月に光る仕掛けがあるとされ、天井には鳳凰の彫刻が、一つずつ違う柄で手彫りされていると紹介されています。
+
+斜めや横からも見てみましょう。立体感が出て、正面とは違う表情に見えます。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-angle-1200.webp" srcset="/images/posts/namba-yasaka-angle-639.webp 639w, /images/posts/namba-yasaka-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="斜めから見た獅子殿">
+<figcaption>斜めから見た獅子殿。顔の凹凸と、金色の牙の大きさがよくわかります。 写真: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （リサイズ）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-side-900.webp" srcset="/images/posts/namba-yasaka-side-479.webp 479w, /images/posts/namba-yasaka-side-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="横から見た獅子殿の大きな口">
+<figcaption>横から見た獅子殿。渦を巻く毛並みが彫り込まれ、大きく開いた口の向こうに境内の木々が見えます。 写真: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （リサイズ）</figcaption>
+</figure>
 
 写真を撮る方が多い場所なので、人の流れを妨げない位置から撮影しましょう。少し離れた鳥居の外からも、獅子殿の姿が見えます。
 
 ### 本殿
 
 獅子殿の隣にある **本殿は白を基調とした落ち着いた社殿** です。獅子殿の派手な姿とのコントラストで、静かな気持ちで手を合わせられます。まず本殿で、日ごろの感謝と、これからの決意をお伝えするのがおすすめです。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-haiden-1200.webp" srcset="/images/posts/namba-yasaka-haiden-639.webp 639w, /images/posts/namba-yasaka-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="難波八阪神社の本殿">
+<figcaption>本殿の正面。白い壁と緑青色の屋根に、金色の飾りが映えます（2007年ごろの撮影）。 写真: <a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> （リサイズ） （同じライセンスで提供）</figcaption>
+</figure>
 
 ### 手水舎と境内のようす
 
@@ -101,13 +137,29 @@ draft: true
 - **お守り**：獅子頭をかたどった厄除けのお守りや、学業・通学の安全を願うランドセル守などが紹介されています。
 - **御朱印**：授与されているとされています。
 
+**絵馬** には、獅子舞の獅子頭を2つ並べた絵柄が描かれたものがあります。獅子殿のある神社らしい、にぎやかな色合いです。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="獅子舞の獅子頭が2つ描かれた難波八阪神社の絵馬">
+<figcaption>獅子舞の獅子頭が描かれた絵馬。緑と赤の背景に、金色のたてがみが映えます。 写真: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> （リサイズ） （同じライセンスで提供）</figcaption>
+</figure>
+
 人気の授与品は、数に限りがある場合もあります。気になるものがあれば、午前中の早い時間帯に訪れると安心です。
 
 ## <span id="event"></span>年間行事（綱引神事と夏祭）
 
-### 綱引神事（1月第3日曜）
+### 綱引神事（毎年1月第3日曜・大阪市指定無形民俗文化財）
 
-素盞嗚尊が八岐大蛇を退治したという故事に由来する行事で、**毎年1月の第3日曜日** に行われます。2001年に、大阪市で初めての指定無形民俗文化財になりました。江戸時代の『摂津名所図会』にも、難波村の牛頭天王の綱引きとして紹介されています。
+素盞嗚尊が出雲の簸の川上で八岐大蛇を退治し、人々の困苦を取り除いて、農耕や産業の道を開いたという故事に基づく神事です。公式の案内では、**毎年1月第3日曜日の午前** に行われるとされています（古くは正月十四日の年頭恒例とも記されているため、見学の前に最新の案内をご確認ください）。
+
+神事は、次のような流れで進むと紹介されています。
+
+1. **綱打始め**：綱をつくりはじめます。
+2. **綱引出し**：つくった綱を引き出します。
+3. **曳き合い**：大綱を大蛇の形に仕立て、その年の恵方に向けて曳き合います。
+4. **奉告**：綱を神前にまつり、病気や災難のないこと、海川山野の幸、生業の安定、家内安全、商売繁盛などを祈ります。
+
+綱は、古い伝えにならって **八つの頭と八つの尾をもつ大綱** に打ち上げられます。起源ははっきりしませんが、江戸時代の版本にも載っていることから、相当古くから続いてきたと考えられています。『摂津名所図会』にも、難波村の牛頭天王の綱引きとして紹介されています。
 
 ### 夏祭と船渡御（7月）
 
@@ -189,6 +241,9 @@ A. 夏祭りやお正月に、目が光るしかけがあると紹介されて�
 
 **Q5. 駐車場はありますか？**
 A. 専用の駐車場はないとされています。電車でのアクセスがおすすめです。
+
+**Q6. 綱引神事はいつ行われますか？**
+A. 公式の案内では、毎年1月第3日曜日の午前とされています。年によって変わる場合があるため、公式サイトで最新の情報をご確認ください。
 
 ## <span id="related"></span>合わせて読みたい関連記事
 

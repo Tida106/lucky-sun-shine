@@ -25,6 +25,11 @@ draft: true
 - **ขึ้นชื่อเรื่องโชคแห่งชัยชนะ การขอพรสอบผ่าน และการค้าเจริญรุ่งเรือง** หลายคนมาก่อนสอบหรือก่อนช่วงสำคัญของงาน
 - **เข้าชมฟรี ใช้เวลาประมาณ 30 นาที** แวะได้ง่ายระหว่างเที่ยวนัมบะและโดทงโบริ
 
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-closeup-1200.webp" srcset="/images/posts/namba-yasaka-closeup-639.webp 639w, /images/posts/namba-yasaka-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" decoding="async" alt="ภาพมองขึ้นไปยังศาลาสิงโตของศาลเจ้าแนมบะยาซากะจากใกล้ด้านหน้า">
+<figcaption>มองขึ้นไปยังศาลาสิงโตจากใกล้ด้านหน้า เขี้ยวสีทอง ดวงตาโต และลายแกะสลักแผงคอที่ม้วนเป็นวงดึงดูดสายตา ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
 ## สารบัญ
 
 - [ข้อมูลพื้นฐาน](#basic)
@@ -80,13 +85,44 @@ draft: true
 
 ### ศาลาสิงโต (ใกล้ทางเข้า)
 
-เมื่อเข้ามาในบริเวณศาลเจ้า สิ่งแรกที่เห็นคือศาลาสิงโต **ลองเงยหน้ามองจากด้านหน้า** จะรู้สึกถึงพลังของสิงโตที่เผยฟันสีทอง มีคำอธิบายว่าดวงตาจะสว่างขึ้นในเทศกาลฤดูร้อนและปีใหม่ และเพดานมีงานแกะสลักนกฟีนิกซ์ที่แกะด้วยมือ ลวดลายแตกต่างกันทุกตัว
+ที่ทางเข้ามีโทริอิหินที่คล้องเชือกชิเมนาวะ ภาพใบหน้าสิงโตที่โผล่ให้เห็นอยู่หลังโทริอิ เป็นฉากที่เป็นเอกลักษณ์ของศาลเจ้าแห่งนี้
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-torii-900.webp" srcset="/images/posts/namba-yasaka-torii-479.webp 479w, /images/posts/namba-yasaka-torii-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1199" loading="lazy" decoding="async" alt="ศาลาสิงโตที่มองเห็นหลังโทริอิหินคล้องเชือกชิเมนาวะ">
+<figcaption>โทริอิที่ทางเข้า มองเห็นใบหน้าสิงโตอยู่เลยเชือกชิเมนาวะไป ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+เดินผ่านโทริอิไป ศาลาสิงโตจะปรากฏที่ปลายทางเดิน ภายในปากสิงโตเป็นเวที และด้านในเป็นที่ประดิษฐานเทพเจ้า
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-front-1200.webp" srcset="/images/posts/namba-yasaka-front-639.webp 639w, /images/posts/namba-yasaka-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="ศาลาสิงโตของศาลเจ้าแนมบะยาซากะที่มองจากทางเดิน">
+<figcaption>ศาลาสิงโตที่มองจากทางเดิน ภายในปากเป็นเวที และมองเห็นแท่นบูชาด้านในได้ชัดเจน ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+**เมื่อเงยหน้ามองจากด้านหน้า** เหมือนภาพแรกของบทความ เขี้ยวสีทองและดวงตาโตจะดูน่าเกรงขาม กล่าวกันว่าดวงตาสว่างขึ้นในเทศกาลฤดูร้อนและปีใหม่ และเพดานมีงานแกะสลักนกฟีนิกซ์ที่แกะด้วยมือ ลวดลายแตกต่างกันทุกตัว
+
+ลองมองจากด้านเฉียงและด้านข้างด้วย จะเห็นมิติมากขึ้นและให้ความรู้สึกต่างจากด้านหน้า
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-angle-1200.webp" srcset="/images/posts/namba-yasaka-angle-639.webp 639w, /images/posts/namba-yasaka-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="ศาลาสิงโตที่มองจากมุมเฉียง">
+<figcaption>ศาลาสิงโตจากมุมเฉียง เห็นความนูนของใบหน้าและขนาดของเขี้ยวสีทองได้ชัด ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-side-900.webp" srcset="/images/posts/namba-yasaka-side-479.webp 479w, /images/posts/namba-yasaka-side-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="ปากอ้ากว้างของศาลาสิงโตที่มองจากด้านข้าง">
+<figcaption>ศาลาสิงโตจากด้านข้าง แผงคอที่ม้วนเป็นวงถูกแกะสลักนูน และเห็นต้นไม้ในบริเวณศาลเจ้าอยู่เลยปากที่อ้ากว้างไป ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ที่นี่มีคนถ่ายรูปกันมาก โปรดเลือกจุดที่ไม่ขวางทางผู้อื่น และมองเห็นศาลาสิงโตได้จากนอกโทริอิในระยะไกลเช่นกัน
 
 ### ศาลาหลัก
 
 ข้างศาลาสิงโต **ศาลาหลักเป็นอาคารสงบที่โทนสีขาวเป็นหลัก** ตัดกับศาลาสิงโตที่โดดเด่น ทำให้ประนมมือได้อย่างสงบ แนะนำให้เริ่มด้วยการขอบคุณและบอกความตั้งใจที่นี่ก่อน
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-haiden-1200.webp" srcset="/images/posts/namba-yasaka-haiden-639.webp 639w, /images/posts/namba-yasaka-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="ศาลาหลักของศาลเจ้าแนมบะยาซากะ">
+<figcaption>ด้านหน้าของศาลาหลัก เครื่องประดับสีทองโดดเด่นบนผนังสีขาวและหลังคาสีเขียวทองแดง (ถ่ายราวปี ค.ศ. 2007) ภาพ: <a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
 
 ### ที่ล้างมือและบรรยากาศในบริเวณศาลเจ้า
 
@@ -101,13 +137,29 @@ draft: true
 - **เครื่องราง:** มีการแนะนำเครื่องรางรูปหัวสิงโตกันเคราะห์ และเครื่องรางกระเป๋านักเรียนขอพรเรื่องการเรียนและเดินทางปลอดภัย
 - **โกชูอิน:** กล่าวกันว่ามีให้
 
+**เอมะ (แผ่นไม้ขอพร)** บางแบบมีลายหัวสิงโตเชิดสิงโตสองหัวเรียงกัน สีสันสดใสเหมาะกับศาลเจ้าที่มีศาลาสิงโต
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="เอมะของศาลเจ้าแนมบะยาซากะที่มีลายหัวสิงโตเชิดสองหัว">
+<figcaption>เอมะที่มีลายหัวสิงโตเชิด แผงคอสีทองโดดเด่นบนพื้นหลังสีเขียวและสีแดง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
 ของยอดนิยมอาจมีจำนวนจำกัด หากมีของที่อยากได้ แนะนำให้ไปช่วงเช้า
 
 ## <span id="event"></span>งานประจำปี (พิธีชักเย่อและเทศกาลฤดูร้อน)
 
-### พิธีชักเย่อ (วันอาทิตย์ที่ 3 ของเดือนมกราคม)
+### พิธีชักเย่อ (ทุกวันอาทิตย์ที่ 3 ของเดือนมกราคม・มรดกทางวัฒนธรรมพื้นบ้านที่จับต้องไม่ได้ที่เมืองโอซาก้ากำหนด)
 
-เป็นพิธีที่มาจากเรื่องเล่าที่สึซาโนะโอะโนะมิโคโตะปราบงูแปดหัวยามาตะโนะโอโรจิ จัด **ทุกปีในวันอาทิตย์ที่ 3 ของเดือนมกราคม** ในปี ค.ศ. 2001 ได้รับการกำหนดเป็นมรดกทางวัฒนธรรมพื้นบ้านที่จับต้องไม่ได้แห่งแรกของเมืองโอซาก้า และยังปรากฏในหนังสือแนะนำสถานที่ท่องเที่ยวสมัยเอโดะในฐานะการชักเย่อของโกซุเท็นโนแห่งหมู่บ้านนานิวะ
+เป็นพิธีที่มาจากเรื่องเล่าที่สึซาโนะโอะโนะมิโคโตะปราบงูแปดหัวยามาตะโนะโอโรจิที่ต้นแม่น้ำฮิในอิซุโม ขจัดความทุกข์ยากของผู้คน และเปิดทางสู่การเกษตรและการสร้างอาชีพ ตามคำอธิบายของทางศาลเจ้า จัด **ในช่วงเช้าของวันอาทิตย์ที่ 3 ของเดือนมกราคม** ทุกปี (ในหน้าเดียวกันยังเขียนไว้ว่าเป็นประเพณีต้นปีวันที่ 14 ด้วย ก่อนไปชมโปรดตรวจสอบประกาศล่าสุด)
+
+ขั้นตอนของพิธีมีคำอธิบายดังนี้
+
+1. **สึนะอุจิฮาจิเมะ:** เริ่มทำเชือก
+2. **สึนะฮิคิดาชิ:** ลากเชือกที่ทำเสร็จออกมา
+3. **ฮิคิอาย:** ตกแต่งเชือกใหญ่ให้เป็นรูปงูใหญ่ แล้วชักเย่อกันไปทางทิศมงคลของปีนั้น
+4. **การถวาย:** นำเชือกไปประดิษฐานหน้าเทพเจ้า และอธิษฐานให้ปลอดโรคภัยและเคราะห์ร้าย อุดมสมบูรณ์ทั้งทะเล แม่น้ำ ภูเขา และทุ่งนา อาชีพมั่นคง ครอบครัวปลอดภัย และการค้าเจริญรุ่งเรือง
+
+เชือกถูกทำขึ้นตามคติโบราณให้เป็น **เชือกใหญ่ที่มีแปดหัวและแปดหาง** ไม่ทราบต้นกำเนิดแน่ชัด แต่เนื่องจากปรากฏในหนังสือพิมพ์สมัยเอโดะ จึงเชื่อกันว่าสืบทอดมายาวนานมาก และยังถูกแนะนำในหนังสือ "เซ็ตสึเมโช ซุเอะ" ในฐานะการชักเย่อของโกซุเท็นโนแห่งหมู่บ้านนานิวะ
 
 ### เทศกาลฤดูร้อนและขบวนเรือ (เดือนกรกฎาคม)
 
@@ -184,6 +236,8 @@ draft: true
 **ดวงตาสิงโตสว่างเมื่อไหร่?** มีคำอธิบายว่าสว่างขึ้นในเทศกาลฤดูร้อนและปีใหม่ โปรดตรวจสอบรายละเอียดที่เว็บไซต์ทางการ
 
 **มีที่จอดรถไหม?** เข้าใจว่าไม่มีที่จอดรถเฉพาะ แนะนำให้เดินทางด้วยรถไฟ
+
+**พิธีชักเย่อจัดเมื่อไหร่?** ตามคำอธิบายของทางศาลเจ้า จัดในช่วงเช้าของวันอาทิตย์ที่ 3 ของเดือนมกราคมทุกปี อาจแตกต่างกันไปในแต่ละปี โปรดตรวจสอบข้อมูลล่าสุดที่เว็บไซต์ทางการ
 
 ## <span id="related"></span>บทความที่เกี่ยวข้อง
 

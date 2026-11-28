@@ -25,6 +25,11 @@ draft: true
 - **以勝運、合格祈願、生意興隆聞名**：許多人會在考試或工作的重要時刻前來參拜。
 - **免費參觀，全程約30分鐘**：很適合在逛難波與道頓堀的空檔順道拜訪。
 
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-closeup-1200.webp" srcset="/images/posts/namba-yasaka-closeup-639.webp 639w, /images/posts/namba-yasaka-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" decoding="async" alt="從靠近正面處仰望難波八阪神社的獅子殿">
+<figcaption>從靠近正面處仰望獅子殿。金色的獠牙、大眼睛與捲曲鬃毛的雕刻格外吸睛。 照片: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （已調整尺寸）</figcaption>
+</figure>
+
 ## 目錄
 
 - [基本資訊](#basic)
@@ -80,13 +85,44 @@ draft: true
 
 ### 獅子殿（境內入口附近）
 
-進入境內，最先映入眼簾的就是獅子殿。**從正面抬頭仰望**，更能感受到露出金色牙齒的獅子的魄力。據說眼睛在夏祭與新年時會發光，天花板上有鳳凰雕刻，每一隻的花紋都不同，皆為手工雕刻。
+境內入口有一座掛著注連繩的石鳥居。鳥居後方已經探出獅子臉的景象，正是這間神社獨有的風景。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-torii-900.webp" srcset="/images/posts/namba-yasaka-torii-479.webp 479w, /images/posts/namba-yasaka-torii-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1199" loading="lazy" decoding="async" alt="掛著注連繩的石鳥居後方可見獅子殿">
+<figcaption>境內入口的鳥居。越過注連繩，就能看到獅子殿的臉。 照片: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+穿過鳥居往前走，參道前方就會出現獅子殿。獅子的嘴裡是舞台，深處是供奉神明的地方。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-front-1200.webp" srcset="/images/posts/namba-yasaka-front-639.webp 639w, /images/posts/namba-yasaka-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="從參道看到的難波八阪神社獅子殿">
+<figcaption>從參道看到的獅子殿。嘴裡是舞台，連深處的神壇都看得很清楚。 照片: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+**從正面抬頭仰望**，就像開頭的照片一樣，金色的獠牙與大眼睛逼近而來。據說眼睛在夏祭與新年時會發光，天花板上有鳳凰雕刻，每一隻的花紋都不同，皆為手工雕刻。
+
+也請試著從斜側與側面欣賞。立體感更強，會看到與正面不同的表情。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-angle-1200.webp" srcset="/images/posts/namba-yasaka-angle-639.webp 639w, /images/posts/namba-yasaka-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="從斜側看到的獅子殿">
+<figcaption>從斜側看到的獅子殿。能清楚看出臉部的起伏與金色獠牙的大小。 照片: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （已調整尺寸）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-side-900.webp" srcset="/images/posts/namba-yasaka-side-479.webp 479w, /images/posts/namba-yasaka-side-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="從側面看到的獅子殿大嘴">
+<figcaption>從側面看到的獅子殿。捲曲的鬃毛細緻雕刻，大開的嘴巴後方可見境內的樹木。 照片: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> （已調整尺寸）</figcaption>
+</figure>
 
 這裡是很多人拍照的地方，請選擇不妨礙人潮流動的位置。從稍遠的鳥居外也能看到獅子殿的身影。
 
 ### 本殿
 
 獅子殿旁的**本殿是以白色為主、沉穩的社殿**。與獅子殿華麗的外觀形成對比，能讓人靜下心來合掌。建議先在本殿表達平日的感謝與今後的決心。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-haiden-1200.webp" srcset="/images/posts/namba-yasaka-haiden-639.webp 639w, /images/posts/namba-yasaka-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="難波八阪神社的本殿">
+<figcaption>本殿正面。金色的裝飾在白牆與銅綠色屋頂上格外醒目（約2007年拍攝）。 照片: <a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> （已調整尺寸） （以相同授權條款提供）</figcaption>
+</figure>
 
 ### 手水舍與境內的氛圍
 
@@ -101,13 +137,29 @@ draft: true
 - **御守**：介紹過獅子頭造型的消災御守，以及祈求學業與通學平安的書包御守等。
 - **御朱印**：據說有授與。
 
+**繪馬**中有一種畫著兩個獅舞獅子頭並排的圖案，色彩熱鬧，很符合擁有獅子殿的神社。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="畫有兩個獅舞獅子頭的難波八阪神社繪馬">
+<figcaption>畫著獅舞獅子頭的繪馬。金色的鬃毛在綠色與紅色背景中十分醒目。 照片: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> （已調整尺寸） （以相同授權條款提供）</figcaption>
+</figure>
+
 人氣授與品有時數量有限。如果有想要的東西，建議在上午較早的時段前往。
 
 ## <span id="event"></span>年度活動（拔河神事與夏祭）
 
-### 拔河神事（1月第3個星期日）
+### 拔河神事（每年1月第3個星期日・大阪市指定無形民俗文化財）
 
-這是源自素盞嗚尊討伐八岐大蛇故事的活動，**每年1月的第3個星期日**舉行。2001年成為大阪市第一個指定的無形民俗文化財。江戶時代的『攝津名所圖會』中，也介紹過難波村牛頭天王的拔河。
+這是源自素盞嗚尊在出雲的簸之川上游討伐八岐大蛇，消除人們的困苦，並開拓農耕與產業之路的故事的神事。官方介紹說明，會在**每年1月第3個星期日的上午**舉行（同一頁面也寫到古時是正月十四日的年初例行活動，前往參觀前請先確認最新公告）。
+
+神事的流程介紹如下。
+
+1. **綱打始**：開始編製繩索。
+2. **綱引出**：把編好的繩索拉出來。
+3. **曳合**：將大繩做成大蛇的形狀，朝向當年的恵方互相拉扯。
+4. **奉告**：將繩索供奉於神前，祈求消除疾病與災厄、海川山野的收穫、生計安定、家庭平安、生意興隆等。
+
+繩索依照古老的傳承，編成**有八個頭與八條尾巴的大繩**。起源並不明確，但因為江戶時代的版本中也有記載，一般認為已持續了相當久的時間。『攝津名所圖會』中也介紹過難波村牛頭天王的拔河。
 
 ### 夏祭與船渡御（7月）
 
@@ -189,6 +241,9 @@ A. 據介紹在夏祭與新年時有發光的機關。詳細時期請至官方�
 
 **Q5. 有停車場嗎？**
 A. 據說沒有專用停車場，建議搭電車前往。
+
+**Q6. 拔河神事什麼時候舉行？**
+A. 官方介紹為每年1月第3個星期日的上午。每年可能有所不同，請至官方網站確認最新資訊。
 
 ## <span id="related"></span>相關文章
 

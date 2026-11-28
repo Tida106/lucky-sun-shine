@@ -30,6 +30,11 @@ Three things worth knowing before you go:
 - **It is known for winning luck, exam success and business prosperity.** People often visit before exams or important moments at work.
 - **Admission is free, and about 30 minutes is a good estimate.** It is easy to fit in between sightseeing in Namba and Dotonbori.
 
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-closeup-1200.webp" srcset="/images/posts/namba-yasaka-closeup-639.webp 639w, /images/posts/namba-yasaka-closeup-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" decoding="async" alt="Looking up at the Lion Hall of Namba Yasaka Shrine from near the front">
+<figcaption>Looking up at the Lion Hall from near the front. The golden fangs, big eyes and swirling mane catch the eye. Photo: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
 ## Contents
 
 - [Basic information](#basic)
@@ -85,13 +90,44 @@ A good way to think of it: a place to tell the lion your resolve before somethin
 
 ### The Lion Hall (near the entrance)
 
-The first thing you see after entering is the Lion Hall. **Look up from the front** to feel the full force of the lion with its bared golden teeth. The eyes are said to light up at the summer festival and New Year, and the ceiling is described as having phoenix carvings, each hand-carved in a different pattern.
+At the entrance stands a stone torii with a sacred rope. Seeing the lion's face already peeking out behind it is a scene typical of this shrine.
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-torii-900.webp" srcset="/images/posts/namba-yasaka-torii-479.webp 479w, /images/posts/namba-yasaka-torii-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1199" loading="lazy" decoding="async" alt="The Lion Hall seen behind a stone torii with a sacred rope">
+<figcaption>The torii at the entrance. The lion's face is visible beyond the sacred rope. Photo: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+Walk through the torii and the Lion Hall appears at the end of the approach. The inside of the lion's mouth is a stage, and a place where the deities are enshrined lies behind it.
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-front-1200.webp" srcset="/images/posts/namba-yasaka-front-639.webp 639w, /images/posts/namba-yasaka-front-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="The Lion Hall of Namba Yasaka Shrine seen from the approach">
+<figcaption>The Lion Hall from the approach. The mouth is a stage, and you can see the altar area inside. Photo: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+**Look up from the front** and, as in the photo at the top, the golden fangs and big eyes loom over you. The eyes are said to light up at the summer festival and New Year, and the ceiling is described as having phoenix carvings, each hand-carved in a different pattern.
+
+Try viewing it from an angle and from the side too. The lion looks different from the front, with more depth.
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-angle-1200.webp" srcset="/images/posts/namba-yasaka-angle-639.webp 639w, /images/posts/namba-yasaka-angle-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="901" loading="lazy" decoding="async" alt="The Lion Hall seen from an angle">
+<figcaption>The Lion Hall from an angle. You can see the contours of the face and the size of the golden fangs. Photo: <a href="https://commons.wikimedia.org/wiki/User:Hyppolyte_de_Saint-Rambert" rel="noopener" target="_blank">Hyppolyte de Saint-Rambert</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-side-900.webp" srcset="/images/posts/namba-yasaka-side-479.webp 479w, /images/posts/namba-yasaka-side-900.webp 900w" sizes="(min-width: 768px) 720px, 100vw" width="900" height="1200" loading="lazy" decoding="async" alt="The wide-open mouth of the Lion Hall seen from the side">
+<figcaption>The Lion Hall from the side. The swirling mane is carved in relief, and trees in the grounds show beyond the open mouth. Photo: <a href="https://commons.wikimedia.org/wiki/User:Immanuelle" rel="noopener" target="_blank">Immanuelle</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a> (resized)</figcaption>
+</figure>
 
 Many people take photos here, so please choose a spot that does not block the flow of visitors. The hall can also be seen from outside the torii at a distance.
 
 ### The main hall
 
 Next to the Lion Hall, **the main hall is a calm, mostly white building**. In contrast to the flashy Lion Hall, it lets you pray quietly. Start by giving thanks and sharing your resolve here.
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-haiden-1200.webp" srcset="/images/posts/namba-yasaka-haiden-639.webp 639w, /images/posts/namba-yasaka-haiden-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="900" loading="lazy" decoding="async" alt="The main hall of Namba Yasaka Shrine">
+<figcaption>The front of the main hall. Gold ornaments stand out against the white walls and green copper roof (photographed around 2007). Photo: <a href="https://commons.wikimedia.org/wiki/User:KENPEI" rel="noopener" target="_blank">KENPEI</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
 
 ### Water pavilion and the grounds
 
@@ -106,13 +142,29 @@ The amulet office is said to open **9:00–16:50**. The following are examples i
 - **Charms:** a lion-head charm against misfortune and a school-bag charm for study and safe commuting have been introduced.
 - **Goshuin:** said to be available.
 
+Some **ema (votive plaques)** are printed with two lion-dance heads side by side, a lively design for a shrine with a Lion Hall.
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="Ema votive plaque of Namba Yasaka Shrine with two lion-dance heads">
+<figcaption>An ema with lion-dance heads. The golden manes stand out against green and red backgrounds. Photo: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
 Popular items may run out. Going in the morning is safer if you have something particular in mind.
 
 ## <span id="event"></span>Annual events
 
-### Tug-of-war ritual (third Sunday of January)
+### Tug-of-war ritual (every third Sunday of January; Osaka City Intangible Folk Cultural Property)
 
-This ritual is based on the story of Susanoo-no-Mikoto defeating the eight-headed serpent Yamata-no-Orochi, and is held **every year on the third Sunday of January**. In 2001 it became Osaka City's first designated intangible folk cultural property. It also appears in an Edo-period guide to famous places as the tug-of-war of Gozu Tenno of Naniwa village.
+This ritual is based on the story of Susanoo-no-Mikoto defeating the eight-headed serpent Yamata-no-Orochi at the upper Hi River in Izumo, relieving people's hardship and opening the way for farming and industry. The official guide says it is held **in the morning on the third Sunday of January** each year. (The same page also describes it as a New Year custom of the 14th, so please check the latest notice before you go.)
+
+The ritual is introduced as follows.
+
+1. **Tsuna-uchi-hajime:** making of the rope begins.
+2. **Tsuna-hikidashi:** the rope is brought out.
+3. **Hikiai:** the great rope is shaped like the serpent, and teams pull against each other toward that year's lucky direction.
+4. **Offering:** the rope is enshrined before the deities, with prayers to ward off illness and disaster, for the bounty of sea, river and mountain, steady livelihoods, family safety and business prosperity.
+
+Following old tradition, the rope is made into **a great rope with eight heads and eight tails**. Its origin is unclear, but since it appears in Edo-period printed books it is thought to have continued for a very long time. It is also introduced in the "Settsu Meisho Zue" as the tug-of-war of Gozu Tenno of Naniwa village.
 
 ### Summer festival and boat procession (July)
 
@@ -189,6 +241,8 @@ If you are unsure about etiquette, see [Shrine Visit Basics](/blog/shrine-visit-
 **When do the lion's eyes light up?** They are described as lighting up at the summer festival and New Year. Please check the official site for details.
 
 **Is there parking?** Reportedly there is no dedicated parking. Going by train is recommended.
+
+**When is the tug-of-war ritual held?** The official guide says the morning of the third Sunday of January each year. It may vary by year, so please check the official site for the latest information.
 
 ## <span id="related"></span>Related articles
 
