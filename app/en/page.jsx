@@ -150,7 +150,7 @@ export default function EnHomePage() {
     <>
       {/* Hero */}
       <section className="relative overflow-hidden isolate">
-        <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none">
+        <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none opacity-80">
           <source media="(max-width: 480px)"  srcSet="/images/hero-crystals-480.webp" type="image/webp" />
           <source media="(max-width: 640px)"  srcSet="/images/hero-crystals-640.webp" type="image/webp" />
           <source media="(max-width: 960px)"  srcSet="/images/hero-crystals-960.webp" type="image/webp" />
@@ -165,15 +165,12 @@ export default function EnHomePage() {
             className="w-full h-full object-cover object-center select-none"
           />
         </picture>
-        <div
-          aria-hidden="true"
-          className="absolute inset-0 -z-10 bg-gradient-to-b from-white/70 via-white/60 to-white/70"
-        />
         <div className="max-w-6xl mx-auto px-4 pt-6 pb-10 md:pt-10 md:pb-14 text-center">
-          <p className="inline-flex items-center justify-center gap-3 text-amber-700 tracking-[0.3em] text-xs md:text-sm font-bold">
-            <SunOrnament className="w-4 h-4 text-amber-500" />
+          <div className="mx-auto max-w-[840px] rounded-[18px] bg-white/70 px-3 md:px-4 pt-4 pb-1">
+          <p className="inline-flex items-center justify-center gap-3 text-[#7a4a00] tracking-[0.3em] text-base md:text-xl font-extrabold">
+            <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-600" />
             <span>LUCKY SUN SHINE</span>
-            <SunOrnament className="w-4 h-4 text-amber-500" />
+            <SunOrnament className="w-5 h-5 md:w-6 md:h-6 text-amber-600" />
           </p>
           <h1 className="mt-5 font-display text-3xl md:text-5xl font-extrabold text-ink-900 leading-tight drop-shadow-[0_1px_1px_rgba(255,255,255,0.6)]">
             <span className="inline-flex items-center justify-center gap-3 md:gap-5">
@@ -185,20 +182,22 @@ export default function EnHomePage() {
               <SunOrnament className="hidden md:inline-block w-6 h-6 text-amber-500 opacity-70 shrink-0" strokeWidth={1.1} />
             </span>
           </h1>
-          <div className="mt-6 flex items-center justify-center gap-3 md:gap-5">
+          <div className="mt-6 mx-auto max-w-[780px] flex items-center justify-center gap-3 md:gap-5 rounded-[28px] bg-white border-[3px] border-[#e0a82e] px-4 py-2 md:px-10 md:py-3 shadow-[0_8px_22px_rgba(120,70,0,0.25)]">
             <SunMascot
               size={112}
               src="/images/mascot-sun-morning.png"
-              className="shrink-0 md:!w-48 md:!h-48"
+              className="shrink-0 md:!w-52 md:!h-52 drop-shadow-[0_3px_6px_rgba(120,70,0,0.3)]"
               priority
               alt="Sun-chan (GOOD MORNING!)"
             />
-            <div className="space-y-2 font-display font-bold text-amber-700 leading-snug text-left">
+            <div className="space-y-2 font-display font-black text-[#4a2c00] leading-snug text-left">
               <p className="text-lg md:text-2xl">When your mood goes up, your luck goes up!</p>
               <p className="text-lg md:text-2xl">You are absolutely lucky!</p>
             </div>
           </div>
-          <div className="mt-6 flex justify-center">
+          </div>
+          <div className="mt-6 mx-auto max-w-[840px] rounded-[18px] bg-white/70 px-3 md:px-4 pt-3 pb-4">
+          <div className="flex justify-center">
             <SunSpeechBubble>Welcome☀️ I've been waiting for you!</SunSpeechBubble>
           </div>
           <p className="mt-6 max-w-2xl mx-auto text-ink-700 text-sm md:text-base leading-relaxed">
@@ -212,13 +211,14 @@ export default function EnHomePage() {
                 <Link prefetch={false}
                   key={c.slug}
                   href={`/category/${c.slug}/`}
-                  className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/90 backdrop-blur-sm border border-amber-200 text-sm font-medium text-amber-900 hover:bg-amber-50 hover:border-amber-400 transition-colors"
+                  className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-full bg-gradient-to-b from-[#f5b73b] to-[#e08e0b] border-2 border-[#b45f06] text-sm font-bold text-white shadow-[0_4px_10px_rgba(146,64,14,0.35)] hover:from-[#f0a825] hover:to-[#c97806] hover:-translate-y-0.5 transition-all"
                 >
-                  <CategoryIcon slug={c.slug} className="w-4 h-4 text-amber-600" />
+                  <CategoryIcon slug={c.slug} className="w-4 h-4 text-white" />
                   {catInfo.title}
                 </Link>
               );
             })}
+          </div>
           </div>
           <div className="mt-6 md:mt-8 flex justify-center" aria-hidden="true">
             <svg

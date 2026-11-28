@@ -216,17 +216,17 @@ export default function HomePage() {
             </span>
           </h1>
           {/* Catchphrases */}
-          <div className="mt-6 flex items-center justify-center gap-3 md:gap-5">
+          <div className="mt-6 mx-auto max-w-[780px] flex items-center justify-center gap-3 md:gap-5 rounded-[28px] bg-white border-[3px] border-[#e0a82e] px-4 py-2 md:px-10 md:py-3 shadow-[0_8px_22px_rgba(120,70,0,0.25)]">
             <SunMascot
               size={112}
               src="/images/mascot-sun-morning.png"
-              className="shrink-0 md:!w-48 md:!h-48"
+              className="shrink-0 md:!w-52 md:!h-52 drop-shadow-[0_3px_6px_rgba(120,70,0,0.3)]"
               priority
               alt="太陽ちゃん（GOOD MORNING!）"
             />
-            <div className="space-y-2 font-display font-bold text-amber-700 leading-snug text-left">
-              <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる！</p>
-              <p className="text-lg md:text-2xl">あなたは、絶対運がいい！</p>
+            <div className="space-y-2 font-display font-black text-[#4a2c00] leading-snug text-left">
+              <p className="text-lg md:text-3xl">気分が上がれば、運気も上がる！</p>
+              <p className="text-lg md:text-3xl">あなたは、絶対運がいい！</p>
             </div>
           </div>
           </div>
@@ -243,7 +243,7 @@ export default function HomePage() {
               <Link prefetch={false}
                 key={c.slug}
                 href={`/category/${c.slug}/`}
-                className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-full bg-gradient-to-b from-amber-400 to-amber-600 border-2 border-amber-700 text-sm font-bold text-white shadow-[0_4px_10px_rgba(146,64,14,0.35)] hover:from-amber-500 hover:to-amber-700 hover:-translate-y-0.5 transition-all"
+                className="inline-flex items-center gap-1.5 px-5 py-2.5 rounded-full bg-gradient-to-b from-[#f5b73b] to-[#e08e0b] border-2 border-[#b45f06] text-sm font-bold text-white shadow-[0_4px_10px_rgba(146,64,14,0.35)] hover:from-[#f0a825] hover:to-[#c97806] hover:-translate-y-0.5 transition-all"
               >
                 <CategoryIcon slug={c.slug} className="w-4 h-4 text-white" />
                 {c.title}
