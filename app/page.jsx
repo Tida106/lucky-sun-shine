@@ -117,13 +117,20 @@ const SPOT_TOP5 = [
   { slug: 'meiji-jingu', img: 'spot-meiji-jingu', name: '明治神宮', hook: '都会の森で、心を整える' },
   { slug: 'itsukushima-jinja', img: 'spot-itsukushima', name: '厳島神社', hook: '祭神は三女神。海に立つ大鳥居が人気' },
 ];
+const SPOT_RANK_STYLES = [
+  { box: 'border-amber-300 hover:border-amber-500 from-amber-50 via-white to-yellow-50', text: 'text-amber-700', hover: 'group-hover:text-amber-700', img: 'border-amber-100' },
+  { box: 'border-rose-300 hover:border-rose-500 from-rose-50 via-white to-pink-50', text: 'text-rose-700', hover: 'group-hover:text-rose-700', img: 'border-rose-100' },
+  { box: 'border-sky-300 hover:border-sky-500 from-sky-50 via-white to-blue-50', text: 'text-sky-700', hover: 'group-hover:text-sky-700', img: 'border-sky-100' },
+  { box: 'border-violet-300 hover:border-violet-500 from-violet-50 via-white to-fuchsia-50', text: 'text-violet-700', hover: 'group-hover:text-violet-700', img: 'border-violet-100' },
+  { box: 'border-emerald-300 hover:border-emerald-500 from-emerald-50 via-white to-teal-50', text: 'text-emerald-700', hover: 'group-hover:text-emerald-700', img: 'border-emerald-100' },
+];
 const SPOT_HUBS = [
-  { slug: 'shrine-kinun-guide', label: '💰 金運アップ' },
-  { slug: 'shrine-enmusubi-guide', label: '💕 ご縁・縁結び' },
-  { slug: 'shrine-kanto-guide', label: '🗼 関東' },
-  { slug: 'shrine-chubu-guide', label: '🏔️ 中部' },
-  { slug: 'shrine-kansai-guide', label: '🏯 関西' },
-  { slug: 'shrine-kyushu-guide', label: '🌺 九州・沖縄' },
+  { slug: 'shrine-kinun-guide', label: '💰 金運アップ', box: 'border-amber-300 hover:border-amber-500', bar: 'bg-amber-50 group-hover:bg-amber-100 text-amber-800' },
+  { slug: 'shrine-enmusubi-guide', label: '💕 ご縁・縁結び', box: 'border-rose-300 hover:border-rose-500', bar: 'bg-rose-50 group-hover:bg-rose-100 text-rose-800' },
+  { slug: 'shrine-kanto-guide', label: '🗼 関東', box: 'border-sky-300 hover:border-sky-500', bar: 'bg-sky-50 group-hover:bg-sky-100 text-sky-800' },
+  { slug: 'shrine-chubu-guide', label: '🏔️ 中部', box: 'border-emerald-300 hover:border-emerald-500', bar: 'bg-emerald-50 group-hover:bg-emerald-100 text-emerald-800' },
+  { slug: 'shrine-kansai-guide', label: '🏯 関西', box: 'border-violet-300 hover:border-violet-500', bar: 'bg-violet-50 group-hover:bg-violet-100 text-violet-800' },
+  { slug: 'shrine-kyushu-guide', label: '🌺 九州・沖縄', box: 'border-orange-300 hover:border-orange-500', bar: 'bg-orange-50 group-hover:bg-orange-100 text-orange-800' },
 ];
 const SPOT_BUBBLES = [
   'あなたに会いたい神社が、きっとあるよ✨',
@@ -400,7 +407,7 @@ export default function HomePage() {
       <SunDivider />
 
       {/* ⛩️ まず行きたいパワースポット（左: ランキング5位 / 右: 目的・エリア別ハブ） */}
-      <ScrollReveal as="section" className="max-w-5xl mx-auto px-4 pt-2 md:pt-4 pb-2 md:pb-2">
+      <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 pt-2 md:pt-4 pb-2 md:pb-2">
         <div className="flex justify-center mb-3">
           <RotatingSpeechBubble messages={SPOT_BUBBLES} />
         </div>
@@ -412,48 +419,55 @@ export default function HomePage() {
             縁結びや心を整えたい日に。行きやすい神社を、編集部が選びました。
           </p>
         </div>
-        <div className="grid gap-4 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] lg:items-stretch">
-          <ol className="grid gap-2">
-            {SPOT_TOP5.map((spot, i) => (
-              <li key={spot.slug}>
-                <Link prefetch={false} href={`/blog/${spot.slug}/`} className="group flex items-center gap-3 rounded-2xl border-2 border-emerald-200 bg-gradient-to-br from-emerald-50 via-white to-teal-50 px-3 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 hover:border-emerald-400 transition-all duration-300">
-                  <span className="text-2xl shrink-0 w-8 text-center drop-shadow-sm" aria-hidden="true">{SPOT_RANK_BADGE[i]}</span>
-                  <img
-                    src={`/images/ranking/${spot.img}.webp`}
-                    alt={`${spot.name}の水彩イラスト`}
-                    width="320"
-                    height="320"
-                    loading="lazy"
-                    decoding="async"
-                    className="w-14 h-14 md:w-16 md:h-16 rounded-xl object-cover shrink-0 border border-emerald-100"
-                  />
-                  <div className="min-w-0">
-                    <div className="text-xs font-extrabold text-emerald-700">{i + 1}位</div>
-                    <h3 className="font-display text-base md:text-lg font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
-                      {spot.name}
-                    </h3>
-                    <p className="text-xs md:text-sm text-ink-700 leading-snug">{spot.hook}</p>
-                  </div>
-                </Link>
-              </li>
-            ))}
+        <div className="grid gap-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] lg:gap-12 lg:items-stretch">
+          <ol className="grid gap-3">
+            {SPOT_TOP5.map((spot, i) => {
+              const st = SPOT_RANK_STYLES[i];
+              return (
+                <li key={spot.slug}>
+                  <Link prefetch={false} href={`/blog/${spot.slug}/`} className={`group flex items-center gap-4 rounded-2xl border-2 bg-gradient-to-br ${st.box} px-4 py-3 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-300`}>
+                    <span className="text-3xl shrink-0 w-9 text-center drop-shadow-sm" aria-hidden="true">{SPOT_RANK_BADGE[i]}</span>
+                    <img
+                      src={`/images/ranking/${spot.img}.webp`}
+                      alt={`${spot.name}の水彩イラスト`}
+                      width="320"
+                      height="320"
+                      loading="lazy"
+                      decoding="async"
+                      className={`w-16 h-16 rounded-xl object-cover shrink-0 border ${st.img}`}
+                    />
+                    <div className="min-w-0">
+                      <div className={`text-xs font-extrabold ${st.text}`}>{i + 1}位</div>
+                      <h3 className={`font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug ${st.hover} transition-colors`}>
+                        {spot.name}
+                      </h3>
+                      <p className="text-xs md:text-sm text-ink-700 leading-snug">{spot.hook}</p>
+                    </div>
+                  </Link>
+                </li>
+              );
+            })}
           </ol>
-          <div className="grid grid-cols-2 lg:grid-rows-3 gap-2">
-            {SPOT_HUBS.map((h) => (
-              <Link prefetch={false} key={h.slug} href={`/blog/${h.slug}/`} className="group flex flex-col overflow-hidden rounded-2xl border-2 border-emerald-200 bg-white hover:border-emerald-400 shadow-sm hover:shadow-md transition-all duration-300">
-                <img
-                  src={`/images/cards/${h.slug}-wide.webp`}
-                  alt={`${h.label.replace(/^\S+\s/, '')}のパワースポット神社まとめ`}
-                  width="1290"
-                  height="600"
-                  loading="lazy"
-                  decoding="async"
-                  className="w-full aspect-[1290/600] object-cover transition-transform duration-500 group-hover:scale-105"
-                />
-                <span className="flex-1 flex items-center justify-center px-2 py-1.5 text-sm font-extrabold text-emerald-800 bg-emerald-50 group-hover:bg-emerald-100 transition-colors">
-                  {h.label} <span aria-hidden="true" className="ml-1">→</span>
-                </span>
-              </Link>
+          <div className="flex flex-col gap-4 lg:gap-8 lg:justify-between">
+            {[SPOT_HUBS.slice(0, 2), SPOT_HUBS.slice(2)].map((group, gi) => (
+              <div key={gi} className="grid grid-cols-2 gap-3">
+                {group.map((h) => (
+                  <Link prefetch={false} key={h.slug} href={`/blog/${h.slug}/`} className={`group flex flex-col overflow-hidden rounded-2xl border-2 bg-white ${h.box} shadow-sm hover:shadow-md transition-all duration-300`}>
+                    <img
+                      src={`/images/cards/${h.slug}-wide.webp`}
+                      alt={`${h.label.replace(/^\S+\s/, '')}のパワースポット神社まとめ`}
+                      width="1290"
+                      height="600"
+                      loading="lazy"
+                      decoding="async"
+                      className="w-full aspect-[1290/600] object-cover"
+                    />
+                    <span className={`flex-1 flex items-center justify-center px-2 py-2 text-sm font-extrabold transition-colors ${h.bar}`}>
+                      {h.label} <span aria-hidden="true" className="ml-1">→</span>
+                    </span>
+                  </Link>
+                ))}
+              </div>
             ))}
           </div>
         </div>
