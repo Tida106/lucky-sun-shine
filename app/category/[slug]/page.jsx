@@ -5,6 +5,8 @@ import RecommendSns from '@/components/RecommendSns';
 import CategoryIcon from '@/components/CategoryIcon';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import Sidebar from '@/components/Sidebar';
+import CategoryGuideNav from '@/components/CategoryGuideNav';
+import LoadMoreGrid from '@/components/LoadMoreGrid';
 import { categories, getCategory, categorySlugs } from '@/lib/categories';
 import { getPostsByCategory } from '@/lib/posts';
 import { site } from '@/lib/site';
@@ -115,6 +117,8 @@ export default async function CategoryPage({ params }) {
             </Link>
           )}
 
+          <CategoryGuideNav slug={slug} />
+
           <div className="flex items-end justify-between mb-6">
             <h2 className="font-display text-xl font-bold">記事一覧</h2>
             <span className="text-sm text-ink-500">{posts.length} 記事</span>
@@ -122,11 +126,11 @@ export default async function CategoryPage({ params }) {
           {posts.length === 0 ? (
             <p className="text-ink-500 text-sm">このカテゴリの記事は準備中です。</p>
           ) : (
-            <div className="grid gap-5 sm:grid-cols-2">
+            <LoadMoreGrid className="grid gap-5 sm:grid-cols-2" initial={12} step={12}>
               {posts.map((p) => (
                 <PostCard key={p.slug} post={p} />
               ))}
-            </div>
+            </LoadMoreGrid>
           )}
 
           {slug === 'luck-habits' && <RecommendSns />}
