@@ -118,19 +118,19 @@ const SPOT_TOP5 = [
   { slug: 'itsukushima-jinja', img: 'spot-itsukushima', name: '厳島神社', hook: '祭神は三女神。海に立つ大鳥居が人気' },
 ];
 const SPOT_RANK_STYLES = [
-  { box: 'border-yellow-300 hover:border-yellow-500 from-yellow-50 via-white to-amber-50', text: 'text-yellow-700', hover: 'group-hover:text-yellow-700', img: 'border-yellow-100' },
-  { box: 'border-red-300 hover:border-red-500 from-red-50 via-white to-rose-50', text: 'text-red-700', hover: 'group-hover:text-red-700', img: 'border-red-100' },
-  { box: 'border-sky-300 hover:border-sky-500 from-sky-50 via-white to-blue-50', text: 'text-sky-700', hover: 'group-hover:text-sky-700', img: 'border-sky-100' },
-  { box: 'border-violet-300 hover:border-violet-500 from-violet-50 via-white to-purple-50', text: 'text-violet-700', hover: 'group-hover:text-violet-700', img: 'border-violet-100' },
-  { box: 'border-lime-300 hover:border-lime-500 from-lime-50 via-white to-green-50', text: 'text-lime-700', hover: 'group-hover:text-lime-700', img: 'border-lime-100' },
+  { box: 'border-yellow-400 hover:border-yellow-600 from-yellow-100 via-yellow-50 to-white', text: 'text-yellow-800', hover: 'group-hover:text-yellow-800', img: 'border-yellow-200' },
+  { box: 'border-red-400 hover:border-red-600 from-red-100 via-red-50 to-white', text: 'text-red-800', hover: 'group-hover:text-red-800', img: 'border-red-200' },
+  { box: 'border-sky-400 hover:border-sky-600 from-sky-100 via-sky-50 to-white', text: 'text-sky-800', hover: 'group-hover:text-sky-800', img: 'border-sky-200' },
+  { box: 'border-violet-400 hover:border-violet-600 from-violet-100 via-violet-50 to-white', text: 'text-violet-800', hover: 'group-hover:text-violet-800', img: 'border-violet-200' },
+  { box: 'border-lime-400 hover:border-lime-600 from-lime-100 via-lime-50 to-white', text: 'text-lime-800', hover: 'group-hover:text-lime-800', img: 'border-lime-200' },
 ];
 const SPOT_HUBS = [
-  { slug: 'shrine-kinun-guide', label: '💰 金運アップ', box: 'border-orange-300 hover:border-orange-500', bar: 'bg-orange-50 group-hover:bg-orange-100 text-orange-800' },
-  { slug: 'shrine-enmusubi-guide', label: '💕 ご縁・縁結び', box: 'border-pink-300 hover:border-pink-500', bar: 'bg-pink-50 group-hover:bg-pink-100 text-pink-800' },
-  { slug: 'shrine-kanto-guide', label: '🗼 関東', box: 'border-indigo-300 hover:border-indigo-500', bar: 'bg-indigo-50 group-hover:bg-indigo-100 text-indigo-800' },
-  { slug: 'shrine-chubu-guide', label: '🏔️ 中部', box: 'border-emerald-300 hover:border-emerald-500', bar: 'bg-emerald-50 group-hover:bg-emerald-100 text-emerald-800' },
-  { slug: 'shrine-kansai-guide', label: '🏯 関西', box: 'border-teal-300 hover:border-teal-500', bar: 'bg-teal-50 group-hover:bg-teal-100 text-teal-800' },
-  { slug: 'shrine-kyushu-guide', label: '🌺 九州・沖縄', box: 'border-fuchsia-300 hover:border-fuchsia-500', bar: 'bg-fuchsia-50 group-hover:bg-fuchsia-100 text-fuchsia-800' },
+  { slug: 'shrine-kinun-guide', label: '💰 金運アップ', box: 'border-orange-400 hover:border-orange-600', bar: 'bg-orange-100 group-hover:bg-orange-200 text-orange-900' },
+  { slug: 'shrine-enmusubi-guide', label: '💕 ご縁・縁結び', box: 'border-pink-400 hover:border-pink-600', bar: 'bg-pink-100 group-hover:bg-pink-200 text-pink-900' },
+  { slug: 'shrine-kanto-guide', label: '🗼 関東', box: 'border-indigo-400 hover:border-indigo-600', bar: 'bg-indigo-100 group-hover:bg-indigo-200 text-indigo-900' },
+  { slug: 'shrine-chubu-guide', label: '🏔️ 中部', box: 'border-emerald-400 hover:border-emerald-600', bar: 'bg-emerald-100 group-hover:bg-emerald-200 text-emerald-900' },
+  { slug: 'shrine-kansai-guide', label: '🏯 関西', box: 'border-teal-400 hover:border-teal-600', bar: 'bg-teal-100 group-hover:bg-teal-200 text-teal-900' },
+  { slug: 'shrine-kyushu-guide', label: '🌺 九州・沖縄', box: 'border-stone-400 hover:border-stone-600', bar: 'bg-stone-100 group-hover:bg-stone-200 text-stone-900' },
 ];
 const SPOT_BUBBLES = [
   'あなたに会いたい神社が、きっとあるよ✨',
