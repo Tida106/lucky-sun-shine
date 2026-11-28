@@ -197,13 +197,13 @@ export default function HomePage() {
             className="w-full h-full object-cover object-center select-none"
           />
         </picture>
-        {/* Readability overlay — 80–85% white veil keeps amber/ink type legible */}
+        {/* Readability overlay — 60–70% white veil keeps amber/ink type legible */}
         <div
           aria-hidden="true"
-          className="absolute inset-0 -z-10 bg-gradient-to-b from-white/85 via-white/80 to-white/85"
+          className="absolute inset-0 -z-10 bg-gradient-to-b from-white/70 via-white/60 to-white/70"
         />
         <div className="max-w-6xl mx-auto px-4 pt-6 pb-10 md:pt-10 md:pb-14 text-center">
-          <p className="inline-flex items-center justify-center gap-3 text-amber-800 tracking-[0.3em] text-xs md:text-sm font-bold">
+          <p className="inline-flex items-center justify-center gap-3 text-amber-700 tracking-[0.3em] text-xs md:text-sm font-bold">
             <SunOrnament className="w-4 h-4 text-amber-500" />
             <span>LUCKY SUN SHINE</span>
             <SunOrnament className="w-4 h-4 text-amber-500" />
@@ -227,7 +227,7 @@ export default function HomePage() {
               priority
               alt="太陽ちゃん（GOOD MORNING!）"
             />
-            <div className="space-y-2 font-display font-bold text-amber-800 leading-snug text-left">
+            <div className="space-y-2 font-display font-bold text-amber-700 leading-snug text-left">
               <p className="text-lg md:text-2xl">気分が上がれば、運気も上がる！</p>
               <p className="text-lg md:text-2xl">あなたは、絶対運がいい！</p>
             </div>
