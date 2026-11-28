@@ -12,7 +12,8 @@ tags:
   - 合格祈願
   - 戀愛籤
 slug: "namba-yasaka-jinja"
-draft: true
+cover: "/images/posts/namba-yasaka-jinja.jpg"
+draft: false
 ---
 
 ## 前言
@@ -69,6 +70,11 @@ draft: true
 原本是神佛習合的神社，據說神宮寺與眾多塔頭並列。明治時代的神佛分離使寺院沒落，1872年（明治5年）成為鄉社。之後社殿毀於戰火，**現在的本殿於1974年（昭和49年）完工**。
 
 當時一同建在本殿西側的就是**獅子殿**。以這一帶自古盛行的驅邪獅舞為主題，據說是抱著「打造讓大阪人驚豔的神社象徵」的想法而建。內部供奉神明，正面部分是**舞台**，可以向神明奉納神樂與獅舞。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-zenkei-1200.webp" srcset="/images/posts/namba-yasaka-zenkei-639.webp 639w, /images/posts/namba-yasaka-zenkei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="960" loading="lazy" decoding="async" alt="難波八阪神社獅子殿全景">
+<figcaption>獅子殿全景。嘴裡的舞台、左右的燈籠與周圍的樹木都入鏡。 照片: サトミー/<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">photoAC</a> （已調整尺寸）</figcaption>
+</figure>
 
 ## <span id="benefit"></span>前往參拜可獲得的事物（據說的御利益）
 
@@ -142,6 +148,11 @@ draft: true
 <figure class="photo">
 <img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="畫有兩個獅舞獅子頭的難波八阪神社繪馬">
 <figcaption>畫著獅舞獅子頭的繪馬。金色的鬃毛在綠色與紅色背景中十分醒目。 照片: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> （已調整尺寸） （以相同授權條款提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-emawall-1200.webp" srcset="/images/posts/namba-yasaka-emawall-639.webp 639w, /images/posts/namba-yasaka-emawall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="難波八阪神社懸掛成排的繪馬">
+<figcaption>整排懸掛的繪馬。以各種語言寫下的願望，可見參拜者來自日本國內外。 照片: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> （已調整尺寸） （以相同授權條款提供）</figcaption>
 </figure>
 
 人氣授與品有時數量有限。如果有想要的東西，建議在上午較早的時段前往。

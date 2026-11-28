@@ -12,7 +12,8 @@ tags:
   - ขอพรสอบผ่าน
   - เซียมซีความรัก
 slug: "namba-yasaka-jinja"
-draft: true
+cover: "/images/posts/namba-yasaka-jinja.jpg"
+draft: false
 ---
 
 ## บทนำ
@@ -69,6 +70,11 @@ draft: true
 เดิมเป็นสถานที่ผสมผสานชินโตกับพุทธ มีวัดประจำศาลเจ้าและอารามย่อยจำนวนมาก เมื่อมีการแยกชินโตกับพุทธในสมัยเมจิ วัดก็เสื่อมลง และในปี ค.ศ. 1872 ศาลเจ้าได้เป็น "โกชะ" (ศาลเจ้าระดับท้องถิ่น) หลังจากอาคารสูญหายไปในช่วงสงคราม **ศาลาหลักในปัจจุบันสร้างเสร็จในปี ค.ศ. 1974**
 
 **ศาลาสิงโต** ถูกสร้างขึ้นพร้อมกันทางด้านตะวันตกของศาลาหลัก โดยใช้การเชิดสิงโตขับไล่สิ่งชั่วร้ายที่นิยมกันในย่านนี้มาแต่โบราณเป็นแรงบันดาลใจ และมีคำอธิบายว่าสร้างด้วยความคิดที่จะทำสัญลักษณ์ของศาลเจ้าที่ทำให้ชาวโอซาก้าต้องทึ่ง ภายในประดิษฐานเทพเจ้า ส่วนด้านหน้าเป็น **เวที** ที่ถวายการแสดงคางุระและการเชิดสิงโตแด่เทพเจ้าได้
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-zenkei-1200.webp" srcset="/images/posts/namba-yasaka-zenkei-639.webp 639w, /images/posts/namba-yasaka-zenkei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="960" loading="lazy" decoding="async" alt="ภาพรวมทั้งหมดของศาลาสิงโตศาลเจ้าแนมบะยาซากะ">
+<figcaption>ภาพรวมทั้งหมดของศาลาสิงโต เห็นทั้งเวทีในปาก โคมหินสองข้าง และต้นไม้รอบๆ ภาพ: サトミー/<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">photoAC</a> (ปรับขนาด)</figcaption>
+</figure>
 
 ## <span id="benefit"></span>สิ่งที่คนมักมาขอพร
 
@@ -142,6 +148,11 @@ draft: true
 <figure class="photo">
 <img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="เอมะของศาลเจ้าแนมบะยาซากะที่มีลายหัวสิงโตเชิดสองหัว">
 <figcaption>เอมะที่มีลายหัวสิงโตเชิด แผงคอสีทองโดดเด่นบนพื้นหลังสีเขียวและสีแดง ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-emawall-1200.webp" srcset="/images/posts/namba-yasaka-emawall-639.webp 639w, /images/posts/namba-yasaka-emawall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="เอมะที่แขวนเรียงรายอยู่ที่ศาลเจ้าแนมบะยาซากะ">
+<figcaption>เอมะที่แขวนเรียงรายกัน คำอธิษฐานที่เขียนด้วยหลายภาษา แสดงว่ามีผู้มาไหว้ทั้งจากในและนอกประเทศ ภาพ: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (ปรับขนาด) (เผยแพร่ภายใต้สัญญาอนุญาตเดียวกัน)</figcaption>
 </figure>
 
 ของยอดนิยมอาจมีจำนวนจำกัด หากมีของที่อยากได้ แนะนำให้ไปช่วงเช้า

@@ -17,7 +17,8 @@ viatorSpots:
     query: "Namba Yasaka Shrine Osaka"
   - name: "Dotonbori"
     query: "Dotonbori Osaka"
-draft: true
+cover: "/images/posts/namba-yasaka-jinja.jpg"
+draft: false
 ---
 
 ## Introduction
@@ -74,6 +75,11 @@ The shrine has long been called "**Naniwa Shimo-no-Miya**" and has been loved as
 It was originally a combined Shinto-Buddhist site with a temple and many sub-temples. After the Meiji-era separation of Shinto and Buddhism the temple declined, and in 1872 the shrine became a village-rank shrine. After the buildings were lost in wartime, **the current main hall was completed in 1974**.
 
 The **Lion Hall** was built beside it, to the west of the main hall, at the same time. Its theme is the local lion dance that has long been used to ward off evil, and it is described as an attempt to create a shrine symbol that would surprise people in Osaka. Deities are enshrined inside, and the front is a **stage** for offering kagura and lion dances.
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-zenkei-1200.webp" srcset="/images/posts/namba-yasaka-zenkei-639.webp 639w, /images/posts/namba-yasaka-zenkei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="960" loading="lazy" decoding="async" alt="The whole Lion Hall of Namba Yasaka Shrine">
+<figcaption>The whole Lion Hall, including the stage inside its mouth, the lanterns on both sides and the trees around it. Photo: サトミー/<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">photoAC</a> (resized)</figcaption>
+</figure>
 
 ## <span id="benefit"></span>What people visit for
 
@@ -147,6 +153,11 @@ Some **ema (votive plaques)** are printed with two lion-dance heads side by side
 <figure class="photo">
 <img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="Ema votive plaque of Namba Yasaka Shrine with two lion-dance heads">
 <figcaption>An ema with lion-dance heads. The golden manes stand out against green and red backgrounds. Photo: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-emawall-1200.webp" srcset="/images/posts/namba-yasaka-emawall-639.webp 639w, /images/posts/namba-yasaka-emawall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="Rows of ema votive plaques at Namba Yasaka Shrine">
+<figcaption>Ema hung in rows. Wishes written in many languages show that visitors come from Japan and abroad. Photo: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (resized) (shared under the same license)</figcaption>
 </figure>
 
 Popular items may run out. Going in the morning is safer if you have something particular in mind.

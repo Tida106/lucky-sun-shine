@@ -12,7 +12,9 @@ tags:
   - 合格祈願
   - 恋みくじ
 slug: "namba-yasaka-jinja"
-draft: true
+cardImage: "/images/cards/namba-yasaka-jinja-wide.webp"
+cover: "/images/posts/namba-yasaka-jinja.jpg"
+draft: false
 ---
 
 ## はじめに
@@ -69,6 +71,11 @@ draft: true
 もとは神仏習合の社で、神宮寺や多くの塔頭が並んでいたと言われます。明治の神仏分離でお寺は廃れ、1872年（明治5年）に郷社となりました。その後、戦災で社殿を失い、**現在の本殿は1974年（昭和49年）に完成** しています。
 
 このとき、本殿の西側に一緒に建てられたのが **獅子殿** です。この地域で昔から盛んだった魔除けの獅子舞をモチーフに、「大阪の人があっと驚く神社の象徴をつくろう」という思いでつくられたと紹介されています。内部には神様をまつり、正面の部分は **舞台** になっていて、神楽や獅子舞を神様に奉納できる造りです。
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-zenkei-1200.webp" srcset="/images/posts/namba-yasaka-zenkei-639.webp 639w, /images/posts/namba-yasaka-zenkei-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="960" loading="lazy" decoding="async" alt="難波八阪神社の獅子殿の全景">
+<figcaption>獅子殿の全景。口の中の舞台と、左右の灯籠、周りの木々まで入った一枚です。 写真: サトミー/<a href="https://www.photo-ac.com/" rel="noopener" target="_blank">photoAC</a> （リサイズ）</figcaption>
+</figure>
 
 ## <span id="benefit"></span>訪れて得られるもの（ご利益とされること）
 
@@ -142,6 +149,11 @@ draft: true
 <figure class="photo">
 <img src="/images/posts/namba-yasaka-ema-1200.webp" srcset="/images/posts/namba-yasaka-ema-639.webp 639w, /images/posts/namba-yasaka-ema-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="774" loading="lazy" decoding="async" alt="獅子舞の獅子頭が2つ描かれた難波八阪神社の絵馬">
 <figcaption>獅子舞の獅子頭が描かれた絵馬。緑と赤の背景に、金色のたてがみが映えます。 写真: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> （リサイズ） （同じライセンスで提供）</figcaption>
+</figure>
+
+<figure class="photo">
+<img src="/images/posts/namba-yasaka-emawall-1200.webp" srcset="/images/posts/namba-yasaka-emawall-639.webp 639w, /images/posts/namba-yasaka-emawall-1200.webp 1200w" sizes="(min-width: 768px) 720px, 100vw" width="1200" height="800" loading="lazy" decoding="async" alt="絵馬掛けに並んだたくさんの絵馬">
+<figcaption>絵馬がずらりと掛けられた絵馬掛け。さまざまな言語で書かれた願いごとが並び、国内外から参拝者が訪れていることがわかります。 写真: <a href="https://commons.wikimedia.org/wiki/User:Ethan_Doyle_White" rel="noopener" target="_blank">Ethan Doyle White</a>/Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> （リサイズ） （同じライセンスで提供）</figcaption>
 </figure>
 
 人気の授与品は、数に限りがある場合もあります。気になるものがあれば、午前中の早い時間帯に訪れると安心です。
