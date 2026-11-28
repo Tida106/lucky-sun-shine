@@ -130,7 +130,7 @@ const SPOT_HUBS = [
   { slug: 'shrine-kanto-guide', label: '🗼 関東', box: 'border-indigo-400 hover:border-indigo-600', bar: 'bg-indigo-100 group-hover:bg-indigo-200 text-indigo-900' },
   { slug: 'shrine-chubu-guide', label: '🏔️ 中部', box: 'border-emerald-400 hover:border-emerald-600', bar: 'bg-emerald-100 group-hover:bg-emerald-200 text-emerald-900' },
   { slug: 'shrine-kansai-guide', label: '🏯 関西', box: 'border-blue-700 hover:border-blue-900', bar: 'bg-blue-200 group-hover:bg-blue-300 text-blue-900' },
-  { slug: 'shrine-kyushu-guide', label: '🌺 九州・沖縄', box: 'border-stone-400 hover:border-stone-600', bar: 'bg-stone-100 group-hover:bg-stone-200 text-stone-900' },
+  { slug: 'shrine-kyushu-guide', label: '🌺 九州・沖縄', box: 'border-yellow-500 hover:border-yellow-700', bar: 'bg-yellow-200 group-hover:bg-yellow-300 text-yellow-900' },
 ];
 const SPOT_BUBBLES = [
   'あなたに会いたい神社が、きっとあるよ✨',
