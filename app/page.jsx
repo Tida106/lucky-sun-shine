@@ -362,6 +362,30 @@ export default function HomePage() {
               良い気を呼び込み悪い気を防ぐ。目的別の選び方から置き方まで。
             </p>
           </Link>
+
+          {/* 🔮 6枠目: 2027年の運勢 */}
+          <Link prefetch={false} href="/blog/lucky-stones-2027" className="group block rounded-2xl border-2 border-violet-300 bg-gradient-to-br from-violet-50 via-fuchsia-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🔮</span><span className="text-sm font-extrabold text-violet-700">NEW</span></div>
+            <div className="text-[11px] font-bold tracking-widest text-violet-700 mb-1">来年に備える一本</div>
+            <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-violet-700 transition-colors">
+              2027年の運勢と開運パワーストーン
+            </h3>
+            <p className="mt-3 text-sm text-ink-700 leading-relaxed">
+              未年・九紫火星中宮の年に寄り添う石の選び方をまとめました。
+            </p>
+          </Link>
+        </div>
+        <div className="mt-8 text-center">
+          <Link prefetch={false} href="/category/powerstones/" className="inline-flex items-center gap-1 text-sm md:text-base font-bold text-amber-700 hover:underline">
+            パワーストーンの記事をもっと見る
+            <span aria-hidden="true">→</span>
+          </Link>
+          <div className="mt-4 flex flex-wrap justify-center gap-2">
+            <Link prefetch={false} href="/category/powerstones/" className="rounded-full bg-white border border-amber-300 px-4 py-1.5 text-sm text-amber-800 hover:bg-amber-50 transition-colors">💎 パワーストーン</Link>
+            <Link prefetch={false} href="/category/powerspots/" className="rounded-full bg-white border border-emerald-300 px-4 py-1.5 text-sm text-emerald-700 hover:bg-emerald-50 transition-colors">⛩️ パワースポット</Link>
+            <Link prefetch={false} href="/category/lucky-goods/" className="rounded-full bg-white border border-orange-300 px-4 py-1.5 text-sm text-orange-700 hover:bg-orange-50 transition-colors">🍀 開運グッズ</Link>
+            <Link prefetch={false} href="/category/luck-habits/" className="rounded-full bg-white border border-sky-300 px-4 py-1.5 text-sm text-sky-700 hover:bg-sky-50 transition-colors">🌅 運気アップ習慣</Link>
+          </div>
         </div>
       </ScrollReveal>
 
