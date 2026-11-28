@@ -303,6 +303,8 @@ export default function HomePage() {
         </div>
       </div>
 
+      <SunDivider />
+
       {/* 🔥 2. 今週の急上昇ランキング（間に挟んで視線をリセットさせる） */}
       <ScrollReveal as="section" className="max-w-6xl mx-auto px-4 py-8 md:py-12">
         <div className="flex justify-center mb-4">
