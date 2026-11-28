@@ -117,6 +117,14 @@ const SPOT_TOP5 = [
   { slug: 'meiji-jingu', img: 'spot-meiji-jingu', name: '明治神宮', hook: '都会の森で、心を整える' },
   { slug: 'itsukushima-jinja', img: 'spot-itsukushima', name: '厳島神社', hook: '祭神は三女神。海に立つ大鳥居が人気' },
 ];
+const SPOT_HUBS = [
+  { slug: 'shrine-kinun-guide', label: '💰 金運アップ' },
+  { slug: 'shrine-enmusubi-guide', label: '💕 ご縁・縁結び' },
+  { slug: 'shrine-kanto-guide', label: '🗼 関東' },
+  { slug: 'shrine-chubu-guide', label: '🏔️ 中部' },
+  { slug: 'shrine-kansai-guide', label: '🏯 関西' },
+  { slug: 'shrine-kyushu-guide', label: '🌺 九州・沖縄' },
+];
 const SPOT_BUBBLES = [
   'あなたに会いたい神社が、きっとあるよ✨',
   '今日の一歩が、いい運につながるよ⛩️',
@@ -364,7 +372,7 @@ export default function HomePage() {
           </Link>
 
           {/* 🔮 6枠目: 2027年の運勢 */}
-          <Link prefetch={false} href="/blog/lucky-stones-2027" className="group block rounded-2xl border-2 border-violet-300 bg-gradient-to-br from-violet-50 via-fuchsia-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          <Link prefetch={false} href="/blog/lucky-stones-2027" className="group block rounded-2xl border-4 border-violet-500 bg-gradient-to-br from-violet-50 via-fuchsia-50 to-rose-50 p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <div className="flex items-center gap-2 mb-3"><span className="text-4xl drop-shadow-sm">🔮</span><span className="text-sm font-extrabold text-violet-700">NEW</span></div>
             <div className="text-[11px] font-bold tracking-widest text-violet-700 mb-1">来年に備える一本</div>
             <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-violet-700 transition-colors">
@@ -391,45 +399,65 @@ export default function HomePage() {
 
       <SunDivider />
 
-      {/* ⛩️ パワースポット TOP5（定番の人気記事の直下。パワースポット記事への入口） */}
-      <ScrollReveal as="section" className="max-w-3xl mx-auto px-4 pt-2 md:pt-4 pb-2 md:pb-2">
-        <div className="flex justify-center mb-4">
+      {/* ⛩️ まず行きたいパワースポット（左: ランキング5位 / 右: 目的・エリア別ハブ） */}
+      <ScrollReveal as="section" className="max-w-5xl mx-auto px-4 pt-2 md:pt-4 pb-2 md:pb-2">
+        <div className="flex justify-center mb-3">
           <RotatingSpeechBubble messages={SPOT_BUBBLES} />
         </div>
-        <div className="text-center mb-8">
-          <h2 className="mt-2 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
-            ⛩️ まず行きたい！パワースポット TOP5
+        <div className="text-center mb-5">
+          <h2 className="mt-1 font-display text-2xl md:text-3xl font-extrabold text-ink-900">
+            ⛩️ まず行きたいパワースポット
           </h2>
-          <p className="mt-3 text-sm md:text-base text-ink-700">
+          <p className="mt-2 text-sm md:text-base text-ink-700">
             縁結びや心を整えたい日に。行きやすい神社を、編集部が選びました。
           </p>
         </div>
-        <ol className="space-y-3 md:space-y-4">
-          {SPOT_TOP5.map((spot, i) => (
-            <li key={spot.slug}>
-              <Link prefetch={false} href={`/blog/${spot.slug}/`} className="group flex items-center gap-4 rounded-2xl border-2 border-emerald-200 bg-gradient-to-br from-emerald-50 via-white to-teal-50 p-3 md:p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 hover:border-emerald-400 transition-all duration-300">
-                <span className="text-3xl md:text-4xl shrink-0 w-10 text-center drop-shadow-sm" aria-hidden="true">{SPOT_RANK_BADGE[i]}</span>
+        <div className="grid gap-4 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)] lg:items-stretch">
+          <ol className="grid gap-2">
+            {SPOT_TOP5.map((spot, i) => (
+              <li key={spot.slug}>
+                <Link prefetch={false} href={`/blog/${spot.slug}/`} className="group flex items-center gap-3 rounded-2xl border-2 border-emerald-200 bg-gradient-to-br from-emerald-50 via-white to-teal-50 px-3 py-2 shadow-sm hover:shadow-md hover:-translate-y-0.5 hover:border-emerald-400 transition-all duration-300">
+                  <span className="text-2xl shrink-0 w-8 text-center drop-shadow-sm" aria-hidden="true">{SPOT_RANK_BADGE[i]}</span>
+                  <img
+                    src={`/images/ranking/${spot.img}.webp`}
+                    alt={`${spot.name}の水彩イラスト`}
+                    width="320"
+                    height="320"
+                    loading="lazy"
+                    decoding="async"
+                    className="w-14 h-14 md:w-16 md:h-16 rounded-xl object-cover shrink-0 border border-emerald-100"
+                  />
+                  <div className="min-w-0">
+                    <div className="text-xs font-extrabold text-emerald-700">{i + 1}位</div>
+                    <h3 className="font-display text-base md:text-lg font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
+                      {spot.name}
+                    </h3>
+                    <p className="text-xs md:text-sm text-ink-700 leading-snug">{spot.hook}</p>
+                  </div>
+                </Link>
+              </li>
+            ))}
+          </ol>
+          <div className="grid grid-cols-2 lg:grid-rows-3 gap-2">
+            {SPOT_HUBS.map((h) => (
+              <Link prefetch={false} key={h.slug} href={`/blog/${h.slug}/`} className="group flex flex-col overflow-hidden rounded-2xl border-2 border-emerald-200 bg-white hover:border-emerald-400 shadow-sm hover:shadow-md transition-all duration-300">
                 <img
-                  src={`/images/ranking/${spot.img}.webp`}
-                  alt={`${spot.name}の水彩イラスト`}
-                  width="320"
-                  height="320"
+                  src={`/images/cards/${h.slug}-wide.webp`}
+                  alt={`${h.label.replace(/^\S+\s/, '')}のパワースポット神社まとめ`}
+                  width="1290"
+                  height="600"
                   loading="lazy"
                   decoding="async"
-                  className="w-20 h-20 md:w-24 md:h-24 rounded-xl object-cover shrink-0 border border-emerald-100"
+                  className="w-full aspect-[1290/600] object-cover transition-transform duration-500 group-hover:scale-105"
                 />
-                <div className="min-w-0">
-                  <div className="text-xs font-extrabold text-emerald-700">{i + 1}位</div>
-                  <h3 className="font-display text-lg md:text-xl font-extrabold text-ink-900 leading-snug group-hover:text-emerald-700 transition-colors">
-                    {spot.name}
-                  </h3>
-                  <p className="mt-1 text-sm text-ink-700 leading-relaxed">{spot.hook}</p>
-                </div>
+                <span className="flex-1 flex items-center justify-center px-2 py-1.5 text-sm font-extrabold text-emerald-800 bg-emerald-50 group-hover:bg-emerald-100 transition-colors">
+                  {h.label} <span aria-hidden="true" className="ml-1">→</span>
+                </span>
               </Link>
-            </li>
-          ))}
-        </ol>
-        <div className="mt-6 text-center">
+            ))}
+          </div>
+        </div>
+        <div className="mt-5 text-center">
           <Link prefetch={false} href="/category/powerspots/" className="inline-flex items-center gap-1 text-sm md:text-base font-bold text-emerald-700 hover:underline">
             パワースポットをもっと見る
             <span aria-hidden="true">→</span>
