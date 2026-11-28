@@ -182,7 +182,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="relative overflow-hidden isolate">
         {/* レスポンシブ背景画像: 480w=27KB / 640w=47KB / 960w=102KB / 1376w=238KB */}
-        <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none">
+        <picture aria-hidden="true" className="absolute inset-0 -z-10 pointer-events-none opacity-60">
           <source media="(max-width: 480px)"  srcSet="/images/hero-crystals-480.webp" type="image/webp" />
           <source media="(max-width: 640px)"  srcSet="/images/hero-crystals-640.webp" type="image/webp" />
           <source media="(max-width: 960px)"  srcSet="/images/hero-crystals-960.webp" type="image/webp" />
@@ -197,11 +197,6 @@ export default function HomePage() {
             className="w-full h-full object-cover object-center select-none"
           />
         </picture>
-        {/* Readability overlay — 60–70% white veil keeps amber/ink type legible */}
-        <div
-          aria-hidden="true"
-          className="absolute inset-0 -z-10 bg-gradient-to-b from-white/70 via-white/60 to-white/70"
-        />
         <div className="max-w-6xl mx-auto px-4 pt-6 pb-10 md:pt-10 md:pb-14 text-center">
           <p className="inline-flex items-center justify-center gap-3 text-amber-700 tracking-[0.3em] text-xs md:text-sm font-bold">
             <SunOrnament className="w-4 h-4 text-amber-500" />
